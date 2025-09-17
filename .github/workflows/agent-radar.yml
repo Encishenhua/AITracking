@@ -1,19 +1,17 @@
-name: Build Agent Radar JSON
+name: Update Agent Radar JSON
 
 on:
   schedule:
-    - cron: "0 0 * * *"    # 每天 08:00 CST ≈ 00:00 UTC
+    - cron: "0 0 * * *"   # 每天 00:00 UTC
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
@@ -22,21 +20,28 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 feedparser pyyaml python-dateutil
 
-      - name: Build agent-radar.json
+      - name: Build & merge agent-radar.json
         run: |
-          python build_agent_radar.py --sources sources.yaml --out agent-radar.json --top 12
+          python scripts/build_agent_radar.py \
+            --sources scripts/sources.yaml \
+            --in data/agent-radar.json \
+            --out data/agent-radar.json \
+            --days 30 \
+            --top 60
 
       - name: Commit & push
         run: |
-          git config user.name "gh-actions"
+          git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add agent-radar.json
-          git commit -m "chore: update agent-radar.json [skip ci]" || echo "no changes"
+          git add data/agent-radar.json
+          git commit -m "chore: auto-update agent-radar.json" || echo "no changes"
           git push
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: (Optional) Slack notify
+      - name: (optional) Slack notify
         if: ${{ secrets.SLACK_WEBHOOK_URL != '' }}
         run: |
-          python build_agent_radar.py --sources sources.yaml --out /tmp/agent-radar.json --top 8 --notify "${{ secrets.SLACK_WEBHOOK_URL }}"
+          python scripts/build_agent_radar.py \
+            --sources scripts/sources.yaml \
+            --in data/agent-radar.json \
+            --out /tmp/agent-radar.json \
+            --notify "${{ secrets.SLACK_WEBHOOK_URL }}"
