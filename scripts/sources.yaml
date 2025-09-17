@@ -1,0 +1,104 @@
+vendors:
+  - name: OpenAI
+    feeds:
+      - https://openai.com/blog/rss.xml
+      - https://status.openai.com/history.rss
+    keywords: ["agent", "agents", "operator", "deep research", "responses api", "agents sdk", "rbac", "observability", "pricing", "deprecat"]
+    audience: "enterprise"
+    impact: 5
+    risk: 3
+
+  - name: Anthropic
+    feeds:
+      - https://docs.anthropic.com/en/release-notes/rss.xml
+      - https://www.anthropic.com/news/rss.xml
+    keywords: ["agent", "agents", "memory", "incognito", "mcp", "browser", "governance", "rbac", "pricing", "deprecat"]
+    audience: "enterprise"
+    impact: 4
+    risk: 3
+
+  - name: Google
+    feeds:
+      - https://cloud.google.com/blog/topics/ai-machine-learning/rss/
+      - https://cloud.google.com/feeds/products.xml
+    keywords: ["agent", "agent engine", "agent builder", "agentspace", "a2a", "governance", "rbac", "observability", "pricing", "ga", "deprecat"]
+    audience: "enterprise"
+    impact: 5
+    risk: 2
+
+  - name: Microsoft
+    feeds:
+      - https://learn.microsoft.com/api/feed/azure/ai/index.json
+      - https://techcommunity.microsoft.com/t5/ai-azure-ai/bg-p/AzureAIBlog
+    keywords: ["agent service", "agent", "copilot studio", "entra agent id", "rbac", "observability", "pricing", "ga", "deprecat"]
+    audience: "enterprise"
+    impact: 5
+    risk: 2
+
+  - name: AWS
+    feeds:
+      - https://aws.amazon.com/new/feed/
+      - https://aws.amazon.com/about-aws/whats-new/recent/feed/
+    keywords: ["bedrock", "agentcore", "agent", "observability", "identity", "pricing", "ga", "deprecat"]
+    audience: "enterprise"
+    impact: 5
+    risk: 3
+
+  - name: LangChain/LangGraph
+    feeds:
+      - https://blog.langchain.com/feed
+      - https://changelog.langchain.com/rss.xml
+    keywords: ["langgraph", "platform", "studio", "rbac", "observability", "ga", "pricing", "deprecat"]
+    audience: "dev"
+    impact: 4
+    risk: 2
+
+  - name: Flowise
+    feeds:
+      - https://github.com/FlowiseAI/Flowise/releases.atom
+    keywords: ["agent", "mcp", "auth", "governance", "breaking"]
+    audience: "dev"
+    impact: 3
+    risk: 3
+
+  - name: Dify
+    feeds:
+      - https://docs.dify.ai/changelog.xml
+    keywords: ["agent", "mcp", "workflow", "debugger", "rbac"]
+    audience: "dev"
+    impact: 3
+    risk: 2
+
+  - name: Dust
+    feeds:
+      - https://github.com/dust-tt/dust/releases.atom
+    keywords: ["agent", "workspace", "governance", "rbac"]
+    audience: "enterprise"
+    impact: 3
+    risk: 3
+
+  - name: CrewAI
+    feeds:
+      - https://github.com/crewAIInc/crewAI/releases.atom
+    keywords: ["agent", "multi-agent", "observability"]
+    audience: "dev"
+    impact: 3
+    risk: 3
+
+  - name: AutoGen
+    feeds:
+      - https://github.com/microsoft/autogen/releases.atom
+    keywords: ["agent", "workflow", "ga", "breaking"]
+    audience: "dev"
+    impact: 3
+    risk: 3
+
+  - name: IBM watsonx Orchestrate
+    feeds:
+      - https://www.ibm.com/blogs/research/feed/
+    keywords: ["agent", "orchestrate", "governance", "observability", "rbac", "ga", "pricing"]
+
+  - name: Reorchestrate
+    feeds:
+      - https://reorchestrate.ai/blog/rss.xml
+    keywords: ["agent", "workflow", "observability", "ga"]
