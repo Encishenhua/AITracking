@@ -148,6 +148,6 @@ def main():
             requests.post(args.notify, json=payload, timeout=10)
         except Exception:
             pass
-
+            
 if __name__ == "__main__":
     main()
