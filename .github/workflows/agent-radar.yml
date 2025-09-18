@@ -1,13 +1,18 @@
+# .github/workflows/agent-radar.yml
 name: Update Agent Radar JSON
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # 每天 00:00 UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write  # 允许 git push
+
     steps:
       - uses: actions/checkout@v4
 
@@ -38,10 +43,12 @@ jobs:
           git push
 
       - name: (optional) Slack notify
-        if: ${{ secrets.SLACK_WEBHOOK_URL != '' }}
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: |
+          # 为空则脚本不会发送
           python scripts/build_agent_radar.py \
             --sources scripts/sources.yaml \
             --in data/agent-radar.json \
             --out /tmp/agent-radar.json \
-            --notify "${{ secrets.SLACK_WEBHOOK_URL }}"
+            --notify "$SLACK_WEBHOOK_URL"
