@@ -1,6 +1,204 @@
 {
   "items": [
     {
+      "id": "2025-09-18-aws-second-generation-aws-outposts-racks-now-supported",
+      "date": "2025-09-18",
+      "name": "Second-generation AWS Outposts racks now supported in the AWS Canada (Central) and US West (N. California) Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Second-generation AWS Outposts racks are now supported in the AWS Canada (Central) and US West (N. California) Regions. Outposts racks extend AWS infrastructure, AWS services, APIs, and tools to virtually any on-premi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/second-generation-outposts-racks-canada-us-west-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-18-aws-amazon-vpc-reachability-analyzer-and-amazon-vpc-ne",
+      "date": "2025-09-18",
+      "name": "Amazon VPC Reachability Analyzer and Amazon VPC Network Access Analyzer are now available in seven additional AWS Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>With this launch, Amazon VPC Reachability Analyzer and Amazon VPC Network Access Analyzer are now available in Asia Pacific (New Zealand), Asia Pacific (Hyderabad), Asia Pacific (Melbourne), Asia Pacific (Taipei), Can",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-vpc-reachability-network-access-analyzer-seven-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-18-aws-amazon-q-developer-cli-announces-support-for-remot",
+      "date": "2025-09-18",
+      "name": "Amazon Q Developer CLI announces support for remote MCP servers",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Q Developer CLI announces support for remote MCP servers. Remote MCP servers improve scalability and security of the tools you use within your development tasks. Not only does it reduce the use of compute resou",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-q-developer-remote-mcp-servers/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-18-aws-stability-ai-image-services-now-available-in-amazo",
+      "date": "2025-09-18",
+      "name": "Stability AI Image Services now available in Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Bedrock announces the availability of Stability AI Image Services, a comprehensive suite of 9 specialized image editing tools designed to accelerate professional creative workflows. Stability AI Image Services ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/stability-ai-image-services-generally-available-amazon-bedrock"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-18-aws-aws-step-functions-expands-data-source-options-and",
+      "date": "2025-09-18",
+      "name": "AWS Step Functions expands data source options and improves observability for Distributed Map",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS Step Functions now supports additional data sources and new observability metrics for Distributed Map. <a href=\"https://aws.amazon.com/step-functions/\" target=\"_blank\">AWS Step Functions</a> is a visual workflow s",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-step-functions-data-source-options-observability-distributed-map"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-18-aws-deepseek-v3-1-model-now-available-fully-managed-in",
+      "date": "2025-09-18",
+      "name": "DeepSeek-V3.1 model now available fully managed in Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>DeepSeek-V3.1 is now available as a fully managed foundation model in Amazon Bedrock. This advanced open weight model allows you to switch between thinking mode for detailed step-by-step analysis and non-thinking mode",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/deepseek-v3-1-model-fully-managed-amazon-bedrock"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-18-aws-qwen3-models-are-now-available-fully-managed-in-am",
+      "date": "2025-09-18",
+      "name": "Qwen3 models are now available fully managed in Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Bedrock continues to expand model choice by adding four Qwen3 open weight foundation models, now available as fully managed, serverless offerings. The lineup includes: Qwen3-Coder-480B-A35B-Instruct, Qwen3-Code",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/qwen3-models-fully-managed-amazon-bedrock"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-18-aws-openai-open-weight-models-expand-to-new-regions-on",
+      "date": "2025-09-18",
+      "name": "OpenAI open weight models expand to new regions on AWS Bedrock",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Today, AWS announces the expansion of OpenAI open weight models on AWS Bedrock to eight new regions. This expansion brings these powerful AI models closer to customers in various parts of the world, enabling lower lat",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/open-ai-open-weight-models-new-regions-aws-bedrock"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-18-aws-amazon-sagemaker-hyperpod-now-supports-autoscaling",
+      "date": "2025-09-18",
+      "name": "Amazon SageMaker HyperPod now supports autoscaling using Karpenter",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker HyperPod now supports managed node autoscaling using Karpenter, enabling customers to automatically scale their clusters to meet dynamic inference and training demands. Real-time inference workloads r",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/sagemaker-hyperpod-autoscaling/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-18-aws-aws-step-functions-now-supports-ipv6-with-dual-sta",
+      "date": "2025-09-18",
+      "name": "AWS Step Functions now supports IPv6 with dual-stack endpoints",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Step Functions adds supports for IPv6. You can now send IPV6 traffic to AWS Step Functions via new dual-stack IPv4 and IPv6 endpoints. <a href=\"https://aws.amazon.com/step-functions/\">AWS Step Functions</a> is a v",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-step-functions-ipv6-dual-stack-endpoints/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-18-aws-amazon-opensearch-serverless-now-supports-disk-opt",
+      "date": "2025-09-18",
+      "name": "Amazon OpenSearch Serverless now supports Disk-Optimized Vectors",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>We are excited to announce the launch of disk-optimized vector support for Amazon OpenSearch Serverless, offering customers a cost-effective solution for vector search operations without compromising on accuracy and r",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/opensearch-serverless-disk-optimized-vectors"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-09-17-aws-amazon-corretto-25-is-now-generally-available",
       "date": "2025-09-17",
       "name": "Amazon Corretto 25 is now generally available",
@@ -875,204 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ivs-private-ingest-interface-vpc-endpoints/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-10-aws-amazon-bedrock-agentcore-gateway-supports-aws-priv",
-      "date": "2025-09-10",
-      "name": "Amazon Bedrock AgentCore Gateway supports AWS PrivateLink invocation and invocation logging",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock AgentCore Gateway now supports AWS PrivateLink invocation and invocation logging through Amazon CloudWatch, Amazon S3 and Amazon Data Firehose. Amazon Bedrock AgentCore Gateway provides an easy and secu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-bedrock-agentcore-gateway-privatelink-invocation-logging"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-10-aws-aws-launches-cloudtrail-mcp-server-for-enhanced-se",
-      "date": "2025-09-10",
-      "name": "AWS launches CloudTrail MCP Server for enhanced security analysis",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS adds a new Model Context Protocol (MCP) server for AWS CloudTrail in the&nbsp;<a href=\"https://github.com/awslabs/mcp/tree/main/src/cloudtrail-mcp-server\">AWS Labs MCP open-source repository</a>. This server enabl",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-cloudtrail-mcp-server-enhanced-security-analysis/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-10-aws-amazon-ec2-i8g-instances-now-available-in-aws-us-e",
-      "date": "2025-09-10",
-      "name": "Amazon EC2 I8g instances now available in AWS US East (Ohio) region",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS is announcing the general availability of Amazon EC2 Storage Optimized I8g instances in US East (Ohio) region. I8g instances offer the best performance in Amazon EC2 for storage-intensive workloads. I8g instances ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-i8g-instances-east-ohio-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-10-aws-aws-healthimaging-now-supports-openid-connect-oidc",
-      "date": "2025-09-10",
-      "name": "AWS HealthImaging now supports OpenID Connect (OIDC) authentication for DICOMweb APIs",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS HealthImaging now supports <a contenteditable=\"false\" href=\"https://oauth.net/2/\" style=\"cursor: pointer;\">OAuth 2.0</a>-compatible identity providers for authentication of DICOMweb requests using OpenID Connect (",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-healthimaging-oidc-authentication-dicomweb-apis/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-10-aws-amazon-cloudwatch-network-monitoring-adds-flow-vis",
-      "date": "2025-09-10",
-      "name": "Amazon CloudWatch Network Monitoring adds flow visibility between Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>With flow monitors in Amazon CloudWatch Network Monitoring, you can now monitor network performance of traffic flowing between AWS Regions across the AWS global network. Flow monitors provide near real-time visibility",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudwatch-network-flow-visibility-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-10-aws-amazon-ec2-c6in-instances-are-now-available-in-asi",
-      "date": "2025-09-10",
-      "name": "Amazon EC2 C6in instances are now available in Asia Pacific (Thailand)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C6in instances are available in AWS Region Asia Pacific (Thailand). These sixth-generation network optimized instances, powered by 3rd Generation Intel Xeon Sc",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-c6in-instances-asia-pacific-thailand/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-10-aws-fault-injection-service-is-now-available-in-the-eu",
-      "date": "2025-09-10",
-      "name": "Fault Injection Service is now available in the Europe (Zurich) Region",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Fault Injection Service (FIS) is a fully managed service for running controlled fault injection experiments to improve application performance, observability, and resilience. Customers can test how their applicati",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/fault-injection-service-now-available-europe-zurich-region"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-10-aws-aws-backup-now-supports-selective-backup-of-acls-a",
-      "date": "2025-09-10",
-      "name": "AWS Backup now supports selective backup of ACLs and ObjectTags in Amazon S3 backups",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Backup now lets you choose whether to include Access Control Lists (ACLs) and ObjectTags when backing up your Amazon S3 buckets.<br /> <br /> Previously, AWS Backup included these metadata components for all objec",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-backup-selective-acls-objecttags-s3-backups/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-10-crewai-0-186-0",
-      "date": "2025-09-10",
-      "name": "0.186.0",
-      "vendor": "CrewAI",
-      "type": "deprecation",
-      "summary": "<h2>What's Changed</h2>\n<h2>Core Improvements &amp; Fixes</h2>\n<ul>\n<li>Fixed support for defining MCP connection timeout on <code>CrewBase</code></li>\n<li>Resolved issue where tools were being called twice</li>\n<li>Addr",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/0.186.0"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2025-09-09-openai-shipping-smarter-agents-with-every-new-model",
-      "date": "2025-09-09",
-      "name": "Shipping smarter agents with every new model",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "Discover how SafetyKit leverages OpenAI GPT-5 to enhance content moderation, enforce compliance, and outpace legacy safety systems with greater accuracy .",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/safetykit"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-09-openai-chatgpt-agent-elevated-error-rate",
-      "date": "2025-09-09",
-      "name": "ChatGPT Agent elevated error rate",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Agent (Operational)</li>\n          </ul>",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01K4QXKBR886D4ARHBM8YJ3W4J"
         }
       ],
       "impact": 5,
