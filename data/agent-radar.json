@@ -1,6 +1,150 @@
 {
   "items": [
     {
+      "id": "2025-09-19-openai-elevated-error-rates-on-chatgpt-agent-gpt-5-pro",
+      "date": "2025-09-19",
+      "name": "Elevated error rates on ChatGPT Agent & GPT-5 Pro",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Conversations (Operational)</li>\n<li>Agent (Operational)</li>\n        ",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01K5HE2KH50MWPVDV57ZA71T4S"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-19-aws-amazon-opensearch-ingestion-now-supports-cross-acc",
+      "date": "2025-09-19",
+      "name": "Amazon OpenSearch Ingestion now supports cross-account ingestion",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon OpenSearch Ingestion now supports cross-account ingestion for push-based sources such as HTTP and OpenTelemetry (OTel). With this launch, customers can easily share OpenSearch Ingestion pipelines across AWS acc",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-opensearch-ingestion-cross-account-ingestion/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-19-aws-amazon-rds-for-mysql-announces-innovation-release-",
+      "date": "2025-09-19",
+      "name": "Amazon RDS for MySQL announces Innovation Release 9.4 in Amazon RDS Database Preview Environment",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/mysql/\">Amazon RDS for MySQL</a> now supports community MySQL Innovation Release 9.4 in the <a href=\"https://aws.amazon.com/rds/databasepreview/\">Amazon RDS Database Preview Environ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-mysql-innovation-release-94-database-preview-environment/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-19-aws-amazon-redshift-announces-the-general-availability",
+      "date": "2025-09-19",
+      "name": "Amazon Redshift announces the general availability of Multidimensional Data Layouts",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Redshift announces the general availability of Multidimensional Data Layouts (MDDL) that dynamically sort data based on actual query filters, accelerating query performance. Unlike traditional sorting methods t",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-redshift-multidimensional-data-layouts/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-19-aws-announcing-aws-neuron-sdk-2-26-0",
+      "date": "2025-09-19",
+      "name": "Announcing AWS Neuron SDK 2.26.0",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the general availability of Neuron SDK 2.26.0, delivering improvements for deep learning workloads on AWS Inferentia and Trainium-based instances. This release introduces support for PyTorch 2.8 a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-neuron-2-26-announce/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-19-aws-aws-organizations-supports-full-iam-policy-languag",
+      "date": "2025-09-19",
+      "name": "AWS Organizations supports full IAM policy language for service control policies (SCPs)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Organizations now offers full IAM policy language support for service control policies (SCPs), enabling you to write SCPs with the same flexibility as IAM managed policies. With this launch, SCPs now support use o",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-organizations-iam-language-service-control-policies/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-19-aws-aws-launches-sitewise-mcp-server-for-simplified-mo",
+      "date": "2025-09-19",
+      "name": "AWS launches SiteWise MCP Server for Simplified Modeling",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS announces Model Context Protocol (MCP) server for AWS IoT SiteWise in the <a href=\"https://github.com/awslabs/mcp/tree/main/src/aws-iot-sitewise-mcp-server\">AWS Labs MCP open-source repository</a>. This MCP server",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-sitewise-mcp-server-modeling/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-19-crewai-0-193-0",
+      "date": "2025-09-19",
+      "name": "0.193.0",
+      "vendor": "CrewAI",
+      "type": "launch",
+      "summary": "<h2>What's Changed</h2>\n<h2>Core Improvements &amp; Fixes</h2>\n<ul>\n<li>Fixed handling of the <code>model</code> parameter during OpenAI adapter initialization</li>\n<li>Resolved test duration cache issues in CI workflows",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/0.193.0"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2025-09-18-aws-second-generation-aws-outposts-racks-now-supported",
       "date": "2025-09-18",
       "name": "Second-generation AWS Outposts racks now supported in the AWS Canada (Central) and US West (N. California) Regions",
@@ -929,150 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/deadline-cloud-in-asia-pacific-seoul-europe-london/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-11-aws-amazon-cloudwatch-observability-access-manager-now",
-      "date": "2025-09-11",
-      "name": "Amazon CloudWatch Observability Access Manager Now Supports VPC Endpoints",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS announces VPC endpoints for Amazon CloudWatch Observability Access Manager (OAM). CloudWatch OAM enables you to programmatically manage cross-account observability settings within a region. The new VPC endpoints e",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudwatch-observability-access-manager-vpc-endpoints/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-11-aws-amazon-managed-service-for-prometheus-collector-lo",
-      "date": "2025-09-11",
-      "name": "Amazon Managed Service for Prometheus collector logs now available in Amazon CloudWatch Logs",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Managed Service for Prometheus collector, a fully-managed agentless collector for Prometheus metrics, adds support for vending logs to Amazon CloudWatch Logs.</p> \n<p>With Amazon Managed Service for Prometheus ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-managed-service-prometheus-collector-vended-logs/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-11-aws-aws-launches-localstack-integration-in-vs-code-ide",
-      "date": "2025-09-11",
-      "name": "AWS launches LocalStack integration in VS Code IDE to simplify local testing for serverless applications",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS launches <a href=\"https://www.localstack.cloud/\">LocalStack </a>integration in <a href=\"https://aws.amazon.com/visualstudio/\">Visual Studio Code (VS Code)</a>, enabling developers to easily test and debug serverle",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/localstack-integration-vs-code-ide-local-testing/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-11-aws-amazon-athena-launches-single-sign-on-support-for-",
-      "date": "2025-09-11",
-      "name": "Amazon Athena launches single sign-on support for drivers",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/athena/\">Amazon Athena&nbsp;</a>announces single sign-on support for its JDBC and ODBC drivers through AWS IAM Identity Center’s trusted identity propagation. This makes it simpler for ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-athena-sso-drivers"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-11-langchain-langgraph-how-to-turn-claude-code-into-a-domain-specific-cod",
-      "date": "2025-09-11",
-      "name": "How to turn Claude Code into a domain specific coding agent",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "<p>Authored by: <a href=\"https://www.linkedin.com/in/aliyan-ishfaq/?ref=blog.langchain.com\">Aliyan Ishfaq</a></p><p>Coding agents are great at writing code that uses popular libraries on which LLMs have been heavily trai",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/how-to-turn-claude-code-into-a-domain-specific-coding-agent/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2025-09-11-langchain-langgraph-monte-carlo-building-data-ai-observability-agents-",
-      "date": "2025-09-11",
-      "name": "Monte Carlo: Building Data + AI Observability Agents with LangGraph and LangSmith",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "See how Monte Carlo built its AI Troubleshooting Agent on LangGraph and debugged with LangSmith to help data teams resolve issues faster",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/customers-monte-carlo/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2025-09-10-aws-introducing-aws-cdk-refactor-preview",
-      "date": "2025-09-10",
-      "name": "Introducing AWS CDK Refactor (Preview)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Cloud Development Kit (CDK) CLI now enables safe infrastructure refactoring through the new 'cdk refactor' command in preview. This feature allows developers to rename constructs, move resources between stacks, an",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-cdk-refactor-preview/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-10-aws-amazon-ivs-now-supports-private-ingest-via-interfa",
-      "date": "2025-09-10",
-      "name": "Amazon IVS now supports private ingest via interface VPC endpoints",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/ivs/\" target=\"_blank\">Amazon Interactive Video Service (Amazon IVS)</a> now supports media ingest via interface VPC endpoints powered by <a href=\"https://aws.amazon.com/privatelink/\" ta",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ivs-private-ingest-interface-vpc-endpoints/"
         }
       ],
       "impact": 5,
