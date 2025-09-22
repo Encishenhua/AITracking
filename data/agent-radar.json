@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "2025-09-22-openai-chatgpt-elevated-errors-on-file-uploads",
+      "date": "2025-09-22",
+      "name": "ChatGPT: Elevated errors on file uploads",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Identified</b><br /><br />We have identified that some users are experiencing elevated errors with file uploads with ChatGPT.\n\nWe are working on implementing a mitigation.<br /><br /><b>Affected components</b>",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01K5QTAVHANN84SBPHY2XS3KJX"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-09-19-openai-elevated-error-rates-on-chatgpt-agent-gpt-5-pro",
       "date": "2025-09-19",
       "name": "Elevated error rates on ChatGPT Agent & GPT-5 Pro",
@@ -1055,24 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-proxy-end-to-end-iam-authentication/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-12-aws-deadline-cloud-is-now-available-in-asia-pacific-se",
-      "date": "2025-09-12",
-      "name": "Deadline Cloud is now available in Asia Pacific (Seoul) and Europe (London)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>We are excited to announce that AWS Deadline Cloud is now available in Asia Pacific (Seoul) and Europe (London). Deadline Cloud is a fully managed service that simplifies render management for teams creating computer-",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/deadline-cloud-in-asia-pacific-seoul-europe-london/"
         }
       ],
       "impact": 5,
