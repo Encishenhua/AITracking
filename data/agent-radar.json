@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "2025-09-23-openai-increased-error-rate-for-chatgpt",
+      "date": "2025-09-23",
+      "name": "Increased error rate for ChatGPT",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Agent (Operational)</li>\n<li>Codex (Operational)</li>\n          </ul>",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01K5SPYMA9ZPZW5RGZ8BZ9P4JQ"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-09-22-openai-chatgpt-elevated-errors-on-file-uploads",
       "date": "2025-09-22",
       "name": "ChatGPT: Elevated errors on file uploads",
@@ -11,6 +29,78 @@
         {
           "title": "OpenAI source",
           "url": "https://status.openai.com//incidents/01K5QTAVHANN84SBPHY2XS3KJX"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-22-openai-creating-a-safe-observable-ai-infrastructure-for-1",
+      "date": "2025-09-22",
+      "name": "Creating a safe, observable AI infrastructure for 1 million classrooms",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "Discover how SchoolAI, built on OpenAI’s GPT-4.1, image generation, and TTS, powers safe, teacher-guided AI tools for 1 million classrooms worldwide—boosting engagement, oversight, and personalized learning.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/schoolai"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-22-openai-openai-and-nvidia-announce-strategic-partnership-t",
+      "date": "2025-09-22",
+      "name": "OpenAI and NVIDIA announce strategic partnership to deploy 10 gigawatts of NVIDIA systems",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "OpenAI and NVIDIA announce a strategic partnership to deploy 10 gigawatts of AI datacenters powered by NVIDIA systems, with the first phase launching in 2026.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/openai-nvidia-systems-partnership"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-22-aws-amazon-connect-contact-lens-now-provides-sensitive",
+      "date": "2025-09-22",
+      "name": "Amazon Connect Contact Lens now provides sensitive data redaction in 7 additional languages",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Connect Contact Lens now provides sensitive data redaction from voice and chat conversational analytics in French (France, Canada), Portuguese (Portugal, Brazil), Italian, German, and Spanish (Spain). Automatic",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-contact-lens-redaction-7-languages/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-22-aws-amazon-connect-flow-designer-now-supports-analytic",
+      "date": "2025-09-22",
+      "name": "Amazon Connect flow designer now supports analytics mode",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Connect now offers new enhanced analytics in the drag-and-drop flow designer that help you make data-driven decisions when building and optimizing your flows. Amazon Connect flows allow you to create end-to-end",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-flow-designer-analytics-mode/"
         }
       ],
       "impact": 5,
@@ -983,96 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ecs-service-connect-cross-account-workloads"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-12-aws-aws-direct-connect-support-for-4-byte-autonomous-s",
-      "date": "2025-09-12",
-      "name": "AWS Direct Connect support for 4-byte Autonomous System numbers for Virtual interfaces",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Direct Connect now supports 4-byte Autonomous System (AS) numbers for virtual interfaces. Direct Connect uses the standard Border Gateway Protocol to provide customers with private connectivity to the AWS global n",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-direct-connect-4-byte-autonomous-system-numbers/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-12-aws-announcing-general-availability-of-amazon-ec2-m4-a",
-      "date": "2025-09-12",
-      "name": "Announcing general availability of Amazon EC2 M4 and M4 Pro Mac instances",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M4 and M4 Pro Mac instances are now generally available (GA). M4 Mac instances offer up to 20% better application build performance compared to M2 Mac instance",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-m4-pro-mac-instances-generally-available"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-12-aws-amazon-sagemaker-notebooks-now-support-p6-b200-ins",
-      "date": "2025-09-12",
-      "name": "Amazon SageMaker notebooks now support P6-B200 instance type",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>We are pleased to announce general availability of Amazon EC2 P6-B200 instances on SageMaker notebooks.<br /> <br /> <a href=\"https://aws.amazon.com/ec2/instance-types/p6/\" target=\"_blank\">Amazon EC2 P6-B200 instances",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-sagemaker-notebooks-p6-b200-instance-type"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-12-aws-new-efa-metrics-for-improved-observability-of-aws-",
-      "date": "2025-09-12",
-      "name": "New EFA metrics for improved observability of AWS networking",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS has introduced five new Elastic Fabric Adapter (EFA) metrics to enhance network observability for AI/ML and High Performance Computing (HPC) workloads. These new metrics help diagnose performance issues by ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-efa-metrics-improved-observability-networking"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-12-aws-amazon-rds-proxy-announces-support-for-end-to-end-",
-      "date": "2025-09-12",
-      "name": "Amazon RDS Proxy announces support for end-to-end IAM authentication",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p><a contenteditable=\"false\" href=\"https://aws.amazon.com/rds/proxy/\" style=\"cursor: pointer;\">Amazon Relational Database Service (RDS) Proxy</a> now supports end-to-end IAM authentication for connections to Amazon Auro",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-proxy-end-to-end-iam-authentication/"
         }
       ],
       "impact": 5,
