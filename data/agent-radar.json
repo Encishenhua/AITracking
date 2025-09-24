@@ -19,6 +19,150 @@
       "tags": []
     },
     {
+      "id": "2025-09-23-openai-openai-oracle-and-softbank-expand-stargate-with-fi",
+      "date": "2025-09-23",
+      "name": "OpenAI, Oracle, and SoftBank expand Stargate with five new AI datacenter sites",
+      "vendor": "OpenAI",
+      "type": "pricing",
+      "summary": "OpenAI, Oracle, and SoftBank announce five new Stargate AI datacenter sites, accelerating a $500B, 10-gigawatt U.S. infrastructure buildout to power next-generation AI and create tens of thousands of jobs.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/five-new-stargate-sites"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-23-aws-amazon-datazone-is-now-available-in-3-additional-c",
+      "date": "2025-09-23",
+      "name": "Amazon DataZone is now available in 3 additional commercial regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon DataZone is now available in AWS Asia Pacific (Hong Kong), Asia Pacific (Malaysia) and Europe (Zurich) Regions.<br /> <br /> Amazon DataZone is a fully managed data management service to catalog, discover, anal",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-datazone-additional-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-23-aws-aws-license-manager-now-supports-shared-aws-manage",
+      "date": "2025-09-23",
+      "name": "AWS License Manager now supports shared AWS Managed Active Directory",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS License Manager announces support for shared AWS Managed Active Directory across multiple AWS accounts, simplifying Microsoft license management on AWS. Customers can now centralize user subscriptions of Microsoft",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-license-manager-shared-managed-active-directory"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-23-aws-aws-iam-identity-center-organization-instances-now",
+      "date": "2025-09-23",
+      "name": "AWS IAM Identity Center organization instances now support customer-managed KMS keys for encryption at rest",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>IAM Identity Center now supports customer-managed AWS Key Management Service (KMS) keys for encrypting workforce identity data, including user and group attributes. While AWS-owned keys are used by default, customer-m",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-iam-identity-center-organization-customer-managed-kms-keys-encryption-at-rest/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-23-aws-amazon-nova-act-extension-build-and-test-ai-agents",
+      "date": "2025-09-23",
+      "name": "Amazon Nova Act extension: Build and test AI agents within your IDE",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>We’re excited today to announce the Amazon Nova Act extension - a tool that transforms how you build with Nova Act by bringing the entire agent development experience directly into IDEs like Visual Studio Code, Kiro, ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-nova-act-extension-build-test-ai-agents-ide/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-23-aws-aws-announces-ec2-instance-attestation",
+      "date": "2025-09-23",
+      "name": "AWS announces EC2 instance attestation",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS announces the general availability of EC2 instance attestation to make it easier for customers to validate that only trusted software is running on their EC2 instances, including instances with AI chips and GPUs.<",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-announces-ec2-instance-attestation"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-23-aws-amazon-ec2-r8gb-instances-are-now-generally-availa",
+      "date": "2025-09-23",
+      "name": "Amazon EC2 R8gb instances are now generally available",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the general availability of the new Amazon Elastic Block Storage (Amazon EBS) optimized Amazon Elastic Compute Cloud (Amazon EC2) R8gb instances. These instances are powered by AWS Graviton4 proce",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-r8gb-instances/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-23-aws-amazon-connect-now-supports-you-to-associate-custo",
+      "date": "2025-09-23",
+      "name": "Amazon Connect now supports you to associate custom attributes with interaction segments",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect now supports you to associate custom attributes with interaction segments, ensuring reporting and analytics always reflect the true customer journey. Attributes such as business unit name, account type,",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-associate-custom-attributes-interaction-segments/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-09-22-openai-chatgpt-elevated-errors-on-file-uploads",
       "date": "2025-09-22",
       "name": "ChatGPT: Elevated errors on file uploads",
@@ -929,150 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/generally-available-amazon-ec2-r8gn-instances"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-15-aws-announcing-on-demand-deployment-for-custom-meta-ll",
-      "date": "2025-09-15",
-      "name": "Announcing on-demand deployment for custom Meta Llama models in Amazon Bedrock",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Starting today, customers can use the on-demand deployment option in Amazon Bedrock for their Meta Llama 3.3 models that have been fine-tuned or distilled in Bedrock. Models customized on or after September 15, 2025 w",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/on-demand-deployment-custom-meta-llama-models-amazon-bedrock"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-15-aws-amazon-managed-service-for-prometheus-now-availabl",
-      "date": "2025-09-15",
-      "name": "Amazon Managed Service for Prometheus now available in 11 additional AWS Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Managed Service for Prometheus is now available in Asia Pacific (Jakarta), Asia Pacific (Hyderabad), Asia Pacific (Osaka), Asia Pacific (Melbourne), Asia Pacific (Taipei), Canada West (Calgary), Europe (Spain),",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-managed-service-prometheus-11-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-15-flowise-flowise-3-0-6",
-      "date": "2025-09-15",
-      "name": "flowise@3.0.6",
-      "vendor": "Flowise",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<h2>Nodes</h2>\n<ul>\n<li>feat: add JSONPathExtractor tool  by <a class=\"user-mention notranslate\" href=\"https://github.com/anatolyburtsev\">@anatolyburtsev</a> in <a class=\"issue-link js-issue-link\"",
-      "sources": [
-        {
-          "title": "Flowise source",
-          "url": "https://github.com/FlowiseAI/Flowise/releases/tag/flowise%403.0.6"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2025-09-14-openai-elevated-error-rates-on-api-platform",
-      "date": "2025-09-14",
-      "name": "Elevated error rates on API Platform",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Completions (legacy) (Operational)</li>\n<li>Images (Operational)</li>\n",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01K540RRY42JADPGYEEGG8TSGV"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-12-openai-working-with-us-caisi-and-uk-aisi-to-build-more-se",
-      "date": "2025-09-12",
-      "name": "Working with US CAISI and UK AISI to build more secure AI systems",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "OpenAI shares progress on the partnership with the US CAISI and UK AISI to strengthen AI safety and security. The collaboration is setting new standards for responsible frontier AI deployment through joint red-teaming, b",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/us-caisi-uk-aisi-ai-update"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-12-openai-users-may-see-both-a-gpt-5-response-and-an-agent-r",
-      "date": "2025-09-12",
-      "name": "Users may see both a GPT-5 response and an agent response when running agent tasks",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Agent (Operational)</li>\n          </ul>",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01K4ZKFSEZVER0M9B4W12PSDTN"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-12-openai-deep-research-elevated-errors",
-      "date": "2025-09-12",
-      "name": "Deep Research elevated errors",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Deep Research (Operational)</li>\n          </ul>",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01K4XMX0K2K6D7T55MYST55TES"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-12-aws-amazon-ecs-service-connect-adds-support-for-cross-",
-      "date": "2025-09-12",
-      "name": "Amazon ECS Service Connect adds support for cross-account workloads",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://docs.aws.amazon.com/AmazonECS/latest/developerguide/service-connect.html\">Amazon ECS Service Connect</a> now supports seamless communication between services residing in different AWS accounts through",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ecs-service-connect-cross-account-workloads"
         }
       ],
       "impact": 5,
