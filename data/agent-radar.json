@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "2025-09-24-aws-announcing-aws-lambda-support-for-code-signing-in-",
+      "date": "2025-09-24",
+      "name": "Announcing AWS Lambda Support for Code Signing in GovCloud Regions",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS Lambda now offers Code Signing in GovCloud Regions (AWS GovCloud (US-West) and AWS GovCloud (US-East)), which allows administrators to ensure that only trusted and verified code is deployed to Lambda functions. Th",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-lambda-code-signing-govcloud"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-24-aws-application-recovery-controller-region-switch-is-n",
+      "date": "2025-09-24",
+      "name": "Application Recovery Controller Region switch is now available in Asia Pacific (New Zealand)",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Region switch in Amazon Application Recovery Controller (ARC) is now available in the Asia Pacific (New Zealand) Region. Region switch allows you to orchestrate the specific steps to operate your cross-AWS account app",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/application-recovery-controller-region-switch-new-zealand/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-24-aws-amazon-gamelift-servers-launches-a-new-local-zone-",
+      "date": "2025-09-24",
+      "name": "Amazon GameLift Servers launches a new Local Zone in Dallas, Texas",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon GameLift Servers now supports a new AWS Local Zone in Dallas, Texas (us-east-1-dfw-2). You can use this Local Zone to deploy GameLift Fleets with EC2 C6gn, C6i, C6in, M6g, M6i, M6in, M8g, and R6i instances. Loc",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-gamelift-servers-local-zone-dallas-texas/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-24-aws-aws-announces-unlimited-network-burst-duration-on-",
+      "date": "2025-09-24",
+      "name": "AWS announces unlimited network burst duration on EC2 I8g and I7i instances",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Today, AWS eliminated the networking bandwidth burst duration limitations for Amazon EC2 I7i and I8g instances on sizes larger than 4xlarge. This update doubles the Network Bandwidth available at all times for i7i and",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-announces-unlimited-network-burst-duration-i8g-i7i"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-09-23-openai-increased-error-rate-for-chatgpt",
       "date": "2025-09-23",
       "name": "Increased error rate for ChatGPT",
@@ -1001,78 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-sagemaker-hyperpod-health-monitoring-agent-slurm/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-15-aws-amazon-connect-cases-now-supports-date-range-filte",
-      "date": "2025-09-15",
-      "name": "Amazon Connect Cases now supports date range filters in the case list view",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect Cases now supports filtering by date ranges in the case list view, enabling contact center managers and agents to efficiently manage their case workloads. For example, users can filter cases created in ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-cases-date-range-filters/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-15-aws-amazon-opensearch-service-now-supports-opensearch-",
-      "date": "2025-09-15",
-      "name": "Amazon OpenSearch Service now supports OpenSearch version 3.1",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>You can now run OpenSearch version 3.1 in Amazon OpenSearch Service. OpenSearch 3.1 introduces several improvements in areas like search relevance and performance, and introduces features that simplify development of ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-opensearch-service-opensearch-version-3-1/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-15-aws-aws-organizations-now-provides-account-state-infor",
-      "date": "2025-09-15",
-      "name": "AWS Organizations now provides account state information for member accounts",
-      "vendor": "AWS",
-      "type": "deprecation",
-      "summary": "<p><a href=\"https://aws.amazon.com/organizations/\" target=\"_blank\">AWS Organizations</a> provides a new State field in the AWS Organizations Console and APIs (DescribeAccount, ListAccounts, and ListAccountsForParent) to ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-organizations-provides-account-state-information-member-accounts"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-15-aws-now-generally-available-amazon-ec2-r8gn-instances",
-      "date": "2025-09-15",
-      "name": "Now generally available: Amazon EC2 R8gn instances",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the general availability of the new Amazon Elastic Compute Cloud (Amazon EC2) R8gn instances. These instances are powered by AWS Graviton4 processors to deliver up to 30% better compute performanc",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/generally-available-amazon-ec2-r8gn-instances"
         }
       ],
       "impact": 5,
