@@ -1,6 +1,186 @@
 {
   "items": [
     {
+      "id": "2025-09-26-crewai-0-201-0",
+      "date": "2025-09-26",
+      "name": "0.201.0",
+      "vendor": "CrewAI",
+      "type": "deprecation",
+      "summary": "<h2>What's Changed</h2>\n<h2>Core Improvements &amp; Fixes</h2>\n<ul>\n<li>Made the <code>ready</code> parameter optional in <code>_create_reasoning_plan</code> for flexibility</li>\n<li>Fixed nested config format handling f",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/0.201.0"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2025-09-25-aws-amazon-bedrock-agentcore-runtime-browser-and-code-",
+      "date": "2025-09-25",
+      "name": "Amazon Bedrock AgentCore Runtime, Browser, and Code Interpreter add support for VPC, AWS PrivateLink, CloudFormation, and tagging",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock AgentCore Runtime, Browser, and Code Interpreter services now support Amazon Virtual Private Cloud (VPC) connectivity, AWS PrivateLink, AWS CloudFormation, and resource tagging, enabling developers to d",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-bedrock-agentcore-runtime-browser-code-interpreter-vpc-privatelink-cloudformation-tagging"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-25-aws-amazon-redshift-concurrency-scaling-is-now-availab",
+      "date": "2025-09-25",
+      "name": "Amazon Redshift Concurrency Scaling is now available in 10 additional AWS regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Redshift Concurrency Scaling is now available in the AWS Africa (Cape Town), Asia Pacific (Hong Kong), Asia Pacific (Hyderabad), Asia Pacific (Jakarta), Asia Pacific (Osaka), Asia Pacific (Thailand), Europe (Mi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-redshift-concurrency-scaling-additional-aws-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-25-aws-amazon-ec2-c8gn-instances-are-now-available-in-add",
+      "date": "2025-09-25",
+      "name": "Amazon EC2 C8gn instances are now available in additional regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8gn instances, powered by the latest-generation AWS Graviton4 processors, are available in the AWS Region Europe (Frankfurt, Stockholm), Asia Pacific (Singapo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-c8gn-instances-additional-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-25-aws-billing-view-now-supports-cost-management-data-fro",
+      "date": "2025-09-25",
+      "name": "Billing View now supports cost management data from multiple organizations",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the general availability of new capabilities within AWS Billing and Cost Management that enable customers to manage their AWS spend across multiple organizations through a single AWS account. Cust",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/billing-view-cost-management-multiple-organizations"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-25-aws-amazon-cloudwatch-now-supports-resource-tags-when-",
+      "date": "2025-09-25",
+      "name": "Amazon CloudWatch now supports resource tags when monitoring vended metrics",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, Amazon CloudWatch announces support for a new tag-based telemetry experience to help customers monitor their metrics and set up their alarms using AWS resources tags. This new capability simplifies monitoring c",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-cloudwatch-tags-observability"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-25-aws-aws-x-ray-introduces-adaptive-sampling-for-automat",
+      "date": "2025-09-25",
+      "name": "AWS X-Ray introduces Adaptive Sampling for automatic optimized error detection",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a contenteditable=\"false\" href=\"https://aws.amazon.com/xray/\" style=\"cursor: pointer;\">AWS X-Ray</a>, a service that helps developers analyze and debug distributed applications by providing request tracing capabiliti",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-x-ray-adaptive-sampling-automatic-error/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-25-aws-amazon-ec2-allowed-amis-setting-adds-new-parameter",
+      "date": "2025-09-25",
+      "name": "Amazon EC2 Allowed AMIs setting adds new parameters for enhanced AMI governance",
+      "vendor": "AWS",
+      "type": "deprecation",
+      "summary": "<p>Allowed AMIs, the Amazon EC2 account-wide setting that enables you to limit the discovery and use of Amazon Machine Images (AMIs) within your Amazon Web Services accounts, adds support for four new parameters — market",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-allowed-amis-setting-parameters-ami-governance/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-25-aws-you-can-now-preview-amazon-s3-tables-in-the-s3-con",
+      "date": "2025-09-25",
+      "name": "You can now preview Amazon S3 Tables in the S3 console",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>You can now preview your Amazon S3 Tables directly in the S3 console without having to write a SQL query. You can view the schema and sample rows of your tables stored in S3 Tables to better understand and gather key ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/preview-amazon-s3-tables-console"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-25-aws-postgresql-18-0-is-now-available-in-amazon-rds-dat",
+      "date": "2025-09-25",
+      "name": "PostgreSQL 18.0 is now available in Amazon RDS Database Preview Environment",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/postgresql/\">Amazon RDS for PostgreSQL</a> 18.0 is now available in the<a href=\"https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/create-db-instance-in-preview-environment.html",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/postgresql-180-amazon-rds-database-preview-environment/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-09-24-aws-announcing-aws-lambda-support-for-code-signing-in-",
       "date": "2025-09-24",
       "name": "Announcing AWS Lambda Support for Code Signing in GovCloud Regions",
@@ -893,186 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-lex-generative-ai-natural-language-eight-languages/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-16-aws-new-fault-action-in-aws-fis-to-inject-i-o-latency-",
-      "date": "2025-09-16",
-      "name": "New fault action in AWS FIS to inject I/O latency on Amazon EBS volumes",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, Amazon EBS announced a new latency injection action in AWS Fault Injection Service (FIS), a fully managed service for running fault injection experiments. You can now use this action to inject I/O latency on yo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-fis-action-inject-io-latency-on-ebs/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-16-aws-amazon-appstream-2-0-adds-support-for-fractional-g",
-      "date": "2025-09-16",
-      "name": "Amazon AppStream 2.0 adds support for fractional GPU instances",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, Amazon AppStream 2.0 announces support for Graphics G6 instances with fractionalized GPU sizes, which are built on the <a href=\"https://aws.amazon.com/ec2/instance-types/g6/\">EC2 G6 family</a>, designed to cate",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-appstream-fractional-gpu/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-16-aws-aws-storage-gateway-now-supports-ipv6",
-      "date": "2025-09-16",
-      "name": "AWS Storage Gateway now supports IPv6",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/storagegateway/\">AWS Storage Gateway</a> announces Internet Protocol version 6 (IPv6) support for AWS Storage Gateway endpoints, APIs, and gateway appliance interfaces. This enhancement",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-storage-gateway-ipv6"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-16-aws-amazon-aurora-postgresql-limitless-database-is-now",
-      "date": "2025-09-16",
-      "name": "Amazon Aurora PostgreSQL Limitless Database is now available in the AWS GovCloud (US-East, US-West) Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Aurora PostgreSQL Limitless Database,&nbsp;now available in AWS GovCloud (US-East, US-West) Regions, makes it easy for you to scale your relational database workloads by providing a serverless endpoint that automatica",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-aurora-postgresql-limitless-database-aws-govcloud-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-16-aws-amazon-ec2-r8i-and-r8i-flex-instances-are-now-avai",
-      "date": "2025-09-16",
-      "name": "Amazon EC2 R8i and R8i-flex instances are now available in additional regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8i and R8i-flex instances are available in the Asia Pacific (Malaysia, Singapore) and Europe (Frankfurt) regions. These instances are powered by custom Intel ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-r8i-r8i-flex-additional-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-16-aws-amazon-opensearch-service-announces-star-tree-inde",
-      "date": "2025-09-16",
-      "name": "Amazon OpenSearch Service announces Star-Tree Index",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>OpenSearch has introduced&nbsp;Star-Tree Index, a new feature that significantly improves aggregation performance for high-cardinality and multi-dimensional queries. This index pre-aggregates data across configured di",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-opensearch-star-tree-index/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-15-openai-how-people-are-using-chatgpt",
-      "date": "2025-09-15",
-      "name": "How people are using ChatGPT",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "New research from the largest study of ChatGPT use shows how the tool creates economic value through both personal and professional use. Adoption is broadening beyond early users, closing gaps and making AI a part of eve",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/how-people-are-using-chatgpt"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-15-openai-addendum-to-gpt-5-system-card-gpt-5-codex",
-      "date": "2025-09-15",
-      "name": "Addendum to GPT-5 system card: GPT-5-Codex",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "This addendum to the GPT-5 system card shares a new model: GPT-5-Codex, a version of GPT-5 further optimized for agentic coding in Codex. GPT-5-Codex adjusts its thinking effort more dynamically based on task complexity,",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-15-aws-amazon-s3-batch-operations-now-supports-managing-b",
-      "date": "2025-09-15",
-      "name": "Amazon S3 Batch Operations now supports managing buckets or prefixes in a single step in AWS Management Console",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<h4><span style=\"font-weight: 300;\">Amazon S3 Batch Operations now supports managing objects within an S3 bucket, prefix, suffix, or more, in a single step in AWS Management Console. When creating an S3 Batch Operation, ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-s3-batch-operations-managing-buckets-console"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-15-aws-amazon-sagemaker-hyperpod-announces-health-monitor",
-      "date": "2025-09-15",
-      "name": "Amazon SageMaker HyperPod announces health monitoring agent support for Slurm clusters",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, Amazon SageMaker HyperPod announces the general availability of the health monitoring agent for Slurm clusters. SageMaker HyperPod helps you provision resilient clusters for running machine learning (ML) worklo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-sagemaker-hyperpod-health-monitoring-agent-slurm/"
         }
       ],
       "impact": 5,
