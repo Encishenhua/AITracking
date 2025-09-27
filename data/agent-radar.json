@@ -19,6 +19,168 @@
       "tags": []
     },
     {
+      "id": "2025-09-26-openai-increased-latency-on-fine-tuning-jobs",
+      "date": "2025-09-26",
+      "name": "Increased latency on fine-tuning jobs",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Identified</b><br /><br />Fine-tuning jobs may take longer than expected due to high load.\n\nWe are working on implementing a mitigation.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Fine-",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01K6478V94R3A062JY1GMJX5ZR"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-26-aws-amazon-neptune-analytics-is-now-available-in-aws-a",
+      "date": "2025-09-26",
+      "name": "Amazon Neptune Analytics is now available in AWS Asia Pacific (Mumbai) Region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://docs.aws.amazon.com/neptune-analytics/latest/userguide/what-is-neptune-analytics.html\">Amazon Neptune Analytics</a> is now available in the Asia Pacific (Mumbai) Region. You can now create and manage ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-neptune-analytics-available-mumbai"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-26-aws-local-file-redirection-is-now-available-on-amazon-",
+      "date": "2025-09-26",
+      "name": "Local file redirection is now available on Amazon AppStream 2.0 multi-session fleets",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon AppStream 2.0 is enhancing the end-user experience by introducing support for local files redirection on multi-session fleets. While this feature is already available on single-session fleets, this launch exten",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/local-file-redirection-amazon-appstream-multi-session-fleets/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-26-aws-amazon-msk-connect-is-now-available-in-five-additi",
+      "date": "2025-09-26",
+      "name": "Amazon MSK Connect is now available in five additional AWS Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon MSK Connect is now available in five additional AWS Regions: Asia Pacific (Thailand), Asia Pacific (Taipei), Mexico (Central), Canada West (Calgary), and Europe (Spain). MSK Connect enables you to run fully man",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-msk-connect-five-additional-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-26-aws-amazon-ebs-increases-the-maximum-size-and-provisio",
+      "date": "2025-09-26",
+      "name": "Amazon EBS increases the maximum size and provisioned performance of General Purpose (gp3) volumes",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Elastic Block Store (Amazon EBS) now supports higher volume-level limits for its General Purpose (gp3) volumes. With this update, gp3 volumes can scale up to 64 TiB in size (4X the previous 16 TiB limit), up to",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ebs-size-provisioned-performance-gp3-volumes/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-26-aws-aws-compute-optimizer-now-supports-99-new-amazon-e",
+      "date": "2025-09-26",
+      "name": "AWS Compute Optimizer now supports 99 new Amazon EC2 instance types",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Compute Optimizer now supports 99 additional Amazon Elastic Compute Cloud (Amazon EC2) instance types. These enhancements help you identify additional savings opportunities across your EC2 instances without specia",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-compute-optimizer-99-new-amazon-ec2-instance-types/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-26-aws-aws-waf-targeted-bot-control-fraud-ddos-prevention",
+      "date": "2025-09-26",
+      "name": "AWS WAF Targeted Bot Control, Fraud & DDoS Prevention Rule Group available in 3 more regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, AWS WAF’s Targeted Bot Control, Fraud, and DDoS Prevention Rule Group are available in the AWS Asia Pacific (Taipei), Asia Pacific (Bangkok), and Mexico (Central) regions. These features help customers",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-waf-targeted-bot-control-fraud-ddos-regions-expansion"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-26-aws-amazon-rds-for-db2-now-offers-reserved-instances",
+      "date": "2025-09-26",
+      "name": "Amazon RDS for Db2 now offers Reserved Instances",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a contenteditable=\"false\" href=\"https://aws.amazon.com/rds/db2/\" style=\"cursor: pointer;\" target=\"_blank\">Amazon Relational Database Service (RDS) for Db2</a> now offers Reserved Instances with up to 47% cost savings",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-db2-offers-reserved-instances"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-26-crewai-0-201-1",
+      "date": "2025-09-26",
+      "name": "0.201.1",
+      "vendor": "CrewAI",
+      "type": "deprecation",
+      "summary": "<h2>What's Changed</h2>\n<h2>Core Improvements &amp; Fixes</h2>\n<ul>\n<li>Renamed <code>watson</code> embedding provider to <code>watsonx</code> and updated corresponding environment variable prefixes</li>\n<li>Added Chroma",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/0.201.1"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2025-09-25-aws-amazon-bedrock-agentcore-runtime-browser-and-code-",
       "date": "2025-09-25",
       "name": "Amazon Bedrock AgentCore Runtime, Browser, and Code Interpreter add support for VPC, AWS PrivateLink, CloudFormation, and tagging",
@@ -911,168 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/second-generation-aws-outposts-racks-more-countries"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-17-aws-amazon-cloudwatch-launches-cross-account-and-cross",
-      "date": "2025-09-17",
-      "name": "Amazon CloudWatch launches Cross-Account and Cross-Region Log Centralization",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon CloudWatch now offers cross-account and cross-region log centralization, allowing customers to copy log data from multiple AWS accounts and regions into a single destination account. This capability seamlessly ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudwatch-cross-account-cross-region-log-centralization"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-17-aws-amazon-eventbridge-extends-customer-managed-key-su",
-      "date": "2025-09-17",
-      "name": "Amazon EventBridge extends Customer Managed Key support to rule filter patterns and input transformers",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon EventBridge now extends AWS Key Management Service (KMS) customer managed key support to event bus rule filter patterns and input transformers. This capability enables you to use your own encryption keys to pro",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-eventbridge-customer-managed-key-support-filter-patterns-input-transformers"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-17-aws-aws-budgets-now-supports-custom-time-periods",
-      "date": "2025-09-17",
-      "name": "AWS Budgets now supports custom time periods",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today AWS announced custom time periods for AWS Budgets, a new capability that lets you create budgets with flexible start and end dates. This enhancement allows you to define budget periods that align with your organ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-budgets-custom-time-periods/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-17-aws-amazon-rds-for-mysql-announces-extended-support-mi",
-      "date": "2025-09-17",
-      "name": "Amazon RDS for MySQL announces Extended Support minor 5.7.44-RDS.20250818",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a contenteditable=\"false\" href=\"https://aws.amazon.com/rds/mysql/\" style=\"cursor: pointer;\">Amazon Relational Database Service (RDS) for MySQL</a> now supports new Amazon RDS Extended Support minor version 5.7.44-RDS",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-mysql-extended-support-minor-5744-rds/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-17-aws-aws-parallel-computing-service-pcs-now-supports-am",
-      "date": "2025-09-17",
-      "name": "AWS Parallel Computing Service (PCS) now supports Amazon EC2 Capacity Blocks for ML",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Parallel Computing Service (PCS) now supports <a contenteditable=\"false\" href=\"https://aws.amazon.com/ec2/capacityblocks/\" style=\"cursor: pointer;\">Amazon EC2 Capacity Blocks for ML</a>. You can now use Amazon EC2",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-parallel-computing-service-ec2-capacity-blocks-ml/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-17-aws-aws-network-firewall-enhances-console-monitoring-a",
-      "date": "2025-09-17",
-      "name": "AWS Network Firewall enhances console, monitoring, and security features",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Network Firewall now offers enhancements to its console, monitoring dashboard, and security controls. These improvements include expanded monitoring insights and advanced TLS Inspection features. These updates pro",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-network-firewall-enhances-console-monitoring-security-features"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-16-openai-introducing-stargate-uk",
-      "date": "2025-09-16",
-      "name": "Introducing Stargate UK",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "OpenAI, NVIDIA, and Nscale launch Stargate UK, a sovereign AI infrastructure partnership delivering up to 50,000 GPUs and the UK’s largest supercomputer to power national AI innovation, public services, and economic grow",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/introducing-stargate-uk"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-16-aws-amazon-ec2-i7i-instances-now-available-in-south-am",
-      "date": "2025-09-16",
-      "name": "Amazon EC2 I7i instances now available in South America (São Paulo), Canada West (Calgary) regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Web Services (AWS) announces the availability of high performance Storage Optimized Amazon EC2 I7i instances in the AWS South America (São Paulo), Canada West (Calgary) regions. Powered by 5th generation Intel ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-i7i-instances-sao-paulo-calgary-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-16-aws-amazon-lex-provides-generative-ai-based-enhanced-n",
-      "date": "2025-09-16",
-      "name": "Amazon Lex provides generative AI based enhanced natural language understanding in eight new languages",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Lex now allows you to leverage large language models (LLMs) to improve the natural language understanding of your deterministic conversational AI bots in eight new languages: Chinese, Japanese, Korean, Portugue",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-lex-generative-ai-natural-language-eight-languages/"
         }
       ],
       "impact": 5,
