@@ -1,6 +1,240 @@
 {
   "items": [
     {
+      "id": "2025-09-29-openai-building-openai-with-openai",
+      "date": "2025-09-29",
+      "name": "Building OpenAI with OpenAI",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "At OpenAI, we rely on our own technology to help streamline work, scale expertise, and drive outcomes. In our new series, OpenAI on OpenAI, we share lessons to help other organizations do the same.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/building-openai-with-openai"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-29-openai-turning-contracts-into-searchable-data-at-openai",
+      "date": "2025-09-29",
+      "name": "Turning contracts into searchable data at OpenAI",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "OpenAI built a system to extract contract data quickly, cutting turnaround times and making it easier for teams to access the details they need.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/openai-contract-data-agent"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-29-openai-buy-it-in-chatgpt-instant-checkout-and-the-agentic",
+      "date": "2025-09-29",
+      "name": "Buy it in ChatGPT: Instant Checkout and the Agentic Commerce Protocol",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "We’re taking first steps toward agentic commerce in ChatGPT with new ways for people, AI agents, and businesses to shop together.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/buy-it-in-chatgpt"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-29-openai-compliance-api-ingestion-delays",
+      "date": "2025-09-29",
+      "name": "Compliance API ingestion delays",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery over the next day.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Compliance API (Degraded performan",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01K6B6T0GVFX2JHJ0ZKDTYNP9R"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-29-aws-amazon-ecs-announces-ipv6-only-support",
+      "date": "2025-09-29",
+      "name": "Amazon ECS announces IPv6-only support",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/ecs/\" target=\"_blank\">Amazon Elastic Container Service</a>&nbsp;(Amazon ECS) now supports running tasks in IPv6-only subnets. With this launch, Amazon ECS tasks and services can run usi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ecs-ipv6-only-support/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-29-aws-amazon-ec2-auto-scaling-expands-aws-privatelink-su",
+      "date": "2025-09-29",
+      "name": "Amazon EC2 Auto Scaling expands AWS PrivateLink support to FIPS endpoints",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, Amazon EC2 Auto Scaling (ASG) supports Federal Information Processing Standard (FIPS) 140-3 validated VPC endpoints. With this launch, you can use AWS PrivateLink with ASG for regulated workloads that ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-auto-scaling-privatelink-fips-endpoints/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-29-aws-anthropic-s-claude-sonnet-4-5-is-now-in-amazon-bed",
+      "date": "2025-09-29",
+      "name": "Anthropic’s Claude Sonnet 4.5 is now in Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Customers can now use Claude Sonnet 4.5 in Amazon Bedrock, a fully managed service that offers a choice of high- performing foundation models from leading AI companies. Claude Sonnet 4.5 is Anthropic's most intelligen",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/anthropics-claude-sonnet-4-5-amazon-bedrock"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-29-aws-amazon-connect-dashboards-now-support-filtering-an",
+      "date": "2025-09-29",
+      "name": "Amazon Connect dashboards now support filtering and comparing metrics by any time range",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect dashboards now supports selecting and comparing any time ranges enabling you to focus on specific, relevant data and perform in-depth analysis up to a maximum of 35 days in the last 3 months. Additional",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-dashboards-filtering-comparing-metrics-time-range"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-29-aws-amazon-bedrock-now-available-in-the-middle-east-ua",
+      "date": "2025-09-29",
+      "name": "Amazon Bedrock now available in the Middle East (UAE) Region",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Beginning today, customers can use Amazon Bedrock in the Middle East (UAE) region to easily build and scale generative AI applications using a variety of foundation models (FMs) as well as powerful tools to build gene",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-bedrock-middle-east-uae-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-29-aws-aws-network-firewall-adds-reject-and-alert-actions",
+      "date": "2025-09-29",
+      "name": "AWS Network Firewall adds Reject and Alert actions for stateful domain list rule groups",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS Network Firewall introduces Reject and Alert action support for stateful domain list rule groups, providing customers with more granular control over their network traffic. This enhancement allows customers",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-network-firewall-reject-alert-domain-list-rule-groups/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-29-aws-amazon-bedrock-now-available-in-the-asia-pacific-t",
+      "date": "2025-09-29",
+      "name": "Amazon Bedrock now available in the Asia Pacific (Thailand, Malaysia, and Taipei) Regions",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Beginning today, customers can use Amazon Bedrock in the Asia Pacific (Thailand), Asia Pacific (Malaysia), and Asia Pacific (Taipei) regions to easily build and scale generative AI applications using a variety of foun",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-bedrock-thailand-malaysia-taipei-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-29-aws-amazon-bedrock-now-available-in-the-israel-tel-avi",
+      "date": "2025-09-29",
+      "name": "Amazon Bedrock now available in the Israel (Tel Aviv) Region",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Beginning today, customers can use Amazon Bedrock in the Israel (Tel Aviv) region to easily build and scale generative AI applications using a variety of foundation models (FMs) as well as powerful tools to build gene",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-bedrock-israel-tel-aviv-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-29-aws-announcing-amazon-rds-for-postgresql-extended-supp",
+      "date": "2025-09-29",
+      "name": "Announcing Amazon RDS for PostgreSQL Extended Support versions R2: 12.22-rds.20250814 and 11.22-rds.20250814",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon RDS for PostgreSQL introduces Extended Support minor versions 12.22-rds.20250814 and 11.22-rds.20250814, which include important security updates and bug fixes for PostgreSQL databases.We recommend upgrading yo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-postgresql-extended-support-versions-12.22-rds-20250814-11.22-rds-20250814/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-09-26-crewai-0-201-0",
       "date": "2025-09-26",
       "name": "0.201.0",
@@ -577,6 +811,24 @@
       "tags": []
     },
     {
+      "id": "2025-09-23-aws-amazon-connect-now-lets-you-store-attributes-on-sp",
+      "date": "2025-09-23",
+      "name": "Amazon Connect now lets you store attributes on specific segments of a contact",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect now lets you store attributes on specific segments of a contact, preserving essential business context throughout customer interactions, including transfers and conference calls. Contact center managers",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-associate-custom-attributes-interaction-segments/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-09-22-openai-chatgpt-elevated-errors-on-file-uploads",
       "date": "2025-09-22",
       "name": "ChatGPT: Elevated errors on file uploads",
@@ -821,258 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/second-generation-outposts-racks-canada-us-west-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-18-aws-amazon-vpc-reachability-analyzer-and-amazon-vpc-ne",
-      "date": "2025-09-18",
-      "name": "Amazon VPC Reachability Analyzer and Amazon VPC Network Access Analyzer are now available in seven additional AWS Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>With this launch, Amazon VPC Reachability Analyzer and Amazon VPC Network Access Analyzer are now available in Asia Pacific (New Zealand), Asia Pacific (Hyderabad), Asia Pacific (Melbourne), Asia Pacific (Taipei), Can",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-vpc-reachability-network-access-analyzer-seven-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-18-aws-amazon-q-developer-cli-announces-support-for-remot",
-      "date": "2025-09-18",
-      "name": "Amazon Q Developer CLI announces support for remote MCP servers",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Q Developer CLI announces support for remote MCP servers. Remote MCP servers improve scalability and security of the tools you use within your development tasks. Not only does it reduce the use of compute resou",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-q-developer-remote-mcp-servers/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-18-aws-stability-ai-image-services-now-available-in-amazo",
-      "date": "2025-09-18",
-      "name": "Stability AI Image Services now available in Amazon Bedrock",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Bedrock announces the availability of Stability AI Image Services, a comprehensive suite of 9 specialized image editing tools designed to accelerate professional creative workflows. Stability AI Image Services ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/stability-ai-image-services-generally-available-amazon-bedrock"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-18-aws-aws-step-functions-expands-data-source-options-and",
-      "date": "2025-09-18",
-      "name": "AWS Step Functions expands data source options and improves observability for Distributed Map",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS Step Functions now supports additional data sources and new observability metrics for Distributed Map. <a href=\"https://aws.amazon.com/step-functions/\" target=\"_blank\">AWS Step Functions</a> is a visual workflow s",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-step-functions-data-source-options-observability-distributed-map"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-18-aws-deepseek-v3-1-model-now-available-fully-managed-in",
-      "date": "2025-09-18",
-      "name": "DeepSeek-V3.1 model now available fully managed in Amazon Bedrock",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>DeepSeek-V3.1 is now available as a fully managed foundation model in Amazon Bedrock. This advanced open weight model allows you to switch between thinking mode for detailed step-by-step analysis and non-thinking mode",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/deepseek-v3-1-model-fully-managed-amazon-bedrock"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-18-aws-qwen3-models-are-now-available-fully-managed-in-am",
-      "date": "2025-09-18",
-      "name": "Qwen3 models are now available fully managed in Amazon Bedrock",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Bedrock continues to expand model choice by adding four Qwen3 open weight foundation models, now available as fully managed, serverless offerings. The lineup includes: Qwen3-Coder-480B-A35B-Instruct, Qwen3-Code",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/qwen3-models-fully-managed-amazon-bedrock"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-18-aws-openai-open-weight-models-expand-to-new-regions-on",
-      "date": "2025-09-18",
-      "name": "OpenAI open weight models expand to new regions on AWS Bedrock",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Today, AWS announces the expansion of OpenAI open weight models on AWS Bedrock to eight new regions. This expansion brings these powerful AI models closer to customers in various parts of the world, enabling lower lat",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/open-ai-open-weight-models-new-regions-aws-bedrock"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-18-aws-amazon-sagemaker-hyperpod-now-supports-autoscaling",
-      "date": "2025-09-18",
-      "name": "Amazon SageMaker HyperPod now supports autoscaling using Karpenter",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker HyperPod now supports managed node autoscaling using Karpenter, enabling customers to automatically scale their clusters to meet dynamic inference and training demands. Real-time inference workloads r",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/sagemaker-hyperpod-autoscaling/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-18-aws-aws-step-functions-now-supports-ipv6-with-dual-sta",
-      "date": "2025-09-18",
-      "name": "AWS Step Functions now supports IPv6 with dual-stack endpoints",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Step Functions adds supports for IPv6. You can now send IPV6 traffic to AWS Step Functions via new dual-stack IPv4 and IPv6 endpoints. <a href=\"https://aws.amazon.com/step-functions/\">AWS Step Functions</a> is a v",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-step-functions-ipv6-dual-stack-endpoints/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-18-aws-amazon-opensearch-serverless-now-supports-disk-opt",
-      "date": "2025-09-18",
-      "name": "Amazon OpenSearch Serverless now supports Disk-Optimized Vectors",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>We are excited to announce the launch of disk-optimized vector support for Amazon OpenSearch Serverless, offering customers a cost-effective solution for vector search operations without compromising on accuracy and r",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/opensearch-serverless-disk-optimized-vectors"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-17-aws-amazon-corretto-25-is-now-generally-available",
-      "date": "2025-09-17",
-      "name": "Amazon Corretto 25 is now generally available",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Corretto 25, a Long Term Support (LTS) version, is now generally available. <a href=\"https://aws.amazon.com/corretto/\" style=\"cursor: pointer;\">Amazon Corretto</a> is a no-cost, multi-platform, production-ready",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-corretto-25-generally-available"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-17-aws-amazon-connect-launches-the-ability-to-search-cont",
-      "date": "2025-09-17",
-      "name": "Amazon Connect launches the ability to search contacts using agent hierarchy filters",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect now provides you with agent hierarchy filters on the contact search page in the Amazon Connect UI. This launch enables contact center leaders to drill-down into their hierarchy to review contacts handle",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-search-contacts-agent-hierarchy-filters/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-17-aws-amazon-ec2-i8ge-instances-now-available-in-aws-eur",
-      "date": "2025-09-17",
-      "name": "Amazon EC2 I8ge instances now available in AWS Europe (Frankfurt)",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) storage optimized I8ge instances are available in AWS Europe (Frankfurt) region. I8ge instances are powered by AWS Graviton4 processors to deliver up to 60% be",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-i8ge-instances-in-europe-frankfurt"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-17-aws-announcing-availability-of-second-generation-aws-o",
-      "date": "2025-09-17",
-      "name": "Announcing availability of second-generation AWS Outposts racks in 52 more countries",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Second-generation AWS Outposts racks can now be shipped and installed at your data center and on-premises locations in Australia, Bahrain, Brazil, Brunei, Chile, Costa Rica, Egypt, European Union countries, Iceland, I",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/second-generation-aws-outposts-racks-more-countries"
         }
       ],
       "impact": 5,
