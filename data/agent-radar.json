@@ -1,6 +1,312 @@
 {
   "items": [
     {
+      "id": "2025-09-30-aws-amazon-sagemaker-managed-mlflow-is-now-available-i",
+      "date": "2025-09-30",
+      "name": "Amazon SageMaker managed MLflow is now available in the AWS GovCloud (US) Regions",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon SageMaker managed MLflow is now available in both AWS GovCloud (US-West) and AWS GovCloud (US-East) Regions.<br /> <br /> Amazon SageMaker managed MLflow streamlines AI experimentation and accelerates your GenA",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-sagemaker-mlflow-available-aws-govcloud/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-30-aws-amazon-cloudwatch-and-opensearch-service-expand-re",
+      "date": "2025-09-30",
+      "name": "Amazon CloudWatch and OpenSearch Service expand region support for integrated analytics experience",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon CloudWatch and OpenSearch Service integrated analytics experience is now available in 5 additional commercial regions: Asia Pacific (Osaka), Asia Pacific (Seoul), Europe (Milan), Europe (Spain), and US West (N.",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudwatch-opensearch-service-region-integrated-analytics-experience/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-30-aws-amazon-sns-expands-support-for-fips-140-3-endpoint",
+      "date": "2025-09-30",
+      "name": "Amazon SNS expands support for FIPS 140-3 endpoints",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/sns/\">Amazon Simple Notification Service (Amazon SNS)</a>&nbsp;now supports additional endpoints that have been validated under the Federal Information Processing Standard (FIPS) 140-3 ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-sns-fips-endpoints/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-30-aws-aws-transform-now-enables-terraform-for-vmware-net",
+      "date": "2025-09-30",
+      "name": "AWS Transform now enables Terraform for VMware network automation",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Transform now offers Terraform as an additional option to generate network infrastructure code automatically from VMware environments. The service converts your source network definitions into reusable Terraform m",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-transform-terraform-vmware-network-automation"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-30-aws-aws-transfer-family-adds-support-for-additional-ia",
+      "date": "2025-09-30",
+      "name": "AWS Transfer Family adds support for additional IAM condition keys",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Transfer Family now supports four new service-specific condition keys for Identity and Access Management (IAM). With this feature, administrators can create more granular IAM policies and service control policies ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-transfer-family-iam-condition-keys"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-30-aws-amazon-elastic-vmware-service-amazon-evs-is-now-av",
+      "date": "2025-09-30",
+      "name": "Amazon Elastic VMware Service (Amazon EVS) is now available in Asia Pacific (Singapore) and Europe (London) Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, we're announcing that Amazon Elastic VMware Service (Amazon EVS) is now available in all availability zones in the Asia Pacific (Singapore) and Europe (London) Regions. This expansion provides more options to l",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-evs-singapore-london-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-30-aws-aws-firewall-manager-launches-in-aws-asia-pacific-",
+      "date": "2025-09-30",
+      "name": "AWS Firewall Manager launches in AWS Asia Pacific (Taipei) Region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Firewall Manager announces that it is now available in AWS Asia Pacific (Taipei) Region. AWS Firewall Manager helps cloud security administrators and site reliability engineers protect applications while reducing ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-firewall-manager-aws-asia-pacific-taipei-region"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-30-aws-aws-outposts-now-supports-external-block-volumes-f",
+      "date": "2025-09-30",
+      "name": "AWS Outposts now supports external block volumes from Dell and HPE storage arrays",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, customers can use boot and data volumes backed by Dell PowerStore and HPE Alletra Storage MP B10000 storage arrays with Amazon Elastic Compute Cloud (Amazon EC2) instances on AWS Outposts, including au",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-outposts-external-block-volumes-dell-hpe-storage-arrays"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-30-aws-aws-storage-gateway-now-supports-vpc-endpoint-poli",
+      "date": "2025-09-30",
+      "name": "AWS Storage Gateway now supports VPC endpoint policies",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Storage Gateway now supports Virtual Private Cloud (VPC) endpoint policies for your VPC endpoints. With this feature, administrators can attach endpoint policies to VPC endpoints, allowing granular access control ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-storage-gateway-vpc-endpoint-policies"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-30-aws-aws-step-functions-now-supports-service-quotas",
+      "date": "2025-09-30",
+      "name": "AWS Step Functions now supports Service Quotas",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the general availability of AWS Service Quotas integration with <a href=\"https://aws.amazon.com/step-functions/\" target=\"_blank\">AWS Step Functions</a>, enabling customers to monitor and manage th",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-step-functions-service-quotas"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-30-aws-announcing-amazon-ecs-managed-instances",
+      "date": "2025-09-30",
+      "name": "Announcing Amazon ECS Managed Instances",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the launch of Amazon Elastic Container Service (Amazon ECS) Managed Instances, a new fully managed compute option designed to eliminate infrastructure management overhead while giving you access t",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ecs-managed-instances"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-30-aws-aws-iam-identity-center-is-available-in-asia-pacif",
+      "date": "2025-09-30",
+      "name": "AWS IAM Identity Center is available in Asia Pacific (Bangkok) and Mexico Central (Querétaro) AWS Regions",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>You can now deploy AWS IAM Identity Center in 36 AWS Regions, including Asia Pacific (Bangkok) and Mexico Central (Querétaro).</p> \n<p>IAM Identity Center is the recommended service for managing workforce access to AW",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-iam-identity-center-bangkok-and-queretaro-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-30-aws-second-generation-amazon-fsx-for-netapp-ontap-is-n",
+      "date": "2025-09-30",
+      "name": "Second-generation Amazon FSx for NetApp ONTAP is now available in four additional AWS Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon FSx for NetApp ONTAP second-generation file systems are now available in 4 additional AWS Regions: Europe (Spain, Zurich), Asia Pacific (Seoul), and Canada (Central).<br /> <br /> Amazon FSx makes it easier and",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/second-generation-amazon-fsx-netapp-ontap/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-30-aws-amazon-fsx-for-netapp-ontap-now-supports-internet-",
+      "date": "2025-09-30",
+      "name": "Amazon FSx for NetApp ONTAP now supports Internet Protocol Version 6 (IPv6)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon FSx now offers customers the option to use Internet Protocol version 6 (IPv6) for access to Amazon FSx for NetApp ONTAP file systems.<br /> <br /> More and more customers are adopting IPv6 to mitigate IPv4 addr",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-fsx-for-netapp-ontap-ipv6/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-30-aws-amazon-fsx-for-windows-file-server-now-supports-in",
+      "date": "2025-09-30",
+      "name": "Amazon FSx for Windows File Server now supports Internet Protocol Version 6 (IPv6)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon FSx now offers customers the option to use Internet Protocol version 6 (IPv6) for access to Amazon FSx for Windows File Server file systems.<br /> <br /> More and more customers are adopting IPv6 to mitigate IP",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-fsx-for-windows-file-server-ipv6/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-30-aws-aws-transfer-family-now-supports-vpc-endpoint-poli",
+      "date": "2025-09-30",
+      "name": "AWS Transfer Family now supports VPC endpoint policies and FIPS VPC endpoints",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Transfer Family now supports Virtual Private Cloud (VPC) endpoint policies for your&nbsp;VPC endpoints. With this feature, administrators can attach an endpoint policy to an interface VPC endpoint, allowing granul",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-transfer-family-vpc-endpoint-policies"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-09-30-autogen-python-v0-7-5",
+      "date": "2025-09-30",
+      "name": "python-v0.7.5",
+      "vendor": "AutoGen",
+      "type": "upgrade",
+      "summary": "<h2>What's Changed</h2>\n<ul>\n<li>Fix docs dotnet core typo by <a class=\"user-mention notranslate\" href=\"https://github.com/lach-g\">@lach-g</a> in <a class=\"issue-link js-issue-link\" href=\"https://github.com/microsoft/aut",
+      "sources": [
+        {
+          "title": "AutoGen source",
+          "url": "https://github.com/microsoft/autogen/releases/tag/python-v0.7.5"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2025-09-29-openai-building-openai-with-openai",
       "date": "2025-09-29",
       "name": "Building OpenAI with OpenAI",
@@ -767,312 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-announces-ec2-instance-attestation"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-23-aws-amazon-ec2-r8gb-instances-are-now-generally-availa",
-      "date": "2025-09-23",
-      "name": "Amazon EC2 R8gb instances are now generally available",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the general availability of the new Amazon Elastic Block Storage (Amazon EBS) optimized Amazon Elastic Compute Cloud (Amazon EC2) R8gb instances. These instances are powered by AWS Graviton4 proce",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-r8gb-instances/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-23-aws-amazon-connect-now-supports-you-to-associate-custo",
-      "date": "2025-09-23",
-      "name": "Amazon Connect now supports you to associate custom attributes with interaction segments",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect now supports you to associate custom attributes with interaction segments, ensuring reporting and analytics always reflect the true customer journey. Attributes such as business unit name, account type,",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-associate-custom-attributes-interaction-segments/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-23-aws-amazon-connect-now-lets-you-store-attributes-on-sp",
-      "date": "2025-09-23",
-      "name": "Amazon Connect now lets you store attributes on specific segments of a contact",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect now lets you store attributes on specific segments of a contact, preserving essential business context throughout customer interactions, including transfers and conference calls. Contact center managers",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-associate-custom-attributes-interaction-segments/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-22-openai-chatgpt-elevated-errors-on-file-uploads",
-      "date": "2025-09-22",
-      "name": "ChatGPT: Elevated errors on file uploads",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Identified</b><br /><br />We have identified that some users are experiencing elevated errors with file uploads with ChatGPT.\n\nWe are working on implementing a mitigation.<br /><br /><b>Affected components</b>",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01K5QTAVHANN84SBPHY2XS3KJX"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-22-openai-creating-a-safe-observable-ai-infrastructure-for-1",
-      "date": "2025-09-22",
-      "name": "Creating a safe, observable AI infrastructure for 1 million classrooms",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "Discover how SchoolAI, built on OpenAI’s GPT-4.1, image generation, and TTS, powers safe, teacher-guided AI tools for 1 million classrooms worldwide—boosting engagement, oversight, and personalized learning.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/schoolai"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-22-openai-openai-and-nvidia-announce-strategic-partnership-t",
-      "date": "2025-09-22",
-      "name": "OpenAI and NVIDIA announce strategic partnership to deploy 10 gigawatts of NVIDIA systems",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "OpenAI and NVIDIA announce a strategic partnership to deploy 10 gigawatts of AI datacenters powered by NVIDIA systems, with the first phase launching in 2026.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/openai-nvidia-systems-partnership"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-22-aws-amazon-connect-contact-lens-now-provides-sensitive",
-      "date": "2025-09-22",
-      "name": "Amazon Connect Contact Lens now provides sensitive data redaction in 7 additional languages",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Connect Contact Lens now provides sensitive data redaction from voice and chat conversational analytics in French (France, Canada), Portuguese (Portugal, Brazil), Italian, German, and Spanish (Spain). Automatic",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-contact-lens-redaction-7-languages/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-22-aws-amazon-connect-flow-designer-now-supports-analytic",
-      "date": "2025-09-22",
-      "name": "Amazon Connect flow designer now supports analytics mode",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Connect now offers new enhanced analytics in the drag-and-drop flow designer that help you make data-driven decisions when building and optimizing your flows. Amazon Connect flows allow you to create end-to-end",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-flow-designer-analytics-mode/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-19-openai-elevated-error-rates-on-chatgpt-agent-gpt-5-pro",
-      "date": "2025-09-19",
-      "name": "Elevated error rates on ChatGPT Agent & GPT-5 Pro",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Conversations (Operational)</li>\n<li>Agent (Operational)</li>\n        ",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01K5HE2KH50MWPVDV57ZA71T4S"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-19-aws-amazon-opensearch-ingestion-now-supports-cross-acc",
-      "date": "2025-09-19",
-      "name": "Amazon OpenSearch Ingestion now supports cross-account ingestion",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon OpenSearch Ingestion now supports cross-account ingestion for push-based sources such as HTTP and OpenTelemetry (OTel). With this launch, customers can easily share OpenSearch Ingestion pipelines across AWS acc",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-opensearch-ingestion-cross-account-ingestion/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-19-aws-amazon-rds-for-mysql-announces-innovation-release-",
-      "date": "2025-09-19",
-      "name": "Amazon RDS for MySQL announces Innovation Release 9.4 in Amazon RDS Database Preview Environment",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/mysql/\">Amazon RDS for MySQL</a> now supports community MySQL Innovation Release 9.4 in the <a href=\"https://aws.amazon.com/rds/databasepreview/\">Amazon RDS Database Preview Environ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-mysql-innovation-release-94-database-preview-environment/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-19-aws-amazon-redshift-announces-the-general-availability",
-      "date": "2025-09-19",
-      "name": "Amazon Redshift announces the general availability of Multidimensional Data Layouts",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Redshift announces the general availability of Multidimensional Data Layouts (MDDL) that dynamically sort data based on actual query filters, accelerating query performance. Unlike traditional sorting methods t",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-redshift-multidimensional-data-layouts/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-19-aws-announcing-aws-neuron-sdk-2-26-0",
-      "date": "2025-09-19",
-      "name": "Announcing AWS Neuron SDK 2.26.0",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the general availability of Neuron SDK 2.26.0, delivering improvements for deep learning workloads on AWS Inferentia and Trainium-based instances. This release introduces support for PyTorch 2.8 a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-neuron-2-26-announce/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-19-aws-aws-organizations-supports-full-iam-policy-languag",
-      "date": "2025-09-19",
-      "name": "AWS Organizations supports full IAM policy language for service control policies (SCPs)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Organizations now offers full IAM policy language support for service control policies (SCPs), enabling you to write SCPs with the same flexibility as IAM managed policies. With this launch, SCPs now support use o",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-organizations-iam-language-service-control-policies/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-19-aws-aws-launches-sitewise-mcp-server-for-simplified-mo",
-      "date": "2025-09-19",
-      "name": "AWS launches SiteWise MCP Server for Simplified Modeling",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS announces Model Context Protocol (MCP) server for AWS IoT SiteWise in the <a href=\"https://github.com/awslabs/mcp/tree/main/src/aws-iot-sitewise-mcp-server\">AWS Labs MCP open-source repository</a>. This MCP server",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-sitewise-mcp-server-modeling/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-19-crewai-0-193-0",
-      "date": "2025-09-19",
-      "name": "0.193.0",
-      "vendor": "CrewAI",
-      "type": "launch",
-      "summary": "<h2>What's Changed</h2>\n<h2>Core Improvements &amp; Fixes</h2>\n<ul>\n<li>Fixed handling of the <code>model</code> parameter during OpenAI adapter initialization</li>\n<li>Resolved test duration cache issues in CI workflows",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/0.193.0"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2025-09-18-aws-second-generation-aws-outposts-racks-now-supported",
-      "date": "2025-09-18",
-      "name": "Second-generation AWS Outposts racks now supported in the AWS Canada (Central) and US West (N. California) Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Second-generation AWS Outposts racks are now supported in the AWS Canada (Central) and US West (N. California) Regions. Outposts racks extend AWS infrastructure, AWS services, APIs, and tools to virtually any on-premi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/second-generation-outposts-racks-canada-us-west-regions"
         }
       ],
       "impact": 5,
