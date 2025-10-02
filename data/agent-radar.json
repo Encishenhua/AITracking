@@ -1,6 +1,186 @@
 {
   "items": [
     {
+      "id": "2025-10-01-openai-samsung-and-sk-join-openai-s-stargate-initiative-t",
+      "date": "2025-10-01",
+      "name": "Samsung and SK join OpenAI’s Stargate initiative to advance global AI infrastructure",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "Samsung and SK join OpenAI’s Stargate initiative to expand global AI infrastructure, scaling advanced memory chip production and building next-gen data centers in Korea.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/samsung-and-sk-join-stargate"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-01-aws-amazon-gamelift-streams-adds-ipv6-support-for-stre",
+      "date": "2025-10-01",
+      "name": "Amazon GameLift Streams adds IPv6 support for streaming Windows applications",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon GameLift Streams now supports streaming over IPv6 for applications running on Windows-based stream groups, enabling dual-stack (IPv4 and IPv6) streaming capabilities. This enhancement gives our customers flexib",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-gamelift-streams-ipv6-support"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-01-aws-amazon-bedrock-data-automation-now-provides-suppor",
+      "date": "2025-10-01",
+      "name": "Amazon Bedrock Data Automation now provides support for enhancing transcriptions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Bedrock Data Automation (BDA) now supports enhanced transcription output for audio files by providing the option to distinguish between various speakers and separately process audio from each channel. Additiona",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-bedrock-data-automation-support-enhancing-transcription/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-01-aws-application-map-is-now-generally-available-for-ama",
+      "date": "2025-10-01",
+      "name": "Application map is now generally available for Amazon CloudWatch",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon CloudWatch now helps you monitor large-scale distributed applications by automatically discovering and organizing services into groups based on configurations and their relationships. SREs and DevOps teams can ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/application-map-generally-available-amazon-cloudwatch"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-01-aws-amazon-detective-now-supports-aws-privatelink-for-",
+      "date": "2025-10-01",
+      "name": "Amazon Detective now supports AWS PrivateLink for private API access",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Detective now supports Amazon Virtual Private Cloud (VPC) endpoints via AWS <a href=\"https://aws.amazon.com/privatelink/\" target=\"_blank\">PrivateLink</a>, enabling you to securely initiate API calls to Detectiv",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-detective-aws-privatelink-private-api-access"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-01-aws-aws-api-mcp-server-v1-0-0-release",
+      "date": "2025-10-01",
+      "name": "AWS API MCP Server v1.0.0 release",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the v1.0.0 release of the AWS API model context protocol (MCP) server enabling foundation models (FMs) to interact with any AWS API through natural language by creating and executing syntactically",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-api-mcp-server-v1-0-0-release"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-01-aws-aws-knowledge-mcp-server-now-generally-available",
+      "date": "2025-10-01",
+      "name": "AWS Knowledge MCP Server now generally available",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the general availability (GA) of the AWS Knowledge Model Context Protocol (MCP) Server. The AWS Knowledge server gives AI agents and MCP clients access to authoritative knowledge, including docume",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-knowledge-mcp-server-generally-available"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-01-aws-aws-cloud-wan-is-now-available-in-aws-govcloud-us-",
+      "date": "2025-10-01",
+      "name": "AWS Cloud WAN is now available in AWS GovCloud (US) Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, <a contenteditable=\"false\" href=\"https://aws.amazon.com/cloud-wan\" style=\"cursor: pointer;\">AWS Cloud WAN</a> is available in the AWS GovCloud (US-West) and AWS GovCloud (US-East) regions.<br /> <br />",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-cloud-wan-govcloud/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-01-aws-aws-datasync-now-supports-vpc-endpoint-policies",
+      "date": "2025-10-01",
+      "name": "AWS DataSync now supports VPC endpoint policies",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a contenteditable=\"false\" href=\"https://aws.amazon.com/datasync/\" style=\"cursor: pointer;\">AWS DataSync</a> now supports virtual private cloud (VPC) endpoint policies, allowing you to control access to DataSync API o",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-datasync-vpc-endpoint-policies/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-01-crewai-1-0-0a1",
+      "date": "2025-10-01",
+      "name": "1.0.0a1",
+      "vendor": "CrewAI",
+      "type": "launch",
+      "summary": "<h2>What's Changed</h2>\n<h2>Core Improvements &amp; Fixes</h2>\n<ul>\n<li>Fixed permission handling for <code>actions</code> attribute in agent configuration</li>\n<li>Updated CI workflows and release publishing process to ",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.0.0a1"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2025-09-30-aws-amazon-sagemaker-managed-mlflow-is-now-available-i",
       "date": "2025-09-30",
       "name": "Amazon SageMaker managed MLflow is now available in the AWS GovCloud (US) Regions",
@@ -893,186 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-lambda-code-signing-govcloud"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-24-aws-application-recovery-controller-region-switch-is-n",
-      "date": "2025-09-24",
-      "name": "Application Recovery Controller Region switch is now available in Asia Pacific (New Zealand)",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Region switch in Amazon Application Recovery Controller (ARC) is now available in the Asia Pacific (New Zealand) Region. Region switch allows you to orchestrate the specific steps to operate your cross-AWS account app",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/application-recovery-controller-region-switch-new-zealand/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-24-aws-amazon-gamelift-servers-launches-a-new-local-zone-",
-      "date": "2025-09-24",
-      "name": "Amazon GameLift Servers launches a new Local Zone in Dallas, Texas",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon GameLift Servers now supports a new AWS Local Zone in Dallas, Texas (us-east-1-dfw-2). You can use this Local Zone to deploy GameLift Fleets with EC2 C6gn, C6i, C6in, M6g, M6i, M6in, M8g, and R6i instances. Loc",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-gamelift-servers-local-zone-dallas-texas/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-24-aws-aws-announces-unlimited-network-burst-duration-on-",
-      "date": "2025-09-24",
-      "name": "AWS announces unlimited network burst duration on EC2 I8g and I7i instances",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Today, AWS eliminated the networking bandwidth burst duration limitations for Amazon EC2 I7i and I8g instances on sizes larger than 4xlarge. This update doubles the Network Bandwidth available at all times for i7i and",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-announces-unlimited-network-burst-duration-i8g-i7i"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-23-openai-increased-error-rate-for-chatgpt",
-      "date": "2025-09-23",
-      "name": "Increased error rate for ChatGPT",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Agent (Operational)</li>\n<li>Codex (Operational)</li>\n          </ul>",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01K5SPYMA9ZPZW5RGZ8BZ9P4JQ"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-23-openai-openai-oracle-and-softbank-expand-stargate-with-fi",
-      "date": "2025-09-23",
-      "name": "OpenAI, Oracle, and SoftBank expand Stargate with five new AI datacenter sites",
-      "vendor": "OpenAI",
-      "type": "pricing",
-      "summary": "OpenAI, Oracle, and SoftBank announce five new Stargate AI datacenter sites, accelerating a $500B, 10-gigawatt U.S. infrastructure buildout to power next-generation AI and create tens of thousands of jobs.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/five-new-stargate-sites"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-23-aws-amazon-datazone-is-now-available-in-3-additional-c",
-      "date": "2025-09-23",
-      "name": "Amazon DataZone is now available in 3 additional commercial regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon DataZone is now available in AWS Asia Pacific (Hong Kong), Asia Pacific (Malaysia) and Europe (Zurich) Regions.<br /> <br /> Amazon DataZone is a fully managed data management service to catalog, discover, anal",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-datazone-additional-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-23-aws-aws-license-manager-now-supports-shared-aws-manage",
-      "date": "2025-09-23",
-      "name": "AWS License Manager now supports shared AWS Managed Active Directory",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS License Manager announces support for shared AWS Managed Active Directory across multiple AWS accounts, simplifying Microsoft license management on AWS. Customers can now centralize user subscriptions of Microsoft",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-license-manager-shared-managed-active-directory"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-23-aws-aws-iam-identity-center-organization-instances-now",
-      "date": "2025-09-23",
-      "name": "AWS IAM Identity Center organization instances now support customer-managed KMS keys for encryption at rest",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>IAM Identity Center now supports customer-managed AWS Key Management Service (KMS) keys for encrypting workforce identity data, including user and group attributes. While AWS-owned keys are used by default, customer-m",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-iam-identity-center-organization-customer-managed-kms-keys-encryption-at-rest/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-23-aws-amazon-nova-act-extension-build-and-test-ai-agents",
-      "date": "2025-09-23",
-      "name": "Amazon Nova Act extension: Build and test AI agents within your IDE",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>We’re excited today to announce the Amazon Nova Act extension - a tool that transforms how you build with Nova Act by bringing the entire agent development experience directly into IDEs like Visual Studio Code, Kiro, ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-nova-act-extension-build-test-ai-agents-ide/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-23-aws-aws-announces-ec2-instance-attestation",
-      "date": "2025-09-23",
-      "name": "AWS announces EC2 instance attestation",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS announces the general availability of EC2 instance attestation to make it easier for customers to validate that only trusted software is running on their EC2 instances, including instances with AI chips and GPUs.<",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-announces-ec2-instance-attestation"
         }
       ],
       "impact": 5,
