@@ -1,6 +1,330 @@
 {
   "items": [
     {
+      "id": "2025-10-03-openai-users-cannot-login-or-create-new-accounts",
+      "date": "2025-10-03",
+      "name": "Users cannot login or create new accounts",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Investigating</b><br /><br />We are investigating the issue for the listed services.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Login (Degraded performance)</li>\n<li>Login (Degraded per",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01K6KTZSSJTK1Q0YWQZYA9EGPW"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-02-openai-openai-announces-strategic-collaboration-with-japa",
+      "date": "2025-10-02",
+      "name": "OpenAI announces strategic collaboration with Japan’s Digital Agency",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "OpenAI and Japan’s Digital Agency partner to advance generative AI in public services, support international AI governance, and promote safe, trustworthy AI adoption worldwide.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/global-affairs/strategic-collaboration-with-japan-digital-agency"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-02-openai-codex-connectors-search-agent-deep-research-custom",
+      "date": "2025-10-02",
+      "name": "Codex, Connectors, Search, Agent, Deep Research, Custom GPTs, Project Sharing, ChatGPT Record, Memory and other features related to RBAC are missing, unavailabl",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Investigating</b><br /><br />We are continuing to investigate the issue for the listed services.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>GPTs (Full outage)</li>\n<li>Agent (Full outag",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01K6KAAN7WXN69E8JET8PYB0D5"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-02-aws-aws-directory-service-enables-api-driven-managed-m",
+      "date": "2025-10-02",
+      "name": "AWS Directory Service enables API-driven Managed Microsoft AD edition upgrades",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Directory Service now enables customers to upgrade Managed Microsoft AD from Standard to Enterprise Edition programmatically through the UpdateDirectorySetup API. The self-service edition upgrade eliminates the ne",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-directory-service-api-edition-upgrades"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-02-aws-amazon-connect-now-supports-agent-screen-recording",
+      "date": "2025-10-02",
+      "name": "Amazon Connect now supports agent screen recording for ChromeOS",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Connect now provides screen recording for agents using ChromeOS devices making it easier for you to help improve their performance. With screen recording, you can identify areas for agent coaching (e.g., long c",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-agent-screen-recording-chromeos/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-02-aws-amazon-connect-now-provides-agent-time-off-balance",
+      "date": "2025-10-02",
+      "name": "Amazon Connect now provides agent time-off balance data in analytics data lake",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect now provides agent time-off balance data in analytics data lake, making it easier for you to generate reports and insights from this data. With this launch, you can now access latest and historical agen",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-agent-time-off-balance-data/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-02-aws-amazon-cognito-adds-terms-of-use-and-privacy-polic",
+      "date": "2025-10-02",
+      "name": "Amazon Cognito adds terms of use and privacy policy documents support to Managed Login",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Cognito now allows you to configure terms of use and privacy policy documents for <a href=\"https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-user-pools-managed-login.html\" target=\"_blank\">Manage",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cognito-terms-use-privacy-policy-documents-managed-login"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-02-aws-amazon-neptune-database-now-integrates-with-graphs",
+      "date": "2025-10-02",
+      "name": "Amazon Neptune Database now integrates with GraphStorm for scalable graph machine learning",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, we’re announcing the integration of Amazon Neptune Database with GraphStorm, a scalable, open-source graph machine learning (ML) library built for enterprise-scale applications. This brings together Neptune’s O",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-neptune-database-graphstorm"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-02-aws-aws-config-advanced-query-and-aggregator-now-avail",
+      "date": "2025-10-02",
+      "name": "AWS Config advanced query and aggregator now available in Asia Pacific (New Zealand) Region",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Config advanced queries and aggregators are now available in Asia Pacific (New Zealand) region. You can use advanced queries to query the current configuration and compliance state of your AWS resources. Aggregato",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-config-advanced-query-aggregator-new-zealand-region"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-02-aws-aws-secrets-manager-expands-aws-privatelink-suppor",
+      "date": "2025-10-02",
+      "name": "AWS Secrets Manager expands AWS PrivateLink support to FIPS endpoints",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Secrets Manager now supports AWS PrivateLink with all Secrets Manager Federal Information Processing Standard (FIPS) endpoints that are available in commercial AWS Regions and the AWS GovCloud (US) Regions.<br /> ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-secrets-manager-privatelink-fips-endpoints"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-02-aws-open-source-model-context-protocol-mcp-server-now-",
+      "date": "2025-10-02",
+      "name": "Open Source Model Context Protocol (MCP) Server now available for Amazon Bedrock AgentCore",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>This new standardized interface allows developers to analyze, transform, and deploy production-ready AI agents directly in their preferred development environment.<br /> <br /> Get started with AgentCore faster and mo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/open-source-mcp-server-amazon-bedrock-agentcore"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-02-aws-amazon-connect-makes-it-easier-to-get-customer-inp",
+      "date": "2025-10-02",
+      "name": "Amazon Connect makes it easier to get customer input on outbound calls",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Connect, the cloud-based contact center service from AWS, now supports Get Customer Input and Store Customer Input flow blocks for outbound voice whisper flows. The Get Customer Input flow block allows a prompt",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-customer-input-outbound-calls"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-02-aws-amazon-gamelift-servers-adds-ability-to-view-and-c",
+      "date": "2025-10-02",
+      "name": "Amazon GameLift Servers adds ability to view and connect to instances in the console",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, Amazon GameLift Servers launched new console capabilities that let you view and connect to individual fleet instances. The EC2 and Container Fleet Detail pages have a new Instances tab to see a list of instance",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-gamelift-servers-view-connect-instances-console"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-02-aws-aws-parallel-computing-service-now-supports-dynami",
+      "date": "2025-10-02",
+      "name": "AWS Parallel Computing Service now supports dynamic cluster updates",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS Parallel Computing Service (AWS PCS) now enables you to modify and update key Slurm workload manager settings without rebuilding your cluster. You can now adjust essential parameters including accounting configura",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-pcs-dynamic-cluster/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-02-aws-amazon-ecs-now-supports-one-click-event-capture-an",
+      "date": "2025-10-02",
+      "name": "Amazon ECS now supports one-click event capture and event history querying in the AWS Management Console",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/ecs/\">Amazon Elastic Container Services</a> (Amazon ECS), a fully managed container orchestration service, now provides one-click event capture and event history querying directly in th",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ecs-one-click-event-capture-history-querying-console/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-02-aws-aws-parallel-computing-service-expands-slurm-custo",
+      "date": "2025-10-02",
+      "name": "AWS Parallel Computing Service expands Slurm customization capabilities",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS Parallel Computing Service (AWS PCS) now offers expanded Slurm configuration capabilities, enabling you to set over 60 additional parameters for granular control over your high performance computing (HPC) cluster ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-pcs-slurm-customization/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-02-aws-cohere-s-embed-v4-multimodal-embeddings-model-now-",
+      "date": "2025-10-02",
+      "name": "Cohere’s Embed v4 multimodal embeddings model now available on Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock now offers Cohere Embed v4, the latest state-of-the-art multimodal embedding model from Cohere that produces high-quality embeddings for text, images, and complex business documents. This powerful addit",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/coheres-embed-v4-multimodal-embeddings-bedrock/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-02-crewai-1-0-0a2",
+      "date": "2025-10-02",
+      "name": "1.0.0a2",
+      "vendor": "CrewAI",
+      "type": "deprecation",
+      "summary": "<h2>What's Changed</h2>\n<h2>Core Improvements &amp; Fixes</h2>\n<ul>\n<li>Fixed handling of <code>anyOf</code>, <code>oneOf</code>, and <code>allOf</code> schema properties for improved schema parsing reliability</li>\n</ul",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.0.0a2"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2025-10-01-openai-samsung-and-sk-join-openai-s-stargate-initiative-t",
       "date": "2025-10-01",
       "name": "Samsung and SK join OpenAI’s Stargate initiative to advance global AI infrastructure",
@@ -178,6 +502,24 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2025-10-01-aws-amazon-sagemaker-unified-studio-announces-single-s",
+      "date": "2025-10-01",
+      "name": "Amazon SageMaker Unified Studio announces single sign-on support for interactive Spark sessions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker Unified Studio announces corporate identity support for interactive Apache Spark sessions through AWS Identity Center’s trusted identity propagation. This new capability enables seamless single sign-o",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-sagemaker-unified-studio-single-sign-on-spark-sessions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
       "tags": []
     },
     {
@@ -736,348 +1078,6 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2025-09-26-openai-increased-latency-on-fine-tuning-jobs",
-      "date": "2025-09-26",
-      "name": "Increased latency on fine-tuning jobs",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Identified</b><br /><br />Fine-tuning jobs may take longer than expected due to high load.\n\nWe are working on implementing a mitigation.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Fine-",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01K6478V94R3A062JY1GMJX5ZR"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-26-aws-amazon-neptune-analytics-is-now-available-in-aws-a",
-      "date": "2025-09-26",
-      "name": "Amazon Neptune Analytics is now available in AWS Asia Pacific (Mumbai) Region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://docs.aws.amazon.com/neptune-analytics/latest/userguide/what-is-neptune-analytics.html\">Amazon Neptune Analytics</a> is now available in the Asia Pacific (Mumbai) Region. You can now create and manage ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-neptune-analytics-available-mumbai"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-26-aws-local-file-redirection-is-now-available-on-amazon-",
-      "date": "2025-09-26",
-      "name": "Local file redirection is now available on Amazon AppStream 2.0 multi-session fleets",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon AppStream 2.0 is enhancing the end-user experience by introducing support for local files redirection on multi-session fleets. While this feature is already available on single-session fleets, this launch exten",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/local-file-redirection-amazon-appstream-multi-session-fleets/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-26-aws-amazon-msk-connect-is-now-available-in-five-additi",
-      "date": "2025-09-26",
-      "name": "Amazon MSK Connect is now available in five additional AWS Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon MSK Connect is now available in five additional AWS Regions: Asia Pacific (Thailand), Asia Pacific (Taipei), Mexico (Central), Canada West (Calgary), and Europe (Spain). MSK Connect enables you to run fully man",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-msk-connect-five-additional-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-26-aws-amazon-ebs-increases-the-maximum-size-and-provisio",
-      "date": "2025-09-26",
-      "name": "Amazon EBS increases the maximum size and provisioned performance of General Purpose (gp3) volumes",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Elastic Block Store (Amazon EBS) now supports higher volume-level limits for its General Purpose (gp3) volumes. With this update, gp3 volumes can scale up to 64 TiB in size (4X the previous 16 TiB limit), up to",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ebs-size-provisioned-performance-gp3-volumes/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-26-aws-aws-compute-optimizer-now-supports-99-new-amazon-e",
-      "date": "2025-09-26",
-      "name": "AWS Compute Optimizer now supports 99 new Amazon EC2 instance types",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Compute Optimizer now supports 99 additional Amazon Elastic Compute Cloud (Amazon EC2) instance types. These enhancements help you identify additional savings opportunities across your EC2 instances without specia",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-compute-optimizer-99-new-amazon-ec2-instance-types/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-26-aws-aws-waf-targeted-bot-control-fraud-ddos-prevention",
-      "date": "2025-09-26",
-      "name": "AWS WAF Targeted Bot Control, Fraud & DDoS Prevention Rule Group available in 3 more regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, AWS WAF’s Targeted Bot Control, Fraud, and DDoS Prevention Rule Group are available in the AWS Asia Pacific (Taipei), Asia Pacific (Bangkok), and Mexico (Central) regions. These features help customers",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-waf-targeted-bot-control-fraud-ddos-regions-expansion"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-26-aws-amazon-rds-for-db2-now-offers-reserved-instances",
-      "date": "2025-09-26",
-      "name": "Amazon RDS for Db2 now offers Reserved Instances",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a contenteditable=\"false\" href=\"https://aws.amazon.com/rds/db2/\" style=\"cursor: pointer;\" target=\"_blank\">Amazon Relational Database Service (RDS) for Db2</a> now offers Reserved Instances with up to 47% cost savings",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-db2-offers-reserved-instances"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-26-crewai-0-201-1",
-      "date": "2025-09-26",
-      "name": "0.201.1",
-      "vendor": "CrewAI",
-      "type": "deprecation",
-      "summary": "<h2>What's Changed</h2>\n<h2>Core Improvements &amp; Fixes</h2>\n<ul>\n<li>Renamed <code>watson</code> embedding provider to <code>watsonx</code> and updated corresponding environment variable prefixes</li>\n<li>Added Chroma",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/0.201.1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2025-09-25-aws-amazon-bedrock-agentcore-runtime-browser-and-code-",
-      "date": "2025-09-25",
-      "name": "Amazon Bedrock AgentCore Runtime, Browser, and Code Interpreter add support for VPC, AWS PrivateLink, CloudFormation, and tagging",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock AgentCore Runtime, Browser, and Code Interpreter services now support Amazon Virtual Private Cloud (VPC) connectivity, AWS PrivateLink, AWS CloudFormation, and resource tagging, enabling developers to d",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-bedrock-agentcore-runtime-browser-code-interpreter-vpc-privatelink-cloudformation-tagging"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-25-aws-amazon-redshift-concurrency-scaling-is-now-availab",
-      "date": "2025-09-25",
-      "name": "Amazon Redshift Concurrency Scaling is now available in 10 additional AWS regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Redshift Concurrency Scaling is now available in the AWS Africa (Cape Town), Asia Pacific (Hong Kong), Asia Pacific (Hyderabad), Asia Pacific (Jakarta), Asia Pacific (Osaka), Asia Pacific (Thailand), Europe (Mi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-redshift-concurrency-scaling-additional-aws-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-25-aws-amazon-ec2-c8gn-instances-are-now-available-in-add",
-      "date": "2025-09-25",
-      "name": "Amazon EC2 C8gn instances are now available in additional regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8gn instances, powered by the latest-generation AWS Graviton4 processors, are available in the AWS Region Europe (Frankfurt, Stockholm), Asia Pacific (Singapo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-c8gn-instances-additional-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-25-aws-billing-view-now-supports-cost-management-data-fro",
-      "date": "2025-09-25",
-      "name": "Billing View now supports cost management data from multiple organizations",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the general availability of new capabilities within AWS Billing and Cost Management that enable customers to manage their AWS spend across multiple organizations through a single AWS account. Cust",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/billing-view-cost-management-multiple-organizations"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-25-aws-amazon-cloudwatch-now-supports-resource-tags-when-",
-      "date": "2025-09-25",
-      "name": "Amazon CloudWatch now supports resource tags when monitoring vended metrics",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, Amazon CloudWatch announces support for a new tag-based telemetry experience to help customers monitor their metrics and set up their alarms using AWS resources tags. This new capability simplifies monitoring c",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-cloudwatch-tags-observability"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-25-aws-aws-x-ray-introduces-adaptive-sampling-for-automat",
-      "date": "2025-09-25",
-      "name": "AWS X-Ray introduces Adaptive Sampling for automatic optimized error detection",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a contenteditable=\"false\" href=\"https://aws.amazon.com/xray/\" style=\"cursor: pointer;\">AWS X-Ray</a>, a service that helps developers analyze and debug distributed applications by providing request tracing capabiliti",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-x-ray-adaptive-sampling-automatic-error/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-25-aws-amazon-ec2-allowed-amis-setting-adds-new-parameter",
-      "date": "2025-09-25",
-      "name": "Amazon EC2 Allowed AMIs setting adds new parameters for enhanced AMI governance",
-      "vendor": "AWS",
-      "type": "deprecation",
-      "summary": "<p>Allowed AMIs, the Amazon EC2 account-wide setting that enables you to limit the discovery and use of Amazon Machine Images (AMIs) within your Amazon Web Services accounts, adds support for four new parameters — market",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-allowed-amis-setting-parameters-ami-governance/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-25-aws-you-can-now-preview-amazon-s3-tables-in-the-s3-con",
-      "date": "2025-09-25",
-      "name": "You can now preview Amazon S3 Tables in the S3 console",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>You can now preview your Amazon S3 Tables directly in the S3 console without having to write a SQL query. You can view the schema and sample rows of your tables stored in S3 Tables to better understand and gather key ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/preview-amazon-s3-tables-console"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-25-aws-postgresql-18-0-is-now-available-in-amazon-rds-dat",
-      "date": "2025-09-25",
-      "name": "PostgreSQL 18.0 is now available in Amazon RDS Database Preview Environment",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/postgresql/\">Amazon RDS for PostgreSQL</a> 18.0 is now available in the<a href=\"https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/create-db-instance-in-preview-environment.html",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/postgresql-180-amazon-rds-database-preview-environment/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-24-aws-announcing-aws-lambda-support-for-code-signing-in-",
-      "date": "2025-09-24",
-      "name": "Announcing AWS Lambda Support for Code Signing in GovCloud Regions",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS Lambda now offers Code Signing in GovCloud Regions (AWS GovCloud (US-West) and AWS GovCloud (US-East)), which allows administrators to ensure that only trusted and verified code is deployed to Lambda functions. Th",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-lambda-code-signing-govcloud"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
       "tags": []
     }
   ]
