@@ -19,6 +19,168 @@
       "tags": []
     },
     {
+      "id": "2025-10-03-openai-codex-connectors-search-agent-deep-research-custom",
+      "date": "2025-10-03",
+      "name": "Codex, Connectors, Search, Agent, Deep Research, Custom GPTs, Project Sharing, ChatGPT Record, Memory and other features related to RBAC are missing, unavailabl",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Search (Operational)</li>\n<li>GPTs (Operational)</li>\n<li>Agent (Opera",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01K6KAAN7WXN69E8JET8PYB0D5"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-03-aws-aws-glue-adds-write-operations-for-sap-odata-adobe",
+      "date": "2025-10-03",
+      "name": "AWS Glue adds write operations for SAP OData, Adobe Marketo Engage, Salesforce Marketing Cloud, and HubSpot connectors",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/glue/\">AWS Glue</a> adds write operations support for SAP OData, Adobe Marketo Engage, Salesforce Marketing Cloud, and HubSpot connectors. This allows you to not only extract data from ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-glue-write-operations-connectors"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-03-aws-amazon-opensearch-ingestion-now-supports-batch-ai-",
+      "date": "2025-10-03",
+      "name": "Amazon OpenSearch Ingestion now supports batch AI inference",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>You can now perform batch AI inference within Amazon OpenSearch Ingestion pipelines to efficiently enrich and ingest large datasets for Amazon OpenSearch Service domains.<br /> <br /> Previously, customers used OpenSe",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-opensearch-service-supports-batch-ai-inference"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-03-aws-amazon-kinesis-video-streams-now-supports-ipv6-for",
+      "date": "2025-10-03",
+      "name": "Amazon Kinesis Video Streams now supports IPv6 for Streams capability",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces Internet Protocol version 6 (IPv6) addressing support for<a href=\"https://aws.amazon.com/kinesis/video-streams/\"> Amazon Kinesis Video Streams (KVS)</a>. With this enhancement, KVS now offers dual",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-kinesis-video-streams-ipv6-streams-capability/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-03-aws-amazon-connect-now-provides-generative-ai-powered-",
+      "date": "2025-10-03",
+      "name": "Amazon Connect now provides generative AI-powered email conversation overviews and suggested responses",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Connect now provides agents with generative AI-powered email conversation overviews, suggested actions, and responses. This enables agents to handle emails more efficiently, and customers to receive faster, mor",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-generative-ai-powered-email-conversation-overviews"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-03-aws-aws-clean-rooms-now-supports-collaboration-with-cr",
+      "date": "2025-10-03",
+      "name": "AWS Clean Rooms now supports collaboration with cross-region data sources",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS Clean Rooms announces support for cross-region data collaboration. This launch enables companies and their partners to easily collaborate with data sources stored in different regions, without having to mov",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-clean-rooms-collaboration-cross-region-data-sources"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-03-aws-aws-directory-service-introduces-ipv6-support-for-",
+      "date": "2025-10-03",
+      "name": "AWS Directory Service introduces IPv6 support for Managed Microsoft AD and AD Connector",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Directory Service now supports IPv6 connectivity for Managed Microsoft AD and AD Connector. The IPv6 capabilities allow customers to deploy directories with IPv4-only, IPv6-only, or dual-stack configurations, help",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-directory-service-ipv6"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-03-aws-ec2-image-builder-now-provides-enhanced-capabiliti",
+      "date": "2025-10-03",
+      "name": "EC2 Image Builder now provides enhanced capabilities for managing image pipelines",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>EC2 Image Builder now automatically disables pipelines after consecutive failures and allows customers to configure custom log groups for image pipelines. These capabilities address common operational needs including ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/ec2-image-builder-capabilities-managing-image-pipelines/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-03-aws-aws-introduces-self-service-invoice-correction-fea",
+      "date": "2025-10-03",
+      "name": "AWS Introduces self-service invoice correction feature",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the general availability of a self-service Invoice correction feature to update AWS invoices. This launch enables all AWS customers to correct key invoice attributes—including purchase order numbe",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/self-service-invoice-correction-feature/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-10-02-openai-openai-announces-strategic-collaboration-with-japa",
       "date": "2025-10-02",
       "name": "OpenAI announces strategic collaboration with Japan’s Digital Agency",
@@ -916,168 +1078,6 @@
       "impact": 5,
       "risk": 3,
       "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-29-aws-amazon-ec2-auto-scaling-expands-aws-privatelink-su",
-      "date": "2025-09-29",
-      "name": "Amazon EC2 Auto Scaling expands AWS PrivateLink support to FIPS endpoints",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, Amazon EC2 Auto Scaling (ASG) supports Federal Information Processing Standard (FIPS) 140-3 validated VPC endpoints. With this launch, you can use AWS PrivateLink with ASG for regulated workloads that ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-auto-scaling-privatelink-fips-endpoints/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-29-aws-anthropic-s-claude-sonnet-4-5-is-now-in-amazon-bed",
-      "date": "2025-09-29",
-      "name": "Anthropic’s Claude Sonnet 4.5 is now in Amazon Bedrock",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Customers can now use Claude Sonnet 4.5 in Amazon Bedrock, a fully managed service that offers a choice of high- performing foundation models from leading AI companies. Claude Sonnet 4.5 is Anthropic's most intelligen",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/anthropics-claude-sonnet-4-5-amazon-bedrock"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-29-aws-amazon-connect-dashboards-now-support-filtering-an",
-      "date": "2025-09-29",
-      "name": "Amazon Connect dashboards now support filtering and comparing metrics by any time range",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect dashboards now supports selecting and comparing any time ranges enabling you to focus on specific, relevant data and perform in-depth analysis up to a maximum of 35 days in the last 3 months. Additional",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-dashboards-filtering-comparing-metrics-time-range"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-29-aws-amazon-bedrock-now-available-in-the-middle-east-ua",
-      "date": "2025-09-29",
-      "name": "Amazon Bedrock now available in the Middle East (UAE) Region",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Beginning today, customers can use Amazon Bedrock in the Middle East (UAE) region to easily build and scale generative AI applications using a variety of foundation models (FMs) as well as powerful tools to build gene",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-bedrock-middle-east-uae-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-29-aws-aws-network-firewall-adds-reject-and-alert-actions",
-      "date": "2025-09-29",
-      "name": "AWS Network Firewall adds Reject and Alert actions for stateful domain list rule groups",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS Network Firewall introduces Reject and Alert action support for stateful domain list rule groups, providing customers with more granular control over their network traffic. This enhancement allows customers",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-network-firewall-reject-alert-domain-list-rule-groups/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-29-aws-amazon-bedrock-now-available-in-the-asia-pacific-t",
-      "date": "2025-09-29",
-      "name": "Amazon Bedrock now available in the Asia Pacific (Thailand, Malaysia, and Taipei) Regions",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Beginning today, customers can use Amazon Bedrock in the Asia Pacific (Thailand), Asia Pacific (Malaysia), and Asia Pacific (Taipei) regions to easily build and scale generative AI applications using a variety of foun",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-bedrock-thailand-malaysia-taipei-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-29-aws-amazon-bedrock-now-available-in-the-israel-tel-avi",
-      "date": "2025-09-29",
-      "name": "Amazon Bedrock now available in the Israel (Tel Aviv) Region",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Beginning today, customers can use Amazon Bedrock in the Israel (Tel Aviv) region to easily build and scale generative AI applications using a variety of foundation models (FMs) as well as powerful tools to build gene",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-bedrock-israel-tel-aviv-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-29-aws-announcing-amazon-rds-for-postgresql-extended-supp",
-      "date": "2025-09-29",
-      "name": "Announcing Amazon RDS for PostgreSQL Extended Support versions R2: 12.22-rds.20250814 and 11.22-rds.20250814",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon RDS for PostgreSQL introduces Extended Support minor versions 12.22-rds.20250814 and 11.22-rds.20250814, which include important security updates and bug fixes for PostgreSQL databases.We recommend upgrading yo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-postgresql-extended-support-versions-12.22-rds-20250814-11.22-rds-20250814/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-26-crewai-0-201-0",
-      "date": "2025-09-26",
-      "name": "0.201.0",
-      "vendor": "CrewAI",
-      "type": "deprecation",
-      "summary": "<h2>What's Changed</h2>\n<h2>Core Improvements &amp; Fixes</h2>\n<ul>\n<li>Made the <code>ready</code> parameter optional in <code>_create_reasoning_plan</code> for flexibility</li>\n<li>Fixed nested config format handling f",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/0.201.0"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
       "tags": []
     }
   ]
