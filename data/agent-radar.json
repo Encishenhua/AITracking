@@ -1,6 +1,114 @@
 {
   "items": [
     {
+      "id": "2025-10-06-openai-amd-and-openai-announce-strategic-partnership-to-d",
+      "date": "2025-10-06",
+      "name": "AMD and OpenAI announce strategic partnership to deploy 6 gigawatts of AMD GPUs",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "AMD and OpenAI have announced a multi-year partnership to deploy 6 gigawatts of AMD Instinct GPUs, beginning with 1 gigawatt in 2026, to power OpenAI’s next-generation AI infrastructure and accelerate global AI innovatio",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/openai-amd-strategic-partnership"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-06-openai-introducing-agentkit-new-evals-and-rft-for-agents",
+      "date": "2025-10-06",
+      "name": "Introducing AgentKit, new Evals, and RFT for agents",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "Today, we’re releasing  new tools to help developers go from prototype to production faster: AgentKit, expanded evals capabilities, and reinforcement fine-tuning for agents.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/introducing-agentkit"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-06-openai-elevated-error-rates-for-gmail-and-google-calendar",
+      "date": "2025-10-06",
+      "name": "Elevated error rates for Gmail and Google Calendar connectors",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Investigating</b><br /><br />We are investigating the issue for the listed services.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Connectors (Degraded performance)</li>\n          </ul>",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01K6X3AG0M3XVN3B2610GFXB10"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-06-aws-amazon-eks-and-amazon-eks-distro-now-supports-kube",
+      "date": "2025-10-06",
+      "name": "Amazon EKS and Amazon EKS Distro now supports Kubernetes version 1.34",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Kubernetes version 1.34 introduced several new features and bug fixes, and AWS is excited to announce that you can now use&nbsp;<a href=\"https://aws.amazon.com/eks/\">Amazon Elastic Kubernetes Service</a>&nbsp;(EKS) an",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-eks-distro-kubernetes-version-1-34"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-06-aws-amazon-connect-launches-new-case-apis-to-link-rela",
+      "date": "2025-10-06",
+      "name": "Amazon Connect launches new case APIs to link related cases, add custom related items, and search across them",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect now allows you to programmatically enrich case data by linking related cases, attaching custom related items, and searching across them, so agents have the full context they need to resolve issues faste",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-cases-api-link-search/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-06-aws-new-compute-optimized-amazon-ec2-c8i-and-c8i-flex-",
+      "date": "2025-10-06",
+      "name": "New Compute Optimized Amazon EC2 C8i and C8i-flex instances",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS is announcing the general availability of new compute optimized Amazon EC2 C8i and C8i-flex instances. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the highest p",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c8i-and-c8i-flex-instances-generally-available"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-10-03-openai-users-cannot-login-or-create-new-accounts",
       "date": "2025-10-03",
       "name": "Users cannot login or create new accounts",
@@ -965,114 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-transfer-family-vpc-endpoint-policies"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-30-autogen-python-v0-7-5",
-      "date": "2025-09-30",
-      "name": "python-v0.7.5",
-      "vendor": "AutoGen",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<ul>\n<li>Fix docs dotnet core typo by <a class=\"user-mention notranslate\" href=\"https://github.com/lach-g\">@lach-g</a> in <a class=\"issue-link js-issue-link\" href=\"https://github.com/microsoft/aut",
-      "sources": [
-        {
-          "title": "AutoGen source",
-          "url": "https://github.com/microsoft/autogen/releases/tag/python-v0.7.5"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2025-09-29-openai-building-openai-with-openai",
-      "date": "2025-09-29",
-      "name": "Building OpenAI with OpenAI",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "At OpenAI, we rely on our own technology to help streamline work, scale expertise, and drive outcomes. In our new series, OpenAI on OpenAI, we share lessons to help other organizations do the same.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/building-openai-with-openai"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-29-openai-turning-contracts-into-searchable-data-at-openai",
-      "date": "2025-09-29",
-      "name": "Turning contracts into searchable data at OpenAI",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "OpenAI built a system to extract contract data quickly, cutting turnaround times and making it easier for teams to access the details they need.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/openai-contract-data-agent"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-29-openai-buy-it-in-chatgpt-instant-checkout-and-the-agentic",
-      "date": "2025-09-29",
-      "name": "Buy it in ChatGPT: Instant Checkout and the Agentic Commerce Protocol",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "We’re taking first steps toward agentic commerce in ChatGPT with new ways for people, AI agents, and businesses to shop together.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/buy-it-in-chatgpt"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-29-openai-compliance-api-ingestion-delays",
-      "date": "2025-09-29",
-      "name": "Compliance API ingestion delays",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery over the next day.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Compliance API (Degraded performan",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01K6B6T0GVFX2JHJ0ZKDTYNP9R"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-29-aws-amazon-ecs-announces-ipv6-only-support",
-      "date": "2025-09-29",
-      "name": "Amazon ECS announces IPv6-only support",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/ecs/\" target=\"_blank\">Amazon Elastic Container Service</a>&nbsp;(Amazon ECS) now supports running tasks in IPv6-only subnets. With this launch, Amazon ECS tasks and services can run usi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ecs-ipv6-only-support/"
         }
       ],
       "impact": 5,
