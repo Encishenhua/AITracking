@@ -1,6 +1,150 @@
 {
   "items": [
     {
+      "id": "2025-10-07-openai-elevated-error-rates-for-gmail-and-google-calendar",
+      "date": "2025-10-07",
+      "name": "Elevated error rates for Gmail and Google Calendar connectors",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Investigating</b><br /><br />We are investigating the issue for the listed services.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Connectors (Degraded performance)</li>\n          </ul>",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01K6X3AG0M3XVN3B2610GFXB10"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-07-aws-amazon-vpc-lattice-now-supports-configurable-ip-ad",
+      "date": "2025-10-07",
+      "name": "Amazon VPC Lattice now supports configurable IP addresses for Resource Gateways",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, Amazon VPC Lattice lets you configure the number of IPv4 addresses assigned to resource gateway elastic network interfaces (ENIs). This enhancement builds on VPC Lattice's capability of providing acces",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-vpc-lattice-configurable-ip-resource-gateway/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-07-aws-amazon-rds-for-db2-launches-support-for-native-dat",
+      "date": "2025-10-07",
+      "name": "Amazon RDS for Db2 launches support for native database backups",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/db2/\">Amazon Relational Database Service (Amazon RDS) for Db2</a> now enables customers to perform native database-level backups, offering greater flexibility in database management",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-rds-for-db2-native-database-backup/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-07-aws-aws-marketplace-now-supports-new-currencies-for-us",
+      "date": "2025-10-07",
+      "name": "AWS Marketplace now supports new currencies for usage-based private offers",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Marketplace now supports usage-based private offers in four new currencies: EUR, GBP, AUD, and JPY. AWS Marketplace Sellers and Channel Partners can now reach buyers globally without currency conversion complexity",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-marketplace-currencies-usage-based-private-offers"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-07-aws-automatic-quota-management-is-now-generally-availa",
+      "date": "2025-10-07",
+      "name": "Automatic quota management is now generally available for AWS Service Quotas",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the general availability of a new capability of AWS Service Quotas called automatic quota management. AWS Service Quotas helps you view and manage your quotas from a central location. This new fea",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/automatic-quota-management-service-quotas/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-07-aws-aws-marketplace-announces-enhanced-pricing-dimensi",
+      "date": "2025-10-07",
+      "name": "AWS Marketplace announces enhanced pricing dimension capabilities for sellers",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS Marketplace announces enhanced <a contenteditable=\"false\" href=\"https://docs.aws.amazon.com/marketplace/latest/userguide/saas-subscriptions.html#:~:text=Each%20Pricing%20Dimension%20represents%20a%20feature",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-marketplace-pricing-dimension-sellers/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-07-aws-amazon-redshift-serverless-with-lower-base-capacit",
+      "date": "2025-10-07",
+      "name": "Amazon Redshift Serverless with lower base capacity available in the AWS Asia Pacific (Seoul) and Canada (Central) Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Redshift now allows you to get started with Amazon Redshift Serverless with a lower data warehouse <a contenteditable=\"false\" href=\"https://docs.aws.amazon.com/redshift/latest/mgmt/serverless-capacity.html\" sty",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-redshift-serverless-asia-pacific-seoul-europe-paris/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-07-langchain-langgraph-not-another-workflow-builder",
+      "date": "2025-10-07",
+      "name": "Not Another Workflow Builder",
+      "vendor": "LangChain/LangGraph",
+      "type": "launch",
+      "summary": "<p>One of the most common requests we&#x2019;ve gotten from day zero of LangChain has been a visual workflow builder. We never pursued it and instead let others (LangFlow, Flowise, n8n) build on top of us. With OpenAI la",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/not-another-workflow-builder/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2025-10-06-openai-amd-and-openai-announce-strategic-partnership-to-d",
       "date": "2025-10-06",
       "name": "AMD and OpenAI announce strategic partnership to deploy 6 gigawatts of AMD GPUs",
@@ -101,6 +245,24 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c8i-and-c8i-flex-instances-generally-available"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-06-aws-aws-incident-detection-and-response-is-now-availab",
+      "date": "2025-10-06",
+      "name": "AWS Incident Detection and Response is now available in the AWS GovCloud (US) Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Incident Detection and Response is now available in both AWS GovCloud (US-West) and AWS GovCloud (US-East) Regions.<br /> <br /> AWS Incident Detection and Response offers eligible AWS Enterprise Support customers",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-incident-detection-now-available-govcloud-regions"
         }
       ],
       "impact": 5,
@@ -911,168 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-firewall-manager-aws-asia-pacific-taipei-region"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-30-aws-aws-outposts-now-supports-external-block-volumes-f",
-      "date": "2025-09-30",
-      "name": "AWS Outposts now supports external block volumes from Dell and HPE storage arrays",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, customers can use boot and data volumes backed by Dell PowerStore and HPE Alletra Storage MP B10000 storage arrays with Amazon Elastic Compute Cloud (Amazon EC2) instances on AWS Outposts, including au",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-outposts-external-block-volumes-dell-hpe-storage-arrays"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-30-aws-aws-storage-gateway-now-supports-vpc-endpoint-poli",
-      "date": "2025-09-30",
-      "name": "AWS Storage Gateway now supports VPC endpoint policies",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Storage Gateway now supports Virtual Private Cloud (VPC) endpoint policies for your VPC endpoints. With this feature, administrators can attach endpoint policies to VPC endpoints, allowing granular access control ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-storage-gateway-vpc-endpoint-policies"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-30-aws-aws-step-functions-now-supports-service-quotas",
-      "date": "2025-09-30",
-      "name": "AWS Step Functions now supports Service Quotas",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the general availability of AWS Service Quotas integration with <a href=\"https://aws.amazon.com/step-functions/\" target=\"_blank\">AWS Step Functions</a>, enabling customers to monitor and manage th",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-step-functions-service-quotas"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-30-aws-announcing-amazon-ecs-managed-instances",
-      "date": "2025-09-30",
-      "name": "Announcing Amazon ECS Managed Instances",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the launch of Amazon Elastic Container Service (Amazon ECS) Managed Instances, a new fully managed compute option designed to eliminate infrastructure management overhead while giving you access t",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ecs-managed-instances"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-30-aws-aws-iam-identity-center-is-available-in-asia-pacif",
-      "date": "2025-09-30",
-      "name": "AWS IAM Identity Center is available in Asia Pacific (Bangkok) and Mexico Central (Querétaro) AWS Regions",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>You can now deploy AWS IAM Identity Center in 36 AWS Regions, including Asia Pacific (Bangkok) and Mexico Central (Querétaro).</p> \n<p>IAM Identity Center is the recommended service for managing workforce access to AW",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-iam-identity-center-bangkok-and-queretaro-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-30-aws-second-generation-amazon-fsx-for-netapp-ontap-is-n",
-      "date": "2025-09-30",
-      "name": "Second-generation Amazon FSx for NetApp ONTAP is now available in four additional AWS Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon FSx for NetApp ONTAP second-generation file systems are now available in 4 additional AWS Regions: Europe (Spain, Zurich), Asia Pacific (Seoul), and Canada (Central).<br /> <br /> Amazon FSx makes it easier and",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/second-generation-amazon-fsx-netapp-ontap/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-30-aws-amazon-fsx-for-netapp-ontap-now-supports-internet-",
-      "date": "2025-09-30",
-      "name": "Amazon FSx for NetApp ONTAP now supports Internet Protocol Version 6 (IPv6)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon FSx now offers customers the option to use Internet Protocol version 6 (IPv6) for access to Amazon FSx for NetApp ONTAP file systems.<br /> <br /> More and more customers are adopting IPv6 to mitigate IPv4 addr",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-fsx-for-netapp-ontap-ipv6/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-30-aws-amazon-fsx-for-windows-file-server-now-supports-in",
-      "date": "2025-09-30",
-      "name": "Amazon FSx for Windows File Server now supports Internet Protocol Version 6 (IPv6)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon FSx now offers customers the option to use Internet Protocol version 6 (IPv6) for access to Amazon FSx for Windows File Server file systems.<br /> <br /> More and more customers are adopting IPv6 to mitigate IP",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-fsx-for-windows-file-server-ipv6/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-30-aws-aws-transfer-family-now-supports-vpc-endpoint-poli",
-      "date": "2025-09-30",
-      "name": "AWS Transfer Family now supports VPC endpoint policies and FIPS VPC endpoints",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Transfer Family now supports Virtual Private Cloud (VPC) endpoint policies for your&nbsp;VPC endpoints. With this feature, administrators can attach an endpoint policy to an interface VPC endpoint, allowing granul",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-transfer-family-vpc-endpoint-policies"
         }
       ],
       "impact": 5,
