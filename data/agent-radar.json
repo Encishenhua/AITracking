@@ -1,6 +1,186 @@
 {
   "items": [
     {
+      "id": "2025-10-08-openai-assistants-api-issues",
+      "date": "2025-10-08",
+      "name": "Assistants API issues",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Investigating</b><br /><br />We are investigating the issue for the listed services.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01K72AY1FMJ816Z1YYMJWAP0C9"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-08-openai-service-degradation",
+      "date": "2025-10-08",
+      "name": "Service degradation",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />The issue has been resolved. All affected components that were listed are now functioning as expected.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Image Generatio",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01K72C2CYFJ5GDBAXDQMHT3E90"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-08-openai-elevated-error-rates-for-gmail-and-google-calendar",
+      "date": "2025-10-08",
+      "name": "Elevated error rates for Gmail and Google Calendar connectors",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Investigating</b><br /><br />We are continuing to investigate the issue for the listed services.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Connectors (Degraded performance)</li>\n      ",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01K6X3AG0M3XVN3B2610GFXB10"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-08-aws-new-general-purpose-amazon-ec2-m8a-instances",
+      "date": "2025-10-08",
+      "name": "New General Purpose Amazon EC2 M8a Instances",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS announces the general availability of new general-purpose Amazon EC2 M8a instances. M8a instances are powered by 5th Gen AMD EPYC processors (formerly code named Turin) with a maximum frequency of 4.5 GHz, deliver",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.comabout-aws/whats-new/2025/10/general-purpose-amazon-ec2-m8a-instances/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-08-aws-amazon-ec2-i7ie-instances-now-available-in-aws-sou",
+      "date": "2025-10-08",
+      "name": "Amazon EC2 I7ie instances now available in AWS South America (São Paulo)",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS is announcing Amazon EC2 I7ie instances are now available in AWS South America (São Paulo) region. Designed for large storage I/O intensive workloads, I7ie instances are powered by 5th Gen Intel Xeon Processors wi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-i7ie-instances-available-in-aws-sao-paulo/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-08-aws-amazon-q-developer-now-help-customers-understand-s",
+      "date": "2025-10-08",
+      "name": "Amazon Q Developer now help customers understand service prices and estimate workload costs",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS announces a new pricing and cost estimation capability in Amazon Q Developer. Amazon Q Developer is the most capable generative AI-powered assistant for software development. With this launch, customers can",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-q-developer-understand-service-prices-estimate-workload-costs"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-08-aws-amazon-location-service-updates-for-vietnam-s-new-",
+      "date": "2025-10-08",
+      "name": "Amazon Location Service Updates for Vietnam's New Administrative Boundaries",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Location Service has updated its mapping data to reflect Vietnam's recent administrative reorganization, which consolidated the country's provinces from 63 to 34 administrative units. This update enables custom",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-location-service-new-admin-boundaries-vietnam/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-08-aws-amazon-ec2-c7gd-instances-are-now-available-in-add",
+      "date": "2025-10-08",
+      "name": "Amazon EC2 C7gd instances are now available in additional AWS Regions",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C7gd instances with up to 3.8 TB of local NVMe-based SSD block-level storage are available in the Europe (Zurich) Region.<br /> <br /> These Graviton3-based in",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c7gd-instances-additional-aws-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-08-flowise-flowise-3-0-8",
+      "date": "2025-10-08",
+      "name": "flowise@3.0.8",
+      "vendor": "Flowise",
+      "type": "launch",
+      "summary": "<h2>What's Changed</h2>\n<h2>Nodes</h2>\n<ul>\n<li>Feat/Gemini Built In Tools by <a class=\"user-mention notranslate\" href=\"https://github.com/HenryHengZJ\">@HenryHengZJ</a> in <a class=\"issue-link js-issue-link\" href=\"https:",
+      "sources": [
+        {
+          "title": "Flowise source",
+          "url": "https://github.com/FlowiseAI/Flowise/releases/tag/flowise%403.0.8"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2025-10-08-crewai-0-203-0",
+      "date": "2025-10-08",
+      "name": "0.203.0",
+      "vendor": "CrewAI",
+      "type": "deprecation",
+      "summary": "<h2>What's Changed</h2>\n<h2>Core Improvements &amp; Fixes</h2>\n<ul>\n<li>Fixed usage of system <code>PATH</code> for the Docker binary to avoid hardcoded paths</li>\n<li>Fixed CodeQL configuration to correctly exclude temp",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/0.203.0"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2025-10-07-openai-elevated-error-rates-for-gmail-and-google-calendar",
       "date": "2025-10-07",
       "name": "Elevated error rates for Gmail and Google Calendar connectors",
@@ -893,186 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-cloud-wan-govcloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-01-aws-aws-datasync-now-supports-vpc-endpoint-policies",
-      "date": "2025-10-01",
-      "name": "AWS DataSync now supports VPC endpoint policies",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a contenteditable=\"false\" href=\"https://aws.amazon.com/datasync/\" style=\"cursor: pointer;\">AWS DataSync</a> now supports virtual private cloud (VPC) endpoint policies, allowing you to control access to DataSync API o",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-datasync-vpc-endpoint-policies/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-01-crewai-1-0-0a1",
-      "date": "2025-10-01",
-      "name": "1.0.0a1",
-      "vendor": "CrewAI",
-      "type": "launch",
-      "summary": "<h2>What's Changed</h2>\n<h2>Core Improvements &amp; Fixes</h2>\n<ul>\n<li>Fixed permission handling for <code>actions</code> attribute in agent configuration</li>\n<li>Updated CI workflows and release publishing process to ",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.0.0a1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2025-10-01-aws-amazon-sagemaker-unified-studio-announces-single-s",
-      "date": "2025-10-01",
-      "name": "Amazon SageMaker Unified Studio announces single sign-on support for interactive Spark sessions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker Unified Studio announces corporate identity support for interactive Apache Spark sessions through AWS Identity Center’s trusted identity propagation. This new capability enables seamless single sign-o",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-sagemaker-unified-studio-single-sign-on-spark-sessions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-30-aws-amazon-sagemaker-managed-mlflow-is-now-available-i",
-      "date": "2025-09-30",
-      "name": "Amazon SageMaker managed MLflow is now available in the AWS GovCloud (US) Regions",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon SageMaker managed MLflow is now available in both AWS GovCloud (US-West) and AWS GovCloud (US-East) Regions.<br /> <br /> Amazon SageMaker managed MLflow streamlines AI experimentation and accelerates your GenA",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-sagemaker-mlflow-available-aws-govcloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-30-aws-amazon-cloudwatch-and-opensearch-service-expand-re",
-      "date": "2025-09-30",
-      "name": "Amazon CloudWatch and OpenSearch Service expand region support for integrated analytics experience",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon CloudWatch and OpenSearch Service integrated analytics experience is now available in 5 additional commercial regions: Asia Pacific (Osaka), Asia Pacific (Seoul), Europe (Milan), Europe (Spain), and US West (N.",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudwatch-opensearch-service-region-integrated-analytics-experience/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-30-aws-amazon-sns-expands-support-for-fips-140-3-endpoint",
-      "date": "2025-09-30",
-      "name": "Amazon SNS expands support for FIPS 140-3 endpoints",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/sns/\">Amazon Simple Notification Service (Amazon SNS)</a>&nbsp;now supports additional endpoints that have been validated under the Federal Information Processing Standard (FIPS) 140-3 ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-sns-fips-endpoints/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-30-aws-aws-transform-now-enables-terraform-for-vmware-net",
-      "date": "2025-09-30",
-      "name": "AWS Transform now enables Terraform for VMware network automation",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Transform now offers Terraform as an additional option to generate network infrastructure code automatically from VMware environments. The service converts your source network definitions into reusable Terraform m",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-transform-terraform-vmware-network-automation"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-30-aws-aws-transfer-family-adds-support-for-additional-ia",
-      "date": "2025-09-30",
-      "name": "AWS Transfer Family adds support for additional IAM condition keys",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Transfer Family now supports four new service-specific condition keys for Identity and Access Management (IAM). With this feature, administrators can create more granular IAM policies and service control policies ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-transfer-family-iam-condition-keys"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-30-aws-amazon-elastic-vmware-service-amazon-evs-is-now-av",
-      "date": "2025-09-30",
-      "name": "Amazon Elastic VMware Service (Amazon EVS) is now available in Asia Pacific (Singapore) and Europe (London) Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, we're announcing that Amazon Elastic VMware Service (Amazon EVS) is now available in all availability zones in the Asia Pacific (Singapore) and Europe (London) Regions. This expansion provides more options to l",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-evs-singapore-london-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-09-30-aws-aws-firewall-manager-launches-in-aws-asia-pacific-",
-      "date": "2025-09-30",
-      "name": "AWS Firewall Manager launches in AWS Asia Pacific (Taipei) Region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Firewall Manager announces that it is now available in AWS Asia Pacific (Taipei) Region. AWS Firewall Manager helps cloud security administrators and site reliability engineers protect applications while reducing ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/aws-firewall-manager-aws-asia-pacific-taipei-region"
         }
       ],
       "impact": 5,
