@@ -1,6 +1,96 @@
 {
   "items": [
     {
+      "id": "2025-10-09-aws-introducing-amazon-quick-suite-your-agentic-ai-pow",
+      "date": "2025-10-09",
+      "name": "Introducing Amazon Quick Suite: your agentic AI-powered workspace",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, we’re announcing the general availability of <a href=\"https://aws.amazon.com/quicksuite/\" target=\"_blank\">Amazon Quick Suite</a>—a new set of agentic teammate that helps you get the answers you need using all o",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-quick-suite-agentic-ai-powered-workspace"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-09-aws-amazon-ec2-c6in-instances-are-now-available-in-mex",
+      "date": "2025-10-09",
+      "name": "Amazon EC2 C6in instances are now available in Mexico (Central) Region",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C6in instances are available in AWS Region Mexico (Central). These sixth-generation network optimized instances, powered by 3rd Generation Intel Xeon Scalable ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c6in-instances-mexico-central-region"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-09-aws-amazon-ec2-m6in-and-m6idn-instances-are-now-availa",
+      "date": "2025-10-09",
+      "name": "Amazon EC2 M6in and M6idn instances are now available in Asia Pacific (Seoul) Region",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, <a href=\"https://aws.amazon.com/ec2/instance-types/m6i\" target=\"_blank\">Amazon Elastic Compute Cloud (Amazon EC2) M6in and M6idn instances</a> are available in AWS Asia Pacific (Seoul) region. These si",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-m6in-m6idn-asia-pacific-seoul/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-09-aws-amazon-dynamodb-now-supports-internet-protocol-ver",
+      "date": "2025-10-09",
+      "name": "Amazon DynamoDB now supports Internet Protocol version 6 (IPv6)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/dynamodb/\">Amazon DynamoDB</a> now offers customers the option to use Internet Protocol version 6 (IPv6) addresses in their Amazon Virtual Private Cloud (VPC) when connecting to DynamoD",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-dynamodb-ipv6/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-09-crewai-1-0-0a4",
+      "date": "2025-10-09",
+      "name": "1.0.0a4",
+      "vendor": "CrewAI",
+      "type": "launch",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Enhance knowledge and guardrail event handling in Agent class</li>\n<li>Introduce trigger listing and execution commands for local development</li>\n<li>Update documentati",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.0.0a4"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2025-10-08-openai-assistants-api-issues",
       "date": "2025-10-08",
       "name": "Assistants API issues",
@@ -983,96 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-bedrock-data-automation-support-enhancing-transcription/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-01-aws-application-map-is-now-generally-available-for-ama",
-      "date": "2025-10-01",
-      "name": "Application map is now generally available for Amazon CloudWatch",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon CloudWatch now helps you monitor large-scale distributed applications by automatically discovering and organizing services into groups based on configurations and their relationships. SREs and DevOps teams can ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/application-map-generally-available-amazon-cloudwatch"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-01-aws-amazon-detective-now-supports-aws-privatelink-for-",
-      "date": "2025-10-01",
-      "name": "Amazon Detective now supports AWS PrivateLink for private API access",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Detective now supports Amazon Virtual Private Cloud (VPC) endpoints via AWS <a href=\"https://aws.amazon.com/privatelink/\" target=\"_blank\">PrivateLink</a>, enabling you to securely initiate API calls to Detectiv",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-detective-aws-privatelink-private-api-access"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-01-aws-aws-api-mcp-server-v1-0-0-release",
-      "date": "2025-10-01",
-      "name": "AWS API MCP Server v1.0.0 release",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the v1.0.0 release of the AWS API model context protocol (MCP) server enabling foundation models (FMs) to interact with any AWS API through natural language by creating and executing syntactically",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-api-mcp-server-v1-0-0-release"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-01-aws-aws-knowledge-mcp-server-now-generally-available",
-      "date": "2025-10-01",
-      "name": "AWS Knowledge MCP Server now generally available",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the general availability (GA) of the AWS Knowledge Model Context Protocol (MCP) Server. The AWS Knowledge server gives AI agents and MCP clients access to authoritative knowledge, including docume",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-knowledge-mcp-server-generally-available"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-01-aws-aws-cloud-wan-is-now-available-in-aws-govcloud-us-",
-      "date": "2025-10-01",
-      "name": "AWS Cloud WAN is now available in AWS GovCloud (US) Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, <a contenteditable=\"false\" href=\"https://aws.amazon.com/cloud-wan\" style=\"cursor: pointer;\">AWS Cloud WAN</a> is available in the AWS GovCloud (US-West) and AWS GovCloud (US-East) regions.<br /> <br />",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-cloud-wan-govcloud/"
         }
       ],
       "impact": 5,
