@@ -1,6 +1,114 @@
 {
   "items": [
     {
+      "id": "2025-10-10-openai-delays-with-supervised-fine-tuning",
+      "date": "2025-10-10",
+      "name": "Delays with Supervised Fine-Tuning",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Identified</b><br /><br />We have identified that users are experiencing delays for supervised fine-tuning (SFT) jobs.\n\nWe are working on implementing a mitigation.<br /><br /><b>Affected components</b>\n      ",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01K782M5NJ351CQDEZATG3W3QP"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-10-openai-partial-outage-of-responses-api",
+      "date": "2025-10-10",
+      "name": "Partial outage of Responses API",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Responses (Operational)</li>\n          </ul>",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01K76W5PRNBF9XHTR2HPY01J5A"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-10-aws-amazon-aurora-postgresql-now-supports-r8g-database",
+      "date": "2025-10-10",
+      "name": "Amazon Aurora PostgreSQL now supports R8g database instances in additional AWS regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Graviton4-based R8g database instances are now generally available for Amazon Aurora with PostgreSQL compatibility in the AWS Canada (Central), AWS Asia Pacific (Singapore) and AWS Asia Pacific (Seoul) regions. R8",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-aurora-postgresql-r8g-database-instances-additional-aws-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-10-aws-amazon-connect-now-supports-copy-and-bulk-edit-of-",
+      "date": "2025-10-10",
+      "name": "Amazon Connect now supports copy and bulk edit of agent scheduling configuration",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Connect now supports copy and bulk edit of agent scheduling configuration, making it easier to set up and maintain agent schedules. You can create new scheduling configurations by copying existing ones — for ex",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-copy-bulk-edit-agent-scheduling/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-10-aws-amazon-connect-now-supports-agent-schedule-adheren",
+      "date": "2025-10-10",
+      "name": "Amazon Connect now supports agent schedule adherence notifications",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Connect now supports agent schedule adherence notifications, making it easier for you to proactively identify when agents aren't adhering to their scheduled activities. You can define rules to automatically sen",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-agent-adherence-notifications/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-10-aws-amazon-neptune-analytics-is-now-available-in-aws-c",
+      "date": "2025-10-10",
+      "name": "Amazon Neptune Analytics is now available in AWS Canada (Central) and Australia (Sydney) Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://docs.aws.amazon.com/neptune-analytics/latest/userguide/what-is-neptune-analytics.html\">Amazon Neptune Analytics</a> is now available in the AWS Canada (Central) and Australia (Sydney) Regions. You can",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-neptune-analytics-canada-central-australia-sydney/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-10-09-aws-introducing-amazon-quick-suite-your-agentic-ai-pow",
       "date": "2025-10-09",
       "name": "Introducing Amazon Quick Suite: your agentic AI-powered workspace",
@@ -965,114 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ecs-one-click-event-capture-history-querying-console/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-02-aws-aws-parallel-computing-service-expands-slurm-custo",
-      "date": "2025-10-02",
-      "name": "AWS Parallel Computing Service expands Slurm customization capabilities",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS Parallel Computing Service (AWS PCS) now offers expanded Slurm configuration capabilities, enabling you to set over 60 additional parameters for granular control over your high performance computing (HPC) cluster ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-pcs-slurm-customization/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-02-aws-cohere-s-embed-v4-multimodal-embeddings-model-now-",
-      "date": "2025-10-02",
-      "name": "Cohere’s Embed v4 multimodal embeddings model now available on Amazon Bedrock",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock now offers Cohere Embed v4, the latest state-of-the-art multimodal embedding model from Cohere that produces high-quality embeddings for text, images, and complex business documents. This powerful addit",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/coheres-embed-v4-multimodal-embeddings-bedrock/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-02-crewai-1-0-0a2",
-      "date": "2025-10-02",
-      "name": "1.0.0a2",
-      "vendor": "CrewAI",
-      "type": "deprecation",
-      "summary": "<h2>What's Changed</h2>\n<h2>Core Improvements &amp; Fixes</h2>\n<ul>\n<li>Fixed handling of <code>anyOf</code>, <code>oneOf</code>, and <code>allOf</code> schema properties for improved schema parsing reliability</li>\n</ul",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.0.0a2"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2025-10-01-openai-samsung-and-sk-join-openai-s-stargate-initiative-t",
-      "date": "2025-10-01",
-      "name": "Samsung and SK join OpenAI’s Stargate initiative to advance global AI infrastructure",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "Samsung and SK join OpenAI’s Stargate initiative to expand global AI infrastructure, scaling advanced memory chip production and building next-gen data centers in Korea.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/samsung-and-sk-join-stargate"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-01-aws-amazon-gamelift-streams-adds-ipv6-support-for-stre",
-      "date": "2025-10-01",
-      "name": "Amazon GameLift Streams adds IPv6 support for streaming Windows applications",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon GameLift Streams now supports streaming over IPv6 for applications running on Windows-based stream groups, enabling dual-stack (IPv4 and IPv6) streaming capabilities. This enhancement gives our customers flexib",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-gamelift-streams-ipv6-support"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-01-aws-amazon-bedrock-data-automation-now-provides-suppor",
-      "date": "2025-10-01",
-      "name": "Amazon Bedrock Data Automation now provides support for enhancing transcriptions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Bedrock Data Automation (BDA) now supports enhanced transcription output for audio files by providing the option to distinguish between various speakers and separately process audio from each channel. Additiona",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-bedrock-data-automation-support-enhancing-transcription/"
         }
       ],
       "impact": 5,
