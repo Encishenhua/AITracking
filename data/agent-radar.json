@@ -19,6 +19,24 @@
       "tags": []
     },
     {
+      "id": "2025-10-12-openai-delays-with-supervised-fine-tuning",
+      "date": "2025-10-12",
+      "name": "Delays with Supervised Fine-Tuning",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Fine-tuning (Operational)</li>\n          </ul>",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01K782M5NJ351CQDEZATG3W3QP"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-10-11-openai-apps-sdk-dev-mode-partial-outage",
       "date": "2025-10-11",
       "name": "Apps SDK Dev Mode Partial Outage",
@@ -1055,24 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-customer-input-outbound-calls"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-02-aws-amazon-gamelift-servers-adds-ability-to-view-and-c",
-      "date": "2025-10-02",
-      "name": "Amazon GameLift Servers adds ability to view and connect to instances in the console",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, Amazon GameLift Servers launched new console capabilities that let you view and connect to individual fleet instances. The EC2 and Container Fleet Detail pages have a new Instances tab to see a list of instance",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-gamelift-servers-view-connect-instances-console"
         }
       ],
       "impact": 5,
