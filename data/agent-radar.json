@@ -1,6 +1,186 @@
 {
   "items": [
     {
+      "id": "2025-10-13-openai-openai-and-broadcom-announce-strategic-collaborati",
+      "date": "2025-10-13",
+      "name": "OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "OpenAI and Broadcom announce a multi-year partnership to deploy 10 gigawatts of OpenAI-designed AI accelerators, co-developing next-generation systems and Ethernet solutions to power scalable, energy-efficient AI infrast",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/openai-and-broadcom-announce-strategic-collaboration"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-13-aws-amazon-quick-sight-expands-font-customization-for-",
+      "date": "2025-10-13",
+      "name": "Amazon Quick Sight expands font customization for visuals",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/quicksight/\">Amazon Quick Sight</a> now supports font customization for data labels and axes. Authors can now customize fonts for data labels and axes in supported charts, in addition t",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-quicksight-expands-font-customization"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-13-aws-amazon-ec2-high-memory-u7i-instances-now-available",
+      "date": "2025-10-13",
+      "name": "Amazon EC2 High Memory U7i instances now available in Asia Pacific (Mumbai) Region",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Starting today, Amazon EC2 High Memory U7i instances with 12TB of memory (u7i-12tb.224xlarge) are now available in the Asia Pacific (Mumbai) region. U7i-12tb instances are part of AWS 7th generation and are powered by",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-high-memory-u7i-instances-asia-pacific-mumbai-region"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-13-aws-amazon-sagemaker-ai-projects-now-supports-custom-t",
+      "date": "2025-10-13",
+      "name": "Amazon SageMaker AI Projects now supports custom template S3 provisioning",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker AI Projects now supports provisioning custom machine learning (ML) project templates from Amazon S3. Administrators can now manage ML templates in SageMaker AI studio so data scientists can create sta",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-sagemaker-ai-projects-custom-template-s3-provisioning"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-13-aws-amazon-bedrock-agentcore-is-now-generally-availabl",
+      "date": "2025-10-13",
+      "name": "Amazon Bedrock AgentCore is now generally available",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Bedrock AgentCore is an agentic platform to build, deploy and operate highly capable agents securely at scale using any framework, model, or protocol. AgentCore lets you build agents faster, enable agents to ta",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-bedrock-agentcore-available/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-13-aws-aws-service-availability-updates",
+      "date": "2025-10-13",
+      "name": "AWS Service Availability Updates",
+      "vendor": "AWS",
+      "type": "deprecation",
+      "summary": "<p>After careful consideration, we’re announcing availability changes for a select group of AWS services and features. These changes fall into three lifecycle categories:<br /> <br /> Services and Capabilities moving to ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-service-availability/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-13-aws-aws-config-now-supports-3-new-resource-types",
+      "date": "2025-10-13",
+      "name": "AWS Config now supports 3 new resource types",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Config now supports 3 additional AWS resource types. This expansion provides greater coverage over your AWS environment, enabling you to more effectively discover, assess, audit, and remediate an even broader rang",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-config-new-resource-types"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-13-aws-announcing-vector-search-for-amazon-elasticache",
+      "date": "2025-10-13",
+      "name": "Announcing vector search for Amazon ElastiCache",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Vector search for <a href=\"https://aws.amazon.com/elasticache/\" style=\"cursor: pointer;\" target=\"_blank\">Amazon ElastiCache</a> is now generally available. Customers can now use ElastiCache to index, search, and updat",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-elasticache-vector-search/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-13-aws-generative-ai-observability-now-generally-availabl",
+      "date": "2025-10-13",
+      "name": "Generative AI observability now generally available for Amazon CloudWatch",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon CloudWatch announces the general availability of generative AI observability, helping you monitor all components of AI applications and workloads, including agents deployed and operated with Amazon Bedrock Agen",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/generative-ai-observability-amazon-cloudwatch/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-13-langchain-langgraph-securing-your-agents-with-authentication-and-autho",
+      "date": "2025-10-13",
+      "name": "Securing your agents with authentication and authorization",
+      "vendor": "LangChain/LangGraph",
+      "type": "upgrade",
+      "summary": "Agents can take action which makes proper authentication and authorization critical. Read on for how to implement and evolve agent auth.",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/agent-authorization-explainer/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2025-10-12-openai-temporary-chat-not-functioning-on-web",
       "date": "2025-10-12",
       "name": "Temporary chat not functioning on web",
@@ -893,186 +1073,6 @@
         {
           "title": "OpenAI source",
           "url": "https://openai.com/global-affairs/strategic-collaboration-with-japan-digital-agency"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-02-openai-codex-connectors-search-agent-deep-research-custom",
-      "date": "2025-10-02",
-      "name": "Codex, Connectors, Search, Agent, Deep Research, Custom GPTs, Project Sharing, ChatGPT Record, Memory and other features related to RBAC are missing, unavailabl",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Investigating</b><br /><br />We are continuing to investigate the issue for the listed services.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>GPTs (Full outage)</li>\n<li>Agent (Full outag",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01K6KAAN7WXN69E8JET8PYB0D5"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-02-aws-aws-directory-service-enables-api-driven-managed-m",
-      "date": "2025-10-02",
-      "name": "AWS Directory Service enables API-driven Managed Microsoft AD edition upgrades",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Directory Service now enables customers to upgrade Managed Microsoft AD from Standard to Enterprise Edition programmatically through the UpdateDirectorySetup API. The self-service edition upgrade eliminates the ne",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-directory-service-api-edition-upgrades"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-02-aws-amazon-connect-now-supports-agent-screen-recording",
-      "date": "2025-10-02",
-      "name": "Amazon Connect now supports agent screen recording for ChromeOS",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Connect now provides screen recording for agents using ChromeOS devices making it easier for you to help improve their performance. With screen recording, you can identify areas for agent coaching (e.g., long c",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-agent-screen-recording-chromeos/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-02-aws-amazon-connect-now-provides-agent-time-off-balance",
-      "date": "2025-10-02",
-      "name": "Amazon Connect now provides agent time-off balance data in analytics data lake",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect now provides agent time-off balance data in analytics data lake, making it easier for you to generate reports and insights from this data. With this launch, you can now access latest and historical agen",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-agent-time-off-balance-data/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-02-aws-amazon-cognito-adds-terms-of-use-and-privacy-polic",
-      "date": "2025-10-02",
-      "name": "Amazon Cognito adds terms of use and privacy policy documents support to Managed Login",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Cognito now allows you to configure terms of use and privacy policy documents for <a href=\"https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-user-pools-managed-login.html\" target=\"_blank\">Manage",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cognito-terms-use-privacy-policy-documents-managed-login"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-02-aws-amazon-neptune-database-now-integrates-with-graphs",
-      "date": "2025-10-02",
-      "name": "Amazon Neptune Database now integrates with GraphStorm for scalable graph machine learning",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, we’re announcing the integration of Amazon Neptune Database with GraphStorm, a scalable, open-source graph machine learning (ML) library built for enterprise-scale applications. This brings together Neptune’s O",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-neptune-database-graphstorm"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-02-aws-aws-config-advanced-query-and-aggregator-now-avail",
-      "date": "2025-10-02",
-      "name": "AWS Config advanced query and aggregator now available in Asia Pacific (New Zealand) Region",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Config advanced queries and aggregators are now available in Asia Pacific (New Zealand) region. You can use advanced queries to query the current configuration and compliance state of your AWS resources. Aggregato",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-config-advanced-query-aggregator-new-zealand-region"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-02-aws-aws-secrets-manager-expands-aws-privatelink-suppor",
-      "date": "2025-10-02",
-      "name": "AWS Secrets Manager expands AWS PrivateLink support to FIPS endpoints",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Secrets Manager now supports AWS PrivateLink with all Secrets Manager Federal Information Processing Standard (FIPS) endpoints that are available in commercial AWS Regions and the AWS GovCloud (US) Regions.<br /> ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-secrets-manager-privatelink-fips-endpoints"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-02-aws-open-source-model-context-protocol-mcp-server-now-",
-      "date": "2025-10-02",
-      "name": "Open Source Model Context Protocol (MCP) Server now available for Amazon Bedrock AgentCore",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>This new standardized interface allows developers to analyze, transform, and deploy production-ready AI agents directly in their preferred development environment.<br /> <br /> Get started with AgentCore faster and mo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/open-source-mcp-server-amazon-bedrock-agentcore"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-02-aws-amazon-connect-makes-it-easier-to-get-customer-inp",
-      "date": "2025-10-02",
-      "name": "Amazon Connect makes it easier to get customer input on outbound calls",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Connect, the cloud-based contact center service from AWS, now supports Get Customer Input and Store Customer Input flow blocks for outbound voice whisper flows. The Get Customer Input flow block allows a prompt",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-customer-input-outbound-calls"
         }
       ],
       "impact": 5,
