@@ -1,6 +1,240 @@
 {
   "items": [
     {
+      "id": "2025-10-15-aws-amazon-workspaces-core-managed-instances-is-now-av",
+      "date": "2025-10-15",
+      "name": "Amazon WorkSpaces Core Managed Instances is now available in 5 additional AWS Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS today announced Amazon WorkSpaces Core Managed Instances availability in US East (Ohio), Asia Pacific (Malaysia), Asia Pacific (Hong Kong), Middle East (UAE), and Europe (Spain), bringing Amazon WorkSpaces capabil",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-workspaces-core-managed-instances-additional-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-15-aws-claude-4-5-haiku-by-anthropic-now-in-amazon-bedroc",
+      "date": "2025-10-15",
+      "name": "Claude 4.5 Haiku by Anthropic now in Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Claude Haiku 4.5 is now available in Amazon Bedrock. Claude Haiku 4.5 delivers near-frontier performance matching Claude Sonnet 4's capabilities in coding, computer use, and agent tasks at substantially lower cost and",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/claude-4-5-haiku-anthropic-amazon-bedrock"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-15-aws-second-generation-aws-outposts-racks-now-supported",
+      "date": "2025-10-15",
+      "name": "Second-generation AWS Outposts racks now supported in the AWS Europe (Ireland) Region",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Second-generation AWS Outposts racks are now supported in the AWS Europe (Ireland) Region. Outposts racks extend AWS infrastructure, AWS services, APIs, and tools to virtually any on-premises data center or colocation",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/second-generation-aws-outposts-racks-europe-ireland-region"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-15-aws-aws-backup-enhances-backup-plan-management-with-sc",
+      "date": "2025-10-15",
+      "name": "AWS Backup enhances backup plan management with schedule preview",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Backup now provides schedule preview for backup plans, helping you validate when your backups are scheduled to run. Schedule preview shows the next ten scheduled backup runs, including when continuous backup, inde",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-backup-plan-management/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-15-aws-amazon-bedrock-simplifies-access-with-automatic-en",
+      "date": "2025-10-15",
+      "name": "Amazon Bedrock simplifies access with automatic enablement of serverless foundation models",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock now provides immediate access to all serverless foundation models by default for users in all commercial AWS regions. This update eliminates the need for manually activating model access, allowing you t",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-bedrock-automatic-enablement-serverless-foundation-models"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-15-aws-deepseek-openai-and-qwen-models-available-in-amazo",
+      "date": "2025-10-15",
+      "name": "DeepSeek, OpenAI, and Qwen models available in Amazon Bedrock in additional Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock is bringing DeepSeek-V3.1, OpenAI open-weight models, and Qwen3 models to more AWS Regions worldwide, expanding access to cutting-edge AI for customers across the globe. This regional expansion enables ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/deepseek-openai-qwen-models-amazon-bedrock-additional-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-15-aws-amazon-aurora-postgresql-zero-etl-integration-with",
+      "date": "2025-10-15",
+      "name": "Amazon Aurora PostgreSQL zero-ETL integration with Amazon SageMaker is now available",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Aurora PostgreSQL-Compatible Edition now supports zero-ETL integration with <a href=\"https://aws.amazon.com/sagemaker/lakehouse/\" target=\"_blank\">Amazon SageMake</a>r, enabling near real-time data availability ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-aurora-postgresql-zero-etl-integration-sagemaker"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-15-aws-amazon-ec2-r8g-instances-now-available-in-addition",
+      "date": "2025-10-15",
+      "name": "Amazon EC2 R8g instances now available in additional regions",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8g instances are available in South America (Sao Paulo), Europe (London), and Asia Pacific (Melbourne) regions. These instances are powered by AWS Graviton4 p",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-r8g-instances-additional-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-15-aws-amazon-ecs-supports-running-firelens-as-a-non-root",
+      "date": "2025-10-15",
+      "name": "Amazon ECS supports running Firelens as a non-root user",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/ecs/\">Amazon Elastic Container Services</a> (Amazon ECS) now allows you to run Firelens containers as a non-root user, by specifying a User ID in your Task Definition.<br /> <br /> Spec",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ecs-running-firelens-as-nonroot-user/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-15-aws-aws-application-load-balancer-launches-url-and-hos",
+      "date": "2025-10-15",
+      "name": "AWS Application Load Balancer launches URL and Host Header Rewrite",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Web Services (AWS) announces URL and Host Header rewrite capabilities for Application Load Balancer (ALB). This feature enables customers to modify request URLs and Host Headers using regex-based pattern matchi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/application-load-balancer-url-header-rewrite"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-15-aws-aws-backup-expands-information-in-job-apis-and-bac",
+      "date": "2025-10-15",
+      "name": "AWS Backup expands information in job APIs and Backup Audit Manager reports",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Backup now provides more details in backup job API responses and Backup Audit Manager reports to give you better visibility into backup configurations and compliance settings. You can verify your backup policies w",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-backup-expands-information-job-api-audit-manager/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-15-aws-amazon-rds-for-mysql-and-postgresql-zero-etl-integ",
+      "date": "2025-10-15",
+      "name": "Amazon RDS for MySQL and PostgreSQL zero-ETL integration with Amazon Redshift now available in 8 additional regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon RDS for MySQL and Amazon RDS for PostgreSQL zero-ETL integration with Amazon Redshift is now available in the Asia Pacific (Hyderabad), Asia Pacific (Jakarta), Asia Pacific (Melbourne), Canada West (Calgary), E",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-rds-mysql-postgresql-zero-etl-redshift-8-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-15-aws-amazon-rds-for-oracle-zero-etl-integration-with-am",
+      "date": "2025-10-15",
+      "name": "Amazon RDS for Oracle zero-ETL integration with Amazon Redshift is now available in 8 additional AWS regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon RDS for Oracle zero-ETL integration with Amazon Redshift is now available in the Asia Pacific (Hyderabad), Asia pacific (Jakarta), Asia Pacific (Melbourne), Canada West (Calgary), Europe (Spain), Europe (Zurich",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-rds-oracle-zero-etl-integration-redshift-8-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-10-14-openai-argentina-s-ai-opportunity",
       "date": "2025-10-14",
       "name": "Argentina’s AI opportunity",
@@ -839,240 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-rds-for-db2-native-database-backup/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-07-aws-aws-marketplace-now-supports-new-currencies-for-us",
-      "date": "2025-10-07",
-      "name": "AWS Marketplace now supports new currencies for usage-based private offers",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Marketplace now supports usage-based private offers in four new currencies: EUR, GBP, AUD, and JPY. AWS Marketplace Sellers and Channel Partners can now reach buyers globally without currency conversion complexity",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-marketplace-currencies-usage-based-private-offers"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-07-aws-automatic-quota-management-is-now-generally-availa",
-      "date": "2025-10-07",
-      "name": "Automatic quota management is now generally available for AWS Service Quotas",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the general availability of a new capability of AWS Service Quotas called automatic quota management. AWS Service Quotas helps you view and manage your quotas from a central location. This new fea",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/automatic-quota-management-service-quotas/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-07-aws-aws-marketplace-announces-enhanced-pricing-dimensi",
-      "date": "2025-10-07",
-      "name": "AWS Marketplace announces enhanced pricing dimension capabilities for sellers",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS Marketplace announces enhanced <a contenteditable=\"false\" href=\"https://docs.aws.amazon.com/marketplace/latest/userguide/saas-subscriptions.html#:~:text=Each%20Pricing%20Dimension%20represents%20a%20feature",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-marketplace-pricing-dimension-sellers/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-07-aws-amazon-redshift-serverless-with-lower-base-capacit",
-      "date": "2025-10-07",
-      "name": "Amazon Redshift Serverless with lower base capacity available in the AWS Asia Pacific (Seoul) and Canada (Central) Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Redshift now allows you to get started with Amazon Redshift Serverless with a lower data warehouse <a contenteditable=\"false\" href=\"https://docs.aws.amazon.com/redshift/latest/mgmt/serverless-capacity.html\" sty",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-redshift-serverless-asia-pacific-seoul-europe-paris/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-07-langchain-langgraph-not-another-workflow-builder",
-      "date": "2025-10-07",
-      "name": "Not Another Workflow Builder",
-      "vendor": "LangChain/LangGraph",
-      "type": "launch",
-      "summary": "<p>One of the most common requests we&#x2019;ve gotten from day zero of LangChain has been a visual workflow builder. We never pursued it and instead let others (LangFlow, Flowise, n8n) build on top of us. With OpenAI la",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/not-another-workflow-builder/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2025-10-06-openai-amd-and-openai-announce-strategic-partnership-to-d",
-      "date": "2025-10-06",
-      "name": "AMD and OpenAI announce strategic partnership to deploy 6 gigawatts of AMD GPUs",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "AMD and OpenAI have announced a multi-year partnership to deploy 6 gigawatts of AMD Instinct GPUs, beginning with 1 gigawatt in 2026, to power OpenAI’s next-generation AI infrastructure and accelerate global AI innovatio",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/openai-amd-strategic-partnership"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-06-openai-introducing-agentkit-new-evals-and-rft-for-agents",
-      "date": "2025-10-06",
-      "name": "Introducing AgentKit, new Evals, and RFT for agents",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "Today, we’re releasing  new tools to help developers go from prototype to production faster: AgentKit, expanded evals capabilities, and reinforcement fine-tuning for agents.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/introducing-agentkit"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-06-openai-elevated-error-rates-for-gmail-and-google-calendar",
-      "date": "2025-10-06",
-      "name": "Elevated error rates for Gmail and Google Calendar connectors",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Investigating</b><br /><br />We are investigating the issue for the listed services.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Connectors (Degraded performance)</li>\n          </ul>",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01K6X3AG0M3XVN3B2610GFXB10"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-06-aws-amazon-eks-and-amazon-eks-distro-now-supports-kube",
-      "date": "2025-10-06",
-      "name": "Amazon EKS and Amazon EKS Distro now supports Kubernetes version 1.34",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Kubernetes version 1.34 introduced several new features and bug fixes, and AWS is excited to announce that you can now use&nbsp;<a href=\"https://aws.amazon.com/eks/\">Amazon Elastic Kubernetes Service</a>&nbsp;(EKS) an",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-eks-distro-kubernetes-version-1-34"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-06-aws-amazon-connect-launches-new-case-apis-to-link-rela",
-      "date": "2025-10-06",
-      "name": "Amazon Connect launches new case APIs to link related cases, add custom related items, and search across them",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect now allows you to programmatically enrich case data by linking related cases, attaching custom related items, and searching across them, so agents have the full context they need to resolve issues faste",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-cases-api-link-search/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-06-aws-new-compute-optimized-amazon-ec2-c8i-and-c8i-flex-",
-      "date": "2025-10-06",
-      "name": "New Compute Optimized Amazon EC2 C8i and C8i-flex instances",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS is announcing the general availability of new compute optimized Amazon EC2 C8i and C8i-flex instances. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the highest p",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c8i-and-c8i-flex-instances-generally-available"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-06-aws-aws-incident-detection-and-response-is-now-availab",
-      "date": "2025-10-06",
-      "name": "AWS Incident Detection and Response is now available in the AWS GovCloud (US) Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Incident Detection and Response is now available in both AWS GovCloud (US-West) and AWS GovCloud (US-East) Regions.<br /> <br /> AWS Incident Detection and Response offers eligible AWS Enterprise Support customers",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-incident-detection-now-available-govcloud-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-03-openai-users-cannot-login-or-create-new-accounts",
-      "date": "2025-10-03",
-      "name": "Users cannot login or create new accounts",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Investigating</b><br /><br />We are investigating the issue for the listed services.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Login (Degraded performance)</li>\n<li>Login (Degraded per",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01K6KTZSSJTK1Q0YWQZYA9EGPW"
         }
       ],
       "impact": 5,
