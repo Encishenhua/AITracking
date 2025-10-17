@@ -1,6 +1,96 @@
 {
   "items": [
     {
+      "id": "2025-10-16-aws-amazon-timestream-now-supports-influxdb-3",
+      "date": "2025-10-16",
+      "name": "Amazon Timestream now supports InfluxDB 3",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Timestream for InfluxDB now offers support for InfluxDB 3. Now application developers and DevOps teams can run InfluxDB 3 databases as a managed service. InfluxDB 3 uses a new architecture for the InfluxDB data",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-timestream-influxdb-3/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-16-aws-amazon-location-service-introduces-new-map-styling",
+      "date": "2025-10-16",
+      "name": "Amazon Location Service Introduces New Map Styling Features for Enhanced Customization",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announced enhanced map styling features for Amazon Location Service, enabling users to further customize maps with terrain visualization, contour lines, real-time traffic data, and transportation-specific r",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-location-services-new-map-styling-enchanced-customization"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-16-aws-amazon-ec2-c8gn-instances-are-now-available-in-add",
+      "date": "2025-10-16",
+      "name": "Amazon EC2 C8gn instances are now available in additional regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8gn instances, powered by the latest-generation AWS Graviton4 processors, are available in the AWS Asia Pacific (Malaysia, Sydney, Thailand) Region. The new i",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c8gn-instances-additional-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-16-aws-amazon-ec2-now-supports-cpu-options-optimization-f",
+      "date": "2025-10-16",
+      "name": "Amazon EC2 now supports CPU options optimization for license-included instances",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon EC2 now allows customers to modify an instance’s CPU options to optimize the licensing costs of Microsoft Windows license-included workloads. You can now customize the number of vCPUs and/or disable hyperthread",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-cpu-options-optimization-license-included-instances"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-16-aws-aws-security-hub-cspm-now-supports-cis-aws-foundat",
+      "date": "2025-10-16",
+      "name": "AWS Security Hub CSPM now supports CIS AWS Foundations Benchmark v5.0",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/security-hub/cspm/features/\">AWS Security Hub Cloud Security Posture Management (CSPM</a>) now supports the Center for Internet Security (CIS) AWS Foundations Benchmark v5.0. This indus",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-security-hub-cspm-cis-foundations-benchmark-v5/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-10-15-aws-amazon-workspaces-core-managed-instances-is-now-av",
       "date": "2025-10-15",
       "name": "Amazon WorkSpaces Core Managed Instances is now available in 5 additional AWS Regions",
@@ -983,96 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c7gd-instances-additional-aws-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-08-flowise-flowise-3-0-8",
-      "date": "2025-10-08",
-      "name": "flowise@3.0.8",
-      "vendor": "Flowise",
-      "type": "launch",
-      "summary": "<h2>What's Changed</h2>\n<h2>Nodes</h2>\n<ul>\n<li>Feat/Gemini Built In Tools by <a class=\"user-mention notranslate\" href=\"https://github.com/HenryHengZJ\">@HenryHengZJ</a> in <a class=\"issue-link js-issue-link\" href=\"https:",
-      "sources": [
-        {
-          "title": "Flowise source",
-          "url": "https://github.com/FlowiseAI/Flowise/releases/tag/flowise%403.0.8"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2025-10-08-crewai-0-203-0",
-      "date": "2025-10-08",
-      "name": "0.203.0",
-      "vendor": "CrewAI",
-      "type": "deprecation",
-      "summary": "<h2>What's Changed</h2>\n<h2>Core Improvements &amp; Fixes</h2>\n<ul>\n<li>Fixed usage of system <code>PATH</code> for the Docker binary to avoid hardcoded paths</li>\n<li>Fixed CodeQL configuration to correctly exclude temp",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/0.203.0"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2025-10-07-openai-elevated-error-rates-for-gmail-and-google-calendar",
-      "date": "2025-10-07",
-      "name": "Elevated error rates for Gmail and Google Calendar connectors",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Investigating</b><br /><br />We are investigating the issue for the listed services.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Connectors (Degraded performance)</li>\n          </ul>",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01K6X3AG0M3XVN3B2610GFXB10"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-07-aws-amazon-vpc-lattice-now-supports-configurable-ip-ad",
-      "date": "2025-10-07",
-      "name": "Amazon VPC Lattice now supports configurable IP addresses for Resource Gateways",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, Amazon VPC Lattice lets you configure the number of IPv4 addresses assigned to resource gateway elastic network interfaces (ENIs). This enhancement builds on VPC Lattice's capability of providing acces",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-vpc-lattice-configurable-ip-resource-gateway/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-07-aws-amazon-rds-for-db2-launches-support-for-native-dat",
-      "date": "2025-10-07",
-      "name": "Amazon RDS for Db2 launches support for native database backups",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/db2/\">Amazon Relational Database Service (Amazon RDS) for Db2</a> now enables customers to perform native database-level backups, offering greater flexibility in database management",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-rds-for-db2-native-database-backup/"
         }
       ],
       "impact": 5,
