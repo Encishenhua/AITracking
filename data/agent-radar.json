@@ -1,6 +1,114 @@
 {
   "items": [
     {
+      "id": "2025-10-17-aws-cloudwatch-database-insights-now-supports-tag-base",
+      "date": "2025-10-17",
+      "name": "CloudWatch Database Insights now supports tag based access control",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon CloudWatch Database Insights now supports tag-based access control for database and per-query metrics powered by RDS Performance Insights. You can implement access controls across a logical grouping of database",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/database-insights-tag-based-access-control"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-17-aws-announcing-amazon-ec2-capacity-manager",
+      "date": "2025-10-17",
+      "name": "Announcing Amazon EC2 Capacity Manager",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS is announcing the general availability of Amazon EC2 Capacity Manager, a new capability that enables customers to monitor, analyze, and manage EC2 capacity across all of their accounts and regions. This new",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-capacity-manager"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-17-aws-amazon-opensearch-service-now-supports-graviton4-b",
+      "date": "2025-10-17",
+      "name": "Amazon OpenSearch Service now supports Graviton4 based (c8g,m8g,r8g and r8gd) instances",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><span style=\"background-color: rgb(255,255,255);\">Amazon OpenSearch Service now supports latest generation Graviton4-based Amazon EC2 instance families. These new instance types are compute optimized (C8g), general pu",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-opensearch-service-supports-graviton4-based-instances"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-17-aws-customer-managed-kms-keys-now-available-for-automa",
+      "date": "2025-10-17",
+      "name": "Customer managed KMS keys now available for Automated Reasoning checks",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS announces support for customer managed AWS Key Management Service (KMS) keys in Automated Reasoning checks in Amazon Bedrock Guardrails. This enhancement enables you to use your own encryption keys to protect poli",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/customer-managed-kms-keys-automated-reasoning-checks/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-17-aws-amazon-ec2-c8g-instances-now-available-in-addition",
+      "date": "2025-10-17",
+      "name": "Amazon EC2 C8g instances now available in additional regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8g instances are available in AWS Europe (Milan), and AWS Asia Pacific (Hong Kong, Osaka, Melbourne) regions. These instances are powered by AWS Graviton4 pro",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c8g-instances-additional-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-17-aws-aws-systems-manager-patch-manager-launches-securit",
+      "date": "2025-10-17",
+      "name": "AWS Systems Manager Patch Manager launches security updates notification for Windows",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Systems Manager announces the launch of security updates notification for Windows patching compliance, which helps customers identify security updates that are available but not approved by their patch baseline co",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-systems-manager-patch-manager-windows/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-10-16-aws-amazon-timestream-now-supports-influxdb-3",
       "date": "2025-10-16",
       "name": "Amazon Timestream now supports InfluxDB 3",
@@ -83,6 +191,24 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-security-hub-cspm-cis-foundations-benchmark-v5/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-16-aws-amazon-ec2-now-supports-optimize-cpus-for-license-",
+      "date": "2025-10-16",
+      "name": "Amazon EC2 now supports Optimize CPUs for license-included instances",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon EC2 now allows customers to modify an instance’s CPU options to optimize the licensing costs of Microsoft Windows license-included workloads. You can now customize the number of vCPUs and/or disable hyperthread",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-optimize-cpu-license-included-instances"
         }
       ],
       "impact": 5,
@@ -947,132 +1073,6 @@
         {
           "title": "OpenAI source",
           "url": "https://status.openai.com//incidents/01K72AY1FMJ816Z1YYMJWAP0C9"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-08-openai-service-degradation",
-      "date": "2025-10-08",
-      "name": "Service degradation",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />The issue has been resolved. All affected components that were listed are now functioning as expected.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Image Generatio",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01K72C2CYFJ5GDBAXDQMHT3E90"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-08-openai-elevated-error-rates-for-gmail-and-google-calendar",
-      "date": "2025-10-08",
-      "name": "Elevated error rates for Gmail and Google Calendar connectors",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Investigating</b><br /><br />We are continuing to investigate the issue for the listed services.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Connectors (Degraded performance)</li>\n      ",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01K6X3AG0M3XVN3B2610GFXB10"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-08-aws-new-general-purpose-amazon-ec2-m8a-instances",
-      "date": "2025-10-08",
-      "name": "New General Purpose Amazon EC2 M8a Instances",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS announces the general availability of new general-purpose Amazon EC2 M8a instances. M8a instances are powered by 5th Gen AMD EPYC processors (formerly code named Turin) with a maximum frequency of 4.5 GHz, deliver",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.comabout-aws/whats-new/2025/10/general-purpose-amazon-ec2-m8a-instances/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-08-aws-amazon-ec2-i7ie-instances-now-available-in-aws-sou",
-      "date": "2025-10-08",
-      "name": "Amazon EC2 I7ie instances now available in AWS South America (São Paulo)",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS is announcing Amazon EC2 I7ie instances are now available in AWS South America (São Paulo) region. Designed for large storage I/O intensive workloads, I7ie instances are powered by 5th Gen Intel Xeon Processors wi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-i7ie-instances-available-in-aws-sao-paulo/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-08-aws-amazon-q-developer-now-help-customers-understand-s",
-      "date": "2025-10-08",
-      "name": "Amazon Q Developer now help customers understand service prices and estimate workload costs",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS announces a new pricing and cost estimation capability in Amazon Q Developer. Amazon Q Developer is the most capable generative AI-powered assistant for software development. With this launch, customers can",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-q-developer-understand-service-prices-estimate-workload-costs"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-08-aws-amazon-location-service-updates-for-vietnam-s-new-",
-      "date": "2025-10-08",
-      "name": "Amazon Location Service Updates for Vietnam's New Administrative Boundaries",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Location Service has updated its mapping data to reflect Vietnam's recent administrative reorganization, which consolidated the country's provinces from 63 to 34 administrative units. This update enables custom",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-location-service-new-admin-boundaries-vietnam/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-08-aws-amazon-ec2-c7gd-instances-are-now-available-in-add",
-      "date": "2025-10-08",
-      "name": "Amazon EC2 C7gd instances are now available in additional AWS Regions",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C7gd instances with up to 3.8 TB of local NVMe-based SSD block-level storage are available in the Europe (Zurich) Region.<br /> <br /> These Graviton3-based in",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c7gd-instances-additional-aws-regions/"
         }
       ],
       "impact": 5,
