@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "2025-10-20-openai-issue-with-purchasing-new-subscriptions-and-updati",
+      "date": "2025-10-20",
+      "name": "Issue with purchasing new subscriptions and updating/cancelling existing subscriptions for ChatGPT on Android/iOS",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01K8154RY7GA4J1TGP71N3EYXT"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-20-crewai-1-0-0",
+      "date": "2025-10-20",
+      "name": "1.0.0",
+      "vendor": "CrewAI",
+      "type": "upgrade",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Bump versions to 1.0.0</li>\n<li>Enhance knowledge and guardrail event handling in Agent class</li>\n<li>Inject tool repository credentials in crewai run command</li>\n</ul",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.0.0"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2025-10-17-aws-cloudwatch-database-insights-now-supports-tag-base",
       "date": "2025-10-17",
       "name": "CloudWatch Database Insights now supports tag based access control",
@@ -1037,42 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-dynamodb-ipv6/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-09-crewai-1-0-0a4",
-      "date": "2025-10-09",
-      "name": "1.0.0a4",
-      "vendor": "CrewAI",
-      "type": "launch",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Enhance knowledge and guardrail event handling in Agent class</li>\n<li>Introduce trigger listing and execution commands for local development</li>\n<li>Update documentati",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.0.0a4"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2025-10-08-openai-assistants-api-issues",
-      "date": "2025-10-08",
-      "name": "Assistants API issues",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Investigating</b><br /><br />We are investigating the issue for the listed services.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01K72AY1FMJ816Z1YYMJWAP0C9"
         }
       ],
       "impact": 5,
