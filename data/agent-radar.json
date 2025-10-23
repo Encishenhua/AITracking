@@ -1,6 +1,240 @@
 {
   "items": [
     {
+      "id": "2025-10-22-aws-amazon-cloudwatch-introduces-interactive-incident-",
+      "date": "2025-10-22",
+      "name": "Amazon CloudWatch introduces interactive incident reporting",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon CloudWatch now offers interactive incident report generation, enabling customers to create comprehensive post-incident analysis reports in minutes. The new capability, available within CloudWatch investigations",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cloudwatch-incident-report/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-22-aws-amazon-u7i-instances-now-available-in-aws-us-east-",
+      "date": "2025-10-22",
+      "name": "Amazon U7i instances now available in AWS US East (Ohio) Region",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Starting today, Amazon EC2 High Memory U7i instances with 6TB of memory (u7i-6tb.112xlarge) are now available in the US East (Ohio) region. U7i-6tb instances are part of AWS 7th generation and are powered by custom fo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-u7i-instances-available-aws-us-east-ohio-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-22-aws-amazon-eks-auto-mode-now-available-in-aws-govcloud",
+      "date": "2025-10-22",
+      "name": "Amazon EKS Auto Mode now available in AWS GovCloud (US-East) and (US-West)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Elastic Kubernetes Service (Amazon EKS) Auto Mode is now available in the AWS GovCloud (US-East) and (US-West) regions. This feature fully automates compute, storage, and networking management for Kubernetes cl",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-eks-auto-mode-aws-govcloud-us-east-west"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-22-aws-amazon-location-service-introduces-new-map-styling",
+      "date": "2025-10-22",
+      "name": "Amazon Location Service Introduces New Map Styling Features for Enhanced Customization",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announced enhanced map styling features for Amazon Location Service, enabling users to further customize maps with terrain visualization, contour lines, real-time traffic data, and transportation-specific r",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-location-services-new-map-styling-enchanced-customization"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-22-aws-amazon-cloudwatch-synthetics-now-supports-bundled-",
+      "date": "2025-10-22",
+      "name": "Amazon CloudWatch Synthetics now supports bundled multi-check canaries",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/CloudWatch_Synthetics_Canaries.html\" target=\"_blank\">Amazon CloudWatch Synthetics</a> introduces multi-check blueprints, enabling customers to cr",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cloudwatch-synthetics-bundled-multi-check-canaries"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-22-aws-amazon-cloudwatch-agent-adds-support-for-windows-e",
+      "date": "2025-10-22",
+      "name": "Amazon CloudWatch Agent adds support for Windows Event Log Filters",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon CloudWatch agent has added support for configurable Windows Event log filters. This new feature allows customers to selectively collect and send system and application events to CloudWatch from Windows hosts ru",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cloudwatch-agent-windows-event-log-filters"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-22-aws-amazon-dcv-releases-version-2025-0-with-enhanced-k",
+      "date": "2025-10-22",
+      "name": "Amazon DCV releases version 2025.0 with enhanced keyboard handling and WebAuthn support",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS announces Amazon DCV 2025.0, the latest version of the high-performance remote display protocol that enables customers to securely access remote desktops and application sessions. This release focuses on enhancing",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-dvc-releases-version-2025-0"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-22-aws-amazon-rds-for-sql-server-now-supports-retaining-c",
+      "date": "2025-10-22",
+      "name": "Amazon RDS for SQL Server now supports retaining CDC configurations when restoring database backups",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for SQL Server</a> now allows maintaining Change Data Capture (CDC) settings and metadata when restoring ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-rds-sql-server-retaining-cdc/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-22-aws-aws-customer-carbon-footprint-tool-now-includes-sc",
+      "date": "2025-10-22",
+      "name": "AWS’ Customer Carbon Footprint Tool now includes Scope 3 emissions data",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS’ Customer Carbon Footprint Tool (CCFT) has been updated to include Scope 3 emissions data and Scope 1 natural gas and refrigerants, providing AWS customers more complete visibility into their cloud carbon f",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-customer-carbon-footprint-tool-scope-3-emissions-data"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-22-aws-amazon-documentdb-with-mongodb-compatibility-now-s",
+      "date": "2025-10-22",
+      "name": "Amazon DocumentDB (with MongoDB compatibility) now supports Graviton4-based R8g database instances",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Graviton4-based R8g database instances are now generally available for Amazon DocumentDB (with MongoDB compatibility). R8g instances are powered by AWS Graviton4 processors and feature the latest DDR5 memory, maki",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-documentdb-graviton4-based-r8g-database-instances/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-22-aws-amazon-s3-metadata-is-now-available-in-three-addit",
+      "date": "2025-10-22",
+      "name": "Amazon S3 Metadata is now available in three additional AWS Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon S3 Metadata is now available in three additional AWS Regions: Europe (Frankfurt), Europe (Ireland), and Asia Pacific (Tokyo).<br /> <br /> Amazon S3 Metadata is the easiest and fastest way to help you instantly",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-s3-metadata-three-additional-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-22-aws-amazon-ec2-c7i-flex-instances-are-now-available-in",
+      "date": "2025-10-22",
+      "name": "Amazon EC2 C7i-flex instances are now available in the Asia Pacific (Jakarta) Region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C7i-flex instances that deliver up to 19% better price performance compared to C6i instances, are available in the Asia Pacific (Jakarta) Region. C7i-flex inst",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c7i-flex-instances-jakarta-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-22-langchain-langgraph-langchain-and-langgraph-agent-frameworks-reach-v1-",
+      "date": "2025-10-22",
+      "name": "LangChain and LangGraph Agent Frameworks Reach v1.0 Milestones",
+      "vendor": "LangChain/LangGraph",
+      "type": "upgrade",
+      "summary": "<p><em>By Sydney Runkle and the LangChain OSS team </em></p><p>We&apos;re releasing LangChain 1.0 and LangGraph 1.0 &#x2014; our first major versions of our open source frameworks! After years of feedback, we&apos;ve upd",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/langchain-langgraph-1dot0/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2025-10-21-aws-aws-announces-nitro-enclaves-are-now-available-in-",
       "date": "2025-10-21",
       "name": "AWS announces Nitro Enclaves are now available in all AWS Regions",
@@ -839,240 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-msk-connect-ten-additional-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-13-openai-openai-and-broadcom-announce-strategic-collaborati",
-      "date": "2025-10-13",
-      "name": "OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "OpenAI and Broadcom announce a multi-year partnership to deploy 10 gigawatts of OpenAI-designed AI accelerators, co-developing next-generation systems and Ethernet solutions to power scalable, energy-efficient AI infrast",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/openai-and-broadcom-announce-strategic-collaboration"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-13-aws-amazon-quick-sight-expands-font-customization-for-",
-      "date": "2025-10-13",
-      "name": "Amazon Quick Sight expands font customization for visuals",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/quicksight/\">Amazon Quick Sight</a> now supports font customization for data labels and axes. Authors can now customize fonts for data labels and axes in supported charts, in addition t",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-quicksight-expands-font-customization"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-13-aws-amazon-ec2-high-memory-u7i-instances-now-available",
-      "date": "2025-10-13",
-      "name": "Amazon EC2 High Memory U7i instances now available in Asia Pacific (Mumbai) Region",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Starting today, Amazon EC2 High Memory U7i instances with 12TB of memory (u7i-12tb.224xlarge) are now available in the Asia Pacific (Mumbai) region. U7i-12tb instances are part of AWS 7th generation and are powered by",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-high-memory-u7i-instances-asia-pacific-mumbai-region"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-13-aws-amazon-sagemaker-ai-projects-now-supports-custom-t",
-      "date": "2025-10-13",
-      "name": "Amazon SageMaker AI Projects now supports custom template S3 provisioning",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker AI Projects now supports provisioning custom machine learning (ML) project templates from Amazon S3. Administrators can now manage ML templates in SageMaker AI studio so data scientists can create sta",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-sagemaker-ai-projects-custom-template-s3-provisioning"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-13-aws-amazon-bedrock-agentcore-is-now-generally-availabl",
-      "date": "2025-10-13",
-      "name": "Amazon Bedrock AgentCore is now generally available",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Bedrock AgentCore is an agentic platform to build, deploy and operate highly capable agents securely at scale using any framework, model, or protocol. AgentCore lets you build agents faster, enable agents to ta",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-bedrock-agentcore-available/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-13-aws-aws-service-availability-updates",
-      "date": "2025-10-13",
-      "name": "AWS Service Availability Updates",
-      "vendor": "AWS",
-      "type": "deprecation",
-      "summary": "<p>After careful consideration, we’re announcing availability changes for a select group of AWS services and features. These changes fall into three lifecycle categories:<br /> <br /> Services and Capabilities moving to ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-service-availability/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-13-aws-aws-config-now-supports-3-new-resource-types",
-      "date": "2025-10-13",
-      "name": "AWS Config now supports 3 new resource types",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Config now supports 3 additional AWS resource types. This expansion provides greater coverage over your AWS environment, enabling you to more effectively discover, assess, audit, and remediate an even broader rang",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-config-new-resource-types"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-13-aws-announcing-vector-search-for-amazon-elasticache",
-      "date": "2025-10-13",
-      "name": "Announcing vector search for Amazon ElastiCache",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Vector search for <a href=\"https://aws.amazon.com/elasticache/\" style=\"cursor: pointer;\" target=\"_blank\">Amazon ElastiCache</a> is now generally available. Customers can now use ElastiCache to index, search, and updat",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-elasticache-vector-search/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-13-aws-generative-ai-observability-now-generally-availabl",
-      "date": "2025-10-13",
-      "name": "Generative AI observability now generally available for Amazon CloudWatch",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon CloudWatch announces the general availability of generative AI observability, helping you monitor all components of AI applications and workloads, including agents deployed and operated with Amazon Bedrock Agen",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/generative-ai-observability-amazon-cloudwatch/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-13-langchain-langgraph-securing-your-agents-with-authentication-and-autho",
-      "date": "2025-10-13",
-      "name": "Securing your agents with authentication and authorization",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "Agents can take action which makes proper authentication and authorization critical. Read on for how to implement and evolve agent auth.",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/agent-authorization-explainer/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2025-10-12-openai-temporary-chat-not-functioning-on-web",
-      "date": "2025-10-12",
-      "name": "Temporary chat not functioning on web",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Conversations (Degraded performance)</li>\n          ",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01K7AXXP9Y81MHGW42KKXE3JFK"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-12-openai-delays-with-supervised-fine-tuning",
-      "date": "2025-10-12",
-      "name": "Delays with Supervised Fine-Tuning",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Fine-tuning (Operational)</li>\n          </ul>",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01K782M5NJ351CQDEZATG3W3QP"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-11-openai-apps-sdk-dev-mode-partial-outage",
-      "date": "2025-10-11",
-      "name": "Apps SDK Dev Mode Partial Outage",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Investigating</b><br /><br />We are investigating the issue for the listed services.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Connectors (Partial outage)</li>\n          </ul>",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01K7AVZB3KEKFNQ9AFQCJEGQDF"
         }
       ],
       "impact": 5,
