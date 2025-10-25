@@ -1,6 +1,132 @@
 {
   "items": [
     {
+      "id": "2025-10-24-openai-elevated-error-rates-for-web-search",
+      "date": "2025-10-24",
+      "name": "Elevated error rates for web search",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Search (Operational)</li>\n<li>Deep Research (Operational)</li>\n<li>Cha",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01K8BZX6RTS058MTVX5EQ5H19Y"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-24-aws-amazon-ec2-auto-scaling-now-supports-predictive-sc",
+      "date": "2025-10-24",
+      "name": "Amazon EC2 Auto Scaling now supports predictive scaling in six more regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Customers can now enable predictive scaling for their Auto Scaling groups (ASGs) in six more regions: Asia Pacific (Hyderabad), Asia Pacific (Melbourne), Israel (Tel Aviv), Canada West (Calgary), Europe (Spain), and E",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-auto-scaling-predictive-scaling-in-six/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-24-aws-amazon-vpc-reachability-analyzer-and-amazon-vpc-ne",
+      "date": "2025-10-24",
+      "name": "Amazon VPC Reachability Analyzer and Amazon VPC Network Access Analyzer are now available in AWS GovCloud (US) Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>With this launch, Amazon <a href=\"https://docs.aws.amazon.com/vpc/latest/reachability/getting-started.html\">VPC Reachability Analyzer</a> and Amazon VPC <a href=\"https://docs.aws.amazon.com/vpc/latest/network-access-a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.comabout-aws/whats-new/2025/10/amazon-vpc-reachability-network-access-analyzer-govcloud"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-24-aws-aurora-dsql-now-supports-resource-based-policies",
+      "date": "2025-10-24",
+      "name": "Aurora DSQL now supports resource-based policies",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Aurora DSQL now supports resource-based policies, enabling you to simplify access control for your Aurora DSQL resources. With resource-based policies, you can specify Identity and Access Management (IAM) princ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aurora-dsql-resource-based-policies"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-24-aws-aws-transfer-family-now-supports-changing-identity",
+      "date": "2025-10-24",
+      "name": "AWS Transfer Family now supports changing identity provider type on a server",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Transfer Family now enables you to change your server's identity provider (IdP) type without service interruption. This enhancement gives you more control and flexibility over authentication management in your fil",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-transfer-family-changing-idp-type"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-24-aws-amazon-sagemaker-unified-studio-supports-amazon-at",
+      "date": "2025-10-24",
+      "name": "Amazon SageMaker Unified Studio supports Amazon Athena workgroups",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Data engineers and data analysts using Amazon SageMaker Unified Studio can now connect to and run queries with pre-existing Amazon Athena workgroups. This feature enables data teams to run SQL queries in SageMaker Uni",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-sagemaker-unified-studio-athena-workgroups/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-24-aws-aws-lambda-increases-maximum-payload-size-from-256",
+      "date": "2025-10-24",
+      "name": "AWS Lambda increases maximum payload size from 256 KB to 1 MB for asynchronous invocations",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Lambda increases asynchronous invocations maximum payload size from 256 KB to 1 MB, allowing customers to ingest richer, complex payloads for their event-driven workloads without the need to split, compress, or ex",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-lambda-payload-size-256-kb-1-mb-invocations/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-10-23-openai-consensus-accelerates-research-with-gpt-5-and-resp",
       "date": "2025-10-23",
       "name": "Consensus accelerates research with GPT-5 and Responses API",
@@ -947,132 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-r8g-instances-additional-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-15-aws-amazon-ecs-supports-running-firelens-as-a-non-root",
-      "date": "2025-10-15",
-      "name": "Amazon ECS supports running Firelens as a non-root user",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/ecs/\">Amazon Elastic Container Services</a> (Amazon ECS) now allows you to run Firelens containers as a non-root user, by specifying a User ID in your Task Definition.<br /> <br /> Spec",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ecs-running-firelens-as-nonroot-user/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-15-aws-aws-application-load-balancer-launches-url-and-hos",
-      "date": "2025-10-15",
-      "name": "AWS Application Load Balancer launches URL and Host Header Rewrite",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Web Services (AWS) announces URL and Host Header rewrite capabilities for Application Load Balancer (ALB). This feature enables customers to modify request URLs and Host Headers using regex-based pattern matchi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/application-load-balancer-url-header-rewrite"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-15-aws-aws-backup-expands-information-in-job-apis-and-bac",
-      "date": "2025-10-15",
-      "name": "AWS Backup expands information in job APIs and Backup Audit Manager reports",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Backup now provides more details in backup job API responses and Backup Audit Manager reports to give you better visibility into backup configurations and compliance settings. You can verify your backup policies w",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-backup-expands-information-job-api-audit-manager/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-15-aws-amazon-rds-for-mysql-and-postgresql-zero-etl-integ",
-      "date": "2025-10-15",
-      "name": "Amazon RDS for MySQL and PostgreSQL zero-ETL integration with Amazon Redshift now available in 8 additional regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon RDS for MySQL and Amazon RDS for PostgreSQL zero-ETL integration with Amazon Redshift is now available in the Asia Pacific (Hyderabad), Asia Pacific (Jakarta), Asia Pacific (Melbourne), Canada West (Calgary), E",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-rds-mysql-postgresql-zero-etl-redshift-8-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-15-aws-amazon-rds-for-oracle-zero-etl-integration-with-am",
-      "date": "2025-10-15",
-      "name": "Amazon RDS for Oracle zero-ETL integration with Amazon Redshift is now available in 8 additional AWS regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon RDS for Oracle zero-ETL integration with Amazon Redshift is now available in the Asia Pacific (Hyderabad), Asia pacific (Jakarta), Asia Pacific (Melbourne), Canada West (Calgary), Europe (Spain), Europe (Zurich",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-rds-oracle-zero-etl-integration-redshift-8-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-14-openai-argentina-s-ai-opportunity",
-      "date": "2025-10-14",
-      "name": "Argentina’s AI opportunity",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "OpenAI and Sur Energy are exploring Argentina’s first Stargate project—an AI and clean energy collaboration that could make Argentina a Latin American leader in artificial intelligence, sustainable infrastructure, and di",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/global-affairs/argentinas-ai-opportunity"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-14-aws-amazon-ec2-m7i-instances-are-now-available-in-the-",
-      "date": "2025-10-14",
-      "name": "Amazon EC2 M7i instances are now available in the Europe (Milan) Region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M7i instances powered by custom 4th Gen Intel Xeon Scalable processors (code-named Sapphire Rapids) are available in the Europe (Milan) region. These custom pr",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-m7i-instances-milan-region/"
         }
       ],
       "impact": 5,
