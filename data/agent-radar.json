@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "2025-10-25-langchain-langgraph-agent-frameworks-runtimes-and-harnesses-oh-my",
+      "date": "2025-10-25",
+      "name": "Agent Frameworks, Runtimes, and Harnesses- oh my!",
+      "vendor": "LangChain/LangGraph",
+      "type": "upgrade",
+      "summary": "<p>There are few different open source packages we maintain: <a href=\"https://docs.langchain.com/oss/python/langchain/quickstart?ref=blog.langchain.com\">LangChain</a> and <a href=\"https://docs.langchain.com/oss/python/la",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/agent-frameworks-runtimes-and-harnesses-oh-my/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2025-10-24-openai-elevated-error-rates-for-web-search",
       "date": "2025-10-24",
       "name": "Elevated error rates for web search",
@@ -1055,24 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-aurora-postgresql-zero-etl-integration-sagemaker"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-15-aws-amazon-ec2-r8g-instances-now-available-in-addition",
-      "date": "2025-10-15",
-      "name": "Amazon EC2 R8g instances now available in additional regions",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8g instances are available in South America (Sao Paulo), Europe (London), and Asia Pacific (Melbourne) regions. These instances are powered by AWS Graviton4 p",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-r8g-instances-additional-regions"
         }
       ],
       "impact": 5,
