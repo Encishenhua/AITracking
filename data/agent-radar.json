@@ -1,6 +1,114 @@
 {
   "items": [
     {
+      "id": "2025-10-27-openai-a-law-and-tax-firm-redefines-efficiency-with-chatg",
+      "date": "2025-10-27",
+      "name": "A law and tax firm redefines efficiency with ChatGPT Business",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "Learn how Steuerrecht.com uses ChatGPT Business to streamline legal workflows, automate tax research, and scale client service—helping law firms boost productivity and stay competitive.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/steuerrecht"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-27-aws-aws-payment-cryptography-is-now-available-in-canad",
+      "date": "2025-10-27",
+      "name": "AWS Payment Cryptography is now available in Canada(Montreal), Africa (Cape Town) and Europe (London)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/payment-cryptography/\">AWS Payment Cryptography</a>&nbsp;has expanded its global presence with availability in three new regions - Canada(Montreal), Africa (Cape Town) and Europe (Londo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-payment-cryptography-available-montreal-south-africa"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-27-aws-amazon-cognito-now-supports-resource-indicators-to",
+      "date": "2025-10-27",
+      "name": "Amazon Cognito now supports resource indicators to simplify enhancing protection of OAuth 2.0 resources",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Cognito now enables app clients to specify resource indicators during access token requests as part of its OAuth 2.0 authorization code grant and implicit grant flows. The resource indicator identifies the prot",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cognito-resource-indicators-protection-oauth-2-0-resources"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-27-aws-amazon-location-service-introduces-new-api-key-res",
+      "date": "2025-10-27",
+      "name": "Amazon Location Service introduces new API key restrictions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announced enhanced API key restrictions for Amazon Location Service, enabling developers to secure their location-based applications more effectively. This new capability helps organizations that need to re",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-location-service-new-api-key-security-restrictions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-27-aws-amazon-ecs-managed-instances-now-available-in-all-",
+      "date": "2025-10-27",
+      "name": "Amazon ECS Managed Instances now available in all  commercial AWS Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Elastic Container Service (Amazon ECS) Managed Instances is now available in all commercial <a href=\"https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/\">AWS Regions</a>. ECS Manag",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ecs-managed-instances-commercial-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-27-crewai-1-2-1",
+      "date": "2025-10-27",
+      "name": "1.2.1",
+      "vendor": "CrewAI",
+      "type": "upgrade",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add support for Datadog integration.</li>\n<li>Support apps and mcps in liteagent.</li>\n</ul>\n<h3>Documentation</h3>\n<ul>\n<li>Describe mandatory environment variable for ",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.2.1"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2025-10-25-langchain-langgraph-agent-frameworks-runtimes-and-harnesses-oh-my",
       "date": "2025-10-25",
       "name": "Agent Frameworks, Runtimes, and Harnesses- oh my!",
@@ -965,114 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-workspaces-core-managed-instances-additional-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-15-aws-claude-4-5-haiku-by-anthropic-now-in-amazon-bedroc",
-      "date": "2025-10-15",
-      "name": "Claude 4.5 Haiku by Anthropic now in Amazon Bedrock",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Claude Haiku 4.5 is now available in Amazon Bedrock. Claude Haiku 4.5 delivers near-frontier performance matching Claude Sonnet 4's capabilities in coding, computer use, and agent tasks at substantially lower cost and",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/claude-4-5-haiku-anthropic-amazon-bedrock"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-15-aws-second-generation-aws-outposts-racks-now-supported",
-      "date": "2025-10-15",
-      "name": "Second-generation AWS Outposts racks now supported in the AWS Europe (Ireland) Region",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Second-generation AWS Outposts racks are now supported in the AWS Europe (Ireland) Region. Outposts racks extend AWS infrastructure, AWS services, APIs, and tools to virtually any on-premises data center or colocation",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/second-generation-aws-outposts-racks-europe-ireland-region"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-15-aws-aws-backup-enhances-backup-plan-management-with-sc",
-      "date": "2025-10-15",
-      "name": "AWS Backup enhances backup plan management with schedule preview",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Backup now provides schedule preview for backup plans, helping you validate when your backups are scheduled to run. Schedule preview shows the next ten scheduled backup runs, including when continuous backup, inde",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-backup-plan-management/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-15-aws-amazon-bedrock-simplifies-access-with-automatic-en",
-      "date": "2025-10-15",
-      "name": "Amazon Bedrock simplifies access with automatic enablement of serverless foundation models",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock now provides immediate access to all serverless foundation models by default for users in all commercial AWS regions. This update eliminates the need for manually activating model access, allowing you t",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-bedrock-automatic-enablement-serverless-foundation-models"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-15-aws-deepseek-openai-and-qwen-models-available-in-amazo",
-      "date": "2025-10-15",
-      "name": "DeepSeek, OpenAI, and Qwen models available in Amazon Bedrock in additional Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock is bringing DeepSeek-V3.1, OpenAI open-weight models, and Qwen3 models to more AWS Regions worldwide, expanding access to cutting-edge AI for customers across the globe. This regional expansion enables ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/deepseek-openai-qwen-models-amazon-bedrock-additional-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-15-aws-amazon-aurora-postgresql-zero-etl-integration-with",
-      "date": "2025-10-15",
-      "name": "Amazon Aurora PostgreSQL zero-ETL integration with Amazon SageMaker is now available",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Aurora PostgreSQL-Compatible Edition now supports zero-ETL integration with <a href=\"https://aws.amazon.com/sagemaker/lakehouse/\" target=\"_blank\">Amazon SageMake</a>r, enabling near real-time data availability ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-aurora-postgresql-zero-etl-integration-sagemaker"
         }
       ],
       "impact": 5,
