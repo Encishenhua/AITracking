@@ -1,6 +1,168 @@
 {
   "items": [
     {
+      "id": "2025-10-28-openai-built-to-benefit-everyone",
+      "date": "2025-10-28",
+      "name": "Built to benefit everyone",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "OpenAI’s recapitalization strengthens mission-focused governance, expanding resources to ensure AI benefits everyone while advancing innovation responsibly.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/built-to-benefit-everyone"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-28-openai-members-page-in-admin-settings-of-chatgpt-not-load",
+      "date": "2025-10-28",
+      "name": "Members Page in Admin Settings of ChatGPT not loading",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered. Please try logging out and back in to access the members page again.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01K8NZK5W1B6C0F6PP5PTV70AW"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-28-openai-increased-api-latency-and-error-rates",
+      "date": "2025-10-28",
+      "name": "Increased API latency and error rates",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />From roughly 12pm PT until 1:30pm PT, customers may have experienced increased latency and error rates across various models, with gpt-4.1 and gpt-4o models most heavily impacted.<br />",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01K8PE0EGDH9XRSMB21F24AFRY"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-28-aws-announcing-amazon-nova-multimodal-embeddings",
+      "date": "2025-10-28",
+      "name": "Announcing Amazon Nova Multimodal Embeddings",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>We are excited to announce the general availability of Amazon Nova Multimodal Embeddings, a state-of-the-art embedding model for agentic RAG and semantic search. It is the first unified embedding model that supports t",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-nova-multimodal-embeddings/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-28-aws-amazon-ec2-r8i-and-r8i-flex-instances-are-now-avai",
+      "date": "2025-10-28",
+      "name": "Amazon EC2 R8i and R8i-flex instances are now available in Europe (London)",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8i and R8i-flex instances are available in the Europe (London) region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, d",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-r8i-flex-instances-in-london-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-28-aws-aws-resource-explorer-supports-47-additional-resou",
+      "date": "2025-10-28",
+      "name": "AWS Resource Explorer supports 47 additional resource types",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Resource Explorer now supports 47 more resource types services including Amazon Bedrock, AWS Shield, and AWS Glue.<br /> <br /> With this release, customers can now search for the following resource types in AWS R",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-resource-explorer-47-resource-types/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-28-aws-amazon-documentdb-with-mongodb-compatibility-annou",
+      "date": "2025-10-28",
+      "name": "Amazon DocumentDB (with MongoDB compatibility) announces upgraded query planner that can run queries up to 10x faster",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, Amazon DocumentDB (with MongoDB compatibility) announces a new query planner, featuring advanced query optimization capabilities and improved performance. PlannerVersion 2.0 for Amazon DocumentDB (with MongoDB ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/new-query-planner"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-28-aws-amazon-ec2-i7ie-instances-now-available-in-aws-gov",
+      "date": "2025-10-28",
+      "name": "Amazon EC2 I7ie instances now available in AWS GovCloud (US) Region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS is announcing starting today, Amazon EC2 I7ie instances are now available in AWS GovCloud (US-West) region. Designed for large storage I/O intensive workloads, I7ie instances are powered by 5th Gen Intel Xeon Proc",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-i7ie-instances-govcloud-us-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-28-langchain-langgraph-doubling-down-on-deepagents",
+      "date": "2025-10-28",
+      "name": "Doubling down on DeepAgents",
+      "vendor": "LangChain/LangGraph",
+      "type": "upgrade",
+      "summary": "<p>Two months ago <a href=\"https://blog.langchain.com/deep-agents/\">we wrote about Deep Agents</a> - a term we coined for agents that are able to do complex, open ended tasks over longer time horizons. We hypothesized th",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/doubling-down-on-deepagents/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2025-10-27-openai-a-law-and-tax-firm-redefines-efficiency-with-chatg",
       "date": "2025-10-27",
       "name": "A law and tax firm redefines efficiency with ChatGPT Business",
@@ -911,168 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/customer-managed-kms-keys-automated-reasoning-checks/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-17-aws-amazon-ec2-c8g-instances-now-available-in-addition",
-      "date": "2025-10-17",
-      "name": "Amazon EC2 C8g instances now available in additional regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8g instances are available in AWS Europe (Milan), and AWS Asia Pacific (Hong Kong, Osaka, Melbourne) regions. These instances are powered by AWS Graviton4 pro",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c8g-instances-additional-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-17-aws-aws-systems-manager-patch-manager-launches-securit",
-      "date": "2025-10-17",
-      "name": "AWS Systems Manager Patch Manager launches security updates notification for Windows",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Systems Manager announces the launch of security updates notification for Windows patching compliance, which helps customers identify security updates that are available but not approved by their patch baseline co",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-systems-manager-patch-manager-windows/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-16-aws-amazon-timestream-now-supports-influxdb-3",
-      "date": "2025-10-16",
-      "name": "Amazon Timestream now supports InfluxDB 3",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Timestream for InfluxDB now offers support for InfluxDB 3. Now application developers and DevOps teams can run InfluxDB 3 databases as a managed service. InfluxDB 3 uses a new architecture for the InfluxDB data",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-timestream-influxdb-3/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-16-aws-amazon-location-service-introduces-new-map-styling",
-      "date": "2025-10-16",
-      "name": "Amazon Location Service Introduces New Map Styling Features for Enhanced Customization",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announced enhanced map styling features for Amazon Location Service, enabling users to further customize maps with terrain visualization, contour lines, real-time traffic data, and transportation-specific r",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-location-services-new-map-styling-enchanced-customization"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-16-aws-amazon-ec2-c8gn-instances-are-now-available-in-add",
-      "date": "2025-10-16",
-      "name": "Amazon EC2 C8gn instances are now available in additional regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8gn instances, powered by the latest-generation AWS Graviton4 processors, are available in the AWS Asia Pacific (Malaysia, Sydney, Thailand) Region. The new i",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c8gn-instances-additional-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-16-aws-amazon-ec2-now-supports-cpu-options-optimization-f",
-      "date": "2025-10-16",
-      "name": "Amazon EC2 now supports CPU options optimization for license-included instances",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon EC2 now allows customers to modify an instance’s CPU options to optimize the licensing costs of Microsoft Windows license-included workloads. You can now customize the number of vCPUs and/or disable hyperthread",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-cpu-options-optimization-license-included-instances"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-16-aws-aws-security-hub-cspm-now-supports-cis-aws-foundat",
-      "date": "2025-10-16",
-      "name": "AWS Security Hub CSPM now supports CIS AWS Foundations Benchmark v5.0",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/security-hub/cspm/features/\">AWS Security Hub Cloud Security Posture Management (CSPM</a>) now supports the Center for Internet Security (CIS) AWS Foundations Benchmark v5.0. This indus",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-security-hub-cspm-cis-foundations-benchmark-v5/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-16-aws-amazon-ec2-now-supports-optimize-cpus-for-license-",
-      "date": "2025-10-16",
-      "name": "Amazon EC2 now supports Optimize CPUs for license-included instances",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon EC2 now allows customers to modify an instance’s CPU options to optimize the licensing costs of Microsoft Windows license-included workloads. You can now customize the number of vCPUs and/or disable hyperthread",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-optimize-cpu-license-included-instances"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-15-aws-amazon-workspaces-core-managed-instances-is-now-av",
-      "date": "2025-10-15",
-      "name": "Amazon WorkSpaces Core Managed Instances is now available in 5 additional AWS Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS today announced Amazon WorkSpaces Core Managed Instances availability in US East (Ohio), Asia Pacific (Malaysia), Asia Pacific (Hong Kong), Middle East (UAE), and Europe (Spain), bringing Amazon WorkSpaces capabil",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-workspaces-core-managed-instances-additional-regions"
         }
       ],
       "impact": 5,
