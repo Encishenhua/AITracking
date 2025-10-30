@@ -1,6 +1,132 @@
 {
   "items": [
     {
+      "id": "2025-10-29-aws-twelvelabs-marengo-embed-3-0-for-advanced-video-un",
+      "date": "2025-10-29",
+      "name": "TwelveLabs’ Marengo Embed 3.0 for advanced video understanding now in Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>TwelveLabs' Marengo Embed 3.0 is now available on Amazon Bedrock, bringing advanced video-native multimodal embedding capabilities to developers and organizations working with video content. Marengo embedding models u",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/twelvelabs-marengo3-embed-amazon-bedrock"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-29-aws-4-new-image-editing-tools-added-to-stability-ai-im",
+      "date": "2025-10-29",
+      "name": "4 new image editing tools added to Stability AI Image Services in Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock announces the availability of 4 new image editing tools to Stability AI Image Services: outpaint, fast upscale, conservative upscale, and creative upscale. These tools give creators precise control over",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/stability-ai-image-updates-amazon-bedrock/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-29-aws-amazon-ec2-high-memory-u7i-instances-are-now-avail",
+      "date": "2025-10-29",
+      "name": "Amazon EC2 High Memory U7i instances are now available in AWS Europe (London) Region",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon EC2 U7i-8tb (u7i-8tb.112xlarge) instances are now available in the AWS Europe (London) region. U7i-8tb instances are part of AWS 7th generation and are powered by custom fourth generation Intel Xeon Scalable Pr",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-high-memory-u7i-instances-aws-europe-london-region"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-29-aws-amazon-s3-adds-conditional-write-functionality-to-",
+      "date": "2025-10-29",
+      "name": "Amazon S3 adds conditional write functionality to copy operations",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon S3 expands conditional write functionality to<b> </b>copy operations. With conditional copy, you can now verify if the object exists or has been modified in your destination S3 bucket before copying it. This he",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-s3-conditional-write-functionality-copy-operations"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-29-aws-web-grounding-build-accurate-ai-applications-with-",
+      "date": "2025-10-29",
+      "name": "Web Grounding: Build accurate AI applications with Amazon Nova models",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>We are excited to announce the general availability of Web Grounding, a new built-in tool for Nova models. Customers can use Web Grounding today with Nova Premier using the Amazon Bedrock tool use API. Support for add",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/web-grounding-ai-applications-amazon-nova-models"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-29-aws-aws-control-tower-is-now-available-in-aws-asia-pac",
+      "date": "2025-10-29",
+      "name": "AWS Control Tower is now available in AWS Asia Pacific (New Zealand) Region",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, customers can use AWS Control Tower in the AWS Asia Pacific (New Zealand) Region. With this launch, AWS Control Tower is available in 34 AWS Regions and the AWS GovCloud (US) Regions. AWS Control Tower",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-control-tower-asia-pacific-new-zealand-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-29-langchain-langgraph-introducing-langsmith-s-no-code-agent-builder",
+      "date": "2025-10-29",
+      "name": "Introducing LangSmith’s No Code Agent Builder",
+      "vendor": "LangChain/LangGraph",
+      "type": "launch",
+      "summary": "<p><em>By Brace Sproul and Sam Crowder</em></p><p>Today, we&#x2019;re expanding who can build agents beyond developers. While a lot of the highest volume, customer-facing agents will be built by technical teams, nearly e",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/langsmith-agent-builder/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2025-10-28-openai-built-to-benefit-everyone",
       "date": "2025-10-28",
       "name": "Built to benefit everyone",
@@ -947,132 +1073,6 @@
         {
           "title": "OpenAI source",
           "url": "https://status.openai.com//incidents/01K8154RY7GA4J1TGP71N3EYXT"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-20-crewai-1-0-0",
-      "date": "2025-10-20",
-      "name": "1.0.0",
-      "vendor": "CrewAI",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Bump versions to 1.0.0</li>\n<li>Enhance knowledge and guardrail event handling in Agent class</li>\n<li>Inject tool repository credentials in crewai run command</li>\n</ul",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.0.0"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2025-10-20-aws-amazon-ecs-now-publishes-aws-cloudtrail-data-event",
-      "date": "2025-10-20",
-      "name": "Amazon ECS now publishes AWS CloudTrail data events for insight into API activities",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p><a href=\"https://aws.amazon.com/ecs/\" target=\"_blank\">Amazon Elastic Container Service</a> (Amazon ECS) now supports AWS CloudTrail data events, providing detailed visibility into Amazon ECS Agent API activities. This",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ecs-aws-cloudtrail-data-events-insight-api-activities"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-20-langchain-langgraph-langchain-raises-125m-to-build-the-platform-for-ag",
-      "date": "2025-10-20",
-      "name": "LangChain raises $125M to build the platform for agent engineering",
-      "vendor": "LangChain/LangGraph",
-      "type": "pricing",
-      "summary": "We raised $125M at a $1.25B valuation to build the platform for agent engineering.",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/series-b/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2025-10-17-aws-cloudwatch-database-insights-now-supports-tag-base",
-      "date": "2025-10-17",
-      "name": "CloudWatch Database Insights now supports tag based access control",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon CloudWatch Database Insights now supports tag-based access control for database and per-query metrics powered by RDS Performance Insights. You can implement access controls across a logical grouping of database",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/database-insights-tag-based-access-control"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-17-aws-announcing-amazon-ec2-capacity-manager",
-      "date": "2025-10-17",
-      "name": "Announcing Amazon EC2 Capacity Manager",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS is announcing the general availability of Amazon EC2 Capacity Manager, a new capability that enables customers to monitor, analyze, and manage EC2 capacity across all of their accounts and regions. This new",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-capacity-manager"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-17-aws-amazon-opensearch-service-now-supports-graviton4-b",
-      "date": "2025-10-17",
-      "name": "Amazon OpenSearch Service now supports Graviton4 based (c8g,m8g,r8g and r8gd) instances",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><span style=\"background-color: rgb(255,255,255);\">Amazon OpenSearch Service now supports latest generation Graviton4-based Amazon EC2 instance families. These new instance types are compute optimized (C8g), general pu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-opensearch-service-supports-graviton4-based-instances"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-17-aws-customer-managed-kms-keys-now-available-for-automa",
-      "date": "2025-10-17",
-      "name": "Customer managed KMS keys now available for Automated Reasoning checks",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS announces support for customer managed AWS Key Management Service (KMS) keys in Automated Reasoning checks in Amazon Bedrock Guardrails. This enhancement enables you to use your own encryption keys to protect poli",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/customer-managed-kms-keys-automated-reasoning-checks/"
         }
       ],
       "impact": 5,
