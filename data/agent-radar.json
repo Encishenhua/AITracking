@@ -1,6 +1,168 @@
 {
   "items": [
     {
+      "id": "2025-10-31-openai-responses-api-background-mode-failures",
+      "date": "2025-10-31",
+      "name": "Responses API Background Mode Failures",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Responses (Operational)</li>\n          </ul>",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01K8X5YXEEDF2TC4JSGXK2RVTR"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-31-aws-amazon-gamelift-streams-adds-aws-health-notificati",
+      "date": "2025-10-31",
+      "name": "Amazon GameLift Streams adds AWS Health notifications for aging resources",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/gamelift/streams/\">Amazon GameLift Streams</a> is now integrated with AWS Health and will provide automated notifications about aging stream groups. Customers are sent regular reminders",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-gamelift-streams-health-notifications"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-31-aws-amazon-dynamodb-accelerator-now-supports-aws-priva",
+      "date": "2025-10-31",
+      "name": "Amazon DynamoDB Accelerator now supports AWS PrivateLink",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon DynamoDB Accelerator (DAX) now supports AWS PrivateLink, enabling you to securely access DAX management APIs such as CreateCluster, DescribeClusters, and DeleteCluster over private IP addresses within your virt",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-dynamodb-accelerator-privatelink/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-31-aws-new-sap-on-aws-grow-region-availability-for-sap-cl",
+      "date": "2025-10-31",
+      "name": "New SAP on AWS GROW Region Availability for SAP Cloud ERP",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>SAP Cloud ERP on AWS (GROW) is now available in the Europe (Frankfurt) region. As a complete offering of solutions, best practices, adoption acceleration services, community and learning, SAP Cloud ERP on AWS helps an",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/sap-aws-grow-region-availability-sap-cloud-erp"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-31-aws-amazon-connect-now-supports-scheduling-of-individu",
+      "date": "2025-10-31",
+      "name": "Amazon Connect now supports scheduling of individual agents",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Connect now supports scheduling of individual agents, giving you more flexibility in scheduling your workforce. For example, when onboarding 100 new agents to a business unit with schedules already published fo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-scheduling-individual-agents/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-31-aws-aws-marketplace-now-offers-pricing-model-flexibili",
+      "date": "2025-10-31",
+      "name": "AWS Marketplace now offers pricing model flexibility and simplified deployment for AI agents and tools",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Marketplace now offers flexible pricing models, simplified authentication, and streamlined deployment for AI agents and tools. The new capabilities include contract-based and usage-based pricing for <a contentedit",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-marketplace-pricing-ai-agents-tools/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-31-aws-amazon-vpc-ipam-automates-prefix-list-updates",
+      "date": "2025-10-31",
+      "name": "Amazon VPC IPAM automates prefix list updates",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS announced the ability for Amazon VPC IP Address Manager (IPAM) to automate prefix lists updates with prefix list resolver (PLR). This feature allows network administrators to automatically update prefix lis",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-vpc-ipam-prefix-list-automation/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-31-aws-the-model-context-protocol-mcp-proxy-for-aws-is-no",
+      "date": "2025-10-31",
+      "name": "The Model Context Protocol (MCP) Proxy for AWS is now generally available",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the general availability of the Model Context Protocol (MCP) Proxy for AWS, a client-side proxy that enables MCP clients to connect to remote, AWS-hosted MCP servers using AWS SigV4 authentication",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/model-context-protocol-proxy-available/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-31-aws-announcing-larger-instances-for-amazon-lightsail",
+      "date": "2025-10-31",
+      "name": "Announcing larger instances for Amazon Lightsail",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Lightsail now offers three larger instance bundles with up to 64 vCPUs and 256 GB memory. The new instance bundles are available with Linux operating system (OS) and application blueprints, for both IPv6-only a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/larger-instances-amazon-lightsail"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-10-30-openai-expanding-stargate-to-michigan",
       "date": "2025-10-30",
       "name": "Expanding Stargate to Michigan",
@@ -268,6 +430,24 @@
       "impact": 5,
       "risk": 3,
       "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-10-30-langchain-langgraph-introducing-deepagents-cli",
+      "date": "2025-10-30",
+      "name": "Introducing DeepAgents CLI",
+      "vendor": "LangChain/LangGraph",
+      "type": "launch",
+      "summary": "<p><em>By </em><a href=\"https://www.linkedin.com/in/vivek-trivedy-433509134/?ref=blog.langchain.com\"><em>Vivek Trivedy</em></a></p><p>We&apos;re excited to introduce <strong>DeepAgents CLI</strong> for coding, research, ",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/introducing-deepagents-cli/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
       "tags": []
     },
     {
@@ -893,186 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-rtb-fabric-generally-available/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-23-aws-amazon-connect-now-supports-threaded-views-and-inc",
-      "date": "2025-10-23",
-      "name": "Amazon Connect now supports threaded views and includes conversation history in agent replies",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Connect now includes the conversation history in agent replies and introduces threaded views of email exchanges, making it easier for both agents and customers to maintain context and continuity across interact",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-threaded-views-conversation-history/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-23-aws-amazon-ec2-i8g-instances-now-available-in-addition",
-      "date": "2025-10-23",
-      "name": "Amazon EC2 I8g instances now available in additional AWS regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS is announcing the general availability of Amazon EC2 Storage Optimized I8g instances in Europe (London), Asia Pacific (Singapore), and Asia Pacific (Tokyo) regions. I8g instances offer the best performance in Amaz",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-i8g-instances-available-in-additional-aws/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-23-langchain-langgraph-improve-agent-quality-with-insights-agent-and-mult",
-      "date": "2025-10-23",
-      "name": "Improve agent quality with Insights Agent and Multi-turn Evals, now in LangSmith",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "LangSmith's new Insights Agent and Multi-turn Evals help you understand what your agents are doing in production and whether they're accomplishing user goals.",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/insights-agent-multiturn-evals-langsmith/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2025-10-22-aws-amazon-cloudwatch-introduces-interactive-incident-",
-      "date": "2025-10-22",
-      "name": "Amazon CloudWatch introduces interactive incident reporting",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon CloudWatch now offers interactive incident report generation, enabling customers to create comprehensive post-incident analysis reports in minutes. The new capability, available within CloudWatch investigations",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cloudwatch-incident-report/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-22-aws-amazon-u7i-instances-now-available-in-aws-us-east-",
-      "date": "2025-10-22",
-      "name": "Amazon U7i instances now available in AWS US East (Ohio) Region",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Starting today, Amazon EC2 High Memory U7i instances with 6TB of memory (u7i-6tb.112xlarge) are now available in the US East (Ohio) region. U7i-6tb instances are part of AWS 7th generation and are powered by custom fo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-u7i-instances-available-aws-us-east-ohio-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-22-aws-amazon-eks-auto-mode-now-available-in-aws-govcloud",
-      "date": "2025-10-22",
-      "name": "Amazon EKS Auto Mode now available in AWS GovCloud (US-East) and (US-West)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Elastic Kubernetes Service (Amazon EKS) Auto Mode is now available in the AWS GovCloud (US-East) and (US-West) regions. This feature fully automates compute, storage, and networking management for Kubernetes cl",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-eks-auto-mode-aws-govcloud-us-east-west"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-22-aws-amazon-location-service-introduces-new-map-styling",
-      "date": "2025-10-22",
-      "name": "Amazon Location Service Introduces New Map Styling Features for Enhanced Customization",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announced enhanced map styling features for Amazon Location Service, enabling users to further customize maps with terrain visualization, contour lines, real-time traffic data, and transportation-specific r",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-location-services-new-map-styling-enchanced-customization"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-22-aws-amazon-cloudwatch-synthetics-now-supports-bundled-",
-      "date": "2025-10-22",
-      "name": "Amazon CloudWatch Synthetics now supports bundled multi-check canaries",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/CloudWatch_Synthetics_Canaries.html\" target=\"_blank\">Amazon CloudWatch Synthetics</a> introduces multi-check blueprints, enabling customers to cr",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cloudwatch-synthetics-bundled-multi-check-canaries"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-22-aws-amazon-cloudwatch-agent-adds-support-for-windows-e",
-      "date": "2025-10-22",
-      "name": "Amazon CloudWatch Agent adds support for Windows Event Log Filters",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon CloudWatch agent has added support for configurable Windows Event log filters. This new feature allows customers to selectively collect and send system and application events to CloudWatch from Windows hosts ru",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cloudwatch-agent-windows-event-log-filters"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-22-aws-amazon-dcv-releases-version-2025-0-with-enhanced-k",
-      "date": "2025-10-22",
-      "name": "Amazon DCV releases version 2025.0 with enhanced keyboard handling and WebAuthn support",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS announces Amazon DCV 2025.0, the latest version of the high-performance remote display protocol that enables customers to securely access remote desktops and application sessions. This release focuses on enhancing",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-dvc-releases-version-2025-0"
         }
       ],
       "impact": 5,
