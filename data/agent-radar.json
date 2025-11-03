@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "2025-11-02-openai-elevated-errors-for-moderation-api",
+      "date": "2025-11-02",
+      "name": "Elevated errors for Moderation API",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />From Nov 1, 2am PT to Nov 2 1:20pm PT, customers may have experienced elevated error rate from Moderation API. All impacted services have now fully recovered.<br /><br /><b>Affected com",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01K93DB34WDVV030H473HQN2N1"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-10-31-openai-responses-api-background-mode-failures",
       "date": "2025-10-31",
       "name": "Responses API Background Mode Failures",
@@ -1055,24 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-dynamodb-zero-etl-integration-redshift-asia-pacific-taipei-region"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-23-aws-now-generally-available-aws-rtb-fabric-for-real-ti",
-      "date": "2025-10-23",
-      "name": "Now generally available: AWS RTB Fabric for real-time bidding workloads",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces RTB Fabric, a fully managed service that helps you connect with your AdTech partners such as Amazon Ads, GumGum, Kargo, MobileFuse, Sovrn, TripleLift, Viant, Yieldmo, and more in three steps while",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-rtb-fabric-generally-available/"
         }
       ],
       "impact": 5,
