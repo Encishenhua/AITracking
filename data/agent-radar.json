@@ -1,6 +1,114 @@
 {
   "items": [
     {
+      "id": "2025-11-03-aws-amazon-cloudwatch-synthetics-adds-multi-browser-su",
+      "date": "2025-11-03",
+      "name": "Amazon CloudWatch Synthetics adds multi-browser support in AWS GovCloud Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon CloudWatch Synthetics multi-browser support is now available in the AWS GovCloud (US-East, US-West) Regions. This expansion enables customers in these two regions to test and monitor their web applications usin",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-synthetics-multi-browser-aws-govcloud-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-03-aws-amazon-cognito-removes-machine-to-machine-app-clie",
+      "date": "2025-11-03",
+      "name": "Amazon Cognito removes Machine-to-Machine app client price dimension",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>We're excited to announce a simplified pricing model for Amazon Cognito's machine-to-machine (M2M) authentication. Starting today we are removing the M2M app client pricing dimension, making it more cost-effective for",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cognito-removes-machine-machine-app-client-price-dimension"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-03-aws-amazon-cloudwatch-agent-adds-support-for-nvme-loca",
+      "date": "2025-11-03",
+      "name": "Amazon CloudWatch Agent adds support for NVMe Local Volume Performance Statistics",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon CloudWatch agent now supports the collection of detailed performance metrics for NVMe local volumes on Amazon EC2 instances. These metrics give you insights into behavior and performance characteristics of your",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-agent-nvme-local-volume-performance-statistics"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-03-aws-aws-config-now-supports-52-new-resource-types",
+      "date": "2025-11-03",
+      "name": "AWS Config now supports 52 new resource types",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Config now supports 52 additional AWS resource types across key services including Amazon EC2, Amazon Bedrock, and Amazon SageMaker. This expansion provides greater coverage over your AWS environment, enabling you",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-config-new-resource-types"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-03-aws-mountpoint-for-amazon-s3-and-mountpoint-for-amazon",
+      "date": "2025-11-03",
+      "name": "Mountpoint for Amazon S3 and Mountpoint for Amazon S3 CSI driver add monitoring capability",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>You can now monitor Mountpoint operations in observability tools such as Amazon CloudWatch, Prometheus, and Grafana. With this launch, Mountpoint emits near real-time metrics such as request count or request latency u",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/mountpoint-amazon-s3-csi-driver-monitoring-capability"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-03-aws-amazon-kinesis-data-streams-launches-on-demand-adv",
+      "date": "2025-11-03",
+      "name": "Amazon Kinesis Data Streams launches On-demand Advantage mode",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Kinesis Data Streams launches On-demand Advantage, so customers can warm on-demand streams to handle instant throughput increases up to 10GB or 10 million events per second, eliminating the need to over-provisi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-kinesis-data-streams-ondemand-advantage"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-11-02-openai-elevated-errors-for-moderation-api",
       "date": "2025-11-02",
       "name": "Elevated errors for Moderation API",
@@ -965,114 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-transfer-family-changing-idp-type"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-24-aws-amazon-sagemaker-unified-studio-supports-amazon-at",
-      "date": "2025-10-24",
-      "name": "Amazon SageMaker Unified Studio supports Amazon Athena workgroups",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Data engineers and data analysts using Amazon SageMaker Unified Studio can now connect to and run queries with pre-existing Amazon Athena workgroups. This feature enables data teams to run SQL queries in SageMaker Uni",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-sagemaker-unified-studio-athena-workgroups/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-24-aws-aws-lambda-increases-maximum-payload-size-from-256",
-      "date": "2025-10-24",
-      "name": "AWS Lambda increases maximum payload size from 256 KB to 1 MB for asynchronous invocations",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Lambda increases asynchronous invocations maximum payload size from 256 KB to 1 MB, allowing customers to ingest richer, complex payloads for their event-driven workloads without the need to split, compress, or ex",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-lambda-payload-size-256-kb-1-mb-invocations/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-23-openai-consensus-accelerates-research-with-gpt-5-and-resp",
-      "date": "2025-10-23",
-      "name": "Consensus accelerates research with GPT-5 and Responses API",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "Consensus uses GPT-5 and OpenAI’s Responses API to power a multi-agent research assistant that reads, analyzes, and synthesizes evidence in minutes—helping over 8 million researchers accelerate scientific discovery.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/consensus"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-23-aws-amazon-connect-outbound-campaigns-supports-preview",
-      "date": "2025-10-23",
-      "name": "Amazon Connect outbound campaigns supports preview dialing for greater agent control",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect outbound campaigns now offers a preview dialing mode that gives agents more context about a customer before placing a call. Agents can see key customer information—such as name, account balance, and pri",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-outbound-campaigns-preview-dialing/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-23-aws-amazon-quick-sight-announces-the-general-availabil",
-      "date": "2025-10-23",
-      "name": "Amazon Quick Sight announces the general availability of a new data preparation experience",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Quick Sight, a capability of Amazon Quick Suite, now offers a visual data preparation experience that helps business users perform advanced data transformations without writing complex code. Users can now clean",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-quick-sight-general-availability-data-preparation-experience"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-23-aws-amazon-dynamodb-zero-etl-integration-with-amazon-r",
-      "date": "2025-10-23",
-      "name": "Amazon DynamoDB zero-ETL integration with Amazon Redshift now available in the Asia Pacific (Taipei) region",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon DynamoDB zero-ETL integration with Amazon Redshift is now supported in the Asia Pacific (Taipei) region. This expansion enables customers to run high-performance analytics on their DynamoDB data in Amazon Redsh",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-dynamodb-zero-etl-integration-redshift-asia-pacific-taipei-region"
         }
       ],
       "impact": 5,
