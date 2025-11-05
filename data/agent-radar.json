@@ -1,6 +1,168 @@
 {
   "items": [
     {
+      "id": "2025-11-04-openai-brazil-s-ai-moment-is-here",
+      "date": "2025-11-04",
+      "name": "Brazil’s AI moment is here",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "Brazil is now one of the most engaged countries in the world when it comes to AI. From classrooms to farms and small businesses, Brazilians are using OpenAI products to learn, create, and drive innovation.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/global-affairs/brazil-ai-moment-is-here"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-04-openai-error-rates-on-the-platform-billing-page",
+      "date": "2025-11-04",
+      "name": "Error rates on the Platform Billing page",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Resolved</b><br /><br />Users encountered “Failed to load subscription or selected organization” when accessing the Platform Billing page.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Log",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01K98CEY52RHWF6S4AW82DDVBN"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-04-openai-responsesapi-is-seeing-some-errors",
+      "date": "2025-11-04",
+      "name": "ResponsesAPI is seeing some errors",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />Approximately 10% of requests to the Responses API received 500 errors for about 12 minutes. It has completely recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          ",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01K969MQYQHY6R80A8W6T3T7YZ"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-04-aws-aws-cloud-wan-is-now-available-in-three-more-aws-r",
+      "date": "2025-11-04",
+      "name": "AWS Cloud WAN is now available in three more AWS Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, <a href=\"https://aws.amazon.com/cloud-wan\">AWS Cloud WAN</a> is available in the AWS Asia Pacific (Thailand), AWS Asia Pacific (Taipei) and AWS Asia Pacific (New Zealand) Regions.<br /> <br /> With AWS",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-cloud-wan-thailand-taipei-new-zealand/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-04-aws-aws-config-launches-42-new-managed-rules",
+      "date": "2025-11-04",
+      "name": "AWS Config launches 42 new managed rules",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Config announces launch of an additional 42 managed Config rules for various use cases such as security, cost, durability, and operations. You can now search, discover, enable and manage these additional rules dir",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-config-launches-42-new-managed-rules/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-04-aws-amazon-kinesis-data-streams-launches-on-demand-adv",
+      "date": "2025-11-04",
+      "name": "Amazon Kinesis Data Streams launches On-demand Advantage mode",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Kinesis Data Streams launches On-demand Advantage, so customers can warm on-demand streams to handle instant throughput increases up to 10GB or 10 million events per second, eliminating the need to over-provisi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-kinesis-data-streams-ondemand-advantage"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-04-aws-aws-config-conformance-packs-now-available-in-addi",
+      "date": "2025-11-04",
+      "name": "AWS Config conformance packs now available in additional AWS Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Config conformance packs and organization-level management capabilities for conformance packs are now available in additional AWS Regions. Conformance packs allow you to bundle AWS Config rules into a single packa",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-config-conformance-packs-additional-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-04-aws-amazon-bedrock-agentcore-runtime-now-supports-dire",
+      "date": "2025-11-04",
+      "name": "Amazon Bedrock AgentCore Runtime now supports direct code deployment",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Bedrock AgentCore Runtime now supports two deployment methods for AI agents: container-based deployment and direct code upload. Developers can now choose between direct code-zip file upload for rapid prototypin",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-bedrock-agentcore-runtime-code-deployment/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-04-aws-amazon-rds-for-oracle-is-now-available-with-r7i-me",
+      "date": "2025-11-04",
+      "name": "Amazon RDS for Oracle is now available with R7i memory-optimized instances offering up to 64:1 memory-to-vCPU ratio",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a contenteditable=\"false\" href=\"https://aws.amazon.com/rds/oracle/\" style=\"cursor: pointer;\" target=\"_blank\">Amazon Relational Database Service (RDS) for Oracle</a> is now available with R7i memory-optimized preconfi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-rds-oracle-r7i-memory-optimized-instances/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-11-03-aws-amazon-cloudwatch-synthetics-adds-multi-browser-su",
       "date": "2025-11-03",
       "name": "Amazon CloudWatch Synthetics adds multi-browser support in AWS GovCloud Regions",
@@ -911,168 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cognito-resource-indicators-protection-oauth-2-0-resources"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-27-aws-amazon-location-service-introduces-new-api-key-res",
-      "date": "2025-10-27",
-      "name": "Amazon Location Service introduces new API key restrictions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announced enhanced API key restrictions for Amazon Location Service, enabling developers to secure their location-based applications more effectively. This new capability helps organizations that need to re",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-location-service-new-api-key-security-restrictions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-27-aws-amazon-ecs-managed-instances-now-available-in-all-",
-      "date": "2025-10-27",
-      "name": "Amazon ECS Managed Instances now available in all  commercial AWS Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Elastic Container Service (Amazon ECS) Managed Instances is now available in all commercial <a href=\"https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/\">AWS Regions</a>. ECS Manag",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ecs-managed-instances-commercial-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-27-crewai-1-2-1",
-      "date": "2025-10-27",
-      "name": "1.2.1",
-      "vendor": "CrewAI",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add support for Datadog integration.</li>\n<li>Support apps and mcps in liteagent.</li>\n</ul>\n<h3>Documentation</h3>\n<ul>\n<li>Describe mandatory environment variable for ",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.2.1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2025-10-25-langchain-langgraph-agent-frameworks-runtimes-and-harnesses-oh-my",
-      "date": "2025-10-25",
-      "name": "Agent Frameworks, Runtimes, and Harnesses- oh my!",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "<p>There are few different open source packages we maintain: <a href=\"https://docs.langchain.com/oss/python/langchain/quickstart?ref=blog.langchain.com\">LangChain</a> and <a href=\"https://docs.langchain.com/oss/python/la",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/agent-frameworks-runtimes-and-harnesses-oh-my/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2025-10-24-openai-elevated-error-rates-for-web-search",
-      "date": "2025-10-24",
-      "name": "Elevated error rates for web search",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Search (Operational)</li>\n<li>Deep Research (Operational)</li>\n<li>Cha",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01K8BZX6RTS058MTVX5EQ5H19Y"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-24-aws-amazon-ec2-auto-scaling-now-supports-predictive-sc",
-      "date": "2025-10-24",
-      "name": "Amazon EC2 Auto Scaling now supports predictive scaling in six more regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Customers can now enable predictive scaling for their Auto Scaling groups (ASGs) in six more regions: Asia Pacific (Hyderabad), Asia Pacific (Melbourne), Israel (Tel Aviv), Canada West (Calgary), Europe (Spain), and E",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-auto-scaling-predictive-scaling-in-six/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-24-aws-amazon-vpc-reachability-analyzer-and-amazon-vpc-ne",
-      "date": "2025-10-24",
-      "name": "Amazon VPC Reachability Analyzer and Amazon VPC Network Access Analyzer are now available in AWS GovCloud (US) Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>With this launch, Amazon <a href=\"https://docs.aws.amazon.com/vpc/latest/reachability/getting-started.html\">VPC Reachability Analyzer</a> and Amazon VPC <a href=\"https://docs.aws.amazon.com/vpc/latest/network-access-a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.comabout-aws/whats-new/2025/10/amazon-vpc-reachability-network-access-analyzer-govcloud"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-24-aws-aurora-dsql-now-supports-resource-based-policies",
-      "date": "2025-10-24",
-      "name": "Aurora DSQL now supports resource-based policies",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Aurora DSQL now supports resource-based policies, enabling you to simplify access control for your Aurora DSQL resources. With resource-based policies, you can specify Identity and Access Management (IAM) princ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aurora-dsql-resource-based-policies"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-24-aws-aws-transfer-family-now-supports-changing-identity",
-      "date": "2025-10-24",
-      "name": "AWS Transfer Family now supports changing identity provider type on a server",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Transfer Family now enables you to change your server's identity provider (IdP) type without service interruption. This enhancement gives you more control and flexibility over authentication management in your fil",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-transfer-family-changing-idp-type"
         }
       ],
       "impact": 5,
