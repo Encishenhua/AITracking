@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "2025-11-08-openai-elevated-error-rates-on-codex",
+      "date": "2025-11-08",
+      "name": "Elevated error rates on Codex",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Codex (Operational)</li>\n          </ul>",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01K9G5H5NM4Y19XW4JJM3SK323"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-11-07-openai-issues-with-chatgpt-memory",
       "date": "2025-11-07",
       "name": "Issues with ChatGPT Memory",
@@ -16,6 +34,96 @@
       "impact": 5,
       "risk": 3,
       "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-07-openai-notion-s-rebuild-for-agentic-ai-how-gpt-5-helped-u",
+      "date": "2025-11-07",
+      "name": "Notion’s rebuild for agentic AI: How GPT‑5 helped unlock autonomous workflows",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "Discover how Notion rebuilt its AI architecture with GPT-5 to create autonomous agents that reason, act, and adapt across workflows. Learn how this shift unlocked smarter, faster, and more flexible productivity in Notion",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/notion"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-07-aws-aws-advanced-net-data-provider-driver-is-generally",
+      "date": "2025-11-07",
+      "name": "AWS Advanced .NET Data Provider Driver is Generally Available",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>The Amazon Web Services (AWS) Advanced .NET Data Provider Driver is now generally available for <a href=\"https://aws.amazon.com/rds/\" target=\"_blank\">Amazon RDS</a> and <a href=\"https://aws.amazon.com/rds/aurora/\" tar",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-net-data-provider-driver/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-07-aws-amazon-cognito-user-pools-now-supports-private-con",
+      "date": "2025-11-07",
+      "name": "Amazon Cognito user pools now supports private connectivity with AWS PrivateLink",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Cognito user pools now supports AWS PrivateLink for secure and private connectivity. With AWS PrivateLink, you can establish a private connection between your virtual private cloud (VPC) and Amazon Cognito user",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cognito-user-pools-private-connectivity-aws-privatelink"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-07-crewai-1-4-1",
+      "date": "2025-11-07",
+      "name": "1.4.1",
+      "vendor": "CrewAI",
+      "type": "upgrade",
+      "summary": "<h2>What's Changed</h2>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Fix handling of agent max iterations</li>\n<li>Resolve routing issues for LLM model syntax to respected providers</li>\n</ul>\n<p><a class=\"user-mention notranslate\" href=",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.4.1"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2025-11-07-crewai-1-4-0",
+      "date": "2025-11-07",
+      "name": "1.4.0",
+      "vendor": "CrewAI",
+      "type": "upgrade",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add support for non-AST plot routes</li>\n<li>Implement first-class support for MCP</li>\n<li>Add Pydantic validation dunder to BaseInterceptor</li>\n<li>Add support for LL",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.4.0"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
       "tags": []
     },
     {
@@ -965,114 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/twelvelabs-pegasus-model-in-additional-aws-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-30-aws-amazon-s3-access-grants-are-now-available-in-addit",
-      "date": "2025-10-30",
-      "name": "Amazon S3 Access Grants are now available in additional AWS Regions",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>You can now create Amazon S3 Access Grants in the AWS Asia Pacific (Thailand) and AWS Mexico (Central) Regions.<br /> <br /> Amazon S3 Access Grants map identities in directories such as Microsoft Entra ID, or AWS Ide",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-s3-access-grants-additional-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-30-aws-split-cost-allocation-data-for-amazon-eks-supports",
-      "date": "2025-10-30",
-      "name": "Split Cost Allocation Data for Amazon EKS supports Kubernetes labels",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, Split Cost Allocation Data for Amazon EKS now allows you to import up to 50 Kubernetes custom labels per pod as cost allocation tags. You can attribute costs of your Amazon EKS cluster at the pod level",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/split-cost-allocation-data-amazon-eks-kubernetes-labels/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-30-aws-introducing-the-capacity-reservation-topology-api-",
-      "date": "2025-10-30",
-      "name": "Introducing the Capacity Reservation Topology API for AI, ML, and HPC instance types",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS announces the general availability of the Amazon Elastic Compute Cloud (EC2) Capacity Reservation Topology API. It joins the Instance&nbsp;Topology&nbsp;API in enabling customers to efficiently manage capacity, sc",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/capacity-reservation-topology-api-ai-ml-hpc-instance-type"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-30-aws-aws-step-functions-announces-a-new-metrics-dashboa",
-      "date": "2025-10-30",
-      "name": "AWS Step Functions announces a new metrics dashboard",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Step Functions announces improved observability with a new metrics dashboard, giving you visibility into your workflow operations at both the account and state machine levels. <a href=\"https://aws.amazon.com/step-",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-step-functions-metrics-dashboard"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-30-aws-amazon-gamelift-servers-adds-telemetry-metrics-to-",
-      "date": "2025-10-30",
-      "name": "Amazon GameLift Servers adds telemetry metrics to all server SDKs and game engine plugins",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, Amazon GameLift Servers launched the addition of built-in telemetry metrics across all server SDKs and game engine plugins. Built on OpenTelemetry, an open source framework, Amazon GameLift Servers telemetry me",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-gamelift-servers-telemetry-metrics"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-30-aws-aws-serverless-mcp-server-now-supports-tools-for-a",
-      "date": "2025-10-30",
-      "name": "AWS Serverless MCP Server now supports tools for AWS Lambda event source mappings (ESM)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>The AWS Serverless Model Context Protocol (MCP) Server now supports specialized tools for <a href=\"https://aws.amazon.com/lambda/\">AWS Lambda</a> event source mappings (ESM), helping developers configure and manage ES",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-serverless-mcp-server-tools-lambda-esm"
         }
       ],
       "impact": 5,
