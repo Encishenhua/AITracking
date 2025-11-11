@@ -1,6 +1,186 @@
 {
   "items": [
     {
+      "id": "2025-11-11-langchain-langgraph-join-langchain-at-aws-re-invent-2025",
+      "date": "2025-11-11",
+      "name": "Join LangChain at AWS re:Invent 2025",
+      "vendor": "LangChain/LangGraph",
+      "type": "launch",
+      "summary": "<p>If you&apos;re attending AWS re:Invent in Las Vegas this year and working on agent development, here&apos;s what we have planned that might be useful.</p><h2 id=\"visit-us-at-booth-524\">Visit Us at Booth #524</h2><p>We",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/join-langchain-at-aws-re-invent-2025/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2025-11-10-aws-aws-backup-now-supports-amazon-eks",
+      "date": "2025-11-10",
+      "name": "AWS Backup now supports Amazon EKS",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS Backup now supports Amazon Elastic Kubernetes Service (EKS), providing a fully-managed, centralized solution for backing up EKS cluster state and persistent application data. You can now use AWS Backup to help pro",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-backup-supports-amazon-eks"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-10-aws-aws-control-tower-supports-automatic-enrollment-of",
+      "date": "2025-11-10",
+      "name": "AWS Control Tower supports automatic enrollment of accounts",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Control Tower customers can now simply move their accounts to an Organizational Unit (OU) to enroll them under AWS Control Tower governance. This feature helps customers maintain consistency across their AWS envir",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-control-tower-automatic-enrollment"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-10-aws-amazon-s3-express-one-zone-now-supports-internet-p",
+      "date": "2025-11-10",
+      "name": "Amazon S3 Express One Zone now supports Internet Protocol version 6 (IPv6)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon S3 Express One Zone now supports Internet Protocol version 6 (IPv6) addresses for gateway Virtual Private Cloud (VPC) endpoints. S3 Express One Zone is a high-performance storage class designed for latency-sens",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-s3-express-one-zone-ipv6"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-10-aws-anthropic-s-claude-sonnet-4-5-is-now-in-amazon-bed",
+      "date": "2025-11-10",
+      "name": "Anthropic’s Claude Sonnet 4.5 is now in Amazon Bedrock in AWS GovCloud (US)",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Customers can now use Claude Sonnet 4.5 in <a href=\"https://aws.amazon.com/bedrock/\" target=\"_blank\">Amazon Bedrock</a> in <a href=\"https://aws.amazon.com/govcloud-us/\" target=\"_blank\">AWS GovCloud (US-West) and AWS G",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/anthropics-claude-sonnet-4-5-amazon-bedrock-aws-govcloud-us"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-10-aws-aws-adds-ipv6-support-for-amazon-s3-gateway-and-in",
+      "date": "2025-11-10",
+      "name": "AWS adds IPv6 support for Amazon S3 Gateway and Interface VPC endpoints",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Web Services (AWS) now supports Internet Protocol version 6 (IPv6) addresses for AWS PrivateLink Gateway and Interface Virtual Private Cloud (VPC) endpoints for Amazon S3.<br /> <br /> The continued growth of t",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/ipv6-amazon-s3-gateway-interface-vpc-endpoints/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-10-aws-amazon-ec2-c7i-flex-instances-are-now-available-in",
+      "date": "2025-11-10",
+      "name": "Amazon EC2 C7i-flex instances are now available in the Middle East (UAE) Region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C7i-flex instances that deliver up to 19% better price performance compared to C6i instances, are available in the Middle East (UAE) Region. C7i-flex instances",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-c7i-flex-instances-middle-east-uae/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-10-aws-amazon-cloudwatch-agent-adds-shared-memory-metrics",
+      "date": "2025-11-10",
+      "name": "Amazon CloudWatch agent adds Shared Memory Metrics",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon CloudWatch agent now supports collection of shared memory utilization metrics from Linux hosts running on Amazon EC2 or on-premises environments. This new capability enables you to monitor total shared memory u",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-agent-shared-memory-metrics/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-10-aws-aws-private-ca-now-supports-post-quantum-digital-c",
+      "date": "2025-11-10",
+      "name": "AWS Private CA now supports post-quantum digital certificates",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Private Certificate Authority (AWS Private CA) now enables you to create certificate authorities (CAs) and issue certificates that use Module Lattice-based Digital Signature Algorithm (ML-DSA). This feature enable",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-private-ca-post-quantum-digital-certificates/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-10-aws-amazon-ec2-high-memory-u7i-instances-now-available",
+      "date": "2025-11-10",
+      "name": "Amazon EC2 High Memory U7i instances now available in AWS GovCloud (US) Regions",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon EC2 High Memory U7i instances with 12TB and 16TB of memory (u7i-12tb.224xlarge and u7in-16tb.224xlarge) are now available in the AWS GovCloud (US-West) region and 24TB of memory (u7in-24tb.224xlarge) are now av",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-high-memory-u7i-instances-govcloud/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-11-08-openai-elevated-error-rates-on-codex",
       "date": "2025-11-08",
       "name": "Elevated error rates on Codex",
@@ -893,186 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-dynamodb-accelerator-privatelink/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-31-aws-new-sap-on-aws-grow-region-availability-for-sap-cl",
-      "date": "2025-10-31",
-      "name": "New SAP on AWS GROW Region Availability for SAP Cloud ERP",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>SAP Cloud ERP on AWS (GROW) is now available in the Europe (Frankfurt) region. As a complete offering of solutions, best practices, adoption acceleration services, community and learning, SAP Cloud ERP on AWS helps an",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/sap-aws-grow-region-availability-sap-cloud-erp"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-31-aws-amazon-connect-now-supports-scheduling-of-individu",
-      "date": "2025-10-31",
-      "name": "Amazon Connect now supports scheduling of individual agents",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Connect now supports scheduling of individual agents, giving you more flexibility in scheduling your workforce. For example, when onboarding 100 new agents to a business unit with schedules already published fo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-scheduling-individual-agents/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-31-aws-aws-marketplace-now-offers-pricing-model-flexibili",
-      "date": "2025-10-31",
-      "name": "AWS Marketplace now offers pricing model flexibility and simplified deployment for AI agents and tools",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Marketplace now offers flexible pricing models, simplified authentication, and streamlined deployment for AI agents and tools. The new capabilities include contract-based and usage-based pricing for <a contentedit",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-marketplace-pricing-ai-agents-tools/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-31-aws-amazon-vpc-ipam-automates-prefix-list-updates",
-      "date": "2025-10-31",
-      "name": "Amazon VPC IPAM automates prefix list updates",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS announced the ability for Amazon VPC IP Address Manager (IPAM) to automate prefix lists updates with prefix list resolver (PLR). This feature allows network administrators to automatically update prefix lis",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-vpc-ipam-prefix-list-automation/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-31-aws-the-model-context-protocol-mcp-proxy-for-aws-is-no",
-      "date": "2025-10-31",
-      "name": "The Model Context Protocol (MCP) Proxy for AWS is now generally available",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the general availability of the Model Context Protocol (MCP) Proxy for AWS, a client-side proxy that enables MCP clients to connect to remote, AWS-hosted MCP servers using AWS SigV4 authentication",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/model-context-protocol-proxy-available/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-31-aws-announcing-larger-instances-for-amazon-lightsail",
-      "date": "2025-10-31",
-      "name": "Announcing larger instances for Amazon Lightsail",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Lightsail now offers three larger instance bundles with up to 64 vCPUs and 256 GB memory. The new instance bundles are available with Linux operating system (OS) and application blueprints, for both IPv6-only a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/larger-instances-amazon-lightsail"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-30-openai-expanding-stargate-to-michigan",
-      "date": "2025-10-30",
-      "name": "Expanding Stargate to Michigan",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "OpenAI is expanding Stargate to Michigan with a new one-gigawatt campus that strengthens America’s AI infrastructure. The project will create jobs, drive investment, and support economic growth across the Midwest.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/expanding-stargate-to-michigan"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-30-openai-introducing-aardvark-openai-s-agentic-security-res",
-      "date": "2025-10-30",
-      "name": "Introducing Aardvark: OpenAI’s agentic security researcher",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "OpenAI introduces Aardvark, an AI-powered security researcher that autonomously finds, validates, and helps fix software vulnerabilities at scale. The system is in private beta—sign up to join early testing.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/introducing-aardvark"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-30-openai-how-we-built-owl-the-new-architecture-behind-our-c",
-      "date": "2025-10-30",
-      "name": "How we built OWL, the new architecture behind our ChatGPT-based browser, Atlas",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "A deep dive into OWL, the new architecture powering ChatGPT Atlas—decoupling Chromium, enabling fast startup, rich UI, and agentic browsing with ChatGPT.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/building-chatgpt-atlas"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-30-aws-twelvelabs-pegasus-1-2-model-now-available-in-thre",
-      "date": "2025-10-30",
-      "name": "TwelveLabs’ Pegasus 1.2 model now available in three additional AWS regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon announces the expansion of the TwelveLabs’ Pegasus 1.2 video understanding model to the US East (Ohio), US West (N. California), and Europe (Frankfurt) AWS Regions. This expansion makes it easier for customers ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/twelvelabs-pegasus-model-in-additional-aws-regions/"
         }
       ],
       "impact": 5,
