@@ -19,6 +19,114 @@
       "tags": []
     },
     {
+      "id": "2025-11-11-aws-aws-parallel-computing-service-pcs-now-supports-sl",
+      "date": "2025-11-11",
+      "name": "AWS Parallel Computing Service (PCS) now supports Slurm CLI Filter plugins",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS Parallel Computing Service (PCS) now supports Slurm CLI Filter plugins, enabling you to extend and modify how Slurm schedules and processes your high performance computing (HPC) workloads without modifying Slurm d",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-pcs-slurm-cli-filter-plugins"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-11-aws-amazon-cloudwatch-composite-alarms-adds-threshold-",
+      "date": "2025-11-11",
+      "name": "Amazon CloudWatch Composite Alarms adds threshold-based alerting",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon CloudWatch now enables you to create more flexible alerting policies by triggering notifications when a specific subset of your monitored resources need attention. Using CloudWatch composite alarms, you can cre",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-composite-alarms-threshold-based/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-11-aws-amazon-u7i-instances-now-available-in-europe-stock",
+      "date": "2025-11-11",
+      "name": "Amazon U7i instances now available in Europe (Stockholm and Ireland) Regions",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Starting today, Amazon EC2 High Memory U7i instances with 6TB of memory (u7i-6tb.112xlarge) are now available in the Europe (Stockholm and Ireland) region. U7i-6tb instances are part of AWS 7th generation and are powe",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-u7i-instances-additional-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-11-aws-amazon-ec2-c6id-and-r6id-instances-are-now-availab",
+      "date": "2025-11-11",
+      "name": "Amazon EC2 C6id and R6id instances are now available in additional regions",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon EC2 C6id instances are available in AWS Region Europe (Milan) and R6id instances are available in AWS Region Africa (Cape Town). These instances are powered by 3rd generation Intel Xeon Scalable Ice Lake proces",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-c6id-r6id-instances-additional-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-11-aws-amazon-keyspaces-for-apache-cassandra-now-supports",
+      "date": "2025-11-11",
+      "name": "Amazon Keyspaces (for Apache Cassandra) now supports Logged Batches",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a contenteditable=\"false\" href=\"https://aws.amazon.com/keyspaces/\" style=\"cursor: pointer;\">Amazon Keyspaces (for Apache Cassandra)</a> now supports Logged Batches, enabling you to perform multiple write operations a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-keyspaces-apache-cassandra-logged-batches/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-11-aws-amazon-ec2-m8a-instances-now-available-in-addition",
+      "date": "2025-11-11",
+      "name": "Amazon EC2 M8a Instances now available in additional regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, the general-purpose Amazon EC2 M8a instances are available in US East (N. Virginia) and Asia Pacific (Tokyo) regions. M8a instances are powered by 5th Gen AMD EPYC processors (formerly code named Turin",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-m8a-instances-additional-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-11-10-aws-aws-backup-now-supports-amazon-eks",
       "date": "2025-11-10",
       "name": "AWS Backup now supports Amazon EKS",
@@ -173,6 +281,24 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-high-memory-u7i-instances-govcloud/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-10-aws-amazon-s3-now-supports-ipv6-for-gateway-and-interf",
+      "date": "2025-11-10",
+      "name": "Amazon S3 now supports IPv6 for gateway and interface VPC endpoints",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon S3 now supports Internet Protocol version 6 (IPv6) addresses for AWS PrivateLink gateway and interface Virtual Private Cloud (VPC) endpoints.&nbsp;</p> \n<p>The continued growth of the internet is exhausting ava",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/ipv6-amazon-s3-gateway-interface-vpc-endpoints/"
         }
       ],
       "impact": 5,
@@ -947,132 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-config-new-resource-types"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-03-aws-mountpoint-for-amazon-s3-and-mountpoint-for-amazon",
-      "date": "2025-11-03",
-      "name": "Mountpoint for Amazon S3 and Mountpoint for Amazon S3 CSI driver add monitoring capability",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>You can now monitor Mountpoint operations in observability tools such as Amazon CloudWatch, Prometheus, and Grafana. With this launch, Mountpoint emits near real-time metrics such as request count or request latency u",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/mountpoint-amazon-s3-csi-driver-monitoring-capability"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-03-aws-amazon-kinesis-data-streams-launches-on-demand-adv",
-      "date": "2025-11-03",
-      "name": "Amazon Kinesis Data Streams launches On-demand Advantage mode",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Kinesis Data Streams launches On-demand Advantage, so customers can warm on-demand streams to handle instant throughput increases up to 10GB or 10 million events per second, eliminating the need to over-provisi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-kinesis-data-streams-ondemand-advantage"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-03-aws-aws-config-now-supports-49-new-resource-types",
-      "date": "2025-11-03",
-      "name": "AWS Config now supports 49 new resource types",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Config now supports 49 additional AWS resource types across key services including Amazon EC2, Amazon Bedrock, and Amazon SageMaker. This expansion provides greater coverage over your AWS environment, enabling you",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-config-new-resource-types"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-02-openai-elevated-errors-for-moderation-api",
-      "date": "2025-11-02",
-      "name": "Elevated errors for Moderation API",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />From Nov 1, 2am PT to Nov 2 1:20pm PT, customers may have experienced elevated error rate from Moderation API. All impacted services have now fully recovered.<br /><br /><b>Affected com",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01K93DB34WDVV030H473HQN2N1"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-31-openai-responses-api-background-mode-failures",
-      "date": "2025-10-31",
-      "name": "Responses API Background Mode Failures",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Responses (Operational)</li>\n          </ul>",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01K8X5YXEEDF2TC4JSGXK2RVTR"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-31-aws-amazon-gamelift-streams-adds-aws-health-notificati",
-      "date": "2025-10-31",
-      "name": "Amazon GameLift Streams adds AWS Health notifications for aging resources",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/gamelift/streams/\">Amazon GameLift Streams</a> is now integrated with AWS Health and will provide automated notifications about aging stream groups. Customers are sent regular reminders",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-gamelift-streams-health-notifications"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-10-31-aws-amazon-dynamodb-accelerator-now-supports-aws-priva",
-      "date": "2025-10-31",
-      "name": "Amazon DynamoDB Accelerator now supports AWS PrivateLink",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon DynamoDB Accelerator (DAX) now supports AWS PrivateLink, enabling you to securely access DAX management APIs such as CreateCluster, DescribeClusters, and DeleteCluster over private IP addresses within your virt",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-dynamodb-accelerator-privatelink/"
         }
       ],
       "impact": 5,
