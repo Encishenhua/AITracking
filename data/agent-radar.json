@@ -1,6 +1,186 @@
 {
   "items": [
     {
+      "id": "2025-11-13-openai-image-generation-failing-for-android-users",
+      "date": "2025-11-13",
+      "name": "Image generation failing for Android users",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Image Generation (Degraded performance)</li>\n       ",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01K9X7DTG5YTW15NKZD367AGAS"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-12-aws-amazon-elasticache-supports-m7g-and-r7g-graviton3-",
+      "date": "2025-11-12",
+      "name": "Amazon ElastiCache supports M7g and R7g Graviton3-based nodes in AWS GovCloud (US) Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon ElastiCache now supports Graviton3-based M7g and R7g node families in the AWS GovCloud (US) Regions (US-East, US-West). ElastiCache Graviton3 nodes deliver improved price-performance compared to Graviton2. As a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-elasticache-m7g-r7g-graviton3-govcloud-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-12-aws-aws-fault-injection-service-fis-launches-new-test-",
+      "date": "2025-11-12",
+      "name": "AWS Fault Injection Service (FIS) launches new test scenarios for partial failures",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Fault Injection Service (FIS) now offers two new scenarios that help you proactively test how your applications handle partial disruptions within and across Availability Zones (AZs). These disruptions, often calle",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-fis-test-scenarios-partial-failures"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-12-aws-amazon-connect-cases-adds-conditional-field-visibi",
+      "date": "2025-11-12",
+      "name": "Amazon Connect Cases adds conditional field visibility and dependent options",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect Cases now supports conditional field visibility and dependent field options, so you can simplify case layouts and ensure agents capture the right information faster. For example, you can show a Return R",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-cases-conditional-field-visibility-dependent-options"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-12-aws-amazon-cloudwatch-logs-now-supports-network-load-b",
+      "date": "2025-11-12",
+      "name": "Amazon CloudWatch Logs now supports Network Load Balancer access logs",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon CloudWatch Logs now supports Network Load Balancer (NLB) access logs as vended logs, improving observability and simplifying debugging for network traffic patterns. You can now analyze NLB access logs directly ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-supports-logs-network-load-balancer-access-logs/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-12-aws-announcing-communication-preferences-for-security-",
+      "date": "2025-11-12",
+      "name": "Announcing communication preferences for Security Incident Response",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/security-incident-response/\" target=\"_blank\">AWS Security Incident Response</a> now provides customizable communication preferences so you can focus on the updates that matter most to y",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/communication-preferences-aws-security-incident-response"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-12-aws-aws-site-to-site-vpn-announces-5-gbps-bandwidth-tu",
+      "date": "2025-11-12",
+      "name": "AWS Site-to-Site VPN announces 5 Gbps bandwidth tunnels",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Site-to-Site VPN now supports VPN connections with up to 5 Gbps bandwidth per tunnel, a 4x improvement from existing limit of 1.25 Gbps. This increased bandwidth benefits customers who require high-capacity connec",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-site-to-site-vpn-5-gbps-bandwidth-tunnels"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-12-aws-spaces-now-available-in-aws-builder-center",
+      "date": "2025-11-12",
+      "name": "Spaces now available in AWS Builder Center",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Builder Center now offers Spaces, a community collaboration tool that enables builders to create and join groups around specific AWS topics, use cases, and interests. With Spaces, you can connect with peers, share",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-builder-spaces-builder-center/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-12-aws-amazon-managed-service-for-prometheus-collector-in",
+      "date": "2025-11-12",
+      "name": "Amazon Managed Service for Prometheus collector integrates with Amazon Managed Streaming for Apache Kafka",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Managed Service for Prometheus collector, a fully-managed agentless collector for Prometheus metrics, now enables you to discover and collect Prometheus metrics from your Amazon Managed Streaming for Apache Kaf",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-managed-prometheus-kafka/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-12-aws-amazon-ec2-f2-instances-are-now-generally-availabl",
+      "date": "2025-11-12",
+      "name": "Amazon EC2 F2 instances are now generally available in four additional AWS regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, the FPGA-powered Amazon EC2 F2 instances are now available in the Europe (Frankfurt), Asia Pacific (Tokyo), Asia Pacific (Seoul), and Canada (Central) regions. F2 instances are the second generation of",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-f2-instances-four-additional-aws-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-11-11-langchain-langgraph-join-langchain-at-aws-re-invent-2025",
       "date": "2025-11-11",
       "name": "Join LangChain at AWS re:Invent 2025",
@@ -893,186 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-cloud-wan-thailand-taipei-new-zealand/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-04-aws-aws-config-launches-42-new-managed-rules",
-      "date": "2025-11-04",
-      "name": "AWS Config launches 42 new managed rules",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Config announces launch of an additional 42 managed Config rules for various use cases such as security, cost, durability, and operations. You can now search, discover, enable and manage these additional rules dir",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-config-launches-42-new-managed-rules/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-04-aws-amazon-kinesis-data-streams-launches-on-demand-adv",
-      "date": "2025-11-04",
-      "name": "Amazon Kinesis Data Streams launches On-demand Advantage mode",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Kinesis Data Streams launches On-demand Advantage, so customers can warm on-demand streams to handle instant throughput increases up to 10GB or 10 million events per second, eliminating the need to over-provisi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-kinesis-data-streams-ondemand-advantage"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-04-aws-aws-config-conformance-packs-now-available-in-addi",
-      "date": "2025-11-04",
-      "name": "AWS Config conformance packs now available in additional AWS Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Config conformance packs and organization-level management capabilities for conformance packs are now available in additional AWS Regions. Conformance packs allow you to bundle AWS Config rules into a single packa",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-config-conformance-packs-additional-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-04-aws-amazon-bedrock-agentcore-runtime-now-supports-dire",
-      "date": "2025-11-04",
-      "name": "Amazon Bedrock AgentCore Runtime now supports direct code deployment",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Bedrock AgentCore Runtime now supports two deployment methods for AI agents: container-based deployment and direct code upload. Developers can now choose between direct code-zip file upload for rapid prototypin",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-bedrock-agentcore-runtime-code-deployment/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-04-aws-amazon-rds-for-oracle-is-now-available-with-r7i-me",
-      "date": "2025-11-04",
-      "name": "Amazon RDS for Oracle is now available with R7i memory-optimized instances offering up to 64:1 memory-to-vCPU ratio",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a contenteditable=\"false\" href=\"https://aws.amazon.com/rds/oracle/\" style=\"cursor: pointer;\" target=\"_blank\">Amazon Relational Database Service (RDS) for Oracle</a> is now available with R7i memory-optimized preconfi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-rds-oracle-r7i-memory-optimized-instances/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-04-aws-amazon-connect-now-supports-configuration-of-email",
-      "date": "2025-11-04",
-      "name": "Amazon Connect now supports configuration of email address aliases",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Connect now lets you configure aliases for email addresses, so customers see trusted identities when sending or receiving messages, helping maintain a consistent brand experience and simplify email management. ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-email-address-aliases"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-03-aws-amazon-cloudwatch-synthetics-adds-multi-browser-su",
-      "date": "2025-11-03",
-      "name": "Amazon CloudWatch Synthetics adds multi-browser support in AWS GovCloud Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon CloudWatch Synthetics multi-browser support is now available in the AWS GovCloud (US-East, US-West) Regions. This expansion enables customers in these two regions to test and monitor their web applications usin",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-synthetics-multi-browser-aws-govcloud-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-03-aws-amazon-cognito-removes-machine-to-machine-app-clie",
-      "date": "2025-11-03",
-      "name": "Amazon Cognito removes Machine-to-Machine app client price dimension",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>We're excited to announce a simplified pricing model for Amazon Cognito's machine-to-machine (M2M) authentication. Starting today we are removing the M2M app client pricing dimension, making it more cost-effective for",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cognito-removes-machine-machine-app-client-price-dimension"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-03-aws-amazon-cloudwatch-agent-adds-support-for-nvme-loca",
-      "date": "2025-11-03",
-      "name": "Amazon CloudWatch Agent adds support for NVMe Local Volume Performance Statistics",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon CloudWatch agent now supports the collection of detailed performance metrics for NVMe local volumes on Amazon EC2 instances. These metrics give you insights into behavior and performance characteristics of your",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-agent-nvme-local-volume-performance-statistics"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-03-aws-aws-config-now-supports-52-new-resource-types",
-      "date": "2025-11-03",
-      "name": "AWS Config now supports 52 new resource types",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Config now supports 52 additional AWS resource types across key services including Amazon EC2, Amazon Bedrock, and Amazon SageMaker. This expansion provides greater coverage over your AWS environment, enabling you",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-config-new-resource-types"
         }
       ],
       "impact": 5,
