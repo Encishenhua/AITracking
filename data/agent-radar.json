@@ -19,6 +19,204 @@
       "tags": []
     },
     {
+      "id": "2025-11-13-aws-amazon-ec2-i8g-instances-now-available-in-addition",
+      "date": "2025-11-13",
+      "name": "Amazon EC2 I8g instances now available in additional AWS regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS is announcing the general availability of Amazon EC2 Storage Optimized I8g instances in Europe (Stockholm) and Asia Pacific (Osaka) regions. I8g instances offer the best compute performance in Amazon EC2 for stora",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-i8g-instances-additional-aws-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-13-aws-aws-iot-core-adds-location-resolution-capabilities",
+      "date": "2025-11-13",
+      "name": "AWS IoT Core adds location resolution capabilities for Amazon Sidewalk enabled devices",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://docs.aws.amazon.com/iot/latest/developerguide/device-location.html\" target=\"_blank\">AWS IoT Core Device Location</a> announces location resolution capabilities for Internet of Things (IoT) devices con",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-iot-core-location-resolution-capabilities-amazon-sidewalk-enabled-devices"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-13-aws-amazon-connect-now-provides-metrics-on-completion-",
+      "date": "2025-11-13",
+      "name": "Amazon Connect now provides metrics on completion of agent performance evaluations by managers",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Connect now provides metrics that measure completion of agent performance evaluations, improving manager productivity and evaluation consistency. Businesses can monitor if the required number of evaluations for",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-metrics-completion-agent-performance-evaluations"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-13-aws-aws-transform-automates-landing-zone-accelerator-n",
+      "date": "2025-11-13",
+      "name": "AWS Transform automates Landing Zone Accelerator network configuration",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS Transform for VMware now allows customers to automatically generate network configurations that can be directly imported into the <a href=\"https://aws.amazon.com/solutions/implementations/landing-zone-accelerator-",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-transform-landing-zone-accelerator-network-configuration"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-13-aws-amazon-rds-for-postgresql-supports-minor-versions-",
+      "date": "2025-11-13",
+      "name": "Amazon RDS for PostgreSQL supports minor versions 17.7, 16.11, 15.15, 14.20, and 13.23",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/postgresql/\" target=\"_blank\">Amazon Relational Database Service (RDS)</a> for PostgreSQL now supports the latest minor versions 17.7, 16.11, 15.15, 14.20, and 13.23. We recommend th",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-rds-postgres-sql-minor-versions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-13-aws-amazon-eventbridge-now-supports-targeting-sqs-fair",
+      "date": "2025-11-13",
+      "name": "Amazon EventBridge now supports targeting SQS fair queues",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon EventBridge now supports Amazon SQS fair queues as targets, enabling you to build more responsive event-driven applications. You can now leverage SQSs improved message distribution across consumer groups and mi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-eventbridge-sqs-fair-queue-targets/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-13-aws-amazon-u7i-instances-now-available-in-europe-stock",
+      "date": "2025-11-13",
+      "name": "Amazon U7i instances now available in Europe (Stockholm) Region",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Starting today, Amazon EC2 High Memory U7i instances with 12TB of memory (u7i-12tb.224xlarge) are now available in the Europe (Stockholm) region. U7i-12tb instances are part of AWS 7th generation and are powered by cu",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-u7i-instances-europe-stockholm-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-13-aws-service-connect-cross-account-support-available-in",
+      "date": "2025-11-13",
+      "name": "Service Connect cross-account support available in AWS GovCloud (US) Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://docs.aws.amazon.com/AmazonECS/latest/developerguide/service-connect.html\">Amazon ECS Service Connect</a> now supports seamless communication between services residing in different AWS accounts through",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/service-connect-cross-account-govcloud-us-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-13-aws-amazon-ec2-g6f-instances-are-now-available-in-addi",
+      "date": "2025-11-13",
+      "name": "Amazon EC2 G6f instances are now available in additional regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, the Amazon Elastic Compute Cloud (Amazon EC2) G6f instances powered by NVIDIA L4 GPUs are now available in Europe (Spain) and Asia Pacific (Seoul) regions. G6f instances can be used for a wide range of",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-g6f-instances-additional-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-13-aws-amazon-kinesis-video-streams-webrtc-multi-viewer",
+      "date": "2025-11-13",
+      "name": "Amazon Kinesis Video Streams WebRTC Multi-Viewer",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/kinesis/video-streams/\">Amazon Kinesis Video Streams</a> now offers the ability to stream real-time audio and video to multiple concurrent viewers via WebRTC, while also recording video",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-kinesis-video-streams-multi-viewer/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-13-langchain-langgraph-execute-code-with-sandboxes-for-deepagents",
+      "date": "2025-11-13",
+      "name": "Execute Code with Sandboxes for DeepAgents",
+      "vendor": "LangChain/LangGraph",
+      "type": "launch",
+      "summary": "<p>By Vivek Trivedy</p><p>Today we&apos;re excited to launch Sandboxes for DeepAgents, a new set of integrations that allow you to safely execute arbitrary DeepAgent code in remote sandboxes. We currently support sandbox",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/execute-code-with-sandboxes-for-deepagents/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2025-11-12-aws-amazon-elasticache-supports-m7g-and-r7g-graviton3-",
       "date": "2025-11-12",
       "name": "Amazon ElastiCache supports M7g and R7g Graviton3-based nodes in AWS GovCloud (US) Regions",
@@ -875,204 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-database-insights-anomaly-detection/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-05-aws-announcing-new-ec2-r8a-memory-optimized-instances",
-      "date": "2025-11-05",
-      "name": "Announcing New EC2 R8a Memory-Optimized Instances",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS is announcing the general availability of new memory-optimized Amazon EC2 R8a instances. R8a instances, feature 5th Gen AMD EPYC processors (formerly code named Turin) with a maximum frequency of 4.5 GHz, deliver ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/memory-optimized-amazon-ec2-r8a-instances/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-05-aws-amazon-gamelift-streams-adds-aws-health-notificati",
-      "date": "2025-11-05",
-      "name": "Amazon GameLift Streams adds AWS Health notifications for aging resources",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/gamelift/streams/\">Amazon GameLift Streams</a> is now integrated with AWS Health and will provide automated notifications about aging stream groups. Customers are sent regular reminders",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-gamelift-streams-health-notifications"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-05-aws-amazon-keyspaces-for-apache-cassandra-extends-mult",
-      "date": "2025-11-05",
-      "name": "Amazon Keyspaces (for Apache Cassandra) extends Multi-Region Replication to Bahrain and Hong Kong Region",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Keyspaces (for Apache Cassandra) now supports Multi-Region Replication in the Middle East (Bahrain) and Asia Pacific (Hong Kong) Regions. With this expansion, customers can now replicate their Amazon Keyspaces ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-keyspaces-apache-cassandra-multi-region-replication-bahrain-hong-kong-region"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-05-aws-amazon-cloudwatch-application-signals-adds-ai-powe",
-      "date": "2025-11-05",
-      "name": "Amazon CloudWatch Application Signals adds AI-powered Synthetics debugging",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p><a href=\"https://github.com/awslabs/mcp/tree/main/src/cloudwatch-appsignals-mcp-server\">Amazon CloudWatch Application Signals Model Context Protocol or MCP Server</a> for Application Performance Monitoring (APM) now i",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/application-signals-ai-powered-synthetics/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-05-aws-aws-marketplace-now-open-for-india-based-sellers-s",
-      "date": "2025-11-05",
-      "name": "AWS Marketplace now open for India-based sellers supporting transactions in Indian Rupees (INR)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Buyers and sellers in India can now transact locally in AWS Marketplace, with invoicing in Indian Rupees (INR), and with simplified tax compliance through AWS India. With this launch, India-based sellers can now regis",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-marketplace-india-based-sellers-transactions-inr"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-05-aws-amazon-cloudfront-adds-ipv6-support-for-anycast-st",
-      "date": "2025-11-05",
-      "name": "Amazon Cloudfront adds IPv6 support for Anycast Static IPs",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon CloudFront now supports both IPv4 and IPv6 addresses for Anycast Static IP configurations. Previously, customers could only use IPv4 addresses when using CloudFront Anycast static IP addresses. With this launch",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/cloudfront-anycast-ipv6-support/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-05-langchain-langgraph-why-we-rebuilt-langchain-s-chatbot-and-what-we-lea",
-      "date": "2025-11-05",
-      "name": "Why We Rebuilt LangChain’s Chatbot and What We Learned",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "<p><em>By Liam Bush</em></p><h2 id=\"background\">Background</h2><p>Every successful platform needs reliable support, but we realized our own team was spending hours tracking down answers to technical questions. This frict",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/rebuilding-chat-langchain/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2025-11-04-openai-brazil-s-ai-moment-is-here",
-      "date": "2025-11-04",
-      "name": "Brazil’s AI moment is here",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "Brazil is now one of the most engaged countries in the world when it comes to AI. From classrooms to farms and small businesses, Brazilians are using OpenAI products to learn, create, and drive innovation.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/global-affairs/brazil-ai-moment-is-here"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-04-openai-error-rates-on-the-platform-billing-page",
-      "date": "2025-11-04",
-      "name": "Error rates on the Platform Billing page",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Resolved</b><br /><br />Users encountered “Failed to load subscription or selected organization” when accessing the Platform Billing page.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Log",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01K98CEY52RHWF6S4AW82DDVBN"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-04-openai-responsesapi-is-seeing-some-errors",
-      "date": "2025-11-04",
-      "name": "ResponsesAPI is seeing some errors",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />Approximately 10% of requests to the Responses API received 500 errors for about 12 minutes. It has completely recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          ",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01K969MQYQHY6R80A8W6T3T7YZ"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-04-aws-aws-cloud-wan-is-now-available-in-three-more-aws-r",
-      "date": "2025-11-04",
-      "name": "AWS Cloud WAN is now available in three more AWS Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, <a href=\"https://aws.amazon.com/cloud-wan\">AWS Cloud WAN</a> is available in the AWS Asia Pacific (Thailand), AWS Asia Pacific (Taipei) and AWS Asia Pacific (New Zealand) Regions.<br /> <br /> With AWS",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-cloud-wan-thailand-taipei-new-zealand/"
         }
       ],
       "impact": 5,
