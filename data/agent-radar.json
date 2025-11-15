@@ -1,6 +1,186 @@
 {
   "items": [
     {
+      "id": "2025-11-15-openai-chatgpt-file-uploads-failing",
+      "date": "2025-11-15",
+      "name": "ChatGPT File Uploads Failing",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>File uploads (Partial outage)</li>\n          </ul>",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KA22ACNT50TDGYE1B9TJ86D2"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-14-openai-subset-of-batch-api-jobs-stuck-in-finalizing-state",
+      "date": "2025-11-14",
+      "name": "Subset of Batch API jobs stuck in finalizing state",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Investigating</b><br /><br />We are investigating the issue for the listed services.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KA22C8G0G4EZG5YEJ4FRTWRA"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-14-openai-image-generation-failing-for-android-users",
+      "date": "2025-11-14",
+      "name": "Image generation failing for Android users",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Image Generation (Operational)</li>\n          </ul>",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01K9X7DTG5YTW15NKZD367AGAS"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-14-aws-aws-lambda-announces-provisioned-mode-for-sqs-even",
+      "date": "2025-11-14",
+      "name": "AWS Lambda announces Provisioned Mode for SQS event source mapping (ESM)",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Lambda announces Provisioned Mode for SQS event-source-mappings (ESMs) that subscribe to Amazon SQS, a feature that allows you to optimize the throughput of your SQS ESM by provisioning event polling resources tha",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-lambda-provisioned-mode-sqs-esm"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-14-aws-announcing-agreement-eventbridge-notifications-for",
+      "date": "2025-11-14",
+      "name": "Announcing agreement EventBridge notifications for AWS Marketplace",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Marketplace now delivers purchase agreement events via Amazon EventBridge, transitioning from our Amazon Simple Notification Service (SNS) notifications for Software as a Service and Professional Services product ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/agreement-eventbridge-notifications-aws-marketplace"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-14-aws-aws-iot-services-expand-support-of-vpc-endpoints-a",
+      "date": "2025-11-14",
+      "name": "AWS IoT Services expand support of VPC endpoints and IPv6 connectivity",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS IoT Core, AWS IoT Device Management, and AWS IoT Device Defender have expanded support for Virtual Private Cloud (VPC) endpoints and IPv6. Developers can now use AWS PrivateLink to establish VPC endpoints for all ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-iot-services-vpc-endpoints-ipv6-connectivity"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-14-aws-amazon-sagemaker-catalog-now-supports-read-and-wri",
+      "date": "2025-11-14",
+      "name": "Amazon SageMaker Catalog now supports read and write access to Amazon S3",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker Catalog now supports read and write access to Amazon S3 general purpose buckets. This capability helps data scientists and analysts search for unstructured data, process it alongside structured datase",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-catalog-read-write-access-amazon-s3/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-14-aws-amazon-rds-for-postgresql-now-supports-major-versi",
+      "date": "2025-11-14",
+      "name": "Amazon RDS for PostgreSQL now supports major version 18",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/postgresql/\">Amazon RDS for PostgreSQL</a> now supports major version 18, starting with PostgreSQL version 18.1. PostgreSQL 18 introduces several important community updates that im",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-rds-postgresql-major-version-18/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-14-aws-aws-lambda-adds-support-for-rust",
+      "date": "2025-11-14",
+      "name": "AWS Lambda adds support for Rust",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Lambda now supports building serverless applications using Rust. Previously, AWS classified Rust support in Lambda as ‘experimental’ and did not recommend using Rust for production workloads. With this launch, Rus",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-lambda-rust/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-14-aws-announcing-amazon-documentdb-with-mongodb-compatib",
+      "date": "2025-11-14",
+      "name": "Announcing Amazon DocumentDB (with MongoDB compatibility) version 8.0",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon DocumentDB (with MongoDB compatibility) announces version 8.0, which now offers added support for drivers supporting the MongoDB API versions 6.0, 7.0, and 8.0. Amazon DocumentDB 8.0 also improves query latency",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/documentdb-8-o"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-11-13-openai-image-generation-failing-for-android-users",
       "date": "2025-11-13",
       "name": "Image generation failing for Android users",
@@ -893,186 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-dynamodb-streams-aws-privatelink-fips-endpoints"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-06-aws-amazon-keyspaces-for-apache-cassandra-is-now-avail",
-      "date": "2025-11-06",
-      "name": "Amazon Keyspaces (for Apache Cassandra) is now available in the Middle East (UAE) Region",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/keyspaces/\" target=\"_blank\">Amazon Keyspaces (for Apache Cassandra)</a> is now available in the Middle East (UAE) Region, allowing customers in the Middle East to build Cassandra-compat",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-keyspaces-apache-cassandra-middle-east-uae/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-06-aws-aws-announces-a-new-regional-planning-tool-in-buil",
-      "date": "2025-11-06",
-      "name": "AWS announces a new Regional planning tool in Builder Center",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Today, AWS announced a new tool called AWS Capabilities by Region in <a href=\"https://builder.aws.com/\" target=\"_blank\">Builder Center</a>. This tool helps you discover and compare AWS services, features, APIs, CloudF",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-regional-planning-tool-builder-center"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-06-aws-deadline-cloud-expands-support-with-latest-6th-7th",
-      "date": "2025-11-06",
-      "name": "Deadline Cloud expands support with latest 6th, 7th, and 8th generation instances",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS announces expanded instance family support in Deadline Cloud, adding new 6th, 7th, and 8th generation EC2 instances to enhance visual effects and animation rendering workloads. This release includes support for C7",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/deadline-cloud-6th-7th-8th-generation-instances"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-06-aws-aws-backup-now-supports-aws-kms-customer-managed-k",
-      "date": "2025-11-06",
-      "name": "AWS Backup now supports AWS KMS customer managed keys with logically air-gapped vaults",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Backup now supports encrypting backups in logically air-gapped vaults with AWS Key Management Service (KMS) customer managed keys (CMKs). This enhancement provides additional encryption options beyond the existing",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-backup-kms-customer-managed-keys"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-06-aws-amazon-cloudwatch-application-signals-now-availabl",
-      "date": "2025-11-06",
-      "name": "Amazon CloudWatch Application Signals now available in AWS GovCloud (US) Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon CloudWatch Application Signals expands its availability to AWS GovCloud (US-East) and AWS GovCloud (US-West) Regions, enabling government customers and regulated industries to automatically monitor and improve ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-application-signals-aws-govcloud-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-06-aws-amazon-s3-now-supports-tags-on-s3-tables",
-      "date": "2025-11-06",
-      "name": "Amazon S3 now supports tags on S3 Tables",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon S3 now supports tags on S3 Tables for attribute-based access control (ABAC) and cost allocation. You can use tags for ABAC to automatically manage permissions for users and roles accessing table buckets and tab",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-s3-tags-s3-tables/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-06-aws-amazon-cloudfront-announces-cross-account-support-",
-      "date": "2025-11-06",
-      "name": "Amazon CloudFront announces cross-account support for VPC origins",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon CloudFront announces cross-account support for Virtual Private Cloud (VPC) origins, enabling customers to access VPC origins that reside in different AWS accounts from their CloudFront distributions. With VPC o",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudfront-cross-account-vpc-origins/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-06-flowise-flowise-3-0-10",
-      "date": "2025-11-06",
-      "name": "flowise@3.0.10",
-      "vendor": "Flowise",
-      "type": "launch",
-      "summary": "<h2>What's Changed</h2>\n<h2>Nodes</h2>\n<ul>\n<li>Adding Teradata VectorStore support in DocumentStore by <a class=\"user-mention notranslate\" href=\"https://github.com/sshekhar1\">@sshekhar1</a> in <a class=\"issue-link js-is",
-      "sources": [
-        {
-          "title": "Flowise source",
-          "url": "https://github.com/FlowiseAI/Flowise/releases/tag/flowise%403.0.10"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2025-11-05-openai-how-chime-is-redefining-marketing-through-ai",
-      "date": "2025-11-05",
-      "name": "How Chime is redefining marketing through AI",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "Vineet Mehra, Chief Marketing Officer at Chime, shares how AI is reshaping marketing into an agent-driven discipline. He explains why CMOs who champion AI literacy and thoughtful adoption will lead in the new era of grow",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/chime-vineet-mehra"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-05-aws-amazon-cloudwatch-database-insights-expands-anomal",
-      "date": "2025-11-05",
-      "name": "Amazon CloudWatch Database Insights expands anomaly detection in on-demand analysis",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon CloudWatch Database Insights now detects anomalies on additional metrics through its on-demand analysis experience. Database Insights is a monitoring and diagnostics solution that helps database administrators ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-database-insights-anomaly-detection/"
         }
       ],
       "impact": 5,
