@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "2025-11-16-flowise-flowise-3-0-11",
+      "date": "2025-11-16",
+      "name": "flowise@3.0.11",
+      "vendor": "Flowise",
+      "type": "deprecation",
+      "summary": "<h2>⚠️ Breaking Change ⚠️</h2>\n<p>The <strong>Read/Write Tools</strong> functionality has been <strong>permanently removed</strong>.</p>\n<p><strong>Alternative:</strong> Google and Microsoft tools</p>\n<hr />\n<ul>\n<li>Cho",
+      "sources": [
+        {
+          "title": "Flowise source",
+          "url": "https://github.com/FlowiseAI/Flowise/releases/tag/flowise%403.0.11"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2025-11-15-openai-chatgpt-file-uploads-failing",
       "date": "2025-11-15",
       "name": "ChatGPT File Uploads Failing",
@@ -1055,24 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ecs-non-root-container-managed-ebs-volumes"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-06-aws-amazon-dynamodb-streams-expands-aws-privatelink-su",
-      "date": "2025-11-06",
-      "name": "Amazon DynamoDB Streams expands AWS PrivateLink support to FIPS endpoints",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon DynamoDB Streams now supports AWS PrivateLink for all available Amazon DynamoDB Streams Federal Information Processing Standard (FIPS) endpoints in US and Canada commercial AWS Regions.<br /> <br /> With this l",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-dynamodb-streams-aws-privatelink-fips-endpoints"
         }
       ],
       "impact": 5,
