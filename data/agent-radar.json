@@ -19,6 +19,24 @@
       "tags": []
     },
     {
+      "id": "2025-11-16-crewai-1-5-0",
+      "date": "2025-11-16",
+      "name": "1.5.0",
+      "vendor": "CrewAI",
+      "type": "upgrade",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add a2a trust remote completion status flag</li>\n<li>Fetch and store more data about Okta authorization server</li>\n<li>Implement before and after LLM call hooks in Crew",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.5.0"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2025-11-15-openai-chatgpt-file-uploads-failing",
       "date": "2025-11-15",
       "name": "ChatGPT File Uploads Failing",
@@ -1055,24 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-b2b-data-interchange-europe-ireland-region"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-06-aws-amazon-ecs-announces-non-root-container-support-fo",
-      "date": "2025-11-06",
-      "name": "Amazon ECS announces non-root container support for managed EBS volumes",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/ecs/\" target=\"_blank\">Amazon Elastic Container Service</a> (ECS) now supports mounting Amazon Elastic Block Store (EBS) volumes to containers running as non-root users. With this launch",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ecs-non-root-container-managed-ebs-volumes"
         }
       ],
       "impact": 5,
