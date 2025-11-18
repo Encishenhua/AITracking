@@ -1,6 +1,402 @@
 {
   "items": [
     {
+      "id": "2025-11-17-openai-openai-named-emerging-leader-in-generative-ai",
+      "date": "2025-11-17",
+      "name": "OpenAI named Emerging Leader in Generative AI",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "OpenAI has been named an Emerging Leader in Gartner’s 2025 Innovation Guide for Generative AI Model Providers. The recognition reflects our enterprise momentum, with over 1 million companies building with ChatGPT.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/gartner-2025-emerging-leader"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-17-openai-elevated-errors-rate-on-chatgpt-agent",
+      "date": "2025-11-17",
+      "name": "Elevated Errors Rate on ChatGPT Agent",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Agent (Operational)</li>\n          </ul>",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KA9WMVYKCSFQXZ3E0P5JCFKA"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-17-aws-amazon-route-53-dns-firewall-adds-protection-again",
+      "date": "2025-11-17",
+      "name": "Amazon Route 53 DNS Firewall adds protection against Dictionary-based DGA attacks",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, you can enable Route 53 Resolver DNS Firewall Advanced to monitor and block queries associated with Dictionary-based Domain Generation Algorithm (DGA) attacks, that generate domain names by pseudo-rand",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-route-53-dns-firewall-protection-dictionary-dga-attacks"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-17-aws-amazon-redshift-now-supports-writing-to-apache-ice",
+      "date": "2025-11-17",
+      "name": "Amazon Redshift now supports writing to Apache Iceberg tables",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/redshift/\">Amazon Redshift</a> today announces the general availability of write capability to Apache Iceberg tables, enabling users to run analytics read and write queries for append-o",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-redshift-iceberg-writes-m1"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-17-aws-amazon-workspaces-applications-adds-new-instance-t",
+      "date": "2025-11-17",
+      "name": "Amazon WorkSpaces Applications adds new instance types and configurable storage options",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon WorkSpaces Applications now offers enhanced flexibility features that provide customers with more choices for compute and configurable storage volume. Customers can also import their custom EC2 AMIs to create A",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-workspaces-applications-instances-storage-addition"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-17-aws-amazon-workspaces-applications-expands-the-regiona",
+      "date": "2025-11-17",
+      "name": "Amazon WorkSpaces Applications expands the regional availability to Italy, Spain, Malaysia, and Israel",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Web Services (AWS) has expanded the regional availability for Amazon WorkSpaces Applications. Starting today, AWS customers can deploy their applications and desktops in the AWS Europe (Milan), Europe (Spain), ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-workspaces-applications-region-expansion"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-17-aws-aws-backup-extends-delegated-administrator-support",
+      "date": "2025-11-17",
+      "name": "AWS Backup extends delegated administrator support to 17 additional AWS Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>You can now designate delegated administrators for AWS Backup in 17 additional AWS Regions, enabling assigned users in member accounts to perform most administrative tasks.</p> \n<p>Delegated administrators are now sup",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-backup-delegated-administrator-17-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-17-aws-aws-backup-now-supports-backing-up-directly-to-a-l",
+      "date": "2025-11-17",
+      "name": "AWS Backup now supports backing up directly to a logically air-gapped vault",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Backup now supports logically air-gapped vaults as a primary backup target. You can assign a logically air-gapped vault as the primary target in backup plans, organization-wide policies, or on-demand backups. Prev",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-backup-direct-to-logically-air-gapped-vault/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-17-aws-amazon-ec2-m8i-and-m8i-flex-instances-are-now-avai",
+      "date": "2025-11-17",
+      "name": "Amazon EC2 M8i and M8i-flex instances are now available in Asia Pacific (Mumbai) Region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon EC2 M8i and M8i-flex instances are now available in Asia Pacific (Mumbai) Region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the highest per",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-m8i-m8i-flex-instances-asia-pacific-mumbai-region"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-17-aws-amazon-u7i-instances-now-available-in-aws-europe-i",
+      "date": "2025-11-17",
+      "name": "Amazon U7i instances now available in AWS Europe (Ireland) Region",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Starting today, Amazon EC2 High Memory U7i instances with 12TB of memory (u7i-12tb.224xlarge) are now available in the AWS Europe (Ireland) Region. U7i-12tb instances are part of AWS 7th generation and are powered by ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-u7i-instances-aws-europe-ireland-region"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-17-aws-amazon-route-53-profiles-now-supports-resolver-que",
+      "date": "2025-11-17",
+      "name": "Amazon Route 53 Profiles now supports Resolver query logging configurations",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS announced support for Resolver query logging configurations in Amazon Route 53 Profiles, allowing you to manage Resolver query logging configuration and apply it to multiple VPCs and AWS accounts within you",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-route-53-profiles-resolver-query-logging-configurations"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-17-aws-aws-transform-automates-landing-zone-acceleration-",
+      "date": "2025-11-17",
+      "name": "AWS Transform Automates Landing Zone Acceleration Network Configuration",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS Transform for VMware now allows customers to automatically generate network configurations that can be directly imported into the <a href=\"https://aws.amazon.com/solutions/implementations/landing-zone-accelerator-",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-transform-vmware-landingzone-configuration-generation"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-17-aws-amazon-u7i-instances-now-available-in-us-east-ohio",
+      "date": "2025-11-17",
+      "name": "Amazon U7i instances now available in US East (Ohio) Region",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Starting today, Amazon EC2 High Memory U7i instances with 24TB of memory (u7in-24tb.224xlarge) are now available in the US East (Ohio) region. U7in-24tb instances are part of AWS 7th generation and are powered by cust",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-u7i-instances-us-east-ohio-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-17-aws-amazon-rds-for-mysql-now-supports-new-minor-versio",
+      "date": "2025-11-17",
+      "name": "Amazon RDS for MySQL now supports new minor versions 8.0.44 and 8.4.7",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a contenteditable=\"false\" href=\"https://aws.amazon.com/rds/mysql/\" style=\"cursor: pointer;\">Amazon Relational Database Service (Amazon RDS) for MySQL</a> now supports MySQL minor versions 8.0.44 and 8.4.7, the latest",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-rds-mysql-new-minor-versions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-17-aws-aws-backup-extends-cross-account-management-in-fou",
+      "date": "2025-11-17",
+      "name": "AWS Backup extends cross-account management in four new AWS Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Backup now offers cross-account management in the following AWS Regions: Asia Pacific (Taipei, Thailand, New Zealand) and Mexico (Central). This capability helps you manage and monitor backups across your AWS acco",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/backup-cross-account-management-four-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-17-aws-amazon-mq-now-supports-ldap-authentication-for-rab",
+      "date": "2025-11-17",
+      "name": "Amazon MQ now supports LDAP authentication for RabbitMQ",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p><a href=\"https://aws.amazon.com/amazon-mq/\">Amazon MQ</a> now supports LDAP (Lightweight Directory Access Protocol) authentication for RabbitMQ brokers in all available AWS <a href=\"https://aws.amazon.com/about-aws/gl",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-mq-ldap-authentication-rabbitmq/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-17-aws-aws-healthimaging-adds-native-jpeg-2000-lossless-s",
+      "date": "2025-11-17",
+      "name": "AWS HealthImaging adds native JPEG 2000 Lossless support",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS HealthImaging now offers JPEG 2000 Lossless as a <a href=\"https://dicom.nema.org/medical/dicom/current/output/chtml/part18/sect_8.7.3.html\">transfer syntax</a> for storing and retrieving lossless medical images. W",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-healthimaging-jpeg-2000-lossless/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-17-aws-amazon-vpc-ipam-automates-ip-assignments-from-info",
+      "date": "2025-11-17",
+      "name": "Amazon VPC IPAM automates IP assignments from Infoblox IPAM",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS launched the ability for Amazon VPC IP Address Manager (IPAM) to automatically acquire non-overlapping IP address allocations from Infoblox Universal IPAM. This feature minimizes manual processes between cl",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-vpc-ipam-automates-ip-from-infoblox/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-17-aws-aws-parallel-computing-service-is-now-hipaa-eligib",
+      "date": "2025-11-17",
+      "name": "AWS Parallel Computing Service is now HIPAA eligible",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Parallel Computing Service (AWS PCS) is now HIPAA (<a contenteditable=\"false\" href=\"https://aws.amazon.com/compliance/hipaa-compliance/\" style=\"cursor: pointer;\">Health Insurance Portability and Accountability Act",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-parallel-computing-hipaa-eligible/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-17-aws-amazon-bedrock-data-automation-supports-10-additio",
+      "date": "2025-11-17",
+      "name": "Amazon Bedrock Data Automation supports 10 additional languages for speech analytics",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Bedrock Data Automation (BDA) now supports 10 additional languages for speech analytics workloads in addition to English: Portuguese, French, Italian, Spanish, German, Chinese, Cantonese, Taiwanese, Korean, and",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-bedrock-data-automation-10-languages/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-17-aws-amazon-mwaa-introduces-serverless-deployment-optio",
+      "date": "2025-11-17",
+      "name": "Amazon MWAA Introduces Serverless Deployment Option for Apache Airflow Workflows",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Managed Workflows for Apache Airflow (MWAA) now offers a serverless deployment option that eliminates the operational overhead of managing Apache Airflow environments while optimizing costs through true serverl",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/mwaa-serverless-deployment-apache-airflow-workflows/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-17-langchain-langgraph-how-servicenow-uses-langsmith-to-get-visibility-in",
+      "date": "2025-11-17",
+      "name": "How ServiceNow uses LangSmith to get visibility into its customer success agents",
+      "vendor": "LangChain/LangGraph",
+      "type": "launch",
+      "summary": "<p><strong>Authors: </strong><em>Ganesh Srinivasan (ServiceNow), Linda Ye (LangChain), and Jake Broekhuizen (LangChain)</em></p><p>ServiceNow is a leading digital workflow platform that helps enterprises transform servic",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/customers-servicenow/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2025-11-16-flowise-flowise-3-0-11",
       "date": "2025-11-16",
       "name": "flowise@3.0.11",
@@ -677,402 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-c6id-r6id-instances-additional-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-11-aws-amazon-keyspaces-for-apache-cassandra-now-supports",
-      "date": "2025-11-11",
-      "name": "Amazon Keyspaces (for Apache Cassandra) now supports Logged Batches",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a contenteditable=\"false\" href=\"https://aws.amazon.com/keyspaces/\" style=\"cursor: pointer;\">Amazon Keyspaces (for Apache Cassandra)</a> now supports Logged Batches, enabling you to perform multiple write operations a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-keyspaces-apache-cassandra-logged-batches/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-11-aws-amazon-ec2-m8a-instances-now-available-in-addition",
-      "date": "2025-11-11",
-      "name": "Amazon EC2 M8a Instances now available in additional regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, the general-purpose Amazon EC2 M8a instances are available in US East (N. Virginia) and Asia Pacific (Tokyo) regions. M8a instances are powered by 5th Gen AMD EPYC processors (formerly code named Turin",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-m8a-instances-additional-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-10-aws-aws-backup-now-supports-amazon-eks",
-      "date": "2025-11-10",
-      "name": "AWS Backup now supports Amazon EKS",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS Backup now supports Amazon Elastic Kubernetes Service (EKS), providing a fully-managed, centralized solution for backing up EKS cluster state and persistent application data. You can now use AWS Backup to help pro",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-backup-supports-amazon-eks"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-10-aws-aws-control-tower-supports-automatic-enrollment-of",
-      "date": "2025-11-10",
-      "name": "AWS Control Tower supports automatic enrollment of accounts",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Control Tower customers can now simply move their accounts to an Organizational Unit (OU) to enroll them under AWS Control Tower governance. This feature helps customers maintain consistency across their AWS envir",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-control-tower-automatic-enrollment"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-10-aws-amazon-s3-express-one-zone-now-supports-internet-p",
-      "date": "2025-11-10",
-      "name": "Amazon S3 Express One Zone now supports Internet Protocol version 6 (IPv6)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon S3 Express One Zone now supports Internet Protocol version 6 (IPv6) addresses for gateway Virtual Private Cloud (VPC) endpoints. S3 Express One Zone is a high-performance storage class designed for latency-sens",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-s3-express-one-zone-ipv6"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-10-aws-anthropic-s-claude-sonnet-4-5-is-now-in-amazon-bed",
-      "date": "2025-11-10",
-      "name": "Anthropic’s Claude Sonnet 4.5 is now in Amazon Bedrock in AWS GovCloud (US)",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Customers can now use Claude Sonnet 4.5 in <a href=\"https://aws.amazon.com/bedrock/\" target=\"_blank\">Amazon Bedrock</a> in <a href=\"https://aws.amazon.com/govcloud-us/\" target=\"_blank\">AWS GovCloud (US-West) and AWS G",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/anthropics-claude-sonnet-4-5-amazon-bedrock-aws-govcloud-us"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-10-aws-aws-adds-ipv6-support-for-amazon-s3-gateway-and-in",
-      "date": "2025-11-10",
-      "name": "AWS adds IPv6 support for Amazon S3 Gateway and Interface VPC endpoints",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Web Services (AWS) now supports Internet Protocol version 6 (IPv6) addresses for AWS PrivateLink Gateway and Interface Virtual Private Cloud (VPC) endpoints for Amazon S3.<br /> <br /> The continued growth of t",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/ipv6-amazon-s3-gateway-interface-vpc-endpoints/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-10-aws-amazon-ec2-c7i-flex-instances-are-now-available-in",
-      "date": "2025-11-10",
-      "name": "Amazon EC2 C7i-flex instances are now available in the Middle East (UAE) Region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C7i-flex instances that deliver up to 19% better price performance compared to C6i instances, are available in the Middle East (UAE) Region. C7i-flex instances",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-c7i-flex-instances-middle-east-uae/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-10-aws-amazon-cloudwatch-agent-adds-shared-memory-metrics",
-      "date": "2025-11-10",
-      "name": "Amazon CloudWatch agent adds Shared Memory Metrics",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon CloudWatch agent now supports collection of shared memory utilization metrics from Linux hosts running on Amazon EC2 or on-premises environments. This new capability enables you to monitor total shared memory u",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-agent-shared-memory-metrics/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-10-aws-aws-private-ca-now-supports-post-quantum-digital-c",
-      "date": "2025-11-10",
-      "name": "AWS Private CA now supports post-quantum digital certificates",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Private Certificate Authority (AWS Private CA) now enables you to create certificate authorities (CAs) and issue certificates that use Module Lattice-based Digital Signature Algorithm (ML-DSA). This feature enable",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-private-ca-post-quantum-digital-certificates/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-10-aws-amazon-ec2-high-memory-u7i-instances-now-available",
-      "date": "2025-11-10",
-      "name": "Amazon EC2 High Memory U7i instances now available in AWS GovCloud (US) Regions",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon EC2 High Memory U7i instances with 12TB and 16TB of memory (u7i-12tb.224xlarge and u7in-16tb.224xlarge) are now available in the AWS GovCloud (US-West) region and 24TB of memory (u7in-24tb.224xlarge) are now av",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-high-memory-u7i-instances-govcloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-10-aws-amazon-s3-now-supports-ipv6-for-gateway-and-interf",
-      "date": "2025-11-10",
-      "name": "Amazon S3 now supports IPv6 for gateway and interface VPC endpoints",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon S3 now supports Internet Protocol version 6 (IPv6) addresses for AWS PrivateLink gateway and interface Virtual Private Cloud (VPC) endpoints.&nbsp;</p> \n<p>The continued growth of the internet is exhausting ava",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/ipv6-amazon-s3-gateway-interface-vpc-endpoints/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-08-openai-elevated-error-rates-on-codex",
-      "date": "2025-11-08",
-      "name": "Elevated error rates on Codex",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Codex (Operational)</li>\n          </ul>",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01K9G5H5NM4Y19XW4JJM3SK323"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-07-openai-issues-with-chatgpt-memory",
-      "date": "2025-11-07",
-      "name": "Issues with ChatGPT Memory",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Investigating</b><br /><br />There has been partial recovery of ChatGPT Memories for a subset of impacted users.\n\nUsers who created new Memories during the incident window may still see gaps. We are initiating",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01K9D7DASB76TK1DEGPMG6ZAM4"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-07-openai-notion-s-rebuild-for-agentic-ai-how-gpt-5-helped-u",
-      "date": "2025-11-07",
-      "name": "Notion’s rebuild for agentic AI: How GPT‑5 helped unlock autonomous workflows",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "Discover how Notion rebuilt its AI architecture with GPT-5 to create autonomous agents that reason, act, and adapt across workflows. Learn how this shift unlocked smarter, faster, and more flexible productivity in Notion",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/notion"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-07-aws-aws-advanced-net-data-provider-driver-is-generally",
-      "date": "2025-11-07",
-      "name": "AWS Advanced .NET Data Provider Driver is Generally Available",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>The Amazon Web Services (AWS) Advanced .NET Data Provider Driver is now generally available for <a href=\"https://aws.amazon.com/rds/\" target=\"_blank\">Amazon RDS</a> and <a href=\"https://aws.amazon.com/rds/aurora/\" tar",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-net-data-provider-driver/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-07-aws-amazon-cognito-user-pools-now-supports-private-con",
-      "date": "2025-11-07",
-      "name": "Amazon Cognito user pools now supports private connectivity with AWS PrivateLink",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Cognito user pools now supports AWS PrivateLink for secure and private connectivity. With AWS PrivateLink, you can establish a private connection between your virtual private cloud (VPC) and Amazon Cognito user",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cognito-user-pools-private-connectivity-aws-privatelink"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-07-crewai-1-4-1",
-      "date": "2025-11-07",
-      "name": "1.4.1",
-      "vendor": "CrewAI",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Fix handling of agent max iterations</li>\n<li>Resolve routing issues for LLM model syntax to respected providers</li>\n</ul>\n<p><a class=\"user-mention notranslate\" href=",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.4.1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2025-11-07-crewai-1-4-0",
-      "date": "2025-11-07",
-      "name": "1.4.0",
-      "vendor": "CrewAI",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add support for non-AST plot routes</li>\n<li>Implement first-class support for MCP</li>\n<li>Add Pydantic validation dunder to BaseInterceptor</li>\n<li>Add support for LL",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.4.0"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2025-11-06-openai-from-pilot-to-practice-how-bbva-is-scaling-ai-acro",
-      "date": "2025-11-06",
-      "name": "From Pilot to Practice: How BBVA Is Scaling AI Across the Organization",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "BBVA is reimagining how employees work with ChatGPT Enterprise, embedding AI into everyday operations. The bank has saved hours per week per employee, created 20,000+ Custom GPTs, and achieved up to 80% efficiency gains.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/bbva-2025"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-06-aws-amazon-sagemaker-launches-custom-tags-for-project-",
-      "date": "2025-11-06",
-      "name": "Amazon SageMaker launches custom tags for project resources",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, Amazon SageMaker Unified Studio announced new capabilities allowing SageMaker projects to add custom tags to resources created through the project. This helps customers enforce tagging standards that conform to",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-custom-tags-project-resources"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-06-aws-aws-b2b-data-interchange-is-now-available-in-aws-e",
-      "date": "2025-11-06",
-      "name": "AWS B2B Data Interchange is now available in AWS Europe (Ireland) Region",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Customers in AWS Europe (Ireland) Region can now use AWS B2B Data Interchange to build highly customizable, scalable and cost-efficient EDI workloads.<br /> <br /> AWS B2B Data Interchange automates validation, transf",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-b2b-data-interchange-europe-ireland-region"
         }
       ],
       "impact": 5,
