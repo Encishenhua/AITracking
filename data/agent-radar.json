@@ -1,6 +1,312 @@
 {
   "items": [
     {
+      "id": "2025-11-18-openai-new-tasks-creation-error-for-codex-web",
+      "date": "2025-11-18",
+      "name": "New Tasks Creation Error for Codex Web",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Deep Research (Operational)</li>\n<li>Codex (Operational)</li>\n        ",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KACCE2MY2Z917Q4J9ZKXZ9F1"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-18-aws-amazon-ec2-p6-b300-instances-with-nvidia-blackwell",
+      "date": "2025-11-18",
+      "name": "Amazon EC2 P6-B300 instances with NVIDIA Blackwell Ultra GPUs are now available",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the general availability of Amazon Elastic Compute Cloud (Amazon EC2) P6-B300 instances, accelerated by NVIDIA Blackwell Ultra B300 GPUs. Amazon&nbsp;EC2 P6-B300 instances provide 8x NVIDIA Blackw",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-p6-b300-instances-nvidia-blackwell-ultra-gpus-available"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-18-aws-amazon-opensearch-serverless-now-adds-audit-logs-f",
+      "date": "2025-11-18",
+      "name": "Amazon OpenSearch Serverless now adds audit logs for data plane APIs",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon OpenSearch Serverless now supports detailed audit logging of data plane requests via AWS CloudTrail. This feature enables customers to record user actions on their collections, helping meet compliance regulatio",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-opensearch-serverless-auditlogs-dataplane-apis"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-18-aws-ec2-auto-scaling-now-offers-a-synchronous-api-to-l",
+      "date": "2025-11-18",
+      "name": "EC2 Auto Scaling now offers a synchronous API to launch instances inside an Auto Scaling group",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, EC2 Auto Scaling is launching a new API, LaunchInstances, which gives customers more control and flexibility over how EC2 Auto Scaling provisions instances while providing instant feedback on capacity availabil",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/ec2-auto-scaling-synchronous-api-launch-instances/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-18-aws-amazon-bedrock-introduces-priority-and-flex-infere",
+      "date": "2025-11-18",
+      "name": "Amazon Bedrock introduces Priority and Flex inference service tiers",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, Amazon Bedrock introduces two new inference service&nbsp;tiers to optimize costs and performance for different AI workloads. The new <b>Flex</b> tier offers cost-effective pricing&nbsp;for non-time-critical app",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-bedrock-priority-flex-inference-service-tiers"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-18-aws-amazon-polly-expands-generative-tts-engine-with-ad",
+      "date": "2025-11-18",
+      "name": "Amazon Polly expands Generative TTS engine with additional languages and region support",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, we are excited to announce the general availability of five highly expressive Amazon Polly Generative voices in Austrian German (Hannah), Irish English (Niamh), Brazilian Portuguese (Camila), Belgian Dutch (Lis",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-polly-generative-tts-engine"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-18-aws-amazon-ec2-i7ie-instances-now-available-in-aws-asi",
+      "date": "2025-11-18",
+      "name": "Amazon EC2 I7ie instances now available in AWS Asia Pacific (Singapore) Region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Web Services (AWS) is announcing starting today, Amazon EC2 I7ie instances are now available in Asia Pacific (Singapore) region. Designed for large storage I/O intensive workloads, I7ie instances are powered by",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-i7ie-instances-aws-asia-pacific-singapore-region"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-18-aws-amazon-rds-optimized-reads-now-supports-r8gd-and-m",
+      "date": "2025-11-18",
+      "name": "Amazon RDS Optimized Reads now supports R8gd and M8gd database instances",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Relational Database Service (RDS) now supports R8gd and M8gd database instances for Optimized Reads on Amazon Aurora PostgreSQL and RDS for PostgreSQL, MySQL, and MariaDB. R8gd and M8gd database instances offer",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-rds-optimized-reads-r8gd-m8gd-database-instances"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-18-aws-active-threat-defense-now-enabled-by-default-in-aw",
+      "date": "2025-11-18",
+      "name": "Active threat defense now enabled by default in AWS Network Firewall",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, AWS Network Firewall enables active threat defense by default in alert mode when you create new firewall policies in the AWS Management Console. Active threat defense provides automated, intelligence-d",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/active-threat-defense-default-network-firewall/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-18-aws-workshops-now-available-in-aws-builder-center",
+      "date": "2025-11-18",
+      "name": "Workshops now available in AWS Builder Center",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Builder Center now provides access to the catalog of AWS Workshops, offering step-by-step instructions crafted by AWS experts that explain how to deploy and use AWS services effectively. These workshops cover a wi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/workshops-available-aws-builder-center/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-18-aws-aws-announces-flat-rate-pricing-plans-for-website-",
+      "date": "2025-11-18",
+      "name": "AWS announces flat-rate pricing plans for website delivery and security",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Web Services (AWS) is launching flat-rate pricing plans with no overages for website delivery and security. The flat-rate plans, available with Amazon CloudFront, combine global content delivery with AWS WAF, D",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-flat-rate-pricing-plans"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-18-aws-amazon-redshift-now-supports-just-in-time-jit-anal",
+      "date": "2025-11-18",
+      "name": "Amazon Redshift now supports Just-In-Time (JIT) ANALYZE for Apache Iceberg tables",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a contenteditable=\"false\" href=\"https://aws.amazon.com/redshift/\" style=\"cursor: pointer;\">Amazon Redshift</a> today announces the general availability of Just-In-Time (JIT) ANALYZE capability for Apache Iceberg tabl",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-redshift-jit-analyze-apache-iceberg-tables/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-18-aws-aws-announces-supplementary-packages-for-amazon-li",
+      "date": "2025-11-18",
+      "name": "AWS announces Supplementary Packages for Amazon Linux",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the general availability of Supplementary Packages for Amazon Linux (SPAL), a dedicated repository that provides developers and system administrators with streamlined access to thousands of pre-bu",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/supplementary-packages-amazon-linux/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-18-aws-amazon-rds-for-mariadb-now-supports-community-mari",
+      "date": "2025-11-18",
+      "name": "Amazon RDS for MariaDB now supports community MariaDB minor versions 10.6.24, 10.11.15, and 11.4.9",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/mariadb/\">Amazon Relational Database Service (Amazon RDS) for MariaDB</a> now supports community MariaDB minor versions 10.6.24, 10.11.15, and 11.4.9. We recommend that you upgrade ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-rds-mariadb-community-minor-versions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-18-aws-aws-cloudformation-accelerates-dev-test-cycle-with",
+      "date": "2025-11-18",
+      "name": "AWS CloudFormation accelerates dev-test cycle with early validation and simplified troubleshooting",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a contenteditable=\"false\" href=\"https://docs.aws.amazon.com/cloudformation/\" style=\"cursor: pointer;\">AWS CloudFormation</a> now offers capabilities that allow customers to catch deployment errors before resource pro",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/cloudformation-dev-test-cycle-validation-troubleshooting/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-18-aws-amazon-msk-replicator-is-now-available-in-two-addi",
+      "date": "2025-11-18",
+      "name": "Amazon MSK Replicator is now available in two additional AWS Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>You can now use Amazon MSK Replicator to replicate streaming data across Amazon Managed Streaming for Apache Kafka (<a contenteditable=\"false\" href=\"https://aws.amazon.com/msk/\" style=\"cursor: pointer;\">Amazon MSK</a>",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-msk-replicator-two-additional-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-18-aws-aws-backup-launches-a-low-cost-warm-storage-tier-f",
+      "date": "2025-11-18",
+      "name": "AWS Backup launches a low-cost warm storage tier for Amazon S3 backups",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Backup introduced a low-cost warm storage tier for Amazon S3 backup data that can reduce costs by up to 30%. After S3 backup data resides in a vault for 60 days (or longer based on your settings), you can move it ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-backup-low-cost-warm-storage-s3-backups/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-11-17-openai-openai-named-emerging-leader-in-generative-ai",
       "date": "2025-11-17",
       "name": "OpenAI named Emerging Leader in Generative AI",
@@ -767,312 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/service-connect-cross-account-govcloud-us-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-13-aws-amazon-ec2-g6f-instances-are-now-available-in-addi",
-      "date": "2025-11-13",
-      "name": "Amazon EC2 G6f instances are now available in additional regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, the Amazon Elastic Compute Cloud (Amazon EC2) G6f instances powered by NVIDIA L4 GPUs are now available in Europe (Spain) and Asia Pacific (Seoul) regions. G6f instances can be used for a wide range of",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-g6f-instances-additional-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-13-aws-amazon-kinesis-video-streams-webrtc-multi-viewer",
-      "date": "2025-11-13",
-      "name": "Amazon Kinesis Video Streams WebRTC Multi-Viewer",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/kinesis/video-streams/\">Amazon Kinesis Video Streams</a> now offers the ability to stream real-time audio and video to multiple concurrent viewers via WebRTC, while also recording video",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-kinesis-video-streams-multi-viewer/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-13-langchain-langgraph-execute-code-with-sandboxes-for-deepagents",
-      "date": "2025-11-13",
-      "name": "Execute Code with Sandboxes for DeepAgents",
-      "vendor": "LangChain/LangGraph",
-      "type": "launch",
-      "summary": "<p>By Vivek Trivedy</p><p>Today we&apos;re excited to launch Sandboxes for DeepAgents, a new set of integrations that allow you to safely execute arbitrary DeepAgent code in remote sandboxes. We currently support sandbox",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/execute-code-with-sandboxes-for-deepagents/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2025-11-12-aws-amazon-elasticache-supports-m7g-and-r7g-graviton3-",
-      "date": "2025-11-12",
-      "name": "Amazon ElastiCache supports M7g and R7g Graviton3-based nodes in AWS GovCloud (US) Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon ElastiCache now supports Graviton3-based M7g and R7g node families in the AWS GovCloud (US) Regions (US-East, US-West). ElastiCache Graviton3 nodes deliver improved price-performance compared to Graviton2. As a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-elasticache-m7g-r7g-graviton3-govcloud-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-12-aws-aws-fault-injection-service-fis-launches-new-test-",
-      "date": "2025-11-12",
-      "name": "AWS Fault Injection Service (FIS) launches new test scenarios for partial failures",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Fault Injection Service (FIS) now offers two new scenarios that help you proactively test how your applications handle partial disruptions within and across Availability Zones (AZs). These disruptions, often calle",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-fis-test-scenarios-partial-failures"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-12-aws-amazon-connect-cases-adds-conditional-field-visibi",
-      "date": "2025-11-12",
-      "name": "Amazon Connect Cases adds conditional field visibility and dependent options",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect Cases now supports conditional field visibility and dependent field options, so you can simplify case layouts and ensure agents capture the right information faster. For example, you can show a Return R",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-cases-conditional-field-visibility-dependent-options"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-12-aws-amazon-cloudwatch-logs-now-supports-network-load-b",
-      "date": "2025-11-12",
-      "name": "Amazon CloudWatch Logs now supports Network Load Balancer access logs",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon CloudWatch Logs now supports Network Load Balancer (NLB) access logs as vended logs, improving observability and simplifying debugging for network traffic patterns. You can now analyze NLB access logs directly ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-supports-logs-network-load-balancer-access-logs/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-12-aws-announcing-communication-preferences-for-security-",
-      "date": "2025-11-12",
-      "name": "Announcing communication preferences for Security Incident Response",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/security-incident-response/\" target=\"_blank\">AWS Security Incident Response</a> now provides customizable communication preferences so you can focus on the updates that matter most to y",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/communication-preferences-aws-security-incident-response"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-12-aws-aws-site-to-site-vpn-announces-5-gbps-bandwidth-tu",
-      "date": "2025-11-12",
-      "name": "AWS Site-to-Site VPN announces 5 Gbps bandwidth tunnels",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Site-to-Site VPN now supports VPN connections with up to 5 Gbps bandwidth per tunnel, a 4x improvement from existing limit of 1.25 Gbps. This increased bandwidth benefits customers who require high-capacity connec",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-site-to-site-vpn-5-gbps-bandwidth-tunnels"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-12-aws-spaces-now-available-in-aws-builder-center",
-      "date": "2025-11-12",
-      "name": "Spaces now available in AWS Builder Center",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Builder Center now offers Spaces, a community collaboration tool that enables builders to create and join groups around specific AWS topics, use cases, and interests. With Spaces, you can connect with peers, share",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-builder-spaces-builder-center/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-12-aws-amazon-managed-service-for-prometheus-collector-in",
-      "date": "2025-11-12",
-      "name": "Amazon Managed Service for Prometheus collector integrates with Amazon Managed Streaming for Apache Kafka",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Managed Service for Prometheus collector, a fully-managed agentless collector for Prometheus metrics, now enables you to discover and collect Prometheus metrics from your Amazon Managed Streaming for Apache Kaf",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-managed-prometheus-kafka/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-12-aws-amazon-ec2-f2-instances-are-now-generally-availabl",
-      "date": "2025-11-12",
-      "name": "Amazon EC2 F2 instances are now generally available in four additional AWS regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, the FPGA-powered Amazon EC2 F2 instances are now available in the Europe (Frankfurt), Asia Pacific (Tokyo), Asia Pacific (Seoul), and Canada (Central) regions. F2 instances are the second generation of",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-f2-instances-four-additional-aws-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-11-langchain-langgraph-join-langchain-at-aws-re-invent-2025",
-      "date": "2025-11-11",
-      "name": "Join LangChain at AWS re:Invent 2025",
-      "vendor": "LangChain/LangGraph",
-      "type": "launch",
-      "summary": "<p>If you&apos;re attending AWS re:Invent in Las Vegas this year and working on agent development, here&apos;s what we have planned that might be useful.</p><h2 id=\"visit-us-at-booth-524\">Visit Us at Booth #524</h2><p>We",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/join-langchain-at-aws-re-invent-2025/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2025-11-11-aws-aws-parallel-computing-service-pcs-now-supports-sl",
-      "date": "2025-11-11",
-      "name": "AWS Parallel Computing Service (PCS) now supports Slurm CLI Filter plugins",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS Parallel Computing Service (PCS) now supports Slurm CLI Filter plugins, enabling you to extend and modify how Slurm schedules and processes your high performance computing (HPC) workloads without modifying Slurm d",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-pcs-slurm-cli-filter-plugins"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-11-aws-amazon-cloudwatch-composite-alarms-adds-threshold-",
-      "date": "2025-11-11",
-      "name": "Amazon CloudWatch Composite Alarms adds threshold-based alerting",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon CloudWatch now enables you to create more flexible alerting policies by triggering notifications when a specific subset of your monitored resources need attention. Using CloudWatch composite alarms, you can cre",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-composite-alarms-threshold-based/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-11-aws-amazon-u7i-instances-now-available-in-europe-stock",
-      "date": "2025-11-11",
-      "name": "Amazon U7i instances now available in Europe (Stockholm and Ireland) Regions",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Starting today, Amazon EC2 High Memory U7i instances with 6TB of memory (u7i-6tb.112xlarge) are now available in the Europe (Stockholm and Ireland) region. U7i-6tb instances are part of AWS 7th generation and are powe",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-u7i-instances-additional-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-11-aws-amazon-ec2-c6id-and-r6id-instances-are-now-availab",
-      "date": "2025-11-11",
-      "name": "Amazon EC2 C6id and R6id instances are now available in additional regions",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon EC2 C6id instances are available in AWS Region Europe (Milan) and R6id instances are available in AWS Region Africa (Cape Town). These instances are powered by 3rd generation Intel Xeon Scalable Ice Lake proces",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-c6id-r6id-instances-additional-regions"
         }
       ],
       "impact": 5,
