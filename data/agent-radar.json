@@ -19,6 +19,528 @@
       "tags": []
     },
     {
+      "id": "2025-11-20-openai-helping-1-000-small-businesses-build-with-ai",
+      "date": "2025-11-20",
+      "name": "Helping 1,000 small businesses build with AI",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "OpenAI is partnering with DoorDash, SCORE, and local organizations to help 1,000 small businesses build with AI. The Small Business AI Jam gives Main Street business owners hands-on tools and training to compete and grow",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/small-business-ai-jam"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-20-aws-amazon-connect-now-offers-persistent-agent-connect",
+      "date": "2025-11-20",
+      "name": "Amazon Connect now offers persistent agent connections for faster call handling",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Connect now offers the ability to maintain an open communication channel between your agents and Amazon Connect, helping reduce the time it takes to establish a connection with a customer. Contact center admini",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-persistent-agent-connections"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-20-aws-validate-and-enforce-required-tags-in-cloudformati",
+      "date": "2025-11-20",
+      "name": "Validate and enforce required tags in CloudFormation, Terraform and Pulumi with Tag Policies",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Organizations Tag Policies announces Reporting for Required Tags, a new validation check that proactively ensures your CloudFormation, Terraform, and Pulumi deployments include the required tags critical to your b",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/validate-enforce-required-tags-cloudformation-terraform-pulumi/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-20-aws-amazon-rds-supports-multi-az-for-sql-server-web-ed",
+      "date": "2025-11-20",
+      "name": "Amazon RDS supports Multi-AZ for SQL Server Web Edition",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for SQL Server</a> now supports Multi-AZ deployment for SQL Server Web Edition. SQL Server Web Edition is",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-rds-sql-server-multi-az-web-edition/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-20-aws-amazon-opensearch-serverless-adds-aws-privatelink-",
+      "date": "2025-11-20",
+      "name": "Amazon OpenSearch Serverless adds AWS PrivateLink for management console",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon OpenSearch Serverless now supports AWS PrivateLink for secure and private connectivity to management console. With AWS PrivateLink, you can establish a private connection between your virtual private cloud (VPC",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-opensearch-serverless-privatelink-mgmt"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-20-aws-recycle-bin-adds-support-for-amazon-ebs-volumes",
+      "date": "2025-11-20",
+      "name": "Recycle Bin adds support for Amazon EBS Volumes",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Recycle Bin for Amazon EBS, which helps you recover accidentally deleted snapshots and EBS-backed AMIs, now supports EBS Volumes. If you accidentally delete a volume, you can now recover it directly from Recycle Bin i",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/recycle-bin-support-amazon-ebs-volumes"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-20-aws-aws-cloud-wan-adds-routing-policy-for-advanced-tra",
+      "date": "2025-11-20",
+      "name": "AWS Cloud WAN adds Routing Policy for advanced traffic control and flexible network deployments",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS announces the general availability of Cloud WAN Routing Policy providing customers fine-grained controls to optimize route management, control traffic patterns, and customize network behavior across their global w",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-cloud-wan-routing-policy/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-20-aws-aws-glue-supports-additional-sap-entities-as-zero-",
+      "date": "2025-11-20",
+      "name": "AWS Glue supports additional SAP entities as zero-ETL integration sources",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Glue now supports full snapshot and incremental load ingestion for new SAP entities using zero-ETL integrations. This enhancement introduces full snapshot data ingestion for SAP entities that lack complete change ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-glue-additional-sap-entities-zero-etl-integration-sources"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-20-aws-amazon-msk-serverless-expands-availability-to-sout",
+      "date": "2025-11-20",
+      "name": "Amazon MSK Serverless expands availability to South America (São Paulo) region",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>You can now connect your Apache Kafka applications to <a href=\"https://aws.amazon.com/msk/features/msk-serverless/\" target=\"_blank\">Amazon MSK Serverless</a> in the South America (São Paulo) <a href=\"https://aws.amazo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-msk-serverless-south-america-sao-paulo-region"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-20-aws-aws-application-load-balancer-launches-target-opti",
+      "date": "2025-11-20",
+      "name": "AWS Application Load Balancer launches Target Optimizer",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Application Load Balancer (ALB) now offers Target Optimizer, a new feature that allows you to enforce a maximum number of concurrent requests on a target.<br /> <br /> With Target Optimizer, you can fine-tune your app",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-application-load-balancer-target-optimizer"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-20-aws-amazon-ec2-mac-instances-now-support-apple-macos-t",
+      "date": "2025-11-20",
+      "name": "Amazon EC2 Mac instances now support Apple macOS Tahoe",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, customers can run Apple macOS Tahoe (version 26) as Amazon Machine Images (AMIs) on Amazon EC2 Mac instances. Apple macOS Tahoe is the latest major macOS version, and introduces multiple new features a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-mac-instances-apple-macos-tahoe"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-20-aws-amazon-mq-now-supports-rabbitmq-version-4-2",
+      "date": "2025-11-20",
+      "name": "Amazon MQ now supports RabbitMQ version 4.2",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon MQ now supports RabbitMQ version 4.2 which introduces native support for the AMQP 1.0 protocol, a new Raft based metadata store named Khepri, local shovels, and message priorities for quorum queues. RabbitMQ 4.",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-mq-rabbitmq-42/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-20-aws-amazon-kinesis-data-streams-now-supports-up-to-50-",
+      "date": "2025-11-20",
+      "name": "Amazon Kinesis Data Streams now supports up to 50 enhanced fan-out consumers",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Kinesis Data Streams now supports 50 enhanced fan-out consumers for On-demand Advantage streams. A higher fan-out limit lets customers attach many more independent, low-latency, high-throughput consumers to the",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-kinesis-data-streams-enhanced-fan-out-consumers"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-20-aws-amazon-ec2-high-memory-u7i-instances-now-available",
+      "date": "2025-11-20",
+      "name": "Amazon EC2 High Memory U7i instances now available in additional regions",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon EC2 High Memory U7i instances with 16TB of memory (u7in-16tb.224xlarge) are now available in the AWS Europe (Ireland) region, U7i instances with 12TB of memory (u7i-12tb.224xlarge) are now available in the AWS ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-high-memory-u7i-additional-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-20-aws-amazon-braket-adds-new-quantum-processor-from-alpi",
+      "date": "2025-11-20",
+      "name": "Amazon Braket adds new quantum processor from Alpine Quantum Technologies (AQT)",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Braket now offers access to IBEX Q1, a trapped-ion quantum processing unit (QPU) from Alpine Quantum Technologies (AQT), a new quantum hardware provider on Amazon Braket. IBEX Q1 is a 12-qubit system with all-t",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-braket-alpine-quantum-technologies"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-20-aws-amazon-sagemaker-unified-studio-now-supports-long-",
+      "date": "2025-11-20",
+      "name": "Amazon SageMaker Unified Studio now supports long-running sessions with corporate identities",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker Unified Studio now supports long-running sessions with corporate identities through AWS IAM Identity Center's trusted identity propagation (TIP) capability. This feature enables data scientists, data ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-studio-long-running-sessions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-20-aws-amazon-redshift-serverless-now-offers-4-rpu-minimu",
+      "date": "2025-11-20",
+      "name": "Amazon Redshift Serverless now offers 4-RPU Minimum Capacity across more aws regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Redshift now allows you to get started with Amazon Redshift Serverless with a lower data warehouse <a href=\"https://docs.aws.amazon.com/redshift/latest/mgmt/serverless-capacity.html\">base capacity configuration",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-redshift-serverless-4-rpu-minimum-capacity/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-20-aws-amazon-cloudwatch-application-map-now-supports-un-",
+      "date": "2025-11-20",
+      "name": "Amazon CloudWatch application map now supports un-instrumented services discovery",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Application map in Amazon CloudWatch now supports un-instrumented services discovery, cross-account views, and change history, helping SRE and DevOps teams monitor and troubleshoot their large-scale distributed applic",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-application-map-un-instrumented-discovery/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-20-aws-amazon-ec2-r8i-and-r8i-flex-instances-are-now-avai",
+      "date": "2025-11-20",
+      "name": "Amazon EC2 R8i and R8i-flex instances are now available in additional AWS regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8i and R8i-flex instances are available in the Asia Pacific (Sydney), Canada (Central) and US West (N. California) regions. These instances are powered by cus",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/ec2-r8i-r8i-flex-instances-additional-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-20-aws-aws-site-to-site-vpn-is-collaborating-with-eero-to",
+      "date": "2025-11-20",
+      "name": "AWS Site-to-Site VPN is collaborating with eero to simplify remote connectivity",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Site-to-Site VPN is collaborating with eero to simplify how customers connect their remote sites to AWS. This collaboration will help customers to establish secure connectivity between their remote sites and AWS i",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/site-to-site-vpn-eero-simplify-remote-connectivity/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-20-aws-aws-site-to-site-vpn-now-supports-bgp-logging-for-",
+      "date": "2025-11-20",
+      "name": "AWS Site-to-Site VPN now supports BGP logging for VPN tunnels",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Site-to-Site VPN now allows customers to publish Border Gateway Protocol (BGP) logs from VPN tunnels to AWS CloudWatch, providing enhanced visibility into VPN configurations and simplifying troubleshooting of conn",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/site-to-site-vpn-bgp-logging-vpn-tunnels/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-20-aws-amazon-quick-sight-expands-dashboard-theme-customi",
+      "date": "2025-11-20",
+      "name": "Amazon Quick Sight expands Dashboard Theme Customization",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/quicksight/\" style=\"cursor: pointer;\">Amazon Quick Sight</a> now supports comprehensive theming capabilities that enable organizations to maintain consistent brand identity across their",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-quick-sight-expands-dashboard-theme-customization"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-20-aws-amazon-sagemaker-unified-studio-adds-emr-on-eks-su",
+      "date": "2025-11-20",
+      "name": "Amazon SageMaker Unified Studio adds EMR on EKS support with SSO capabilities",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker Unified Studio announces support for EMR on EKS as a compute resource for interactive Apache Spark sessions. This launch enables EMR on EKS capabilities such as large-scale distributed compute with au",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-emr-eks-sso/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-20-aws-aws-cloudtrail-launches-insights-for-data-events-t",
+      "date": "2025-11-20",
+      "name": "AWS CloudTrail launches Insights for data events to automatically detect anomalies in data access",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS extends <a contenteditable=\"false\" href=\"https://docs.aws.amazon.com/awscloudtrail/latest/userguide/logging-insights-events-with-cloudtrail.html\" style=\"cursor: pointer;\">AWS CloudTrail Insights</a> to data",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/cloudtrail-insights-data-events-detect-anomalies-access/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-20-aws-amazon-ec2-c7i-instances-are-now-available-in-the-",
+      "date": "2025-11-20",
+      "name": "Amazon EC2 C7i instances are now available in the Asia Pacific (Melbourne) Region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C7i instances powered by custom 4th Gen Intel Xeon Scalable processors (code-named Sapphire Rapids) are available in the Asia Pacific (Melbourne) Region. C7i i",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-c7i-instances-asia-pacific-melbourne-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-20-aws-amazon-ec2-introduces-ami-ancestry-for-complete-am",
+      "date": "2025-11-20",
+      "name": "Amazon EC2 introduces AMI ancestry for complete AMI lineage visibility",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon EC2 now provides Amazon Machine Image (AMI) ancestry that enables you to trace the complete lineage of any AMI, from its immediate parent through each preceding generation back to the root AMI. This capability ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/ec2-ami-ancestry-complete-ami-lineage-visibility/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-20-aws-ec2-auto-scaling-introduces-instance-lifecycle-pol",
+      "date": "2025-11-20",
+      "name": "EC2 Auto Scaling introduces instance lifecycle policy",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, EC2 Auto Scaling announces a new feature called instance lifecycle policy. Customers can now configure a way to retain their instances when their termination lifecycle hooks fail or timeout, providing greater c",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/ec2-auto-scaling-instance-lifecycle-policy/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-20-aws-amazon-ec2-auto-scaling-now-supports-root-volume-r",
+      "date": "2025-11-20",
+      "name": "Amazon EC2 Auto Scaling now supports root volume replacement through instance refresh",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, Amazon EC2 Auto Scaling announced a new strategy, ReplaceRootVolume, within instance refresh. This feature allows customers to update the root volume of an EC2 instance without stopping or terminating the insta",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-auto-scaling-root-volume-replacement/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-20-aws-amazon-s3-now-supports-attribute-based-access-cont",
+      "date": "2025-11-20",
+      "name": "Amazon S3 now supports attribute-based access control",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon S3 supports attribute-based access control (ABAC) for S3 general purpose buckets. In addition to using tags on your S3 buckets for cost allocation, you can now use them for ABAC to automatically manage permissi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-s3-attribute-based-access-control/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-11-19-openai-gpt-5-1-codex-max-system-card",
       "date": "2025-11-19",
       "name": "GPT-5.1-Codex-Max System Card",
@@ -551,528 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-m7i-instances-europe-zurich-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-19-aws-amazon-api-gateway-now-supports-additional-tls-sec",
-      "date": "2025-11-19",
-      "name": "Amazon API Gateway now supports additional TLS security policies for REST APIs",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon API Gateway now supports enhanced TLS security policies on API endpoints and custom domain names, providing you with greater control over the security posture of your APIs. These new policies help you meet evol",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-api-gateway-tls-security-rest-apis/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-19-aws-amazon-api-gateway-now-supports-response-streaming",
-      "date": "2025-11-19",
-      "name": "Amazon API Gateway now supports response streaming for REST APIs",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon API Gateway now progressively streams response payloads to clients as they become available. This improves REST API responsiveness by eliminating the need to buffer complete responses before transmission. This ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/api-gateway-response-streaming-rest-apis/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-19-aws-amazon-api-gateway-adds-developer-portal-capabilit",
-      "date": "2025-11-19",
-      "name": "Amazon API Gateway adds Developer Portal capabilities",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon API Gateway launches Portals that now enable businesses to create fully managed, AWS native developer portals that serve as the central hub for AWS assets such as REST APIs for discovery, documentation, governa",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/api-gateway-developer-portal-capabilities/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-19-aws-amazon-opensearch-service-launches-cluster-insight",
-      "date": "2025-11-19",
-      "name": "Amazon OpenSearch Service launches Cluster Insights for improved operational visibility",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon OpenSearch Service now includes Cluster Insights, a monitoring solution that provides comprehensive operational visibility of your clusters through a single dashboard. This eliminates the complexity of having t",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-opensearch-service-cluster-insights/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-19-aws-aws-organizations-introduces-direct-account-transf",
-      "date": "2025-11-19",
-      "name": "AWS Organizations introduces direct account transfers between organizations",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Organizations now provides customers the ability to directly transfer an account to a different organization without first having to remove the account from their current organization. This new capability streamli",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-organizations-direct-account-transfers/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-19-aws-aws-announces-elemental-mediaconnect-router",
-      "date": "2025-11-19",
-      "name": "AWS Announces Elemental MediaConnect Router",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the general availability of AWS Elemental MediaConnect Router, a new capability that enables broadcasters and content providers to dynamically route live video between sources and destinations in ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/elemental-mediaconnect-router/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-19-aws-aws-marketplace-adds-a2a-server-support-for-amazon",
-      "date": "2025-11-19",
-      "name": "AWS Marketplace adds A2A server support for Amazon Bedrock AgentCore Runtime",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Marketplace now offers Agent-to-Agent (A2A) server support and streamlined deployment for third-party AI agents and tools built for <a href=\"https://aws.amazon.com/bedrock/agentcore/\">Amazon Bedrock AgentCore</a> ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/marketplace-a2a-server-bedrock-agentcore-runtime/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-19-aws-aws-directory-service-now-supports-aws-privatelink",
-      "date": "2025-11-19",
-      "name": "AWS Directory Service now supports AWS PrivateLink for private VPC connectivity",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a contenteditable=\"false\" href=\"https://aws.amazon.com/directoryservice/\" style=\"cursor: pointer;\">AWS Directory Service</a> now supports <a contenteditable=\"false\" href=\"https://aws.amazon.com/privatelink/\" style=\"c",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-directory-service-privatelink-vpc-connectivity/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-19-aws-aws-cloudtrail-adds-data-event-aggregation-to-simp",
-      "date": "2025-11-19",
-      "name": "AWS CloudTrail adds data event aggregation to simplify security monitoring",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS announces CloudTrail aggregated events, a new feature that simplifies how enterprises monitor and analyze their CloudTrail data events at scale. Aggregations are available for CloudTrail data events, which could g",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/cloudtrail-data-event-aggregation-security-monitoring/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-19-aws-aws-data-exports-for-focus-1-2-is-now-generally-av",
-      "date": "2025-11-19",
-      "name": "AWS Data Exports for FOCUS 1.2 is now generally available",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the general availability of AWS Data Exports for FOCUS 1.2. FOCUS 1.2 is an open cloud cost and usage specification that provides standardization to simplify Cloud Financial Management across mult",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-data-exports-focus-1-2-available/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-19-aws-aws-cost-anomaly-detection-expands-aws-managed-mon",
-      "date": "2025-11-19",
-      "name": "AWS Cost Anomaly Detection expands AWS managed monitoring",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Cost Anomaly Detection now enables you to monitor all linked accounts, cost allocation tags, or cost categories with a single managed monitor. Previously available only for AWS services, this capability helps you ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-cost-anomaly-detection-managed-monitoring/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-19-aws-amazon-fsx-for-windows-file-server-now-supports-fi",
-      "date": "2025-11-19",
-      "name": "Amazon FSx for Windows File Server now supports File Server Resource Manager",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon FSx for Windows File Server, a fully-managed service that provides file storage built on Windows Server, now supports File Server Resource Manager (FSRM), a Windows Server feature that provides powerful capabil",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-fsx-windows-file-server-resource-manager/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-19-aws-aws-network-load-balancer-simplifies-deployments-w",
-      "date": "2025-11-19",
-      "name": "AWS Network Load Balancer simplifies deployments with support for  Weighted Target Groups",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Network Load Balancer now supports weighted target groups, allowing you to distribute traffic across multiple target groups with configurable weights for advanced deployment strategies.<br /> <br /> Weighted target gr",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/network-load-balancer-weighted-target-groups/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-19-aws-amazon-guardduty-malware-protection-for-aws-backup",
-      "date": "2025-11-19",
-      "name": "Amazon GuardDuty Malware Protection for AWS Backup is now available",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon GuardDuty Malware Protection for AWS Backup is now available, extending malware detection to your Amazon EC2, Amazon EBS, and Amazon S3 backups. This capability automates malware detection in your backups witho",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-guardduty-malware-protection-backup/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-19-aws-amazon-bedrock-custom-model-import-now-supports-op",
-      "date": "2025-11-19",
-      "name": "Amazon Bedrock Custom Model Import now supports OpenAI GPT OSS models",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p><a contenteditable=\"false\" href=\"https://aws.amazon.com/bedrock/custom-model-import/\" style=\"cursor: pointer;\">Amazon Bedrock Custom Model Import</a> now supports Open AI GPT OSS models. You can import custom weights ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/bedrock-model-import-openai-gpt-oss-models/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-19-aws-amazon-connect-now-supports-enhanced-instance-to-i",
-      "date": "2025-11-19",
-      "name": "Amazon Connect now supports enhanced Instance-to-Instance communication",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Connect now routes calls between instances within the same account through the AWS global backbone, without relying on the Public Switched Telephony Network (PSTN) when both numbers are provisioned or ported in",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-instance-to-instance-communication/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-19-aws-aws-iam-launches-aws-sourcevpcarn-condition-key-fo",
-      "date": "2025-11-19",
-      "name": "AWS IAM launches aws:SourceVpcArn condition key for region-based access control",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Identity and Access Management (IAM) now supports a new global condition key, aws:SourceVpcArn, that enables customers to enforce region-based access controls for resources accessed through <a href=\"https://docs.a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-sourcevpcarn-condition-key-region-control/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-18-openai-new-tasks-creation-error-for-codex-web",
-      "date": "2025-11-18",
-      "name": "New Tasks Creation Error for Codex Web",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Deep Research (Operational)</li>\n<li>Codex (Operational)</li>\n        ",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KACCE2MY2Z917Q4J9ZKXZ9F1"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-18-aws-amazon-ec2-p6-b300-instances-with-nvidia-blackwell",
-      "date": "2025-11-18",
-      "name": "Amazon EC2 P6-B300 instances with NVIDIA Blackwell Ultra GPUs are now available",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the general availability of Amazon Elastic Compute Cloud (Amazon EC2) P6-B300 instances, accelerated by NVIDIA Blackwell Ultra B300 GPUs. Amazon&nbsp;EC2 P6-B300 instances provide 8x NVIDIA Blackw",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-p6-b300-instances-nvidia-blackwell-ultra-gpus-available"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-18-aws-amazon-opensearch-serverless-now-adds-audit-logs-f",
-      "date": "2025-11-18",
-      "name": "Amazon OpenSearch Serverless now adds audit logs for data plane APIs",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon OpenSearch Serverless now supports detailed audit logging of data plane requests via AWS CloudTrail. This feature enables customers to record user actions on their collections, helping meet compliance regulatio",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-opensearch-serverless-auditlogs-dataplane-apis"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-18-aws-ec2-auto-scaling-now-offers-a-synchronous-api-to-l",
-      "date": "2025-11-18",
-      "name": "EC2 Auto Scaling now offers a synchronous API to launch instances inside an Auto Scaling group",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, EC2 Auto Scaling is launching a new API, LaunchInstances, which gives customers more control and flexibility over how EC2 Auto Scaling provisions instances while providing instant feedback on capacity availabil",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/ec2-auto-scaling-synchronous-api-launch-instances/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-18-aws-amazon-bedrock-introduces-priority-and-flex-infere",
-      "date": "2025-11-18",
-      "name": "Amazon Bedrock introduces Priority and Flex inference service tiers",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, Amazon Bedrock introduces two new inference service&nbsp;tiers to optimize costs and performance for different AI workloads. The new <b>Flex</b> tier offers cost-effective pricing&nbsp;for non-time-critical app",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-bedrock-priority-flex-inference-service-tiers"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-18-aws-amazon-polly-expands-generative-tts-engine-with-ad",
-      "date": "2025-11-18",
-      "name": "Amazon Polly expands Generative TTS engine with additional languages and region support",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, we are excited to announce the general availability of five highly expressive Amazon Polly Generative voices in Austrian German (Hannah), Irish English (Niamh), Brazilian Portuguese (Camila), Belgian Dutch (Lis",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-polly-generative-tts-engine"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-18-aws-amazon-ec2-i7ie-instances-now-available-in-aws-asi",
-      "date": "2025-11-18",
-      "name": "Amazon EC2 I7ie instances now available in AWS Asia Pacific (Singapore) Region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Web Services (AWS) is announcing starting today, Amazon EC2 I7ie instances are now available in Asia Pacific (Singapore) region. Designed for large storage I/O intensive workloads, I7ie instances are powered by",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-i7ie-instances-aws-asia-pacific-singapore-region"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-18-aws-amazon-rds-optimized-reads-now-supports-r8gd-and-m",
-      "date": "2025-11-18",
-      "name": "Amazon RDS Optimized Reads now supports R8gd and M8gd database instances",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Relational Database Service (RDS) now supports R8gd and M8gd database instances for Optimized Reads on Amazon Aurora PostgreSQL and RDS for PostgreSQL, MySQL, and MariaDB. R8gd and M8gd database instances offer",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-rds-optimized-reads-r8gd-m8gd-database-instances"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-18-aws-active-threat-defense-now-enabled-by-default-in-aw",
-      "date": "2025-11-18",
-      "name": "Active threat defense now enabled by default in AWS Network Firewall",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, AWS Network Firewall enables active threat defense by default in alert mode when you create new firewall policies in the AWS Management Console. Active threat defense provides automated, intelligence-d",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/active-threat-defense-default-network-firewall/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-18-aws-workshops-now-available-in-aws-builder-center",
-      "date": "2025-11-18",
-      "name": "Workshops now available in AWS Builder Center",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Builder Center now provides access to the catalog of AWS Workshops, offering step-by-step instructions crafted by AWS experts that explain how to deploy and use AWS services effectively. These workshops cover a wi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/workshops-available-aws-builder-center/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-18-aws-aws-announces-flat-rate-pricing-plans-for-website-",
-      "date": "2025-11-18",
-      "name": "AWS announces flat-rate pricing plans for website delivery and security",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Web Services (AWS) is launching flat-rate pricing plans with no overages for website delivery and security. The flat-rate plans, available with Amazon CloudFront, combine global content delivery with AWS WAF, D",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-flat-rate-pricing-plans"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-18-aws-amazon-redshift-now-supports-just-in-time-jit-anal",
-      "date": "2025-11-18",
-      "name": "Amazon Redshift now supports Just-In-Time (JIT) ANALYZE for Apache Iceberg tables",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a contenteditable=\"false\" href=\"https://aws.amazon.com/redshift/\" style=\"cursor: pointer;\">Amazon Redshift</a> today announces the general availability of Just-In-Time (JIT) ANALYZE capability for Apache Iceberg tabl",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-redshift-jit-analyze-apache-iceberg-tables/"
         }
       ],
       "impact": 5,
