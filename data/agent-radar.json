@@ -883,6 +883,78 @@
       "tags": []
     },
     {
+      "id": "2025-11-21-aws-amazon-athena-for-apache-spark-is-now-available-in",
+      "date": "2025-11-21",
+      "name": "Amazon Athena for Apache Spark is now available in Amazon SageMaker notebooks",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker now supports Amazon Athena for Apache Spark, bringing a new notebook experience and fast serverless Spark experience together within a unified workspace. Now, data engineers, analysts, and data scient",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-athena-apache-spark-sagemaker-notebooks/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-21-aws-introducing-one-click-onboarding-of-existing-datas",
+      "date": "2025-11-21",
+      "name": "Introducing one-click onboarding of existing datasets to Amazon SageMaker",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker introduces one-click onboarding of existing AWS datasets to Amazon SageMaker Unified Studio. This helps AWS customers to start working with their data in minutes, using their existing AWS Identity and",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-one-click-onboarding-existing-datasets"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-21-aws-introducing-amazon-sagemaker-data-agent-for-analyt",
+      "date": "2025-11-21",
+      "name": "Introducing Amazon SageMaker Data Agent for analytics and AI/ML development",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker introduces a built-in AI agent that accelerates the development of data analytics and machine learning (ML) applications. SageMaker Data Agent is available in the new notebook experience in Amazon Sag",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-data-agent-analytics-ai-ml-development"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-21-aws-announcing-notebooks-with-a-built-in-ai-agent-in-a",
+      "date": "2025-11-21",
+      "name": "Announcing notebooks with a built-in AI agent in Amazon SageMaker",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker introduces a new notebook experience that provides data and AI teams a high-performance, serverless programming environment for analytics and machine learning (ML) jobs. This helps customers quickly g",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/notebooks-built-in-ai-agent-amazon-sagemaker/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-11-20-langchain-langgraph-how-jimdo-empower-solopreneurs-with-ai-powered-bus",
       "date": "2025-11-20",
       "name": "How Jimdo empower solopreneurs with AI-powered business assistance",
@@ -1001,78 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/recycle-bin-support-amazon-ebs-volumes"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-20-aws-aws-cloud-wan-adds-routing-policy-for-advanced-tra",
-      "date": "2025-11-20",
-      "name": "AWS Cloud WAN adds Routing Policy for advanced traffic control and flexible network deployments",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS announces the general availability of Cloud WAN Routing Policy providing customers fine-grained controls to optimize route management, control traffic patterns, and customize network behavior across their global w",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-cloud-wan-routing-policy/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-20-aws-aws-glue-supports-additional-sap-entities-as-zero-",
-      "date": "2025-11-20",
-      "name": "AWS Glue supports additional SAP entities as zero-ETL integration sources",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Glue now supports full snapshot and incremental load ingestion for new SAP entities using zero-ETL integrations. This enhancement introduces full snapshot data ingestion for SAP entities that lack complete change ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-glue-additional-sap-entities-zero-etl-integration-sources"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-20-aws-amazon-msk-serverless-expands-availability-to-sout",
-      "date": "2025-11-20",
-      "name": "Amazon MSK Serverless expands availability to South America (São Paulo) region",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>You can now connect your Apache Kafka applications to <a href=\"https://aws.amazon.com/msk/features/msk-serverless/\" target=\"_blank\">Amazon MSK Serverless</a> in the South America (São Paulo) <a href=\"https://aws.amazo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-msk-serverless-south-america-sao-paulo-region"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-20-aws-aws-application-load-balancer-launches-target-opti",
-      "date": "2025-11-20",
-      "name": "AWS Application Load Balancer launches Target Optimizer",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Application Load Balancer (ALB) now offers Target Optimizer, a new feature that allows you to enforce a maximum number of concurrent requests on a target.<br /> <br /> With Target Optimizer, you can fine-tune your app",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-application-load-balancer-target-optimizer"
         }
       ],
       "impact": 5,
