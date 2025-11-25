@@ -1,6 +1,276 @@
 {
   "items": [
     {
+      "id": "2025-11-24-aws-opensearch-service-enhances-log-analytics-with-new",
+      "date": "2025-11-24",
+      "name": "OpenSearch Service Enhances Log Analytics with New PPL Experience",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces enhanced log analytics capabilities in Amazon OpenSearch Service, making Piped Processing Language (PPL) and natural language the default experience in OpenSearch UI's Observability workspace. Thi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/opensearch-service-log-analytics-ppl/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-24-aws-amazon-cloudfront-announces-support-for-mutual-tls",
+      "date": "2025-11-24",
+      "name": "Amazon CloudFront announces support for mutual TLS authentication",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon CloudFront announces support for mutual TLS Authentication (mTLS), a security protocol that requires both the server and client to authenticate each other using X.509 certificates, enabling customers to validat",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudfront-mutual-tls-authentication/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-24-aws-amazon-ec2-announces-interruptible-capacity-reserv",
+      "date": "2025-11-24",
+      "name": "Amazon EC2 announces interruptible Capacity Reservations",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, Amazon EC2 announces interruptible Capacity Reservations to help you better utilize your reserved capacity and save costs. On-Demand Capacity Reservations (ODCRs) help you reserve compute capacity in a specific",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-interruptible-capacity-reservations"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-24-aws-aws-iot-core-now-supports-iot-thing-registry-data-",
+      "date": "2025-11-24",
+      "name": "AWS IoT Core now supports IoT thing registry data retrieval from IoT rules",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS IoT Core announces a new capability to dynamically retrieve IoT thing registry data using an IoT rule, enhancing your ability to filter, enrich, and route IoT messages. Using the new<a href=\"https://docs.aws.amazo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-iot-core-thing-registry-data-retrieval/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-24-aws-amazon-redshift-now-supports-federated-permissions",
+      "date": "2025-11-24",
+      "name": "Amazon Redshift now supports federated permissions across multi-warehouse architectures",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Redshift now supports federated permissions across multi-warehouse architectures<br /> <br /> Amazon Redshift now supports federated permissions, which simplify permissions management across multiple Redshift d",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-redshift-federated-permissions-multi-warehouse-architectures"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-24-aws-amazon-u7i-instances-now-available-in-asia-pacific",
+      "date": "2025-11-24",
+      "name": "Amazon U7i instances now available in Asia Pacific (Jakarta) Region",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Starting today, Amazon EC2 High Memory U7i instances with 6TB of memory (u7i-6tb.112xlarge) are now available in the Asia Pacific (Jakarta) region. U7i-6tb instances are part of AWS 7th generation and are powered by c",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-u7i-instances-asia-pacific-jakarta-region"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-24-aws-aws-glue-announces-catalog-federation-for-remote-a",
+      "date": "2025-11-24",
+      "name": "AWS Glue announces catalog federation for remote Apache Iceberg catalogs",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Glue announces the general availability of catalog federation for remote Iceberg catalogs. This capability provides direct and secure access to Iceberg tables stored in Amazon S3 and cataloged in remote catalogs u",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-glue-catalog-federation-remote-apache-iceberg-catalogs"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-24-aws-amazon-msk-replicator-is-now-available-in-five-add",
+      "date": "2025-11-24",
+      "name": "Amazon MSK Replicator is now available in five additional AWS Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>You can now use Amazon MSK Replicator to replicate streaming data across Amazon Managed Streaming for Apache Kafka (<a href=\"https://aws.amazon.com/msk/\" target=\"_blank\">Amazon MSK</a>) clusters in five additional AWS",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-msk-replicator-additional-aws-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-24-aws-aws-lambda-announces-enhanced-error-handling-capab",
+      "date": "2025-11-24",
+      "name": "AWS Lambda announces enhanced error handling capabilities for Kafka event processing",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Lambda launches enhanced error handling capabilities for Amazon Managed Streaming for Apache Kafka (MSK) and self-managed Apache Kafka (SMK) event sources. These capabilities allow customers to build custom retry ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-lambda-enhanced-error-handling-capabilities-kafka-event-processing"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-24-aws-claude-opus-4-5-now-available-in-amazon-bedrock",
+      "date": "2025-11-24",
+      "name": "Claude Opus 4.5 now available in Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Customers can now use Claude Opus 4.5 in Amazon Bedrock, a fully managed service that offers a choice of high-performing foundation models from leading AI companies. Opus 4.5 is Anthropic's newest model, setting new s",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/claude-opus-4-5-amazon-bedrock"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-24-aws-amazon-quick-suite-embedded-chat-is-now-available",
+      "date": "2025-11-24",
+      "name": "Amazon Quick Suite Embedded Chat is now available",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS announces the general availability of <a href=\"https://aws.amazon.com/quicksuite/\" target=\"_blank\">Amazon Quick Suite</a> Embedded Chat, enabling you to embed Quick Suite's conversational AI, which combines",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-quick-suite-embedded-chat"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-24-aws-amazon-opensearch-service-now-supports-opensearch-",
+      "date": "2025-11-24",
+      "name": "Amazon OpenSearch Service now supports OpenSearch version 3.3",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>You can now run OpenSearch version 3.3 in Amazon OpenSearch Service. OpenSearch 3.3 introduces several improvements in areas like search performance, observability and new functionality to make agentic AI integrations",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-opensearch-service-opensearch-version-3-3/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-24-aws-amazon-sagemaker-hyperpod-now-supports-nvidia-mult",
+      "date": "2025-11-24",
+      "name": "Amazon SageMaker HyperPod now supports NVIDIA Multi-Instance GPU (MIG) for generative AI tasks",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker HyperPod now supports NVIDIA Multi-Instance GPU (MIG) technology, enabling administrators to partition a single GPU into multiple isolated GPUs. This capability allows administrators to maximize resou",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/sagemaker-hyperpod-nvidia-multi-instance-gpu/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-24-aws-amazon-cloudfront-integrates-with-vpc-ipam-to-supp",
+      "date": "2025-11-24",
+      "name": "Amazon CloudFront integrates with VPC IPAM to support BYOIP",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon CloudFront now supports bringing your own IP addresses (BYOIP) for Anycast Static IPs via VPC IP Address Manager (IPAM). This capability enables network administrators to use their own public IPv4 address pools",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/vpc-ipam-cloudfront-byoip"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-24-aws-amazon-sagemaker-hyperpod-now-supports-spot-instan",
+      "date": "2025-11-24",
+      "name": "Amazon SageMaker HyperPod now supports Spot Instances",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker HyperPod now supports Spot Instances, enabling customers to reduce GPU compute costs by up to 90% compared to on-demand instances on HyperPod . As AI workloads scale, optimizing infrastructure costs b",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-hyperpod-spot-instances"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-11-21-aws-amazon-emr-serverless-now-supports-apache-spark-4-",
       "date": "2025-11-21",
       "name": "Amazon EMR Serverless now supports Apache Spark 4.0.1 (preview)",
@@ -803,276 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/cloudwatch-container-insights-neuron-ultraservers-eks/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-21-aws-aws-application-load-balancer-now-supports-health-",
-      "date": "2025-11-21",
-      "name": "AWS Application Load Balancer now supports Health Check Logs",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Application Load Balancers (ALB) now supports Health Check Logs that allows you to send detailed target health check log data directly to your designated Amazon S3 bucket. This optional feature captures comprehens",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/application-load-balancer-health-check-logs/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-21-aws-amazon-ecs-managed-instances-now-available-in-aws-",
-      "date": "2025-11-21",
-      "name": "Amazon ECS Managed Instances now available in AWS GovCloud (US) Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Elastic Container Service (Amazon ECS) Managed Instances is now available in the AWS GovCloud (US-East) and AWS GovCloud (US-West) Regions. ECS Managed Instances is a fully managed compute option designed to el",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/ecs-managed-instances-govcloud-us-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-21-aws-amazon-rds-for-oracle-is-now-available-with-oracle",
-      "date": "2025-11-21",
-      "name": "Amazon RDS for Oracle is now available with Oracle Database Standard Edition 2 (SE2) License Included instances in Asia Pacific (Taipei) region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/oracle/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for Oracle</a> now offers Oracle Database Standard Edition 2 (SE2) License Included R7i and M7i instances in",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-rds-oracle-se2-license-included-taipei-region"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-21-langchain-langgraph-how-agents-can-use-filesystems-for-context-enginee",
-      "date": "2025-11-21",
-      "name": "How agents can use filesystems for context engineering",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "<p>A key feature of <a href=\"https://blog.langchain.com/deep-agents/\">deep agents</a> is their access to a set of filesystem tools. Deep agents can use these tools to read, write, edit, list, and search for files in thei",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/how-agents-can-use-filesystems-for-context-engineering/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2025-11-21-aws-amazon-athena-for-apache-spark-is-now-available-in",
-      "date": "2025-11-21",
-      "name": "Amazon Athena for Apache Spark is now available in Amazon SageMaker notebooks",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker now supports Amazon Athena for Apache Spark, bringing a new notebook experience and fast serverless Spark experience together within a unified workspace. Now, data engineers, analysts, and data scient",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-athena-apache-spark-sagemaker-notebooks/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-21-aws-introducing-one-click-onboarding-of-existing-datas",
-      "date": "2025-11-21",
-      "name": "Introducing one-click onboarding of existing datasets to Amazon SageMaker",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker introduces one-click onboarding of existing AWS datasets to Amazon SageMaker Unified Studio. This helps AWS customers to start working with their data in minutes, using their existing AWS Identity and",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-one-click-onboarding-existing-datasets"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-21-aws-introducing-amazon-sagemaker-data-agent-for-analyt",
-      "date": "2025-11-21",
-      "name": "Introducing Amazon SageMaker Data Agent for analytics and AI/ML development",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker introduces a built-in AI agent that accelerates the development of data analytics and machine learning (ML) applications. SageMaker Data Agent is available in the new notebook experience in Amazon Sag",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-data-agent-analytics-ai-ml-development"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-21-aws-announcing-notebooks-with-a-built-in-ai-agent-in-a",
-      "date": "2025-11-21",
-      "name": "Announcing notebooks with a built-in AI agent in Amazon SageMaker",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker introduces a new notebook experience that provides data and AI teams a high-performance, serverless programming environment for analytics and machine learning (ML) jobs. This helps customers quickly g",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/notebooks-built-in-ai-agent-amazon-sagemaker/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-20-langchain-langgraph-how-jimdo-empower-solopreneurs-with-ai-powered-bus",
-      "date": "2025-11-20",
-      "name": "How Jimdo empower solopreneurs with AI-powered business assistance",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "See how Jimdo uses LangChain.js, LangGraph.js, and LangSmith to deliver personalized business insights that drive 50% more first customer contacts and 40% more overall customer activity.",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/customers-jimdo/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2025-11-20-openai-helping-1-000-small-businesses-build-with-ai",
-      "date": "2025-11-20",
-      "name": "Helping 1,000 small businesses build with AI",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "OpenAI is partnering with DoorDash, SCORE, and local organizations to help 1,000 small businesses build with AI. The Small Business AI Jam gives Main Street business owners hands-on tools and training to compete and grow",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/small-business-ai-jam"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-20-aws-amazon-connect-now-offers-persistent-agent-connect",
-      "date": "2025-11-20",
-      "name": "Amazon Connect now offers persistent agent connections for faster call handling",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Connect now offers the ability to maintain an open communication channel between your agents and Amazon Connect, helping reduce the time it takes to establish a connection with a customer. Contact center admini",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-persistent-agent-connections"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-20-aws-validate-and-enforce-required-tags-in-cloudformati",
-      "date": "2025-11-20",
-      "name": "Validate and enforce required tags in CloudFormation, Terraform and Pulumi with Tag Policies",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Organizations Tag Policies announces Reporting for Required Tags, a new validation check that proactively ensures your CloudFormation, Terraform, and Pulumi deployments include the required tags critical to your b",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/validate-enforce-required-tags-cloudformation-terraform-pulumi/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-20-aws-amazon-rds-supports-multi-az-for-sql-server-web-ed",
-      "date": "2025-11-20",
-      "name": "Amazon RDS supports Multi-AZ for SQL Server Web Edition",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for SQL Server</a> now supports Multi-AZ deployment for SQL Server Web Edition. SQL Server Web Edition is",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-rds-sql-server-multi-az-web-edition/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-20-aws-amazon-opensearch-serverless-adds-aws-privatelink-",
-      "date": "2025-11-20",
-      "name": "Amazon OpenSearch Serverless adds AWS PrivateLink for management console",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon OpenSearch Serverless now supports AWS PrivateLink for secure and private connectivity to management console. With AWS PrivateLink, you can establish a private connection between your virtual private cloud (VPC",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-opensearch-serverless-privatelink-mgmt"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-20-aws-recycle-bin-adds-support-for-amazon-ebs-volumes",
-      "date": "2025-11-20",
-      "name": "Recycle Bin adds support for Amazon EBS Volumes",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Recycle Bin for Amazon EBS, which helps you recover accidentally deleted snapshots and EBS-backed AMIs, now supports EBS Volumes. If you accidentally delete a volume, you can now recover it directly from Recycle Bin i",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/recycle-bin-support-amazon-ebs-volumes"
         }
       ],
       "impact": 5,
