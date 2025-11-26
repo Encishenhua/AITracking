@@ -1,6 +1,240 @@
 {
   "items": [
     {
+      "id": "2025-11-26-openai-increased-chatgpt-errors-for-some-users",
+      "date": "2025-11-26",
+      "name": "Increased ChatGPT errors for some users",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Monitoring</b><br /><br />We are continuing to monitor the recovery of affected services.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Connectors (Degraded performance)</li>\n<li>Login (De",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KAYQJW0EBMW9MYYBX2WK4TP9"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-25-openai-our-approach-to-mental-health-related-litigation",
+      "date": "2025-11-25",
+      "name": "Our approach to mental health-related litigation",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "We’re sharing our approach to mental health-related litigation. O handle sensitive cases with care, transparency, and respect while continuing to strengthen safety and support in ChatGPT.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/mental-health-litigation-approach"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-25-openai-increased-chatgpt-errors-for-eu-south-america-and-",
+      "date": "2025-11-25",
+      "name": "Increased ChatGPT errors for EU, South America, and East US regions",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />Issue has been resolved. Users in the EU, South America, and East US regions should no longer see increased ChatGPT error rates.<br /><br /><b>Affected components</b>\n          <ul>\n   ",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KAYA3GKDBP7FES5BB7ANZDV7"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-25-aws-manage-amazon-sagemaker-hyperpod-clusters-with-the",
+      "date": "2025-11-25",
+      "name": "Manage Amazon SageMaker HyperPod clusters with the new Amazon SageMaker AI MCP Server",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>The Amazon SageMaker AI MCP Server now supports tools that help you setup and manage HyperPod clusters. Amazon SageMaker HyperPod removes the undifferentiated heavy lifting involved in building generative AI models by",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/manage-amazon-sagemaker-hyperpod-clusters-mcp-server/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-25-aws-introducing-aws-network-firewall-proxy-in-preview",
+      "date": "2025-11-25",
+      "name": "Introducing AWS Network Firewall Proxy in preview",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS introduces Network Firewall Proxy in public preview. You can use it to exert centralized controls against data exfiltration and malware injection. You can set up your Network Firewall Proxy in explicit mode in jus",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-network-firewall-proxy-preview"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-25-aws-amazon-opensearch-service-introduces-agentic-searc",
+      "date": "2025-11-25",
+      "name": "Amazon OpenSearch Service introduces Agentic Search",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon OpenSearch Service launches Agentic Search, transforming how users interact with their data through intelligent, agent-driven search. Agentic Search introduces an intelligent agent-driven system that understand",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/opensearch-service-agentic-search/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-25-aws-aws-service-quotas-adds-now-support-for-automatic-",
+      "date": "2025-11-25",
+      "name": "AWS Service Quotas adds now support for automatic quota management",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, we’re excited to announce the general availability of new capability of automatic quota management feature in AWS Service Quotas. Today, automatic quota management supports customers to receive notifications wh",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/automatic-quota-management-service-quota-management/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-25-aws-amazon-sagemaker-ai-inference-now-supports-bidirec",
+      "date": "2025-11-25",
+      "name": "Amazon SageMaker AI Inference now supports bidirectional streaming",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker AI Inference now supports bidirectional streaming for real-time speech-to-text transcription, enabling continuous speech processing instead of batch input. Models can now receive audio streams and ret",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/sagemaker-ai-inference-bidirectional-streaming/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-25-aws-aws-glue-data-quality-now-supports-rule-labeling-f",
+      "date": "2025-11-25",
+      "name": "AWS Glue Data Quality now supports rule labeling for enhanced reporting",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the general availability of rule label, a feature of AWS Glue Data Quality, enabling you to apply custom key-value pair labels to your data quality rules for improved organization, filtering, and ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/glue-data-quality-rule-labeling-enhanced-reporting/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-25-aws-aws-glue-data-quality-now-supports-pre-processing-",
+      "date": "2025-11-25",
+      "name": "AWS Glue Data Quality now supports pre-processing queries",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the general availability of preprocessing queries for AWS Glue Data Quality, enabling you to transform your data before running data quality checks through AWS Glue Data Catalog APIs. This feature",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-glue-data-quality-pre-processing-queries/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-25-aws-amazon-sagemaker-ai-now-supports-eagle-speculative",
+      "date": "2025-11-25",
+      "name": "Amazon SageMaker AI now supports EAGLE speculative decoding",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker AI now supports EAGLE (Extrapolation Algorithm for Greater Language-model Efficiency) speculative decoding to improve large language model inference throughput by up to 2.5x. This capability enables m",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-eagle-decoding/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-25-langchain-langgraph-using-skills-with-deep-agents",
+      "date": "2025-11-25",
+      "name": "Using skills with Deep Agents",
+      "vendor": "LangChain/LangGraph",
+      "type": "launch",
+      "summary": "<p>tl;dr: Anthropic recently introduced the idea of <a href=\"https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills?ref=blog.langchain.com\" rel=\"noopener noreferrer\">agent skills</a>.",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/using-skills-with-deep-agents/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2025-11-25-crewai-1-6-0",
+      "date": "2025-11-25",
+      "name": "1.6.0",
+      "vendor": "CrewAI",
+      "type": "upgrade",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add streaming result support to flows and crews</li>\n<li>Add gemini-3-pro-preview</li>\n<li>Support CLI login with Entra ID</li>\n<li>Add Merge Agent Handler tool</li>\n<li",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.6.0"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2025-11-24-aws-opensearch-service-enhances-log-analytics-with-new",
       "date": "2025-11-24",
       "name": "OpenSearch Service Enhances Log Analytics with New PPL Experience",
@@ -839,240 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-lex-wait-continue-feature-10-languages/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-21-aws-announcing-aws-lambda-kafka-event-source-mapping-i",
-      "date": "2025-11-21",
-      "name": "Announcing AWS Lambda Kafka event source mapping integration in Amazon MSK Console",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS announces Lambda’s Kafka event source mapping (ESM) integration in the <a href=\"https://aws.amazon.com/msk/\">Amazon MSK</a> Console, streamlining the process of connecting MSK topics to Lambda functions. This capa",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/integration-lambda-source-mapping-configuration/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-21-aws-aws-lambda-announces-new-capabilities-to-optimize-",
-      "date": "2025-11-21",
-      "name": "AWS Lambda announces new capabilities to optimize costs up to 90% for Provisioned mode for Kafka ESM",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Lambda announces new capabilities for Provisioned mode for Kafka event source mappings (ESMs) that allow you to group your Kafka ESMs and support higher density of event pollers, enabling you to optimize costs up ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-lambda-optimize-costs-provisioned-mode-kafka/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-21-aws-amazon-workspaces-applications-now-supports-ipv6",
-      "date": "2025-11-21",
-      "name": "Amazon WorkSpaces Applications now supports IPv6",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon WorkSpaces Applications now supports IPv6 for <a contenteditable=\"false\" href=\"https://docs.aws.amazon.com/appstream2/latest/developerguide/allowed-domains.html\" style=\"cursor: pointer;\">WorkSpaces Applications",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-appstream-2-0-supports-ipv6/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-21-aws-amazon-route-53-dns-service-adds-support-for-ipv6-",
-      "date": "2025-11-21",
-      "name": "Amazon Route 53 DNS service adds support for IPv6 API service endpoint",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, Amazon Route 53 supports dual stack for the Route 53 DNS service API endpoint at route53.global.api.aws, enabling you to connect from Internet Protocol Version 6 (IPv6), Internet Protocol Version 4 (IP",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-route-53-dns-service-ipv6-api-endpoint/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-21-aws-amazon-connect-now-supports-multi-skill-agent-sche",
-      "date": "2025-11-21",
-      "name": "Amazon Connect now supports multi skill agent scheduling",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Connect now enables you to optimize scheduling based on agent’s multiple specialized skills. You can now maximize agent utilization across multiple dimensions such as departments, languages, and customer tiers ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-multi-skill-agent-scheduling"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-21-aws-amazon-cloudwatch-application-signals-adds-github-",
-      "date": "2025-11-21",
-      "name": "Amazon CloudWatch Application Signals adds GitHub Action and MCP server improvements",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS announces the general availability of a new <a href=\"https://github.com/marketplace/actions/application-observability-for-aws\">GitHub Action</a> and improvements to <a href=\"https://awslabs.github.io/mcp/servers/c",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-application-signals-adds-github-action-mcp-server-improvements"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-21-aws-aws-network-firewall-now-supports-flexible-cost-al",
-      "date": "2025-11-21",
-      "name": "AWS Network Firewall now supports flexible cost allocation via Transit Gateway",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><br /> <a contenteditable=\"false\" href=\"https://aws.amazon.com/network-firewall/\" style=\"cursor: pointer;\">AWS Network Firewall </a>now supports flexible cost allocation through <a contenteditable=\"false\" href=\"https:",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/network-firewall-flexible-cost-allocation/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-21-aws-amazon-cloudwatch-introduces-in-console-agent-mana",
-      "date": "2025-11-21",
-      "name": "Amazon CloudWatch Introduces In-Console Agent Management on EC2",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon CloudWatch now offers an in-console experience for automated installation and configuration of the Amazon CloudWatch agent on EC2 instances. Amazon CloudWatch agent is used by developers and SREs to collect inf",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/cloudwatch-in-console-agent-management-ec2/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-21-aws-aws-security-incident-response-now-offers-metered-",
-      "date": "2025-11-21",
-      "name": "AWS Security Incident Response now offers metered pricing with free tier",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, <a href=\"https://aws.amazon.com/security-incident-response/\">AWS Security Incident Response</a> announces a new metered pricing model that charges customers based on the number of security findings ingested, ma",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/security-incident-response-metered-pricing-free-tier/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-21-aws-amazon-ecs-and-amazon-eks-now-offer-enhanced-ai-po",
-      "date": "2025-11-21",
-      "name": "Amazon ECS and Amazon EKS now offer enhanced AI-powered troubleshooting in the Console",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a contenteditable=\"false\" href=\"https://aws.amazon.com/ecs/\" style=\"cursor: pointer;\">Amazon Elastic Container Service</a> (ECS) and <a contenteditable=\"false\" href=\"https://aws.amazon.com/eks/\" style=\"cursor: pointe",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ecs-eks-ai-powered-troubleshooting-console/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-21-aws-amazon-simple-email-service-is-now-available-in-tw",
-      "date": "2025-11-21",
-      "name": "Amazon Simple Email Service is now available in two new AWS Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/ses/\">Amazon Simple Email Service (Amazon SES)</a>&nbsp;is now available in the Asia Pacific (Malaysia), Canada West (Calgary) Regions. Customers can now use these new Regions to levera",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ses-available-in-two-new-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-21-aws-aws-backup-now-supports-amazon-fsx-intelligent-tie",
-      "date": "2025-11-21",
-      "name": "AWS Backup now supports Amazon FSx Intelligent-Tiering",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Backup now supports Amazon FSx Intelligent-Tiering, a storage class which delivers fully elastic file storage that automatically scales up and down with your workloads.</p> \n<p>The FSx Intelligent-Tiering storage ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-backup-amazon-fsx-intelligent-tiering/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-21-aws-amazon-cloudwatch-container-insights-now-supports-",
-      "date": "2025-11-21",
-      "name": "Amazon CloudWatch Container Insights now supports Neuron UltraServers on Amazon EKS",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon CloudWatch Container Insights now supports Neuron UltraServers on Amazon EKS, providing enhanced observability for customers running large-scale, high-performance machine learning workloads on multi-instance no",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/cloudwatch-container-insights-neuron-ultraservers-eks/"
         }
       ],
       "impact": 5,
