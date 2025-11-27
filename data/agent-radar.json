@@ -19,6 +19,276 @@
       "tags": []
     },
     {
+      "id": "2025-11-26-aws-sagemaker-hyperpod-now-supports-managed-tiered-kv-",
+      "date": "2025-11-26",
+      "name": "SageMaker HyperPod now supports Managed tiered KV cache and intelligent routing",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker HyperPod now supports Managed Tiered KV Cache and Intelligent Routing for large language model (LLM) inference, enabling customers to optimize inference performance for long-context prompts and multi-",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/sagemaker-hyperpod-managed-tiered-kv-cache/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-26-aws-amazon-sagemaker-hyperpod-now-supports-custom-kube",
+      "date": "2025-11-26",
+      "name": "Amazon SageMaker HyperPod now supports custom Kubernetes labels and taints",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker HyperPod now supports custom Kubernetes labels and taints, enabling customers to control pod scheduling and integrate seamlessly with existing Kubernetes infrastructure. Customers deploying AI workloa",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-hyperpod-kubernetes/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-26-aws-amazon-s3-block-public-access-now-supports-organiz",
+      "date": "2025-11-26",
+      "name": "Amazon S3 Block Public Access now supports organization-level enforcement",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon S3 Block Public Access (BPA) now allows organization-level control through AWS Organizations, allowing you to standardize and enforce S3 public access settings across all accounts in your AWS organization throu",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-s3-block-public-access-organization-level-enforcement"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-26-aws-improved-aws-health-event-triage",
+      "date": "2025-11-26",
+      "name": "Improved AWS Health event triage",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Health now includes two new properties in its event schema - actionability and persona - enabling customers to identify the most relevant events. These properties allow organizations to programmatically identify e",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/improved-aws-health-event-triage"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-26-aws-aws-compute-optimizer-now-supports-unused-nat-gate",
+      "date": "2025-11-26",
+      "name": "AWS Compute Optimizer now supports unused NAT Gateway recommendations",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces that AWS Compute Optimizer now supports idle resource recommendations for NAT Gateways. With this new recommendation type, you will be able to identify NAT Gateways that are unused, resulting in c",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-compute-optimizer-unused-nat-gateway-recommendations"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-26-aws-amazon-sagemaker-hyperpod-now-supports-programmati",
+      "date": "2025-11-26",
+      "name": "Amazon SageMaker HyperPod now supports programmatic node reboot and replacement",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, Amazon SageMaker HyperPod announces the general availability of new APIs that enable programmatic rebooting and replacement of SageMaker HyperPod cluster nodes. SageMaker HyperPod helps you provision resilient ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-hyperpod-programmatic-node-reboot-replacement"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-26-aws-the-aws-api-mcp-server-is-now-available-on-aws-mar",
+      "date": "2025-11-26",
+      "name": "The AWS API MCP Server is now available on AWS Marketplace",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS announces the availability of the AWS API MCP Server on AWS Marketplace, enabling customers to deploy the Model Context Protocol (MCP) server to Amazon Bedrock AgentCore. The marketplace entry includes step-by-ste",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/the-aws-api-mcp-server-aws-marketplace"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-26-aws-amazon-route-53-announces-accelerated-recovery-for",
+      "date": "2025-11-26",
+      "name": "Amazon Route 53 announces accelerated recovery for managing public DNS records",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Route 53 is excited to release the accelerated recovery option for managing DNS records in public hosted zones. Accelerated recovery targets a 60-minute recovery time objective (RTO) for regaining the ability t",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-route-53-accelerated-recovery-managing-public-dns-records"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-26-aws-amazon-emr-and-aws-glue-now-support-write-operatio",
+      "date": "2025-11-26",
+      "name": "Amazon EMR and AWS Glue now support write operations with AWS Lake Formation fine-grained access controls",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon EMR and AWS Glue now enable you to enforce fine-grained access control (FGAC) on both read and write operations for AWS Lake Formation registered tables in your Apache Spark jobs. Previously, you could only app",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-emr-aws-glue-write-operations-aws-lake-formation/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-26-aws-amazon-emr-and-aws-glue-now-support-audit-context-",
+      "date": "2025-11-26",
+      "name": "Amazon EMR and AWS Glue now support audit context support with Lake Formation",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon EMR and AWS Glue now provide comprehensive audit context support for AWS Lake Formation credential vending APIs and AWS Glue Data Catalog GetTable and GetTables API calls. This auditing capability helps you mai",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-emr-aws-glue-audit-context-lake-formation/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-26-aws-aws-knowledge-mcp-server-now-supports-topic-based-",
+      "date": "2025-11-26",
+      "name": "AWS Knowledge MCP Server now supports topic-based search",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Today, AWS announces enhanced search capabilities for the AWS Knowledge MCP Server, which now supports topic-based search across specialized AWS documentation domains. The AWS Knowledge MCP Server is a Model Context P",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-knowledge-mcp-server-topic-based-search/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-26-aws-amazon-bedrock-introduces-reserved-service-tier",
+      "date": "2025-11-26",
+      "name": "Amazon Bedrock introduces Reserved Service tier",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, Amazon Bedrock introduces a new Reserved service tier designed for workloads requiring predictable performance and guaranteed tokens-per-minute capacity. The Reserved tier provides the ability to reserve priori",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-bedrock-reserved-service-tier/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-26-aws-amazon-s3-metadata-expands-to-22-additional-aws-re",
+      "date": "2025-11-26",
+      "name": "Amazon S3 Metadata expands to 22 additional AWS Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon S3 Metadata is now available in twenty-two additional AWS Regions: Africa (Cape Town), Asia Pacific (Hong Kong), Asia Pacific (Jakarta), Asia Pacific (Melbourne), Asia Pacific (Mumbai), Asia Pacific (Osaka), As",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-s3-metadata-expands-22-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-26-aws-introducing-aws-glue-5-1",
+      "date": "2025-11-26",
+      "name": "Introducing AWS Glue 5.1",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Glue 5.1 is now generally available, delivering improved performance, security updates, expanded Apache Iceberg capabilities, and AWS Lake Formation write support for data integration workloads.</p> \n<p><a href=\"h",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-glue-5-1"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-11-26-aws-amazon-quick-research-now-includes-trusted-third-p",
+      "date": "2025-11-26",
+      "name": "Amazon Quick Research now includes trusted third-party industry intelligence",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Quick Suite, the AI-powered workspace helping organizations get answers from their enterprise data and move swiftly from insights to action, enhances Quick Research with access to specialized third-party datase",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-quick-research-third-party-industry-intelligence/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-11-25-openai-our-approach-to-mental-health-related-litigation",
       "date": "2025-11-25",
       "name": "Our approach to mental health-related litigation",
@@ -232,6 +502,24 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2025-11-25-aws-announcing-aws-glue-zero-etl-for-self-managed-data",
+      "date": "2025-11-25",
+      "name": "Announcing AWS Glue zero-ETL for self-managed Database Sources",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://docs.aws.amazon.com/glue/latest/dg/zero-etl-using.html\">AWS Glue</a> now supports zero-ETL for self-managed database sources. Using Glue zero-ETL, you can now setup an integration to replicate data fr",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/glue-zero-etl-selfmanaged"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
       "tags": []
     },
     {
@@ -785,294 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-opensearch-service-or2-om2-instances-available-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-21-aws-amazon-ecr-now-supports-managed-container-image-si",
-      "date": "2025-11-21",
-      "name": "Amazon ECR now supports managed container image signing",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon ECR now supports managed container image signing to enhance your security posture and eliminate the operational overhead of setting up signing. Container image signing allows you to verify that images are from ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ecr-managed-container-image-signing"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-21-aws-amazon-eks-introduces-provisioned-control-plane",
-      "date": "2025-11-21",
-      "name": "Amazon EKS introduces Provisioned Control Plane",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, Amazon Elastic Kubernetes Service (EKS) introduced Provisioned Control Plane, a new feature that gives you the ability to select your cluster's control plane capacity to ensure predictable, high performance for",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-eks-provisioned-control-plane/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-21-aws-amazon-eks-and-amazon-ecs-announce-fully-managed-m",
-      "date": "2025-11-21",
-      "name": "Amazon EKS and Amazon ECS announce fully managed MCP servers in preview",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, <a href=\"https://aws.amazon.com/eks/\">Amazon Elastic Kubernetes Service</a> (EKS) and <a href=\"https://aws.amazon.com/ecs/\">Amazon</a><a href=\"https://aws.amazon.com/ecs/\"> Elastic Container Service</a> (ECS) a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-eks-ecs-fully-managed-mcp-servers-preview"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-21-aws-announcing-aws-compute-optimizer-automation-rules",
-      "date": "2025-11-21",
-      "name": "Announcing AWS Compute Optimizer automation rules",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, we are introducing automation rules, a new feature in AWS Compute Optimizer that enables you to optimize Amazon Elastic Block Store (EBS) volumes at scale. With automation rules, you can streamline the process ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-compute-optimizer-automation-rules"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-21-aws-aws-organizations-now-supports-upgrade-rollout-pol",
-      "date": "2025-11-21",
-      "name": "AWS Organizations now supports upgrade rollout policy for Amazon Aurora and Amazon RDS",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS Organizations announces support for upgrade rollout policy, a new capability that helps customers stagger automatic upgrades across their Amazon Aurora (MySQL-Compatible Edition and PostgreSQL-Compatible Ed",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-organizations-upgrade-rollout-policy-amazon-aurora-rds"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-21-aws-amazon-rds-for-sql-server-now-supports-resource-go",
-      "date": "2025-11-21",
-      "name": "Amazon RDS for SQL Server now supports Resource Governor",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for SQL Server</a>&nbsp;now supports resource governor, a Microsoft SQL Server feature that enables custo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-rds-sql-server-resource-governor/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-21-aws-amazon-cloudwatch-container-insights-adds-sub-minu",
-      "date": "2025-11-21",
-      "name": "Amazon CloudWatch Container Insights adds Sub-Minute GPU Metrics for Amazon EKS",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a contenteditable=\"false\" href=\"https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/ContainerInsights.html\" style=\"cursor: pointer;\">Amazon CloudWatch Container Insights</a> now supports collection of GPU ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/cloudwatch-container-sub-minute-gpu-metrics-eks/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-21-aws-aws-control-tower-introduces-a-controls-dedicated-",
-      "date": "2025-11-21",
-      "name": "AWS Control Tower introduces a controls-dedicated experience",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Control Tower offers the easiest way to manage and govern your environment with AWS managed controls. Starting today, customers can have direct access to these AWS managed controls without requiring a full Control",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-control-tower-controls-dedicated-experience/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-21-aws-amazon-lightsail-expands-blueprint-selection-with-",
-      "date": "2025-11-21",
-      "name": "Amazon Lightsail expands blueprint selection with updated support for Nginx Blueprint",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Lightsail now offers a new Nginx blueprint. This new blueprint has Instance Metadata Service Version 2 (IMDSv2) enforced by default, and supports IPv6-only instances. With just a few clicks, you can create a Li",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/announcing-nginx-blueprint-by-amazon-lightsail/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-21-aws-amazon-ec2-fleet-adds-new-encryption-attribute-for",
-      "date": "2025-11-21",
-      "name": "Amazon EC2 Fleet adds new encryption attribute for instance type selection",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon EC2 Fleet now supports a new encryption attribute for Attribute-Based Instance Type Selection (ABIS). Customers can use the RequireEncryptionInTransit parameter to specifically launch instance types that suppor",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-fleet-encryption-attribute-instance-type-selection/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-21-aws-amazon-sagemaker-hyperpod-now-supports-running-ide",
-      "date": "2025-11-21",
-      "name": "Amazon SageMaker HyperPod now supports running IDEs and Notebooks to accelerate AI development",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon SageMaker HyperPod now supports IDEs and Notebooks, enabling AI developers to run JupyterLab, Code Editor, or connect local IDEs to run their interactive AI workloads directly on HyperPod clusters.<br /> <br />",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-hyperpod-ides-notebooks-ai/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-21-aws-oracle-database-aws-now-supports-aws-kms-integrati",
-      "date": "2025-11-21",
-      "name": "Oracle Database@AWS now supports AWS KMS integration with Oracle Transparent Data Encryption",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Oracle Database@AWS is now integrated with AWS Key Management Service (KMS) to manage database encryption keys. KMS is an AWS managed service to create and control keys used to encrypt and sign data. With this integra",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/oracle-database-aws-kms-integration-oracle-transparent-data-encryption/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-21-aws-amazon-bedrock-data-automation-now-supports-synchr",
-      "date": "2025-11-21",
-      "name": "Amazon Bedrock Data Automation now supports synchronous image processing",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Bedrock Data Automation (BDA) now supports synchronous API processing for images, enabling you to receive structured insights from visual content with low latency. Synchronous processing for images complements ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/bedrock-data-automation-synchronous-image-processing/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-21-aws-aws-application-and-network-load-balancers-now-sup",
-      "date": "2025-11-21",
-      "name": "AWS Application and Network Load Balancers Now Support Post-Quantum Key Exchange for TLS",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Application Load Balancers (ALB) and Network Load Balancers (NLB) now support post-quantum key exchange options for the Transport Layer Security (TLS) protocol. This opt-in feature introduces new TLS security poli",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/network-load-balancers-post-quantum-key-exchange-tls/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-21-aws-amazon-api-gateway-rest-apis-now-supports-private-",
-      "date": "2025-11-21",
-      "name": "Amazon API Gateway REST APIs now supports private integration with Application Load Balancer",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon API Gateway REST APIs now support direct private integration with Application Load Balancer (ALB), enabling inter-VPC connectivity to internal ALBs. This enhancement extends API Gateways existing VPC connectivi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/api-gateway-rest-apis-integration-load-balancer/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-21-aws-amazon-lex-extends-wait-continue-feature-in-10-new",
-      "date": "2025-11-21",
-      "name": "Amazon Lex extends wait & continue feature in 10 new languages",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Lex now supports <i>wait &amp; continue </i>functionality in 10 new languages, enabling more natural conversational experiences in Chinese, Japanese, Korean, Cantonese, Spanish, French, Italian, Portuguese, Cat",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-lex-wait-continue-feature-10-languages/"
         }
       ],
       "impact": 5,
