@@ -1,6 +1,762 @@
 {
   "items": [
     {
+      "id": "2025-12-02-aws-announcing-amazon-ec2-general-purpose-m8azn-instan",
+      "date": "2025-12-02",
+      "name": "Announcing Amazon EC2 General purpose M8azn instances (Preview)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, new general purpose high-frequency high-network Amazon Elastic Compute Cloud (Amazon EC2) M8azn instances are available for preview. These instances are powered by fifth generation AMD EPYC (formerly c",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-amazon-ec2-m8azn-preview"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-aws-announcing-amazon-nova-2-sonic-for-real-time-conve",
+      "date": "2025-12-02",
+      "name": "Announcing Amazon Nova 2 Sonic for real-time conversational AI",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, Amazon announces the availability of Amazon Nova 2 Sonic, our speech-to-speech model for natural, real-time conversational AI that delivers industry leading quality and price for voice-based conversational AI. ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-nova-2-sonic-real-time-conversational-ai/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-aws-announcing-the-apache-spark-upgrade-agent-for-amaz",
+      "date": "2025-12-02",
+      "name": "Announcing the Apache Spark upgrade agent for Amazon EMR",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS announces the Apache Spark upgrade agent, a new capability that accelerates Apache Spark version upgrades for Amazon EMR on EC2 and EMR Serverless. The agent converts complex upgrade processes that typically take ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/apache-spark-upgrade-agent-amazon-emr"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-aws-amazon-rds-for-sql-server-now-supports-developer-e",
+      "date": "2025-12-02",
+      "name": "Amazon RDS for SQL Server now supports Developer Edition",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for SQL Server</a> now offers Microsoft SQL Server 2022 Developer Edition. SQL Server Developer Edition i",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-rds-sql-server-supports-developer-edition/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-aws-amazon-s3-storage-lens-adds-performance-metrics-su",
+      "date": "2025-12-02",
+      "name": "Amazon S3 Storage Lens adds performance metrics, support for billions of prefixes, and export to S3 Tables",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon S3 Storage Lens provides organization-wide visibility into your storage usage and activity to help optimize costs, improve performance, and strengthen data protection. Today, we are adding three new capabilitie",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-s3-storage-lens-performance-metrics-prefixes-export-tables"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-aws-amazon-fsx-for-netapp-ontap-now-supports-amazon-s3",
+      "date": "2025-12-02",
+      "name": "Amazon FSx for NetApp ONTAP now supports Amazon S3 access",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>You can now attach Amazon S3 Access Points to your Amazon FSx for NetApp ONTAP file systems so that you can access your file data as if it were in S3. With this new capability, your file data in FSx for NetApp ONTAP i",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-fsx-netapp-ontap-s3-access"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-aws-amazon-rds-for-sql-server-launches-optimize-cpu-wi",
+      "date": "2025-12-02",
+      "name": "Amazon RDS for SQL Server launches optimize CPU with new generation instances for up to 55% lower price",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon RDS for SQL Server launches optimize CPU with support for M7i and R7i instance families, which reduce prices by up to 55% compared to equivalent previous generation instances. Optimize CPU optimizes Simultaneou",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-rds-sql-server-optimized-cpu-lower-prices"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-aws-amazon-ec2-p6e-gb300-ultraservers-accelerated-by-n",
+      "date": "2025-12-02",
+      "name": "Amazon EC2 P6e-GB300 UltraServers accelerated by NVIDIA GB300 NVL72 are now generally available",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the general availability of Amazon Elastic Compute Cloud (Amazon EC2) P6e-GB300 UltraServers. P6e-GB300 UltraServers, accelerated by NVIDIA GB300 NVL72, provide 1.5x GPU memory and 1.5x FP4 comput",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-p6e-gb300-ultraservers-nvidia-gb300-nvl72-generally-available"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-aws-announcing-new-memory-optimized-amazon-ec2-x8aedz-",
+      "date": "2025-12-02",
+      "name": "Announcing new memory-optimized Amazon EC2 X8aedz Instances",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS announces Amazon EC2 X8aedz, next generation memory optimized instances, powered by 5th Gen AMD EPYC processors (formerly code named Turin). These instances offer the highest maximum CPU frequency, 5GHz in the clo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/memory-optimized-amazon-ec2-x8aedz-instances/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-aws-announcing-amazon-ec2-memory-optimized-x8i-instanc",
+      "date": "2025-12-02",
+      "name": "Announcing Amazon EC2 Memory optimized X8i instances (Preview)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Web Services is announcing the preview of Amazon EC2 X8i, next-generation Memory optimized instances. X8i instances are powered by custom Intel Xeon 6 processors delivering the highest performance and fastest m",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-x8i-instances-preview"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-aws-mistral-large-3-and-ministral-3-family-now-availab",
+      "date": "2025-12-02",
+      "name": "Mistral Large 3 and Ministral 3 family now available first  on Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Customers can now use Mistral Large 3 and the Ministral 3 family of models available first on Amazon Bedrock as well as additional models including Voxtral Mini 1.0, Voxtral Small 1.0, and Magistral Small 1.2 on Amazo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/mistral-large-3-ministral-3-family-available-amazon-bedrock"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-aws-amazon-s3-batch-operations-introduces-performance-",
+      "date": "2025-12-02",
+      "name": "Amazon S3 Batch Operations introduces performance improvements",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon S3 Batch Operations now completes jobs up to 10x faster at a scale of up to 20 billion objects in a job, helping you accelerate large-scale storage operations.<br /> <br /> With S3 Batch Operations, you can per",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/s3-batch-operations-performance-improvements/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-aws-introducing-aws-ai-factories",
+      "date": "2025-12-02",
+      "name": "Introducing AWS AI Factories",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS AI Factories are now available, providing rapidly deployable, high-performance AWS&nbsp;AI infrastructure in your own&nbsp;data centers. By combining the latest AWS Trainium accelerators and NVIDIA GPUs, specializ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-ai-factories"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-aws-introducing-aws-devops-agent-preview-frontier-agen",
+      "date": "2025-12-02",
+      "name": "Introducing AWS DevOps Agent (preview), frontier agent for operational excellence",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>We're excited to launch AWS DevOps Agent in preview, a <a href=\"https://aws.amazon.com/ai/frontier-agents/\" target=\"_blank\">frontier agent</a> that resolves and proactively prevents incidents, continuously improving r",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/devops-agent-preview-frontier-agent-operational-excellence/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-aws-aws-security-hub-is-now-generally-available-with-n",
+      "date": "2025-12-02",
+      "name": "AWS Security Hub is now generally available with near real-time risk analytics",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Web Services (AWS) announces the general availability of AWS Security Hub, a unified cloud security solution that prioritizes your critical security issues and helps you respond at scale, reduce security risks,",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/security-hub-near-real-time-risk-analytics/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-aws-amazon-s3-tables-now-support-automatic-replication",
+      "date": "2025-12-02",
+      "name": "Amazon S3 Tables now support automatic replication of Apache Iceberg tables",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon S3 Tables now support automatic replication of Apache Iceberg tables across AWS Regions and accounts. This new capability replicates your complete table structure, including all snapshots and metadata to reduce",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/s3-tables-automatic-replication-apache-iceberg-tables/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-aws-amazon-s3-vectors-is-now-generally-available-with-",
+      "date": "2025-12-02",
+      "name": "Amazon S3 Vectors is now generally available with 40 times the scale of preview",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon S3 Vectors, the first cloud object storage with native support to store and query vectors, is now generally available. S3 Vectors delivers purpose-built, cost-optimized vector storage for AI agents, inference, ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-s3-vectors-generally-available"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-aws-amazon-bedrock-agentcore-now-includes-policy-previ",
+      "date": "2025-12-02",
+      "name": "Amazon Bedrock AgentCore now includes Policy (preview), Evaluations (preview) and more",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, Amazon Bedrock AgentCore introduces new offerings, including Policy (preview) and Evaluations (preview), to give teams the controls and quality assurance they need to confidently scale agent deployment across t",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-bedrock-agentcore-policy-evaluations-preview"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-aws-amazon-cloudwatch-launches-unified-management-and-",
+      "date": "2025-12-02",
+      "name": "Amazon CloudWatch launches unified management and analytics for operational, security, and compliance data",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon CloudWatch now provides new data management and analytics capabilities that allow you to unify operational, security, and compliance data across your AWS environment and third-party sources. DevOps teams, secur",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-cloudwatch-unified-management-analytics"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-aws-amazon-bedrock-adds-18-fully-managed-open-weight-m",
+      "date": "2025-12-02",
+      "name": "Amazon Bedrock adds 18 fully managed open weight models, the largest expansion of new models to date",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock is a platform for building generative AI applications and agents at production scale. Amazon Bedrock provides access to a broad selection of fully managed models from leading AI companies through a unif",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-bedrock-fully-managed-open-weight-models"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-aws-amazon-emr-serverless-eliminates-local-storage-pro",
+      "date": "2025-12-02",
+      "name": "Amazon EMR Serverless eliminates local storage provisioning for Apache Spark workloads",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon EMR Serverless now offers serverless storage that eliminates local storage provisioning for Apache Spark workloads, reducing data processing costs by up to 20% and preventing job failures from disk capacity con",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-emr-serverless-local-storage-provisioning-apache-spark-workloads"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-aws-announcing-database-savings-plans-with-up-to-35-sa",
+      "date": "2025-12-02",
+      "name": "Announcing Database Savings Plans with up to 35% savings",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS announces Database Savings Plans, a new flexible pricing model that helps you save up to 35% in exchange for a commitment to a consistent amount of usage (measured in $/hour) over a one-year term with no up",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/database-savings-plans-savings"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-aws-amazon-opensearch-service-adds-gpu-accelerated-and",
+      "date": "2025-12-02",
+      "name": "Amazon OpenSearch Service adds GPU-accelerated and auto-optimized vector indexes",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>You can now build billion-scale vector databases in under an hour on Amazon OpenSearch Service with GPU-acceleration, and auto-optimize vector indexes for optimal trade-offs between search quality, speed and cost.<br ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-opensearch-service-gpu-accelerated-auto-optimized-vector-indexes"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-aws-announcing-amazon-nova-2-foundation-models-now-ava",
+      "date": "2025-12-02",
+      "name": "Announcing Amazon Nova 2 foundation models now available in Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today AWS announces Amazon Nova 2, our next generation of general models that deliver reasoning capabilities with industry-leading price performance. The new models available today in Amazon Bedrock are:</p> \n<p>• Ama",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/nova-2-foundation-models-amazon-bedrock/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-aws-build-agents-to-automate-production-ui-workflows-w",
+      "date": "2025-12-02",
+      "name": "Build agents to automate production UI workflows with Amazon Nova Act (GA)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>We are excited to announce the general availability of Amazon Nova Act, a new AWS service for developers to build and manage fleets of highly reliable agents for automating production UI workflows. Nova Act is powered",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/build-automate-production-ui-workflows-nova-act/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-aws-aws-previews-ec2-c8ine-instances",
+      "date": "2025-12-02",
+      "name": "AWS previews EC2 C8ine instances",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS launches the preview of Amazon EC2 C8ine instances, powered by custom sixth-generation Intel Xeon Scalable processors (Granite Rapids) and the latest AWS Nitro v6 card. These instances are designed specifically fo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-previews-ec2-c8ine-instances"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-aws-announcing-new-compute-optimized-amazon-ec2-c8a-in",
+      "date": "2025-12-02",
+      "name": "Announcing New Compute-Optimized Amazon EC2 C8a Instances",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS announces the general availability of new compute-optimized Amazon EC2 C8a instances. C8a instances are powered by 5th Gen AMD EPYC processors (formerly code named Turin) with a maximum frequency of 4.5 GHz, deliv",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/compute-optimized-amazon-ec2-c8a-instances/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-aws-announcing-amazon-ec2-m4-max-mac-instances-preview",
+      "date": "2025-12-02",
+      "name": "Announcing Amazon EC2 M4 Max Mac instances (Preview)",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Web Services announces preview of Amazon EC2 M4 Max Mac instances, powered by the latest Mac Studio hardware. Amazon EC2 M4 Max Mac instances are the next-generation EC2 Mac instances, that enable Apple develop",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-m4-max-mac-instances-preview"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-aws-amazon-guardduty-extended-threat-detection-now-sup",
+      "date": "2025-12-02",
+      "name": "Amazon GuardDuty Extended Threat Detection now supports Amazon EC2 and Amazon ECS",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS announces further enhancements to Amazon GuardDuty Extended Threat Detection with new capabilities to detect multistage attacks targeting Amazon Elastic Compute Cloud (Amazon EC2) instances and Amazon Elastic Cont",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/guardduty-extended-threat-detection-ec2-ecs/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-aws-announcing-amazon-ec2-trn3-ultraservers-for-faster",
+      "date": "2025-12-02",
+      "name": "Announcing Amazon EC2 Trn3 UltraServers for faster, lower-cost generative AI training",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS announces the general availability of <a href=\"https://aws.amazon.com/ec2/instance-types/trn3/\" target=\"_blank\">Amazon Elastic Compute Cloud (Amazon EC2) Trn3 UltraServers</a> powered by our fourth–generation AI c",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-trn3-ultraservers"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-aws-aws-lambda-announces-durable-functions-for-multi-s",
+      "date": "2025-12-02",
+      "name": "AWS Lambda announces durable functions for multi-step applications and AI workflows",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Lambda announces durable functions, enabling developers to build reliable multi-step applications and AI workflows within the Lambda developer experience. Durable functions automatically checkpoint progress, suspe",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/lambda-durable-multi-step-applications-ai-workflows/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-aws-aws-support-transformation-ai-powered-operations-w",
+      "date": "2025-12-02",
+      "name": "AWS Support transformation: AI-powered operations with the human expertise you trust",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Support announces a transformation of its Support portfolio, simplified into three intelligent, experience-driven plans: Business Support+, Enterprise Support, and Unified Operations. Each plan combines the speed ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-support-transformation-ai-powered-operations"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-aws-aws-security-agent-preview-ai-agent-for-proactive-",
+      "date": "2025-12-02",
+      "name": "AWS Security Agent (Preview): AI agent for proactive app security",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the preview of AWS Security Agent, an AI-powered agent that proactively secures your applications throughout the development lifecycle. AWS Security Agent conducts automated security reviews tailo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-security-agent-preview"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-aws-amazon-nova-forge-build-your-own-frontier-models-u",
+      "date": "2025-12-02",
+      "name": "Amazon Nova Forge: Build your own Frontier Models using Nova",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>We are excited to announce the general availability of Nova Forge, a new service to build your own frontier models using Nova.<br /> <br /> With Nova Forge, you can start your model development on SageMaker AI from ea",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-nova-forge-frontier-models-nova/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-aws-introducing-amazon-nova-2-omni-in-preview",
+      "date": "2025-12-02",
+      "name": "Introducing Amazon Nova 2 Omni in Preview",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>We are excited to announce Amazon Nova 2 Omni, an all-in-one model for multimodal reasoning and image generation. It is the industry’s first reasoning model that supports text, images, video, and speech inputs while g",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-nova-2-omni-preview"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-aws-amazon-api-gateway-adds-mcp-proxy-support",
+      "date": "2025-12-02",
+      "name": "Amazon API Gateway adds MCP proxy support",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon API Gateway now supports Model Context Protocol (MCP) proxy, allowing you to transform your existing REST APIs into MCP-compatible endpoints. This new capability enables organizations to make their APIs accessi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/api-gateway-mcp-proxy-support/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-aws-amazon-sagemaker-catalog-now-exports-asset-metadat",
+      "date": "2025-12-02",
+      "name": "Amazon SageMaker Catalog now exports asset metadata as queryable dataset",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon SageMaker Catalog now exports asset metadata as an Apache Iceberg table through Amazon S3 Tables. This allows data teams to query catalog inventory and answer questions such as, \"How many assets were registered",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/sagemaker-catalog-asset-metadata-queryable-dataset/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-aws-amazon-cloudwatch-genai-observability-now-supports",
+      "date": "2025-12-02",
+      "name": "Amazon CloudWatch GenAI observability now supports Amazon AgentCore Evaluations",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon CloudWatch now enables automated quality assessment of AI agents through AgentCore Evaluations. This new capability helps developers continuously monitor and improve agent performance based on real-world intera",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/cloudwatch-genai-observability-agentcore-evaluations/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-aws-amazon-bedrock-agentcore-runtime-now-supports-bi-d",
+      "date": "2025-12-02",
+      "name": "Amazon Bedrock AgentCore Runtime now supports bi-directional streaming",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Bedrock AgentCore Runtime now supports bi-directional streaming, enabling real-time conversations where agents listen and respond simultaneously while handling interruptions and context changes mid-conversation",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/bedrock-agentcore-runtime-bi-directional-streaming/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-aws-amazon-sagemaker-ai-announces-serverless-mlflow-ca",
+      "date": "2025-12-02",
+      "name": "Amazon SageMaker AI announces serverless MLflow capability for faster AI development",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker AI now offers a serverless MLflow capability that dynamically scales to support AI model development tasks. With MLflow, AI developers can begin tracking, comparing, and evaluating experiments without",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/sagemaker-ai-serverless-mlflow-ai-development/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-aws-amazon-s3-tables-now-offer-the-intelligent-tiering",
+      "date": "2025-12-02",
+      "name": "Amazon S3 Tables now offer the Intelligent-Tiering storage class",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon S3 Tables now offer the Intelligent-Tiering storage class, which optimizes costs based on access patterns, without performance impact or operational overhead. Intelligent-Tiering automatically transitions data ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/s3-tables-intelligent-tiering-storage-class/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-02-langchain-langgraph-langsmith-agent-builder-now-in-public-beta",
+      "date": "2025-12-02",
+      "name": "LangSmith Agent Builder now in Public Beta",
+      "vendor": "LangChain/LangGraph",
+      "type": "upgrade",
+      "summary": "Now anyone can create production ready agents without writing code, just chat.\nAgent Builder guides you from initial idea to deployed agent, creating detailed prompts, selecting required tools, and even creating subagent",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/langsmith-agent-builder-now-in-public-beta/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2025-12-01-openai-accenture-and-openai-accelerate-enterprise-ai-succ",
       "date": "2025-12-01",
       "name": "Accenture and OpenAI accelerate enterprise AI success",
@@ -119,6 +875,24 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/transform-net-transformation-developer-experience/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-01-openai-inside-mirakl-s-agentic-commerce-vision",
+      "date": "2025-12-01",
+      "name": "Inside Mirakl's agentic commerce vision",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "Mirakl is redefining commerce through AI agents and ChatGPT Enterprise—achieving faster documentation, smarter customer support, and building toward agent-native commerce with Mirakl Nexus.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/mirakl"
         }
       ],
       "impact": 5,
@@ -299,780 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-agent-workspace-custom-visual-themes"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-amazon-connect-launches-ai-powered-predictive-insi",
-      "date": "2025-11-30",
-      "name": "Amazon Connect launches AI-powered predictive insights (Preview)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, Amazon Connect is launching AI-powered predictive insights that transform how businesses understand and serve their customers. This new feature set builds upon Connect's existing customer profiles, introducing ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-ai-powered-predictive-insights-preview"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-amazon-connect-now-simplifies-linking-related-cont",
-      "date": "2025-11-30",
-      "name": "Amazon Connect now simplifies linking related contacts to cases using flows",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect now makes it easier to link related contacts such as email replies, call transfers, persistent chats, and queued callbacks to the same case so agents can view the complete customer journey and resolve i",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-simplifies-linking-related-contacts-cases-using-flows"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-amazon-connect-introduces-new-criteria-to-automati",
-      "date": "2025-11-30",
-      "name": "Amazon Connect introduces new criteria to automatically select relevant contacts for performance evaluation",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect provides managers with new criteria while setting up automated evaluations, making it easier to identify relevant contacts for evaluation, and providing additional insights to automatically populate eva",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-criteria-automatically-select-relevant-contacts-performance-evaluation"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-amazon-connect-now-enables-business-users-to-creat",
-      "date": "2025-11-30",
-      "name": "Amazon Connect now enables business users to create custom UIs to adjust contact center configurations in real time",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Connect now gives business users greater control over daily contact center operations without requiring technical resources. With new capabilities to create customer UIs that adjust queues, routing behavior, an",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-create-custom-uis"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-amazon-connect-enhances-its-agent-assistance-capab",
-      "date": "2025-11-30",
-      "name": "Amazon Connect enhances its agent assistance capabilities",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Connect now provides customer service representatives with new AI agents that guide them through customer interactions by recommending actions, retrieving information, and executing tasks on their behalf. For e",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-enhances-agent-assistance-capabilities"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-amazon-connect-now-provides-ai-powered-case-summar",
-      "date": "2025-11-30",
-      "name": "Amazon Connect now provides AI-powered case summaries",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect now provides AI-powered case summaries that give agents complete context into customer issues, reduce manual wrap-up work, and help resolve cases faster. With a single click, agents can generate a conci",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-ai-powered-case-summaries"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-amazon-connect-chat-now-supports-in-flight-data-re",
-      "date": "2025-11-30",
-      "name": "Amazon Connect Chat now supports in-flight data redaction and message processing",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Connect now supports message processing that intercepts and processes chat messages before they reach any participant. This new capability enables automatic redaction of sensitive data and custom message proces",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-chat-in-flight-data-redaction-message-processing"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-amazon-connect-now-supports-multiple-knowledge-bas",
-      "date": "2025-11-30",
-      "name": "Amazon Connect now supports multiple knowledge bases and integrates with your Amazon Bedrock Knowledge Bases",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect now allows you to bring your own Amazon Bedrock Knowledge Bases and supports multiple knowledge bases per AI agent, giving you greater flexibility in how you organize and access knowledge content for yo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-multiple-knowledge-bases-integrates-amazon-bedrock-knowledge-bases"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-amazon-connect-outbound-campaigns-now-supports-mul",
-      "date": "2025-11-30",
-      "name": "Amazon Connect Outbound Campaigns now supports multi-step, multi-channel customer engagement journey builder",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect Outbound Campaigns now supports visual journey builder, a new feature that lets you create multi-step, multi-channel customer engagements directly in the Amazon Connect console. You can design end-to-en",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/connect-outbound-multi-step-multi-channel-builder/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-amazon-connect-introduces-agentic-self-service-wit",
-      "date": "2025-11-30",
-      "name": "Amazon Connect introduces agentic self-service with more natural, expressive, and adaptive voice interactions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Connect is introducing agentic self-service capabilities that enable AI agents to understand, reason, and take action across voice and messaging channels to automate routine and complex customer service tasks. ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-agentic-self-service"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-amazon-connect-now-supports-creation-of-custom-met",
-      "date": "2025-11-30",
-      "name": "Amazon Connect now supports creation of custom metrics for use in dashboards and APIs",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect now supports creation of custom metrics, enabling contact center supervisors to analyze tailored performance measurements without requiring technical skills. This feature provides a simple, no-code inte",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-metric-customization/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-announcing-amazon-eks-capabilities",
-      "date": "2025-11-30",
-      "name": "Announcing Amazon EKS Capabilities",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Elastic Kubernetes Service (EKS) announces the general availability of EKS Capabilities, a fully-managed extensible set of Kubernetes-native platform features for workload deployment, AWS cloud resource managem",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-eks-capabilities"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-aws-expands-ai-competency-with-new-agentic-ai-cate",
-      "date": "2025-11-30",
-      "name": "AWS expands AI Competency with new Agentic AI categories",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS announces a major expansion of the AI Competency (formerly Generative AI Competency) in the largest Specialization launch to date including 60 validated partners across three new Agentic AI categories: Agentic AI ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-ai-competency-agentic-ai-categories"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-aws-partner-central-is-now-available-in-the-aws-ma",
-      "date": "2025-11-30",
-      "name": "AWS Partner Central is now available in the AWS Management Console",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the availability of AWS Partner Central in the AWS Management Console, simplifying access for AWS Partners to Partner Central and the AWS Marketplace Management Portal, and introducing APIs that o",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-partner-central-available-management-console"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-amazon-sagemaker-catalog-provides-automatic-data-c",
-      "date": "2025-11-30",
-      "name": "Amazon SageMaker Catalog provides automatic data classification using AI agents",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker Catalog now provides automated data classification that suggests business glossary terms during data publishing, reducing manual tagging effort and improving metadata consistency across organizations.",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-catalog-automatic-data-classification-ai-agents"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-aws-clean-rooms-supports-synthetic-dataset-generat",
-      "date": "2025-11-30",
-      "name": "AWS Clean Rooms supports synthetic dataset generation training custom ML training",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Clean Rooms now enables you and your partners to generate privacy-enhancing synthetic datasets from your collective data to train regression and classification machine learning (ML) models.</p> \n<p>Synthetic datas",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-clean-rooms-synthetic-dataset-generation-custom-ml"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-announcing-aws-lambda-managed-instances-a-capabili",
-      "date": "2025-11-30",
-      "name": "Announcing AWS Lambda Managed Instances, a capability to run functions on your Amazon EC2 instances",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Lambda Managed Instances lets you run Lambda functions on your Amazon EC2 instances while maintaining Lambda's operational simplicity. With Lambda Managed Instances, you can access specialized compute configuratio",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-lambda-managed-instances"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-introducing-amazon-route-53-global-resolver-for-se",
-      "date": "2025-11-30",
-      "name": "Introducing Amazon Route 53 Global Resolver for secure anycast DNS resolution (preview)",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS announced the preview of Amazon Route 53 Global Resolver, a new internet-reachable DNS resolver that provides easy, secure, and reliable DNS resolution from anywhere for queries made by your authorized clie",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-route-53-global-resolver-secure-anycast-dns-resolution-preview"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-amazon-cloudwatch-incident-reports-now-support-fiv",
-      "date": "2025-11-30",
-      "name": "Amazon CloudWatch incident reports now support Five Whys analysis",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon CloudWatch launched incident report generation capabilities with an AI-powered root-cause workflow that guides customers through the \"Five Why’s\" analysis technique. The feature is modeled on the correction or ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-incident-reports-five-whys-analysis"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-introducing-multi-product-solutions-in-aws-marketp",
-      "date": "2025-11-30",
-      "name": "Introducing multi-product solutions in AWS Marketplace",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Marketplace now supports solution-centric procurement with multi-product solutions — a combination of products and services from one or more AWS Partners tailored to specific industries and customer use cases. Par",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/introducing-multi-product-solutions-aws-marketplace"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-aws-marketplace-introduces-agent-mode-and-ai-enhan",
-      "date": "2025-11-30",
-      "name": "AWS Marketplace introduces agent mode and AI-enhanced search to accelerate solution discovery",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Marketplace introduces two new AI-powered capabilities, agent mode and enhanced search, to accelerate solution discovery across over 30,000 listings. These capabilities reflect the shift to solution-centric procur",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-marketplace-agent-mode-ai-enhanced-search"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-aws-marketplace-introduces-express-private-offers-",
-      "date": "2025-11-30",
-      "name": "AWS Marketplace introduces express private offers for fast personalized pricing",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Marketplace customers can now receive private offers for third-party products in minutes through express private offers. This capability enables customers to access personalized pricing and terms which previously ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-marketplace-express-private-offers"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-aws-glue-now-supports-apache-iceberg-based-materia",
-      "date": "2025-11-30",
-      "name": "AWS Glue now supports Apache Iceberg based materialized views",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Glue now supports materialized views, a new capability that makes it easier for data teams to transform data and accelerate query performance. Materialized views are managed tables in the AWS Glue Data Catalog tha",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-glue-apache-iceberg-based-materialized-views"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-multimodal-retrieval-for-bedrock-knowledge-bases-n",
-      "date": "2025-11-30",
-      "name": "Multimodal retrieval for Bedrock Knowledge Bases now generally available",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the general availability of multimodal retrieval in Bedrock Knowledge Bases. Amazon Bedrock Knowledge Bases offers managed, end-to-end Retrieval Augmented Generation (RAG) workflows to create accu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/multimodal-retrieval-bedrock-knowledge-bases/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-aws-announces-iam-policy-autopilot-to-help-builder",
-      "date": "2025-11-30",
-      "name": "AWS announces IAM Policy Autopilot to help builders generate IAM policies from code",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS Identity and Access Management (IAM) announces IAM Policy Autopilot, an open source Model Context Protocol (MCP) server and command-line tool that helps your AI coding assistants quickly create baseline IAM polici",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/iam-policy-autopilot-generate-iam-policies-code/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-aws-marketplace-now-supports-variable-payments-for",
-      "date": "2025-11-30",
-      "name": "AWS Marketplace now supports variable payments for professional services",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS Marketplace announces the general availability of variable payments, a new billing option that allows professional services sellers to bill customers as work is delivered. This capability allows sellers to ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/marketplace-variable-payments-professional-services/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-aws-announces-preview-of-aws-interconnect-multiclo",
-      "date": "2025-11-30",
-      "name": "AWS announces preview of AWS Interconnect - multicloud",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS announces preview of AWS Interconnect - multicloud, providing simple, resilient, high-speed private connections to other cloud service providers (CSPs), starting in preview with Google Cloud as the first launch pa",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/preview-aws-interconnect-multicloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-announcing-aws-ai-league-2026-championship",
-      "date": "2025-11-30",
-      "name": "Announcing AWS AI League 2026 Championship",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS announces the AWS AI League 2026 Championship, expanding its flagship AI tournament with new challenges and doubling the prize pool to $50,000 for builders to compete and innovate. AI League transforms how ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/ai-league-2026-championship/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-aws-announces-gated-preview-of-aws-interconnect-la",
-      "date": "2025-11-30",
-      "name": "AWS announces gated preview of AWS Interconnect - last mile",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS launches AWS Interconnect - last mile, a fully managed connectivity offering that allows customers to connect their branch offices, data centers, and remote locations to AWS with just a few clicks, eliminating the",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/gated-preview-interconnect-last-mile/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-new-automated-integration-for-crowdstrike-falcon-n",
-      "date": "2025-11-30",
-      "name": "New automated integration for CrowdStrike Falcon Next-Gen SIEM in AWS Marketplace",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS and CrowdStrike are making it easier to unify cloud-native security monitoring with a new automated integration experience for CrowdStrike Falcon Next-Gen Security Information and Event Management (SIEM), a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/automated-integration-crowdstrike-falcon-next-gen/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-aws-announces-a-preview-of-the-aws-mcp-server",
-      "date": "2025-11-30",
-      "name": "AWS announces a preview of the AWS MCP Server",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Today, AWS announces the AWS MCP Server, a managed remote Model Context Protocol (MCP) server that helps AI agents and AI-native IDEs perform real-world, multi-step tasks across one or more AWS services. The AWS MCP S",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-mcp-server/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-aws-launches-resilience-software-competency-to-hel",
-      "date": "2025-11-30",
-      "name": "AWS Launches Resilience Software Competency to help customers build highly available applications",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announced the expansion of its AWS Resilience Competency program to include Technology Partners, helping customers identify and implement software solutions that enhance the availability and resilience of t",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/resilience-software-competency-build-applications/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-26-openai-increased-chatgpt-errors-for-some-users",
-      "date": "2025-11-26",
-      "name": "Increased ChatGPT errors for some users",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Monitoring</b><br /><br />We are continuing to monitor the recovery of affected services.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Connectors (Degraded performance)</li>\n<li>Login (De",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KAYQJW0EBMW9MYYBX2WK4TP9"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-26-aws-sagemaker-hyperpod-now-supports-managed-tiered-kv-",
-      "date": "2025-11-26",
-      "name": "SageMaker HyperPod now supports Managed tiered KV cache and intelligent routing",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker HyperPod now supports Managed Tiered KV Cache and Intelligent Routing for large language model (LLM) inference, enabling customers to optimize inference performance for long-context prompts and multi-",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/sagemaker-hyperpod-managed-tiered-kv-cache/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-26-aws-amazon-sagemaker-hyperpod-now-supports-custom-kube",
-      "date": "2025-11-26",
-      "name": "Amazon SageMaker HyperPod now supports custom Kubernetes labels and taints",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker HyperPod now supports custom Kubernetes labels and taints, enabling customers to control pod scheduling and integrate seamlessly with existing Kubernetes infrastructure. Customers deploying AI workloa",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-hyperpod-kubernetes/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-26-aws-amazon-s3-block-public-access-now-supports-organiz",
-      "date": "2025-11-26",
-      "name": "Amazon S3 Block Public Access now supports organization-level enforcement",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon S3 Block Public Access (BPA) now allows organization-level control through AWS Organizations, allowing you to standardize and enforce S3 public access settings across all accounts in your AWS organization throu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-s3-block-public-access-organization-level-enforcement"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-26-aws-improved-aws-health-event-triage",
-      "date": "2025-11-26",
-      "name": "Improved AWS Health event triage",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Health now includes two new properties in its event schema - actionability and persona - enabling customers to identify the most relevant events. These properties allow organizations to programmatically identify e",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/improved-aws-health-event-triage"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-26-aws-aws-compute-optimizer-now-supports-unused-nat-gate",
-      "date": "2025-11-26",
-      "name": "AWS Compute Optimizer now supports unused NAT Gateway recommendations",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces that AWS Compute Optimizer now supports idle resource recommendations for NAT Gateways. With this new recommendation type, you will be able to identify NAT Gateways that are unused, resulting in c",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/aws-compute-optimizer-unused-nat-gateway-recommendations"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-26-aws-amazon-sagemaker-hyperpod-now-supports-programmati",
-      "date": "2025-11-26",
-      "name": "Amazon SageMaker HyperPod now supports programmatic node reboot and replacement",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, Amazon SageMaker HyperPod announces the general availability of new APIs that enable programmatic rebooting and replacement of SageMaker HyperPod cluster nodes. SageMaker HyperPod helps you provision resilient ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-hyperpod-programmatic-node-reboot-replacement"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-26-aws-the-aws-api-mcp-server-is-now-available-on-aws-mar",
-      "date": "2025-11-26",
-      "name": "The AWS API MCP Server is now available on AWS Marketplace",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS announces the availability of the AWS API MCP Server on AWS Marketplace, enabling customers to deploy the Model Context Protocol (MCP) server to Amazon Bedrock AgentCore. The marketplace entry includes step-by-ste",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/the-aws-api-mcp-server-aws-marketplace"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-26-aws-amazon-route-53-announces-accelerated-recovery-for",
-      "date": "2025-11-26",
-      "name": "Amazon Route 53 announces accelerated recovery for managing public DNS records",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Route 53 is excited to release the accelerated recovery option for managing DNS records in public hosted zones. Accelerated recovery targets a 60-minute recovery time objective (RTO) for regaining the ability t",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-route-53-accelerated-recovery-managing-public-dns-records"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-26-aws-amazon-emr-and-aws-glue-now-support-write-operatio",
-      "date": "2025-11-26",
-      "name": "Amazon EMR and AWS Glue now support write operations with AWS Lake Formation fine-grained access controls",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon EMR and AWS Glue now enable you to enforce fine-grained access control (FGAC) on both read and write operations for AWS Lake Formation registered tables in your Apache Spark jobs. Previously, you could only app",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-emr-aws-glue-write-operations-aws-lake-formation/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-26-aws-amazon-emr-and-aws-glue-now-support-audit-context-",
-      "date": "2025-11-26",
-      "name": "Amazon EMR and AWS Glue now support audit context support with Lake Formation",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon EMR and AWS Glue now provide comprehensive audit context support for AWS Lake Formation credential vending APIs and AWS Glue Data Catalog GetTable and GetTables API calls. This auditing capability helps you mai",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-emr-aws-glue-audit-context-lake-formation/"
         }
       ],
       "impact": 5,
