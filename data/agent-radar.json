@@ -1,6 +1,114 @@
 {
   "items": [
     {
+      "id": "2025-12-03-aws-amazon-sagemaker-hyperpod-now-supports-checkpointl",
+      "date": "2025-12-03",
+      "name": "Amazon SageMaker HyperPod now supports checkpointless training",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker HyperPod now supports checkpointless training, a new foundational model training capability that mitigates the need for a checkpoint-based job-level restart for fault recovery. Checkpointless training",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-sagemaker-hyperpod-checkpointless-training"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-03-aws-new-serverless-model-customization-capability-in-a",
+      "date": "2025-12-03",
+      "name": "New serverless model customization capability in Amazon SageMaker AI",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Web Services (AWS) announces a new serverless model customization capability that empowers AI developers to quickly customize popular models with supervised fine-tuning and the latest techniques like reinforcem",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/new-serverless-model-customization-capability-amazon-sagemaker-ai"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-03-aws-announcing-typescript-support-in-strands-agents-pr",
+      "date": "2025-12-03",
+      "name": "Announcing TypeScript support in Strands Agents (preview) and more",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>In May, we open sourced the Strands Agents SDK, an open source python framework that takes a model-driven approach to building and running AI agents in just a few lines of code. Today, we’re announcing that TypeScript",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/typescript-strands-agents-preview"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-03-aws-introducing-elastic-training-on-amazon-sagemaker-h",
+      "date": "2025-12-03",
+      "name": "Introducing elastic training on Amazon SageMaker HyperPod",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker HyperPod now supports elastic training, enabling organizations to accelerate foundation model training by automatically scaling training workloads based on resource availability and workload prioritie",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/elastic-training-amazon-sagemaker-hyperpod/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-03-aws-amazon-bedrock-now-supports-reinforcement-fine-tun",
+      "date": "2025-12-03",
+      "name": "Amazon Bedrock now supports reinforcement fine-tuning delivering 66% accuracy gains on average over base models",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Bedrock now supports reinforcement fine-tuning, helping you improve model accuracy without needing deep machine learning expertise or large sums of labeled data. Amazon Bedrock automates the reinforcement fine-",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/bedrock-reinforcement-fine-tuning-66-base-models/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-03-langchain-langgraph-evaluating-deep-agents-our-learnings",
+      "date": "2025-12-03",
+      "name": "Evaluating Deep Agents: Our Learnings",
+      "vendor": "LangChain/LangGraph",
+      "type": "launch",
+      "summary": "<p>Over the past month at LangChain, we shipped four applications on top of the Deep Agents harness:</p><ul><li><a href=\"https://blog.langchain.com/introducing-deepagents-cli/\">DeepAgents CLI</a>: a coding agent</li><li>",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/evaluating-deep-agents-our-learnings/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2025-12-02-aws-announcing-amazon-ec2-general-purpose-m8azn-instan",
       "date": "2025-12-02",
       "name": "Announcing Amazon EC2 General purpose M8azn instances (Preview)",
@@ -965,114 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-ai-agent-assistance-summarization-agentforce-service"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-amazon-connect-now-provides-granular-access-contro",
-      "date": "2025-11-30",
-      "name": "Amazon Connect now provides granular access controls for performance evaluations",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Connect now enables businesses to restrict access to specific performance evaluation forms, preventing unauthorized access to evaluation form templates and completed evaluations. Businesses can provide managers",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-granular-access-controls-performance-evaluations"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-amazon-connect-launches-automated-email-responses-",
-      "date": "2025-11-30",
-      "name": "Amazon Connect launches automated email responses using conditional keywords and phrases",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect now allows you to automate email responses and agent routing logic using keyword and phrase conditions, helping organizations increase self-service, reduce manual handling time, and improve routing accu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-automated-email-responses/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-amazon-connect-chat-now-supports-agent-initiated-w",
-      "date": "2025-11-30",
-      "name": "Amazon Connect Chat now supports agent-initiated workflows",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect now supports agent-initiated workflows, enabling agents to send interactive forms to collect sensitive data or share general policies and disclosures within customer chat conversations, increasing effic",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-chat-agent-initiated-workflows"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-amazon-connect-now-provides-automated-performance-",
-      "date": "2025-11-30",
-      "name": "Amazon Connect now provides automated performance evaluations for self-service interactions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Connect now provides businesses with the ability to automatically evaluate the quality of self-service interactions and get aggregated insights to improve customer experience. Managers can define custom criteri",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-automated-performance-evaluations-self-service-interactions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-amazon-connect-now-streams-messages-for-ai-powered",
-      "date": "2025-11-30",
-      "name": "Amazon Connect now streams messages for AI-powered interactions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect now supports message streaming for AI-powered chat interactions. This new capability shows Connect AI agent responses as they're being generated, which reduces perceived wait times and improves the cust",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-streams-messages-ai-powered-interactions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-amazon-connect-agent-workspace-now-supports-custom",
-      "date": "2025-11-30",
-      "name": "Amazon Connect agent workspace now supports custom visual themes",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect now allows you to customize the visual appearance of the agent workspace. You can apply a custom theme, including a logo, font, and color palette for light and dark modes, so the agent workspace aligns ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-agent-workspace-custom-visual-themes"
         }
       ],
       "impact": 5,
