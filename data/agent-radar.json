@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "2025-12-05-openai-chatgpt-slack-connector-cannot-be-installed",
+      "date": "2025-12-05",
+      "name": "ChatGPT Slack Connector cannot be installed",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Identified</b><br /><br />We have identified that ChatGPT Slack Connector cannot be installed for some users.\n\nWe are working on implementing a mitigation.<br /><br /><b>Affected components</b>\n          <ul>\n",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KBP2P87WZ8SS9KWJ8YBWYZAG"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-04-aws-amazon-bedrock-now-supports-responses-api-from-ope",
+      "date": "2025-12-04",
+      "name": "Amazon Bedrock now supports Responses API from OpenAI",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Bedrock now supports Responses API on new OpenAI API-compatible service endpoints. Responses API enables developers to achieve asynchronous inference for long-running inference workloads, simplifies tool use in",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-bedrock-responses-api-from-openai/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-04-aws-announcing-new-amazon-ec2-m9g-instances-powered-by",
+      "date": "2025-12-04",
+      "name": "Announcing new Amazon EC2 M9g instances powered by AWS Graviton5 processors (Preview)",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, new general purpose Amazon Elastic Compute Cloud (Amazon EC2) <a href=\"http://aws.amazon.com/ec2/instance-types/m9g\">M9g</a> instances, powered by AWS Graviton5 processors, are available in preview. AW",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-m9g-instances-graviton5-processors-preview/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-12-03-aws-amazon-sagemaker-hyperpod-now-supports-checkpointl",
       "date": "2025-12-03",
       "name": "Amazon SageMaker HyperPod now supports checkpointless training",
@@ -1019,60 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-mcp-support"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-amazon-connect-now-provides-improved-analytics-and",
-      "date": "2025-11-30",
-      "name": "Amazon Connect now provides improved analytics and monitoring for AI agents",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect now provides analytics and monitoring capabilities for AI agents across self-service and agent assistance experiences. With this launch, you can measure and continuously improve AI agent performance and",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-improved-analytics-monitoring-ai-agents"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-amazon-connect-adds-support-for-third-party-speech",
-      "date": "2025-11-30",
-      "name": "Amazon Connect adds support for third-party speech-to-text and text-to-speech AI models for end-customer self-service",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Connect now supports third-party speech providers for end-customer self-service, giving you greater flexibility in how you deliver voice experiences. You can integrate Deepgram for speech-to-text and ElevenLabs",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-third-party-speech-to-text-to-speech-ai-models"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-amazon-connect-now-supports-ai-agent-assistance-an",
-      "date": "2025-11-30",
-      "name": "Amazon Connect now supports AI agent assistance and summarization for Agentforce Service",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect launches real-time AI agent assistance and contact summarization for <a href=\"https://aws.amazon.com/partners/amazon-connect-and-salesforce/\" target=\"_blank\">Salesforce Contact Center with Amazon Connec",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-ai-agent-assistance-summarization-agentforce-service"
         }
       ],
       "impact": 5,
