@@ -19,6 +19,150 @@
       "tags": []
     },
     {
+      "id": "2025-12-05-aws-amazon-opensearch-service-now-supports-automatic-s",
+      "date": "2025-12-05",
+      "name": "Amazon OpenSearch Service now supports automatic semantic enrichment",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon OpenSearch Service now brings automatic semantic enrichment to managed clusters, matching the capability we launched for <a href=\"https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-opensearch-serverless-",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/opensearch-service-automatic-semantic-enrichment/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-05-aws-twelvelabs-pegasus-1-2-model-now-in-23-new-aws-reg",
+      "date": "2025-12-05",
+      "name": "TwelveLabs’ Pegasus 1.2 model now in 23 new AWS regions via Global cross-region inference",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock introduces <a href=\"https://docs.aws.amazon.com/bedrock/latest/userguide/global-cross-region-inference.html\">Global cross-Region inference</a> for TwelveLabs' Pegasus 1.2, expanding model availability t",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/twelvelabs-pegasus-available-with-global-cross-region-inference/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-05-aws-ses-mail-manager-is-now-available-in-10-additional",
+      "date": "2025-12-05",
+      "name": "SES Mail Manager is now available in 10 additional AWS Regions, 27 total",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SES announces that the SES Mail Manager product is now available in 10 additional <a href=\"https://aws.amazon.com/about-aws/global-infrastructure/regions_az/\" target=\"_blank\">commercial AWS Regions</a>. This ex",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/ses-mail-manager-10-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-05-aws-amazon-ses-adds-vpc-support-for-api-endpoints",
+      "date": "2025-12-05",
+      "name": "Amazon SES adds VPC support for API endpoints",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, Amazon <a href=\"https://aws.amazon.com/ses/\">Simple Email Service</a> (SES) added support for accessing SES API endpoints through Virtual Private Cloud (VPC) endpoints. Customers use VPC endpoints to enable acc",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ses-vpc-api-endpoints/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-05-aws-amazon-connect-launches-whatsapp-channel-for-outbo",
+      "date": "2025-12-05",
+      "name": "Amazon Connect launches WhatsApp channel for Outbound Campaigns",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect Outbound Campaigns now supports WhatsApp, expanding on the WhatsApp Business messaging capabilities that already allow customers to contact your agents. You can now engage customers through proactive, a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/connect-whatsapp-channel-outbound-campaigns/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-05-aws-aws-launches-simplified-enablement-of-aws-cloudtra",
+      "date": "2025-12-05",
+      "name": "AWS launches simplified enablement of AWS CloudTrail events in Amazon CloudWatch",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS launches simplified enablement of AWS CloudTrail events in Amazon CloudWatch, a monitoring and logging service that helps you collect, monitor, and analyze log data from your AWS resources and applications.",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/key-enhancements-cloudtrail-events-cloudwatch/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-05-langchain-langgraph-evaluating-deepagents-cli-on-terminal-bench-2-0",
+      "date": "2025-12-05",
+      "name": "Evaluating DeepAgents CLI on Terminal Bench 2.0",
+      "vendor": "LangChain/LangGraph",
+      "type": "upgrade",
+      "summary": "<p>By Vivek Trivedy and Eugene Yurtsev</p><p><a href=\"https://github.com/langchain-ai/deepagents?ref=blog.langchain.com\">DeepAgents CLI</a> is a coding agent built on top of the <a href=\"https://github.com/langchain-ai/d",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/evaluating-deepagents-cli-on-terminal-bench-2-0/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2025-12-05-flowise-flowise-3-0-12",
+      "date": "2025-12-05",
+      "name": "flowise@3.0.12",
+      "vendor": "Flowise",
+      "type": "upgrade",
+      "summary": "<h2>What's Changed</h2>\n<h2>Nodes</h2>\n<ul>\n<li>Chore/Disable Unstructure Folder by <a class=\"user-mention notranslate\" href=\"https://github.com/HenryHengZJ\">@HenryHengZJ</a> in <a class=\"issue-link js-issue-link\" href=\"",
+      "sources": [
+        {
+          "title": "Flowise source",
+          "url": "https://github.com/FlowiseAI/Flowise/releases/tag/flowise%403.0.12"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2025-12-04-aws-amazon-bedrock-now-supports-responses-api-from-ope",
       "date": "2025-12-04",
       "name": "Amazon Bedrock now supports Responses API from OpenAI",
@@ -929,150 +1073,6 @@
         {
           "title": "OpenAI source",
           "url": "https://openai.com/index/accenture-partnership"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-01-aws-aws-transform-launches-an-ai-agent-for-full-stack-",
-      "date": "2025-12-01",
-      "name": "AWS Transform launches an AI agent for full-stack Windows modernization",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Transform is expanding its capability from the .NET modernization agent to now include the full-stack Windows modernization agent that handles both .NET applications and their associated databases. The new agent a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-transform-ai-agent-full-stack-windows-modernization"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-01-aws-aws-transform-for-mainframe-now-supports-applicati",
-      "date": "2025-12-01",
-      "name": "AWS Transform for mainframe now supports application reimagining",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Transform for mainframe delivers new data and activity analysis capabilities to extract comprehensive insights to drive the reimagining of mainframe applications. These insights can be combined with business logic",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/transform-mainframe-application-reimagining/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-01-aws-aws-transform-adds-new-agentic-ai-capabilities-for",
-      "date": "2025-12-01",
-      "name": "AWS Transform adds new agentic AI capabilities for enterprise VMware migrations",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Transform adds powerful new agentic AI capabilities to automate VMware migrations to AWS. The migration agent collaborates with migration teams to understand business priorities and intelligently plan and migrate ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/transform-vmware-agentic-ai-enterprise-migration/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-01-aws-aws-launches-aws-transform-custom-to-accelerate-or",
-      "date": "2025-12-01",
-      "name": "AWS launches AWS Transform custom to accelerate organization-wide application modernization",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Transform custom is now generally available, accelerating organization-specific code and application modernization at scale using agentic AI. AWS Transform is the first agentic AI service to accelerate the transfo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/transform-custom-organization-wide-modernization/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-01-aws-aws-transform-for-mainframe-delivers-new-testing-a",
-      "date": "2025-12-01",
-      "name": "AWS Transform for mainframe delivers new testing automation capabilities",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Transform for mainframe now offers test planning and automation features to accelerate mainframe modernization projects. New capabilities include automated test plan generation, test data collection scripts, and t",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/transform-mainframe-testing-automation/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-01-aws-aws-transform-expands-net-transformation-capabilit",
-      "date": "2025-12-01",
-      "name": "AWS Transform expands .NET transformation capabilities and enhances developer experience",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the general availability of expanded .NET transformation capabilities and an enhanced developer experience in AWS Transform. Customers can now modernize .NET Framework and .NET code to .NET 10 or ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/transform-net-transformation-developer-experience/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-01-openai-inside-mirakl-s-agentic-commerce-vision",
-      "date": "2025-12-01",
-      "name": "Inside Mirakl's agentic commerce vision",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "Mirakl is redefining commerce through AI agents and ChatGPT Enterprise—achieving faster documentation, smarter customer support, and building toward agent-native commerce with Mirakl Nexus.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/mirakl"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-11-30-aws-amazon-connect-launches-model-context-protocol-mcp",
-      "date": "2025-11-30",
-      "name": "Amazon Connect launches Model Context Protocol (MCP) support",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect now supports Model Context Protocol (MCP), enabling AI agents for end-customer self-service and employee assistance to use standardized tools for retrieving information and completing actions. With this",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-mcp-support"
         }
       ],
       "impact": 5,
