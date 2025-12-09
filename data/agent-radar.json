@@ -1,6 +1,96 @@
 {
   "items": [
     {
+      "id": "2025-12-09-crewai-1-7-0",
+      "date": "2025-12-09",
+      "name": "1.7.0",
+      "vendor": "CrewAI",
+      "type": "launch",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add async flow kickoff</li>\n<li>Add async crew support</li>\n<li>Add async task support</li>\n<li>Add async knowledge support</li>\n<li>Add async memory support</li>\n<li>Ad",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.7.0"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2025-12-08-openai-the-state-of-enterprise-ai",
+      "date": "2025-12-08",
+      "name": "The state of enterprise AI",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "Key findings from OpenAI’s enterprise data show accelerating AI adoption, deeper integration, and measurable productivity gains across industries in 2025.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/the-state-of-enterprise-ai-2025-report"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-08-openai-github-authentication-errors-with-codex-web",
+      "date": "2025-12-08",
+      "name": "Github Authentication errors with Codex Web",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Investigating</b><br /><br />We are investigating the issue for the listed services.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Codex (Partial outage)</li>\n          </ul>",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KBZQFTJVFKP90HA3QJ7Q3WBY"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-08-aws-amazon-quick-suite-integrates-quick-research-with-",
+      "date": "2025-12-08",
+      "name": "Amazon Quick Suite integrates Quick Research with Quick Flows for report automation",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Quick Suite now includes Quick Research as a step within Quick Flows. This integration enables teams to generate comprehensive research reports as part of automated, multi-step workflows, transforming research ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-quick-suite-research-flows-report-automation"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-08-aws-announcing-spatial-data-management-on-aws-to-accel",
+      "date": "2025-12-08",
+      "name": "Announcing Spatial Data Management on AWS to accelerate spatial-data insights",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS is announcing Spatial Data Management on AWS (SDMA), a solution that enables customers to store, enrich, and connect spatial data at scale. SDMA enables customers to store their multimodal spatial data repr",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/spatial-data-management-spatial-data-insights/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-12-05-openai-chatgpt-slack-connector-cannot-be-installed",
       "date": "2025-12-05",
       "name": "ChatGPT Slack Connector cannot be installed",
@@ -983,96 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/cloudwatch-genai-observability-agentcore-evaluations/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-02-aws-amazon-bedrock-agentcore-runtime-now-supports-bi-d",
-      "date": "2025-12-02",
-      "name": "Amazon Bedrock AgentCore Runtime now supports bi-directional streaming",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Bedrock AgentCore Runtime now supports bi-directional streaming, enabling real-time conversations where agents listen and respond simultaneously while handling interruptions and context changes mid-conversation",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/bedrock-agentcore-runtime-bi-directional-streaming/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-02-aws-amazon-sagemaker-ai-announces-serverless-mlflow-ca",
-      "date": "2025-12-02",
-      "name": "Amazon SageMaker AI announces serverless MLflow capability for faster AI development",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker AI now offers a serverless MLflow capability that dynamically scales to support AI model development tasks. With MLflow, AI developers can begin tracking, comparing, and evaluating experiments without",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/sagemaker-ai-serverless-mlflow-ai-development/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-02-aws-amazon-s3-tables-now-offer-the-intelligent-tiering",
-      "date": "2025-12-02",
-      "name": "Amazon S3 Tables now offer the Intelligent-Tiering storage class",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon S3 Tables now offer the Intelligent-Tiering storage class, which optimizes costs based on access patterns, without performance impact or operational overhead. Intelligent-Tiering automatically transitions data ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/s3-tables-intelligent-tiering-storage-class/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-02-langchain-langgraph-langsmith-agent-builder-now-in-public-beta",
-      "date": "2025-12-02",
-      "name": "LangSmith Agent Builder now in Public Beta",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "Now anyone can create production ready agents without writing code, just chat.\nAgent Builder guides you from initial idea to deployed agent, creating detailed prompts, selecting required tools, and even creating subagent",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/langsmith-agent-builder-now-in-public-beta/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2025-12-01-openai-accenture-and-openai-accelerate-enterprise-ai-succ",
-      "date": "2025-12-01",
-      "name": "Accenture and OpenAI accelerate enterprise AI success",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "Accenture and OpenAI are collaborating to help enterprises bring agentic AI capabilities into the core of their business and unlock new levels of growth.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/accenture-partnership"
         }
       ],
       "impact": 5,
