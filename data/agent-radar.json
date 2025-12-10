@@ -19,6 +19,132 @@
       "tags": []
     },
     {
+      "id": "2025-12-09-openai-openai-co-founds-agentic-ai-foundation-donates-age",
+      "date": "2025-12-09",
+      "name": "OpenAI co-founds Agentic AI Foundation, donates AGENTS.md",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "OpenAI co-founds the Agentic AI Foundation under the Linux Foundation and donates AGENTS.md to support open, interoperable standards for safe agentic AI.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/agentic-ai-foundation"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-09-aws-amazon-ec2-c8gn-instances-are-now-available-in-add",
+      "date": "2025-12-09",
+      "name": "Amazon EC2 C8gn instances are now available in additional regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8gn instances, powered by the latest-generation AWS Graviton4 processors, are available in the AWS US East (Ohio) and Middle East (UAE) Regions. The new insta",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-c8gn-instances-additional-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-09-aws-amazon-ec2-x8g-instances-now-available-in-europe-s",
+      "date": "2025-12-09",
+      "name": "Amazon EC2 X8g instances now available in Europe (Stockholm) region",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) X8g instances are available in Europe (Stockholm) region. These instances are powered by AWS Graviton4 processors, and they offer up to 3 TiB of total memory a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-x8g-instances-europe-stockholm/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-09-aws-aws-partner-central-now-includes-opportunity-deal-",
+      "date": "2025-12-09",
+      "name": "AWS Partner Central now includes opportunity deal sizing",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS announces deal sizing capability in AWS Partner Central. This new feature, available within the APN Customer Engagements (ACE) Opportunities, uses AI to provide deal size estimates and AWS service recommend",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-partner-central-opportunity-deal-sizing"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-09-aws-amazon-rds-and-aurora-now-support-resource-tagging",
+      "date": "2025-12-09",
+      "name": "Amazon RDS and Aurora now support resource tagging for Automated Backups",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon RDS and Aurora now support resource tagging for automated backups and cluster automated backups. You can now tag your automated backups separately from the parent DB instance or DB cluster, enabling Attribute-B",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/rds-aurora-resource-tagging-automated-backups/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-09-aws-amazon-gamelift-servers-enhances-aws-console-for-g",
+      "date": "2025-12-09",
+      "name": "Amazon GameLift Servers enhances AWS Console for game developers with AI powered assistance",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, Amazon GameLift Servers is launching AI-powered assistance in the AWS Console, leveraging Amazon Q Developer to provide tailored guidance for game developers. This new feature integrates specialized GameLift Se",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/gamelift-servers-console-developers-ai-powered/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-09-langchain-langgraph-agent-engineering-a-new-discipline",
+      "date": "2025-12-09",
+      "name": "Agent Engineering: A New Discipline",
+      "vendor": "LangChain/LangGraph",
+      "type": "upgrade",
+      "summary": "<p>If you&#x2019;ve built an agent, you know that the delta between &#x201c;it works on my machine&#x201d; and &#x201c;it works in production&#x201d; can be huge. Traditional software assumes you mostly know the inputs a",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/agent-engineering-a-new-discipline/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2025-12-08-openai-the-state-of-enterprise-ai",
       "date": "2025-12-08",
       "name": "The state of enterprise AI",
@@ -947,132 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/lambda-durable-multi-step-applications-ai-workflows/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-02-aws-aws-support-transformation-ai-powered-operations-w",
-      "date": "2025-12-02",
-      "name": "AWS Support transformation: AI-powered operations with the human expertise you trust",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Support announces a transformation of its Support portfolio, simplified into three intelligent, experience-driven plans: Business Support+, Enterprise Support, and Unified Operations. Each plan combines the speed ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-support-transformation-ai-powered-operations"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-02-aws-aws-security-agent-preview-ai-agent-for-proactive-",
-      "date": "2025-12-02",
-      "name": "AWS Security Agent (Preview): AI agent for proactive app security",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the preview of AWS Security Agent, an AI-powered agent that proactively secures your applications throughout the development lifecycle. AWS Security Agent conducts automated security reviews tailo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-security-agent-preview"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-02-aws-amazon-nova-forge-build-your-own-frontier-models-u",
-      "date": "2025-12-02",
-      "name": "Amazon Nova Forge: Build your own Frontier Models using Nova",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>We are excited to announce the general availability of Nova Forge, a new service to build your own frontier models using Nova.<br /> <br /> With Nova Forge, you can start your model development on SageMaker AI from ea",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-nova-forge-frontier-models-nova/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-02-aws-introducing-amazon-nova-2-omni-in-preview",
-      "date": "2025-12-02",
-      "name": "Introducing Amazon Nova 2 Omni in Preview",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>We are excited to announce Amazon Nova 2 Omni, an all-in-one model for multimodal reasoning and image generation. It is the industry’s first reasoning model that supports text, images, video, and speech inputs while g",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-nova-2-omni-preview"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-02-aws-amazon-api-gateway-adds-mcp-proxy-support",
-      "date": "2025-12-02",
-      "name": "Amazon API Gateway adds MCP proxy support",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon API Gateway now supports Model Context Protocol (MCP) proxy, allowing you to transform your existing REST APIs into MCP-compatible endpoints. This new capability enables organizations to make their APIs accessi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/api-gateway-mcp-proxy-support/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-02-aws-amazon-sagemaker-catalog-now-exports-asset-metadat",
-      "date": "2025-12-02",
-      "name": "Amazon SageMaker Catalog now exports asset metadata as queryable dataset",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon SageMaker Catalog now exports asset metadata as an Apache Iceberg table through Amazon S3 Tables. This allows data teams to query catalog inventory and answer questions such as, \"How many assets were registered",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/sagemaker-catalog-asset-metadata-queryable-dataset/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-02-aws-amazon-cloudwatch-genai-observability-now-supports",
-      "date": "2025-12-02",
-      "name": "Amazon CloudWatch GenAI observability now supports Amazon AgentCore Evaluations",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon CloudWatch now enables automated quality assessment of AI agents through AgentCore Evaluations. This new capability helps developers continuously monitor and improve agent performance based on real-world intera",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/cloudwatch-genai-observability-agentcore-evaluations/"
         }
       ],
       "impact": 5,
