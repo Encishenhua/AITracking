@@ -1,6 +1,150 @@
 {
   "items": [
     {
+      "id": "2025-12-10-openai-increased-errors-on-android-devices",
+      "date": "2025-12-10",
+      "name": "Increased Errors On Android Devices",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Login (Operational)</li>\n<li>File uploads (Operational)</li>\n<li>Voice",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KC56SP6M152HGWAF6EAFQR2E"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-10-aws-amazon-ecs-now-supports-custom-container-stop-sign",
+      "date": "2025-12-10",
+      "name": "Amazon ECS now supports custom container stop signals on AWS Fargate",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/ecs/\">Amazon Elastic Container Service</a> (Amazon ECS) now supports custom container stop signals for Linux tasks running on AWS Fargate, honoring the stop signal configured in Open Co",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ecs-custom-container-stop-signals-fargate/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-10-aws-now-generally-available-amazon-ec2-c8gb-instances",
+      "date": "2025-12-10",
+      "name": "Now generally available: Amazon EC2 C8gb instances",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the general availability of the new Amazon Elastic Block Storage (Amazon EBS) optimized Amazon Elastic Compute Cloud (Amazon EC2) C8gb instances. These instances are powered by AWS Graviton4 proce",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-c8gb-instances"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-10-aws-amazon-ec2-x8g-instances-now-available-in-asia-pac",
+      "date": "2025-12-10",
+      "name": "Amazon EC2 X8g instances now available in Asia Pacific (Sydney) region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) X8g instances are available in Asia Pacific (Sydney) region. These instances are powered by AWS Graviton4 processors and deliver up to 60% better performance t",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-x8g-instances-asia-pacific-sydney/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-10-aws-amazon-cloudwatch-sdk-supports-optimized-json-cbor",
+      "date": "2025-12-10",
+      "name": "Amazon CloudWatch SDK supports optimized JSON, CBOR protocols",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p><a href=\"https://aws.amazon.com/cloudwatch\" target=\"_blank\">Amazon CloudWatch</a> announces support for both the JSON and Concise Binary Object Representation (CBOR) protocols in the CloudWatch SDK, enabling lower lat",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-cloudwatch-sdk-json-cbor-protocols"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-10-langchain-langgraph-debugging-deep-agents-with-langsmith",
+      "date": "2025-12-10",
+      "name": "Debugging Deep Agents with LangSmith",
+      "vendor": "LangChain/LangGraph",
+      "type": "upgrade",
+      "summary": "<p>Debugging is the process of finding and fixing errors. This is a critical step in software engineering, and even more critical in <a href=\"https://blog.langchain.com/agent-engineering-a-new-discipline/\">agent engineer",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/debugging-deep-agents-with-langsmith/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2025-12-10-langchain-langgraph-introducing-langsmith-fetch-debug-agents-from-your",
+      "date": "2025-12-10",
+      "name": "Introducing LangSmith Fetch: Debug agents from your terminal",
+      "vendor": "LangChain/LangGraph",
+      "type": "launch",
+      "summary": "<p>Today, we&apos;re launching <strong>LangSmith Fetch</strong>, a CLI tool that brings the full power of LangSmith tracing directly into your terminal and IDE.</p><p>If you&apos;re building agents with coding tools like",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/introducing-langsmith-fetch/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2025-12-10-langchain-langgraph-introducing-polly-your-ai-agent-engineer",
+      "date": "2025-12-10",
+      "name": "Introducing Polly: Your AI Agent Engineer",
+      "vendor": "LangChain/LangGraph",
+      "type": "launch",
+      "summary": "<p>Today, we&apos;re launching <strong>Polly:</strong> an AI-powered assistant built directly into LangSmith that helps you debug, analyze, and improve your agents.</p><p>And yes, we see the irony: we&apos;re adding an a",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/introducing-polly-your-ai-agent-engineer/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2025-12-09-crewai-1-7-0",
       "date": "2025-12-09",
       "name": "1.7.0",
@@ -929,150 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-opensearch-service-gpu-accelerated-auto-optimized-vector-indexes"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-02-aws-announcing-amazon-nova-2-foundation-models-now-ava",
-      "date": "2025-12-02",
-      "name": "Announcing Amazon Nova 2 foundation models now available in Amazon Bedrock",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today AWS announces Amazon Nova 2, our next generation of general models that deliver reasoning capabilities with industry-leading price performance. The new models available today in Amazon Bedrock are:</p> \n<p>• Ama",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/nova-2-foundation-models-amazon-bedrock/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-02-aws-build-agents-to-automate-production-ui-workflows-w",
-      "date": "2025-12-02",
-      "name": "Build agents to automate production UI workflows with Amazon Nova Act (GA)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>We are excited to announce the general availability of Amazon Nova Act, a new AWS service for developers to build and manage fleets of highly reliable agents for automating production UI workflows. Nova Act is powered",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/build-automate-production-ui-workflows-nova-act/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-02-aws-aws-previews-ec2-c8ine-instances",
-      "date": "2025-12-02",
-      "name": "AWS previews EC2 C8ine instances",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS launches the preview of Amazon EC2 C8ine instances, powered by custom sixth-generation Intel Xeon Scalable processors (Granite Rapids) and the latest AWS Nitro v6 card. These instances are designed specifically fo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-previews-ec2-c8ine-instances"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-02-aws-announcing-new-compute-optimized-amazon-ec2-c8a-in",
-      "date": "2025-12-02",
-      "name": "Announcing New Compute-Optimized Amazon EC2 C8a Instances",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS announces the general availability of new compute-optimized Amazon EC2 C8a instances. C8a instances are powered by 5th Gen AMD EPYC processors (formerly code named Turin) with a maximum frequency of 4.5 GHz, deliv",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/compute-optimized-amazon-ec2-c8a-instances/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-02-aws-announcing-amazon-ec2-m4-max-mac-instances-preview",
-      "date": "2025-12-02",
-      "name": "Announcing Amazon EC2 M4 Max Mac instances (Preview)",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Web Services announces preview of Amazon EC2 M4 Max Mac instances, powered by the latest Mac Studio hardware. Amazon EC2 M4 Max Mac instances are the next-generation EC2 Mac instances, that enable Apple develop",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-m4-max-mac-instances-preview"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-02-aws-amazon-guardduty-extended-threat-detection-now-sup",
-      "date": "2025-12-02",
-      "name": "Amazon GuardDuty Extended Threat Detection now supports Amazon EC2 and Amazon ECS",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS announces further enhancements to Amazon GuardDuty Extended Threat Detection with new capabilities to detect multistage attacks targeting Amazon Elastic Compute Cloud (Amazon EC2) instances and Amazon Elastic Cont",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/guardduty-extended-threat-detection-ec2-ecs/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-02-aws-announcing-amazon-ec2-trn3-ultraservers-for-faster",
-      "date": "2025-12-02",
-      "name": "Announcing Amazon EC2 Trn3 UltraServers for faster, lower-cost generative AI training",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS announces the general availability of <a href=\"https://aws.amazon.com/ec2/instance-types/trn3/\" target=\"_blank\">Amazon Elastic Compute Cloud (Amazon EC2) Trn3 UltraServers</a> powered by our fourth–generation AI c",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-trn3-ultraservers"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-02-aws-aws-lambda-announces-durable-functions-for-multi-s",
-      "date": "2025-12-02",
-      "name": "AWS Lambda announces durable functions for multi-step applications and AI workflows",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Lambda announces durable functions, enabling developers to build reliable multi-step applications and AI workflows within the Lambda developer experience. Durable functions automatically checkpoint progress, suspe",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/lambda-durable-multi-step-applications-ai-workflows/"
         }
       ],
       "impact": 5,
