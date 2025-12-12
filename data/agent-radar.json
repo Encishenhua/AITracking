@@ -1,6 +1,222 @@
 {
   "items": [
     {
+      "id": "2025-12-11-openai-advancing-science-and-math-with-gpt-5-2",
+      "date": "2025-12-11",
+      "name": "Advancing science and math with GPT-5.2",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "GPT-5.2 is OpenAI’s strongest model yet for math and science, setting new state-of-the-art results on benchmarks like GPQA Diamond and FrontierMath. This post shows how those gains translate into real research progress, ",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/gpt-5-2-for-science-and-math"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-11-openai-introducing-gpt-5-2",
+      "date": "2025-12-11",
+      "name": "Introducing GPT-5.2",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "GPT-5.2 is our most advanced frontier model for everyday professional work, with state-of-the-art reasoning, long-context understanding, coding, and vision. Use it in ChatGPT and the OpenAI API to power faster, more reli",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/introducing-gpt-5-2"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-11-openai-update-to-gpt-5-system-card-gpt-5-2",
+      "date": "2025-12-11",
+      "name": "Update to GPT-5 System Card: GPT-5.2",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "GPT-5.2 is the latest model family in the GPT-5 series. The comprehensive safety mitigation approach for these models is largely the same as that described in the GPT-5 System Card and GPT-5.1 System Card. Like OpenAI’s ",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/gpt-5-system-card-update-gpt-5-2"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-11-openai-github-connector-errors-for-chatgpt-web-and-codex",
+      "date": "2025-12-11",
+      "name": "Github Connector Errors for ChatGPT Web and Codex",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Identified</b><br /><br />We are continuing to apply a mitigation. Users may continue to experience errors when using Codex (including code reviews) and ChatGPT with the Github connector.<br /><br /><b>Affecte",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KC6WSFM4ECT1Y5XBPF2AMXV9"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-11-aws-amazon-aurora-dsql-now-supports-cluster-creation-i",
+      "date": "2025-12-11",
+      "name": "Amazon Aurora DSQL now supports cluster creation in seconds",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Aurora DSQL now supports faster cluster creation, reducing setup time from minutes to seconds.<br /> <br /> With cluster creation now in seconds, developers can instantly provision Aurora DSQL databases to rapi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-aurora-dsql-cluster-creation-in-seconds"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-11-aws-amazon-workspaces-secure-browser-introduces-web-co",
+      "date": "2025-12-11",
+      "name": "Amazon WorkSpaces Secure Browser introduces Web Content Filtering",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon WorkSpaces Secure Browser now includes Web Content Filtering, a comprehensive security and compliance feature that enables organizations to control and monitor web content access. This new capability allows adm",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-secure-browser-web-content-filtering/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-11-aws-amazon-cognito-identity-pools-now-support-private-",
+      "date": "2025-12-11",
+      "name": "Amazon Cognito identity pools now support private connectivity with AWS PrivateLink",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Cognito identity pools now support AWS PrivateLink, enabling you to securely exchange federated identities for AWS credentials through private connectivity between your virtual private cloud (VPC) and Cognito. ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-cognito-identity-pools-private-connectivity-aws-privatelink"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-11-aws-amazon-aurora-postgresql-now-supports-integration-",
+      "date": "2025-12-11",
+      "name": "Amazon Aurora PostgreSQL now supports integration with Kiro powers",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces Amazon Aurora PostgreSQL-Compatible Edition integration with Kiro powers, enabling developers to build Aurora PostgreSQL backed applications faster with AI agent-assisted development using Kiro. <",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-aurora-postgresql-integration-kiro-powers"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-11-aws-aws-application-migration-service-supports-ipv6",
+      "date": "2025-12-11",
+      "name": "AWS Application Migration Service supports IPv6",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Application Migration Service (MGN) now supports Internet Protocol version 6 (IPv6) for both service communication and application migrations. Organizations can migrate applications that use IPv6 addressing, enabl",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/application-migration-service-ipv6/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-11-aws-amazon-ec2-high-memory-u7i-instances-now-available",
+      "date": "2025-12-11",
+      "name": "Amazon EC2 High Memory U7i instances now available in additional regions",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon EC2 High Memory U7i instances with 24TB of memory (u7in-24tb.224xlarge) are now available in AWS Europe (Frankfurt), U7i instances with 16TB of memory (u7in-16tb.224xlarge) are now available in AWS Asia Pacific",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-high-memory-u7i-instances-additional-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-11-aws-amazon-ec2-i7i-instances-now-available-in-addition",
+      "date": "2025-12-11",
+      "name": "Amazon EC2 I7i instances now available in additional AWS regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Web Services (AWS) announces the availability of high performance Storage Optimized Amazon EC2 I7i instances in AWS Asia Pacific (Singapore, Jakarta), Europe (Stockholm) regions. Powered by 5th generation Intel",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-i7i-instances-additional-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-11-aws-amazon-ec2-c7i-instances-are-now-available-in-the-",
+      "date": "2025-12-11",
+      "name": "Amazon EC2 C7i instances are now available in the Asia Pacific (Hyderabad) Region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C7i instances powered by custom 4th Gen Intel Xeon Scalable processors (code-named Sapphire Rapids) are available in the Asia Pacific (Hyderabad) Region. C7i i",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-c7i-instances-asia-pacific-hyderabad-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-12-10-openai-increased-errors-on-android-devices",
       "date": "2025-12-10",
       "name": "Increased Errors On Android Devices",
@@ -857,222 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/mistral-large-3-ministral-3-family-available-amazon-bedrock"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-02-aws-amazon-s3-batch-operations-introduces-performance-",
-      "date": "2025-12-02",
-      "name": "Amazon S3 Batch Operations introduces performance improvements",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon S3 Batch Operations now completes jobs up to 10x faster at a scale of up to 20 billion objects in a job, helping you accelerate large-scale storage operations.<br /> <br /> With S3 Batch Operations, you can per",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/s3-batch-operations-performance-improvements/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-02-aws-introducing-aws-ai-factories",
-      "date": "2025-12-02",
-      "name": "Introducing AWS AI Factories",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS AI Factories are now available, providing rapidly deployable, high-performance AWS&nbsp;AI infrastructure in your own&nbsp;data centers. By combining the latest AWS Trainium accelerators and NVIDIA GPUs, specializ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-ai-factories"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-02-aws-introducing-aws-devops-agent-preview-frontier-agen",
-      "date": "2025-12-02",
-      "name": "Introducing AWS DevOps Agent (preview), frontier agent for operational excellence",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>We're excited to launch AWS DevOps Agent in preview, a <a href=\"https://aws.amazon.com/ai/frontier-agents/\" target=\"_blank\">frontier agent</a> that resolves and proactively prevents incidents, continuously improving r",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/devops-agent-preview-frontier-agent-operational-excellence/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-02-aws-aws-security-hub-is-now-generally-available-with-n",
-      "date": "2025-12-02",
-      "name": "AWS Security Hub is now generally available with near real-time risk analytics",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Web Services (AWS) announces the general availability of AWS Security Hub, a unified cloud security solution that prioritizes your critical security issues and helps you respond at scale, reduce security risks,",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/security-hub-near-real-time-risk-analytics/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-02-aws-amazon-s3-tables-now-support-automatic-replication",
-      "date": "2025-12-02",
-      "name": "Amazon S3 Tables now support automatic replication of Apache Iceberg tables",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon S3 Tables now support automatic replication of Apache Iceberg tables across AWS Regions and accounts. This new capability replicates your complete table structure, including all snapshots and metadata to reduce",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/s3-tables-automatic-replication-apache-iceberg-tables/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-02-aws-amazon-s3-vectors-is-now-generally-available-with-",
-      "date": "2025-12-02",
-      "name": "Amazon S3 Vectors is now generally available with 40 times the scale of preview",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon S3 Vectors, the first cloud object storage with native support to store and query vectors, is now generally available. S3 Vectors delivers purpose-built, cost-optimized vector storage for AI agents, inference, ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-s3-vectors-generally-available"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-02-aws-amazon-bedrock-agentcore-now-includes-policy-previ",
-      "date": "2025-12-02",
-      "name": "Amazon Bedrock AgentCore now includes Policy (preview), Evaluations (preview) and more",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, Amazon Bedrock AgentCore introduces new offerings, including Policy (preview) and Evaluations (preview), to give teams the controls and quality assurance they need to confidently scale agent deployment across t",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-bedrock-agentcore-policy-evaluations-preview"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-02-aws-amazon-cloudwatch-launches-unified-management-and-",
-      "date": "2025-12-02",
-      "name": "Amazon CloudWatch launches unified management and analytics for operational, security, and compliance data",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon CloudWatch now provides new data management and analytics capabilities that allow you to unify operational, security, and compliance data across your AWS environment and third-party sources. DevOps teams, secur",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-cloudwatch-unified-management-analytics"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-02-aws-amazon-bedrock-adds-18-fully-managed-open-weight-m",
-      "date": "2025-12-02",
-      "name": "Amazon Bedrock adds 18 fully managed open weight models, the largest expansion of new models to date",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock is a platform for building generative AI applications and agents at production scale. Amazon Bedrock provides access to a broad selection of fully managed models from leading AI companies through a unif",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-bedrock-fully-managed-open-weight-models"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-02-aws-amazon-emr-serverless-eliminates-local-storage-pro",
-      "date": "2025-12-02",
-      "name": "Amazon EMR Serverless eliminates local storage provisioning for Apache Spark workloads",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon EMR Serverless now offers serverless storage that eliminates local storage provisioning for Apache Spark workloads, reducing data processing costs by up to 20% and preventing job failures from disk capacity con",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-emr-serverless-local-storage-provisioning-apache-spark-workloads"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-02-aws-announcing-database-savings-plans-with-up-to-35-sa",
-      "date": "2025-12-02",
-      "name": "Announcing Database Savings Plans with up to 35% savings",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS announces Database Savings Plans, a new flexible pricing model that helps you save up to 35% in exchange for a commitment to a consistent amount of usage (measured in $/hour) over a one-year term with no up",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/database-savings-plans-savings"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-02-aws-amazon-opensearch-service-adds-gpu-accelerated-and",
-      "date": "2025-12-02",
-      "name": "Amazon OpenSearch Service adds GPU-accelerated and auto-optimized vector indexes",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>You can now build billion-scale vector databases in under an hour on Amazon OpenSearch Service with GPU-acceleration, and auto-optimize vector indexes for optimal trade-offs between search quality, speed and cost.<br ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-opensearch-service-gpu-accelerated-auto-optimized-vector-indexes"
         }
       ],
       "impact": 5,
