@@ -1,6 +1,150 @@
 {
   "items": [
     {
+      "id": "2025-12-12-openai-bny-builds-ai-for-everyone-everywhere-with-openai",
+      "date": "2025-12-12",
+      "name": "BNY builds “AI for everyone, everywhere” with OpenAI",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "BNY is using OpenAI technology to expand AI adoption enterprise-wide. Through its Eliza platform, 20,000+ employees are building AI agents that enhance efficiency and improve client outcomes.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/bny"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-12-aws-aws-shield-network-security-director-now-supports-",
+      "date": "2025-12-12",
+      "name": "AWS Shield network security director now supports multi-account analysis",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS Shield announces multi-account network security management and automated network analysis for network security director, which is currently in preview. AWS Shield network security director provides visibili",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-shield-network-security-director-multi-account-analysis"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-12-aws-amazon-emr-managed-scaling-is-now-available-in-7-a",
+      "date": "2025-12-12",
+      "name": "Amazon EMR Managed Scaling is now available in 7 additional AWS regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>We are excited to announce that <a href=\"https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-managed-scaling.html\" target=\"_blank\">Amazon EMR Managed Scaling</a> is now available for EMR on EC2 customers in the",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-emr-managed-scaling-additional-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-12-aws-validate-best-practice-compliance-for-sap-abap-app",
+      "date": "2025-12-12",
+      "name": "Validate best practice compliance for SAP ABAP applications with AWS Systems Manager",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Systems Manager (AWS SSM) Configuration Manager now allows you to automatically test SAP ABAP based applications on AWS against best practices defined in the AWS Well-Architected Framework SAP Lens.<br /> <br /> K",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/compliance-sap-abap-systems-manager/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-12-aws-amazon-ec2-x2iedn-instances-now-available-in-aws-e",
+      "date": "2025-12-12",
+      "name": "Amazon EC2 X2iedn instances now available in AWS Europe (Zurich)  region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, memory-optimized Amazon Compute Cloud (Amazon EC2) X2iedn instances are available in AWS Europe (Zurich) region. These instances, powered by 3rd generation Intel Xeon Scalable Processors and built with",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-x2iedn-instances-zurich-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-12-aws-aws-datasync-introduces-terraform-support-for-enha",
+      "date": "2025-12-12",
+      "name": "AWS DataSync introduces Terraform support for Enhanced mode",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>The <a href=\"https://registry.terraform.io/modules/aws-ia/datasync/aws/latest\">AWS DataSync Terraform module</a> now supports Enhanced mode for transfers between S3 locations, making it easier for you to set up high-p",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/datasync-terraform-enhanced-mode/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-12-aws-amazon-ec2-x2iedn-instances-now-available-in-aws-a",
+      "date": "2025-12-12",
+      "name": "Amazon EC2 X2iedn instances now available in AWS Asia Pacific (Thailand) region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, memory-optimized Amazon Compute Cloud (Amazon EC2) X2iedn instances are available in AWS Asia Pacific (Thailand) region. These instances, powered by 3rd generation Intel Xeon Scalable Processors and bu",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-x2iedn-instances-thailand-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-12-aws-aws-elastic-beanstalk-is-now-available-in-addition",
+      "date": "2025-12-12",
+      "name": "AWS Elastic Beanstalk is now available in additional regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>We are excited to announce the general availability of AWS Elastic Beanstalk in Asia Pacific (New Zealand) (Melbourne), (Malaysia), (Hyderabad), Canada West (Calgary), and Europe (Zurich).<br /> <br /> AWS Elastic Bea",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/elastic-beanstalk-additional-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-12-11-openai-advancing-science-and-math-with-gpt-5-2",
       "date": "2025-12-11",
       "name": "Advancing science and math with GPT-5.2",
@@ -209,6 +353,24 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-c7i-instances-asia-pacific-hyderabad-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-11-aws-amazon-cloudwatch-sdk-supports-optimized-json-cbor",
+      "date": "2025-12-11",
+      "name": "Amazon CloudWatch SDK supports optimized JSON, CBOR protocols",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p><a href=\"https://aws.amazon.com/cloudwatch\" target=\"_blank\">Amazon CloudWatch</a> announces support for both the JSON and Concise Binary Object Representation (CBOR) protocols in the CloudWatch SDK, enabling lower lat",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-cloudwatch-sdk-json-cbor-protocols"
         }
       ],
       "impact": 5,
@@ -911,168 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-nova-2-sonic-real-time-conversational-ai/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-02-aws-announcing-the-apache-spark-upgrade-agent-for-amaz",
-      "date": "2025-12-02",
-      "name": "Announcing the Apache Spark upgrade agent for Amazon EMR",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS announces the Apache Spark upgrade agent, a new capability that accelerates Apache Spark version upgrades for Amazon EMR on EC2 and EMR Serverless. The agent converts complex upgrade processes that typically take ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/apache-spark-upgrade-agent-amazon-emr"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-02-aws-amazon-rds-for-sql-server-now-supports-developer-e",
-      "date": "2025-12-02",
-      "name": "Amazon RDS for SQL Server now supports Developer Edition",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for SQL Server</a> now offers Microsoft SQL Server 2022 Developer Edition. SQL Server Developer Edition i",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-rds-sql-server-supports-developer-edition/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-02-aws-amazon-s3-storage-lens-adds-performance-metrics-su",
-      "date": "2025-12-02",
-      "name": "Amazon S3 Storage Lens adds performance metrics, support for billions of prefixes, and export to S3 Tables",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon S3 Storage Lens provides organization-wide visibility into your storage usage and activity to help optimize costs, improve performance, and strengthen data protection. Today, we are adding three new capabilitie",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-s3-storage-lens-performance-metrics-prefixes-export-tables"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-02-aws-amazon-fsx-for-netapp-ontap-now-supports-amazon-s3",
-      "date": "2025-12-02",
-      "name": "Amazon FSx for NetApp ONTAP now supports Amazon S3 access",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>You can now attach Amazon S3 Access Points to your Amazon FSx for NetApp ONTAP file systems so that you can access your file data as if it were in S3. With this new capability, your file data in FSx for NetApp ONTAP i",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-fsx-netapp-ontap-s3-access"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-02-aws-amazon-rds-for-sql-server-launches-optimize-cpu-wi",
-      "date": "2025-12-02",
-      "name": "Amazon RDS for SQL Server launches optimize CPU with new generation instances for up to 55% lower price",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon RDS for SQL Server launches optimize CPU with support for M7i and R7i instance families, which reduce prices by up to 55% compared to equivalent previous generation instances. Optimize CPU optimizes Simultaneou",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-rds-sql-server-optimized-cpu-lower-prices"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-02-aws-amazon-ec2-p6e-gb300-ultraservers-accelerated-by-n",
-      "date": "2025-12-02",
-      "name": "Amazon EC2 P6e-GB300 UltraServers accelerated by NVIDIA GB300 NVL72 are now generally available",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the general availability of Amazon Elastic Compute Cloud (Amazon EC2) P6e-GB300 UltraServers. P6e-GB300 UltraServers, accelerated by NVIDIA GB300 NVL72, provide 1.5x GPU memory and 1.5x FP4 comput",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-p6e-gb300-ultraservers-nvidia-gb300-nvl72-generally-available"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-02-aws-announcing-new-memory-optimized-amazon-ec2-x8aedz-",
-      "date": "2025-12-02",
-      "name": "Announcing new memory-optimized Amazon EC2 X8aedz Instances",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS announces Amazon EC2 X8aedz, next generation memory optimized instances, powered by 5th Gen AMD EPYC processors (formerly code named Turin). These instances offer the highest maximum CPU frequency, 5GHz in the clo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/memory-optimized-amazon-ec2-x8aedz-instances/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-02-aws-announcing-amazon-ec2-memory-optimized-x8i-instanc",
-      "date": "2025-12-02",
-      "name": "Announcing Amazon EC2 Memory optimized X8i instances (Preview)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Web Services is announcing the preview of Amazon EC2 X8i, next-generation Memory optimized instances. X8i instances are powered by custom Intel Xeon 6 processors delivering the highest performance and fastest m",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-x8i-instances-preview"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-02-aws-mistral-large-3-and-ministral-3-family-now-availab",
-      "date": "2025-12-02",
-      "name": "Mistral Large 3 and Ministral 3 family now available first  on Amazon Bedrock",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Customers can now use Mistral Large 3 and the Ministral 3 family of models available first on Amazon Bedrock as well as additional models including Voxtral Mini 1.0, Voxtral Small 1.0, and Magistral Small 1.2 on Amazo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/mistral-large-3-ministral-3-family-available-amazon-bedrock"
         }
       ],
       "impact": 5,
