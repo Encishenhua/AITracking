@@ -1,6 +1,222 @@
 {
   "items": [
     {
+      "id": "2025-12-17-openai-codex-responses-api-experiencing-elevated-errors",
+      "date": "2025-12-17",
+      "name": "Codex & Responses API Experiencing Elevated Errors",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Responses (Degraded performance)</li>\n<li>Codex (Deg",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KCM7PAMQMCM8KAB6ZCWPKNK1"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-16-aws-amazon-connect-launches-additional-details-within-",
+      "date": "2025-12-16",
+      "name": "Amazon Connect launches additional details within real-time metric alerts",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect alerts on real-time metrics now provide the specific agents, queues, flows, or routing profiles that exceeded thresholds and triggered the alert. This enables managers to respond faster to customer expe",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-connect-additional-details-real-time-metric-alerts/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-16-aws-aws-artifact-enables-access-to-previous-versions-o",
+      "date": "2025-12-16",
+      "name": "AWS Artifact enables access to previous versions of compliance reports",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Artifact now enables direct access to previous versions of AWS compliance reports, eliminating the need to contact AWS Support or account representatives. This self-service capability helps customers efficiently m",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-artifact-access-previous-versions-compliance-reports"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-16-aws-amazon-ec2-m8i-instances-are-now-available-in-addi",
+      "date": "2025-12-16",
+      "name": "Amazon EC2 M8i instances are now available in additional Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon EC2 M8i instances are now available in Asia Pacific (Seoul), Asia Pacific (Tokyo), Asia Pacific (Sydney), Asia Pacific (Singapore), and Canada (Central) Regions. These instances are powered by c",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-m8i-instances-additional-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-16-aws-aws-reduces-publishing-time-for-carbon-footprint-d",
+      "date": "2025-12-16",
+      "name": "AWS reduces publishing time for Carbon Footprint Data to 21 days or Less",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS is now publishing your carbon footprint data in 21 days or less. Previously, the carbon footprint data was published with up to a three month data lag. Now, you have access to your carbon footprint data with estim",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-reduces-publishing-time-carbon-footprint-data"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-16-aws-amazon-sagemaker-ai-is-now-available-in-asia-pacif",
+      "date": "2025-12-16",
+      "name": "Amazon SageMaker AI is now available in Asia Pacific (New Zealand)",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, you can build, train, and deploy machine learning (ML) models in Asia Pacific (New Zealand).<br /> <br /> Amazon SageMaker AI is a fully managed platform that provides every developer and data scientis",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-sagemaker-ai-asia-pacific-new-zealand"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-16-aws-aws-security-incident-response-introduces-integrat",
+      "date": "2025-12-16",
+      "name": "AWS Security Incident Response introduces integration with Slack",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/security-incident-response/\" target=\"_blank\">AWS Security Incident Response</a> now offers integration with the cloud-based team collaboration platform Slack, enabling you to prepare fo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-security-incident-response-integration-slack"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-16-aws-amazon-ec2-m8i-flex-instances-are-now-available-in",
+      "date": "2025-12-16",
+      "name": "Amazon EC2 M8i-flex instances are now available in Asia Pacific (Sydney) Region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon EC2 M8i-flex instances are now available in Asia Pacific (Sydney) Region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the highest performance",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-m8i-flex-instances-sydney-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-16-aws-amazon-quick-suite-now-supports-memory-for-chat-ag",
+      "date": "2025-12-16",
+      "name": "Amazon Quick Suite now supports memory for chat agents",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>We are announcing memory for chat agents in Amazon Quick Suite – a feature that allows users to get personalized responses based on their previous conversations. With this feature, Quick Suite remembers the preference",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-quick-suite-memory-chat-agents/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-16-aws-amazon-route-53-launches-detailed-metrics-for-reso",
+      "date": "2025-12-16",
+      "name": "Amazon Route 53 launches detailed metrics for Resolver endpoints",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, you can enable Amazon CloudWatch metrics for Route 53 to monitor the performance and health of Route 53 Resolver endpoints and any target name servers associated with your outbound Resolver endpoints.<",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/route-53-detailed-metrics-resolver-endpoints/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-16-langchain-langgraph-fastweb-vodafone-transforming-customer-experience-",
+      "date": "2025-12-16",
+      "name": "Fastweb + Vodafone: Transforming Customer Experience with AI Agents using LangGraph and LangSmith",
+      "vendor": "LangChain/LangGraph",
+      "type": "upgrade",
+      "summary": "See how Fastweb + Vodafone revolutionized customer service and call center operations with their agents, Super TOBi and Super Agent.",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/customers-vodafone-italy/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2025-12-16-crewai-1-7-1",
+      "date": "2025-12-16",
+      "name": "1.7.1",
+      "vendor": "CrewAI",
+      "type": "upgrade",
+      "summary": "<h2>What's Changed</h2>\n<h3>Improvements</h3>\n<ul>\n<li>Add <code>--no-commit</code> flag to bump command</li>\n<li>Use JSON schema for tool argument serialization</li>\n</ul>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Fix error message d",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.7.1"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2025-12-15-aws-amazon-connect-now-supports-multiple-choice-and-da",
       "date": "2025-12-15",
       "name": "Amazon Connect now supports multiple choice and date questions in evaluation forms",
@@ -857,222 +1073,6 @@
         {
           "title": "OpenAI source",
           "url": "https://status.openai.com//incidents/01KBP2P87WZ8SS9KWJ8YBWYZAG"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-05-aws-amazon-opensearch-service-now-supports-automatic-s",
-      "date": "2025-12-05",
-      "name": "Amazon OpenSearch Service now supports automatic semantic enrichment",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon OpenSearch Service now brings automatic semantic enrichment to managed clusters, matching the capability we launched for <a href=\"https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-opensearch-serverless-",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/opensearch-service-automatic-semantic-enrichment/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-05-aws-twelvelabs-pegasus-1-2-model-now-in-23-new-aws-reg",
-      "date": "2025-12-05",
-      "name": "TwelveLabs’ Pegasus 1.2 model now in 23 new AWS regions via Global cross-region inference",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock introduces <a href=\"https://docs.aws.amazon.com/bedrock/latest/userguide/global-cross-region-inference.html\">Global cross-Region inference</a> for TwelveLabs' Pegasus 1.2, expanding model availability t",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/twelvelabs-pegasus-available-with-global-cross-region-inference/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-05-aws-ses-mail-manager-is-now-available-in-10-additional",
-      "date": "2025-12-05",
-      "name": "SES Mail Manager is now available in 10 additional AWS Regions, 27 total",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SES announces that the SES Mail Manager product is now available in 10 additional <a href=\"https://aws.amazon.com/about-aws/global-infrastructure/regions_az/\" target=\"_blank\">commercial AWS Regions</a>. This ex",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/ses-mail-manager-10-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-05-aws-amazon-ses-adds-vpc-support-for-api-endpoints",
-      "date": "2025-12-05",
-      "name": "Amazon SES adds VPC support for API endpoints",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, Amazon <a href=\"https://aws.amazon.com/ses/\">Simple Email Service</a> (SES) added support for accessing SES API endpoints through Virtual Private Cloud (VPC) endpoints. Customers use VPC endpoints to enable acc",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ses-vpc-api-endpoints/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-05-aws-amazon-connect-launches-whatsapp-channel-for-outbo",
-      "date": "2025-12-05",
-      "name": "Amazon Connect launches WhatsApp channel for Outbound Campaigns",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect Outbound Campaigns now supports WhatsApp, expanding on the WhatsApp Business messaging capabilities that already allow customers to contact your agents. You can now engage customers through proactive, a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/connect-whatsapp-channel-outbound-campaigns/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-05-aws-aws-launches-simplified-enablement-of-aws-cloudtra",
-      "date": "2025-12-05",
-      "name": "AWS launches simplified enablement of AWS CloudTrail events in Amazon CloudWatch",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS launches simplified enablement of AWS CloudTrail events in Amazon CloudWatch, a monitoring and logging service that helps you collect, monitor, and analyze log data from your AWS resources and applications.",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/key-enhancements-cloudtrail-events-cloudwatch/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-05-langchain-langgraph-evaluating-deepagents-cli-on-terminal-bench-2-0",
-      "date": "2025-12-05",
-      "name": "Evaluating DeepAgents CLI on Terminal Bench 2.0",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "<p>By Vivek Trivedy and Eugene Yurtsev</p><p><a href=\"https://github.com/langchain-ai/deepagents?ref=blog.langchain.com\">DeepAgents CLI</a> is a coding agent built on top of the <a href=\"https://github.com/langchain-ai/d",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/evaluating-deepagents-cli-on-terminal-bench-2-0/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2025-12-05-flowise-flowise-3-0-12",
-      "date": "2025-12-05",
-      "name": "flowise@3.0.12",
-      "vendor": "Flowise",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<h2>Nodes</h2>\n<ul>\n<li>Chore/Disable Unstructure Folder by <a class=\"user-mention notranslate\" href=\"https://github.com/HenryHengZJ\">@HenryHengZJ</a> in <a class=\"issue-link js-issue-link\" href=\"",
-      "sources": [
-        {
-          "title": "Flowise source",
-          "url": "https://github.com/FlowiseAI/Flowise/releases/tag/flowise%403.0.12"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2025-12-04-aws-amazon-bedrock-now-supports-responses-api-from-ope",
-      "date": "2025-12-04",
-      "name": "Amazon Bedrock now supports Responses API from OpenAI",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Bedrock now supports Responses API on new OpenAI API-compatible service endpoints. Responses API enables developers to achieve asynchronous inference for long-running inference workloads, simplifies tool use in",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-bedrock-responses-api-from-openai/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-04-aws-announcing-new-amazon-ec2-m9g-instances-powered-by",
-      "date": "2025-12-04",
-      "name": "Announcing new Amazon EC2 M9g instances powered by AWS Graviton5 processors (Preview)",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, new general purpose Amazon Elastic Compute Cloud (Amazon EC2) <a href=\"http://aws.amazon.com/ec2/instance-types/m9g\">M9g</a> instances, powered by AWS Graviton5 processors, are available in preview. AW",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-m9g-instances-graviton5-processors-preview/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-03-aws-amazon-sagemaker-hyperpod-now-supports-checkpointl",
-      "date": "2025-12-03",
-      "name": "Amazon SageMaker HyperPod now supports checkpointless training",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker HyperPod now supports checkpointless training, a new foundational model training capability that mitigates the need for a checkpoint-based job-level restart for fault recovery. Checkpointless training",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-sagemaker-hyperpod-checkpointless-training"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-03-aws-new-serverless-model-customization-capability-in-a",
-      "date": "2025-12-03",
-      "name": "New serverless model customization capability in Amazon SageMaker AI",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Web Services (AWS) announces a new serverless model customization capability that empowers AI developers to quickly customize popular models with supervised fine-tuning and the latest techniques like reinforcem",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/new-serverless-model-customization-capability-amazon-sagemaker-ai"
         }
       ],
       "impact": 5,
