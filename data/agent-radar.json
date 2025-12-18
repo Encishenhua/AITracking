@@ -19,6 +19,366 @@
       "tags": []
     },
     {
+      "id": "2025-12-17-openai-introducing-openai-academy-for-news-organizations",
+      "date": "2025-12-17",
+      "name": "Introducing OpenAI Academy for News Organizations",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "OpenAI is launching the OpenAI Academy for News Organizations, a new learning hub built with the American Journalism Project and The Lenfest Institute to help newsrooms use AI effectively. The Academy offers training, pr",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/openai-academy-for-news-organizations"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-17-openai-finetuning-jobs-are-intermittently-failing",
+      "date": "2025-12-17",
+      "name": "Finetuning jobs are intermittently failing",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Fine-tuning (Operational)</li>\n          </ul>",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KCQ5FA8SEDPNZSZEH27V2H5X"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-17-aws-now-generally-available-amazon-ec2-m8gn-and-m8gb-i",
+      "date": "2025-12-17",
+      "name": "Now generally available: Amazon EC2 M8gn and M8gb instances",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the general availability of the new Amazon Elastic Compute Cloud (Amazon EC2) M8gn and M8gb instances. These instances are powered by AWS Graviton4 processors to deliver up to 30% better compute p",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-m8gn-m8gb-instances"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-17-aws-amazon-workspaces-applications-announces-additiona",
+      "date": "2025-12-17",
+      "name": "Amazon WorkSpaces Applications announces additional health and performance metrics",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Today, Amazon WorkSpaces Applications announced a new set of Amazon CloudWatch metrics for monitoring the health and performance of fleets, sessions, instances, and users. Administrators and support operations personn",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-applications-health-performance-metrics"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-17-aws-amazon-aurora-now-supports-postgresql-18-1-in-the-",
+      "date": "2025-12-17",
+      "name": "Amazon Aurora now supports PostgreSQL 18.1 in the Amazon RDS Database preview environment",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Aurora PostgreSQL-Compatible Edition now supports PostgreSQL version 18.1 in the <a href=\"https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/create-db-instance-in-preview-environment.html\" target=\"_blank\">A",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-aurora-postgresql-18-1-rds-database-preview"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-17-aws-aws-announces-enhanced-custom-line-item-controls-f",
+      "date": "2025-12-17",
+      "name": "AWS announces enhanced custom line item controls for AWS Billing Conductor",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, AWS Billing Conductor customers gain greater flexibility when using custom line items.<br /> <br /> Customers can now create service-specific custom line items scoped at either one AWS service or to a ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/enhanced-custom-line-item-controls-aws-billing-conductor"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-17-aws-amazon-ec2-c8g-m8g-r8g-instances-now-available-in-",
+      "date": "2025-12-17",
+      "name": "Amazon EC2 C8g, M8g, R8g instances now available in additional regions",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8g and M8g instances are available in AWS GovCloud (US-West) and R8g and M8g instances are available in AWS GovCloud (US-East) regions. These instances are po",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-c8g-m8g-r8g-instances-additional-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-17-aws-amazon-ecr-public-now-supports-privatelink-for-us-",
+      "date": "2025-12-17",
+      "name": "Amazon ECR Public now supports PrivateLink for US East (N. Virginia) SDK Endpoint",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Elastic Container Registry (ECR) Public now supports PrivateLink for the US East (N. Virginia) SDK endpoint, providing enhanced network security and private connectivity for customers. This update allows custom",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ecr-public-privatelink-us-east-n-virginia-sdk-endpoint"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-17-aws-amazon-ec2-c8g-instances-now-available-in-europe-z",
+      "date": "2025-12-17",
+      "name": "Amazon EC2 C8g instances now available in Europe (Zurich)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8g instances are available in AWS Europe (Zurich) region. These instances are powered by AWS Graviton4 processors and deliver up to 30% better performance com",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-c8g-instances-europe-zurich"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-17-aws-amazon-opensearch-service-announces-new-oi2-instan",
+      "date": "2025-12-17",
+      "name": "Amazon OpenSearch Service announces new OI2 instances",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon OpenSearch Service introduces OI2 instances, expanding the OpenSearch Optimized Instance family. The new OI2 instances delivers up to 9% higher indexing throughput compared to OR2 instances and up to 33% over I",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-opensearch-service-oi2-instances/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-17-aws-amazon-ec2-m8g-instances-now-available-in-addition",
+      "date": "2025-12-17",
+      "name": "Amazon EC2 M8g instances now available in additional regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M8g instances are available in Asia Pacific (Thailand, Jakarta, Melbourne), and AWS Middle East (UAE) regions. These instances are powered by AWS Graviton4 pro",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-m8g-additional-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-17-aws-amazon-ec2-r8g-instances-now-available-in-addition",
+      "date": "2025-12-17",
+      "name": "Amazon EC2 R8g instances now available in additional regions",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8g instances are available in AWS Europe (Paris), and Asia Pacific (Hyderabad) regions. These instances are powered by AWS Graviton4 processors and deliver up",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-r8g-instances-additional-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-17-aws-amazon-opensearch-service-now-offers-a-new-multi-t",
+      "date": "2025-12-17",
+      "name": "Amazon OpenSearch Service now offers a new multi-tier storage",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon OpenSearch Service now offers a new multi-tier storage option powered by OpenSearch Optimized Instances. This new architecture combines Amazon S3 cloud technology with local instance storage to deliver improved",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/writeable-warm-tier-opensearch-optimized-instances/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-17-aws-aws-security-incident-response-is-now-available-in",
+      "date": "2025-12-17",
+      "name": "AWS Security Incident Response is now available in ten additional AWS Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a contenteditable=\"false\" href=\"https://aws.amazon.com/security-incident-response/\" style=\"cursor: pointer;\">AWS Security Incident Response</a> is now available to customers in ten additional <a contenteditable=\"fals",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/security-incident-response-ten-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-17-aws-aws-payment-cryptography-is-now-available-in-asia-",
+      "date": "2025-12-17",
+      "name": "AWS Payment Cryptography is now available in Asia Pacific(Hyderabad) and Europe(Paris)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/payment-cryptography/\">AWS Payment Cryptography</a> has expanded its global presence with availability in two new regions - Asia Pacific(Hyderabad) and Europe(Paris). This expansion ena",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-payment-cryptography-available-in-hyderabad-paris/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-17-aws-aws-payment-cryptography-reduces-api-pricing-by-up",
+      "date": "2025-12-17",
+      "name": "AWS Payment Cryptography reduces API pricing by up to 63% and introduces tiered key pricing",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, <a href=\"https://aws.amazon.com/payment-cryptography/\" target=\"_blank\">AWS Payment Cryptography</a> announced a significant price reduction of up to 63% for API requests across existing tiers and introduced a n",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-payment-cryptography-lower-pricing/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-17-aws-aws-marketplace-now-supports-mandatory-purchase-or",
+      "date": "2025-12-17",
+      "name": "AWS Marketplace now supports mandatory purchase orders and custom messaging",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Marketplace now supports mandatory purchase order requirements and custom messaging at the time of purchase, allowing organizations to strengthen their procurement governance. These capabilities help procurement, ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-marketplace-mandatory-purchase-orders-custom-messaging"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-17-aws-amazon-ec2-c8i-and-c8i-flex-instances-are-now-avai",
+      "date": "2025-12-17",
+      "name": "Amazon EC2 C8i and C8i-flex instances are now available in the Asia Pacific (Singapore) Region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8i and C8i-flex instances are available in the Asia Pacific (Singapore) region. These instances are powered by custom Intel Xeon 6 processors, available only ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-c8i-c8i-flex-instances-singapore-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-17-aws-amazon-redshift-serverless-announces-the-general-a",
+      "date": "2025-12-17",
+      "name": "Amazon Redshift Serverless announces the general availability of dual-stack mode supporting IPV6",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Redshift Serverless announces the general availability of dual-stack mode that supports Internet Protocol version 6 (IPv6). This enhancement enables you to modernize your network infrastructure and meet the gro",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-redshift-serverless-announces-dual-stack-mode-ipv6/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-17-aws-aws-iam-identity-center-is-now-available-in-the-as",
+      "date": "2025-12-17",
+      "name": "AWS IAM Identity Center is now available in the Asia Pacific (Taipei) AWS Region",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>You can now deploy AWS IAM Identity Center in 37 AWS Regions, including Asia Pacific (Taipei).<br /> <br /> IAM Identity Center is the recommended service for managing workforce access to AWS applications. It enables ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-iam-identity-center-asia-pacific-taipei-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-12-16-aws-amazon-connect-launches-additional-details-within-",
       "date": "2025-12-16",
       "name": "Amazon Connect launches additional details within real-time metric alerts",
@@ -214,6 +574,24 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2025-12-16-openai-chatgpt-intermittently-not-loading-successfully-af",
+      "date": "2025-12-16",
+      "name": "ChatGPT intermittently not loading successfully after SSO authentication",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Investigating</b><br /><br />We are investigating the issue for the listed services.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Login (Partial outage)</li>\n          </ul>",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KCQ4D84M0KCBPNCENAV6B8GZ"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
       "tags": []
     },
     {
@@ -695,384 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-cloudwatch-sdk-json-cbor-protocols"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-10-openai-increased-errors-on-android-devices",
-      "date": "2025-12-10",
-      "name": "Increased Errors On Android Devices",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Login (Operational)</li>\n<li>File uploads (Operational)</li>\n<li>Voice",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KC56SP6M152HGWAF6EAFQR2E"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-10-aws-amazon-ecs-now-supports-custom-container-stop-sign",
-      "date": "2025-12-10",
-      "name": "Amazon ECS now supports custom container stop signals on AWS Fargate",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/ecs/\">Amazon Elastic Container Service</a> (Amazon ECS) now supports custom container stop signals for Linux tasks running on AWS Fargate, honoring the stop signal configured in Open Co",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ecs-custom-container-stop-signals-fargate/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-10-aws-now-generally-available-amazon-ec2-c8gb-instances",
-      "date": "2025-12-10",
-      "name": "Now generally available: Amazon EC2 C8gb instances",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the general availability of the new Amazon Elastic Block Storage (Amazon EBS) optimized Amazon Elastic Compute Cloud (Amazon EC2) C8gb instances. These instances are powered by AWS Graviton4 proce",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-c8gb-instances"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-10-aws-amazon-ec2-x8g-instances-now-available-in-asia-pac",
-      "date": "2025-12-10",
-      "name": "Amazon EC2 X8g instances now available in Asia Pacific (Sydney) region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) X8g instances are available in Asia Pacific (Sydney) region. These instances are powered by AWS Graviton4 processors and deliver up to 60% better performance t",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-x8g-instances-asia-pacific-sydney/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-10-aws-amazon-cloudwatch-sdk-supports-optimized-json-cbor",
-      "date": "2025-12-10",
-      "name": "Amazon CloudWatch SDK supports optimized JSON, CBOR protocols",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p><a href=\"https://aws.amazon.com/cloudwatch\" target=\"_blank\">Amazon CloudWatch</a> announces support for both the JSON and Concise Binary Object Representation (CBOR) protocols in the CloudWatch SDK, enabling lower lat",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-cloudwatch-sdk-json-cbor-protocols"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-10-langchain-langgraph-debugging-deep-agents-with-langsmith",
-      "date": "2025-12-10",
-      "name": "Debugging Deep Agents with LangSmith",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "<p>Debugging is the process of finding and fixing errors. This is a critical step in software engineering, and even more critical in <a href=\"https://blog.langchain.com/agent-engineering-a-new-discipline/\">agent engineer",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/debugging-deep-agents-with-langsmith/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2025-12-10-langchain-langgraph-introducing-langsmith-fetch-debug-agents-from-your",
-      "date": "2025-12-10",
-      "name": "Introducing LangSmith Fetch: Debug agents from your terminal",
-      "vendor": "LangChain/LangGraph",
-      "type": "launch",
-      "summary": "<p>Today, we&apos;re launching <strong>LangSmith Fetch</strong>, a CLI tool that brings the full power of LangSmith tracing directly into your terminal and IDE.</p><p>If you&apos;re building agents with coding tools like",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/introducing-langsmith-fetch/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2025-12-10-langchain-langgraph-introducing-polly-your-ai-agent-engineer",
-      "date": "2025-12-10",
-      "name": "Introducing Polly: Your AI Agent Engineer",
-      "vendor": "LangChain/LangGraph",
-      "type": "launch",
-      "summary": "<p>Today, we&apos;re launching <strong>Polly:</strong> an AI-powered assistant built directly into LangSmith that helps you debug, analyze, and improve your agents.</p><p>And yes, we see the irony: we&apos;re adding an a",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/introducing-polly-your-ai-agent-engineer/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2025-12-09-crewai-1-7-0",
-      "date": "2025-12-09",
-      "name": "1.7.0",
-      "vendor": "CrewAI",
-      "type": "launch",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add async flow kickoff</li>\n<li>Add async crew support</li>\n<li>Add async task support</li>\n<li>Add async knowledge support</li>\n<li>Add async memory support</li>\n<li>Ad",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.7.0"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2025-12-09-openai-openai-co-founds-agentic-ai-foundation-donates-age",
-      "date": "2025-12-09",
-      "name": "OpenAI co-founds Agentic AI Foundation, donates AGENTS.md",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "OpenAI co-founds the Agentic AI Foundation under the Linux Foundation and donates AGENTS.md to support open, interoperable standards for safe agentic AI.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/agentic-ai-foundation"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-09-aws-amazon-ec2-c8gn-instances-are-now-available-in-add",
-      "date": "2025-12-09",
-      "name": "Amazon EC2 C8gn instances are now available in additional regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8gn instances, powered by the latest-generation AWS Graviton4 processors, are available in the AWS US East (Ohio) and Middle East (UAE) Regions. The new insta",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-c8gn-instances-additional-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-09-aws-amazon-ec2-x8g-instances-now-available-in-europe-s",
-      "date": "2025-12-09",
-      "name": "Amazon EC2 X8g instances now available in Europe (Stockholm) region",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) X8g instances are available in Europe (Stockholm) region. These instances are powered by AWS Graviton4 processors, and they offer up to 3 TiB of total memory a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-x8g-instances-europe-stockholm/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-09-aws-aws-partner-central-now-includes-opportunity-deal-",
-      "date": "2025-12-09",
-      "name": "AWS Partner Central now includes opportunity deal sizing",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS announces deal sizing capability in AWS Partner Central. This new feature, available within the APN Customer Engagements (ACE) Opportunities, uses AI to provide deal size estimates and AWS service recommend",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-partner-central-opportunity-deal-sizing"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-09-aws-amazon-rds-and-aurora-now-support-resource-tagging",
-      "date": "2025-12-09",
-      "name": "Amazon RDS and Aurora now support resource tagging for Automated Backups",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon RDS and Aurora now support resource tagging for automated backups and cluster automated backups. You can now tag your automated backups separately from the parent DB instance or DB cluster, enabling Attribute-B",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/rds-aurora-resource-tagging-automated-backups/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-09-aws-amazon-gamelift-servers-enhances-aws-console-for-g",
-      "date": "2025-12-09",
-      "name": "Amazon GameLift Servers enhances AWS Console for game developers with AI powered assistance",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, Amazon GameLift Servers is launching AI-powered assistance in the AWS Console, leveraging Amazon Q Developer to provide tailored guidance for game developers. This new feature integrates specialized GameLift Se",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/gamelift-servers-console-developers-ai-powered/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-09-langchain-langgraph-agent-engineering-a-new-discipline",
-      "date": "2025-12-09",
-      "name": "Agent Engineering: A New Discipline",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "<p>If you&#x2019;ve built an agent, you know that the delta between &#x201c;it works on my machine&#x201d; and &#x201c;it works in production&#x201d; can be huge. Traditional software assumes you mostly know the inputs a",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/agent-engineering-a-new-discipline/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2025-12-08-openai-the-state-of-enterprise-ai",
-      "date": "2025-12-08",
-      "name": "The state of enterprise AI",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "Key findings from OpenAI’s enterprise data show accelerating AI adoption, deeper integration, and measurable productivity gains across industries in 2025.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/the-state-of-enterprise-ai-2025-report"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-08-openai-github-authentication-errors-with-codex-web",
-      "date": "2025-12-08",
-      "name": "Github Authentication errors with Codex Web",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Investigating</b><br /><br />We are investigating the issue for the listed services.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Codex (Partial outage)</li>\n          </ul>",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KBZQFTJVFKP90HA3QJ7Q3WBY"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-08-aws-amazon-quick-suite-integrates-quick-research-with-",
-      "date": "2025-12-08",
-      "name": "Amazon Quick Suite integrates Quick Research with Quick Flows for report automation",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Quick Suite now includes Quick Research as a step within Quick Flows. This integration enables teams to generate comprehensive research reports as part of automated, multi-step workflows, transforming research ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-quick-suite-research-flows-report-automation"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-08-aws-announcing-spatial-data-management-on-aws-to-accel",
-      "date": "2025-12-08",
-      "name": "Announcing Spatial Data Management on AWS to accelerate spatial-data insights",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS is announcing Spatial Data Management on AWS (SDMA), a solution that enables customers to store, enrich, and connect spatial data at scale. SDMA enables customers to store their multimodal spatial data repr",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/spatial-data-management-spatial-data-insights/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-05-openai-chatgpt-slack-connector-cannot-be-installed",
-      "date": "2025-12-05",
-      "name": "ChatGPT Slack Connector cannot be installed",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Identified</b><br /><br />We have identified that ChatGPT Slack Connector cannot be installed for some users.\n\nWe are working on implementing a mitigation.<br /><br /><b>Affected components</b>\n          <ul>\n",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KBP2P87WZ8SS9KWJ8YBWYZAG"
         }
       ],
       "impact": 5,
