@@ -1,6 +1,222 @@
 {
   "items": [
     {
+      "id": "2025-12-18-openai-addendum-to-gpt-5-2-system-card-gpt-5-2-codex",
+      "date": "2025-12-18",
+      "name": "Addendum to GPT-5.2 System Card: GPT-5.2-Codex",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "This system card outlines the comprehensive safety measures implemented for GPT‑5.2-Codex. It details both model-level mitigations, such as specialized safety training for harmful tasks and prompt injections, and product",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/gpt-5-2-codex-system-card"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-18-openai-unable-to-login-on-sora-web",
+      "date": "2025-12-18",
+      "name": "Unable to Login on Sora Web",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered. Please try logging in again.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Login (Operational)</li>\n          </ul>",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KCSQV59E8XZETJ89JTXME2AZ"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-18-aws-amazon-workspaces-applications-announces-elastic-f",
+      "date": "2025-12-18",
+      "name": "Amazon WorkSpaces Applications announces Elastic fleets powered by Ubuntu Pro 24.04 LTS",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon WorkSpaces Applications now offers support for Ubuntu Pro 24.04 LTS on&nbsp;Elastic fleets, enabling Independent Software Vendors (ISVs)&nbsp;and central IT organizations to stream Ubuntu desktop applications t",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-ubuntu-elasticfleets"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-18-aws-amazon-ec2-c8a-instances-now-available-in-the-euro",
+      "date": "2025-12-18",
+      "name": "Amazon EC2 C8a instances now available in the Europe (Spain) region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, the compute-optimized Amazon EC2 C8a instances are available in the Europe (Spain) region. C8a instances are powered by 5th Gen AMD EPYC processors (formerly code named Turin) with a maximum frequency ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-c8a-instances-europe-spain-region"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-18-aws-aws-iot-core-adds-message-batching-to-http-rule-ac",
+      "date": "2025-12-18",
+      "name": "AWS IoT Core adds message batching to HTTP rule action",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/iot-core/\" target=\"_blank\">AWS IoT Core</a> now lets you batch multiple IoT messages into a single <a href=\"https://docs.aws.amazon.com/iot/latest/developerguide/https-rule-action.html\"",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-iot-core-message-batching-http-rule-action"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-18-aws-amazon-ecs-managed-instances-now-supports-amazon-e",
+      "date": "2025-12-18",
+      "name": "Amazon ECS Managed Instances now supports Amazon EC2 Spot Instances",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/ecs/managed-instances/\" target=\"_blank\">Amazon ECS Managed Instances</a> now supports <a href=\"https://aws.amazon.com/ec2/spot/\" target=\"_blank\">Amazon EC2 Spot Instances,</a> extending",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ecs-managed-instances-ec2-spot-instances"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-18-aws-amazon-ec2-r8i-and-r8i-flex-instances-are-now-avai",
+      "date": "2025-12-18",
+      "name": "Amazon EC2 R8i and R8i-flex instances are now available in additional AWS regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8i and R8i-flex instances are available in the Asia Pacific (Seoul), South America (Sao Paulo), and Asia Pacific (Tokyo) regions. These instances are powered ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-r8i-r8i-flex-instances-additional-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-18-aws-aws-lambda-durable-functions-are-now-available-in-",
+      "date": "2025-12-18",
+      "name": "AWS Lambda durable functions are now available in 14 additional AWS Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Lambda durable functions enable developers to build reliable multi-step applications and AI workflows within the Lambda developer experience. Starting today, durable functions are available in 14 additional AWS Re",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/lambda-durable-functions-14-additional-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-18-aws-aws-direct-connect-now-supports-resilience-testing",
+      "date": "2025-12-18",
+      "name": "AWS Direct Connect now supports resilience testing with AWS Fault Injection Service",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Direct Connect now supports resilience testing with AWS Fault Injection Service (FIS), a fully managed service for running controlled fault injection experiments to improve application performance, observability, ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/direct-connect-resilience-testing-fault-injection-service/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-18-aws-amazon-ecs-now-enables-you-to-define-weekly-event-",
+      "date": "2025-12-18",
+      "name": "Amazon ECS now enables you to define weekly event windows for scheduling task retirements on AWS Fargate",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon ECS now enables you to define weekly event windows for scheduling task retirements on AWS Fargate. This capability provides precise control over when infrastructure updates and task replacements occur, helping ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/ecs-weekly-windows-scheduling-task-retirements-fargate/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-18-aws-amazon-msk-introduces-kraft-support-for-express-br",
+      "date": "2025-12-18",
+      "name": "Amazon MSK introduces KRaft support for Express Brokers with Apache Kafka v3.9",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Managed Streaming for Apache Kafka (MSK) now supports Apache Kafka version 3.9 for Express Brokers. This release introduces support for KRaft (Kafka Raft), Apache Kafka's new consensus protocol that eliminates ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-msk-express-brokers-support-kraft/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-18-aws-amazon-neptune-database-is-now-available-in-the-aw",
+      "date": "2025-12-18",
+      "name": "Amazon Neptune Database is now available in the AWS Europe (Zurich) Region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a contenteditable=\"false\" href=\"https://aws.amazon.com/neptune/\" style=\"cursor: pointer;\">Amazon Neptune</a> Database is now available in the Europe (Zurich)<b> </b>Region on engine versions 1.4.5.0 and later. You ca",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-neptune-zurich-region"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-12-17-openai-codex-responses-api-experiencing-elevated-errors",
       "date": "2025-12-17",
       "name": "Codex & Responses API Experiencing Elevated Errors",
@@ -371,6 +587,24 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-iam-identity-center-asia-pacific-taipei-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-17-aws-aws-payment-cryptography-is-now-available-in-sydne",
+      "date": "2025-12-17",
+      "name": "AWS Payment Cryptography is now available in Sydney with AS2805 support",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, <a href=\"https://aws.amazon.com/payment-cryptography/\" target=\"_blank\">AWS Payment Cryptography</a> has expanded to Australia (Sydney) Region, and now supports AS2805 functionality. This expansion represents th",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-payment-cryptography-in-sydney/"
         }
       ],
       "impact": 5,
@@ -839,240 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-msk-replicator-additional-aws-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-11-openai-advancing-science-and-math-with-gpt-5-2",
-      "date": "2025-12-11",
-      "name": "Advancing science and math with GPT-5.2",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "GPT-5.2 is OpenAI’s strongest model yet for math and science, setting new state-of-the-art results on benchmarks like GPQA Diamond and FrontierMath. This post shows how those gains translate into real research progress, ",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/gpt-5-2-for-science-and-math"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-11-openai-introducing-gpt-5-2",
-      "date": "2025-12-11",
-      "name": "Introducing GPT-5.2",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "GPT-5.2 is our most advanced frontier model for everyday professional work, with state-of-the-art reasoning, long-context understanding, coding, and vision. Use it in ChatGPT and the OpenAI API to power faster, more reli",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/introducing-gpt-5-2"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-11-openai-update-to-gpt-5-system-card-gpt-5-2",
-      "date": "2025-12-11",
-      "name": "Update to GPT-5 System Card: GPT-5.2",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "GPT-5.2 is the latest model family in the GPT-5 series. The comprehensive safety mitigation approach for these models is largely the same as that described in the GPT-5 System Card and GPT-5.1 System Card. Like OpenAI’s ",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/gpt-5-system-card-update-gpt-5-2"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-11-openai-github-connector-errors-for-chatgpt-web-and-codex",
-      "date": "2025-12-11",
-      "name": "Github Connector Errors for ChatGPT Web and Codex",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Identified</b><br /><br />We are continuing to apply a mitigation. Users may continue to experience errors when using Codex (including code reviews) and ChatGPT with the Github connector.<br /><br /><b>Affecte",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KC6WSFM4ECT1Y5XBPF2AMXV9"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-11-aws-amazon-aurora-dsql-now-supports-cluster-creation-i",
-      "date": "2025-12-11",
-      "name": "Amazon Aurora DSQL now supports cluster creation in seconds",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Aurora DSQL now supports faster cluster creation, reducing setup time from minutes to seconds.<br /> <br /> With cluster creation now in seconds, developers can instantly provision Aurora DSQL databases to rapi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-aurora-dsql-cluster-creation-in-seconds"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-11-aws-amazon-workspaces-secure-browser-introduces-web-co",
-      "date": "2025-12-11",
-      "name": "Amazon WorkSpaces Secure Browser introduces Web Content Filtering",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon WorkSpaces Secure Browser now includes Web Content Filtering, a comprehensive security and compliance feature that enables organizations to control and monitor web content access. This new capability allows adm",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-secure-browser-web-content-filtering/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-11-aws-amazon-cognito-identity-pools-now-support-private-",
-      "date": "2025-12-11",
-      "name": "Amazon Cognito identity pools now support private connectivity with AWS PrivateLink",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Cognito identity pools now support AWS PrivateLink, enabling you to securely exchange federated identities for AWS credentials through private connectivity between your virtual private cloud (VPC) and Cognito. ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-cognito-identity-pools-private-connectivity-aws-privatelink"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-11-aws-amazon-aurora-postgresql-now-supports-integration-",
-      "date": "2025-12-11",
-      "name": "Amazon Aurora PostgreSQL now supports integration with Kiro powers",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces Amazon Aurora PostgreSQL-Compatible Edition integration with Kiro powers, enabling developers to build Aurora PostgreSQL backed applications faster with AI agent-assisted development using Kiro. <",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-aurora-postgresql-integration-kiro-powers"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-11-aws-aws-application-migration-service-supports-ipv6",
-      "date": "2025-12-11",
-      "name": "AWS Application Migration Service supports IPv6",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Application Migration Service (MGN) now supports Internet Protocol version 6 (IPv6) for both service communication and application migrations. Organizations can migrate applications that use IPv6 addressing, enabl",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/application-migration-service-ipv6/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-11-aws-amazon-ec2-high-memory-u7i-instances-now-available",
-      "date": "2025-12-11",
-      "name": "Amazon EC2 High Memory U7i instances now available in additional regions",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon EC2 High Memory U7i instances with 24TB of memory (u7in-24tb.224xlarge) are now available in AWS Europe (Frankfurt), U7i instances with 16TB of memory (u7in-16tb.224xlarge) are now available in AWS Asia Pacific",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-high-memory-u7i-instances-additional-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-11-aws-amazon-ec2-i7i-instances-now-available-in-addition",
-      "date": "2025-12-11",
-      "name": "Amazon EC2 I7i instances now available in additional AWS regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Web Services (AWS) announces the availability of high performance Storage Optimized Amazon EC2 I7i instances in AWS Asia Pacific (Singapore, Jakarta), Europe (Stockholm) regions. Powered by 5th generation Intel",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-i7i-instances-additional-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-11-aws-amazon-ec2-c7i-instances-are-now-available-in-the-",
-      "date": "2025-12-11",
-      "name": "Amazon EC2 C7i instances are now available in the Asia Pacific (Hyderabad) Region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C7i instances powered by custom 4th Gen Intel Xeon Scalable processors (code-named Sapphire Rapids) are available in the Asia Pacific (Hyderabad) Region. C7i i",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-c7i-instances-asia-pacific-hyderabad-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-11-aws-amazon-cloudwatch-sdk-supports-optimized-json-cbor",
-      "date": "2025-12-11",
-      "name": "Amazon CloudWatch SDK supports optimized JSON, CBOR protocols",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p><a href=\"https://aws.amazon.com/cloudwatch\" target=\"_blank\">Amazon CloudWatch</a> announces support for both the JSON and Concise Binary Object Representation (CBOR) protocols in the CloudWatch SDK, enabling lower lat",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-cloudwatch-sdk-json-cbor-protocols"
         }
       ],
       "impact": 5,
