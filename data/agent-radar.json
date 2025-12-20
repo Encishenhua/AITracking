@@ -1,6 +1,186 @@
 {
   "items": [
     {
+      "id": "2025-12-19-aws-amazon-application-recovery-controller-region-swit",
+      "date": "2025-12-19",
+      "name": "Amazon Application Recovery Controller region switch now supports three new capabilities",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Application Recovery Controller (ARC) Region switch allows you to orchestrate the specific steps to switch your multi-Region applications to operate out of another AWS Region and achieve a bounded recovery time",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-application-recovery-controller-region-switch-new-capabilities"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-19-aws-aws-private-ca-ocsp-now-available-in-china-and-aws",
+      "date": "2025-12-19",
+      "name": "AWS Private CA OCSP now available in China and AWS GovCloud (US) Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/private-ca/\" target=\"_blank\">AWS Private Certificate Authority</a> (AWS Private CA) now supports Online Certificate Status Protocol (OCSP) in China and AWS GovCloud (US) Regions. AWS Pr",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-private-ca-ocsp-china-govcloud-us-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-19-aws-amazon-rds-enhances-observability-for-snapshot-exp",
+      "date": "2025-12-19",
+      "name": "Amazon RDS enhances observability for snapshot exports to Amazon S3",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Relational Database Service (RDS) now offers enhanced observability for your snapshot exports to Amazon S3, providing detailed insights into export progress, failures, and performance for each task. These notif",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-rds-observability-snapshot-exports-s3"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-19-aws-amazon-bedrock-data-automation-launches-instructio",
+      "date": "2025-12-19",
+      "name": "Amazon Bedrock Data Automation launches instruction optimization for your document blueprints",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Bedrock Data Automation (BDA) now supports blueprint instruction optimization, enabling you to improve the accuracy of your custom field extraction using just a few example document assets with ground truth lab",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/bedrock-data-automation-optimization-document-blueprints/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-19-aws-timestream-for-influxdb-now-supports-restart-api-c",
+      "date": "2025-12-19",
+      "name": "Timestream for InfluxDB Now Supports Restart API Calls",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Timestream for InfluxDB now offers a restart API for both InfluxDB versions 2 and 3. This new capability enables customers to trigger system restarts on their database instances directly through the AWS Managem",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/timestream-influxdb-restart-api"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-19-aws-announcing-cost-allocation-tags-support-for-accoun",
+      "date": "2025-12-19",
+      "name": "Announcing Cost Allocation Tags support for Account Tags",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS announces Cost Allocation tags support for account tags across AWS Cost Management products, enabling customers with multiple member accounts to utilize their existing AWS Organizations account tags directly in co",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/cost-allocation-tags/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-19-aws-aws-iot-now-offers-event-based-logging-to-help-opt",
+      "date": "2025-12-19",
+      "name": "AWS IoT now offers event-based logging to help optimize observability costs",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS IoT now supports event-based logging, a new capability that helps developers reduce Amazon CloudWatch costs while improving log management efficiency. This feature enables targeted logging for individual event wit",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-iot-event-based-logging/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-19-aws-amazon-workspaces-applications-now-supports-micros",
+      "date": "2025-12-19",
+      "name": "Amazon WorkSpaces Applications now supports Microsoft Windows Server 2025",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon WorkSpaces Applications now offers images powered by Microsoft Windows Server 2025, enabling customers to launch streaming instances with the latest features and enhancements from Microsoft’s newest server oper",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.comabout-aws/whats-new/2025/12/amazon-workspaces-applications-supports-microsoft-windows-server"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-19-aws-amazon-redshift-odbc-2-x-driver-now-supports-apple",
+      "date": "2025-12-19",
+      "name": "Amazon Redshift ODBC 2.x Driver now supports Apple macOS",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p><a contenteditable=\"false\" href=\"https://aws.amazon.com/redshift/\" style=\"cursor: pointer;\">Amazon Redshift</a> ODBC 2.x driver now supports Apple macOS, expanding platform compatibility for developers and analysts. T",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/redshift-odbc-2-x-driver-apple-macos/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-19-aws-zero-etl-for-self-managed-database-sources-now-ava",
+      "date": "2025-12-19",
+      "name": "Zero-ETL for self-managed Database Sources now available in 7 new regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://docs.aws.amazon.com/glue/latest/dg/zero-etl-using.html\">AWS Glue</a> now supports zero-ETL for self-managed database sources in seven additional regions. Using Glue zero-ETL, you can setup an integrat",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/zero-etl-for-self-managed-databases-in-additional-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-12-18-openai-addendum-to-gpt-5-2-system-card-gpt-5-2-codex",
       "date": "2025-12-18",
       "name": "Addendum to GPT-5.2 System Card: GPT-5.2-Codex",
@@ -893,186 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-billing-cost-management-pdf-export-csv-data-download-dashboards"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-15-aws-acm-now-supports-automated-certificate-management-",
-      "date": "2025-12-15",
-      "name": "ACM now supports automated certificate management for Kubernetes",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Certificate Manager (ACM) now automates certificate provisioning and distribution for Kubernetes workloads through AWS Controllers for Kubernetes (ACK). Previously, ACM automated certificate management for AWS-int",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/acm-automated-certificate-management-kubernetes/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-12-openai-bny-builds-ai-for-everyone-everywhere-with-openai",
-      "date": "2025-12-12",
-      "name": "BNY builds “AI for everyone, everywhere” with OpenAI",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "BNY is using OpenAI technology to expand AI adoption enterprise-wide. Through its Eliza platform, 20,000+ employees are building AI agents that enhance efficiency and improve client outcomes.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/bny"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-12-aws-aws-shield-network-security-director-now-supports-",
-      "date": "2025-12-12",
-      "name": "AWS Shield network security director now supports multi-account analysis",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS Shield announces multi-account network security management and automated network analysis for network security director, which is currently in preview. AWS Shield network security director provides visibili",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-shield-network-security-director-multi-account-analysis"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-12-aws-amazon-emr-managed-scaling-is-now-available-in-7-a",
-      "date": "2025-12-12",
-      "name": "Amazon EMR Managed Scaling is now available in 7 additional AWS regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>We are excited to announce that <a href=\"https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-managed-scaling.html\" target=\"_blank\">Amazon EMR Managed Scaling</a> is now available for EMR on EC2 customers in the",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-emr-managed-scaling-additional-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-12-aws-validate-best-practice-compliance-for-sap-abap-app",
-      "date": "2025-12-12",
-      "name": "Validate best practice compliance for SAP ABAP applications with AWS Systems Manager",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Systems Manager (AWS SSM) Configuration Manager now allows you to automatically test SAP ABAP based applications on AWS against best practices defined in the AWS Well-Architected Framework SAP Lens.<br /> <br /> K",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/compliance-sap-abap-systems-manager/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-12-aws-amazon-ec2-x2iedn-instances-now-available-in-aws-e",
-      "date": "2025-12-12",
-      "name": "Amazon EC2 X2iedn instances now available in AWS Europe (Zurich)  region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, memory-optimized Amazon Compute Cloud (Amazon EC2) X2iedn instances are available in AWS Europe (Zurich) region. These instances, powered by 3rd generation Intel Xeon Scalable Processors and built with",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-x2iedn-instances-zurich-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-12-aws-aws-datasync-introduces-terraform-support-for-enha",
-      "date": "2025-12-12",
-      "name": "AWS DataSync introduces Terraform support for Enhanced mode",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>The <a href=\"https://registry.terraform.io/modules/aws-ia/datasync/aws/latest\">AWS DataSync Terraform module</a> now supports Enhanced mode for transfers between S3 locations, making it easier for you to set up high-p",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/datasync-terraform-enhanced-mode/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-12-aws-amazon-ec2-x2iedn-instances-now-available-in-aws-a",
-      "date": "2025-12-12",
-      "name": "Amazon EC2 X2iedn instances now available in AWS Asia Pacific (Thailand) region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, memory-optimized Amazon Compute Cloud (Amazon EC2) X2iedn instances are available in AWS Asia Pacific (Thailand) region. These instances, powered by 3rd generation Intel Xeon Scalable Processors and bu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-x2iedn-instances-thailand-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-12-aws-aws-elastic-beanstalk-is-now-available-in-addition",
-      "date": "2025-12-12",
-      "name": "AWS Elastic Beanstalk is now available in additional regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>We are excited to announce the general availability of AWS Elastic Beanstalk in Asia Pacific (New Zealand) (Melbourne), (Malaysia), (Hyderabad), Canada West (Calgary), and Europe (Zurich).<br /> <br /> AWS Elastic Bea",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/elastic-beanstalk-additional-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-12-aws-amazon-msk-replicator-is-now-available-in-ten-addi",
-      "date": "2025-12-12",
-      "name": "Amazon MSK Replicator is now available in ten additional AWS Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>You can now use Amazon MSK Replicator to replicate streaming data across Amazon Managed Streaming for Apache Kafka (<a href=\"https://aws.amazon.com/msk/\" target=\"_blank\">Amazon MSK</a>) clusters in ten additional AWS ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-msk-replicator-additional-aws-regions"
         }
       ],
       "impact": 5,
