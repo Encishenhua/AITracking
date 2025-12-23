@@ -1,6 +1,186 @@
 {
   "items": [
     {
+      "id": "2025-12-22-openai-continuously-hardening-chatgpt-atlas-against-promp",
+      "date": "2025-12-22",
+      "name": "Continuously hardening ChatGPT Atlas against prompt injection",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "OpenAI is strengthening ChatGPT Atlas against prompt injection attacks using automated red teaming trained with reinforcement learning. This proactive discover-and-patch loop helps identify novel exploits early and harde",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/hardening-atlas-against-prompt-injection"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-22-aws-aws-deadline-cloud-now-supports-direct-job-submiss",
+      "date": "2025-12-22",
+      "name": "AWS Deadline Cloud now supports direct job submission from the Deadline Cloud Monitor",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Deadline Cloud now lets you submit rendering jobs directly from the Deadline Cloud Monitor desktop application. This new feature makes it easier to submit renders for applications that don’t have built-in Deadline",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-deadline-cloud-direct-job-submission-from/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-22-aws-oracle-database-aws-now-supports-sharing-of-aws-ma",
+      "date": "2025-12-22",
+      "name": "Oracle Database@AWS now supports sharing of AWS Marketplace entitlements across accounts",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, <a href=\"https://aws.amazon.com/marketplace/featured-seller/oracle/\" target=\"_blank\">Oracle Database@AWS</a> announced ability to share AWS Marketplace entitlements across accounts within an AWS Organization. W",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/oracle-database-aws-marketplace-entitlements-across-accounts/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-22-aws-amazon-ecs-service-connect-enhances-observability-",
+      "date": "2025-12-22",
+      "name": "Amazon ECS Service Connect enhances observability with Envoy Access Logs",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p><a href=\"https://aws.amazon.com/ecs/\" target=\"_blank\">Amazon Elastic Container Service</a> (Amazon ECS) Service Connect now supports Envoy access logs, providing deeper observability into request-level traffic pattern",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ecs-service-connect-observability-envoy-access-logs"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-22-aws-amazon-kinesis-video-streams-now-supports-ipv6-for",
+      "date": "2025-12-22",
+      "name": "Amazon Kinesis Video Streams now supports IPv6 for WebRTC",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Kinesis Video Streams (Amazon KVS) now supports Internet Protocol version 6 (IPv6) addressing for WebRTC. This release introduces dual-stack endpoint support, enabling developers to use both IPv4 and IPv6 addre",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-kinesis-video-streams-webrtc-ipv6/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-22-aws-amazon-gamelift-streams-launches-real-time-perform",
+      "date": "2025-12-22",
+      "name": "Amazon GameLift Streams launches real-time performance stats and improved API error messaging",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, Amazon GameLift Streams launched new powerful observability capabilities with session performance stats that provide real-time data for individual stream sessions, offering insights into application performance",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-gameliftstream-performance-stats-error-messaging"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-22-aws-amazon-gamelift-streams-launches-gen6-based-stream",
+      "date": "2025-12-22",
+      "name": "Amazon GameLift Streams launches Gen6-based stream classes and enhanced autoscaling for better performance and pricing",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, Amazon GameLift Streams launched two new capabilities to optimize performance and cost: Gen6 stream classes and enhanced autoscaling with warm buffer. The new Gen6 stream classes provide a wider range of price ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-gameliftstream-gen6-enhanced-autoscaling"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-22-aws-research-and-engineering-studio-on-aws-version-202",
+      "date": "2025-12-22",
+      "name": "Research and Engineering Studio on AWS Version 2025.12 now available",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today we announce Research and Engineering Studio (RES) on AWS version 2025.12, which introduces tag propagation for CloudFormation resources, enhanced Windows domain configuration options, default session scheduling,",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/research-engineering-studio-aws-new-version-available/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-22-aws-aws-storage-gateway-now-supports-nutanix-ahv-hyper",
+      "date": "2025-12-22",
+      "name": "AWS Storage Gateway now supports Nutanix AHV hypervisor",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>The <a href=\"https://aws.amazon.com/storagegateway/\" target=\"_blank\">AWS Storage Gateway</a> service now supports the Nutanix AHV hypervisor as a deployment option for S3 File, Tape and Volume gateways. If you use Nut",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-storage-gateway-nutanix-avh-hypervisor"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-22-aws-aws-wickr-launches-admin-apis-for-programmatic-net",
+      "date": "2025-12-22",
+      "name": "AWS Wickr launches admin APIs for programmatic network management at scale",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Wickr now provides a suite of admin APIs that empower administrators to programmatically manage secure communication networks at scale. These APIs enable you to automate critical administrative workflows including",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.comabout-aws/whats-new/2025/12/aws-wickr-admin-apis-generally-available/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-12-21-openai-some-android-users-are-experiencing-elevated-error",
       "date": "2025-12-21",
       "name": "Some Android users are experiencing elevated errors while using ChatGPT.",
@@ -893,186 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-sagemaker-ai-asia-pacific-new-zealand"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-16-aws-aws-security-incident-response-introduces-integrat",
-      "date": "2025-12-16",
-      "name": "AWS Security Incident Response introduces integration with Slack",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/security-incident-response/\" target=\"_blank\">AWS Security Incident Response</a> now offers integration with the cloud-based team collaboration platform Slack, enabling you to prepare fo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-security-incident-response-integration-slack"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-16-aws-amazon-ec2-m8i-flex-instances-are-now-available-in",
-      "date": "2025-12-16",
-      "name": "Amazon EC2 M8i-flex instances are now available in Asia Pacific (Sydney) Region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon EC2 M8i-flex instances are now available in Asia Pacific (Sydney) Region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the highest performance",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-m8i-flex-instances-sydney-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-16-aws-amazon-quick-suite-now-supports-memory-for-chat-ag",
-      "date": "2025-12-16",
-      "name": "Amazon Quick Suite now supports memory for chat agents",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>We are announcing memory for chat agents in Amazon Quick Suite – a feature that allows users to get personalized responses based on their previous conversations. With this feature, Quick Suite remembers the preference",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-quick-suite-memory-chat-agents/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-16-aws-amazon-route-53-launches-detailed-metrics-for-reso",
-      "date": "2025-12-16",
-      "name": "Amazon Route 53 launches detailed metrics for Resolver endpoints",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, you can enable Amazon CloudWatch metrics for Route 53 to monitor the performance and health of Route 53 Resolver endpoints and any target name servers associated with your outbound Resolver endpoints.<",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/route-53-detailed-metrics-resolver-endpoints/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-16-langchain-langgraph-fastweb-vodafone-transforming-customer-experience-",
-      "date": "2025-12-16",
-      "name": "Fastweb + Vodafone: Transforming Customer Experience with AI Agents using LangGraph and LangSmith",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "See how Fastweb + Vodafone revolutionized customer service and call center operations with their agents, Super TOBi and Super Agent.",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/customers-vodafone-italy/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2025-12-16-crewai-1-7-1",
-      "date": "2025-12-16",
-      "name": "1.7.1",
-      "vendor": "CrewAI",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<h3>Improvements</h3>\n<ul>\n<li>Add <code>--no-commit</code> flag to bump command</li>\n<li>Use JSON schema for tool argument serialization</li>\n</ul>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Fix error message d",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.7.1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2025-12-16-openai-chatgpt-intermittently-not-loading-successfully-af",
-      "date": "2025-12-16",
-      "name": "ChatGPT intermittently not loading successfully after SSO authentication",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Investigating</b><br /><br />We are investigating the issue for the listed services.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Login (Partial outage)</li>\n          </ul>",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KCQ4D84M0KCBPNCENAV6B8GZ"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-15-aws-amazon-connect-now-supports-multiple-choice-and-da",
-      "date": "2025-12-15",
-      "name": "Amazon Connect now supports multiple choice and date questions in evaluation forms",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Connect provides two new evaluation question types to capture deeper insights on human and AI agent performance. Managers can now create questions that allow multiple answer selections, such as the products tha",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-connect-multiple-choice-date-questions-evaluation-forms/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-15-aws-announcing-cost-allocation-using-users-attributes",
-      "date": "2025-12-15",
-      "name": "Announcing cost allocation using users’ attributes",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS announces a new cost allocation feature that uses existing workforce user attributes like cost center, division, organization, and department to track and analyze AWS application usage and cost. This new capabilit",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/cost-allocation-using-users-attributes"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-15-aws-amazon-elastic-vmware-service-amazon-evs-is-now-av",
-      "date": "2025-12-15",
-      "name": "Amazon Elastic VMware Service (Amazon EVS) is now available in additional Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, we're announcing that Amazon Elastic VMware Service (Amazon EVS) is now available in all availability zones in the US West (N. California), Asia Pacific (Hyderabad), Asia Pacific (Malaysia), Canada West (Calgar",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-evs-available-in-additional-regions/"
         }
       ],
       "impact": 5,
