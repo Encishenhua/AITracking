@@ -1,6 +1,114 @@
 {
   "items": [
     {
+      "id": "2025-12-23-aws-nvidia-nemotron-3-nano-now-available-on-amazon-bed",
+      "date": "2025-12-23",
+      "name": "NVIDIA Nemotron 3 Nano now available on Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Bedrock now supports NVIDIA Nemotron 3 Nano 30B A3B model, NVIDIA's latest breakthrough in efficient language modeling that delivers high reasoning performance, native tool calling support, and extended context",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/nvidia-nemotron-3-nano-amazon-bedrock"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-23-aws-amazon-workspaces-secure-browser-now-supports-weba",
+      "date": "2025-12-23",
+      "name": "Amazon WorkSpaces Secure Browser now supports WebAuthn redirection for local Chromium browsers",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon WorkSpaces Secure Browser now supports Web Authentication (WebAuthn) redirection, allowing users to authenticate to websites using their local FIDO2 security keys, biometric authenticators, and platform authent",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-secure-browser-webauthn-redirection-chromium-browsers"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-23-aws-amazon-rds-for-mysql-announces-innovation-release-",
+      "date": "2025-12-23",
+      "name": "Amazon RDS for MySQL announces Innovation Release 9.5 in Amazon RDS Database Preview Environment",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/mysql/\">Amazon RDS for MySQL</a> now supports community MySQL Innovation Release 9.5 in the <a href=\"https://aws.amazon.com/rds/databasepreview/\">Amazon RDS Database Preview Environ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-rds-mysql-innovation-release/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-23-aws-minimax-m2-is-now-available-on-amazon-sagemaker-ju",
+      "date": "2025-12-23",
+      "name": "MiniMax-M2 is now available on Amazon SageMaker JumpStart",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>MiniMax-M2 is now available on Amazon SageMaker JumpStart, providing customers with immediate access to deploy this efficient open-source model in minutes. With SageMaker JumpStart, you can quickly discover, evaluate,",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/minimax-m2-on-sagemaker-jumpstart"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-23-aws-aws-transform-enables-network-conversion-for-hybri",
+      "date": "2025-12-23",
+      "name": "AWS Transform enables network conversion for hybrid data center migrations",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS Transform now supports automatic network conversion from hybrid data centers, eliminating manual network mapping for environments running both VMware and non-VMware workloads. The service now analyzes VLANs and IP",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-transform-hybrid-network-migration/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-23-aws-amazon-workspaces-secure-browser-enables-branding-",
+      "date": "2025-12-23",
+      "name": "Amazon WorkSpaces Secure Browser enables branding customization",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon WorkSpaces Secure Browser now supports branding customization, enabling you to create a consistent, branded experience that helps you align with your organization's visual identity. This feature allows you to c",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-secure-browser-enables-branding/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-12-22-openai-continuously-hardening-chatgpt-atlas-against-promp",
       "date": "2025-12-22",
       "name": "Continuously hardening ChatGPT Atlas against prompt injection",
@@ -965,114 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-iam-identity-center-asia-pacific-taipei-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-17-aws-aws-payment-cryptography-is-now-available-in-sydne",
-      "date": "2025-12-17",
-      "name": "AWS Payment Cryptography is now available in Sydney with AS2805 support",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, <a href=\"https://aws.amazon.com/payment-cryptography/\" target=\"_blank\">AWS Payment Cryptography</a> has expanded to Australia (Sydney) Region, and now supports AS2805 functionality. This expansion represents th",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-payment-cryptography-in-sydney/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-16-aws-amazon-connect-launches-additional-details-within-",
-      "date": "2025-12-16",
-      "name": "Amazon Connect launches additional details within real-time metric alerts",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect alerts on real-time metrics now provide the specific agents, queues, flows, or routing profiles that exceeded thresholds and triggered the alert. This enables managers to respond faster to customer expe",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-connect-additional-details-real-time-metric-alerts/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-16-aws-aws-artifact-enables-access-to-previous-versions-o",
-      "date": "2025-12-16",
-      "name": "AWS Artifact enables access to previous versions of compliance reports",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Artifact now enables direct access to previous versions of AWS compliance reports, eliminating the need to contact AWS Support or account representatives. This self-service capability helps customers efficiently m",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-artifact-access-previous-versions-compliance-reports"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-16-aws-amazon-ec2-m8i-instances-are-now-available-in-addi",
-      "date": "2025-12-16",
-      "name": "Amazon EC2 M8i instances are now available in additional Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon EC2 M8i instances are now available in Asia Pacific (Seoul), Asia Pacific (Tokyo), Asia Pacific (Sydney), Asia Pacific (Singapore), and Canada (Central) Regions. These instances are powered by c",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-m8i-instances-additional-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-16-aws-aws-reduces-publishing-time-for-carbon-footprint-d",
-      "date": "2025-12-16",
-      "name": "AWS reduces publishing time for Carbon Footprint Data to 21 days or Less",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS is now publishing your carbon footprint data in 21 days or less. Previously, the carbon footprint data was published with up to a three month data lag. Now, you have access to your carbon footprint data with estim",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-reduces-publishing-time-carbon-footprint-data"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-16-aws-amazon-sagemaker-ai-is-now-available-in-asia-pacif",
-      "date": "2025-12-16",
-      "name": "Amazon SageMaker AI is now available in Asia Pacific (New Zealand)",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, you can build, train, and deploy machine learning (ML) models in Asia Pacific (New Zealand).<br /> <br /> Amazon SageMaker AI is a fully managed platform that provides every developer and data scientis",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-sagemaker-ai-asia-pacific-new-zealand"
         }
       ],
       "impact": 5,
