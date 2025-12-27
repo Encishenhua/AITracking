@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "2025-12-26-aws-amazon-connect-expands-automated-agent-performance",
+      "date": "2025-12-26",
+      "name": "Amazon Connect expands automated agent performance evaluations to 5 additional languages",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Connect now automates agent performance evaluations in Portuguese, French, Italian, German, and Spanish using generative AI. Managers define custom evaluation criteria in natural language and receive AI-generat",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-connect-automated-performance-evaluations-additional-languages/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-12-23-aws-nvidia-nemotron-3-nano-now-available-on-amazon-bed",
       "date": "2025-12-23",
       "name": "NVIDIA Nemotron 3 Nano now available on Amazon Bedrock",
@@ -1055,24 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-redshift-serverless-announces-dual-stack-mode-ipv6/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-17-aws-aws-iam-identity-center-is-now-available-in-the-as",
-      "date": "2025-12-17",
-      "name": "AWS IAM Identity Center is now available in the Asia Pacific (Taipei) AWS Region",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>You can now deploy AWS IAM Identity Center in 37 AWS Regions, including Asia Pacific (Taipei).<br /> <br /> IAM Identity Center is the recommended service for managing workforce access to AWS applications. It enables ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-iam-identity-center-asia-pacific-taipei-region/"
         }
       ],
       "impact": 5,
