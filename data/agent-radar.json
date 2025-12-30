@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "2025-12-29-aws-amazon-connect-dashboards-now-support-filtering-me",
+      "date": "2025-12-29",
+      "name": "Amazon Connect dashboards now support filtering metrics based on custom business dimensions",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Connect dashboards now support filtering metrics based on custom business dimensions such as business divisions, product lines, or customer segments. Using predefined attributes, you can create business dimensi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-connect-dashboards-filtering-metrics-custom-business-dimensions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2025-12-29-aws-amazon-opensearch-ui-supports-cmk-and-increased-me",
+      "date": "2025-12-29",
+      "name": "Amazon OpenSearch UI supports CMK and increased metadata size",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon OpenSearch Service now supports AWS KMS customer managed keys (CMKs) and increased size for OpenSearch UI metadata. Amazon OpenSearch UI is a managed service for dashboarding and operational analytics that prov",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-opensearch-ui-cmk-metadata/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-12-26-aws-amazon-connect-expands-automated-agent-performance",
       "date": "2025-12-26",
       "name": "Amazon Connect expands automated agent performance evaluations to 5 additional languages",
@@ -1037,42 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-marketplace-mandatory-purchase-orders-custom-messaging"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-17-aws-amazon-ec2-c8i-and-c8i-flex-instances-are-now-avai",
-      "date": "2025-12-17",
-      "name": "Amazon EC2 C8i and C8i-flex instances are now available in the Asia Pacific (Singapore) Region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8i and C8i-flex instances are available in the Asia Pacific (Singapore) region. These instances are powered by custom Intel Xeon 6 processors, available only ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-c8i-c8i-flex-instances-singapore-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-17-aws-amazon-redshift-serverless-announces-the-general-a",
-      "date": "2025-12-17",
-      "name": "Amazon Redshift Serverless announces the general availability of dual-stack mode supporting IPV6",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Redshift Serverless announces the general availability of dual-stack mode that supports Internet Protocol version 6 (IPv6). This enhancement enables you to modernize your network infrastructure and meet the gro",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-redshift-serverless-announces-dual-stack-mode-ipv6/"
         }
       ],
       "impact": 5,
