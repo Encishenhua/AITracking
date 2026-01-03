@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "2026-01-02-aws-aws-clean-rooms-now-supports-detailed-monitoring-f",
+      "date": "2026-01-02",
+      "name": "AWS Clean Rooms now supports detailed monitoring for collaboration queries",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS Clean Rooms announces the launch of detailed monitoring for SQL queries in a collaboration. This new capability publishes detailed metrics to CloudWatch for operational monitoring of collaborations, includi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/clean-rooms-detailed-monitoring-collaboration-queries"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2025-12-30-aws-aws-waf-is-now-available-in-the-aws-asia-pacific-n",
       "date": "2025-12-30",
       "name": "AWS WAF is now available in the AWS Asia Pacific (New Zealand) Region",
@@ -1055,24 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/security-incident-response-ten-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-17-aws-aws-payment-cryptography-is-now-available-in-asia-",
-      "date": "2025-12-17",
-      "name": "AWS Payment Cryptography is now available in Asia Pacific(Hyderabad) and Europe(Paris)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/payment-cryptography/\">AWS Payment Cryptography</a> has expanded its global presence with availability in two new regions - Asia Pacific(Hyderabad) and Europe(Paris). This expansion ena",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-payment-cryptography-available-in-hyderabad-paris/"
         }
       ],
       "impact": 5,
