@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "2026-01-05-aws-amazon-ec2-g5-instances-are-now-available-in-asia-",
+      "date": "2026-01-05",
+      "name": "Amazon EC2 G5 instances are now available in Asia Pacific (Hong Kong) Region",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, the Amazon Elastic Compute Cloud (Amazon EC2) G5 instances powered by NVIDIA A10G Tensor Core GPUs are now available in the Asia Pacific (Hong Kong) region. G5 instances can be used for a wide range of",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-g5-now-available-asia-pacific-hong-kong"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-05-aws-aws-resource-explorer-is-now-available-in-aws-asia",
+      "date": "2026-01-05",
+      "name": "AWS Resource Explorer is now available in AWS Asia Pacific (New Zealand) Region.",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS Resource Explorer has expanded the availability of resource search and discovery to the Asia Pacific (New Zealand) Region.<br /> <br /> With AWS Resource Explorer you can search for and discover your AWS re",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-resource-explorer-aws-asia-pacific-new-zealand/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-05-aws-ec2-capacity-manager-now-includes-spot-interruptio",
+      "date": "2026-01-05",
+      "name": "EC2 Capacity Manager now includes Spot interruption metrics",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces new Spot interruption metrics for Amazon EC2 Capacity Manager that allow you to better understand Spot capacity across your organization. EC2 Capacity Manager helps you monitor, analyze, and manag",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/ec2-capacity-manager-spot-interruption-metrics/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-01-02-aws-aws-clean-rooms-now-supports-detailed-monitoring-f",
       "date": "2026-01-02",
       "name": "AWS Clean Rooms now supports detailed monitoring for collaboration queries",
@@ -1019,60 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-m8g-additional-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-17-aws-amazon-ec2-r8g-instances-now-available-in-addition",
-      "date": "2025-12-17",
-      "name": "Amazon EC2 R8g instances now available in additional regions",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8g instances are available in AWS Europe (Paris), and Asia Pacific (Hyderabad) regions. These instances are powered by AWS Graviton4 processors and deliver up",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-r8g-instances-additional-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-17-aws-amazon-opensearch-service-now-offers-a-new-multi-t",
-      "date": "2025-12-17",
-      "name": "Amazon OpenSearch Service now offers a new multi-tier storage",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon OpenSearch Service now offers a new multi-tier storage option powered by OpenSearch Optimized Instances. This new architecture combines Amazon S3 cloud technology with local instance storage to deliver improved",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/writeable-warm-tier-opensearch-optimized-instances/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-17-aws-aws-security-incident-response-is-now-available-in",
-      "date": "2025-12-17",
-      "name": "AWS Security Incident Response is now available in ten additional AWS Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a contenteditable=\"false\" href=\"https://aws.amazon.com/security-incident-response/\" style=\"cursor: pointer;\">AWS Security Incident Response</a> is now available to customers in ten additional <a contenteditable=\"fals",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/security-incident-response-ten-regions/"
         }
       ],
       "impact": 5,
