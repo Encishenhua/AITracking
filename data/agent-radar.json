@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "2026-01-06-openai-chatgpt-issues-while-retrieving-workspace-members",
+      "date": "2026-01-06",
+      "name": "ChatGPT issues while retrieving workspace members",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Compliance API (Operational)</li>\n<li>Connectors (Operational)</li>\n<l",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KEACZ6R02744RQKCMSK1ZG54"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-06-aws-aws-marketplace-seller-reporting-now-provides-coll",
+      "date": "2026-01-06",
+      "name": "AWS Marketplace Seller Reporting now provides collections visibility",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces collection visibility in AWS Marketplace Seller Reporting, which adds up-to-date payment collection status to the Billed Revenue Dashboard and Billing Event Data Feed.<br /> <br /> This enhancemen",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-marketplace-seller-reporting-collections/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-06-aws-amazon-ecs-now-supports-tmpfs-mounts-on-aws-fargat",
+      "date": "2026-01-06",
+      "name": "Amazon ECS now supports tmpfs mounts on AWS Fargate and ECS Managed Instances",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/ecs/\" target=\"_blank\">Amazon Elastic Container Service</a> (Amazon ECS) now supports tmpfs mounts for Linux tasks running on AWS Fargate and Amazon ECS Managed Instances, extending beyo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ecs-tmpfs-mounts-aws-fargate-managed-instances"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-06-aws-aws-config-now-supports-21-new-resource-types",
+      "date": "2026-01-06",
+      "name": "AWS Config now supports 21 new resource types",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Config now supports 21 additional AWS resource types across key services including Amazon EC2, Amazon SageMaker, and Amazon S3 Tables. This expansion provides greater coverage over your AWS environment, enabling y",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-config-new-resource-types"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-01-05-aws-amazon-ec2-g5-instances-are-now-available-in-asia-",
       "date": "2026-01-05",
       "name": "Amazon EC2 G5 instances are now available in Asia Pacific (Hong Kong) Region",
@@ -1001,78 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-c8g-m8g-r8g-instances-additional-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-17-aws-amazon-ecr-public-now-supports-privatelink-for-us-",
-      "date": "2025-12-17",
-      "name": "Amazon ECR Public now supports PrivateLink for US East (N. Virginia) SDK Endpoint",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Elastic Container Registry (ECR) Public now supports PrivateLink for the US East (N. Virginia) SDK endpoint, providing enhanced network security and private connectivity for customers. This update allows custom",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ecr-public-privatelink-us-east-n-virginia-sdk-endpoint"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-17-aws-amazon-ec2-c8g-instances-now-available-in-europe-z",
-      "date": "2025-12-17",
-      "name": "Amazon EC2 C8g instances now available in Europe (Zurich)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8g instances are available in AWS Europe (Zurich) region. These instances are powered by AWS Graviton4 processors and deliver up to 30% better performance com",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-c8g-instances-europe-zurich"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-17-aws-amazon-opensearch-service-announces-new-oi2-instan",
-      "date": "2025-12-17",
-      "name": "Amazon OpenSearch Service announces new OI2 instances",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon OpenSearch Service introduces OI2 instances, expanding the OpenSearch Optimized Instance family. The new OI2 instances delivers up to 9% higher indexing throughput compared to OR2 instances and up to 33% over I",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-opensearch-service-oi2-instances/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-17-aws-amazon-ec2-m8g-instances-now-available-in-addition",
-      "date": "2025-12-17",
-      "name": "Amazon EC2 M8g instances now available in additional regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M8g instances are available in Asia Pacific (Thailand, Jakarta, Melbourne), and AWS Middle East (UAE) regions. These instances are powered by AWS Graviton4 pro",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-m8g-additional-regions/"
         }
       ],
       "impact": 5,
