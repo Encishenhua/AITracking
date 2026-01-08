@@ -1,6 +1,114 @@
 {
   "items": [
     {
+      "id": "2026-01-08-crewai-1-8-0",
+      "date": "2026-01-08",
+      "name": "1.8.0",
+      "vendor": "CrewAI",
+      "type": "launch",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add native async chain for a2a</li>\n<li>Add a2a update mechanisms (poll/stream/push) with handlers and config</li>\n<li>Introduce global flow configuration for human-in-t",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.8.0"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-01-07-openai-how-tolan-builds-voice-first-ai-with-gpt-5-1",
+      "date": "2026-01-07",
+      "name": "How Tolan builds voice-first AI with GPT-5.1",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "Tolan built a voice-first AI companion with GPT-5.1, combining low-latency responses, real-time context reconstruction, and memory-driven personalities for natural conversations.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/tolan"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-07-openai-elevated-error-rates-for-responses-api",
+      "date": "2026-01-07",
+      "name": "Elevated error rates for Responses API",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Responses (Operational)</li>\n          </ul>",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KEDB9WGPMX6HK8X629AFM907"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-07-aws-aws-simplifies-client-vpn-onboarding-with-quicksta",
+      "date": "2026-01-07",
+      "name": "AWS simplifies Client VPN onboarding with Quickstart setup",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces a simplified onboarding experience for AWS Client VPN, introducing a new Quickstart setup method that streamlines the process of creating and configuring Client VPN endpoints.<br /> <br /> AWS Cli",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-client-vpn-onboarding-quickstart-setup"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-07-aws-amazon-ec2-i7ie-instances-now-available-in-additio",
+      "date": "2026-01-07",
+      "name": "Amazon EC2 I7ie instances now available in additional AWS regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS is announcing starting today, Amazon EC2 I7ie instances are now available in AWS Asia Pacific (Mumbai), Canada West (Calgary) and Europe (Paris) regions. Designed for large storage I/O intensive workloads, I7ie in",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-i7ie-instances-additional-aws-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-07-aws-amazon-ec2-c8i-and-c8i-flex-instances-are-now-avai",
+      "date": "2026-01-07",
+      "name": "Amazon EC2 C8i and C8i-flex instances are now available in additional AWS regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8i and C8i-flex instances are available in the Asia Pacific (Mumbai), Asia Pacific (Seoul), and Asia Pacific (Tokyo) regions. These instances are powered by c",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-c8i-c8i-flex-instances-additional-aws-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-01-06-openai-chatgpt-issues-while-retrieving-workspace-members",
       "date": "2026-01-06",
       "name": "ChatGPT issues while retrieving workspace members",
@@ -965,114 +1073,6 @@
         {
           "title": "OpenAI source",
           "url": "https://openai.com/index/openai-academy-for-news-organizations"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-17-openai-finetuning-jobs-are-intermittently-failing",
-      "date": "2025-12-17",
-      "name": "Finetuning jobs are intermittently failing",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Fine-tuning (Operational)</li>\n          </ul>",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KCQ5FA8SEDPNZSZEH27V2H5X"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-17-aws-now-generally-available-amazon-ec2-m8gn-and-m8gb-i",
-      "date": "2025-12-17",
-      "name": "Now generally available: Amazon EC2 M8gn and M8gb instances",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the general availability of the new Amazon Elastic Compute Cloud (Amazon EC2) M8gn and M8gb instances. These instances are powered by AWS Graviton4 processors to deliver up to 30% better compute p",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-m8gn-m8gb-instances"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-17-aws-amazon-workspaces-applications-announces-additiona",
-      "date": "2025-12-17",
-      "name": "Amazon WorkSpaces Applications announces additional health and performance metrics",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Today, Amazon WorkSpaces Applications announced a new set of Amazon CloudWatch metrics for monitoring the health and performance of fleets, sessions, instances, and users. Administrators and support operations personn",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-applications-health-performance-metrics"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-17-aws-amazon-aurora-now-supports-postgresql-18-1-in-the-",
-      "date": "2025-12-17",
-      "name": "Amazon Aurora now supports PostgreSQL 18.1 in the Amazon RDS Database preview environment",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Aurora PostgreSQL-Compatible Edition now supports PostgreSQL version 18.1 in the <a href=\"https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/create-db-instance-in-preview-environment.html\" target=\"_blank\">A",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-aurora-postgresql-18-1-rds-database-preview"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-17-aws-aws-announces-enhanced-custom-line-item-controls-f",
-      "date": "2025-12-17",
-      "name": "AWS announces enhanced custom line item controls for AWS Billing Conductor",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, AWS Billing Conductor customers gain greater flexibility when using custom line items.<br /> <br /> Customers can now create service-specific custom line items scoped at either one AWS service or to a ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/enhanced-custom-line-item-controls-aws-billing-conductor"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-17-aws-amazon-ec2-c8g-m8g-r8g-instances-now-available-in-",
-      "date": "2025-12-17",
-      "name": "Amazon EC2 C8g, M8g, R8g instances now available in additional regions",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8g and M8g instances are available in AWS GovCloud (US-West) and R8g and M8g instances are available in AWS GovCloud (US-East) regions. These instances are po",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-c8g-m8g-r8g-instances-additional-regions"
         }
       ],
       "impact": 5,
