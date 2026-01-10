@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "2026-01-09-openai-openai-and-softbank-group-partner-with-sb-energy",
+      "date": "2026-01-09",
+      "name": "OpenAI and SoftBank Group partner with SB Energy",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "OpenAI and SoftBank Group partner with SB Energy to develop multi-gigawatt AI data center campuses, including a 1.2 GW Texas facility supporting the Stargate initiative.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/stargate-sb-energy-partnership"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-09-aws-announcing-larger-managed-database-bundles-for-ama",
+      "date": "2026-01-09",
+      "name": "Announcing larger managed database bundles for Amazon Lightsail",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Lightsail now offers two larger database bundles with up to 8 vCPUs, 32GB memory, and 960GB SSD storage. The new database bundles are available in both standard and high-availability plans. You can create MySQL",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/larger-managed-database-bundles-lightsail/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-09-aws-amazon-rds-for-sql-server-now-supports-cross-regio",
+      "date": "2026-01-09",
+      "name": "Amazon RDS for SQL Server now supports cross-region read replica in additional AWS Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for SQL Server</a> now supports setting up cross-region read replicas in 16 additional AWS Regions. Cross",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-rds-sql-server-cross-region-read-replica-in-additional-aws-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-01-08-crewai-1-8-0",
       "date": "2026-01-08",
       "name": "1.8.0",
@@ -1019,60 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ecs-managed-instances-ec2-spot-instances"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-18-aws-amazon-ec2-r8i-and-r8i-flex-instances-are-now-avai",
-      "date": "2025-12-18",
-      "name": "Amazon EC2 R8i and R8i-flex instances are now available in additional AWS regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8i and R8i-flex instances are available in the Asia Pacific (Seoul), South America (Sao Paulo), and Asia Pacific (Tokyo) regions. These instances are powered ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-r8i-r8i-flex-instances-additional-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-18-aws-aws-lambda-durable-functions-are-now-available-in-",
-      "date": "2025-12-18",
-      "name": "AWS Lambda durable functions are now available in 14 additional AWS Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Lambda durable functions enable developers to build reliable multi-step applications and AI workflows within the Lambda developer experience. Starting today, durable functions are available in 14 additional AWS Re",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/lambda-durable-functions-14-additional-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-18-aws-aws-direct-connect-now-supports-resilience-testing",
-      "date": "2025-12-18",
-      "name": "AWS Direct Connect now supports resilience testing with AWS Fault Injection Service",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Direct Connect now supports resilience testing with AWS Fault Injection Service (FIS), a fully managed service for running controlled fault injection experiments to improve application performance, observability, ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/direct-connect-resilience-testing-fault-injection-service/"
         }
       ],
       "impact": 5,
