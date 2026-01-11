@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "2026-01-10-langchain-langgraph-in-software-the-code-documents-the-app-in-ai-the-t",
+      "date": "2026-01-10",
+      "name": "In software, the code documents the app. In AI, the traces do.",
+      "vendor": "LangChain/LangGraph",
+      "type": "upgrade",
+      "summary": "<p><strong>TL;DR</strong></p><ul><li><strong>In traditional software, you read the code to understand what the app does - the decision logic lives in your codebase</strong></li><li><strong>In AI agents, the code is just ",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/in-software-the-code-documents-the-app-in-ai-the-traces-do/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-01-09-openai-openai-and-softbank-group-partner-with-sb-energy",
       "date": "2026-01-09",
       "name": "OpenAI and SoftBank Group partner with SB Energy",
@@ -1055,24 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-iot-core-message-batching-http-rule-action"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-18-aws-amazon-ecs-managed-instances-now-supports-amazon-e",
-      "date": "2025-12-18",
-      "name": "Amazon ECS Managed Instances now supports Amazon EC2 Spot Instances",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/ecs/managed-instances/\" target=\"_blank\">Amazon ECS Managed Instances</a> now supports <a href=\"https://aws.amazon.com/ec2/spot/\" target=\"_blank\">Amazon EC2 Spot Instances,</a> extending",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ecs-managed-instances-ec2-spot-instances"
         }
       ],
       "impact": 5,
