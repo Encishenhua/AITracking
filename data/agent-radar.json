@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "2026-01-12-openai-connectors-apps-unselectable-in-chatgpt-input-menu",
+      "date": "2026-01-12",
+      "name": "Connectors/Apps unselectable in ChatGPT Input Menu",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Resolved</b><br /><br />Connectors/Apps are again selectable in the ChatGPT Input Menu.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Connectors (Operational)</li>\n          </ul>",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KESV314P64MK8XSV6Q5DCDJ2"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-12-aws-amazon-sagemaker-hyperpod-now-validates-service-qu",
+      "date": "2026-01-12",
+      "name": "Amazon SageMaker HyperPod now validates service quotas before creating clusters on console",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker HyperPod console now validates service quotas&nbsp;for your AWS account before initiating cluster creation, enabling you to confirm sufficient quota availability before provisioning begins. SageMaker ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-sagemaker-hyperpod-validates-service-quotas/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-12-aws-amazon-connect-now-provides-agent-screen-recording",
+      "date": "2026-01-12",
+      "name": "Amazon Connect now provides agent screen recording status tracking",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Connect now offers customers the ability to view status of agent screen recordings in near real time in CloudWatch using Amazon EventBridge. With screen recording, supervisors can identify areas for agent coach",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-agent-screen-recording-status-tracking"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-12-aws-amazon-inspector-adds-java-gradle-support-and-expa",
+      "date": "2026-01-12",
+      "name": "Amazon Inspector adds Java Gradle support and expands ecosystem coverage",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Inspector scanning for Lambda functions and Elastic Container Registry (ECR) images now supports Java Gradle inventory and vulnerability scanning. This release also adds coverage for MySQL, MariaDB, PHP, Jenkin",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-inspector-java-gradle-ecosystem/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-01-10-langchain-langgraph-in-software-the-code-documents-the-app-in-ai-the-t",
       "date": "2026-01-10",
       "name": "In software, the code documents the app. In AI, the traces do.",
@@ -1001,78 +1073,6 @@
         {
           "title": "OpenAI source",
           "url": "https://openai.com/index/gpt-5-2-codex-system-card"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-18-openai-unable-to-login-on-sora-web",
-      "date": "2025-12-18",
-      "name": "Unable to Login on Sora Web",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered. Please try logging in again.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Login (Operational)</li>\n          </ul>",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KCSQV59E8XZETJ89JTXME2AZ"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-18-aws-amazon-workspaces-applications-announces-elastic-f",
-      "date": "2025-12-18",
-      "name": "Amazon WorkSpaces Applications announces Elastic fleets powered by Ubuntu Pro 24.04 LTS",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon WorkSpaces Applications now offers support for Ubuntu Pro 24.04 LTS on&nbsp;Elastic fleets, enabling Independent Software Vendors (ISVs)&nbsp;and central IT organizations to stream Ubuntu desktop applications t",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-ubuntu-elasticfleets"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-18-aws-amazon-ec2-c8a-instances-now-available-in-the-euro",
-      "date": "2025-12-18",
-      "name": "Amazon EC2 C8a instances now available in the Europe (Spain) region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, the compute-optimized Amazon EC2 C8a instances are available in the Europe (Spain) region. C8a instances are powered by 5th Gen AMD EPYC processors (formerly code named Turin) with a maximum frequency ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-c8a-instances-europe-spain-region"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-18-aws-aws-iot-core-adds-message-batching-to-http-rule-ac",
-      "date": "2025-12-18",
-      "name": "AWS IoT Core adds message batching to HTTP rule action",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/iot-core/\" target=\"_blank\">AWS IoT Core</a> now lets you batch multiple IoT messages into a single <a href=\"https://docs.aws.amazon.com/iot/latest/developerguide/https-rule-action.html\"",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-iot-core-message-batching-http-rule-action"
         }
       ],
       "impact": 5,
