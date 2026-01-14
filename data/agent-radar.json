@@ -1,6 +1,114 @@
 {
   "items": [
     {
+      "id": "2026-01-13-openai-zenken-boosts-a-lean-sales-team-with-chatgpt-enter",
+      "date": "2026-01-13",
+      "name": "Zenken boosts a lean sales team with ChatGPT Enterprise",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "By rolling out ChatGPT Enterprise company-wide, Zenken has boosted sales performance, cut preparation time, and increased proposal success rates. AI-supported workflows are helping a lean team deliver more personalized, ",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/zenken"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-13-aws-amazon-neptune-database-now-supports-r7g-and-r8g-i",
+      "date": "2026-01-13",
+      "name": "Amazon Neptune Database now supports R7g and R8g instances in 5 additional regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/neptune/\">Amazon Neptune Database</a> now supports Graviton3-based R7g and Graviton4-based R8g instances for Amazon Neptune engine versions 1.4.5 or above, in Asia Pacific (Hong Kong), ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-neptune-database-r7g-r8g-additional-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-13-aws-amazon-ec2-x8aedz-instances-are-now-available-in-a",
+      "date": "2026-01-13",
+      "name": "Amazon EC2 X8aedz instances are now available in Asia Pacific (Mumbai, Seoul) regions",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) X8aedz instances are available in Asia Pacific (Mumbai) and Asia Pacific (Seoul) regions. These instances are powered by 5th Gen AMD EPYC processors (formerly ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-x8aedz-instances-asia-pacific-mumbai-seoul-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-13-aws-amazon-connect-cases-now-supports-aws-cloudformati",
+      "date": "2026-01-13",
+      "name": "Amazon Connect Cases now supports AWS CloudFormation",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect Cases now supports AWS CloudFormation, enabling you to model, provision, and manage case resources as infrastructure as code. With this launch, administrators can create CloudFormation templates to prog",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-cases-aws-cloudformation/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-13-aws-amazon-msk-connect-is-now-available-in-three-addit",
+      "date": "2026-01-13",
+      "name": "Amazon MSK Connect is now available in three additional AWS Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon MSK Connect is now available in three additional AWS Regions: Asia Pacific (New Zealand), AWS GovCloud (US-East), and AWS GovCloud (US-West).<br /> <br /> MSK Connect enables you to run fully managed Kafka Conn",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-msk-connect-additional-aws-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-13-langchain-langgraph-now-ga-langsmith-agent-builder",
+      "date": "2026-01-13",
+      "name": "Now GA: LangSmith Agent Builder",
+      "vendor": "LangChain/LangGraph",
+      "type": "launch",
+      "summary": "LangSmith Agent Builder is now generally available—enabling anyone to build agents for complex daily tasks, without writing code.",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://www.blog.langchain.com/langsmith-agent-builder-generally-available/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-01-12-openai-connectors-apps-unselectable-in-chatgpt-input-menu",
       "date": "2026-01-12",
       "name": "Connectors/Apps unselectable in ChatGPT Input Menu",
@@ -965,114 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/timestream-influxdb-restart-api"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-19-aws-announcing-cost-allocation-tags-support-for-accoun",
-      "date": "2025-12-19",
-      "name": "Announcing Cost Allocation Tags support for Account Tags",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS announces Cost Allocation tags support for account tags across AWS Cost Management products, enabling customers with multiple member accounts to utilize their existing AWS Organizations account tags directly in co",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/cost-allocation-tags/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-19-aws-aws-iot-now-offers-event-based-logging-to-help-opt",
-      "date": "2025-12-19",
-      "name": "AWS IoT now offers event-based logging to help optimize observability costs",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS IoT now supports event-based logging, a new capability that helps developers reduce Amazon CloudWatch costs while improving log management efficiency. This feature enables targeted logging for individual event wit",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-iot-event-based-logging/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-19-aws-amazon-workspaces-applications-now-supports-micros",
-      "date": "2025-12-19",
-      "name": "Amazon WorkSpaces Applications now supports Microsoft Windows Server 2025",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon WorkSpaces Applications now offers images powered by Microsoft Windows Server 2025, enabling customers to launch streaming instances with the latest features and enhancements from Microsoft’s newest server oper",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.comabout-aws/whats-new/2025/12/amazon-workspaces-applications-supports-microsoft-windows-server"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-19-aws-amazon-redshift-odbc-2-x-driver-now-supports-apple",
-      "date": "2025-12-19",
-      "name": "Amazon Redshift ODBC 2.x Driver now supports Apple macOS",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p><a contenteditable=\"false\" href=\"https://aws.amazon.com/redshift/\" style=\"cursor: pointer;\">Amazon Redshift</a> ODBC 2.x driver now supports Apple macOS, expanding platform compatibility for developers and analysts. T",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/redshift-odbc-2-x-driver-apple-macos/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-19-aws-zero-etl-for-self-managed-database-sources-now-ava",
-      "date": "2025-12-19",
-      "name": "Zero-ETL for self-managed Database Sources now available in 7 new regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://docs.aws.amazon.com/glue/latest/dg/zero-etl-using.html\">AWS Glue</a> now supports zero-ETL for self-managed database sources in seven additional regions. Using Glue zero-ETL, you can setup an integrat",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/zero-etl-for-self-managed-databases-in-additional-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-18-openai-addendum-to-gpt-5-2-system-card-gpt-5-2-codex",
-      "date": "2025-12-18",
-      "name": "Addendum to GPT-5.2 System Card: GPT-5.2-Codex",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "This system card outlines the comprehensive safety measures implemented for GPT‑5.2-Codex. It details both model-level mitigations, such as specialized safety training for harmful tasks and prompt injections, and product",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/gpt-5-2-codex-system-card"
         }
       ],
       "impact": 5,
