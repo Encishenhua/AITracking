@@ -1,6 +1,132 @@
 {
   "items": [
     {
+      "id": "2026-01-14-aws-amazon-vpc-route-server-now-available-in-new-regio",
+      "date": "2026-01-14",
+      "name": "Amazon VPC Route Server now available in new regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon VPC Route Server is now available in 16 new regions in addition to the 14 existing ones.<br /> <br /> VPC Route Server simplifies dynamic routing between virtual appliances in your Amazon VPC. It allows you to ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.comabout-aws/whats-new/2026/01/amazon-vpc-route-server-available-new-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-14-aws-amazon-vpc-ipam-policies-now-support-rds-and-appli",
+      "date": "2026-01-14",
+      "name": "Amazon VPC IPAM policies now support RDS and Application Load Balancers",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Virtual Private Cloud (VPC) IP Address Manager (IPAM) now supports policies for Amazon Relational Database Service (RDS) instances and Application Load Balancers (ALB). This feature enables IP administrators to",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-vpc-ipam-policies-rds-alb/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-14-aws-amazon-bedrock-introduces-api-keys-to-streamline-d",
+      "date": "2026-01-14",
+      "name": "Amazon Bedrock introduces API keys to streamline development in GovCloud regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>API keys for Amazon Bedrock are now available in AWS GovCloud (US) regions, expanding a feature that simplifies authentication and accelerates generative AI development. Originally launched in commercial AWS regions i",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-bedrock-api-keys-streamline-development-govcloud/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-14-aws-aws-transform-custom-adds-aws-privatelink-support-",
+      "date": "2026-01-14",
+      "name": "AWS Transform custom adds AWS PrivateLink support and expands to Europe (Frankfurt) Region",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Transform custom now supports AWS PrivateLink and is available in a new AWS Region, Europe (Frankfurt), in addition to the US East (N. Virginia) Region. AWS Transform custom helps organizations reduce technical de",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-transform-custom-privatelink-europe-frankfurt-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-14-aws-amazon-connect-makes-it-easier-to-manage-recurring",
+      "date": "2026-01-14",
+      "name": "Amazon Connect makes it easier to manage recurring overrides for hours of operation",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Connect now makes it easier to manage contact center operating hours for recurring events like holidays, maintenance windows, and promotional periods, with a visual calendar that provides at-a-glance visibility",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.comabout-aws/whats-new/2026/01/amazon-connect-recurring-hour-operation-overrides"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-14-aws-enhanced-transactions-view-now-available-in-aws-bi",
+      "date": "2026-01-14",
+      "name": "Enhanced Transactions view now available in AWS Billing Console",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS announces significant improvements to the Transactions view in the AWS Billing and Cost Management Console’s Payments page, delivering faster performance, simplified payment reconciliation, and improved data accur",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/enhanced-transactions-view-aws-billing-console"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-14-langchain-langgraph-choosing-the-right-multi-agent-architecture",
+      "date": "2026-01-14",
+      "name": "Choosing the Right Multi-Agent Architecture",
+      "vendor": "LangChain/LangGraph",
+      "type": "upgrade",
+      "summary": "In this post, we’ll explore when multi-agent architectures become necessary, the four main patterns we’ve observed, and how LangChain empowers you to effectively build multi-agent systems.",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://www.blog.langchain.com/choosing-the-right-multi-agent-architecture/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-01-13-openai-zenken-boosts-a-lean-sales-team-with-chatgpt-enter",
       "date": "2026-01-13",
       "name": "Zenken boosts a lean sales team with ChatGPT Enterprise",
@@ -947,132 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-storage-gateway-nutanix-avh-hypervisor"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-22-aws-aws-wickr-launches-admin-apis-for-programmatic-net",
-      "date": "2025-12-22",
-      "name": "AWS Wickr launches admin APIs for programmatic network management at scale",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Wickr now provides a suite of admin APIs that empower administrators to programmatically manage secure communication networks at scale. These APIs enable you to automate critical administrative workflows including",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.comabout-aws/whats-new/2025/12/aws-wickr-admin-apis-generally-available/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-21-openai-some-android-users-are-experiencing-elevated-error",
-      "date": "2025-12-21",
-      "name": "Some Android users are experiencing elevated errors while using ChatGPT.",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Connectors (Operational)</li>\n<li>Login (Operational)</li>\n<li>File up",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KD19S888P8SGB2TFB82DWCW8"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-19-aws-amazon-application-recovery-controller-region-swit",
-      "date": "2025-12-19",
-      "name": "Amazon Application Recovery Controller region switch now supports three new capabilities",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Application Recovery Controller (ARC) Region switch allows you to orchestrate the specific steps to switch your multi-Region applications to operate out of another AWS Region and achieve a bounded recovery time",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-application-recovery-controller-region-switch-new-capabilities"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-19-aws-aws-private-ca-ocsp-now-available-in-china-and-aws",
-      "date": "2025-12-19",
-      "name": "AWS Private CA OCSP now available in China and AWS GovCloud (US) Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/private-ca/\" target=\"_blank\">AWS Private Certificate Authority</a> (AWS Private CA) now supports Online Certificate Status Protocol (OCSP) in China and AWS GovCloud (US) Regions. AWS Pr",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-private-ca-ocsp-china-govcloud-us-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-19-aws-amazon-rds-enhances-observability-for-snapshot-exp",
-      "date": "2025-12-19",
-      "name": "Amazon RDS enhances observability for snapshot exports to Amazon S3",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Relational Database Service (RDS) now offers enhanced observability for your snapshot exports to Amazon S3, providing detailed insights into export progress, failures, and performance for each task. These notif",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-rds-observability-snapshot-exports-s3"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-19-aws-amazon-bedrock-data-automation-launches-instructio",
-      "date": "2025-12-19",
-      "name": "Amazon Bedrock Data Automation launches instruction optimization for your document blueprints",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Bedrock Data Automation (BDA) now supports blueprint instruction optimization, enabling you to improve the accuracy of your custom field extraction using just a few example document assets with ground truth lab",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/bedrock-data-automation-optimization-document-blueprints/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-19-aws-timestream-for-influxdb-now-supports-restart-api-c",
-      "date": "2025-12-19",
-      "name": "Timestream for InfluxDB Now Supports Restart API Calls",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Timestream for InfluxDB now offers a restart API for both InfluxDB versions 2 and 3. This new capability enables customers to trigger system restarts on their database instances directly through the AWS Managem",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/timestream-influxdb-restart-api"
         }
       ],
       "impact": 5,
