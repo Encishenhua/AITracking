@@ -1,6 +1,114 @@
 {
   "items": [
     {
+      "id": "2026-01-15-aws-aws-clean-rooms-now-supports-parameters-in-pyspark",
+      "date": "2026-01-15",
+      "name": "AWS Clean Rooms now supports parameters in PySpark analysis templates",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Clean Rooms announces support for parameters in PySpark analysis templates, offering increased flexibility for organizations and their partners to scale their privacy-enhanced data collaboration use cases. With th",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-clean-rooms-parameters-pyspark-analysis-templates/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-15-aws-announcing-amazon-ec2-memory-optimized-x8i-instanc",
+      "date": "2026-01-15",
+      "name": "Announcing Amazon EC2 Memory optimized X8i instances",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Web Services (AWS) is announcing the general availability of Amazon EC2 X8i instances, next-generation memory optimized instances powered by custom Intel Xeon 6 processors available only on AWS. X8i instances a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-amazon-ec2-x8i-generally-available"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-15-aws-amazon-connect-now-provides-agent-scheduling-metri",
+      "date": "2026-01-15",
+      "name": "Amazon Connect now provides agent scheduling metrics in data lake",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect now provides agent scheduling metrics in data lake, making it easier for you to generate reports and insights from this data. For example, after publishing schedules for next month, you can access inter",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-scheduling-metrics/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-15-aws-aws-lambda-announces-cross-account-access-for-dyna",
+      "date": "2026-01-15",
+      "name": "AWS Lambda announces cross-account access for DynamoDB Streams",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Lambda now supports cross-account access for AWS DynamoDB Streams event-source mappings (ESMs),<br /> enabling you to trigger Lambda functions in one account from DynamoDB Streams in another account.<br /> <br /> ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-lambda-cross-account-access-dynamodb-streams"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-15-aws-aws-data-exports-adds-granular-operation-visibilit",
+      "date": "2026-01-15",
+      "name": "AWS Data Exports  adds granular operation visibility for Amazon Bedrock model usage",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Data Exports now enables customers to distinguish between Amazon Bedrock operation types in their cost reports for enhanced cost analysis and optimization. This granular operation information is available in Cost ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/granular-amazon-bedrock/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-15-crewai-1-8-1",
+      "date": "2026-01-15",
+      "name": "1.8.1",
+      "vendor": "CrewAI",
+      "type": "launch",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add A2A task execution utilities</li>\n<li>Add A2A server configuration and agent card generation</li>\n<li>Add additional A2A transports</li>\n<li>Add Galileo to integrati",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.8.1"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-01-14-aws-amazon-vpc-route-server-now-available-in-new-regio",
       "date": "2026-01-14",
       "name": "Amazon VPC Route Server now available in new regions",
@@ -965,114 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/oracle-database-aws-marketplace-entitlements-across-accounts/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-22-aws-amazon-ecs-service-connect-enhances-observability-",
-      "date": "2025-12-22",
-      "name": "Amazon ECS Service Connect enhances observability with Envoy Access Logs",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p><a href=\"https://aws.amazon.com/ecs/\" target=\"_blank\">Amazon Elastic Container Service</a> (Amazon ECS) Service Connect now supports Envoy access logs, providing deeper observability into request-level traffic pattern",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ecs-service-connect-observability-envoy-access-logs"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-22-aws-amazon-kinesis-video-streams-now-supports-ipv6-for",
-      "date": "2025-12-22",
-      "name": "Amazon Kinesis Video Streams now supports IPv6 for WebRTC",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Kinesis Video Streams (Amazon KVS) now supports Internet Protocol version 6 (IPv6) addressing for WebRTC. This release introduces dual-stack endpoint support, enabling developers to use both IPv4 and IPv6 addre",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-kinesis-video-streams-webrtc-ipv6/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-22-aws-amazon-gamelift-streams-launches-real-time-perform",
-      "date": "2025-12-22",
-      "name": "Amazon GameLift Streams launches real-time performance stats and improved API error messaging",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, Amazon GameLift Streams launched new powerful observability capabilities with session performance stats that provide real-time data for individual stream sessions, offering insights into application performance",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-gameliftstream-performance-stats-error-messaging"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-22-aws-amazon-gamelift-streams-launches-gen6-based-stream",
-      "date": "2025-12-22",
-      "name": "Amazon GameLift Streams launches Gen6-based stream classes and enhanced autoscaling for better performance and pricing",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, Amazon GameLift Streams launched two new capabilities to optimize performance and cost: Gen6 stream classes and enhanced autoscaling with warm buffer. The new Gen6 stream classes provide a wider range of price ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-gameliftstream-gen6-enhanced-autoscaling"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-22-aws-research-and-engineering-studio-on-aws-version-202",
-      "date": "2025-12-22",
-      "name": "Research and Engineering Studio on AWS Version 2025.12 now available",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today we announce Research and Engineering Studio (RES) on AWS version 2025.12, which introduces tag propagation for CloudFormation resources, enhanced Windows domain configuration options, default session scheduling,",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/research-engineering-studio-aws-new-version-available/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-22-aws-aws-storage-gateway-now-supports-nutanix-ahv-hyper",
-      "date": "2025-12-22",
-      "name": "AWS Storage Gateway now supports Nutanix AHV hypervisor",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>The <a href=\"https://aws.amazon.com/storagegateway/\" target=\"_blank\">AWS Storage Gateway</a> service now supports the Nutanix AHV hypervisor as a deployment option for S3 File, Tape and Volume gateways. If you use Nut",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-storage-gateway-nutanix-avh-hypervisor"
         }
       ],
       "impact": 5,
