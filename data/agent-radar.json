@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "2026-01-16-openai-introducing-chatgpt-go-now-available-worldwide",
+      "date": "2026-01-16",
+      "name": "Introducing ChatGPT Go, now available worldwide",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "ChatGPT Go is now available worldwide, offering expanded access to GPT-5.2 Instant, higher usage limits, and longer memory—making advanced AI more affordable globally.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/introducing-chatgpt-go"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-16-aws-aws-outposts-racks-support-multiple-lgw-routing-do",
+      "date": "2026-01-16",
+      "name": "AWS Outposts racks support multiple LGW routing domains",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Outposts racks now support multiple local gateway (LGW) routing domains, enabling you to create up to 10 isolated routing domains per Outpost, each with independent route tables and BGP sessions to your on-premise",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-outposts-multiple-lgw-routing-domain"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-16-aws-second-generation-aws-outposts-racks-are-now-suppo",
+      "date": "2026-01-16",
+      "name": "Second-generation AWS Outposts racks are now supported in additional AWS Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Second-generation AWS Outposts racks are now supported in the South America (Sao Paulo) and Europe (Stockholm) Regions. Outposts racks extend AWS infrastructure, AWS services, APIs, and tools to virtually any on-premi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/second-generation-aws-outposts-racks-additional-aws-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-16-aws-amazon-s3-storage-lens-is-now-available-in-aws-gov",
+      "date": "2026-01-16",
+      "name": "Amazon S3 Storage Lens is now available in AWS GovCloud (US) Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon S3 Storage Lens provides organization-wide visibility into your storage usage and activity. S3 Storage Lens is now available in AWS GovCloud (US) Regions, bringing metrics to help you optimize storage costs, id",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/s3-storage-lens-aws-govcloud-us-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-01-15-aws-aws-clean-rooms-now-supports-parameters-in-pyspark",
       "date": "2026-01-15",
       "name": "AWS Clean Rooms now supports parameters in PySpark analysis templates",
@@ -340,6 +412,24 @@
       "impact": 4,
       "risk": 2,
       "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-01-13-aws-amazon-rds-for-postgresql-announces-extended-suppo",
+      "date": "2026-01-13",
+      "name": "Amazon RDS for PostgreSQL announces Extended Support minor  12.22-rds.20251114 and 11.22-rds.20251114",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Relational Database Service (RDS) for PostgreSQL announces Amazon RDS Extended Support minor version &nbsp;12.22-rds.20251114 and 11.22-rds.20251114. We recommend that you upgrade to this version to fix known s",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/1/amazon-rds-for-postgresql-announces-extended-support-minor-12-22-rds-20251114-and-11-22-rds-20251114"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
       "tags": []
     },
     {
@@ -983,96 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/minimax-m2-on-sagemaker-jumpstart"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-23-aws-aws-transform-enables-network-conversion-for-hybri",
-      "date": "2025-12-23",
-      "name": "AWS Transform enables network conversion for hybrid data center migrations",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS Transform now supports automatic network conversion from hybrid data centers, eliminating manual network mapping for environments running both VMware and non-VMware workloads. The service now analyzes VLANs and IP",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-transform-hybrid-network-migration/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-23-aws-amazon-workspaces-secure-browser-enables-branding-",
-      "date": "2025-12-23",
-      "name": "Amazon WorkSpaces Secure Browser enables branding customization",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon WorkSpaces Secure Browser now supports branding customization, enabling you to create a consistent, branded experience that helps you align with your organization's visual identity. This feature allows you to c",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-secure-browser-enables-branding/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-22-openai-continuously-hardening-chatgpt-atlas-against-promp",
-      "date": "2025-12-22",
-      "name": "Continuously hardening ChatGPT Atlas against prompt injection",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "OpenAI is strengthening ChatGPT Atlas against prompt injection attacks using automated red teaming trained with reinforcement learning. This proactive discover-and-patch loop helps identify novel exploits early and harde",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/hardening-atlas-against-prompt-injection"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-22-aws-aws-deadline-cloud-now-supports-direct-job-submiss",
-      "date": "2025-12-22",
-      "name": "AWS Deadline Cloud now supports direct job submission from the Deadline Cloud Monitor",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Deadline Cloud now lets you submit rendering jobs directly from the Deadline Cloud Monitor desktop application. This new feature makes it easier to submit renders for applications that don’t have built-in Deadline",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-deadline-cloud-direct-job-submission-from/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-22-aws-oracle-database-aws-now-supports-sharing-of-aws-ma",
-      "date": "2025-12-22",
-      "name": "Oracle Database@AWS now supports sharing of AWS Marketplace entitlements across accounts",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, <a href=\"https://aws.amazon.com/marketplace/featured-seller/oracle/\" target=\"_blank\">Oracle Database@AWS</a> announced ability to share AWS Marketplace entitlements across accounts within an AWS Organization. W",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/oracle-database-aws-marketplace-entitlements-across-accounts/"
         }
       ],
       "impact": 5,
