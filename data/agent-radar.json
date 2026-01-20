@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "2026-01-19-langchain-langgraph-how-remote-uses-langchain-and-langgraph-to-onboard",
+      "date": "2026-01-19",
+      "name": "How Remote uses LangChain and LangGraph to onboard thousands of customers with AI",
+      "vendor": "LangChain/LangGraph",
+      "type": "upgrade",
+      "summary": "<p><em>Guest post written by Jos&#xe9; Mussa (Staff Software Engineer @ Remote)</em></p><p><a href=\"https://remote.com/?ref=blog.langchain.com\"><u>Remote</u></a> is a fast-growing startup helping companies hire, manage, ",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://www.blog.langchain.com/customers-remote/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-01-16-openai-introducing-chatgpt-go-now-available-worldwide",
       "date": "2026-01-16",
       "name": "Introducing ChatGPT Go, now available worldwide",
@@ -1055,24 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-rds-mysql-innovation-release/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-23-aws-minimax-m2-is-now-available-on-amazon-sagemaker-ju",
-      "date": "2025-12-23",
-      "name": "MiniMax-M2 is now available on Amazon SageMaker JumpStart",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>MiniMax-M2 is now available on Amazon SageMaker JumpStart, providing customers with immediate access to deploy this efficient open-source model in minutes. With SageMaker JumpStart, you can quickly discover, evaluate,",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/minimax-m2-on-sagemaker-jumpstart"
         }
       ],
       "impact": 5,
