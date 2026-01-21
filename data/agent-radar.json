@@ -1,6 +1,168 @@
 {
   "items": [
     {
+      "id": "2026-01-20-openai-cisco-and-openai-redefine-enterprise-engineering-w",
+      "date": "2026-01-20",
+      "name": "Cisco and OpenAI redefine enterprise engineering with AI agents",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "Cisco and OpenAI redefine enterprise engineering with Codex, an AI software agent embedded in workflows to speed builds, automate defect fixes, and enable AI-native development.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/cisco"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-20-aws-sagemaker-unified-studio-adds-support-for-cross-re",
+      "date": "2026-01-20",
+      "name": "SageMaker Unified Studio adds support for cross-Region and IAM role-based subscriptions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker Unified Studio now supports cross-Region subscriptions and IAM role-based subscriptions for simple and flexible data access and governance. With cross-Region support, you can subscribe to AWS Glue tab",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/sagemaker-unified-studio-adds-cross-region-iam/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-20-aws-aws-expands-managed-integrations-for-aws-iot-devic",
+      "date": "2026-01-20",
+      "name": "AWS expands managed integrations for AWS IoT Device Management service coverage to the Middle East (UAE) region",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS IoT Device Management now offers the managed integrations feature in the Middle East (UAE) region. Organizations operating in this region can now better serve their local customers, helping them build unified Inte",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/managed-integrations-iot-device-coverage-uae/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-20-aws-amazon-rds-for-oracle-extends-support-for-bare-met",
+      "date": "2026-01-20",
+      "name": "Amazon RDS for Oracle extends support for bare metal instances to Standard Edition 2",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon RDS for Oracle now supports bare metal instances with Bring Your Own License (BYOL) license for Oracle Standard Edition 2. You can use M7i, R7i, X2iedn, X2idn, X2iezn, M6i, M6id, M6in, R6i, R6id, and R6in bare ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-rds-oracle-support-bare-metal-instances-standard-edition-2"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-20-aws-amazon-ec2-g7e-instances-are-now-generally-availab",
+      "date": "2026-01-20",
+      "name": "Amazon EC2 G7e instances are now generally available",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, Amazon announces the general availability of Amazon Elastic Compute Cloud (Amazon EC2) G7e instances, accelerated by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs.&nbsp;G7e instances offer up to 2.3x infere",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-g7e-instances-generally-available"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-20-aws-amazon-quick-sight-expands-dashboard-customization",
+      "date": "2026-01-20",
+      "name": "Amazon Quick Sight expands dashboard customization in tables and pivot tables",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Building on our recent launch of <a href=\"https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-quick-sight-dashboard-tables-pivot-tables/\" target=\"_blank\">customizable tables and pivot tables</a>, <a href=\"https:",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-quicksight-expands-dashboard-customization-tables-pivot-tables"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-20-aws-amazon-rds-blue-green-deployments-reduces-downtime",
+      "date": "2026-01-20",
+      "name": "Amazon RDS Blue/Green Deployments reduces downtime to under five seconds",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS)</a> now supports faster Blue/Green Deployments switchover, reducing your primary database, or writer node, upgrade ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-rds-blue-green-deployments-reduces-downtime"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-20-aws-amazon-aurora-and-rds-for-postgresql-mysql-and-mar",
+      "date": "2026-01-20",
+      "name": "Amazon Aurora and RDS for PostgreSQL, MySQL and MariaDB now support r8g, r7g, and r7i database instances in additional AWS Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Graviton4-based R8g database instances are now generally available for Amazon Aurora (MySQL and PostgreSQL compatibility) and Amazon RDS for PostgreSQL, MySQL, and MariaDB in additional Asia Pacific regions (Hong ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.comabout-aws/whats-new/2026/01/amazon-aurora-rds-r8g-r7g-r7i-instances-additional-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-20-langchain-langgraph-from-traces-to-insights-understanding-agent-behavi",
+      "date": "2026-01-20",
+      "name": "From Traces to Insights: Understanding Agent Behavior at Scale",
+      "vendor": "LangChain/LangGraph",
+      "type": "upgrade",
+      "summary": "<blockquote>Visibility is the easiest piece. The hard part is analyzing and understanding what you&#x2019;re observing. I&#x2019;ve spoken to teams recording 100k+ traces every single day. What are they doing with those ",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://www.blog.langchain.com/from-traces-to-insights-understanding-agent-behavior-at-scale/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-01-19-langchain-langgraph-how-remote-uses-langchain-and-langgraph-to-onboard",
       "date": "2026-01-19",
       "name": "How Remote uses LangChain and LangGraph to onboard thousands of customers with AI",
@@ -83,6 +245,24 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/s3-storage-lens-aws-govcloud-us-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-16-aws-amazon-bedrock-reserved-tier-available-now-for-cla",
+      "date": "2026-01-16",
+      "name": "Amazon Bedrock Reserved Tier available now for Claude Opus 4.5 and Haiku 4.5",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, Amazon Bedrock announces the expansion of the Reserved service tier designed for workloads requiring predictable performance and guaranteed tokens-per-minute capacity. The Reserved tier provides the ability to ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-bedrock-reserved-tier-claude-opus-haiku/"
         }
       ],
       "impact": 5,
@@ -893,186 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-resource-explorer-aws-asia-pacific-new-zealand/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-05-aws-ec2-capacity-manager-now-includes-spot-interruptio",
-      "date": "2026-01-05",
-      "name": "EC2 Capacity Manager now includes Spot interruption metrics",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces new Spot interruption metrics for Amazon EC2 Capacity Manager that allow you to better understand Spot capacity across your organization. EC2 Capacity Manager helps you monitor, analyze, and manag",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/ec2-capacity-manager-spot-interruption-metrics/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-02-aws-aws-clean-rooms-now-supports-detailed-monitoring-f",
-      "date": "2026-01-02",
-      "name": "AWS Clean Rooms now supports detailed monitoring for collaboration queries",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS Clean Rooms announces the launch of detailed monitoring for SQL queries in a collaboration. This new capability publishes detailed metrics to CloudWatch for operational monitoring of collaborations, includi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/clean-rooms-detailed-monitoring-collaboration-queries"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-30-aws-aws-waf-is-now-available-in-the-aws-asia-pacific-n",
-      "date": "2025-12-30",
-      "name": "AWS WAF is now available in the AWS Asia Pacific (New Zealand) Region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, AWS WAF is available in the AWS Asia Pacific (New Zealand) Region.<br /> <br /> AWS WAF is a web application firewall that helps you protect your web application resources against common web exploits a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-waf-asia-pacific-new-zealand-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-30-aws-aws-launches-simplified-import-of-cloudtrail-lake-",
-      "date": "2025-12-30",
-      "name": "AWS launches simplified import of CloudTrail Lake data in Amazon CloudWatch",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS launches simplified import of CloudTrail Lake data in Amazon CloudWatch, a data management and analytics service that allows you to unify operational, security, and compliance data across your AWS environme",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/aws-simplified-import-cloudtrail-lake-data-amazon-cloudwatch"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-29-aws-amazon-connect-dashboards-now-support-filtering-me",
-      "date": "2025-12-29",
-      "name": "Amazon Connect dashboards now support filtering metrics based on custom business dimensions",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Connect dashboards now support filtering metrics based on custom business dimensions such as business divisions, product lines, or customer segments. Using predefined attributes, you can create business dimensi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-connect-dashboards-filtering-metrics-custom-business-dimensions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-29-aws-amazon-opensearch-ui-supports-cmk-and-increased-me",
-      "date": "2025-12-29",
-      "name": "Amazon OpenSearch UI supports CMK and increased metadata size",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon OpenSearch Service now supports AWS KMS customer managed keys (CMKs) and increased size for OpenSearch UI metadata. Amazon OpenSearch UI is a managed service for dashboarding and operational analytics that prov",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-opensearch-ui-cmk-metadata/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-26-aws-amazon-connect-expands-automated-agent-performance",
-      "date": "2025-12-26",
-      "name": "Amazon Connect expands automated agent performance evaluations to 5 additional languages",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Connect now automates agent performance evaluations in Portuguese, French, Italian, German, and Spanish using generative AI. Managers define custom evaluation criteria in natural language and receive AI-generat",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-connect-automated-performance-evaluations-additional-languages/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-23-aws-nvidia-nemotron-3-nano-now-available-on-amazon-bed",
-      "date": "2025-12-23",
-      "name": "NVIDIA Nemotron 3 Nano now available on Amazon Bedrock",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Bedrock now supports NVIDIA Nemotron 3 Nano 30B A3B model, NVIDIA's latest breakthrough in efficient language modeling that delivers high reasoning performance, native tool calling support, and extended context",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/nvidia-nemotron-3-nano-amazon-bedrock"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-23-aws-amazon-workspaces-secure-browser-now-supports-weba",
-      "date": "2025-12-23",
-      "name": "Amazon WorkSpaces Secure Browser now supports WebAuthn redirection for local Chromium browsers",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon WorkSpaces Secure Browser now supports Web Authentication (WebAuthn) redirection, allowing users to authenticate to websites using their local FIDO2 security keys, biometric authenticators, and platform authent",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-secure-browser-webauthn-redirection-chromium-browsers"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2025-12-23-aws-amazon-rds-for-mysql-announces-innovation-release-",
-      "date": "2025-12-23",
-      "name": "Amazon RDS for MySQL announces Innovation Release 9.5 in Amazon RDS Database Preview Environment",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/mysql/\">Amazon RDS for MySQL</a> now supports community MySQL Innovation Release 9.5 in the <a href=\"https://aws.amazon.com/rds/databasepreview/\">Amazon RDS Database Preview Environ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-rds-mysql-innovation-release/"
         }
       ],
       "impact": 5,
