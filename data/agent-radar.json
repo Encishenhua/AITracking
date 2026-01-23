@@ -1,6 +1,150 @@
 {
   "items": [
     {
+      "id": "2026-01-22-aws-amazon-ec2-c8i-instances-are-now-available-in-aws-",
+      "date": "2026-01-22",
+      "name": "Amazon EC2 C8i instances are now available in AWS Europe (London) region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8i instances are available in the Europe (London) region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-c8i-instances-europe-london-region"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-22-aws-amazon-ec2-c8i-and-c8i-flex-instances-are-now-avai",
+      "date": "2026-01-22",
+      "name": "Amazon EC2 C8i and C8i-flex instances are now available in Asia Pacific (Sydney) and Europe (Frankfurt) regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8i and C8i-flex instances are available in the Asia Pacific (Sydney), and Europe (Frankfurt) regions. These instances are powered by custom Intel Xeon 6 proce",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-c8i-c8i-flex-instances-asia-pacific-sydney-europe-london-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-22-aws-aws-config-launches-13-new-managed-rules",
+      "date": "2026-01-22",
+      "name": "AWS Config launches 13 new managed rules",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Config announces launch of an additional 13 managed Config rules for various use cases such as security, durability, and operations. You can now search, discover, enable and manage these additional rules directly ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-config-launches-new-rules/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-22-aws-amazon-neptune-analytics-is-now-available-in-7-add",
+      "date": "2026-01-22",
+      "name": "Amazon Neptune Analytics is now available in 7 additional regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://docs.aws.amazon.com/neptune-analytics/latest/userguide/what-is-neptune-analytics.html\" target=\"_blank\">Amazon Neptune Analytics</a> is now available in US West (N. California), Asia Pacific (Seoul), A",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-neptune-analytics-generally-available-additional-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-22-aws-amazon-bedrock-agentcore-browser-now-supports-cust",
+      "date": "2026-01-22",
+      "name": "Amazon Bedrock AgentCore Browser now supports custom browser extensions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock AgentCore Browser now supports custom Chrome browser extensions, enabling automation for complex workflows that standard browser automation cannot handle alone. This enhancement builds upon AgentCore’s ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-bedrock-agentcore-browser-custom-extensions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-22-aws-aws-expands-resource-control-policies-support-for-",
+      "date": "2026-01-22",
+      "name": "AWS expands Resource Control Policies support for Cognito and CloudWatch Logs",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Resource Control Policies (RCPs) now provide support for <a href=\"https://aws.amazon.com/pm/cognito/?trk=de90528c-2450-48d7-9981-bc556d44c9ab&amp;sc_channel=ps&amp;trk=de90528c-2450-48d7-9981-bc556d44c9ab&amp;sc_c",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-expands-resource-control-policies"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-22-aws-microsoft-office-visio-and-project-2024-apps-now-o",
+      "date": "2026-01-22",
+      "name": "Microsoft Office, Visio and Project 2024 Apps now on Amazon WorkSpaces",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today,&nbsp;Amazon WorkSpaces Personal&nbsp;and Core announce the availability of new Microsoft productivity applications for WorkSpaces instances, including Microsoft Office LTSC Professional Plus 2024, Microsoft Off",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/microsoft-office-visio-project-2024-amazon-workspaces/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-22-aws-now-available-48xlarge-and-metal-48xl-sizes-for-eb",
+      "date": "2026-01-22",
+      "name": "Now available: 48xlarge and metal-48xl sizes for EBS optimized Amazon EC2 instances",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the general availability of the Amazon Elastic Block Storage (Amazon EBS) optimized Amazon Elastic Compute Cloud (Amazon EC2) C8gb, M8gb, and R8gb instances in 48xlarge sizes. We are also offering",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/graviton4-ebs-optimized-larger-sizes"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-01-21-openai-how-countries-can-end-the-capability-overhang",
       "date": "2026-01-21",
       "name": "How countries can end the capability overhang",
@@ -397,6 +541,24 @@
       "tags": []
     },
     {
+      "id": "2026-01-20-aws-sagemaker-unified-studio-adds-cross-region-subscri",
+      "date": "2026-01-20",
+      "name": "SageMaker Unified Studio adds cross-Region subscriptions support for IDC based domains",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker Unified Studio now supports cross-Region subscriptions for comprehensive and flexible data access and governance. With cross-Region support, you can subscribe to AWS Glue tables and views, as well as ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/sagemaker-unified-studio-adds-cross-region-iam/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-01-19-langchain-langgraph-how-remote-uses-langchain-and-langgraph-to-onboard",
       "date": "2026-01-19",
       "name": "How Remote uses LangChain and LangGraph to onboard thousands of customers with AI",
@@ -628,6 +790,24 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-01-15-aws-aws-deadline-cloud-now-supports-machine-learning-t",
+      "date": "2026-01-15",
+      "name": "AWS Deadline Cloud now supports machine learning training using Foundry Nuke CopyCat",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS Deadline Cloud announces integration with Foundry Nuke CopyCat, allowing you to run machine learning training jobs for visual effects in the cloud. AWS Deadline Cloud is a fully managed service that simplif",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-deadline-cloud-machine-learning-training"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
       "tags": []
     },
     {
@@ -893,186 +1073,6 @@
         {
           "title": "OpenAI source",
           "url": "https://status.openai.com//incidents/01KESV314P64MK8XSV6Q5DCDJ2"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-12-aws-amazon-sagemaker-hyperpod-now-validates-service-qu",
-      "date": "2026-01-12",
-      "name": "Amazon SageMaker HyperPod now validates service quotas before creating clusters on console",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker HyperPod console now validates service quotas&nbsp;for your AWS account before initiating cluster creation, enabling you to confirm sufficient quota availability before provisioning begins. SageMaker ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-sagemaker-hyperpod-validates-service-quotas/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-12-aws-amazon-connect-now-provides-agent-screen-recording",
-      "date": "2026-01-12",
-      "name": "Amazon Connect now provides agent screen recording status tracking",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Connect now offers customers the ability to view status of agent screen recordings in near real time in CloudWatch using Amazon EventBridge. With screen recording, supervisors can identify areas for agent coach",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-agent-screen-recording-status-tracking"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-12-aws-amazon-inspector-adds-java-gradle-support-and-expa",
-      "date": "2026-01-12",
-      "name": "Amazon Inspector adds Java Gradle support and expands ecosystem coverage",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Inspector scanning for Lambda functions and Elastic Container Registry (ECR) images now supports Java Gradle inventory and vulnerability scanning. This release also adds coverage for MySQL, MariaDB, PHP, Jenkin",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-inspector-java-gradle-ecosystem/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-10-langchain-langgraph-in-software-the-code-documents-the-app-in-ai-the-t",
-      "date": "2026-01-10",
-      "name": "In software, the code documents the app. In AI, the traces do.",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "<p><strong>TL;DR</strong></p><ul><li><strong>In traditional software, you read the code to understand what the app does - the decision logic lives in your codebase</strong></li><li><strong>In AI agents, the code is just ",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/in-software-the-code-documents-the-app-in-ai-the-traces-do/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-01-09-openai-openai-and-softbank-group-partner-with-sb-energy",
-      "date": "2026-01-09",
-      "name": "OpenAI and SoftBank Group partner with SB Energy",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "OpenAI and SoftBank Group partner with SB Energy to develop multi-gigawatt AI data center campuses, including a 1.2 GW Texas facility supporting the Stargate initiative.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/stargate-sb-energy-partnership"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-09-aws-announcing-larger-managed-database-bundles-for-ama",
-      "date": "2026-01-09",
-      "name": "Announcing larger managed database bundles for Amazon Lightsail",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Lightsail now offers two larger database bundles with up to 8 vCPUs, 32GB memory, and 960GB SSD storage. The new database bundles are available in both standard and high-availability plans. You can create MySQL",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/larger-managed-database-bundles-lightsail/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-09-aws-amazon-rds-for-sql-server-now-supports-cross-regio",
-      "date": "2026-01-09",
-      "name": "Amazon RDS for SQL Server now supports cross-region read replica in additional AWS Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for SQL Server</a> now supports setting up cross-region read replicas in 16 additional AWS Regions. Cross",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-rds-sql-server-cross-region-read-replica-in-additional-aws-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-08-crewai-1-8-0",
-      "date": "2026-01-08",
-      "name": "1.8.0",
-      "vendor": "CrewAI",
-      "type": "launch",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add native async chain for a2a</li>\n<li>Add a2a update mechanisms (poll/stream/push) with handlers and config</li>\n<li>Introduce global flow configuration for human-in-t",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.8.0"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-01-08-openai-netomi-s-lessons-for-scaling-agentic-systems-into-",
-      "date": "2026-01-08",
-      "name": "Netomi’s lessons for scaling agentic systems into the enterprise",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "How Netomi scales enterprise AI agents using GPT-4.1 and GPT-5.2—combining concurrency, governance, and multi-step reasoning for reliable production workflows.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/netomi"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-08-aws-amazon-documentdb-with-mongodb-compatibility-is-no",
-      "date": "2026-01-08",
-      "name": "Amazon DocumentDB (with MongoDB compatibility) is Now Available in the Asia Pacific (Jakarta) Region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon DocumentDB (with MongoDB compatibility) is now available in the Asia Pacific (Jakarta) region adding to the <a href=\"https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/\">list of av",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.comabout-aws/whats-new/2026/01/amazon-documentdb-mongodb-compatibility-asia-pacific-jakarta-region"
         }
       ],
       "impact": 5,
