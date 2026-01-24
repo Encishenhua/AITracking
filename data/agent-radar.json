@@ -1,6 +1,132 @@
 {
   "items": [
     {
+      "id": "2026-01-23-openai-unrolling-the-codex-agent-loop",
+      "date": "2026-01-23",
+      "name": "Unrolling the Codex agent loop",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "A technical deep dive into the Codex agent loop, explaining how Codex CLI orchestrates models, tools, prompts, and performance using the Responses API.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/unrolling-the-codex-agent-loop"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-23-aws-amazon-route-53-domains-adds-support-for-ai-and-ot",
+      "date": "2026-01-23",
+      "name": "Amazon Route 53 Domains adds support for .ai, and other top-level domains",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Route 53 Domains now supports registration and management of ten new top-level domains (TLDs): .ai, .nz, .shop, .bot, .moi, .spot, .free, .deal, .now, and .hot. This expansion enhances Route 53's capabilities a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/1/amazon-route-53-domains-adds-support-for-.ai-and-other-top-level-domains/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-23-aws-ec2-auto-scaling-introduces-new-mechanisms-for-gro",
+      "date": "2026-01-23",
+      "name": "EC2 Auto Scaling Introduces New Mechanisms for Group Deletion Protection",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>EC2 Auto Scaling is introducing a new policy condition key <a href=\"https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonec2autoscaling.html#amazonec2autoscaling-policy-keys\" target=\"_blank\">a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/ec2-auto-scaling-new-mechanisms-group-deletion-protection"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-23-aws-amazon-evs-now-supports-multiple-vmware-nsx-edge-g",
+      "date": "2026-01-23",
+      "name": "Amazon EVS now supports multiple VMware NSX Edge Gateways",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, we're announcing that Amazon Elastic VMware Service (Amazon EVS) now supports the ability to deploy multiple VMware NSX Tier-0 Gateways within VMware Software-Defined Data Centers (SDDC), enabling enhanced netw",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-evs-multiple-vmware-nsx-edge-gateways"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-23-aws-announcing-general-availability-of-amazon-ec2-m4-m",
+      "date": "2026-01-23",
+      "name": "Announcing general availability of Amazon EC2 M4 Max Mac instances",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Web Services announces general availability of Amazon EC2 M4 Max Mac instances, powered by the latest Mac Studio hardware. Amazon EC2 M4 Max Mac instances are the next-generation EC2 Mac instances, that enable ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-m4-max-mac-instances-ga"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-23-aws-amazon-rds-for-oracle-now-supports-replicas-in-ora",
+      "date": "2026-01-23",
+      "name": "Amazon RDS for Oracle now supports replicas in Oracle multi-tenant configuration",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon RDS for Oracle now supports database replicas for instances set up in Oracle multi-tenant configuration. Oracle multi-tenant configuration allows customers to host multiple, isolated pluggable databases in a si",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-rds-for-oracle-replica-multi-tenant-configuration-support"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-23-aws-amazon-connect-adds-conditional-logic-and-real-tim",
+      "date": "2026-01-23",
+      "name": "Amazon Connect adds conditional logic and real-time updates to Step-by-Step Guides",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect Step-by-Step Guides now enables managers to build more dynamic and responsive guided experiences. Managers can create conditional user interfaces that adapt based on user interactions, making workflows ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-conditional-logic-real-time-updates-step-by-step-guides/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-01-22-aws-amazon-ec2-c8i-instances-are-now-available-in-aws-",
       "date": "2026-01-22",
       "name": "Amazon EC2 C8i instances are now available in AWS Europe (London) region",
@@ -137,6 +263,24 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/graviton4-ebs-optimized-larger-sizes"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-22-aws-aws-security-agent-now-supports-github-enterprise-",
+      "date": "2026-01-22",
+      "name": "AWS Security Agent now supports GitHub Enterprise Cloud",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Security Agent now supports GitHub Enterprise Cloud, enabling customers to connect their GitHub Enterprise Organization and leverage AI-powered security capabilities across their private repositories. With this ex",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-security-agent-ghe-support"
         }
       ],
       "impact": 5,
@@ -934,150 +1078,6 @@
       "impact": 4,
       "risk": 2,
       "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-01-13-openai-zenken-boosts-a-lean-sales-team-with-chatgpt-enter",
-      "date": "2026-01-13",
-      "name": "Zenken boosts a lean sales team with ChatGPT Enterprise",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "By rolling out ChatGPT Enterprise company-wide, Zenken has boosted sales performance, cut preparation time, and increased proposal success rates. AI-supported workflows are helping a lean team deliver more personalized, ",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/zenken"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-13-aws-amazon-neptune-database-now-supports-r7g-and-r8g-i",
-      "date": "2026-01-13",
-      "name": "Amazon Neptune Database now supports R7g and R8g instances in 5 additional regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/neptune/\">Amazon Neptune Database</a> now supports Graviton3-based R7g and Graviton4-based R8g instances for Amazon Neptune engine versions 1.4.5 or above, in Asia Pacific (Hong Kong), ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-neptune-database-r7g-r8g-additional-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-13-aws-amazon-ec2-x8aedz-instances-are-now-available-in-a",
-      "date": "2026-01-13",
-      "name": "Amazon EC2 X8aedz instances are now available in Asia Pacific (Mumbai, Seoul) regions",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) X8aedz instances are available in Asia Pacific (Mumbai) and Asia Pacific (Seoul) regions. These instances are powered by 5th Gen AMD EPYC processors (formerly ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-x8aedz-instances-asia-pacific-mumbai-seoul-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-13-aws-amazon-connect-cases-now-supports-aws-cloudformati",
-      "date": "2026-01-13",
-      "name": "Amazon Connect Cases now supports AWS CloudFormation",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect Cases now supports AWS CloudFormation, enabling you to model, provision, and manage case resources as infrastructure as code. With this launch, administrators can create CloudFormation templates to prog",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-cases-aws-cloudformation/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-13-aws-amazon-msk-connect-is-now-available-in-three-addit",
-      "date": "2026-01-13",
-      "name": "Amazon MSK Connect is now available in three additional AWS Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon MSK Connect is now available in three additional AWS Regions: Asia Pacific (New Zealand), AWS GovCloud (US-East), and AWS GovCloud (US-West).<br /> <br /> MSK Connect enables you to run fully managed Kafka Conn",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-msk-connect-additional-aws-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-13-langchain-langgraph-now-ga-langsmith-agent-builder",
-      "date": "2026-01-13",
-      "name": "Now GA: LangSmith Agent Builder",
-      "vendor": "LangChain/LangGraph",
-      "type": "launch",
-      "summary": "LangSmith Agent Builder is now generally available—enabling anyone to build agents for complex daily tasks, without writing code.",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://www.blog.langchain.com/langsmith-agent-builder-generally-available/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-01-13-aws-amazon-rds-for-postgresql-announces-extended-suppo",
-      "date": "2026-01-13",
-      "name": "Amazon RDS for PostgreSQL announces Extended Support minor  12.22-rds.20251114 and 11.22-rds.20251114",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Relational Database Service (RDS) for PostgreSQL announces Amazon RDS Extended Support minor version &nbsp;12.22-rds.20251114 and 11.22-rds.20251114. We recommend that you upgrade to this version to fix known s",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/1/amazon-rds-for-postgresql-announces-extended-support-minor-12-22-rds-20251114-and-11-22-rds-20251114"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-12-openai-connectors-apps-unselectable-in-chatgpt-input-menu",
-      "date": "2026-01-12",
-      "name": "Connectors/Apps unselectable in ChatGPT Input Menu",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Resolved</b><br /><br />Connectors/Apps are again selectable in the ChatGPT Input Menu.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Connectors (Operational)</li>\n          </ul>",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KESV314P64MK8XSV6Q5DCDJ2"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
       "tags": []
     }
   ]
