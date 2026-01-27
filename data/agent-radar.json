@@ -1,6 +1,114 @@
 {
   "items": [
     {
+      "id": "2026-01-27-crewai-1-9-0",
+      "date": "2026-01-27",
+      "name": "1.9.0",
+      "vendor": "CrewAI",
+      "type": "launch",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add structured outputs and response_format support across providers</li>\n<li>Add response_id in streaming response</li>\n<li>Add event ordering and parent-child hierarchy",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.9.0"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-01-26-openai-chatgpt-availability-degraded-for-free-and-logged-",
+      "date": "2026-01-26",
+      "name": "ChatGPT availability degraded for free and logged out users",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Login (Operational)</li>\n<li>File uploads (Operational)</li>\n<li>Searc",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KFXHMCMQE0EWA7R8RM5F9YW2"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-26-aws-amazon-lightsail-expands-blueprint-selection-with-",
+      "date": "2026-01-26",
+      "name": "Amazon Lightsail expands blueprint selection with updated support for Node.js, LAMP, and Ruby on Rails blueprints",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Lightsail now offers new Node.js, LAMP, and Ruby on Rails blueprints. These new blueprint have Instance Metadata Service Version 2 (IMDSv2) enforced by default, and support IPv6-only instances. With just a few ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.comabout-aws/whats-new/2026/01/amazon-lightsail-nodejs-lamp-and-ruby-on-rails/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-26-aws-amazon-bedrock-now-supports-1-hour-duration-for-pr",
+      "date": "2026-01-26",
+      "name": "Amazon Bedrock now supports 1-hour duration for prompt caching",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Bedrock now supports a 1-hour time-to-live (TTL) option for prompt caching for select Anthropic Claude models. With this update, you can extend the persistence of cached prompt prefixes from the default 5 minut",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-bedrock-one-hour-duration-prompt-caching/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-26-aws-amazon-workspaces-core-announces-monthly-pricing-f",
+      "date": "2026-01-26",
+      "name": "Amazon WorkSpaces Core announces monthly pricing for managed instances",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS is announcing flexible billing for Amazon WorkSpaces Core managed instances, adding monthly flat-rate pricing alongside existing hourly billing. Customers can now choose the optimal pricing model based on their en",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/1/amazon-workspaces-core-managed-instances-flexible-billing/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-26-aws-amazon-managed-grafana-now-available-in-the-aws-go",
+      "date": "2026-01-26",
+      "name": "Amazon Managed Grafana now available in the AWS GovCloud (US) Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Managed Grafana is now available in both AWS GovCloud (US-West) and AWS GovCloud (US-East) Regions, enabling government customers and regulated industries to securely visualize and analyze their operational dat",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-managed-grafana-aws-govcloud-us-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-01-23-openai-unrolling-the-codex-agent-loop",
       "date": "2026-01-23",
       "name": "Unrolling the Codex agent loop",
@@ -970,114 +1078,6 @@
       "impact": 5,
       "risk": 3,
       "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-14-aws-amazon-vpc-ipam-policies-now-support-rds-and-appli",
-      "date": "2026-01-14",
-      "name": "Amazon VPC IPAM policies now support RDS and Application Load Balancers",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Virtual Private Cloud (VPC) IP Address Manager (IPAM) now supports policies for Amazon Relational Database Service (RDS) instances and Application Load Balancers (ALB). This feature enables IP administrators to",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-vpc-ipam-policies-rds-alb/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-14-aws-amazon-bedrock-introduces-api-keys-to-streamline-d",
-      "date": "2026-01-14",
-      "name": "Amazon Bedrock introduces API keys to streamline development in GovCloud regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>API keys for Amazon Bedrock are now available in AWS GovCloud (US) regions, expanding a feature that simplifies authentication and accelerates generative AI development. Originally launched in commercial AWS regions i",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-bedrock-api-keys-streamline-development-govcloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-14-aws-aws-transform-custom-adds-aws-privatelink-support-",
-      "date": "2026-01-14",
-      "name": "AWS Transform custom adds AWS PrivateLink support and expands to Europe (Frankfurt) Region",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Transform custom now supports AWS PrivateLink and is available in a new AWS Region, Europe (Frankfurt), in addition to the US East (N. Virginia) Region. AWS Transform custom helps organizations reduce technical de",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-transform-custom-privatelink-europe-frankfurt-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-14-aws-amazon-connect-makes-it-easier-to-manage-recurring",
-      "date": "2026-01-14",
-      "name": "Amazon Connect makes it easier to manage recurring overrides for hours of operation",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Connect now makes it easier to manage contact center operating hours for recurring events like holidays, maintenance windows, and promotional periods, with a visual calendar that provides at-a-glance visibility",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.comabout-aws/whats-new/2026/01/amazon-connect-recurring-hour-operation-overrides"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-14-aws-enhanced-transactions-view-now-available-in-aws-bi",
-      "date": "2026-01-14",
-      "name": "Enhanced Transactions view now available in AWS Billing Console",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS announces significant improvements to the Transactions view in the AWS Billing and Cost Management Console’s Payments page, delivering faster performance, simplified payment reconciliation, and improved data accur",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/enhanced-transactions-view-aws-billing-console"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-14-langchain-langgraph-choosing-the-right-multi-agent-architecture",
-      "date": "2026-01-14",
-      "name": "Choosing the Right Multi-Agent Architecture",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "In this post, we’ll explore when multi-agent architectures become necessary, the four main patterns we’ve observed, and how LangChain empowers you to effectively build multi-agent systems.",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://www.blog.langchain.com/choosing-the-right-multi-agent-architecture/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
       "tags": []
     }
   ]
