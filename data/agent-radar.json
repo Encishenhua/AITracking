@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "2026-01-28-openai-brief-issue-with-image-generation-results",
+      "date": "2026-01-28",
+      "name": "Brief Issue with Image Generation Results",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Images (Degraded performance)</li>\n<li>Image Generat",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KG13K239MSN2R3S015E2WMY1"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-28-crewai-1-9-1",
+      "date": "2026-01-28",
+      "name": "1.9.1",
+      "vendor": "CrewAI",
+      "type": "upgrade",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Implement before and after tool call hooks in CrewAgentExecutor</li>\n<li>Add structured outputs and response_format support across providers</li>\n</ul>\n<h3>Bug Fixes</h3",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.9.1"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-01-27-crewai-1-9-0",
       "date": "2026-01-27",
       "name": "1.9.0",
@@ -16,6 +52,132 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-01-27-openai-pvh-reimagines-the-future-of-fashion-with-openai",
+      "date": "2026-01-27",
+      "name": "PVH reimagines the future of fashion with OpenAI",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "PVH Corp., parent company of Calvin Klein and Tommy Hilfiger, is adopting ChatGPT Enterprise to bring AI into fashion design, supply chain, and consumer engagement.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/pvh-future-of-fashion"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-27-aws-aws-deadline-cloud-now-supports-editing-job-name-a",
+      "date": "2026-01-27",
+      "name": "AWS Deadline Cloud now supports editing job name and description",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Deadline Cloud now supports editing job names and descriptions after submission. This new feature makes it easier to organize and identify jobs after submission by updating names or adding useful tracking details ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-deadline-cloud-editing-job-name-description/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-27-aws-aws-network-firewall-now-supports-genai-traffic-vi",
+      "date": "2026-01-27",
+      "name": "AWS Network Firewall now supports GenAI traffic visibility and enforcement with Web category-based filtering",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS Network Firewall now provides visibility into generative AI (GenAI) application traffic and supports traffic filtering based on web categories. This new capability simplifies governance by enabling you to identify",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-network-firewall-web-category-based-filtering"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-27-aws-amazon-workspaces-announces-advanced-printer-redir",
+      "date": "2026-01-27",
+      "name": "Amazon WorkSpaces announces advanced printer redirection",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS announces advanced printer redirection for Amazon WorkSpaces Personal, enabling Windows users to access the full feature set of their printers from their virtual desktop environments. With this feature, customers ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-workspaces-advanced-printer-redirection/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-27-aws-aws-marketplace-expands-ami-self-service-listing-e",
+      "date": "2026-01-27",
+      "name": "AWS Marketplace expands AMI self-service listing experience to FPGA products",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Marketplace now offers a self-service listing experience for sellers listing Amazon Machine Image (AMI) products with FPGA (Field Programmable Gate Array) images. This new capability eliminates the previous depend",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-marketplace-expands-ami-self-service-listing-experience-to-fpga-products"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-27-aws-amazon-rds-for-postgresql-mysql-and-mariadb-now-su",
+      "date": "2026-01-27",
+      "name": "Amazon RDS for PostgreSQL, MySQL and MariaDB now support r6id and r6gd database instances in additional AWS Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS memory optimized R6id database instances are now generally available for Amazon RDS for PostgreSQL, MySQL, and MariaDB in the Tel Aviv region. R6gd instances are now supported for Amazon RDS for PostgreSQL, MySQL,",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-product-generally-available-rds-r6id-r6gd-expansion"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-27-aws-amazon-connect-now-supports-granular-access-contro",
+      "date": "2026-01-27",
+      "name": "Amazon Connect now supports granular access controls for cases",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect now enables you to apply tag-based access control to cases, giving administrators more control over who can view and manage case data. With this capability, you can associate tags with case templates an",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-cases-granular-access-controls/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
       "tags": []
     },
     {
@@ -101,6 +263,24 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-managed-grafana-aws-govcloud-us-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-26-aws-aws-iam-identity-center-now-supports-ipv6",
+      "date": "2026-01-26",
+      "name": "AWS IAM Identity Center now supports IPv6",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS IAM Identity Center now supports Internet Protocol version 6 (IPv6) through new dual-stack endpoints. Customers can now connect to AWS IAM Identity Center using IPv6, IPv4, or dual-stack clients. The existing AWS ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/iam-identity-center-ipv6-dualstack-support/"
         }
       ],
       "impact": 5,
@@ -893,186 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/s3-storage-lens-aws-govcloud-us-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-16-aws-amazon-bedrock-reserved-tier-available-now-for-cla",
-      "date": "2026-01-16",
-      "name": "Amazon Bedrock Reserved Tier available now for Claude Opus 4.5 and Haiku 4.5",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, Amazon Bedrock announces the expansion of the Reserved service tier designed for workloads requiring predictable performance and guaranteed tokens-per-minute capacity. The Reserved tier provides the ability to ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-bedrock-reserved-tier-claude-opus-haiku/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-16-aws-amazon-ec2-high-memory-u7i-instances-now-available",
-      "date": "2026-01-16",
-      "name": "Amazon EC2 High Memory U7i instances now available in additional regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon EC2 High Memory U7i instances are available in new regions. U7i-6tb.112xlarge instances are now available in AWS Asia Pacific (Thailand, Sydney, Singapore), Canada (Central), and AWS GovCloud (US-East), u7i-8tb",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec-high-memory-ui-instances-additional-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-15-aws-aws-clean-rooms-now-supports-parameters-in-pyspark",
-      "date": "2026-01-15",
-      "name": "AWS Clean Rooms now supports parameters in PySpark analysis templates",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Clean Rooms announces support for parameters in PySpark analysis templates, offering increased flexibility for organizations and their partners to scale their privacy-enhanced data collaboration use cases. With th",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-clean-rooms-parameters-pyspark-analysis-templates/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-15-aws-announcing-amazon-ec2-memory-optimized-x8i-instanc",
-      "date": "2026-01-15",
-      "name": "Announcing Amazon EC2 Memory optimized X8i instances",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Web Services (AWS) is announcing the general availability of Amazon EC2 X8i instances, next-generation memory optimized instances powered by custom Intel Xeon 6 processors available only on AWS. X8i instances a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-amazon-ec2-x8i-generally-available"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-15-aws-amazon-connect-now-provides-agent-scheduling-metri",
-      "date": "2026-01-15",
-      "name": "Amazon Connect now provides agent scheduling metrics in data lake",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect now provides agent scheduling metrics in data lake, making it easier for you to generate reports and insights from this data. For example, after publishing schedules for next month, you can access inter",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-scheduling-metrics/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-15-aws-aws-lambda-announces-cross-account-access-for-dyna",
-      "date": "2026-01-15",
-      "name": "AWS Lambda announces cross-account access for DynamoDB Streams",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Lambda now supports cross-account access for AWS DynamoDB Streams event-source mappings (ESMs),<br /> enabling you to trigger Lambda functions in one account from DynamoDB Streams in another account.<br /> <br /> ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-lambda-cross-account-access-dynamodb-streams"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-15-aws-aws-data-exports-adds-granular-operation-visibilit",
-      "date": "2026-01-15",
-      "name": "AWS Data Exports  adds granular operation visibility for Amazon Bedrock model usage",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Data Exports now enables customers to distinguish between Amazon Bedrock operation types in their cost reports for enhanced cost analysis and optimization. This granular operation information is available in Cost ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/granular-amazon-bedrock/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-15-crewai-1-8-1",
-      "date": "2026-01-15",
-      "name": "1.8.1",
-      "vendor": "CrewAI",
-      "type": "launch",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add A2A task execution utilities</li>\n<li>Add A2A server configuration and agent card generation</li>\n<li>Add additional A2A transports</li>\n<li>Add Galileo to integrati",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.8.1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-01-15-aws-aws-deadline-cloud-now-supports-machine-learning-t",
-      "date": "2026-01-15",
-      "name": "AWS Deadline Cloud now supports machine learning training using Foundry Nuke CopyCat",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS Deadline Cloud announces integration with Foundry Nuke CopyCat, allowing you to run machine learning training jobs for visual effects in the cloud. AWS Deadline Cloud is a fully managed service that simplif",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-deadline-cloud-machine-learning-training"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-14-aws-amazon-vpc-route-server-now-available-in-new-regio",
-      "date": "2026-01-14",
-      "name": "Amazon VPC Route Server now available in new regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon VPC Route Server is now available in 16 new regions in addition to the 14 existing ones.<br /> <br /> VPC Route Server simplifies dynamic routing between virtual appliances in your Amazon VPC. It allows you to ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.comabout-aws/whats-new/2026/01/amazon-vpc-route-server-available-new-regions"
         }
       ],
       "impact": 5,
