@@ -37,6 +37,114 @@
       "tags": []
     },
     {
+      "id": "2026-01-28-openai-keeping-your-data-safe-when-an-ai-agent-clicks-a-l",
+      "date": "2026-01-28",
+      "name": "Keeping your data safe when an AI agent clicks a link",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "Learn how OpenAI protects user data when AI agents open links, preventing URL-based data exfiltration and prompt injection with built-in safeguards.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/ai-agent-link-safety"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-28-aws-amazon-eks-and-amazon-eks-distro-now-supports-kube",
+      "date": "2026-01-28",
+      "name": "Amazon EKS and Amazon EKS Distro now supports Kubernetes version 1.35",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Kubernetes version 1.35 introduced several new features and bug fixes, and AWS is excited to announce that you can now use <a href=\"https://aws.amazon.com/eks/\">Amazon Elastic Kubernetes Service</a> (EKS) and <a href=",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-eks-distro-kubernetes-version-1-35"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-28-aws-amazon-ec2-r7gd-instances-are-now-available-in-eur",
+      "date": "2026-01-28",
+      "name": "Amazon EC2 R7gd instances are now available in Europe (Paris) Region",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R7gd instances with up to 3.8 TB of local NVMe-based SSD block-level storage are available in Europe (Paris) Region.<br /> <br /> R7gd are powered by AWS Gravi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/r7gd-instances-available-in-paris"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-28-aws-amazon-msk-replicator-is-now-available-in-asia-pac",
+      "date": "2026-01-28",
+      "name": "Amazon MSK Replicator is now available in Asia Pacific (New Zealand)",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>You can now use Amazon MSK Replicator to replicate streaming data across Amazon Managed Streaming for Apache Kafka (<a href=\"https://aws.amazon.com/msk/\">Amazon MSK</a>) clusters in Asia Pacific (New Zealand) Region.<",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-msk-replicator-asia-pacific-new-zealand"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-28-aws-amazon-dynamodb-global-tables-with-multi-region-st",
+      "date": "2026-01-28",
+      "name": "Amazon DynamoDB global tables with multi-Region strong consistency now supports application resiliency testing with AWS Fault Injection Service",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon <a href=\"https://aws.amazon.com/dynamodb/\">DynamoDB</a> global tables with multi-Region strong consistency (MRSC) now supports application resiliency testing with AWS <a href=\"https://aws.amazon.com/fis/\">Fault",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-dynamodb-global-tables-with-mrsc-fis/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-28-langchain-langgraph-context-management-for-deep-agents",
+      "date": "2026-01-28",
+      "name": "Context Management for Deep Agents",
+      "vendor": "LangChain/LangGraph",
+      "type": "upgrade",
+      "summary": "<p><em>By Chester Curme and Mason Daugherty</em></p><p>As the addressable task length of AI agents <a href=\"https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/?ref=blog.langchain.com\">continues ",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://www.blog.langchain.com/context-management-for-deepagents/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-01-27-crewai-1-9-0",
       "date": "2026-01-27",
       "name": "1.9.0",
@@ -173,6 +281,24 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-cases-granular-access-controls/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-27-openai-powering-tax-donations-with-ai-powered-personalize",
+      "date": "2026-01-27",
+      "name": "Powering tax donations with AI powered personalized recommendations",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, delivering personalized, conversational recommendations that simplify Furusato Nozei gift discovery. A multi-agent system helps donors navigate t",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/trustbank"
         }
       ],
       "impact": 5,
@@ -947,132 +1073,6 @@
         {
           "title": "OpenAI source",
           "url": "https://openai.com/index/stargate-community"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-20-aws-amazon-cloudwatch-database-insights-on-demand-anal",
-      "date": "2026-01-20",
-      "name": "Amazon CloudWatch Database Insights on-demand analysis now available in four additional Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon CloudWatch Database Insights expands the availability of its on-demand analysis experience to four additional Regions - Asia Pacific (New Zealand), Asia Pacific (Taipei), Asia Pacific (Thailand), and Mexico (Ce",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-cloudwatch-database-insights-on-demand-analysis-available-additional-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-20-aws-sagemaker-unified-studio-adds-cross-region-subscri",
-      "date": "2026-01-20",
-      "name": "SageMaker Unified Studio adds cross-Region subscriptions support for IDC based domains",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker Unified Studio now supports cross-Region subscriptions for comprehensive and flexible data access and governance. With cross-Region support, you can subscribe to AWS Glue tables and views, as well as ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/sagemaker-unified-studio-adds-cross-region-iam/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-19-langchain-langgraph-how-remote-uses-langchain-and-langgraph-to-onboard",
-      "date": "2026-01-19",
-      "name": "How Remote uses LangChain and LangGraph to onboard thousands of customers with AI",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "<p><em>Guest post written by Jos&#xe9; Mussa (Staff Software Engineer @ Remote)</em></p><p><a href=\"https://remote.com/?ref=blog.langchain.com\"><u>Remote</u></a> is a fast-growing startup helping companies hire, manage, ",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://www.blog.langchain.com/customers-remote/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-01-16-openai-introducing-chatgpt-go-now-available-worldwide",
-      "date": "2026-01-16",
-      "name": "Introducing ChatGPT Go, now available worldwide",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "ChatGPT Go is now available worldwide, offering expanded access to GPT-5.2 Instant, higher usage limits, and longer memory—making advanced AI more affordable globally.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/introducing-chatgpt-go"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-16-aws-aws-outposts-racks-support-multiple-lgw-routing-do",
-      "date": "2026-01-16",
-      "name": "AWS Outposts racks support multiple LGW routing domains",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Outposts racks now support multiple local gateway (LGW) routing domains, enabling you to create up to 10 isolated routing domains per Outpost, each with independent route tables and BGP sessions to your on-premise",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-outposts-multiple-lgw-routing-domain"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-16-aws-second-generation-aws-outposts-racks-are-now-suppo",
-      "date": "2026-01-16",
-      "name": "Second-generation AWS Outposts racks are now supported in additional AWS Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Second-generation AWS Outposts racks are now supported in the South America (Sao Paulo) and Europe (Stockholm) Regions. Outposts racks extend AWS infrastructure, AWS services, APIs, and tools to virtually any on-premi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/second-generation-aws-outposts-racks-additional-aws-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-16-aws-amazon-s3-storage-lens-is-now-available-in-aws-gov",
-      "date": "2026-01-16",
-      "name": "Amazon S3 Storage Lens is now available in AWS GovCloud (US) Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon S3 Storage Lens provides organization-wide visibility into your storage usage and activity. S3 Storage Lens is now available in AWS GovCloud (US) Regions, bringing metrics to help you optimize storage costs, id",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/s3-storage-lens-aws-govcloud-us-regions/"
         }
       ],
       "impact": 5,
