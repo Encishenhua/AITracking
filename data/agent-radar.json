@@ -1,6 +1,114 @@
 {
   "items": [
     {
+      "id": "2026-01-29-openai-inside-openai-s-in-house-data-agent",
+      "date": "2026-01-29",
+      "name": "Inside OpenAI’s in-house data agent",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "How OpenAI built an in-house AI data agent that uses GPT-5, Codex, and memory to reason over massive datasets and deliver reliable insights in minutes.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/inside-our-in-house-data-agent"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-29-aws-amazon-bedrock-now-supports-server-side-custom-too",
+      "date": "2026-01-29",
+      "name": "Amazon Bedrock now supports server-side custom tools using the Responses API",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock now supports server-side tools in the Responses API using OpenAI API-compatible service endpoints. Bedrock already supports client-side tool use with the Converse, Chat Completions, and Responses APIs. ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-bedrock-server-side-custom-tools-responses-api"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-29-aws-amazon-cognito-introduces-inbound-federation-lambd",
+      "date": "2026-01-29",
+      "name": "Amazon Cognito introduces inbound federation Lambda triggers",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Cognito introduces inbound federation Lambda triggers that enable you to transform and customize federated user attributes during the authentication process. You can now modify responses from external SAML and ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-cognito-inbound-federation-lambda-trigger/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-29-aws-change-the-server-side-encryption-type-of-amazon-s",
+      "date": "2026-01-29",
+      "name": "Change the server-side encryption type of Amazon S3 objects",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>You can now change the server-side encryption type of encrypted objects in Amazon S3 without any data movement. You can use the UpdateObjectEncryption API to atomically change the encryption key of your objects regard",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/change-the-server-side-encryption-type-of-s3-objects"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-29-aws-aws-announces-deployment-agent-sops-in-aws-mcp-ser",
+      "date": "2026-01-29",
+      "name": "AWS announces Deployment Agent SOPs in AWS MCP Server (preview)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS announces the launch of deployment Standard Operating Procedures (SOPs) available in the <a href=\"https://docs.aws.amazon.com/aws-mcp/latest/userguide/what-is-mcp-server.html\">AWS MCP Server</a>. SOPs are structur",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/01/aws-announces-deployment-agent-sops-in-aws-mcp-server-preview"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-29-aws-amazon-gamelift-servers-now-supports-automatic-sca",
+      "date": "2026-01-29",
+      "name": "Amazon GameLift Servers now supports automatic scaling to and from zero instances",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon GameLift Servers now enables automatic scaling to and from zero instances, addressing a critical cost optimization challenge for game developers. Previously, developers had to maintain running instances even du",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-gamelift-servers-automatic-scaling"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-01-28-openai-brief-issue-with-image-generation-results",
       "date": "2026-01-28",
       "name": "Brief Issue with Image Generation Results",
@@ -965,114 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-g7e-instances-generally-available"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-20-aws-amazon-quick-sight-expands-dashboard-customization",
-      "date": "2026-01-20",
-      "name": "Amazon Quick Sight expands dashboard customization in tables and pivot tables",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Building on our recent launch of <a href=\"https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-quick-sight-dashboard-tables-pivot-tables/\" target=\"_blank\">customizable tables and pivot tables</a>, <a href=\"https:",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-quicksight-expands-dashboard-customization-tables-pivot-tables"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-20-aws-amazon-rds-blue-green-deployments-reduces-downtime",
-      "date": "2026-01-20",
-      "name": "Amazon RDS Blue/Green Deployments reduces downtime to under five seconds",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS)</a> now supports faster Blue/Green Deployments switchover, reducing your primary database, or writer node, upgrade ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-rds-blue-green-deployments-reduces-downtime"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-20-aws-amazon-aurora-and-rds-for-postgresql-mysql-and-mar",
-      "date": "2026-01-20",
-      "name": "Amazon Aurora and RDS for PostgreSQL, MySQL and MariaDB now support r8g, r7g, and r7i database instances in additional AWS Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Graviton4-based R8g database instances are now generally available for Amazon Aurora (MySQL and PostgreSQL compatibility) and Amazon RDS for PostgreSQL, MySQL, and MariaDB in additional Asia Pacific regions (Hong ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.comabout-aws/whats-new/2026/01/amazon-aurora-rds-r8g-r7g-r7i-instances-additional-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-20-langchain-langgraph-from-traces-to-insights-understanding-agent-behavi",
-      "date": "2026-01-20",
-      "name": "From Traces to Insights: Understanding Agent Behavior at Scale",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "<blockquote>Visibility is the easiest piece. The hard part is analyzing and understanding what you&#x2019;re observing. I&#x2019;ve spoken to teams recording 100k+ traces every single day. What are they doing with those ",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://www.blog.langchain.com/from-traces-to-insights-understanding-agent-behavior-at-scale/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-01-20-openai-horizon-1000-advancing-ai-for-primary-healthcare",
-      "date": "2026-01-20",
-      "name": "Horizon 1000: Advancing AI for primary healthcare",
-      "vendor": "OpenAI",
-      "type": "pricing",
-      "summary": "OpenAI and the Gates Foundation launch Horizon 1000, a $50M pilot advancing AI capabilities for healthcare in Africa. The initiative aims to reach 1,000 clinics by 2028.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/horizon-1000"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-20-openai-stargate-community",
-      "date": "2026-01-20",
-      "name": "Stargate Community",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "Stargate Community plans detail a community-first approach to AI infrastructure, using locally tailored plans shaped by community input, energy needs, and workforce priorities.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/stargate-community"
         }
       ],
       "impact": 5,
