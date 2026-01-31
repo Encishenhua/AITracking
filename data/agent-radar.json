@@ -1,6 +1,150 @@
 {
   "items": [
     {
+      "id": "2026-01-30-openai-some-chatgpt-users-may-be-experiencing-issues-with",
+      "date": "2026-01-30",
+      "name": "Some ChatGPT users may be experiencing issues with their subscription renewals",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Login (Operational)</li>\n          </ul>",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KG80XW6H509B6MVRE05W99SF"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-30-aws-amazon-sagemaker-unified-studio-now-supports-aws-p",
+      "date": "2026-01-30",
+      "name": "Amazon SageMaker Unified Studio now supports AWS PrivateLink",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, Amazon SageMaker announced a new capability allowing you to establish connectivity between your Amazon Virtual Private Cloud (VPC) and Amazon SageMaker Unified Studio without customer data traffic going through",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-sagemaker-unified-studio-aws-privatelink/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-30-aws-amazon-ecs-now-publishes-container-health-status-a",
+      "date": "2026-01-30",
+      "name": "Amazon ECS now publishes container health status as a CloudWatch metric",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p><a href=\"https://aws.amazon.com/ecs/\" target=\"_blank\">Amazon Elastic Container Service</a> (Amazon ECS) now publishes container health status as a new metric in CloudWatch Container Insights with enhanced observabilit",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ecs-container-health-status-metric/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-30-aws-aws-lambda-launches-enhanced-observability-for-kaf",
+      "date": "2026-01-30",
+      "name": "AWS Lambda launches enhanced observability for Kafka event source mappings",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p style=\"text-align: left;\">AWS Lambda launches enhanced observability for Kafka event source mappings (ESM) that provides Amazon CloudWatch Logs and metrics to monitor event polling setup, scaling, and processing state",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-Lambda-observability-for-kafka-esm/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-30-aws-amazon-gamelift-streams-expands-streaming-capabili",
+      "date": "2026-01-30",
+      "name": "Amazon GameLift Streams expands streaming capability to six new regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, Amazon GameLift Streams provides streaming capabilities in six new locations - eu-west-2 (London), eu-north-1 (Stockholm), sa-east-1 (São Paulo), ap-south-1 (Mumbai), ap-northeast-2 (Seoul), and ap-sou",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/glstreams-new-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-30-aws-amazon-rds-for-oracle-now-supports-cross-region-re",
+      "date": "2026-01-30",
+      "name": "Amazon RDS for Oracle now supports cross-Region replicas with additional storage volumes",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/oracle/\">Amazon RDS for Oracle</a> now supports cross-Region replicas with additional storage volumes. With additional storage volumes, customers can add up to three storage volumes",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/rds-for-oracle-cross-region-replicas-additional-storage-volumes"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-30-aws-amazon-ec2-r8a-instances-are-now-available-in-euro",
+      "date": "2026-01-30",
+      "name": "Amazon EC2 R8a instances are now available in Europe (Spain) and Europe (Frankfurt) Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon EC2 R8a instances are now available in Europe (Spain) and Europe (Frankfurt) Regions. These instances, feature 5th Gen AMD EPYC processors (formerly code named Turin) with a maximum frequency of",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-r8a-instances-are-available-europe"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-30-crewai-1-9-3",
+      "date": "2026-01-30",
+      "name": "1.9.3",
+      "vendor": "CrewAI",
+      "type": "upgrade",
+      "summary": "<h2>What's Changed</h2>\n<p>Features</p>\n<ul>\n<li>feat: add a2a liteagent, auth, transport negotiation, and file support</li>\n</ul>\n<p>Bug Fixes:</p>\n<ul>\n<li>fix: improve output handling and response model integration in",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.9.3"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-01-29-openai-inside-openai-s-in-house-data-agent",
       "date": "2026-01-29",
       "name": "Inside OpenAI’s in-house data agent",
@@ -929,150 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/availability-second-generation-aws-outposts-racks-more-countries"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-21-aws-aws-transfer-family-terraform-module-now-supports-",
-      "date": "2026-01-21",
-      "name": "AWS Transfer Family Terraform module now supports web apps",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>You can now use the&nbsp;<a href=\"https://github.com/aws-ia/terraform-aws-transfer-family\" target=\"_blank\">AWS Transfer Family Terraform module</a>&nbsp;to deploy Transfer Family web apps, which enable end users to tr",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-transfer-family-terraform-webapps"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-21-langchain-langgraph-deploy-agents-instantly-with-agent-builder-templat",
-      "date": "2026-01-21",
-      "name": "Deploy agents instantly with Agent Builder templates",
-      "vendor": "LangChain/LangGraph",
-      "type": "launch",
-      "summary": "Introducing the Agent Builder Template Library: a collection of ready-to-deploy agents for common tasks, equipped with the tools you already use.",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://www.blog.langchain.com/introducing-agent-builder-template-library/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-01-21-langchain-langgraph-building-multi-agent-applications-with-deep-agents",
-      "date": "2026-01-21",
-      "name": "Building Multi-Agent Applications with Deep Agents",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "Breaking down complex tasks across specialized agents is one of the most effective approaches to building capable AI systems. In this post, we'll show you how to build multi-agent systems with Deep Agents.",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://www.blog.langchain.com/building-multi-agent-applications-with-deep-agents/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-01-20-openai-cisco-and-openai-redefine-enterprise-engineering-w",
-      "date": "2026-01-20",
-      "name": "Cisco and OpenAI redefine enterprise engineering with AI agents",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "Cisco and OpenAI redefine enterprise engineering with Codex, an AI software agent embedded in workflows to speed builds, automate defect fixes, and enable AI-native development.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/cisco"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-20-aws-sagemaker-unified-studio-adds-support-for-cross-re",
-      "date": "2026-01-20",
-      "name": "SageMaker Unified Studio adds support for cross-Region and IAM role-based subscriptions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker Unified Studio now supports cross-Region subscriptions and IAM role-based subscriptions for simple and flexible data access and governance. With cross-Region support, you can subscribe to AWS Glue tab",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/sagemaker-unified-studio-adds-cross-region-iam/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-20-aws-aws-expands-managed-integrations-for-aws-iot-devic",
-      "date": "2026-01-20",
-      "name": "AWS expands managed integrations for AWS IoT Device Management service coverage to the Middle East (UAE) region",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS IoT Device Management now offers the managed integrations feature in the Middle East (UAE) region. Organizations operating in this region can now better serve their local customers, helping them build unified Inte",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/managed-integrations-iot-device-coverage-uae/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-20-aws-amazon-rds-for-oracle-extends-support-for-bare-met",
-      "date": "2026-01-20",
-      "name": "Amazon RDS for Oracle extends support for bare metal instances to Standard Edition 2",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon RDS for Oracle now supports bare metal instances with Bring Your Own License (BYOL) license for Oracle Standard Edition 2. You can use M7i, R7i, X2iedn, X2idn, X2iezn, M6i, M6id, M6in, R6i, R6id, and R6in bare ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-rds-oracle-support-bare-metal-instances-standard-edition-2"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-20-aws-amazon-ec2-g7e-instances-are-now-generally-availab",
-      "date": "2026-01-20",
-      "name": "Amazon EC2 G7e instances are now generally available",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, Amazon announces the general availability of Amazon Elastic Compute Cloud (Amazon EC2) G7e instances, accelerated by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs.&nbsp;G7e instances offer up to 2.3x infere",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-g7e-instances-generally-available"
         }
       ],
       "impact": 5,
