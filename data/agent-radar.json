@@ -1,6 +1,150 @@
 {
   "items": [
     {
+      "id": "2026-02-02-openai-snowflake-and-openai-partner-to-bring-frontier-int",
+      "date": "2026-02-02",
+      "name": "Snowflake and OpenAI partner to bring frontier intelligence to enterprise data",
+      "vendor": "OpenAI",
+      "type": "pricing",
+      "summary": "OpenAI and Snowflake partner in a $200M agreement to bring frontier intelligence into enterprise data, enabling AI agents and insights directly in Snowflake.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/snowflake-partnership"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-02-openai-introducing-the-codex-app",
+      "date": "2026-02-02",
+      "name": "Introducing the Codex app",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "Introducing the Codex app for macOS—a command center for AI coding and software development with multiple agents, parallel workflows, and long-running tasks.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/introducing-the-codex-app"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-02-aws-deepseek-ocr-minimax-m2-1-and-qwen3-vl-8b-instruct",
+      "date": "2026-02-02",
+      "name": "DeepSeek OCR, MiniMax M2.1, and Qwen3-VL-8B-Instruct models are now available on SageMaker JumpStart",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announced the availability of DeepSeek OCR, MiniMax M2.1, and Qwen3-VL-8B-Instruct in Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. These three models ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/new-models-on-sagemaker-jumpstart"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-02-aws-announcing-memory-optimized-instance-bundles-for-a",
+      "date": "2026-02-02",
+      "name": "Announcing memory-optimized instance bundles for Amazon Lightsail",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Lightsail now offers memory-optimized instance bundles with up to 512 GB memory. The new instance bundles are available in 7 sizes, with Linux and Windows operating system (OS) and application blueprints, for b",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-lightsail-memory-optimized-instances/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-02-aws-aws-sts-now-supports-validation-of-select-identity",
+      "date": "2026-02-02",
+      "name": "AWS STS now supports validation of select identity provider specific claims from Google, GitHub, CircleCI and OCI",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS Security Token Service (STS) now supports validation of select identity provider specific claims from Google, GitHub, CircleCI and Oracle Cloud Infrastructure in IAM role trust policies and resource control polici",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-sts-supports-validation-identity-provider-claims"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-02-aws-amazon-cloudfront-announces-mutual-tls-support-for",
+      "date": "2026-02-02",
+      "name": "Amazon CloudFront announces mutual TLS support for origins",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon CloudFront announces support for mutual TLS authentication (mTLS) for origins, a security protocol that enables customers to verify that requests to their origin servers come only from their authorized CloudFro",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-cloudfront-mutual-tls-for-origins/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-02-aws-aws-announces-flexible-cost-allocation-in-aws-govc",
+      "date": "2026-02-02",
+      "name": "AWS announces Flexible Cost Allocation in AWS GovCloud (US)",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/network-firewall/\">AWS Network Firewall </a>now supports flexible cost allocation through <a href=\"https://aws.amazon.com/transit-gateway/\">AWS Transit Gateway</a> native attachments in",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-flexible-cost-allocation-govcloud/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-02-aws-amazon-connect-now-provides-apis-to-test-and-simul",
+      "date": "2026-02-02",
+      "name": "Amazon Connect now provides APIs to test and simulate voice interactions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect now offers APIs to configure and run tests that simulate contact center experiences, making it easy to validate workflows, self-service voice interactions, and their outcomes. With these APIs, you can p",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-provides-apis-test-simulate-voice-interactions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-01-30-openai-some-chatgpt-users-may-be-experiencing-issues-with",
       "date": "2026-01-30",
       "name": "Some ChatGPT users may be experiencing issues with their subscription renewals",
@@ -142,6 +286,24 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-01-30-aws-amazon-connect-launches-improved-wait-time-estimat",
+      "date": "2026-01-30",
+      "name": "Amazon Connect launches improved wait time estimates",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect now delivers improved estimated wait time metrics for queues and enqueued contacts, empowering organizations. This allows contact centers to set accurate customer expectations, provide convenient option",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-launches-improved-wait-time/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
       "tags": []
     },
     {
@@ -911,168 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/microsoft-office-visio-project-2024-amazon-workspaces/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-22-aws-now-available-48xlarge-and-metal-48xl-sizes-for-eb",
-      "date": "2026-01-22",
-      "name": "Now available: 48xlarge and metal-48xl sizes for EBS optimized Amazon EC2 instances",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the general availability of the Amazon Elastic Block Storage (Amazon EBS) optimized Amazon Elastic Compute Cloud (Amazon EC2) C8gb, M8gb, and R8gb instances in 48xlarge sizes. We are also offering",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/graviton4-ebs-optimized-larger-sizes"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-22-aws-aws-security-agent-now-supports-github-enterprise-",
-      "date": "2026-01-22",
-      "name": "AWS Security Agent now supports GitHub Enterprise Cloud",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Security Agent now supports GitHub Enterprise Cloud, enabling customers to connect their GitHub Enterprise Organization and leverage AI-powered security capabilities across their private repositories. With this ex",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-security-agent-ghe-support"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-21-openai-how-countries-can-end-the-capability-overhang",
-      "date": "2026-01-21",
-      "name": "How countries can end the capability overhang",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "Our latest report reveals stark differences in advanced AI adoption across countries and outlines new initiatives to help nations capture productivity gains from AI.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/how-countries-can-end-the-capability-overhang"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-21-aws-amazon-sagemaker-hyperpod-introduces-enhanced-life",
-      "date": "2026-01-21",
-      "name": "Amazon SageMaker HyperPod introduces enhanced lifecycle scripts debugging",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker HyperPod now provides enhanced troubleshooting capabilities for lifecycle scripts, making it easier to identify and resolve issues during cluster node provisioning. SageMaker HyperPod helps you provis",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-sagemaker-hyperpod-lcs-enhanced-debug/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-21-aws-amazon-connect-can-now-automatically-select-random",
-      "date": "2026-01-21",
-      "name": "Amazon Connect can now automatically select random samples of agent contacts for evaluation",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Connect can now provide managers with random samples of agent contacts for evaluation, so they can provide fair coaching feedback to agents. Managers can specify how many contacts they need to review per agent,",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-automatically-select-random-contacts-evaluation/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-21-aws-amazon-bedrock-reserved-tier-available-now-for-cla",
-      "date": "2026-01-21",
-      "name": "Amazon Bedrock Reserved Tier available now for Claude Sonnet 4.5 in AWS GovCloud (US-West)",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, Amazon Bedrock introduces the expansion of the Reserved service tier designed for workloads requiring predictable performance and guaranteed tokens-per-minute capacity. The Reserved tier provides the ability to",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-bedrock-reserved-tier-for-claude-sonnet-in-govcloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-21-aws-amazon-ec2-c8gn-instances-are-now-available-in-add",
-      "date": "2026-01-21",
-      "name": "Amazon EC2 C8gn instances are now available in additional regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8gn instances, powered by the latest-generation AWS Graviton4 processors, are available in the AWS Region&nbsp;Asia Pacific (Mumbai), Africa (Cape Town), Euro",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-c8gn-instances-additional-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-21-aws-aws-introduces-additional-policy-details-to-access",
-      "date": "2026-01-21",
-      "name": "AWS introduces additional policy details to access denied error messages",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS now includes the&nbsp;<a href=\"https://aws.amazon.com/iam/\">AWS Identity and Access Management (IAM)</a>&nbsp;and <a href=\"https://docs.aws.amazon.com/organizations/\">AWS Organizations</a>&nbsp;policy’s Amazon Res",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/additional-policy-details-access-denied-error/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-21-aws-announcing-availability-of-second-generation-aws-o",
-      "date": "2026-01-21",
-      "name": "Announcing availability of second-generation AWS Outposts racks in 20 more countries",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Second-generation AWS Outposts racks can now be shipped and installed at your data center and on-premises locations in Argentina, Bangladesh, Colombia, Dominican Republic, Ecuador, India, Kazakhstan, Mexico, Morocco, ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/availability-second-generation-aws-outposts-racks-more-countries"
         }
       ],
       "impact": 5,
