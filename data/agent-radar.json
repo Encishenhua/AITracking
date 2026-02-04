@@ -1,6 +1,186 @@
 {
   "items": [
     {
+      "id": "2026-02-04-openai-some-users-may-experience-issues-loading-or-starti",
+      "date": "2026-02-04",
+      "name": "Some users may experience issues loading or starting conversations",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Conversations (Degraded performance)</li>\n          ",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KGK3YJB8CPX0TJY924H02TZW"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-03-openai-elevated-error-rates-for-chatgpt-and-platform-user",
+      "date": "2026-02-03",
+      "name": "Elevated error rates for ChatGPT and Platform users",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>ChatGPT Atlas (Operational)</li>\n<li>File uploads (Operational)</li>\n<",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KGJK9Q6PDB3C3VX6MPCY6106"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-03-aws-amazon-dynamodb-global-tables-now-support-replicat",
+      "date": "2026-02-03",
+      "name": "Amazon DynamoDB global tables now support replication across multiple AWS accounts",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon DynamoDB global tables now support replication across multiple AWS accounts. DynamoDB global tables is a fully managed, serverless, multi-Region, and multi-active database used by tens of thousands of customers",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/dynamodb-gt-multi-account/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-03-aws-aws-marketplace-introduces-localized-billing-for-p",
+      "date": "2026-02-03",
+      "name": "AWS Marketplace introduces localized billing for Professional Services from AWS EMEA",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Marketplace now offers a more localized experience for Europe, Middle East, and Africa (EMEA) customers purchasing Professional Service solutions via AWS EMEA Marketplace Operator.<br /> <br /> Customers can now p",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-marketplace-localized-billing-professional/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-03-aws-aws-lake-formation-is-now-available-in-asia-pacifi",
+      "date": "2026-02-03",
+      "name": "AWS Lake Formation is now available in Asia Pacific (New Zealand) Region",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Lake Formation is now available in the Asia Pacific (New Zealand) Region, enabling you to centrally manage and scale fine-grained data access permissions and share data securely within and outside your organizatio",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/AWS-Lake-Formation-Asia-Pacific-New-Zealand-Region"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-03-aws-amazon-connect-launches-an-appeals-workflow-for-ag",
+      "date": "2026-02-03",
+      "name": "Amazon Connect launches an appeals workflow for agent performance evaluations",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect now provides an integrated workflow to capture and resolve agent appeals of performance evaluations, enhancing evaluation fairness and agent engagement. When agents disagree with an evaluation, they can",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-appeals-workflow-agent-performance-evaluations/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-03-aws-aws-management-console-now-displays-account-name-o",
+      "date": "2026-02-03",
+      "name": "AWS Management Console now displays Account Name on the Navigation bar for easier account identification",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the general availability of displaying account name in AWS Management Console across all Public Regions. AWS customers now have an easy way to identify their accounts at a glance. Users can now qu",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/console-displays-account-name-on-nav-bar"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-03-aws-aws-iam-identity-center-enables-account-access-and",
+      "date": "2026-02-03",
+      "name": "AWS IAM Identity Center enables account access and application use in multiple AWS Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>IAM Identity Center helps you configure the single sign-on experience of your workforce to AWS accounts and applications. You can now replicate IAM Identity Center from the primary AWS Region where you first enabled i",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-iam-identity-center-multi-region-aws-account-access-and-application-deployment"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-03-aws-amazon-quick-suite-enables-easy-resolution-of-ambi",
+      "date": "2026-02-03",
+      "name": "Amazon Quick Suite Enables Easy Resolution of Ambiguous Map Locations",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/quick/quicksight/\" target=\"_blank\">Quick Sight in Amazon Quick Suite</a> now enables authors to resolve or update ambiguous locations directly on map visuals for accurate geographical d",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/quick-ambiguous-locations-resolution"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-03-flowise-flowise-3-0-13",
+      "date": "2026-02-03",
+      "name": "flowise@3.0.13",
+      "vendor": "Flowise",
+      "type": "deprecation",
+      "summary": "<h2>What's Changed</h2>\n<h2>Nodes</h2>\n<ul>\n<li>Added global region for chatGoogleVertexAI by <a class=\"user-mention notranslate\" href=\"https://github.com/chiragjagga\">@chiragjagga</a> in <a class=\"issue-link js-issue-li",
+      "sources": [
+        {
+          "title": "Flowise source",
+          "url": "https://github.com/FlowiseAI/Flowise/releases/tag/flowise%403.0.13"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-02-02-openai-snowflake-and-openai-partner-to-bring-frontier-int",
       "date": "2026-02-02",
       "name": "Snowflake and OpenAI partner to bring frontier intelligence to enterprise data",
@@ -137,6 +317,42 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-provides-apis-test-simulate-voice-interactions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-02-aws-build-production-ready-drug-discovery-and-robotics",
+      "date": "2026-02-02",
+      "name": "Build Production-Ready Drug Discovery and Robotics Pipelines with NVIDIA NIMs on SageMaker JumpStart",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker JumpStart now enables one-click deployment of four NVIDIA NIMs models purpose-built for biosciences and physical AI: ProteinMPNN, Nemotron-3.5B-Instruct, MSA Search NIM, and Cosmos Reason. NVIDIA NIM™",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/accelerate-biosciences-and-robotics-with-NVIDIA-NIMs-on-sagemaker-jumpstart"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-02-aws-aws-multi-party-approval-now-requires-one-time-pas",
+      "date": "2026-02-02",
+      "name": "AWS Multi-party approval now requires one-time password verification for voting",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS Multi-Party Approval now requires approvers to verify their voting actions with a one-time password (OTP) sent to their registered AWS Identity Center email address. This additional security layer prevents AWS IAM",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-multi-party-approval-requires-one-time-password-verification-for-voting"
         }
       ],
       "impact": 5,
@@ -299,6 +515,24 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-launches-improved-wait-time/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-01-30-aws-amazon-cloudwatch-application-signals-now-supports",
+      "date": "2026-01-30",
+      "name": "Amazon CloudWatch Application Signals now supports integration with Kiro powers",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces <b><b>Amazon CloudWatch Application Signals integration with Kiro powers</b></b>, enabling developers and operators to investigate application health issues faster with AI agent-assisted workflows",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/cloudwatch-application-signals-kiro-powers"
         }
       ],
       "impact": 5,
@@ -839,240 +1073,6 @@
         {
           "title": "OpenAI source",
           "url": "https://openai.com/index/unrolling-the-codex-agent-loop"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-23-aws-amazon-route-53-domains-adds-support-for-ai-and-ot",
-      "date": "2026-01-23",
-      "name": "Amazon Route 53 Domains adds support for .ai, and other top-level domains",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Route 53 Domains now supports registration and management of ten new top-level domains (TLDs): .ai, .nz, .shop, .bot, .moi, .spot, .free, .deal, .now, and .hot. This expansion enhances Route 53's capabilities a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/1/amazon-route-53-domains-adds-support-for-.ai-and-other-top-level-domains/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-23-aws-ec2-auto-scaling-introduces-new-mechanisms-for-gro",
-      "date": "2026-01-23",
-      "name": "EC2 Auto Scaling Introduces New Mechanisms for Group Deletion Protection",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>EC2 Auto Scaling is introducing a new policy condition key <a href=\"https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonec2autoscaling.html#amazonec2autoscaling-policy-keys\" target=\"_blank\">a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/ec2-auto-scaling-new-mechanisms-group-deletion-protection"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-23-aws-amazon-evs-now-supports-multiple-vmware-nsx-edge-g",
-      "date": "2026-01-23",
-      "name": "Amazon EVS now supports multiple VMware NSX Edge Gateways",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, we're announcing that Amazon Elastic VMware Service (Amazon EVS) now supports the ability to deploy multiple VMware NSX Tier-0 Gateways within VMware Software-Defined Data Centers (SDDC), enabling enhanced netw",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-evs-multiple-vmware-nsx-edge-gateways"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-23-aws-announcing-general-availability-of-amazon-ec2-m4-m",
-      "date": "2026-01-23",
-      "name": "Announcing general availability of Amazon EC2 M4 Max Mac instances",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Web Services announces general availability of Amazon EC2 M4 Max Mac instances, powered by the latest Mac Studio hardware. Amazon EC2 M4 Max Mac instances are the next-generation EC2 Mac instances, that enable ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-m4-max-mac-instances-ga"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-23-aws-amazon-rds-for-oracle-now-supports-replicas-in-ora",
-      "date": "2026-01-23",
-      "name": "Amazon RDS for Oracle now supports replicas in Oracle multi-tenant configuration",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon RDS for Oracle now supports database replicas for instances set up in Oracle multi-tenant configuration. Oracle multi-tenant configuration allows customers to host multiple, isolated pluggable databases in a si",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-rds-for-oracle-replica-multi-tenant-configuration-support"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-23-aws-amazon-connect-adds-conditional-logic-and-real-tim",
-      "date": "2026-01-23",
-      "name": "Amazon Connect adds conditional logic and real-time updates to Step-by-Step Guides",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect Step-by-Step Guides now enables managers to build more dynamic and responsive guided experiences. Managers can create conditional user interfaces that adapt based on user interactions, making workflows ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-conditional-logic-real-time-updates-step-by-step-guides/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-22-aws-amazon-ec2-c8i-instances-are-now-available-in-aws-",
-      "date": "2026-01-22",
-      "name": "Amazon EC2 C8i instances are now available in AWS Europe (London) region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8i instances are available in the Europe (London) region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-c8i-instances-europe-london-region"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-22-aws-amazon-ec2-c8i-and-c8i-flex-instances-are-now-avai",
-      "date": "2026-01-22",
-      "name": "Amazon EC2 C8i and C8i-flex instances are now available in Asia Pacific (Sydney) and Europe (Frankfurt) regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8i and C8i-flex instances are available in the Asia Pacific (Sydney), and Europe (Frankfurt) regions. These instances are powered by custom Intel Xeon 6 proce",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-c8i-c8i-flex-instances-asia-pacific-sydney-europe-london-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-22-aws-aws-config-launches-13-new-managed-rules",
-      "date": "2026-01-22",
-      "name": "AWS Config launches 13 new managed rules",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Config announces launch of an additional 13 managed Config rules for various use cases such as security, durability, and operations. You can now search, discover, enable and manage these additional rules directly ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-config-launches-new-rules/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-22-aws-amazon-neptune-analytics-is-now-available-in-7-add",
-      "date": "2026-01-22",
-      "name": "Amazon Neptune Analytics is now available in 7 additional regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://docs.aws.amazon.com/neptune-analytics/latest/userguide/what-is-neptune-analytics.html\" target=\"_blank\">Amazon Neptune Analytics</a> is now available in US West (N. California), Asia Pacific (Seoul), A",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-neptune-analytics-generally-available-additional-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-22-aws-amazon-bedrock-agentcore-browser-now-supports-cust",
-      "date": "2026-01-22",
-      "name": "Amazon Bedrock AgentCore Browser now supports custom browser extensions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock AgentCore Browser now supports custom Chrome browser extensions, enabling automation for complex workflows that standard browser automation cannot handle alone. This enhancement builds upon AgentCore’s ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-bedrock-agentcore-browser-custom-extensions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-22-aws-aws-expands-resource-control-policies-support-for-",
-      "date": "2026-01-22",
-      "name": "AWS expands Resource Control Policies support for Cognito and CloudWatch Logs",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Resource Control Policies (RCPs) now provide support for <a href=\"https://aws.amazon.com/pm/cognito/?trk=de90528c-2450-48d7-9981-bc556d44c9ab&amp;sc_channel=ps&amp;trk=de90528c-2450-48d7-9981-bc556d44c9ab&amp;sc_c",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-expands-resource-control-policies"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-22-aws-microsoft-office-visio-and-project-2024-apps-now-o",
-      "date": "2026-01-22",
-      "name": "Microsoft Office, Visio and Project 2024 Apps now on Amazon WorkSpaces",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today,&nbsp;Amazon WorkSpaces Personal&nbsp;and Core announce the availability of new Microsoft productivity applications for WorkSpaces instances, including Microsoft Office LTSC Professional Plus 2024, Microsoft Off",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/microsoft-office-visio-project-2024-amazon-workspaces/"
         }
       ],
       "impact": 5,
