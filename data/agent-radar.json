@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "2026-02-05-openai-navigating-health-questions-with-chatgpt",
+      "date": "2026-02-05",
+      "name": "Navigating health questions with ChatGPT",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "A family shares how ChatGPT helped them prepare for critical cancer treatment decisions for their son alongside expert guidance from his doctors.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/navigating-health-questions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-05-openai-increased-chatgpt-errors-for-some-users",
+      "date": "2026-02-05",
+      "name": "Increased ChatGPT errors for some users",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Compliance API (Operational)</li>\n<li>Codex (Operational)</li>\n<li>Con",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KGNJACX0T5CYY1YWS8RNW6S6"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-02-04-openai-some-users-may-experience-issues-loading-or-starti",
       "date": "2026-02-04",
       "name": "Some users may experience issues loading or starting conversations",
@@ -11,6 +47,222 @@
         {
           "title": "OpenAI source",
           "url": "https://status.openai.com//incidents/01KGK3YJB8CPX0TJY924H02TZW"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-04-openai-unlocking-the-codex-harness-how-we-built-the-app-s",
+      "date": "2026-02-04",
+      "name": "Unlocking the Codex harness: how we built the App Server",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "Learn how to embed the Codex agent using the Codex App Server, a bidirectional JSON-RPC API powering streaming progress, tool use, approvals, and diffs.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/unlocking-the-codex-harness"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-04-openai-vfl-wolfsburg-turns-chatgpt-into-a-club-wide-capab",
+      "date": "2026-02-04",
+      "name": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "By focusing on people, not pilots, the Bundesliga club is scaling efficiency, creativity, and knowledge—without losing its football identity.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/vfl-wolfsburg"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-04-openai-chatgpt-availability-impacted",
+      "date": "2026-02-04",
+      "name": "ChatGPT Availability Impacted",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Connectors/Apps (Operational)</li>\n<li>ChatGPT Atlas (Operational)</li",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KGMVV926ZSCD1MSDBS07AWYA"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-04-aws-structured-outputs-now-available-in-amazon-bedrock",
+      "date": "2026-02-04",
+      "name": "Structured outputs now available in Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Bedrock now supports structured outputs, a capability that provides consistent, machine-readable responses from foundation models that adhere to your defined JSON schemas. Instead of prompting for valid JSON an",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/structured-outputs-available-amazon-bedrock/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-04-aws-amazon-ec2-g7e-instances-now-available-in-us-west-",
+      "date": "2026-02-04",
+      "name": "Amazon EC2 G7e instances now available in US West (Oregon) region",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Starting today, Amazon EC2 G7e instances accelerated by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs are now available in US West (Oregon) region. G7e instances offer up to 2.3x inference performance compared to ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-g7e-instances-oregon-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-04-aws-cartesia-sonic-3-text-to-speech-model-is-now-avail",
+      "date": "2026-02-04",
+      "name": "Cartesia Sonic 3 text-to-speech model is now available on Amazon SageMaker JumpStart",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Cartesia’s Sonic 3 model is now available in Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. Sonic 3 is Cartesia's latest state space model (SSM) for streaming text",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/cartesia-sonic-3-on-sagemaker-jumpstart"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-04-aws-amazon-ecs-adds-network-load-balancer-support-for-",
+      "date": "2026-02-04",
+      "name": "Amazon ECS adds Network Load Balancer support for Linear and Canary deployments",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/ecs/\" target=\"_blank\">Amazon Elastic Container Service</a> (Amazon ECS) announces native support for linear and canary deployment strategies for ECS services using Network Load Balancer",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ecs-nlb-linear-canary-deployments"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-04-aws-apache-spark-lineage-now-available-in-amazon-sagem",
+      "date": "2026-02-04",
+      "name": "Apache Spark lineage now available in Amazon SageMaker Unified Studio for IDC based domains",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker announces general availability of Data Lineage for Apache Spark jobs executed on Amazon EMR and AWS Glue in SageMaker Unified Studio for IDC based domains. Data Lineage provides you with the informati",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/apache-spark-lineage-amazon-sageMaker-unified-studio"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-04-aws-introducing-amazon-ec2-c8id-m8id-and-r8id-instance",
+      "date": "2026-02-04",
+      "name": "Introducing Amazon EC2 C8id, M8id, and R8id instances",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS is announcing the general availability of new Amazon EC2 C8id, M8id, and R8id instances powered by custom Intel Xeon 6 processors. These instances deliver up to 43% higher performance and 3.3x more memory bandwidt",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-04-aws-amazon-ec2-and-vpc-now-display-related-resources-f",
+      "date": "2026-02-04",
+      "name": "Amazon EC2 and VPC now display related resources for security groups",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Web Services (AWS) is announcing the general availability of the \"Related resources\" tab for security groups in the Amazon EC2 and VPC consoles. This new feature provides customers with a consolidated view of a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-console-related-resources-generally-available"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-04-aws-amazon-eks-simplifies-providing-iam-permissions-to",
+      "date": "2026-02-04",
+      "name": "Amazon EKS simplifies providing IAM permissions to EKS add-ons in AWS GovCloud (US) Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Elastic Kubernetes Service (EKS) now offers a direct integration between EKS add-ons and EKS Pod Identity in AWS GovCloud (US) Regions, streamlining the lifecycle management process for critical cluster operati",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-eks-simplifies-iam-permissions-eks-addons"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-04-aws-amazon-redshift-now-supports-autonomics-for-multi-",
+      "date": "2026-02-04",
+      "name": "Amazon Redshift now supports autonomics for multi-cluster environments",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Redshift now supports autonomics—automatic optimization features—for multi-cluster environments. Database administrators managing distributed Amazon Redshift workloads can now benefit from autonomics that work ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-redshift-autonomics-for-multi-cluster"
         }
       ],
       "impact": 5,
@@ -353,6 +605,24 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-multi-party-approval-requires-one-time-password-verification-for-voting"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-02-aws-amazon-rds-for-mysql-now-supports-new-minor-versio",
+      "date": "2026-02-02",
+      "name": "Amazon RDS for MySQL now supports new minor versions 8.0.45 and 8.4.8",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/mysql/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for MySQL</a> now supports MySQL minor versions 8.0.45 and 8.4.8, the latest minors released by the MySQL com",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-rds-mysql-minor-versions/"
         }
       ],
       "impact": 5,
@@ -808,276 +1078,6 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-01-27-openai-pvh-reimagines-the-future-of-fashion-with-openai",
-      "date": "2026-01-27",
-      "name": "PVH reimagines the future of fashion with OpenAI",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "PVH Corp., parent company of Calvin Klein and Tommy Hilfiger, is adopting ChatGPT Enterprise to bring AI into fashion design, supply chain, and consumer engagement.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/pvh-future-of-fashion"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-27-aws-aws-deadline-cloud-now-supports-editing-job-name-a",
-      "date": "2026-01-27",
-      "name": "AWS Deadline Cloud now supports editing job name and description",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Deadline Cloud now supports editing job names and descriptions after submission. This new feature makes it easier to organize and identify jobs after submission by updating names or adding useful tracking details ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-deadline-cloud-editing-job-name-description/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-27-aws-aws-network-firewall-now-supports-genai-traffic-vi",
-      "date": "2026-01-27",
-      "name": "AWS Network Firewall now supports GenAI traffic visibility and enforcement with Web category-based filtering",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS Network Firewall now provides visibility into generative AI (GenAI) application traffic and supports traffic filtering based on web categories. This new capability simplifies governance by enabling you to identify",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-network-firewall-web-category-based-filtering"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-27-aws-amazon-workspaces-announces-advanced-printer-redir",
-      "date": "2026-01-27",
-      "name": "Amazon WorkSpaces announces advanced printer redirection",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS announces advanced printer redirection for Amazon WorkSpaces Personal, enabling Windows users to access the full feature set of their printers from their virtual desktop environments. With this feature, customers ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-workspaces-advanced-printer-redirection/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-27-aws-aws-marketplace-expands-ami-self-service-listing-e",
-      "date": "2026-01-27",
-      "name": "AWS Marketplace expands AMI self-service listing experience to FPGA products",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Marketplace now offers a self-service listing experience for sellers listing Amazon Machine Image (AMI) products with FPGA (Field Programmable Gate Array) images. This new capability eliminates the previous depend",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-marketplace-expands-ami-self-service-listing-experience-to-fpga-products"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-27-aws-amazon-rds-for-postgresql-mysql-and-mariadb-now-su",
-      "date": "2026-01-27",
-      "name": "Amazon RDS for PostgreSQL, MySQL and MariaDB now support r6id and r6gd database instances in additional AWS Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS memory optimized R6id database instances are now generally available for Amazon RDS for PostgreSQL, MySQL, and MariaDB in the Tel Aviv region. R6gd instances are now supported for Amazon RDS for PostgreSQL, MySQL,",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-product-generally-available-rds-r6id-r6gd-expansion"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-27-aws-amazon-connect-now-supports-granular-access-contro",
-      "date": "2026-01-27",
-      "name": "Amazon Connect now supports granular access controls for cases",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect now enables you to apply tag-based access control to cases, giving administrators more control over who can view and manage case data. With this capability, you can associate tags with case templates an",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-cases-granular-access-controls/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-27-openai-powering-tax-donations-with-ai-powered-personalize",
-      "date": "2026-01-27",
-      "name": "Powering tax donations with AI powered personalized recommendations",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "TRUSTBANK partnered with Recursive to build Choice AI using OpenAI models, delivering personalized, conversational recommendations that simplify Furusato Nozei gift discovery. A multi-agent system helps donors navigate t",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/trustbank"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-26-openai-chatgpt-availability-degraded-for-free-and-logged-",
-      "date": "2026-01-26",
-      "name": "ChatGPT availability degraded for free and logged out users",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Login (Operational)</li>\n<li>File uploads (Operational)</li>\n<li>Searc",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KFXHMCMQE0EWA7R8RM5F9YW2"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-26-aws-amazon-lightsail-expands-blueprint-selection-with-",
-      "date": "2026-01-26",
-      "name": "Amazon Lightsail expands blueprint selection with updated support for Node.js, LAMP, and Ruby on Rails blueprints",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Lightsail now offers new Node.js, LAMP, and Ruby on Rails blueprints. These new blueprint have Instance Metadata Service Version 2 (IMDSv2) enforced by default, and support IPv6-only instances. With just a few ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.comabout-aws/whats-new/2026/01/amazon-lightsail-nodejs-lamp-and-ruby-on-rails/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-26-aws-amazon-bedrock-now-supports-1-hour-duration-for-pr",
-      "date": "2026-01-26",
-      "name": "Amazon Bedrock now supports 1-hour duration for prompt caching",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Bedrock now supports a 1-hour time-to-live (TTL) option for prompt caching for select Anthropic Claude models. With this update, you can extend the persistence of cached prompt prefixes from the default 5 minut",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-bedrock-one-hour-duration-prompt-caching/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-26-aws-amazon-workspaces-core-announces-monthly-pricing-f",
-      "date": "2026-01-26",
-      "name": "Amazon WorkSpaces Core announces monthly pricing for managed instances",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS is announcing flexible billing for Amazon WorkSpaces Core managed instances, adding monthly flat-rate pricing alongside existing hourly billing. Customers can now choose the optimal pricing model based on their en",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/1/amazon-workspaces-core-managed-instances-flexible-billing/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-26-aws-amazon-managed-grafana-now-available-in-the-aws-go",
-      "date": "2026-01-26",
-      "name": "Amazon Managed Grafana now available in the AWS GovCloud (US) Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Managed Grafana is now available in both AWS GovCloud (US-West) and AWS GovCloud (US-East) Regions, enabling government customers and regulated industries to securely visualize and analyze their operational dat",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-managed-grafana-aws-govcloud-us-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-26-aws-aws-iam-identity-center-now-supports-ipv6",
-      "date": "2026-01-26",
-      "name": "AWS IAM Identity Center now supports IPv6",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS IAM Identity Center now supports Internet Protocol version 6 (IPv6) through new dual-stack endpoints. Customers can now connect to AWS IAM Identity Center using IPv6, IPv4, or dual-stack clients. The existing AWS ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/iam-identity-center-ipv6-dualstack-support/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-23-openai-unrolling-the-codex-agent-loop",
-      "date": "2026-01-23",
-      "name": "Unrolling the Codex agent loop",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "A technical deep dive into the Codex agent loop, explaining how Codex CLI orchestrates models, tools, prompts, and performance using the Responses API.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/unrolling-the-codex-agent-loop"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
       "tags": []
     }
   ]
