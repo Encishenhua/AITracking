@@ -1,6 +1,114 @@
 {
   "items": [
     {
+      "id": "2026-02-06-aws-amazon-workspaces-secure-browser-now-supports-cust",
+      "date": "2026-02-06",
+      "name": "Amazon WorkSpaces Secure Browser now supports custom domain",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon WorkSpaces Secure Browser now supports custom domains for your WorkSpaces Secure Browser portals, enabling you to configure portal access through your own domain name instead of the default portal URL. This fea",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-workspaces-secure-browser-custom-domains/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-06-aws-amazon-ecs-managed-instances-now-available-in-aws-",
+      "date": "2026-02-06",
+      "name": "Amazon ECS Managed Instances now available in AWS European Sovereign Cloud",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Elastic Container Service (Amazon ECS) Managed Instances is now available in the AWS European Sovereign Cloud. ECS Managed Instances is a fully managed compute option designed to eliminate infrastructure manage",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/ecs-mi-european-sovereign-cloud"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-06-aws-amazon-bedrock-agentcore-browser-now-supports-brow",
+      "date": "2026-02-06",
+      "name": "Amazon Bedrock AgentCore Browser now supports browser profiles",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock AgentCore Browser now supports browser profiles, enabling you to reuse authentication state across multiple browser sessions without repeated login flows. This feature reduces session setup time from mi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-bedrock-agentcore-browser-profiles"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-06-aws-aws-config-now-supports-30-new-resource-types",
+      "date": "2026-02-06",
+      "name": "AWS Config now supports 30 new resource types",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Config now supports 30 additional AWS resource types across key services including Amazon EKS, Amazon Q, and AWS IoT. This expansion provides greater coverage over your AWS environment, enabling you to more effect",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-config-new-resource-types"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-06-aws-amazon-connect-cases-now-supports-csv-uploads-to-m",
+      "date": "2026-02-06",
+      "name": "Amazon Connect Cases now supports CSV uploads to map related field options",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect Cases now supports using a CSV file to define which field options appear based on other field values, making it easier to configure complex field relationships on case templates. Instead of manually def",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-cases-csv-related-field-options"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-06-aws-aws-network-firewall-announces-new-price-reduction",
+      "date": "2026-02-06",
+      "name": "AWS Network Firewall announces new price reductions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/network-firewall/\">AWS Network Firewall</a> has introduced two pricing improvements for customers. The service has added the hourly and data processing discounts on NAT Gateways that ar",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-network-firewall-new-price-reduction/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-02-05-openai-navigating-health-questions-with-chatgpt",
       "date": "2026-02-05",
       "name": "Navigating health questions with ChatGPT",
@@ -227,6 +335,42 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/2/claude-opus-4.6-available-amazon-bedrock/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-05-aws-amazon-ec2-g6e-instances-now-available-in-the-uae-",
+      "date": "2026-02-05",
+      "name": "Amazon EC2 G6e instances now available in the UAE region",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Starting today, the Amazon EC2 G6e instances powered by NVIDIA L40S Tensor Core GPUs is now available in Middle East (UAE) Region. G6e instances can be used for a wide range of machine learning and spatial computing u",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-g6e-instances-uae-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-05-aws-aws-glue-launches-native-rest-api-connector-for-un",
+      "date": "2026-02-05",
+      "name": "AWS Glue launches native REST API connector for universal data integration",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Glue now offers a native REST-based connector that enables customers to easily read data from any source with a REST-based API. Customers can now create custom connectors to any REST-enabled data source and seamle",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-glue-rest-api-connector"
         }
       ],
       "impact": 5,
@@ -929,150 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/rds-for-oracle-cross-region-replicas-additional-storage-volumes"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-30-aws-amazon-ec2-r8a-instances-are-now-available-in-euro",
-      "date": "2026-01-30",
-      "name": "Amazon EC2 R8a instances are now available in Europe (Spain) and Europe (Frankfurt) Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon EC2 R8a instances are now available in Europe (Spain) and Europe (Frankfurt) Regions. These instances, feature 5th Gen AMD EPYC processors (formerly code named Turin) with a maximum frequency of",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-r8a-instances-are-available-europe"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-30-crewai-1-9-3",
-      "date": "2026-01-30",
-      "name": "1.9.3",
-      "vendor": "CrewAI",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<p>Features</p>\n<ul>\n<li>feat: add a2a liteagent, auth, transport negotiation, and file support</li>\n</ul>\n<p>Bug Fixes:</p>\n<ul>\n<li>fix: improve output handling and response model integration in",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.9.3"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-01-30-aws-amazon-connect-launches-improved-wait-time-estimat",
-      "date": "2026-01-30",
-      "name": "Amazon Connect launches improved wait time estimates",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect now delivers improved estimated wait time metrics for queues and enqueued contacts, empowering organizations. This allows contact centers to set accurate customer expectations, provide convenient option",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-launches-improved-wait-time/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-30-aws-amazon-cloudwatch-application-signals-now-supports",
-      "date": "2026-01-30",
-      "name": "Amazon CloudWatch Application Signals now supports integration with Kiro powers",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces <b><b>Amazon CloudWatch Application Signals integration with Kiro powers</b></b>, enabling developers and operators to investigate application health issues faster with AI agent-assisted workflows",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/cloudwatch-application-signals-kiro-powers"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-29-openai-inside-openai-s-in-house-data-agent",
-      "date": "2026-01-29",
-      "name": "Inside OpenAI’s in-house data agent",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "How OpenAI built an in-house AI data agent that uses GPT-5, Codex, and memory to reason over massive datasets and deliver reliable insights in minutes.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/inside-our-in-house-data-agent"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-29-aws-amazon-bedrock-now-supports-server-side-custom-too",
-      "date": "2026-01-29",
-      "name": "Amazon Bedrock now supports server-side custom tools using the Responses API",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock now supports server-side tools in the Responses API using OpenAI API-compatible service endpoints. Bedrock already supports client-side tool use with the Converse, Chat Completions, and Responses APIs. ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-bedrock-server-side-custom-tools-responses-api"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-29-aws-amazon-cognito-introduces-inbound-federation-lambd",
-      "date": "2026-01-29",
-      "name": "Amazon Cognito introduces inbound federation Lambda triggers",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Cognito introduces inbound federation Lambda triggers that enable you to transform and customize federated user attributes during the authentication process. You can now modify responses from external SAML and ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-cognito-inbound-federation-lambda-trigger/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-29-aws-change-the-server-side-encryption-type-of-amazon-s",
-      "date": "2026-01-29",
-      "name": "Change the server-side encryption type of Amazon S3 objects",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>You can now change the server-side encryption type of encrypted objects in Amazon S3 without any data movement. You can use the UpdateObjectEncryption API to atomically change the encryption key of your objects regard",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/change-the-server-side-encryption-type-of-s3-objects"
         }
       ],
       "impact": 5,
