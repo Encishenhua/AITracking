@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "2026-02-09-aws-amazon-neptune-analytics-is-now-available-in-7-add",
+      "date": "2026-02-09",
+      "name": "Amazon Neptune Analytics is now available in 7 additional regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://docs.aws.amazon.com/neptune-analytics/latest/userguide/what-is-neptune-analytics.html\" target=\"_blank\">Amazon Neptune Analytics</a> is now available in Middle East (Bahrain), Middle East (UAE), Israel",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-neptune-analytics-in-seven-additional-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-09-aws-aws-healthomics-introduces-a-kiro-power-and-kiro-i",
+      "date": "2026-02-09",
+      "name": "AWS HealthOmics introduces a Kiro Power and Kiro IDE extension for bioinformatics workflow development",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS HealthOmics announces a <a href=\"https://kiro.dev/powers/\">Kiro Power</a> and Kiro IDE extension to create, run, debug, and optimize HealthOmics workflows faster with AI agent-assisted development. With the Health",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-healthomics-introduces-kiro-plugin-for-bioinformatics-workflow-development/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-09-aws-amazon-redshift-now-supports-allocating-extra-comp",
+      "date": "2026-02-09",
+      "name": "Amazon Redshift now supports allocating extra compute for automatic optimizations",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Redshift now supports allocating extra compute for automatic optimization features, known as autonomics. Database administrators managing Amazon Redshift workloads can now allocate additional resources for thei",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-redshift-allocate-extra-compute-for-automatic-optimizations"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-02-06-aws-amazon-workspaces-secure-browser-now-supports-cust",
       "date": "2026-02-06",
       "name": "Amazon WorkSpaces Secure Browser now supports custom domain",
@@ -1019,60 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ecs-container-health-status-metric/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-30-aws-aws-lambda-launches-enhanced-observability-for-kaf",
-      "date": "2026-01-30",
-      "name": "AWS Lambda launches enhanced observability for Kafka event source mappings",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p style=\"text-align: left;\">AWS Lambda launches enhanced observability for Kafka event source mappings (ESM) that provides Amazon CloudWatch Logs and metrics to monitor event polling setup, scaling, and processing state",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/aws-Lambda-observability-for-kafka-esm/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-30-aws-amazon-gamelift-streams-expands-streaming-capabili",
-      "date": "2026-01-30",
-      "name": "Amazon GameLift Streams expands streaming capability to six new regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, Amazon GameLift Streams provides streaming capabilities in six new locations - eu-west-2 (London), eu-north-1 (Stockholm), sa-east-1 (São Paulo), ap-south-1 (Mumbai), ap-northeast-2 (Seoul), and ap-sou",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/glstreams-new-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-30-aws-amazon-rds-for-oracle-now-supports-cross-region-re",
-      "date": "2026-01-30",
-      "name": "Amazon RDS for Oracle now supports cross-Region replicas with additional storage volumes",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/oracle/\">Amazon RDS for Oracle</a> now supports cross-Region replicas with additional storage volumes. With additional storage volumes, customers can add up to three storage volumes",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/rds-for-oracle-cross-region-replicas-additional-storage-volumes"
         }
       ],
       "impact": 5,
