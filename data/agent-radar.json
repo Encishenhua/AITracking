@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "2026-02-10-langchain-langgraph-the-two-patterns-by-which-agents-connect-sandboxes",
+      "date": "2026-02-10",
+      "name": "The two patterns by which agents connect sandboxes",
+      "vendor": "LangChain/LangGraph",
+      "type": "upgrade",
+      "summary": "<p><em>Thank you to Nuno Campos from Witan Labs, Tomas Beran and Mikayel Harutyunyan from E2B, Jonathan Wall from Runloop, and Ben Guo from Zo Computer for their review and comments.</em></p><p><strong>TL;DR:</strong></p",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/the-two-patterns-by-which-agents-connect-sandboxes/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-02-10-langchain-langgraph-langsmith-is-now-available-in-google-cloud-marketp",
+      "date": "2026-02-10",
+      "name": "LangSmith is Now Available in Google Cloud Marketplace",
+      "vendor": "LangChain/LangGraph",
+      "type": "upgrade",
+      "summary": "<p>Today, we&apos;re thrilled to announce that LangSmith, the agent engineering platform from LangChain, is available in Google Cloud Marketplace. Google Cloud customers can now procure LangSmith through their existing G",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/langsmith-is-now-available-in-google-cloud-marketplace/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-02-09-aws-amazon-neptune-analytics-is-now-available-in-7-add",
       "date": "2026-02-09",
       "name": "Amazon Neptune Analytics is now available in 7 additional regions",
@@ -1037,42 +1073,6 @@
         {
           "title": "OpenAI source",
           "url": "https://status.openai.com//incidents/01KG80XW6H509B6MVRE05W99SF"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-30-aws-amazon-sagemaker-unified-studio-now-supports-aws-p",
-      "date": "2026-01-30",
-      "name": "Amazon SageMaker Unified Studio now supports AWS PrivateLink",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, Amazon SageMaker announced a new capability allowing you to establish connectivity between your Amazon Virtual Private Cloud (VPC) and Amazon SageMaker Unified Studio without customer data traffic going through",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-sagemaker-unified-studio-aws-privatelink/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-01-30-aws-amazon-ecs-now-publishes-container-health-status-a",
-      "date": "2026-01-30",
-      "name": "Amazon ECS now publishes container health status as a CloudWatch metric",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p><a href=\"https://aws.amazon.com/ecs/\" target=\"_blank\">Amazon Elastic Container Service</a> (Amazon ECS) now publishes container health status as a new metric in CloudWatch Container Insights with enhanced observabilit",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ecs-container-health-status-metric/"
         }
       ],
       "impact": 5,
