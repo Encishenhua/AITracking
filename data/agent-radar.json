@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "2026-02-14-openai-high-errors-with-image-generation",
+      "date": "2026-02-14",
+      "name": "High errors with image generation",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Investigating</b><br /><br />We are investigating the issue for the listed services.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Images (Degraded performance)</li>\n<li>Image Generation (",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KHB0X2GYKJEW6WV3G1SFYPCE"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-02-13-langchain-langgraph-on-agent-frameworks-and-agent-observability",
       "date": "2026-02-13",
       "name": "On Agent Frameworks and Agent Observability",
@@ -16,6 +34,114 @@
       "impact": 4,
       "risk": 2,
       "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-02-13-openai-introducing-lockdown-mode-and-elevated-risk-labels",
+      "date": "2026-02-13",
+      "name": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT to help organizations defend against prompt injection and AI-driven data exfiltration.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-13-openai-scaling-social-science-research",
+      "date": "2026-02-13",
+      "name": "Scaling social science research",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and images into quantitative data, helping social scientists analyze research at scale.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/scaling-social-science-research"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-13-aws-aws-batch-now-provides-job-queue-and-share-utiliza",
+      "date": "2026-02-13",
+      "name": "AWS Batch now provides Job Queue and Share Utilization Visibility",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Batch now provides Queue and Share Utilization Visibility, giving you insights into how your workloads are distributed across compute resources. This feature introduces queue utilization data in job queue snapshot",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-batch-provides-job-queue-share-utilization"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-13-aws-amazon-connect-launches-in-app-notifications-to-su",
+      "date": "2026-02-13",
+      "name": "Amazon Connect launches in-app notifications to surface critical operational alerts to business users",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect now supports in-app notifications in the workspace header, visible from any page, so your team can stay informed without interrupting their workflow— whether configuring, analyzing data, or servicing cu",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-in-app-notifications"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-13-aws-amazon-connect-now-provides-real-time-ai-powered-o",
+      "date": "2026-02-13",
+      "name": "Amazon Connect now provides real time AI-powered overviews and recommended next actions for Tasks",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Connect now provides AI-powered Task overviews with suggested next actions so agents can understand work items faster and resolve them more quickly. For example, when an agent receives a Task to process a refun",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/connect-tasks-ai-assistance"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-13-aws-amazon-aurora-dsql-adds-support-for-identity-colum",
+      "date": "2026-02-13",
+      "name": "Amazon Aurora DSQL adds support for identity columns and sequence objects",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/aurora/dsql/\">Amazon Aurora DSQL</a> now supports&nbsp;identity columns and&nbsp;sequence objects enabling developers to generate auto-incrementing, integer-based IDs directly in th",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-aurora-dsql-adds-identity-columns-sequence/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
       "tags": []
     },
     {
@@ -142,6 +268,114 @@
       "impact": 4,
       "risk": 2,
       "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-02-12-aws-announcing-amazon-ec2-c8i-m8i-and-r8i-instances-on",
+      "date": "2026-02-12",
+      "name": "Announcing Amazon EC2 C8i, M8i, and R8i instances on second-generation AWS Outposts racks",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS is announcing local support for the latest generation of x86-powered Amazon EC2 instances on second-generation AWS Outposts racks, including C8i compute-optimized instances, M8i general-purpose instances, and R8i ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8i-m8i-and-r8i-instances-on-aws-outposts/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-12-aws-amazon-bedrock-adds-support-for-the-latest-open-we",
+      "date": "2026-02-12",
+      "name": "Amazon Bedrock adds support for the latest open-weight models in Asia Pacific (Sydney)",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Bedrock is a fully managed service that provides secure, enterprise-grade access to high-performing foundation models from leading AI companies, enabling you to build and scale generative AI applications. Today",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-bedrock-support-latest-open-weight-models-asia-pacific-sydney/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-12-aws-amazon-s3-access-grants-are-now-available-in-the-a",
+      "date": "2026-02-12",
+      "name": "Amazon S3 Access Grants are now available in the AWS Asia Pacific (Taipei) Region",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>You can now create Amazon S3 Access Grants in the AWS Asia Pacific (Taipei) Region.</p> \n<p>Amazon S3 Access Grants map identities in directories such as Microsoft Entra ID, or AWS Identity and Access Management (IAM)",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-s3-access-grants-are-available-in-taipei"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-12-aws-amazon-bedrock-expands-support-for-aws-privatelink",
+      "date": "2026-02-12",
+      "name": "Amazon Bedrock expands support for AWS PrivateLink",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock is a fully managed service that provides secure, enterprise-grade access to high-performing foundation models from leading AI companies. It enables you to build and scale generative AI applications. Ama",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-bedrock-expands-aws-privatelink-support-openai-api-endpoints/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-12-aws-aws-expands-resource-control-policies-support-to-a",
+      "date": "2026-02-12",
+      "name": "AWS expands Resource Control Policies support to Amazon DynamoDB",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Resource Control Policies (RCPs)&nbsp;now&nbsp;support&nbsp;<a href=\"https://aws.amazon.com/dynamodb/?trk=292f3097-d805-46ec-9150-f185787f6c21&amp;trk=292f3097-d805-46ec-9150-f185787f6c21&amp;sc_channel=ps&amp;sc_",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-expands-resource-control-policies-amazon"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-12-aws-amazon-connect-launches-granular-access-controls-f",
+      "date": "2026-02-12",
+      "name": "Amazon Connect  launches granular access controls for analytics dashboards",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect dashboards now provides granular access controls for analytics dashboards. This enables you to apply resource tags that control who is able to see metrics for specific resources such as agents, queues, ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-launches-granular-access"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
       "tags": []
     },
     {
@@ -839,240 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-g6e-instances-dubai-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-05-aws-aws-builder-id-now-supports-sign-in-with-apple",
-      "date": "2026-02-05",
-      "name": "AWS Builder ID now supports Sign in with Apple",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<div class=\"WACEditing EditMode EditingSurfaceBody FireFox WACViewPanel_DisableLegacyKeyCodeAndCharCode usehover\" id=\"WACViewPanel_ClipboardElement\" style=\"overflow: hidden; direction: ltr;\">\n <div class=\"OutlineElement ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-builder-id-sign-in-apple"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-05-aws-amazon-workspaces-launches-graphics-g6-gr6-and-g6f",
-      "date": "2026-02-05",
-      "name": "Amazon WorkSpaces launches Graphics G6, Gr6, and G6f bundles",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, Amazon WorkSpaces announces the availability of 12 new Graphics G6, Gr6, and G6f WorkSpaces bundles built on the Amazon <a href=\"https://aws.amazon.com/ec2/instance-types/g6/?refid=2216ee97-52d4-4886-aa83-21d21",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-workspaces-personal-core-graphics-g6-gr6-g6f-bundles/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-05-aws-amazon-ec2-i7ie-instances-now-available-in-aws-can",
-      "date": "2026-02-05",
-      "name": "Amazon EC2 I7ie instances now available in AWS Canada (Central)",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS is announcing Amazon EC2 I7ie instances are now available in AWS Canada (Central) regions. Designed for large storage I/O intensive workloads, I7ie instances are powered by 5th Gen Intel Xeon Processors with an al",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-i7ie-instances-available-aws-canada/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-05-aws-amazon-ec2-high-memory-u7i-6tb-instances-now-avail",
-      "date": "2026-02-05",
-      "name": "Amazon EC2 High Memory U7i-6TB instances now available in AWS GovCloud (US-West)",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon EC2 High Memory U7i instances with 6TB of memory (u7i-6tb.112xlarge) are now available in AWS GovCloud (US-West). U7i instances are part of AWS 7th generation and are powered by custom fourth generation Intel X",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-u7i-6tb-instances-available/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-05-aws-amazon-ec2-capacity-blocks-for-ml-can-be-shared-ac",
-      "date": "2026-02-05",
-      "name": "Amazon EC2 capacity blocks for ML can be shared across multiple accounts",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Web Services (AWS) is announcing the general availability of cross-account sharing for Amazon EC2 Capacity Blocks for ML. This capability allows organizations to share reserved GPU capacity across AWS accounts ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-capacity-blocks-multiple-accounts"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-05-aws-claude-opus-4-6-now-available-in-amazon-bedrock",
-      "date": "2026-02-05",
-      "name": "Claude Opus 4.6 now available in Amazon Bedrock",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, Amazon Bedrock supports Claude Opus 4.6. According to Anthropic, Opus 4.6 is their most intelligent model and the world's best model for coding, enterprise agents, and professional work. Claude Opus 4.",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/2/claude-opus-4.6-available-amazon-bedrock/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-05-aws-amazon-ec2-g6e-instances-now-available-in-the-uae-",
-      "date": "2026-02-05",
-      "name": "Amazon EC2 G6e instances now available in the UAE region",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Starting today, the Amazon EC2 G6e instances powered by NVIDIA L40S Tensor Core GPUs is now available in Middle East (UAE) Region. G6e instances can be used for a wide range of machine learning and spatial computing u",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-g6e-instances-uae-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-05-aws-aws-glue-launches-native-rest-api-connector-for-un",
-      "date": "2026-02-05",
-      "name": "AWS Glue launches native REST API connector for universal data integration",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Glue now offers a native REST-based connector that enables customers to easily read data from any source with a REST-based API. Customers can now create custom connectors to any REST-enabled data source and seamle",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-glue-rest-api-connector"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-04-openai-some-users-may-experience-issues-loading-or-starti",
-      "date": "2026-02-04",
-      "name": "Some users may experience issues loading or starting conversations",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Conversations (Degraded performance)</li>\n          ",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KGK3YJB8CPX0TJY924H02TZW"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-04-openai-unlocking-the-codex-harness-how-we-built-the-app-s",
-      "date": "2026-02-04",
-      "name": "Unlocking the Codex harness: how we built the App Server",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "Learn how to embed the Codex agent using the Codex App Server, a bidirectional JSON-RPC API powering streaming progress, tool use, approvals, and diffs.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/unlocking-the-codex-harness"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-04-openai-vfl-wolfsburg-turns-chatgpt-into-a-club-wide-capab",
-      "date": "2026-02-04",
-      "name": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "By focusing on people, not pilots, the Bundesliga club is scaling efficiency, creativity, and knowledge—without losing its football identity.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/vfl-wolfsburg"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-04-openai-chatgpt-availability-impacted",
-      "date": "2026-02-04",
-      "name": "ChatGPT Availability Impacted",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Connectors/Apps (Operational)</li>\n<li>ChatGPT Atlas (Operational)</li",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KGMVV926ZSCD1MSDBS07AWYA"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-04-aws-structured-outputs-now-available-in-amazon-bedrock",
-      "date": "2026-02-04",
-      "name": "Structured outputs now available in Amazon Bedrock",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Bedrock now supports structured outputs, a capability that provides consistent, machine-readable responses from foundation models that adhere to your defined JSON schemas. Instead of prompting for valid JSON an",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/structured-outputs-available-amazon-bedrock/"
         }
       ],
       "impact": 5,
