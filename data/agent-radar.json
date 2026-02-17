@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "2026-02-16-aws-announcing-new-high-performance-computing-amazon-e",
+      "date": "2026-02-16",
+      "name": "Announcing new high performance computing Amazon EC2 Hpc8a instances",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS announces Amazon EC2 Hpc8a instances, the next generation of high performance computing optimized instance, powered by 5th Gen AMD EPYC processors (formerly code named Turin). With a maximum frequency of 4.5GHz, H",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/announcing-amazon-ec2-hpc8a-instances/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-16-aws-aws-backup-announces-privatelink-support-for-sap-h",
+      "date": "2026-02-16",
+      "name": "AWS Backup announces PrivateLink support for SAP HANA on AWS",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Backup now supports AWS PrivateLink for SAP HANA systems running on Amazon EC2. This enables customers to route all backup traffic through private network connections without traversing the public internet, helpin",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-backup-announces-privatelink-sap-hana-aws/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-16-aws-amazon-ec2-m7i-instances-are-now-available-in-the-",
+      "date": "2026-02-16",
+      "name": "Amazon EC2 M7i instances are now available in the Israel (Tel Aviv) Region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M7i instances powered by custom 4th Gen Intel Xeon Scalable processors (code-named Sapphire Rapids) are available in the Israel (Tel Aviv) region. These custom",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m7i-israel-tel-aviv-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-02-14-openai-high-errors-with-image-generation",
       "date": "2026-02-14",
       "name": "High errors with image generation",
@@ -137,6 +191,24 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-aurora-dsql-adds-identity-columns-sequence/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-13-aws-amazon-ec2-high-memory-u7i-instances-now-available",
+      "date": "2026-02-13",
+      "name": "Amazon EC2 High Memory U7i instances now available in additional regions",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon EC2 High Memory instances are now available in new regions - U7i-6tb.112xlarge instances in AWS South America (Sao Paulo) and Europe (Milan), U7i-12tb.224xlarge in AWS GovCloud (US-East), and U7in-16tb.224xlarg",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-highmem-instances-available/"
         }
       ],
       "impact": 5,
@@ -1001,78 +1073,6 @@
         {
           "title": "OpenAI source",
           "url": "https://openai.com/index/trusted-access-for-cyber"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-05-openai-introducing-openai-frontier",
-      "date": "2026-02-05",
-      "name": "Introducing OpenAI Frontier",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/introducing-openai-frontier"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-05-openai-gpt-5-3-codex-system-card",
-      "date": "2026-02-05",
-      "name": "GPT-5.3-Codex System Card",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "GPT‑5.3-Codex is the most capable agentic coding model to date, combining the frontier coding performance of GPT‑5.2-Codex with the reasoning and professional knowledge capabilities of GPT‑5.2.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/gpt-5-3-codex-system-card"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-05-openai-introducing-gpt-5-3-codex",
-      "date": "2026-02-05",
-      "name": "Introducing GPT-5.3-Codex",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "GPT-5.3-Codex is a Codex-native agent that pairs frontier coding performance with general reasoning to support long-horizon, real-world technical work.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/introducing-gpt-5-3-codex"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-05-aws-amazon-ec2-g6e-instances-now-available-in-dubai-re",
-      "date": "2026-02-05",
-      "name": "Amazon EC2 G6e instances now available in Dubai region",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Starting today, the Amazon EC2 G6e instances powered by NVIDIA L40S Tensor Core GPUs is now available in Middle East (UAE) Region. G6e instances can be used for a wide range of machine learning and spatial computing u",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-g6e-instances-dubai-region/"
         }
       ],
       "impact": 5,
