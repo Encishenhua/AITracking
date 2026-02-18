@@ -1,6 +1,114 @@
 {
   "items": [
     {
+      "id": "2026-02-17-aws-amazon-bedrock-reinforcement-fine-tuning-adds-supp",
+      "date": "2026-02-17",
+      "name": "Amazon Bedrock reinforcement fine-tuning adds support for open-weight models with OpenAI-compatible APIs",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock now extends reinforcement fine-tuning (RFT) support to popular open-weight models, including OpenAI GPT-OSS and Qwen models, and introduces OpenAI-compatible fine-tuning APIs. These capabilities make it",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-bedrock-reinforcement-fine-tuning-openai"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-17-aws-amazon-connect-now-includes-agent-time-off-request",
+      "date": "2026-02-17",
+      "name": "Amazon Connect now includes agent time-off requests in draft schedules",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect now includes agent time-off requests in draft schedules, making it easier for you to view why an agent was not scheduled on a particular day or part of the day. For example, when generating schedules fo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-time-off-draft-schedules"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-17-aws-amazon-connect-now-supports-multi-line-text-fields",
+      "date": "2026-02-17",
+      "name": "Amazon Connect now supports multi-line text fields on case templates",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect now supports larger, multi-line text fields on case templates allowing agents to capture detailed free-form notes and structured data directly within cases. These fields expand vertically to accommodate",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-cases-multiline-text-fields/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-17-aws-amazon-ec2-c8a-instances-now-available-in-the-euro",
+      "date": "2026-02-17",
+      "name": "Amazon EC2 C8a instances now available in the Europe (Frankfurt) and Europe (Ireland) region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, the compute-optimized Amazon EC2 C8a instances are available in the Europe (Frankfurt) and Europe (Ireland) regions. C8a instances are powered by 5th Gen AMD EPYC processors (formerly code named Turin)",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8a-instances-europe-frankfurt-europe-ireland-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-17-aws-claude-sonnet-4-6-now-available-in-amazon-bedrock",
+      "date": "2026-02-17",
+      "name": "Claude Sonnet 4.6 now available in Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Bedrock supports Claude Sonnet 4.6, which offers frontier performance across coding, agents, and professional work at scale.&nbsp;According to Anthropic, Claude Sonnet 4.6 is their best computer",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/claude-sonnet-4.6-available-in-amazon-bedrock/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-17-langchain-langgraph-improving-deep-agents-with-harness-engineering",
+      "date": "2026-02-17",
+      "name": "Improving Deep Agents with harness engineering",
+      "vendor": "LangChain/LangGraph",
+      "type": "upgrade",
+      "summary": "<p>TLDR: Our coding agent went from Top 30 to Top 5 on <a href=\"https://www.tbench.ai/leaderboard/terminal-bench/2.0?ref=blog.langchain.com\">Terminal Bench 2.0</a>. We only changed the harness. Here&#x2019;s our approach",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/improving-deep-agents-with-harness-engineering/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-02-16-aws-announcing-new-high-performance-computing-amazon-e",
       "date": "2026-02-16",
       "name": "Announcing new high performance computing Amazon EC2 Hpc8a instances",
@@ -47,6 +155,24 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m7i-israel-tel-aviv-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-16-aws-aws-glue-5-1-is-now-available-in-18-additional-reg",
+      "date": "2026-02-16",
+      "name": "AWS Glue 5.1 is now available in 18 additional regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Glue 5.1 is now available in eighteen additional AWS Regions: Africa (Cape Town), Asia Pacific (Hyderabad, Jakarta, Melbourne, Osaka, Seoul, Taipei), Canada (Calgary, Central), Europe (London, Milan, Paris, Zurich",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-glue-5-1-eighteen-additional-regions"
         }
       ],
       "impact": 5,
@@ -947,132 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/ecs-mi-european-sovereign-cloud"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-06-aws-amazon-bedrock-agentcore-browser-now-supports-brow",
-      "date": "2026-02-06",
-      "name": "Amazon Bedrock AgentCore Browser now supports browser profiles",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock AgentCore Browser now supports browser profiles, enabling you to reuse authentication state across multiple browser sessions without repeated login flows. This feature reduces session setup time from mi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-bedrock-agentcore-browser-profiles"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-06-aws-aws-config-now-supports-30-new-resource-types",
-      "date": "2026-02-06",
-      "name": "AWS Config now supports 30 new resource types",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Config now supports 30 additional AWS resource types across key services including Amazon EKS, Amazon Q, and AWS IoT. This expansion provides greater coverage over your AWS environment, enabling you to more effect",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-config-new-resource-types"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-06-aws-amazon-connect-cases-now-supports-csv-uploads-to-m",
-      "date": "2026-02-06",
-      "name": "Amazon Connect Cases now supports CSV uploads to map related field options",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect Cases now supports using a CSV file to define which field options appear based on other field values, making it easier to configure complex field relationships on case templates. Instead of manually def",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-cases-csv-related-field-options"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-06-aws-aws-network-firewall-announces-new-price-reduction",
-      "date": "2026-02-06",
-      "name": "AWS Network Firewall announces new price reductions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/network-firewall/\">AWS Network Firewall</a> has introduced two pricing improvements for customers. The service has added the hourly and data processing discounts on NAT Gateways that ar",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-network-firewall-new-price-reduction/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-05-openai-navigating-health-questions-with-chatgpt",
-      "date": "2026-02-05",
-      "name": "Navigating health questions with ChatGPT",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "A family shares how ChatGPT helped them prepare for critical cancer treatment decisions for their son alongside expert guidance from his doctors.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/navigating-health-questions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-05-openai-increased-chatgpt-errors-for-some-users",
-      "date": "2026-02-05",
-      "name": "Increased ChatGPT errors for some users",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Compliance API (Operational)</li>\n<li>Codex (Operational)</li>\n<li>Con",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KGNJACX0T5CYY1YWS8RNW6S6"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-05-openai-introducing-trusted-access-for-cyber",
-      "date": "2026-02-05",
-      "name": "Introducing Trusted Access for Cyber",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "OpenAI introduces Trusted Access for Cyber, a trust-based framework that expands access to frontier cyber capabilities while strengthening safeguards against misuse.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/trusted-access-for-cyber"
         }
       ],
       "impact": 5,
