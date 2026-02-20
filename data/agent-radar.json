@@ -1,6 +1,168 @@
 {
   "items": [
     {
+      "id": "2026-02-19-aws-aws-iam-identity-center-is-now-available-in-the-as",
+      "date": "2026-02-19",
+      "name": "AWS IAM Identity Center is now available in the Asia Pacific (New Zealand) AWS Region",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>You can now deploy AWS IAM Identity Center in 38 AWS Regions, including Asia Pacific (New Zealand).<br /> <br /> IAM Identity Center is the recommended service for managing workforce access to AWS applications. It ena",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-iam-identity-center-asia-pacific-new-zealand-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-19-aws-amazon-ec2-g7e-instances-now-available-in-asia-pac",
+      "date": "2026-02-19",
+      "name": "Amazon EC2 G7e instances now available in Asia Pacific (Tokyo) region",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Starting today, Amazon EC2 G7e instances accelerated by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs are now available in &nbsp;Asia Pacific (Tokyo) region. G7e instances offer up to 2.3x inference performance co",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-g7e-instances-tokyo-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-19-aws-amazon-ec2-m8i-flex-instances-are-now-available-in",
+      "date": "2026-02-19",
+      "name": "Amazon EC2 M8i-flex instances are now available in additional AWS regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon EC2 M8i-flex instances are now available in Asia Pacific (Malaysia, Seoul, Singapore, Tokyo), Europe (Frankfurt) and Canada (Central) regions. These instances are powered by custom Intel Xeon 6 ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m8i-flex-instances-FRA-ICN-KUL-NRT-SIN-YUL-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-19-langchain-langgraph-how-to-use-memory-in-agent-builder",
+      "date": "2026-02-19",
+      "name": "How to Use Memory in Agent Builder",
+      "vendor": "LangChain/LangGraph",
+      "type": "upgrade",
+      "summary": "<p><em>By Jacob Talbot</em></p><p>Agent Builder gets better the more you use it because it remembers your feedback. Every correction you make, preference you share, and approach that works well is something that your age",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/how-to-use-memory-in-agent-builder/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-02-19-dust-spa-poke-17389cb-front-feat-obs-add-skills-insight",
+      "date": "2026-02-19",
+      "name": "spa/poke/17389cb: [front] - feat(obs): add skills insights (#21879)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>[observability] - feature: implement API endpoint for skill execution metrics</li>\n</ul>\n<ul>\n<li>Add new endpoint to fetch skill execution statistics by version and source</li>\n<li>Validate access permissions a",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F17389cb"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-19-dust-spa-poke-9b61996",
+      "date": "2026-02-19",
+      "name": "spa/poke/9b61996",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Add workspace emergency kill switch capability (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/21966\">#21966</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9b61996"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-19-dust-spa-poke-0defde9-kill-switch-add-admin-cli-command",
+      "date": "2026-02-19",
+      "name": "spa/poke/0defde9: [Kill Switch] Add admin CLI commands to block/unblock workspace (#21972)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>[Kill Switch] Add admin CLI commands to block/unblock workspace</p>\n</li>\n<li>\n<p>[Kill Switch] Address review comments on CLI workspace block/unblock</p>\n</li>\n<li>\n<p>chore: fix admin cli import formatting",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F0defde9"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-19-dust-spa-app-17389cb-front-feat-obs-add-skills-insights",
+      "date": "2026-02-19",
+      "name": "spa/app/17389cb: [front] - feat(obs): add skills insights (#21879)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>[observability] - feature: implement API endpoint for skill execution metrics</li>\n</ul>\n<ul>\n<li>Add new endpoint to fetch skill execution statistics by version and source</li>\n<li>Validate access permissions a",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F17389cb"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-19-crewai-1-10-0a1",
+      "date": "2026-02-19",
+      "name": "1.10.0a1",
+      "vendor": "CrewAI",
+      "type": "pricing",
+      "summary": "<h2>What's Changed</h2>\n<ul>\n<li>declare <code>stagehand</code> package as dep for StagehandTool by <a class=\"user-mention notranslate\" href=\"https://github.com/thiagomoretto\">@thiagomoretto</a> in <a class=\"issue-link j",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.10.0a1"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-02-18-aws-amazon-aurora-dsql-now-integrates-with-kiro-powers",
       "date": "2026-02-18",
       "name": "Amazon Aurora DSQL now integrates with Kiro powers and AI agent skills",
@@ -142,6 +304,24 @@
       "impact": 4,
       "risk": 2,
       "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-02-18-aws-aws-certificate-manager-updates-default-certificat",
+      "date": "2026-02-18",
+      "name": "AWS Certificate Manager updates default certificate validity to comply with new guidelines",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, public certificates issued from AWS Certificate Manager (ACM) have a maximum validity period of 198 days, compared to previous validity period of 395 days. With this change, ACM-issued public certifica",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-certificate-manager-updates-default/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
       "tags": []
     },
     {
@@ -898,186 +1078,6 @@
       "impact": 5,
       "risk": 3,
       "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-11-aws-amazon-ec2-c8i-and-c8i-flex-instances-are-now-avai",
-      "date": "2026-02-11",
-      "name": "Amazon EC2 C8i and C8i-flex instances are now available in Europe (Paris), Canada (Central), and US West (N. California) regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8i and C8i-flex instances are available in the Europe (Paris), Canada (Central), and US West (N. California) regions. These instances are powered by custom In",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8i-c8i-flex-instances-europe-paris-canada-central-uswest-ncalifornia-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-11-aws-amazon-rds-for-mariadb-now-supports-community-mari",
-      "date": "2026-02-11",
-      "name": "Amazon RDS for MariaDB now supports community MariaDB minor versions 10.6.25, 10.11.16, 11.4.10, and 11.8.6",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/mariadb/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for MariaDB</a> now supports community MariaDB minor versions 10.6.25, 10.11.16, 11.4.10, and 11.8.6. We re",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-rds-mariadb-community-versions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-11-aws-amazon-documentdb-with-mongodb-compatibility-is-no",
-      "date": "2026-02-11",
-      "name": "Amazon DocumentDB (with MongoDB compatibility) is Now Available in the Asia Pacific (Melbourne) Region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon DocumentDB (with MongoDB compatibility) is now available in the Asia Pacific (Melbourne) region adding to the <a href=\"https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/\">list of ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.comabout-aws/whats-new/2026/02/amazon-documentdb-mongodb-compatibility-asia-pacific-melbourne-region"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-11-aws-amazon-connect-introduces-audio-enhancements-for-n",
-      "date": "2026-02-11",
-      "name": "Amazon Connect introduces audio enhancements for noisy environments",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the release of Audio Enhancement for Amazon Connect, helping improve audio quality and reliability for voice calls in noisy contact center environments. With this launch, you can enable Audio Enha",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-audio-enhancements"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-11-aws-aws-announces-6-new-locations-for-aws-data-transfe",
-      "date": "2026-02-11",
-      "name": "AWS announces 6 new locations for AWS Data Transfer Terminal",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Data Transfer Terminal is now available in six additional locations in Seattle and Phoenix (US), London (UK), Paris (France), Sydney (Australia), and Tokyo (Japan), expanding availability alongside existing locati",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-data-transfer-terminal-6-new-locations/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-11-aws-msk-simplifies-kafka-topic-management-with-new-api",
-      "date": "2026-02-11",
-      "name": "MSK simplifies Kafka topic management with new APIs and console integration",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Managed Streaming for Apache Kafka (Amazon MSK) now offers three new APIs (CreateTopic, UpdateTopic, and DeleteTopic), making it easier to manage your Kafka topics for your MSK provisioned clusters without the ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-msk-kafka-topics-public-apis/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-11-aws-amazon-ec2-r8i-and-r8i-flex-instances-are-now-avai",
-      "date": "2026-02-11",
-      "name": "Amazon EC2 R8i and R8i-flex instances are now available in additional AWS regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8i and R8i-flex instances are available in the Asia Pacific (New Zealand) and Middle East (UAE) regions. These instances are powered by custom Intel Xeon 6 pr",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-r8i-r8i-flex-instances-AKL-DXB-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-11-aws-amazon-bedrock-agentcore-browser-now-supports-prox",
-      "date": "2026-02-11",
-      "name": "Amazon Bedrock AgentCore Browser now supports proxy configuration",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Bedrock AgentCore Browser now supports customer-provided proxy configuration, enabling customers to route browser sessions through their own proxy infrastructure for geo-targeting, regional content access, and ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/bedrock-agentcore-browser-proxy"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-10-langchain-langgraph-the-two-patterns-by-which-agents-connect-sandboxes",
-      "date": "2026-02-10",
-      "name": "The two patterns by which agents connect sandboxes",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "<p><em>Thank you to Nuno Campos from Witan Labs, Tomas Beran and Mikayel Harutyunyan from E2B, Jonathan Wall from Runloop, and Ben Guo from Zo Computer for their review and comments.</em></p><p><strong>TL;DR:</strong></p",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/the-two-patterns-by-which-agents-connect-sandboxes/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-02-10-langchain-langgraph-langsmith-is-now-available-in-google-cloud-marketp",
-      "date": "2026-02-10",
-      "name": "LangSmith is Now Available in Google Cloud Marketplace",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "<p>Today, we&apos;re thrilled to announce that LangSmith, the agent engineering platform from LangChain, is available in Google Cloud Marketplace. Google Cloud customers can now procure LangSmith through their existing G",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/langsmith-is-now-available-in-google-cloud-marketplace/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
       "tags": []
     }
   ]
