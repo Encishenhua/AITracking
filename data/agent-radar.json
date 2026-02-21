@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "2026-02-20-aws-amazon-rds-for-oracle-now-supports-january-2026-re",
+      "date": "2026-02-20",
+      "name": "Amazon RDS for Oracle now supports January 2026 Release Update and Spatial Patch Bundle",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/oracle/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for Oracle</a> now supports the <a href=\"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixDB\" ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-rd-for-oracle-jan-release-update-spatial-patch-bundle/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-02-19-aws-aws-iam-identity-center-is-now-available-in-the-as",
       "date": "2026-02-19",
       "name": "AWS IAM Identity Center is now available in the Asia Pacific (New Zealand) AWS Region",
@@ -1055,24 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-msk-express-brokers-support-broker-logs"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-11-aws-aws-lake-formation-enhances-cross-account-sharing",
-      "date": "2026-02-11",
-      "name": "AWS Lake Formation enhances cross-account sharing",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Lake Formation now enhances cross-account sharing, allowing you to share hundreds of thousands of tables across accounts. You can centralize permissions in Lake Formation for resources such as catalogs, databases,",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-lake-formation-cross-account-sharing"
         }
       ],
       "impact": 5,
