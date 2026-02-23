@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "2026-02-22-langchain-langgraph-how-we-built-agent-builder-s-memory-system",
+      "date": "2026-02-22",
+      "name": "How we built Agent Builder’s memory system",
+      "vendor": "LangChain/LangGraph",
+      "type": "upgrade",
+      "summary": "A key part of Agent Builder is its memory system. In this article we cover our rationale for prioritizing a memory system, technical details of how we built it, learnings from building the memory system, what the memory ",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/how-we-built-agent-builders-memory-system/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-02-22-langchain-langgraph-agent-observability-powers-agent-evaluation",
+      "date": "2026-02-22",
+      "name": "Agent Observability Powers Agent Evaluation",
+      "vendor": "LangChain/LangGraph",
+      "type": "upgrade",
+      "summary": "You can't build reliable agents without understanding how they reason, and you can't validate improvements without systematic evaluation.",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/agent-observability-powers-agent-evaluation/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-02-20-aws-amazon-rds-for-oracle-now-supports-january-2026-re",
       "date": "2026-02-20",
       "name": "Amazon RDS for Oracle now supports January 2026 Release Update and Spatial Patch Bundle",
@@ -335,6 +371,24 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-certificate-manager-updates-default/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-18-openai-introducing-evmbench",
+      "date": "2026-02-18",
+      "name": "Introducing EVMbench",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "OpenAI and Paradigm introduce EVMbench, a benchmark evaluating AI agents’ ability to detect, patch, and exploit high-severity smart contract vulnerabilities.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/introducing-evmbench"
         }
       ],
       "impact": 5,
@@ -1019,60 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-omnichannel-acw-timeouts"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-11-aws-amazon-connect-launches-auto-accept-for-tasks-chat",
-      "date": "2026-02-11",
-      "name": "Amazon Connect launches auto-accept for tasks, chats, and emails",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect now supports the ability to configure agents with auto-accept settings for chat, tasks, emails, and callbacks. When auto-accept is enabled, incoming contacts are automatically connected to available age",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-omnichannel-auto-accept"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-11-aws-amazon-aurora-dsql-is-now-available-in-additional-",
-      "date": "2026-02-11",
-      "name": "Amazon Aurora DSQL is now available in additional AWS Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Aurora DSQL is now available with single-Region clusters in Asia Pacific (Melbourne), Asia Pacific (Sydney), Canada (Central), and Canada West (Calgary). Aurora DSQL is the fastest serverless, distributed SQL d",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-aurora-dsql-additional-aws-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-11-aws-amazon-msk-now-supports-broker-logs-on-express-bro",
-      "date": "2026-02-11",
-      "name": "Amazon MSK now supports broker logs on Express Brokers",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p><a href=\"https://aws.amazon.com/msk/\">Amazon Managed Streaming for Apache Kafka (MSK)</a> now supports broker logs for <a href=\"https://aws.amazon.com/msk/features/express-brokers-for-amazon-msk/\">Express brokers</a> ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-msk-express-brokers-support-broker-logs"
         }
       ],
       "impact": 5,
