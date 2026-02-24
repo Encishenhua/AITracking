@@ -1,6 +1,132 @@
 {
   "items": [
     {
+      "id": "2026-02-23-openai-openai-announces-frontier-alliance-partners",
+      "date": "2026-02-23",
+      "name": "OpenAI announces Frontier Alliance Partners",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/frontier-alliance-partners"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-23-aws-aws-trusted-advisor-now-delivers-more-accurate-unu",
+      "date": "2026-02-23",
+      "name": "AWS Trusted Advisor now delivers more accurate unused NAT Gateway checks powered by AWS Compute Optimizer",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Trusted Advisor has enhanced its detection of unused NAT Gateway checks powered by AWS Compute Optimizer detection capabilities. The enhanced detection analyzes additional CloudWatch metrics over a 32-day lookback",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/trusted-advisor-unused-nat-gateway-check/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-23-aws-amazon-announces-generative-ai-based-artifacts-in-",
+      "date": "2026-02-23",
+      "name": "Amazon announces generative AI-based artifacts in Amazon Q Developer for visualizing resource and cost data",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the general availability of Amazon Q Developer artifacts in the AWS Management Console. Amazon Q artifacts is a generative AI-based user experience that enables customers to visualize resource dat",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/generative-ai-based-Amazon-Q-artifacts/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-23-aws-aws-iam-policy-autopilot-is-now-available-as-a-kir",
+      "date": "2026-02-23",
+      "name": "AWS IAM Policy Autopilot is now available as a Kiro Power",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS IAM Policy Autopilot, the open source static code analysis tool launched at re:Invent 2025, is now available as a Kiro power to bring policy expertise to agentic AI development. This tool helps developers quickly ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-iam-policy-autopilot-kiro-power/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-23-aws-amazon-redshift-serverless-introduces-3-year-serve",
+      "date": "2026-02-23",
+      "name": "Amazon Redshift Serverless introduces 3-year Serverless Reservations",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Redshift now offers 3-year Serverless Reservations for Amazon Redshift Serverless, a new discounted pricing option that provides up to 45% savings and improved cost predictability for your analytics workloads. ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-redshift-serverless-three-year-reservations/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-23-aws-amazon-s3-tables-are-now-available-in-aws-govcloud",
+      "date": "2026-02-23",
+      "name": "Amazon S3 Tables are now available in AWS GovCloud (US) Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon S3 Tables are now available in AWS GovCloud (US-East) and AWS GovCloud (US-West).<br /> <br /> Amazon S3 Tables deliver the first cloud object store with built-in Apache Iceberg support, offering optimized tabu",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-s3-tables-aws-govcloud-us/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-23-dust-spa-poke-986afad-llm-router-enable-opus-4-6-in-the",
+      "date": "2026-02-23",
+      "name": "spa/poke/986afad: [LLM-ROUTER] Enable opus 4.6 in the AB for Dust (#22124)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>feat: enable opus in AB for Dust</p>\n</li>\n<li>\n<p>feat: update opus 4 desc for the few workspaces that have it</p>\n</li>\n</ul>\n<hr />\n<p>Co-authored-by: Pierre Milliotte <a href=\"mailto:pierre@dust.tt\">pier",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F986afad"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-02-22-langchain-langgraph-how-we-built-agent-builder-s-memory-system",
       "date": "2026-02-22",
       "name": "How we built Agent Builder’s memory system",
@@ -947,132 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-s3-access-grants-are-available-in-taipei"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-12-aws-amazon-bedrock-expands-support-for-aws-privatelink",
-      "date": "2026-02-12",
-      "name": "Amazon Bedrock expands support for AWS PrivateLink",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock is a fully managed service that provides secure, enterprise-grade access to high-performing foundation models from leading AI companies. It enables you to build and scale generative AI applications. Ama",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-bedrock-expands-aws-privatelink-support-openai-api-endpoints/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-12-aws-aws-expands-resource-control-policies-support-to-a",
-      "date": "2026-02-12",
-      "name": "AWS expands Resource Control Policies support to Amazon DynamoDB",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Resource Control Policies (RCPs)&nbsp;now&nbsp;support&nbsp;<a href=\"https://aws.amazon.com/dynamodb/?trk=292f3097-d805-46ec-9150-f185787f6c21&amp;trk=292f3097-d805-46ec-9150-f185787f6c21&amp;sc_channel=ps&amp;sc_",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-expands-resource-control-policies-amazon"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-12-aws-amazon-connect-launches-granular-access-controls-f",
-      "date": "2026-02-12",
-      "name": "Amazon Connect  launches granular access controls for analytics dashboards",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect dashboards now provides granular access controls for analytics dashboards. This enables you to apply resource tags that control who is able to see metrics for specific resources such as agents, queues, ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-launches-granular-access"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-12-aws-amazon-ec2-x8i-instances-are-now-available-in-euro",
-      "date": "2026-02-12",
-      "name": "Amazon EC2 X8i instances are now available in Europe (Stockholm)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Web Services (AWS) is announcing the general availability of Amazon EC2 X8i instances, next-generation memory optimized instances powered by custom Intel Xeon 6 processors available only on AWS. X8i instances a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-ARN-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-11-openai-harness-engineering-leveraging-codex-in-an-agent-f",
-      "date": "2026-02-11",
-      "name": "Harness engineering: leveraging Codex in an agent-first world",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "By Ryan Lopopolo, Member of the Technical Staff",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/harness-engineering"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-11-aws-aws-payment-cryptography-achieves-cartes-bancaires",
-      "date": "2026-02-11",
-      "name": "AWS Payment Cryptography Achieves Cartes Bancaires Approval",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, <a href=\"https://aws.amazon.com/payment-cryptography/\">AWS Payment Cryptography</a> has become one of the first cloud-based payment cryptography services to obtain approval from <a href=\"https://www.cartes-banc",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/payment-cryptography-cartes-bancaires"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-11-aws-amazon-connect-launches-after-contact-work-timeout",
-      "date": "2026-02-11",
-      "name": "Amazon Connect launches after contact work timeout configuration for tasks, chats, and emails",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect now supports the ability to configure agents with after contact work timeout settings for chat, tasks, emails, and callbacks. After contact work timeouts improve agent efficiency by time-boxing the amou",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-omnichannel-acw-timeouts"
         }
       ],
       "impact": 5,
