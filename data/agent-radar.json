@@ -1,6 +1,222 @@
 {
   "items": [
     {
+      "id": "2026-02-24-aws-amazon-bedrock-now-supports-server-side-tool-execu",
+      "date": "2026-02-24",
+      "name": "Amazon Bedrock now supports server-side tool execution with AgentCore Gateway",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock now enables server-side tool execution through Amazon Bedrock AgentCore Gateway integration with the Responses API. Customers can connect their AgentCore Gateway tools to Amazon Bedrock models, enabling",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-bedrock-server-side-tool-execution-agentcore-gateway/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-24-aws-aws-compute-optimizer-now-applies-aws-generated-ta",
+      "date": "2026-02-24",
+      "name": "AWS Compute Optimizer now applies AWS-generated tags to EBS snapshots created during automation",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS Compute Optimizer makes it easier to identify snapshots that are created when snapshotting and deleting unattached Amazon Elastic Block Store (EBS) volumes by automatically applying an AWS-generated tag during cre",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-compute-optimizer-applies-tags-ebs-snapshots/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-24-aws-aws-observability-now-available-as-a-kiro-power",
+      "date": "2026-02-24",
+      "name": "AWS Observability now available as a Kiro power",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces AWS Observability as a Kiro power, enabling developers and operators to investigate infrastructure and application health issues faster with AI agent-assisted workflows in Kiro. Kiro Powers is a r",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-observability-kiro-power/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-24-aws-announcing-aws-elemental-inference",
+      "date": "2026-02-24",
+      "name": "Announcing AWS Elemental Inference",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Elemental Inference, a&nbsp;fully managed Artificial Intelligence (AI) service&nbsp;that&nbsp;enables broadcasters and streamers to&nbsp;automatically&nbsp;generate&nbsp;vertical content and highlight clips for mo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-elemental-inference-generally-avail/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-24-aws-aws-deadline-cloud-now-supports-running-tasks-toge",
+      "date": "2026-02-24",
+      "name": "AWS Deadline Cloud now supports running tasks together in chunks",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS Deadline Cloud announces support for grouping tasks into chunks to efficiently execute multiple tasks together. AWS Deadline Cloud is a fully managed service that simplifies render management for computer-g",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-deadline-cloud-running-tasks-together-in/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-24-aws-amazon-ec2-c8i-and-c8i-flex-instances-are-now-avai",
+      "date": "2026-02-24",
+      "name": "Amazon EC2 C8i and C8i-flex instances are now available in Asia Pacific (Malaysia) and South America (Sao Paulo) regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8i and C8i-flex instances are available in the Asia Pacific (Malaysia) and South America (Sao Paulo) regions. These instances are powered by custom Intel Xeon",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8i-c8i-flex-instances-asia-pacific-malaysia-south-america-sao--paulo-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-24-aws-aws-appconfig-integrates-with-new-relic-for-automa",
+      "date": "2026-02-24",
+      "name": "AWS AppConfig integrates with New Relic for automated rollbacks",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS AppConfig today launched a new integration that enables automated, intelligent rollbacks during feature flag and dynamic configuration deployments using <a></a><a href=\"https://docs.newrelic.com/docs/workflow-auto",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-appconfig-new-relic-for-automated-rollback/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-24-aws-amazon-ec2-m8a-instances-now-available-in-aws-euro",
+      "date": "2026-02-24",
+      "name": "Amazon EC2 M8a instances now available in AWS Europe (Frankfurt) region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, the general-purpose Amazon EC2 M8a instances are available in AWS Europe (Frankfurt) region. M8a instances are powered by 5th Gen AMD EPYC processors (formerly code named Turin) with a maximum frequenc",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m8a-instances-europe-frankfurt/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-24-aws-amazon-ec2-i7ie-instances-now-available-in-aws-afr",
+      "date": "2026-02-24",
+      "name": "Amazon EC2 I7ie instances now available in AWS Africa (Cape Town) region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS is announcing Amazon EC2 I7ie instances are now available in AWS Africa (Cape Town) region. Designed for large storage I/O intensive workloads, I7ie instances are powered by 5th Gen Intel Xeon Processors with an a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec-i-ie-instances-available-aws-africa/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-24-aws-amazon-eks-node-monitoring-agent-is-now-open-sourc",
+      "date": "2026-02-24",
+      "name": "Amazon EKS Node Monitoring Agent is now open source",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Elastic Kubernetes Service (Amazon EKS) Node Monitoring Agent is now open source. You can access the Amazon EKS Node Monitoring Agent source code and contribute to its development on <a href=\"https://github.com",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-eks-node-monitoring-agent-open-source/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-24-dust-spa-poke-9702377",
+      "date": "2026-02-24",
+      "name": "spa/poke/9702377",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>[Conversation Guardrails] Mitigation 2: ignore Enter autorepeat and a…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9702377"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-24-dust-spa-poke-578aa3d",
+      "date": "2026-02-24",
+      "name": "spa/poke/578aa3d",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[Front] refactor(copilot): improve template agent init prompt (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/22157\">#22157</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F578aa3d"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-02-23-openai-openai-announces-frontier-alliance-partners",
       "date": "2026-02-23",
       "name": "OpenAI announces Frontier Alliance Partners",
@@ -122,6 +338,24 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-23-aws-automated-reasoning-policies-now-include-reference",
+      "date": "2026-02-23",
+      "name": "Automated Reasoning policies now include references to the source document",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS announces the launch of source document references for Automated Reasoning policies, simplifying the task of reviewing and refining an Automated Reasoning policy. Automated Reasoning checks uses formal verificatio",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/automated-reasoning-policies-include-references/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -340,6 +574,24 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-02-19-aws-amazon-ec2-m7i-instances-are-now-available-in-the-",
+      "date": "2026-02-19",
+      "name": "Amazon EC2 M7i instances are now available in the Africa (Cape Town) Region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M7i instances powered by custom 4th Gen Intel Xeon Scalable processors (code-named Sapphire Rapids) are available in the Africa (Cape Town) region. These custo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m7i-africa-cape-town-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
       "tags": []
     },
     {
@@ -821,258 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-batch-provides-job-queue-share-utilization"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-13-aws-amazon-connect-launches-in-app-notifications-to-su",
-      "date": "2026-02-13",
-      "name": "Amazon Connect launches in-app notifications to surface critical operational alerts to business users",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect now supports in-app notifications in the workspace header, visible from any page, so your team can stay informed without interrupting their workflow— whether configuring, analyzing data, or servicing cu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-in-app-notifications"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-13-aws-amazon-connect-now-provides-real-time-ai-powered-o",
-      "date": "2026-02-13",
-      "name": "Amazon Connect now provides real time AI-powered overviews and recommended next actions for Tasks",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Connect now provides AI-powered Task overviews with suggested next actions so agents can understand work items faster and resolve them more quickly. For example, when an agent receives a Task to process a refun",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/connect-tasks-ai-assistance"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-13-aws-amazon-aurora-dsql-adds-support-for-identity-colum",
-      "date": "2026-02-13",
-      "name": "Amazon Aurora DSQL adds support for identity columns and sequence objects",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/aurora/dsql/\">Amazon Aurora DSQL</a> now supports&nbsp;identity columns and&nbsp;sequence objects enabling developers to generate auto-incrementing, integer-based IDs directly in th",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-aurora-dsql-adds-identity-columns-sequence/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-13-aws-amazon-ec2-high-memory-u7i-instances-now-available",
-      "date": "2026-02-13",
-      "name": "Amazon EC2 High Memory U7i instances now available in additional regions",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon EC2 High Memory instances are now available in new regions - U7i-6tb.112xlarge instances in AWS South America (Sao Paulo) and Europe (Milan), U7i-12tb.224xlarge in AWS GovCloud (US-East), and U7in-16tb.224xlarg",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-highmem-instances-available/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-12-openai-some-users-may-experience-issues-starting-conversa",
-      "date": "2026-02-12",
-      "name": "Some users may experience issues starting conversations in ChatGPT",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Investigating</b><br /><br />We are still investigating the issue for the listed services.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Conversations (Degraded performance)</li>\n         ",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KH6RJWMT97BTHSBKA6M8Q0RY"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-12-aws-amazon-bedrock-increases-default-quotas-for-anthro",
-      "date": "2026-02-12",
-      "name": "Amazon Bedrock increases default quotas for Anthropic’s Claude Sonnet 4.5 model in AWS GovCloud (US)",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Bedrock has increased the default quotas for Anthropic’s Claude Sonnet 4.5 in AWS GovCloud (US-West) and AWS GovCloud (US-East) to 5,000,000 tokens per minute and 1,000 requests per minute, aligning with commer",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.comabout-aws/whats-new/2026/02/amazon-bedrock-increases-default-sonnet-4.5-quotas-aws-govcloud-us"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-12-aws-ai-troubleshooting-in-the-aws-support-center-conso",
-      "date": "2026-02-12",
-      "name": "AI Troubleshooting in the AWS Support Center Console now supports 7 additional languages",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AI troubleshooting in the AWS Support Center Console is now available in seven languages in addition to English: Japanese, Korean, Mandarin (Simplified), Mandarin (Traditional), Spanish, Portuguese, French. AWS Suppor",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/ai-troubleshooting-in-aws-support-center/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-12-aws-amazon-rds-for-postgresql-supports-minor-versions-",
-      "date": "2026-02-12",
-      "name": "Amazon RDS for PostgreSQL supports minor versions  18.2, 17.8, 16.12, 15.16 and 14.21",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/postgresql/\" target=\"_blank\">Amazon Relational Database Service (RDS)</a> for PostgreSQL now supports the latest minor versions 18.2, 17.8, 16.12, 15.16, and 14.21. We recommend tha",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/rds-minor-version-18-2-17-8-16-12-15-16-14-21"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-12-aws-announcing-new-amazon-ec2-general-purpose-m8azn-in",
-      "date": "2026-02-12",
-      "name": "Announcing new Amazon EC2 general purpose M8azn instances",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS is announcing the general availability of new Amazon EC2 M8azn instances, general purpose high-frequency high-network instances powered by fifth generation AMD EPYC (formerly code named Turin) processors, offering",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-m8azn-instances-generally-available"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-12-aws-aws-backup-adds-cross-region-database-snapshot-cop",
-      "date": "2026-02-12",
-      "name": "AWS Backup adds cross-Region database snapshot copy to logically air-gapped vaults",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Backup now supports single-action database snapshot copies to logically air-gapped vaults across AWS Regions. This capability is available for Amazon Aurora, Amazon Neptune, and Amazon DocumentDB snapshots, elimin",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-backup-adds-cross-region-database-snapshot-logically-air-gapped-vaults/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-12-langchain-langgraph-join-us-for-interrupt-the-agent-conference",
-      "date": "2026-02-12",
-      "name": "Join us for Interrupt: The Agent Conference",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "<p>Interrupt - The Agent Conference by LangChain - is where builders come to learn what&apos;s actually working in production. This year, we&apos;re bringing together more than 1,000 developers, product leaders, research",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/join-us-for-interrupt-the-agent-conference/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-02-12-aws-announcing-amazon-ec2-c8i-m8i-and-r8i-instances-on",
-      "date": "2026-02-12",
-      "name": "Announcing Amazon EC2 C8i, M8i, and R8i instances on second-generation AWS Outposts racks",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS is announcing local support for the latest generation of x86-powered Amazon EC2 instances on second-generation AWS Outposts racks, including C8i compute-optimized instances, M8i general-purpose instances, and R8i ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8i-m8i-and-r8i-instances-on-aws-outposts/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-12-aws-amazon-bedrock-adds-support-for-the-latest-open-we",
-      "date": "2026-02-12",
-      "name": "Amazon Bedrock adds support for the latest open-weight models in Asia Pacific (Sydney)",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Bedrock is a fully managed service that provides secure, enterprise-grade access to high-performing foundation models from leading AI companies, enabling you to build and scale generative AI applications. Today",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-bedrock-support-latest-open-weight-models-asia-pacific-sydney/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-12-aws-amazon-s3-access-grants-are-now-available-in-the-a",
-      "date": "2026-02-12",
-      "name": "Amazon S3 Access Grants are now available in the AWS Asia Pacific (Taipei) Region",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>You can now create Amazon S3 Access Grants in the AWS Asia Pacific (Taipei) Region.</p> \n<p>Amazon S3 Access Grants map identities in directories such as Microsoft Entra ID, or AWS Identity and Access Management (IAM)",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-s3-access-grants-are-available-in-taipei"
         }
       ],
       "impact": 5,
