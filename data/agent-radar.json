@@ -1,6 +1,258 @@
 {
   "items": [
     {
+      "id": "2026-02-27-crewai-1-10-0",
+      "date": "2026-02-27",
+      "name": "1.10.0",
+      "vendor": "CrewAI",
+      "type": "pricing",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Enhance MCP tool resolution and related events</li>\n<li>Update lancedb version and add lance-namespace packages</li>\n<li>Enhance JSON argument parsing and validation in ",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.10.0"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-02-26-openai-pacific-northwest-national-laboratory-and-openai-p",
+      "date": "2026-02-26",
+      "name": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/pacific-northwest-national-laboratory"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-26-aws-aws-marketplace-now-supports-multiple-purchases-of",
+      "date": "2026-02-26",
+      "name": "AWS Marketplace now supports multiple purchases of SaaS and Professional Services products",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Marketplace now supports Concurrent Agreements for SaaS and Professional Services products, enabling buyers to make multiple purchases for the same product within a single AWS account. Previously, buyers could onl",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/concurrent-agreements-february/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-26-aws-amazon-connect-now-supports-dynamic-dialing-mode-s",
+      "date": "2026-02-26",
+      "name": "Amazon Connect now supports dynamic dialing mode switching for outbound campaigns",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the general availability of dynamic dialing mode switching for Amazon Connect Outbound Campaigns, which allows contact center administrators to change between preview and non-preview dialing modes",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/connect-dynamic-dialing-modes/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-26-aws-amazon-cloudwatch-now-provides-lock-contention-dia",
+      "date": "2026-02-26",
+      "name": "Amazon CloudWatch now provides lock contention diagnostics for Amazon RDS for PostgreSQL",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon CloudWatch Database Insights now provides lock contention diagnostics for Amazon RDS for PostgreSQL instances. This feature helps you identify the root cause behind both ongoing and historical lock contention i",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-cloudwatch-lock-contention-diagnostics-rds-postgresql/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-26-aws-aws-security-hub-launches-extended-plan-for-pay-as",
+      "date": "2026-02-26",
+      "name": "AWS Security Hub launches Extended plan for pay-as-you-go partner solutions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, we're announcing the general availability of AWS Security Hub Extended, a new plan that extends unified security operations across your enterprise through a single-vendor experience. This plan helps address the",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/sec-hub-extended/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-26-aws-amazon-cognito-enhances-client-secret-management-w",
+      "date": "2026-02-26",
+      "name": "Amazon Cognito enhances client secret management with secret rotation and custom secrets",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Cognito enhances client secret lifecycle management for app clients of Cognito user pools by adding client secret rotation and support for custom client secrets. Cognito helps you implement secure sign-in and a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-cognito-client-secret-lifecycle/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-26-aws-amazon-ec2-m8i-and-m8i-flex-instances-are-availabl",
+      "date": "2026-02-26",
+      "name": "Amazon EC2 M8i and M8i-flex instances are available in additional regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon EC2 M8i and M8i-flex instances are now available in US West (N. California), Europe (Paris), Asia Pacific (Hyderabad), and South America (Sao Paulo) regions. These instances are powered by custo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m8i-m8i-flex-instances-additional-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-26-aws-introducing-amazon-ec2-i8g-metal-48xl-instances",
+      "date": "2026-02-26",
+      "name": "Introducing Amazon EC2 I8g.metal-48xl instances",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS is announcing the general availability of Amazon EC2 Storage Optimized I8g.metal-48xl instances. I8g instances are powered by AWS Graviton4 processors that deliver up to 60% better compute performance compared to ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/ec2-i8g-metal-48xl-generally-available/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-26-aws-aws-lambda-durable-execution-sdk-for-java-now-avai",
+      "date": "2026-02-26",
+      "name": "AWS Lambda Durable Execution SDK for Java now available in Developer Preview",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS announces the developer preview of the AWS Lambda Durable Execution SDK for Java. With this SDK, developers can build resilient multi-step applications like order processing pipelines, AI-assisted workflows",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/lambda-durable-execution-java-preview/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-26-langchain-langgraph-you-don-t-know-what-your-agent-will-do-until-it-s-",
+      "date": "2026-02-26",
+      "name": "You don’t know what your agent will do until it’s in production",
+      "vendor": "LangChain/LangGraph",
+      "type": "upgrade",
+      "summary": "You can't monitor agents like traditional software. Inputs are infinite, behavior is non-deterministic, and quality lives in the conversations themselves. This article explains what to monitor, how to scale evaluation, a",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/you-dont-know-what-your-agent-will-do-until-its-in-production/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-02-26-dust-spa-poke-9ea4b38",
+      "date": "2026-02-26",
+      "name": "spa/poke/9ea4b38",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>fix(mcp): route SSE connections through correct proxy for static IP e…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9ea4b38"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-26-dust-spa-poke-7ca4a2d",
+      "date": "2026-02-26",
+      "name": "spa/poke/7ca4a2d",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>copilot: Allow filtering by agent name prefix in get_available_agents…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F7ca4a2d"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-26-dust-spa-poke-0a9dcef",
+      "date": "2026-02-26",
+      "name": "spa/poke/0a9dcef",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Add attachment action to copilot; remove turn into agent (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/22299\">#22299</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F0a9dcef"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-02-25-openai-artifact-generation-asking-the-model-to-generate-a",
       "date": "2026-02-25",
       "name": "Artifact generation (asking the model to generate a spreadsheet or slideshow) on ChatGPT is down for all users.",
@@ -824,258 +1076,6 @@
         }
       ],
       "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-19-crewai-1-10-0a1",
-      "date": "2026-02-19",
-      "name": "1.10.0a1",
-      "vendor": "CrewAI",
-      "type": "pricing",
-      "summary": "<h2>What's Changed</h2>\n<ul>\n<li>declare <code>stagehand</code> package as dep for StagehandTool by <a class=\"user-mention notranslate\" href=\"https://github.com/thiagomoretto\">@thiagomoretto</a> in <a class=\"issue-link j",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.10.0a1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-02-19-aws-amazon-ec2-m7i-instances-are-now-available-in-the-",
-      "date": "2026-02-19",
-      "name": "Amazon EC2 M7i instances are now available in the Africa (Cape Town) Region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M7i instances powered by custom 4th Gen Intel Xeon Scalable processors (code-named Sapphire Rapids) are available in the Africa (Cape Town) region. These custo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m7i-africa-cape-town-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-18-aws-amazon-aurora-dsql-now-integrates-with-kiro-powers",
-      "date": "2026-02-18",
-      "name": "Amazon Aurora DSQL now integrates with Kiro powers and AI agent skills",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces Amazon Aurora DSQL integration with Kiro powers and AI agent skills, enabling developers to build Aurora DSQL-backed applications faster with AI agent-assisted development. These integrations bund",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-aurora-dsql-integrates-with-kiro-powers-and-agent-skills"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-18-aws-amazon-connect-cases-now-supports-aws-service-quot",
-      "date": "2026-02-18",
-      "name": "Amazon Connect Cases now supports AWS Service Quotas",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect Cases now supports AWS Service Quotas, giving administrators a centralized way to view applied limits, monitor utilization, and scale case workloads without hitting unexpected service constraints. You c",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-cases-aws-service-quotas"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-18-aws-amazon-managed-grafana-now-supports-aws-kms-custom",
-      "date": "2026-02-18",
-      "name": "Amazon Managed Grafana now supports AWS KMS customer managed keys",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Managed Grafana now supports customer-managed keys (CMK) through AWS Key Management Service (KMS), enabling you to encrypt data stored in&nbsp;in your Amazon Managed Grafana workspaces with your own encryption ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-managed-grafana-customer-managed-keys"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-18-aws-aws-clean-rooms-announces-support-for-remote-apach",
-      "date": "2026-02-18",
-      "name": "AWS Clean Rooms announces support for remote Apache Iceberg REST catalogs",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Clean Rooms now supports catalog federation for<a href=\"https://docs.aws.amazon.com/clean-rooms/latest/userguide/create-config-table-athena.html\"> remote Iceberg catalogs</a>. This capability simplifies clean room",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-clean-rooms-remote-iceberg-catalogs"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-18-aws-amazon-opensearch-service-expands-support-for-grav",
-      "date": "2026-02-18",
-      "name": "Amazon OpenSearch Service expands support for Graviton4 (c8g,m8g & r8g ) instances",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon OpenSearch Service expands support for the latest generation Graviton4-based Amazon EC2 instance families. These new instance types are compute optimized (c8g), general purpose (m8g), and memory optimized (r8g,",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-opensearch-service-expands-support-graviton4-based-instances"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-18-aws-amazon-opensearch-service-now-supports-storage-opt",
-      "date": "2026-02-18",
-      "name": "Amazon OpenSearch Service now supports storage optimized  i7i  instances",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon OpenSearch Service now supports latest generation x86 based high performance Storage Optimized i7i instances. Powered by 5th generation Intel Xeon Scalable processors, I7i instances deliver up to 23% better com",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-opensearch-service-supports-i7i-instances"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-18-langchain-langgraph-new-in-agent-builder-all-new-agent-chat-file-uploa",
-      "date": "2026-02-18",
-      "name": "New in Agent Builder: all new agent chat, file uploads + tool registry",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "<p>Today, we&apos;re expanding what you can do with <a href=\"https://www.langchain.com/langsmith/agent-builder?ref=blog.langchain.com\">LangSmith Agent Builder</a>. It&#x2019;s an big update built around a simple idea: wo",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/new-in-agent-builder-all-new-agent-chat-file-uploads-tool-registry/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-02-18-langchain-langgraph-monday-service-langsmith-building-a-code-first-eva",
-      "date": "2026-02-18",
-      "name": "monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "Learn how monday Service developed an eval-driven development framework for their customer-facing service agents.",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/customers-monday/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-02-18-aws-aws-certificate-manager-updates-default-certificat",
-      "date": "2026-02-18",
-      "name": "AWS Certificate Manager updates default certificate validity to comply with new guidelines",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, public certificates issued from AWS Certificate Manager (ACM) have a maximum validity period of 198 days, compared to previous validity period of 395 days. With this change, ACM-issued public certifica",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-certificate-manager-updates-default/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-18-openai-introducing-evmbench",
-      "date": "2026-02-18",
-      "name": "Introducing EVMbench",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "OpenAI and Paradigm introduce EVMbench, a benchmark evaluating AI agents’ ability to detect, patch, and exploit high-severity smart contract vulnerabilities.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/introducing-evmbench"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-17-aws-amazon-bedrock-reinforcement-fine-tuning-adds-supp",
-      "date": "2026-02-17",
-      "name": "Amazon Bedrock reinforcement fine-tuning adds support for open-weight models with OpenAI-compatible APIs",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock now extends reinforcement fine-tuning (RFT) support to popular open-weight models, including OpenAI GPT-OSS and Qwen models, and introduces OpenAI-compatible fine-tuning APIs. These capabilities make it",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-bedrock-reinforcement-fine-tuning-openai"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-17-aws-amazon-connect-now-includes-agent-time-off-request",
-      "date": "2026-02-17",
-      "name": "Amazon Connect now includes agent time-off requests in draft schedules",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect now includes agent time-off requests in draft schedules, making it easier for you to view why an agent was not scheduled on a particular day or part of the day. For example, when generating schedules fo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-time-off-draft-schedules"
-        }
-      ],
-      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
