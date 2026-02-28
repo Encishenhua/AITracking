@@ -19,6 +19,258 @@
       "tags": []
     },
     {
+      "id": "2026-02-27-openai-introducing-the-stateful-runtime-environment-for-a",
+      "date": "2026-02-27",
+      "name": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-27-openai-openai-and-amazon-announce-strategic-partnership",
+      "date": "2026-02-27",
+      "name": "OpenAI and Amazon announce strategic partnership",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/amazon-partnership"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-27-openai-an-update-on-our-mental-health-related-work",
+      "date": "2026-02-27",
+      "name": "An update on our mental health-related work",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "OpenAI shares updates on its mental health safety work, including parental controls, trusted contacts, improved distress detection, and recent litigation developments.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/update-on-mental-health-related-work"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-27-aws-amazon-lightsail-expands-blueprint-selection-with-",
+      "date": "2026-02-27",
+      "name": "Amazon Lightsail expands blueprint selection with a new WordPress blueprint",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Lightsail now offers a new WordPress blueprint, making it easier than ever to launch and manage a WordPress website on the cloud. With just a few clicks, you can create a Lightsail virtual private server (VPS) ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/wordpress-blueprint-lightsail/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-27-aws-arc-region-switch-adds-three-new-capabilities-post",
+      "date": "2026-02-27",
+      "name": "ARC Region switch adds three new capabilities: post-recovery workflows, RDS orchestration and AWS provider support for Terraform",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Application Recovery Controller (ARC) Region switch helps customers orchestrate the failover of their multi-Region applications to achieve a bounded recovery time in the event of a Regional impairment. It autom",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/arc-region-switch-post-recovery-rdsblock/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-27-aws-aws-network-firewall-now-supports-firewall-state-c",
+      "date": "2026-02-27",
+      "name": "AWS Network Firewall now supports firewall state change notifications through Amazon EventBridge",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Network Firewall now integrates with Amazon EventBridge to provide real-time notifications for firewall state changes and configuration updates. This new capability enables you to monitor critical firewall operati",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/firewall-state-change-notifications/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-27-aws-amazon-bedrock-batch-inference-now-supports-the-co",
+      "date": "2026-02-27",
+      "name": "Amazon Bedrock batch inference now supports the Converse API format",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Bedrock batch inference now supports the Converse API as a model invocation type, enabling you to use a consistent, model-agnostic input format for your batch workloads.<br /> <br /> Previously, batch inference",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-bedrock-batch-inference-supports-converse-api-format/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-27-aws-amazon-cloudwatch-logs-centralization-rules-now-su",
+      "date": "2026-02-27",
+      "name": "Amazon CloudWatch logs centralization rules now support customizable destination log group structure",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon CloudWatch now supports customizing destination log group names when creating CloudWatch log centralization rules. Organizations managing logs across multiple accounts can now use attributes to organize central",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/cloudwatch-centralization-custom-groups/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-27-aws-aws-resource-access-manager-now-supports-maintaini",
+      "date": "2026-02-27",
+      "name": "AWS Resource Access Manager now supports maintaining shares when accounts change organizations",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Resource Access Manager (RAM) now supports a resource share configuration that allows you to maintain resource sharing continuity when accounts move between AWS Organizations. With the new <i>RetainSharingOnAccoun",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-resource-access-manager/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-27-aws-aws-now-supports-bacs-direct-debit-as-a-payment-me",
+      "date": "2026-02-27",
+      "name": "AWS now supports Bacs Direct Debit as a payment method for UK customers",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, AWS customers based in the United Kingdom can use Bacs Direct Debit to pay for their AWS services. This new feature provides a convenient and automated way to manage your cloud spend directly from your",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/aws-supports-bacs-direct-debit-payment-method/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-27-aws-amazon-opensearch-service-adds-new-insights-for-im",
+      "date": "2026-02-27",
+      "name": "Amazon OpenSearch Service adds new insights for improved cluster stability",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/opensearch-service/\">Amazon OpenSearch Service</a> has enhanced Cluster Insights with two new insights — Cluster Overload and Suboptimal Sharding Strategy. Suboptimal Sharding Strategy ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-opensearch-service-adds-new-insights-improved-cluster-stability/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-27-aws-amazon-rds-for-postgresql-supports-minor-versions-",
+      "date": "2026-02-27",
+      "name": "Amazon RDS for PostgreSQL supports minor versions 18.3, 17.9, 16.13, 15.17, and 14.22",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/postgresql/\" target=\"_blank\">Amazon Relational Database Service (RDS)</a> for PostgreSQL now supports the latest minor versions 18.3, 17.9, 16.13, 15.17, and 14.22. These versions a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/rds-minor-version-18-3-17-9-16-13-15-17-14-22/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-27-dust-spa-poke-9a6095b",
+      "date": "2026-02-27",
+      "name": "spa/poke/9a6095b",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] perf: optimize queries on <code>agent_message_feedbacks</code> (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/22377\">#22377</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9a6095b"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-27-crewai-1-10-1a1",
+      "date": "2026-02-27",
+      "name": "1.10.1a1",
+      "vendor": "CrewAI",
+      "type": "upgrade",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Implement asynchronous invocation support in step callback methods</li>\n<li>Implement lazy loading for heavy dependencies in Memory module</li>\n</ul>\n<h3>Documentation</",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.10.1a1"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-02-26-openai-pacific-northwest-national-laboratory-and-openai-p",
       "date": "2026-02-26",
       "name": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting",
@@ -248,6 +500,24 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-02-26-aws-amazon-bedrock-announces-openai-compatible-project",
+      "date": "2026-02-26",
+      "name": "Amazon Bedrock announces OpenAI-compatible Projects API",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Bedrock now supports OpenAI-compatible Projects API in the Mantle inference engine in Amazon Bedrock. Amazon Bedrock is a fully managed service that offers a broad selection of best-in-class foundation models f",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-projects-api-mantle-inference-engine/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -806,276 +1076,6 @@
         }
       ],
       "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-23-aws-amazon-redshift-serverless-introduces-3-year-serve",
-      "date": "2026-02-23",
-      "name": "Amazon Redshift Serverless introduces 3-year Serverless Reservations",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Redshift now offers 3-year Serverless Reservations for Amazon Redshift Serverless, a new discounted pricing option that provides up to 45% savings and improved cost predictability for your analytics workloads. ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-redshift-serverless-three-year-reservations/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-23-aws-amazon-s3-tables-are-now-available-in-aws-govcloud",
-      "date": "2026-02-23",
-      "name": "Amazon S3 Tables are now available in AWS GovCloud (US) Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon S3 Tables are now available in AWS GovCloud (US-East) and AWS GovCloud (US-West).<br /> <br /> Amazon S3 Tables deliver the first cloud object store with built-in Apache Iceberg support, offering optimized tabu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-s3-tables-aws-govcloud-us/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-23-dust-spa-poke-986afad-llm-router-enable-opus-4-6-in-the",
-      "date": "2026-02-23",
-      "name": "spa/poke/986afad: [LLM-ROUTER] Enable opus 4.6 in the AB for Dust (#22124)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>feat: enable opus in AB for Dust</p>\n</li>\n<li>\n<p>feat: update opus 4 desc for the few workspaces that have it</p>\n</li>\n</ul>\n<hr />\n<p>Co-authored-by: Pierre Milliotte <a href=\"mailto:pierre@dust.tt\">pier",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F986afad"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-23-aws-automated-reasoning-policies-now-include-reference",
-      "date": "2026-02-23",
-      "name": "Automated Reasoning policies now include references to the source document",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS announces the launch of source document references for Automated Reasoning policies, simplifying the task of reviewing and refining an Automated Reasoning policy. Automated Reasoning checks uses formal verificatio",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/automated-reasoning-policies-include-references/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-22-langchain-langgraph-how-we-built-agent-builder-s-memory-system",
-      "date": "2026-02-22",
-      "name": "How we built Agent Builder’s memory system",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "A key part of Agent Builder is its memory system. In this article we cover our rationale for prioritizing a memory system, technical details of how we built it, learnings from building the memory system, what the memory ",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/how-we-built-agent-builders-memory-system/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-02-22-langchain-langgraph-agent-observability-powers-agent-evaluation",
-      "date": "2026-02-22",
-      "name": "Agent Observability Powers Agent Evaluation",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "You can't build reliable agents without understanding how they reason, and you can't validate improvements without systematic evaluation.",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/agent-observability-powers-agent-evaluation/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-02-20-aws-amazon-rds-for-oracle-now-supports-january-2026-re",
-      "date": "2026-02-20",
-      "name": "Amazon RDS for Oracle now supports January 2026 Release Update and Spatial Patch Bundle",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/oracle/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for Oracle</a> now supports the <a href=\"https://www.oracle.com/security-alerts/cpujan2026.html#AppendixDB\" ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-rd-for-oracle-jan-release-update-spatial-patch-bundle/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-19-aws-aws-iam-identity-center-is-now-available-in-the-as",
-      "date": "2026-02-19",
-      "name": "AWS IAM Identity Center is now available in the Asia Pacific (New Zealand) AWS Region",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>You can now deploy AWS IAM Identity Center in 38 AWS Regions, including Asia Pacific (New Zealand).<br /> <br /> IAM Identity Center is the recommended service for managing workforce access to AWS applications. It ena",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-iam-identity-center-asia-pacific-new-zealand-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-19-aws-amazon-ec2-g7e-instances-now-available-in-asia-pac",
-      "date": "2026-02-19",
-      "name": "Amazon EC2 G7e instances now available in Asia Pacific (Tokyo) region",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Starting today, Amazon EC2 G7e instances accelerated by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs are now available in &nbsp;Asia Pacific (Tokyo) region. G7e instances offer up to 2.3x inference performance co",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-g7e-instances-tokyo-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-19-aws-amazon-ec2-m8i-flex-instances-are-now-available-in",
-      "date": "2026-02-19",
-      "name": "Amazon EC2 M8i-flex instances are now available in additional AWS regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon EC2 M8i-flex instances are now available in Asia Pacific (Malaysia, Seoul, Singapore, Tokyo), Europe (Frankfurt) and Canada (Central) regions. These instances are powered by custom Intel Xeon 6 ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m8i-flex-instances-FRA-ICN-KUL-NRT-SIN-YUL-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-19-langchain-langgraph-how-to-use-memory-in-agent-builder",
-      "date": "2026-02-19",
-      "name": "How to Use Memory in Agent Builder",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "<p><em>By Jacob Talbot</em></p><p>Agent Builder gets better the more you use it because it remembers your feedback. Every correction you make, preference you share, and approach that works well is something that your age",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/how-to-use-memory-in-agent-builder/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-02-19-dust-spa-poke-17389cb-front-feat-obs-add-skills-insight",
-      "date": "2026-02-19",
-      "name": "spa/poke/17389cb: [front] - feat(obs): add skills insights (#21879)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>[observability] - feature: implement API endpoint for skill execution metrics</li>\n</ul>\n<ul>\n<li>Add new endpoint to fetch skill execution statistics by version and source</li>\n<li>Validate access permissions a",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F17389cb"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-19-dust-spa-poke-9b61996",
-      "date": "2026-02-19",
-      "name": "spa/poke/9b61996",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Add workspace emergency kill switch capability (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/21966\">#21966</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9b61996"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-19-dust-spa-poke-0defde9-kill-switch-add-admin-cli-command",
-      "date": "2026-02-19",
-      "name": "spa/poke/0defde9: [Kill Switch] Add admin CLI commands to block/unblock workspace (#21972)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>[Kill Switch] Add admin CLI commands to block/unblock workspace</p>\n</li>\n<li>\n<p>[Kill Switch] Address review comments on CLI workspace block/unblock</p>\n</li>\n<li>\n<p>chore: fix admin cli import formatting",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F0defde9"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-19-dust-spa-app-17389cb-front-feat-obs-add-skills-insights",
-      "date": "2026-02-19",
-      "name": "spa/app/17389cb: [front] - feat(obs): add skills insights (#21879)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>[observability] - feature: implement API endpoint for skill execution metrics</li>\n</ul>\n<ul>\n<li>Add new endpoint to fetch skill execution statistics by version and source</li>\n<li>Validate access permissions a",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F17389cb"
-        }
-      ],
-      "impact": 3,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
