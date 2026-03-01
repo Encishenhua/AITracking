@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "2026-02-28-openai-our-agreement-with-the-department-of-war",
+      "date": "2026-02-28",
+      "name": "Our agreement with the Department of War",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/our-agreement-with-the-department-of-war"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-02-27-crewai-1-10-0",
       "date": "2026-02-27",
       "name": "1.10.0",
@@ -1055,24 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/generative-ai-based-Amazon-Q-artifacts/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-23-aws-aws-iam-policy-autopilot-is-now-available-as-a-kir",
-      "date": "2026-02-23",
-      "name": "AWS IAM Policy Autopilot is now available as a Kiro Power",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS IAM Policy Autopilot, the open source static code analysis tool launched at re:Invent 2025, is now available as a Kiro power to bring policy expertise to agentic AI development. This tool helps developers quickly ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-iam-policy-autopilot-kiro-power/"
         }
       ],
       "impact": 5,
