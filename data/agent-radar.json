@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "2026-03-01-langchain-langgraph-how-clay-uses-langsmith-to-debug-evaluate-and-moni",
+      "date": "2026-03-01",
+      "name": "How Clay uses LangSmith to debug, evaluate, and monitor 300 million agents runs per month",
+      "vendor": "LangChain/LangGraph",
+      "type": "upgrade",
+      "summary": "<p><a href=\"https://clay.com/?ref=blog.langchain.com\" rel=\"noreferrer\">Clay</a> is the creative tool for growth &#x2014; a platform where go-to-market teams build, enrich, and activate lists of companies and people. Sale",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/customers-clay/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-02-28-openai-our-agreement-with-the-department-of-war",
       "date": "2026-02-28",
       "name": "Our agreement with the Department of War",
@@ -1055,24 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/trusted-advisor-unused-nat-gateway-check/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-23-aws-amazon-announces-generative-ai-based-artifacts-in-",
-      "date": "2026-02-23",
-      "name": "Amazon announces generative AI-based artifacts in Amazon Q Developer for visualizing resource and cost data",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the general availability of Amazon Q Developer artifacts in the AWS Management Console. Amazon Q artifacts is a generative AI-based user experience that enables customers to visualize resource dat",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/generative-ai-based-Amazon-Q-artifacts/"
         }
       ],
       "impact": 5,
