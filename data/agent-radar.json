@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "2026-03-02-openai-file-uploads-and-file-processing-failing",
+      "date": "2026-03-02",
+      "name": "File uploads and file processing failing",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>ChatGPT Atlas (Operational)</li>\n<li>File uploads (Operational)</li>\n<",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KJQJRF7J0CKT82SHDZ85YG4Y"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-02-aws-aws-config-now-supports-30-new-resource-types",
+      "date": "2026-03-02",
+      "name": "AWS Config now supports 30 new resource types",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Config now supports 30 additional AWS resource types across key services including Amazon Bedrock AgentCore and Amazon Cognito. This expansion provides greater coverage over your AWS environment, enabling you to m",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-config-new-resource-types/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-02-dust-spa-poke-2dbfd67",
+      "date": "2026-03-02",
+      "name": "spa/poke/2dbfd67",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Fix instructions block in AgentBuilder (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/22413\">#22413</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2dbfd67"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-02-dust-spa-poke-e40eac3-front-refactor-mcpserverheaders-s",
+      "date": "2026-03-02",
+      "name": "spa/poke/e40eac3: [front] - refactor(MCPServerHeaders): streamline custom headers (#22463)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>[front/components/actions/mcp] - refactor: streamline custom headers management in MCP forms</li>\n</ul>\n<ul>\n<li>Replace <code>useFieldArray</code> with <code>useWatch</code> to optimize re-renders and simplify ",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fe40eac3"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-03-01-langchain-langgraph-how-clay-uses-langsmith-to-debug-evaluate-and-moni",
       "date": "2026-03-01",
       "name": "How Clay uses LangSmith to debug, evaluate, and monitor 300 million agents runs per month",
@@ -16,6 +88,24 @@
       "impact": 4,
       "risk": 2,
       "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-03-01-aws-aws-announces-pricing-for-vpc-encryption-controls",
+      "date": "2026-03-01",
+      "name": "AWS announces pricing for VPC Encryption Controls",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS is launching pricing for VPC Encryption Controls, a security and compliance feature that enables you to audit and enforce encryption-in-transit of all traffic flows within and across Virtual Private Clouds (VPCs) ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/vpc-encryption-controls-pricing/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
       "tags": []
     },
     {
@@ -559,6 +649,24 @@
       "tags": []
     },
     {
+      "id": "2026-02-26-aws-application-performance-monitoring-enabled-by-defa",
+      "date": "2026-02-26",
+      "name": "Application Performance Monitoring Enabled by Default in CloudWatch Observability EKS Add-on",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, Amazon CloudWatch Observability EKS add-on version 5.0.0 automatically enables CloudWatch Application Signals — Amazon's application performance monitoring (APM) capability — for all new installations and upgra",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/application-performance-monitoring-cloudwatch-eks/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-02-25-openai-artifact-generation-asking-the-model-to-generate-a",
       "date": "2026-02-25",
       "name": "Artifact generation (asking the model to generate a spreadsheet or slideshow) on ChatGPT is down for all users.",
@@ -965,114 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-eks-node-monitoring-agent-open-source/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-24-dust-spa-poke-9702377",
-      "date": "2026-02-24",
-      "name": "spa/poke/9702377",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>[Conversation Guardrails] Mitigation 2: ignore Enter autorepeat and a…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9702377"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-24-dust-spa-poke-578aa3d",
-      "date": "2026-02-24",
-      "name": "spa/poke/578aa3d",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[Front] refactor(copilot): improve template agent init prompt (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/22157\">#22157</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F578aa3d"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-24-aws-amazon-ec2-c7i-and-c7i-flex-instances-are-now-avai",
-      "date": "2026-02-24",
-      "name": "Amazon EC2 C7i and C7i-flex instances are now available in the Africa (Cape Town) Region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C7i-flex and C7i instances are available in the Africa (Cape Town) region. These instances are powered by powered by custom 4th Generation Intel Xeon Scalable ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c7i-c7i-flex-instances-africa-cape-town-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-24-aws-aws-waf-announces-ai-activity-dashboard-for-visibi",
-      "date": "2026-02-24",
-      "name": "AWS WAF announces AI activity dashboard for visibility into AI bot and agent traffic",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS WAF announced a new AI activity dashboard that provides centralized visibility into AI bot and agent traffic reaching your applications. With this launch, AWS WAF Bot Control expands its detection coverage ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-waf-ai-activity-dashboard/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-23-openai-openai-announces-frontier-alliance-partners",
-      "date": "2026-02-23",
-      "name": "OpenAI announces Frontier Alliance Partners",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/frontier-alliance-partners"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-23-aws-aws-trusted-advisor-now-delivers-more-accurate-unu",
-      "date": "2026-02-23",
-      "name": "AWS Trusted Advisor now delivers more accurate unused NAT Gateway checks powered by AWS Compute Optimizer",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Trusted Advisor has enhanced its detection of unused NAT Gateway checks powered by AWS Compute Optimizer detection capabilities. The enhanced detection analyzes additional CloudWatch metrics over a 32-day lookback",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/trusted-advisor-unused-nat-gateway-check/"
         }
       ],
       "impact": 5,
