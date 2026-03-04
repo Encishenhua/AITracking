@@ -1,6 +1,96 @@
 {
   "items": [
     {
+      "id": "2026-03-03-aws-amazon-sagemaker-unified-studio-adds-metadata-sync",
+      "date": "2026-03-03",
+      "name": "Amazon SageMaker Unified Studio adds metadata sync with third-party catalogs",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/sagemaker/unified-studio/\">Amazon SageMaker Unified Studio</a> now supports metadata and context sync across Atlan, Collibra, and Alation. These integrations synchronize catalog metadat",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-unified-studio-3p-catalogs/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-03-aws-amazon-sagemaker-unified-studio-now-supports-aws-g",
+      "date": "2026-03-03",
+      "name": "Amazon SageMaker Unified Studio now supports AWS Glue 5.1 for data processing jobs",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/sagemaker/unified-studio/\">Amazon SageMaker Unified Studio </a>now supports <a href=\"https://aws.amazon.com/about-aws/whats-new/2025/11/aws-glue-5-1/\">AWS Glue 5.1 </a>for Visual ETL, n",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-unified-studio-aws-glue-5-1/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-03-aws-amazon-sagemaker-unified-studio-launches-support-f",
+      "date": "2026-03-03",
+      "name": "Amazon SageMaker Unified Studio launches support for remote connection from Kiro IDE",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the ability to remotely connect from Kiro IDE to Amazon SageMaker Unified Studio. This new capability allows data scientists, ML engineers, and developers to leverage their Kiro setup - including ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-unified-studio-kiro-ide/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-03-aws-policy-in-amazon-bedrock-agentcore-is-now-generall",
+      "date": "2026-03-03",
+      "name": "Policy in Amazon Bedrock AgentCore is now generally available",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Policy in Amazon Bedrock&nbsp;AgentCore&nbsp;is now generally available, providing organizations with centralized, fine-grained controls for agent-tool interactions.&nbsp;Policy&nbsp;operates&nbsp;outside your&nbsp;ag",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/policy-amazon-bedrock-agentcore-generally-available/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-03-dust-spa-poke-5733a8a",
+      "date": "2026-03-03",
+      "name": "spa/poke/5733a8a",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Centralize LLM observability by capturing actual request payloads (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/2\">#2</a>…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5733a8a"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-03-02-openai-file-uploads-and-file-processing-failing",
       "date": "2026-03-02",
       "name": "File uploads and file processing failing",
@@ -394,6 +484,24 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-02-27-aws-aws-iam-identity-center-now-supports-ipv6-dual-sta",
+      "date": "2026-02-27",
+      "name": "AWS IAM Identity Center now supports IPv6 dual-stack endpoints in AWS Asia Pacific (Taipei) and AWS GovCloud (US) Regions",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS IAM Identity Center now supports Internet Protocol version 6 (IPv6) via dual-stack endpoints in the AWS Asia Pacific (Taipei) and AWS GovCloud (US) Regions, completing global availability of this feature across al",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-iam-identity-center-ipv6-asia-pacific-govcloud/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
       "tags": []
     },
     {
@@ -965,114 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-elemental-inference-generally-avail/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-24-aws-aws-deadline-cloud-now-supports-running-tasks-toge",
-      "date": "2026-02-24",
-      "name": "AWS Deadline Cloud now supports running tasks together in chunks",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS Deadline Cloud announces support for grouping tasks into chunks to efficiently execute multiple tasks together. AWS Deadline Cloud is a fully managed service that simplifies render management for computer-g",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-deadline-cloud-running-tasks-together-in/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-24-aws-amazon-ec2-c8i-and-c8i-flex-instances-are-now-avai",
-      "date": "2026-02-24",
-      "name": "Amazon EC2 C8i and C8i-flex instances are now available in Asia Pacific (Malaysia) and South America (Sao Paulo) regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8i and C8i-flex instances are available in the Asia Pacific (Malaysia) and South America (Sao Paulo) regions. These instances are powered by custom Intel Xeon",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8i-c8i-flex-instances-asia-pacific-malaysia-south-america-sao--paulo-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-24-aws-aws-appconfig-integrates-with-new-relic-for-automa",
-      "date": "2026-02-24",
-      "name": "AWS AppConfig integrates with New Relic for automated rollbacks",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS AppConfig today launched a new integration that enables automated, intelligent rollbacks during feature flag and dynamic configuration deployments using <a></a><a href=\"https://docs.newrelic.com/docs/workflow-auto",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-appconfig-new-relic-for-automated-rollback/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-24-aws-amazon-ec2-m8a-instances-now-available-in-aws-euro",
-      "date": "2026-02-24",
-      "name": "Amazon EC2 M8a instances now available in AWS Europe (Frankfurt) region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, the general-purpose Amazon EC2 M8a instances are available in AWS Europe (Frankfurt) region. M8a instances are powered by 5th Gen AMD EPYC processors (formerly code named Turin) with a maximum frequenc",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m8a-instances-europe-frankfurt/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-24-aws-amazon-ec2-i7ie-instances-now-available-in-aws-afr",
-      "date": "2026-02-24",
-      "name": "Amazon EC2 I7ie instances now available in AWS Africa (Cape Town) region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS is announcing Amazon EC2 I7ie instances are now available in AWS Africa (Cape Town) region. Designed for large storage I/O intensive workloads, I7ie instances are powered by 5th Gen Intel Xeon Processors with an a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec-i-ie-instances-available-aws-africa/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-24-aws-amazon-eks-node-monitoring-agent-is-now-open-sourc",
-      "date": "2026-02-24",
-      "name": "Amazon EKS Node Monitoring Agent is now open source",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Elastic Kubernetes Service (Amazon EKS) Node Monitoring Agent is now open source. You can access the Amazon EKS Node Monitoring Agent source code and contribute to its development on <a href=\"https://github.com",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-eks-node-monitoring-agent-open-source/"
         }
       ],
       "impact": 5,
