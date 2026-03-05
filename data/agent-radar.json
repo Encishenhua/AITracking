@@ -1,6 +1,222 @@
 {
   "items": [
     {
+      "id": "2026-03-05-openai-user-may-experience-errors-in-chatgpt",
+      "date": "2026-03-05",
+      "name": "User may experience errors in ChatGPT",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Conversations (Degraded performance)</li>\n          ",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KJXSQH2Y0XHSNCXM9R7T968C"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-04-aws-aws-simplifies-iam-role-creation-and-setup-in-serv",
+      "date": "2026-03-04",
+      "name": "AWS simplifies IAM role creation and setup in service workflows",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/iam/\">AWS Identity and Access Management (IAM)</a> now makes it easier to create and configure IAM roles directly within service workflows, allowing you to customize role permissions wi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-simplifies-iam-role-creation-and-setup/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-04-aws-amazon-sagemaker-hyperpod-now-provides-comprehensi",
+      "date": "2026-03-04",
+      "name": "Amazon SageMaker HyperPod now provides comprehensive observability for Restricted Instance Groups",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker HyperPod now offers comprehensive observability for Restricted Instance Groups (RIG), enabling teams training foundation models with Nova Forge to gain deep visibility into their compute resources and",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-hyperpod-observability-rig/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-04-aws-amazon-lightsail-now-offers-openclaw-a-private-sel",
+      "date": "2026-03-04",
+      "name": "Amazon Lightsail now offers OpenClaw, a private self-hosted AI assistant",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Lightsail now lets you deploy OpenClaw, a private self-hosted AI assistant, on your own cloud infrastructure in a simple and secure manner.<br /> <br /> Every Lightsail OpenClaw instance ships with built-in sec",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-lightsail-openclaw/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-04-aws-amazon-opensearch-ingestion-now-supports-amazon-ma",
+      "date": "2026-03-04",
+      "name": "Amazon OpenSearch Ingestion now supports Amazon Managed Service for Prometheus as a sink",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon OpenSearch Ingestion now supports Amazon Managed Service for Prometheus&nbsp; as a sink, making it possible to build fully managed, end-to-end metrics ingestion pipelines without any custom forwarding infrastru",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-opensearch-ingestion-supports-amazon-managed-service-prometheus-sink"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-04-aws-amazon-opensearch-ingestion-now-supports-unified-i",
+      "date": "2026-03-04",
+      "name": "Amazon OpenSearch Ingestion now supports unified ingestion endpoint for OpenTelemetry data",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon OpenSearch Ingestion now supports a unified ingestion endpoint that can accept all three OpenTelemetry observability signals — logs, metrics, and traces — through a single pipeline. Previously, customers who wa",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-opensearch-ingestion-unified-ingestion-endpoint-opentelemetry"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-04-aws-amazon-gamelift-servers-launches-ddos-protection",
+      "date": "2026-03-04",
+      "name": "Amazon GameLift Servers launches DDoS Protection",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>We’re excited to announce&nbsp;Amazon GameLift Servers DDoS Protection, a new feature&nbsp;that helps game developers protect&nbsp;session-based multiplayer games that utilize <a href=\"https://aws.amazon.com/gamelift/",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-gamelift-servers-ddos-protection/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-04-langchain-langgraph-langsmith-cli-skills",
+      "date": "2026-03-04",
+      "name": "LangSmith CLI & Skills",
+      "vendor": "LangChain/LangGraph",
+      "type": "upgrade",
+      "summary": "<p>We&#x2019;re releasing a CLI along with our first set of skills to give AI coding agents expertise in the <a href=\"https://docs.langchain.com/langsmith/home?ref=blog.langchain.com\">LangSmith</a> ecosystem. This includ",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/langsmith-cli-skills/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-03-04-langchain-langgraph-langchain-skills",
+      "date": "2026-03-04",
+      "name": "LangChain Skills",
+      "vendor": "LangChain/LangGraph",
+      "type": "upgrade",
+      "summary": "<p>We&#x2019;re releasing our first set of skills to give AI coding agents expertise in the open source LangChain ecosystem. This includes building agents with <a href=\"https://docs.langchain.com/oss/python/langchain/ove",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/langchain-skills/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-03-04-dust-spa-poke-2517b34-front-refactor-update-styling-of-",
+      "date": "2026-03-04",
+      "name": "spa/poke/2517b34: [front] - refactor: update styling of AgentBuilderLeftPanel (#22554)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>Center the main container in the panel and adjust padding for larger screens</li>\n<li>Ensure consistent spacing and better use of screen real estate on 2xl screens</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2517b34"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-04-dust-spa-poke-70a49d6-disable-the-use-of-copilot-noop-a",
+      "date": "2026-03-04",
+      "name": "spa/poke/70a49d6: Disable the use of copilot noop agent till we figure out issue (#22609)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>There is a whitelisting issue that's breaking the copilot From Scratch scenario in Prod. Disabling for now.</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F70a49d6"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-04-crewai-1-10-1",
+      "date": "2026-03-04",
+      "name": "1.10.1",
+      "vendor": "CrewAI",
+      "type": "upgrade",
+      "summary": "<h2>What's Changed</h2>\n<h3>🚀 Features</h3>\n<ul>\n<li><strong>Upgrade Gemini GenAI</strong></li>\n</ul>\n<h3>🐛 Bug Fixes</h3>\n<ul>\n<li>Adjust executor listener value to avoid recursion</li>\n<li>Group parallel function respo",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.10.1"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-03-03-aws-amazon-sagemaker-unified-studio-adds-metadata-sync",
       "date": "2026-03-03",
       "name": "Amazon SageMaker Unified Studio adds metadata sync with third-party catalogs",
@@ -857,222 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-r8a-instances-europe-ireland-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-25-aws-amazon-ec2-m8i-and-m8i-flex-instances-are-now-avai",
-      "date": "2026-02-25",
-      "name": "Amazon EC2 M8i and M8i-flex instances are now available in Africa (Cape Town) region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon EC2 M8i and M8i-flex instances are now available in Africa (Cape Town) region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the highest perfor",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m8i-m8i-flex-instances-africa-cape-town-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-25-aws-amazon-location-service-introduces-llm-context-as-",
-      "date": "2026-02-25",
-      "name": "Amazon Location Service introduces LLM Context as a Kiro power and Claude Code plugin to improve AI performance",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, Amazon Location launched curated AI Agent context as a <a href=\"https://kiro.dev/powers/\">Kiro </a><a href=\"https://kiro.dev/powers/\">power</a>, <a href=\"https://code.claude.com/docs/en/plugins\">Claude Code plu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-location-service-introduces-kiro-power-claude-skill-llm-context/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-25-aws-amazon-workspaces-applications-extends-support-for",
-      "date": "2026-02-25",
-      "name": "Amazon WorkSpaces Applications extends support for 4K resolution",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon WorkSpaces Applications now supports up to 4K (4096 x 2160) resolution on non-accelerated instance types and across all client connection modes. Previously, higher resolution monitors were limited to graphics-a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-workspaces-applications-4K-resolution/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-25-aws-announcing-new-metal-sizes-for-amazon-ec2-m8gn-and",
-      "date": "2026-02-25",
-      "name": "Announcing new metal sizes for Amazon EC2 M8gn and M8gb instances",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the general availability of metal-24xl and metal-48xl sizes for Amazon Elastic Compute Cloud (Amazon EC2) M8gn and M8gb instances. These instances are powered by AWS Graviton4 processors to delive",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m8gn-m8gb-new-metal-sizes/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-25-aws-aws-backup-extends-support-for-amazon-neptune-to-f",
-      "date": "2026-02-25",
-      "name": "AWS Backup extends support for Amazon Neptune to five additional AWS Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Backup now supports Amazon Neptune in five additional AWS Regions: Europe (Zurich), Asia Pacific (Melbourne), Canada West (Calgary), Asia Pacific (Malaysia), and Europe (Spain).</p> \n<p>This expansion brings polic",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-backup-extends-amazon-neptune-five-additional-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-25-dust-spa-poke-8da635a-add-sandbox-reaper-temporal-workf",
-      "date": "2026-02-25",
-      "name": "spa/poke/8da635a: Add sandbox reaper Temporal workflow (#22246)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>Fix sandbox lifetime and add resilience to unexpected E2B state</li>\n</ul>\n<p>The <code>timeoutMs</code> passed to <code>Sandbox.create()</code> controls sandbox lifetime,<br />\nnot the API call timeout. Sandbox",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8da635a"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-25-dust-spa-poke-8b064e8-feat-mcp-release-bearer-based-mcp",
-      "date": "2026-02-25",
-      "name": "spa/poke/8b064e8: feat(mcp): release bearer based mcps (#22259)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>feat(mcp): release bearer based mcps</p>\n</li>\n<li>\n<p>re-add openai usage</p>\n</li>\n<li>\n<p>lint</p>\n</li>\n<li>\n<p>remove test</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8b064e8"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-25-dust-spa-poke-4e33083",
-      "date": "2026-02-25",
-      "name": "spa/poke/4e33083",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] chore: rename <code>\"internal_mcp_server_credentials\".\"hash\"</code> colu…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F4e33083"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-24-aws-amazon-bedrock-now-supports-server-side-tool-execu",
-      "date": "2026-02-24",
-      "name": "Amazon Bedrock now supports server-side tool execution with AgentCore Gateway",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock now enables server-side tool execution through Amazon Bedrock AgentCore Gateway integration with the Responses API. Customers can connect their AgentCore Gateway tools to Amazon Bedrock models, enabling",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-bedrock-server-side-tool-execution-agentcore-gateway/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-24-aws-aws-compute-optimizer-now-applies-aws-generated-ta",
-      "date": "2026-02-24",
-      "name": "AWS Compute Optimizer now applies AWS-generated tags to EBS snapshots created during automation",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS Compute Optimizer makes it easier to identify snapshots that are created when snapshotting and deleting unattached Amazon Elastic Block Store (EBS) volumes by automatically applying an AWS-generated tag during cre",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-compute-optimizer-applies-tags-ebs-snapshots/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-24-aws-aws-observability-now-available-as-a-kiro-power",
-      "date": "2026-02-24",
-      "name": "AWS Observability now available as a Kiro power",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces AWS Observability as a Kiro power, enabling developers and operators to investigate infrastructure and application health issues faster with AI agent-assisted workflows in Kiro. Kiro Powers is a r",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-observability-kiro-power/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-24-aws-announcing-aws-elemental-inference",
-      "date": "2026-02-24",
-      "name": "Announcing AWS Elemental Inference",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Elemental Inference, a&nbsp;fully managed Artificial Intelligence (AI) service&nbsp;that&nbsp;enables broadcasters and streamers to&nbsp;automatically&nbsp;generate&nbsp;vertical content and highlight clips for mo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-elemental-inference-generally-avail/"
         }
       ],
       "impact": 5,
