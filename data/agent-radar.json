@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "2026-03-06-dust-spa-poke-5c5e369",
+      "date": "2026-03-06",
+      "name": "spa/poke/5c5e369",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Auto populate agent name for sidekick template use case (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/22667\">#22667</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5c5e369"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-06-dust-spa-app-5c5e369",
+      "date": "2026-03-06",
+      "name": "spa/app/5c5e369",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Auto populate agent name for sidekick template use case (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/22667\">#22667</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F5c5e369"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-03-05-openai-user-may-experience-errors-in-chatgpt",
       "date": "2026-03-05",
       "name": "User may experience errors in ChatGPT",
@@ -14,6 +50,222 @@
         }
       ],
       "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-05-openai-ensuring-ai-use-in-education-leads-to-opportunity",
+      "date": "2026-03-05",
+      "name": "Ensuring AI use in education leads to opportunity",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/ai-education-opportunity"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-05-openai-high-error-rate-in-realtime-api-eu",
+      "date": "2026-03-05",
+      "name": "High Error Rate in Realtime API (EU)",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Login (Operational)</li>\n<li>Files (Operational)</li>\n<li>Login (Opera",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KJZG0ADWGBF4K6AJ5EDFV52T"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-05-aws-multi-party-approval-now-supports-approval-team-ba",
+      "date": "2026-03-05",
+      "name": "Multi-party approval now supports approval team baselining",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Multi-party approval (MPA) now supports MPA administrators running test approvals to confirm that their approval team is set up correctly and that approvers are active and reachable. With this new capability, customer",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/multi-party-approval-team-baselining/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-05-aws-database-savings-plans-now-supports-amazon-opensea",
+      "date": "2026-03-05",
+      "name": "Database Savings Plans now supports Amazon OpenSearch Service and Amazon Neptune Analytics",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS announces expanded coverage for Database Savings Plans, with support for<a href=\"https://aws.amazon.com/opensearch-service/\"> Amazon OpenSearch Service</a> and <a href=\"https://aws.amazon.com/neptune/\">Amaz",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/dbsp-opensearch-service-neptune-analytics/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-05-aws-aws-elastic-beanstalk-now-offers-ai-powered-enviro",
+      "date": "2026-03-05",
+      "name": "AWS Elastic Beanstalk now offers AI-powered environment analysis",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS Elastic Beanstalk now offers AI-powered environment analysis to help you quickly identify root causes and get recommended solutions for environment health issues. When your environment experiences problems, Elasti",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/elastic-beanstalk-ai-analysis/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-05-aws-aws-shield-network-security-director-findings-are-",
+      "date": "2026-03-05",
+      "name": "AWS Shield network security director findings are now available in AWS Security Hub",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS Shield announces findings from network security director, currently in preview, are now available in AWS Security Hub. AWS Shield network security director identifies missing or misconfigured network securi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/network-security-director-findings/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-05-aws-amazon-ec2-i8ge-instances-now-generally-available-",
+      "date": "2026-03-05",
+      "name": "Amazon EC2 I8ge instances now generally available in Europe (Ireland) AWS region.",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Web Services (AWS) announces the availability of Amazon EC2 I8ge instances in Europe (Ireland) AWS region. Designed for large storage I/O intensive workloads, these new instances are powered by 5th generation I",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-I8ge-expansion-ireland/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-05-aws-introducing-amazon-connect-health-agentic-ai-built",
+      "date": "2026-03-05",
+      "name": "Introducing Amazon Connect Health, Agentic AI Built for Healthcare",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect Health is now generally available, bringing purpose-built agentic AI to healthcare organizations to streamline patient engagement and point-of-care workflows. Amazon Connect Health delivers five AI agen",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-health-agentic-ai-healthcare/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-05-aws-aws-healthlake-announces-data-transformation-agent",
+      "date": "2026-03-05",
+      "name": "AWS HealthLake announces data transformation agent for automated CCDA-to-FHIR data conversion (Preview)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, healthcare organizations can now transform legacy clinical documents into queryable FHIR resources in AWS HealthLake in days instead of months, unlocking use cases such as longitudinal patient record g",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-healthlake-data-transformation-agent/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-05-aws-accelerate-lambda-durable-functions-development-wi",
+      "date": "2026-03-05",
+      "name": "Accelerate Lambda durable functions development with new Kiro power",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the Lambda durable functions Kiro power, bringing Lambda durable function development expertise to agentic AI development in Kiro. With this power, you can build resilient, long-running multi-step",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/lambda-durable-kiro-power/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-05-langchain-langgraph-evaluating-skills",
+      "date": "2026-03-05",
+      "name": "Evaluating Skills",
+      "vendor": "LangChain/LangGraph",
+      "type": "upgrade",
+      "summary": "<p><em>By Robert Xu</em></p><p>Recently at LangChain we&#x2019;ve been building skills to help coding agents like Codex, Claude Code, and Deep Agents CLI work with our ecosystem: namely, LangChain and <a href=\"https://ww",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/evaluating-skills/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-03-05-dust-spa-poke-96a46a5",
+      "date": "2026-03-05",
+      "name": "spa/poke/96a46a5",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] chore: remove advanced settings section in Agent Builder (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/22\">#22</a>…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F96a46a5"
+        }
+      ],
+      "impact": 3,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -214,6 +466,24 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-03-04-aws-amazon-ec2-m8g-instances-now-available-in-addition",
+      "date": "2026-03-04",
+      "name": "Amazon EC2 M8g instances now available in additional regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M8g instances are available in Africa (Cape Town), Asia Pacific (Malaysia), Europe (Milan, Zurich), and Canada West (Calgary) regions. These instances are powe",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-m8g-instances-africa-cape-town-asia-pacific-malaysia-europe-milan-zurich-canada-west-calgary-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
       "tags": []
     },
     {
@@ -803,276 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/sec-hub-extended/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-26-aws-amazon-cognito-enhances-client-secret-management-w",
-      "date": "2026-02-26",
-      "name": "Amazon Cognito enhances client secret management with secret rotation and custom secrets",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Cognito enhances client secret lifecycle management for app clients of Cognito user pools by adding client secret rotation and support for custom client secrets. Cognito helps you implement secure sign-in and a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-cognito-client-secret-lifecycle/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-26-aws-amazon-ec2-m8i-and-m8i-flex-instances-are-availabl",
-      "date": "2026-02-26",
-      "name": "Amazon EC2 M8i and M8i-flex instances are available in additional regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon EC2 M8i and M8i-flex instances are now available in US West (N. California), Europe (Paris), Asia Pacific (Hyderabad), and South America (Sao Paulo) regions. These instances are powered by custo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m8i-m8i-flex-instances-additional-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-26-aws-introducing-amazon-ec2-i8g-metal-48xl-instances",
-      "date": "2026-02-26",
-      "name": "Introducing Amazon EC2 I8g.metal-48xl instances",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS is announcing the general availability of Amazon EC2 Storage Optimized I8g.metal-48xl instances. I8g instances are powered by AWS Graviton4 processors that deliver up to 60% better compute performance compared to ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/ec2-i8g-metal-48xl-generally-available/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-26-aws-aws-lambda-durable-execution-sdk-for-java-now-avai",
-      "date": "2026-02-26",
-      "name": "AWS Lambda Durable Execution SDK for Java now available in Developer Preview",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS announces the developer preview of the AWS Lambda Durable Execution SDK for Java. With this SDK, developers can build resilient multi-step applications like order processing pipelines, AI-assisted workflows",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/lambda-durable-execution-java-preview/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-26-langchain-langgraph-you-don-t-know-what-your-agent-will-do-until-it-s-",
-      "date": "2026-02-26",
-      "name": "You don’t know what your agent will do until it’s in production",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "You can't monitor agents like traditional software. Inputs are infinite, behavior is non-deterministic, and quality lives in the conversations themselves. This article explains what to monitor, how to scale evaluation, a",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/you-dont-know-what-your-agent-will-do-until-its-in-production/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-02-26-dust-spa-poke-9ea4b38",
-      "date": "2026-02-26",
-      "name": "spa/poke/9ea4b38",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>fix(mcp): route SSE connections through correct proxy for static IP e…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9ea4b38"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-26-dust-spa-poke-7ca4a2d",
-      "date": "2026-02-26",
-      "name": "spa/poke/7ca4a2d",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>copilot: Allow filtering by agent name prefix in get_available_agents…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F7ca4a2d"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-26-dust-spa-poke-0a9dcef",
-      "date": "2026-02-26",
-      "name": "spa/poke/0a9dcef",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Add attachment action to copilot; remove turn into agent (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/22299\">#22299</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F0a9dcef"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-26-aws-amazon-bedrock-announces-openai-compatible-project",
-      "date": "2026-02-26",
-      "name": "Amazon Bedrock announces OpenAI-compatible Projects API",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Bedrock now supports OpenAI-compatible Projects API in the Mantle inference engine in Amazon Bedrock. Amazon Bedrock is a fully managed service that offers a broad selection of best-in-class foundation models f",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-projects-api-mantle-inference-engine/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-26-aws-application-performance-monitoring-enabled-by-defa",
-      "date": "2026-02-26",
-      "name": "Application Performance Monitoring Enabled by Default in CloudWatch Observability EKS Add-on",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, Amazon CloudWatch Observability EKS add-on version 5.0.0 automatically enables CloudWatch Application Signals — Amazon's application performance monitoring (APM) capability — for all new installations and upgra",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/application-performance-monitoring-cloudwatch-eks/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-25-openai-artifact-generation-asking-the-model-to-generate-a",
-      "date": "2026-02-25",
-      "name": "Artifact generation (asking the model to generate a spreadsheet or slideshow) on ChatGPT is down for all users.",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Deep Research (Operational)</li>\n<li>Codex (Operational)</li>\n<li>Logi",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KJB80QA8P62R9X3B71YAZEAK"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-25-aws-aws-outposts-racks-now-support-additional-amazon-c",
-      "date": "2026-02-25",
-      "name": "AWS Outposts racks now support additional Amazon CloudWatch metrics in AWS GovCloud (US) Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Outposts racks now support VifConnectionStatus and VifBgpSessionState Amazon CloudWatch metrics in AWS GovCloud (US) Regions. These metrics provide visibility into the connectivity status of your Outposts racks' L",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-outposts-racks-cloudwatch-metrics-govcloud-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-25-aws-aws-security-agent-adds-support-for-penetration-te",
-      "date": "2026-02-25",
-      "name": "AWS Security Agent adds support for penetration tests on shared VPCs across AWS accounts",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Security Agent now enables customers to run penetration tests against Virtual Private Cloud (VPC) resources shared from other AWS accounts within the same organization. This&nbsp;<a href=\"https://docs.aws.amazon.c",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-security-agent-adds-penetration-tests-shared/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-25-aws-aurora-dsql-launches-new-integrations-for-visual-s",
-      "date": "2026-02-25",
-      "name": "Aurora DSQL launches new integrations for Visual Studio Code SQLTools and DBeaver",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today we are announcing the release of the Aurora DSQL Driver for SQLTools and the Aurora DSQL Plugin for DBeaver Community Edition. These integrations allow customers to leverage popular database tools to run queries",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aurora-dsql-visual-studio-code-sqltools-dbeaver/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-25-aws-amazon-ec2-r8a-instances-now-available-in-the-euro",
-      "date": "2026-02-25",
-      "name": "Amazon EC2 R8a instances now available in the Europe (Ireland) region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon EC2 R8a instances are now available in Europe (Ireland) region. These instances, feature 5th Gen AMD EPYC processors (formerly code named Turin) with a maximum frequency of 4.5 GHz, deliver up t",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-r8a-instances-europe-ireland-regions/"
         }
       ],
       "impact": 5,
