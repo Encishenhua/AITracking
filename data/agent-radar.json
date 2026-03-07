@@ -37,6 +37,114 @@
       "tags": []
     },
     {
+      "id": "2026-03-06-openai-codex-security-now-in-research-preview",
+      "date": "2026-03-06",
+      "name": "Codex Security: now in research preview",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/codex-security-now-in-research-preview"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-06-openai-how-balyasny-asset-management-built-an-ai-research",
+      "date": "2026-03-06",
+      "name": "How Balyasny Asset Management built an AI research engine for investing",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "See how Balyasny built an AI research system with GPT-5.4, rigorous model evaluation, and agent workflows to transform investment analysis at scale.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/balyasny-asset-management"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-06-aws-amazon-redshift-introduces-new-array-functions-for",
+      "date": "2026-03-06",
+      "name": "Amazon Redshift introduces new array functions for semi-structured data processing",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/redshift/\">Amazon Redshift</a> now supports nine new array functions for working with semi-structured data stored in the <a href=\"https://docs.aws.amazon.com/redshift/latest/dg/super-ov",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-redshift-nine-new-array-functions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-06-aws-amazon-ec2-r8g-instances-now-available-in-addition",
+      "date": "2026-03-06",
+      "name": "Amazon EC2 R8g instances now available in additional regions",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8g instances are available in AWS Middle East (UAE), AWS Mexico (Central), and AWS Europe (Zurich) regions. These instances are powered by AWS Graviton4 proce",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-r8g-instances-additional-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-06-dust-spa-poke-6f395a7",
+      "date": "2026-03-06",
+      "name": "spa/poke/6f395a7",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>fix(mcp): fallback to cached tools if admin is disconnected (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/22702\">#22702</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6f395a7"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-06-dust-spa-poke-e39a122",
+      "date": "2026-03-06",
+      "name": "spa/poke/e39a122",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>[front] Simplify dust global agent prompt: remove deep_dive delegatio…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fe39a122"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-03-05-openai-user-may-experience-errors-in-chatgpt",
       "date": "2026-03-05",
       "name": "User may experience errors in ChatGPT",
@@ -271,6 +379,24 @@
       "tags": []
     },
     {
+      "id": "2026-03-05-aws-amazon-sagemaker-unified-studio-adds-light-mode-su",
+      "date": "2026-03-05",
+      "name": "Amazon SageMaker Unified Studio adds light mode support for IAM-based domains",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces light mode support in <a href=\"https://aws.amazon.com/sagemaker/unified-studio/\">Amazon SageMaker Unified Studio</a> for IAM-based domains. Customers can now configure the visual interface mode to",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/sagemaker-unified-studio-light-mode/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-03-04-aws-aws-simplifies-iam-role-creation-and-setup-in-serv",
       "date": "2026-03-04",
       "name": "AWS simplifies IAM role creation and setup in service workflows",
@@ -487,6 +613,24 @@
       "tags": []
     },
     {
+      "id": "2026-03-04-aws-amazon-eventbridge-scheduler-now-provides-a-higher",
+      "date": "2026-03-04",
+      "name": "Amazon EventBridge Scheduler now provides a higher default quota for the CreateSchedule API",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon EventBridge Scheduler now has a higher default service quota for the CreateSchedule API action. The default CreateSchedule request rate quota is now 5,000 requests per second in 11 AWS Regions. Quotas can be fu",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/2/eventbridge-default-quota-increase/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-03-03-aws-amazon-sagemaker-unified-studio-adds-metadata-sync",
       "date": "2026-03-03",
       "name": "Amazon SageMaker Unified Studio adds metadata sync with third-party catalogs",
@@ -644,6 +788,24 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-02-aws-opensearch-or2-and-om2-instances-in-aws-govcloud-u",
+      "date": "2026-03-02",
+      "name": "OpenSearch OR2 and OM2 instances in AWS GovCloud (US-East, US-West) Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon OpenSearch Service, expands availability of OR2 and OM2, OpenSearch Optimized Instance family to 12 additional regions. The OR2 instance delivers up to 26% higher indexing throughput compared to previous OR1 in",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-opensearch-or2-om2-us-gov-region/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -911,168 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-opensearch-service-adds-new-insights-improved-cluster-stability/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-27-aws-amazon-rds-for-postgresql-supports-minor-versions-",
-      "date": "2026-02-27",
-      "name": "Amazon RDS for PostgreSQL supports minor versions 18.3, 17.9, 16.13, 15.17, and 14.22",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/postgresql/\" target=\"_blank\">Amazon Relational Database Service (RDS)</a> for PostgreSQL now supports the latest minor versions 18.3, 17.9, 16.13, 15.17, and 14.22. These versions a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/rds-minor-version-18-3-17-9-16-13-15-17-14-22/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-27-dust-spa-poke-9a6095b",
-      "date": "2026-02-27",
-      "name": "spa/poke/9a6095b",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] perf: optimize queries on <code>agent_message_feedbacks</code> (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/22377\">#22377</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9a6095b"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-27-crewai-1-10-1a1",
-      "date": "2026-02-27",
-      "name": "1.10.1a1",
-      "vendor": "CrewAI",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Implement asynchronous invocation support in step callback methods</li>\n<li>Implement lazy loading for heavy dependencies in Memory module</li>\n</ul>\n<h3>Documentation</",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.10.1a1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-02-27-aws-aws-iam-identity-center-now-supports-ipv6-dual-sta",
-      "date": "2026-02-27",
-      "name": "AWS IAM Identity Center now supports IPv6 dual-stack endpoints in AWS Asia Pacific (Taipei) and AWS GovCloud (US) Regions",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS IAM Identity Center now supports Internet Protocol version 6 (IPv6) via dual-stack endpoints in the AWS Asia Pacific (Taipei) and AWS GovCloud (US) Regions, completing global availability of this feature across al",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-iam-identity-center-ipv6-asia-pacific-govcloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-26-openai-pacific-northwest-national-laboratory-and-openai-p",
-      "date": "2026-02-26",
-      "name": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/pacific-northwest-national-laboratory"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-26-aws-aws-marketplace-now-supports-multiple-purchases-of",
-      "date": "2026-02-26",
-      "name": "AWS Marketplace now supports multiple purchases of SaaS and Professional Services products",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Marketplace now supports Concurrent Agreements for SaaS and Professional Services products, enabling buyers to make multiple purchases for the same product within a single AWS account. Previously, buyers could onl",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/concurrent-agreements-february/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-26-aws-amazon-connect-now-supports-dynamic-dialing-mode-s",
-      "date": "2026-02-26",
-      "name": "Amazon Connect now supports dynamic dialing mode switching for outbound campaigns",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the general availability of dynamic dialing mode switching for Amazon Connect Outbound Campaigns, which allows contact center administrators to change between preview and non-preview dialing modes",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/connect-dynamic-dialing-modes/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-26-aws-amazon-cloudwatch-now-provides-lock-contention-dia",
-      "date": "2026-02-26",
-      "name": "Amazon CloudWatch now provides lock contention diagnostics for Amazon RDS for PostgreSQL",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon CloudWatch Database Insights now provides lock contention diagnostics for Amazon RDS for PostgreSQL instances. This feature helps you identify the root cause behind both ongoing and historical lock contention i",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-cloudwatch-lock-contention-diagnostics-rds-postgresql/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-26-aws-aws-security-hub-launches-extended-plan-for-pay-as",
-      "date": "2026-02-26",
-      "name": "AWS Security Hub launches Extended plan for pay-as-you-go partner solutions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, we're announcing the general availability of AWS Security Hub Extended, a new plan that extends unified security operations across your enterprise through a single-vendor experience. This plan helps address the",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/sec-hub-extended/"
         }
       ],
       "impact": 5,
