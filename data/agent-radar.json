@@ -19,6 +19,276 @@
       "tags": []
     },
     {
+      "id": "2026-03-10-openai-codex-unresponsive",
+      "date": "2026-03-10",
+      "name": "Codex unresponsive",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Identified</b><br /><br />We are still working on implementing a mitigation.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Codex (Degraded performance)</li>\n          </ul>",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KK9JA8JKQKDW1W24T09NHBYH"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-10-openai-increased-errors-on-chatgpt-file-uploads",
+      "date": "2026-03-10",
+      "name": "Increased errors on ChatGPT File Uploads",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>File uploads (Degraded performance)</li>\n          <",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KKCT34VDK552CSMP286DS9HE"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-10-aws-amazon-bedrock-agentcore-runtime-now-supports-stat",
+      "date": "2026-03-10",
+      "name": "Amazon Bedrock AgentCore Runtime now supports stateful MCP server features",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock AgentCore Runtime now supports stateful Model Context Protocol (MCP) server features, enabling developers to build MCP servers that leverage elicitation, sampling, and progress notifications alongside e",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-agentcore-runtime-stateful-mcp/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-10-aws-amazon-bedrock-now-supports-observability-of-first",
+      "date": "2026-03-10",
+      "name": "Amazon Bedrock now supports observability of First Token Latency and Quota Consumption",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Bedrock is a fully managed service for building generative AI applications using high-performing foundation models from leading AI providers. It now supports two new CloudWatch metrics, TimeToFirstToken and Est",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-observability-ttft-quota/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-10-aws-aws-builder-id-now-supports-sign-in-with-github-an",
+      "date": "2026-03-10",
+      "name": "AWS Builder ID now supports Sign in with GitHub and Amazon",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Builder ID, your&nbsp;profile for accessing AWS applications including AWS Builder Center, AWS Training and Certification and Kiro, now supports&nbsp;two new social logins:&nbsp;GitHub&nbsp;and Amazon. This expans",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-builder-id-sign-in-github-amazon/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-10-aws-amazon-connect-enhances-ai-powered-predictive-insi",
+      "date": "2026-03-10",
+      "name": "Amazon Connect enhances AI-powered predictive insights",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, Amazon Connect is announcing enhancements to AI-powered predictive insights that make it easier for businesses to deliver proactive, personalized customer experiences at scale. Building on the five recommendati",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-predictive-insights/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-10-aws-amazon-connect-now-supports-conversational-analyti",
+      "date": "2026-03-10",
+      "name": "Amazon Connect now supports conversational analytics for email",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect now supports conversational analytics for email contacts, enabling contact center managers to automatically categorize emails, redact personally identifiable information (PII), and generate contact summ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-conversational-analytics-email/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-10-aws-amazon-connect-introduces-ai-powered-manager-assis",
+      "date": "2026-03-10",
+      "name": "Amazon Connect introduces AI-powered manager assistance (Preview)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, Amazon Connect announces the preview of an AI-powered assistant that enables contact center managers to get instant answers to operational questions using natural language. You can query across 150+ Amazon Conn",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-ai-powered-manager-assistance/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-10-langchain-langgraph-how-coding-agents-are-reshaping-engineering-produc",
+      "date": "2026-03-10",
+      "name": "How Coding Agents Are Reshaping Engineering, Product and Design",
+      "vendor": "LangChain/LangGraph",
+      "type": "upgrade",
+      "summary": "<p>EPD (Engineering, Product, and Design) at software company is about creating good software. Separate roles exist, but the end goal is functional software that solves a business problem that users can use. At the end o",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/how-coding-agents-are-reshaping-engineering-product-and-design/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-03-10-dust-spa-poke-6505752-front-feat-skillbuilder-full-diff",
+      "date": "2026-03-10",
+      "name": "spa/poke/6505752: [front] - feat(SkillBuilder): full diff (#22787)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>[shared/tools_picker] - feature: update ActionCard component for diff support</li>\n</ul>\n<ul>\n<li>Extend ActionCard component to support visual diffing with new props handling</li>\n<li>Add conditionals to render",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6505752"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-10-dust-spa-poke-5976984-add-fathom-mcp-22760",
+      "date": "2026-03-10",
+      "name": "spa/poke/5976984: Add Fathom MCP (#22760)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>Add Fathom MCP</p>\n</li>\n<li>\n<p>Address comments</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5976984"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-10-dust-spa-poke-3041bb0",
+      "date": "2026-03-10",
+      "name": "spa/poke/3041bb0",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>[front] chore: reorganize skill GitHub import files (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/22742\">#22742</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F3041bb0"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-10-dust-spa-poke-916d16c",
+      "date": "2026-03-10",
+      "name": "spa/poke/916d16c",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>feat(mcp): deeper RFC compliance for MCP token refresh (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/22773\">#22773</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F916d16c"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-10-dust-spa-poke-0230a91",
+      "date": "2026-03-10",
+      "name": "spa/poke/0230a91",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[Remote MCP] Miro add (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/22781\">#22781</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F0230a91"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-10-dust-spa-poke-72f6be8-byok-add-model-providers-admin-pa",
+      "date": "2026-03-10",
+      "name": "spa/poke/72f6be8: [BYOK] Add Model Providers admin page with per-provider toggles (#22774)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>feat(auth): expose isByok on AuthenticatorType</li>\n</ul>\n<p>Add <code>isByok</code> field to <code>AuthenticatorType</code> interface and populate it in<br />\n<code>Authenticator.toJSON()</code> from the plan, ",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F72f6be8"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-03-09-aws-amazon-cloudwatch-logs-announces-increased-query-c",
       "date": "2026-03-09",
       "name": "Amazon CloudWatch Logs announces increased query concurrency and API limits",
@@ -194,6 +464,42 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-09-aws-amazon-route-53-global-resolver-is-now-generally-a",
+      "date": "2026-03-09",
+      "name": "Amazon Route 53 Global Resolver is now generally available",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS announced the general availability of Amazon Route 53 Global Resolver, an internet-reachable anycast DNS resolver that delivers easy, secure, and reliable DNS resolution for authorized clients from anywhere",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-route-53-global-resolver/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-09-aws-amazon-sagemaker-unified-studio-now-supports-faste",
+      "date": "2026-03-09",
+      "name": "Amazon SageMaker Unified Studio now supports faster data preview in Visual ETL",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/sagemaker/unified-studio/\">Amazon SageMaker Unified Studio </a>introduces data preview v2.0 for Visual ETL, a new data preview mode that delivers near-instant results when building and ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-unified-studio-faster-data-preview/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -772,312 +1078,6 @@
       "impact": 3,
       "risk": 3,
       "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-04-crewai-1-10-1",
-      "date": "2026-03-04",
-      "name": "1.10.1",
-      "vendor": "CrewAI",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<h3>🚀 Features</h3>\n<ul>\n<li><strong>Upgrade Gemini GenAI</strong></li>\n</ul>\n<h3>🐛 Bug Fixes</h3>\n<ul>\n<li>Adjust executor listener value to avoid recursion</li>\n<li>Group parallel function respo",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.10.1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-03-04-aws-amazon-ec2-m8g-instances-now-available-in-addition",
-      "date": "2026-03-04",
-      "name": "Amazon EC2 M8g instances now available in additional regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M8g instances are available in Africa (Cape Town), Asia Pacific (Malaysia), Europe (Milan, Zurich), and Canada West (Calgary) regions. These instances are powe",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-m8g-instances-africa-cape-town-asia-pacific-malaysia-europe-milan-zurich-canada-west-calgary-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-04-aws-amazon-eventbridge-scheduler-now-provides-a-higher",
-      "date": "2026-03-04",
-      "name": "Amazon EventBridge Scheduler now provides a higher default quota for the CreateSchedule API",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon EventBridge Scheduler now has a higher default service quota for the CreateSchedule API action. The default CreateSchedule request rate quota is now 5,000 requests per second in 11 AWS Regions. Quotas can be fu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/2/eventbridge-default-quota-increase/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-03-aws-amazon-sagemaker-unified-studio-adds-metadata-sync",
-      "date": "2026-03-03",
-      "name": "Amazon SageMaker Unified Studio adds metadata sync with third-party catalogs",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/sagemaker/unified-studio/\">Amazon SageMaker Unified Studio</a> now supports metadata and context sync across Atlan, Collibra, and Alation. These integrations synchronize catalog metadat",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-unified-studio-3p-catalogs/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-03-aws-amazon-sagemaker-unified-studio-now-supports-aws-g",
-      "date": "2026-03-03",
-      "name": "Amazon SageMaker Unified Studio now supports AWS Glue 5.1 for data processing jobs",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/sagemaker/unified-studio/\">Amazon SageMaker Unified Studio </a>now supports <a href=\"https://aws.amazon.com/about-aws/whats-new/2025/11/aws-glue-5-1/\">AWS Glue 5.1 </a>for Visual ETL, n",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-unified-studio-aws-glue-5-1/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-03-aws-amazon-sagemaker-unified-studio-launches-support-f",
-      "date": "2026-03-03",
-      "name": "Amazon SageMaker Unified Studio launches support for remote connection from Kiro IDE",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the ability to remotely connect from Kiro IDE to Amazon SageMaker Unified Studio. This new capability allows data scientists, ML engineers, and developers to leverage their Kiro setup - including ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-unified-studio-kiro-ide/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-03-aws-policy-in-amazon-bedrock-agentcore-is-now-generall",
-      "date": "2026-03-03",
-      "name": "Policy in Amazon Bedrock AgentCore is now generally available",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Policy in Amazon Bedrock&nbsp;AgentCore&nbsp;is now generally available, providing organizations with centralized, fine-grained controls for agent-tool interactions.&nbsp;Policy&nbsp;operates&nbsp;outside your&nbsp;ag",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/policy-amazon-bedrock-agentcore-generally-available/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-03-dust-spa-poke-5733a8a",
-      "date": "2026-03-03",
-      "name": "spa/poke/5733a8a",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Centralize LLM observability by capturing actual request payloads (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/2\">#2</a>…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5733a8a"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-02-openai-file-uploads-and-file-processing-failing",
-      "date": "2026-03-02",
-      "name": "File uploads and file processing failing",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>ChatGPT Atlas (Operational)</li>\n<li>File uploads (Operational)</li>\n<",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KJQJRF7J0CKT82SHDZ85YG4Y"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-02-aws-aws-config-now-supports-30-new-resource-types",
-      "date": "2026-03-02",
-      "name": "AWS Config now supports 30 new resource types",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Config now supports 30 additional AWS resource types across key services including Amazon Bedrock AgentCore and Amazon Cognito. This expansion provides greater coverage over your AWS environment, enabling you to m",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-config-new-resource-types/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-02-dust-spa-poke-2dbfd67",
-      "date": "2026-03-02",
-      "name": "spa/poke/2dbfd67",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Fix instructions block in AgentBuilder (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/22413\">#22413</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2dbfd67"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-02-dust-spa-poke-e40eac3-front-refactor-mcpserverheaders-s",
-      "date": "2026-03-02",
-      "name": "spa/poke/e40eac3: [front] - refactor(MCPServerHeaders): streamline custom headers (#22463)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>[front/components/actions/mcp] - refactor: streamline custom headers management in MCP forms</li>\n</ul>\n<ul>\n<li>Replace <code>useFieldArray</code> with <code>useWatch</code> to optimize re-renders and simplify ",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fe40eac3"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-02-aws-opensearch-or2-and-om2-instances-in-aws-govcloud-u",
-      "date": "2026-03-02",
-      "name": "OpenSearch OR2 and OM2 instances in AWS GovCloud (US-East, US-West) Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon OpenSearch Service, expands availability of OR2 and OM2, OpenSearch Optimized Instance family to 12 additional regions. The OR2 instance delivers up to 26% higher indexing throughput compared to previous OR1 in",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-opensearch-or2-om2-us-gov-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-01-langchain-langgraph-how-clay-uses-langsmith-to-debug-evaluate-and-moni",
-      "date": "2026-03-01",
-      "name": "How Clay uses LangSmith to debug, evaluate, and monitor 300 million agents runs per month",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "<p><a href=\"https://clay.com/?ref=blog.langchain.com\" rel=\"noreferrer\">Clay</a> is the creative tool for growth &#x2014; a platform where go-to-market teams build, enrich, and activate lists of companies and people. Sale",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/customers-clay/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-03-01-aws-aws-announces-pricing-for-vpc-encryption-controls",
-      "date": "2026-03-01",
-      "name": "AWS announces pricing for VPC Encryption Controls",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS is launching pricing for VPC Encryption Controls, a security and compliance feature that enables you to audit and enforce encryption-in-transit of all traffic flows within and across Virtual Private Clouds (VPCs) ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/vpc-encryption-controls-pricing/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-28-openai-our-agreement-with-the-department-of-war",
-      "date": "2026-02-28",
-      "name": "Our agreement with the Department of War",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/our-agreement-with-the-department-of-war"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-02-27-crewai-1-10-0",
-      "date": "2026-02-27",
-      "name": "1.10.0",
-      "vendor": "CrewAI",
-      "type": "pricing",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Enhance MCP tool resolution and related events</li>\n<li>Update lancedb version and add lance-namespace packages</li>\n<li>Enhance JSON argument parsing and validation in ",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.10.0"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
       "tags": []
     }
   ]
