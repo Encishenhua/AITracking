@@ -1,6 +1,150 @@
 {
   "items": [
     {
+      "id": "2026-03-12-aws-aws-private-ca-connector-for-scep-now-supports-aws",
+      "date": "2026-03-12",
+      "name": "AWS Private CA Connector for SCEP now supports AWS PrivateLink",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Private CA Connector for SCEP now supports AWS PrivateLink, allowing your clients to request certificates from within your Amazon Virtual Private Cloud (VPC) without traversing the public internet. With this launc",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-private-ca-connector-scep-privatelink/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-12-aws-aws-cdk-mixins-is-now-generally-available",
+      "date": "2026-03-12",
+      "name": "AWS CDK Mixins is now generally available",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS announces the general availability of CDK Mixins, a new feature of the AWS Cloud Development Kit (CDK) that lets you add composable, reusable abstractions to any AWS construct, whether L1, L2, or custom, without r",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-cdk-mixins/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-12-aws-amazon-bedrock-agentcore-memory-announces-streamin",
+      "date": "2026-03-12",
+      "name": "Amazon Bedrock AgentCore Memory announces streaming notifications for long-term memory",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock AgentCore Memory now supports streaming notifications for long-term memory, eliminating the need to poll for changes. Long-term memory extracts insights from agent interactions to deliver personalized e",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/agentcore-memory-streaming-ltm/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-12-aws-amazon-ec2-m8i-and-m8i-flex-instances-are-now-avai",
+      "date": "2026-03-12",
+      "name": "Amazon EC2 M8i and M8i-flex instances are now available in additional AWS Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon EC2 M8i and M8i-flex instances are now available in Europe (Ireland)<b> </b>and Europe (London)<b> </b>Regions. These instances are powered by custom Intel Xeon 6 processors, available only on A",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-m8i-m8i-flex-additional-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-12-aws-amazon-workspaces-now-supports-microsoft-windows-s",
+      "date": "2026-03-12",
+      "name": "Amazon WorkSpaces now supports Microsoft Windows Server 2025",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS announces availability of new bundles powered by&nbsp;Microsoft Windows&nbsp;Server 2025, offered for Amazon WorkSpaces Personal and Amazon WorkSpaces Core. With these bundles, customers can launch Windows Server ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-workspaces-windows-server-2025/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-12-aws-aws-backup-adds-logically-air-gapped-vault-support",
+      "date": "2026-03-12",
+      "name": "AWS Backup adds logically air-gapped vault support for Amazon EKS",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Backup logically air-gapped vault now supports Amazon EKS. Logically air-gapped vaults are a type of AWS Backup vault that allows secure sharing of backups across accounts and AWS Organizations, supporting direct ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-backup-logically-air-gapped-vault-amazon-eks/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-12-dust-spa-poke-21cbdd6-add-new-reinforcement-column-to-a",
+      "date": "2026-03-12",
+      "name": "spa/poke/21cbdd6: Add new reinforcement column to agent_configurations (#22890)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>Adds a reinforcement column to agent_configurations with values auto | on | off, defaulting to auto</li>\n<li>Filters out agents with reinforcement: \"off\" in getAgentConfigurationsActivity (the reinforced agent t",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F21cbdd6"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-12-dust-spa-poke-8e04603",
+      "date": "2026-03-12",
+      "name": "spa/poke/8e04603",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Use batch calls to LLM API in reinforced agents (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/22858\">#22858</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8e04603"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-03-11-openai-rakuten-fixes-issues-twice-as-fast-with-codex",
       "date": "2026-03-11",
       "name": "Rakuten fixes issues twice as fast with Codex",
@@ -929,150 +1073,6 @@
         {
           "title": "OpenAI source",
           "url": "https://openai.com/index/codex-security-now-in-research-preview"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-06-openai-how-balyasny-asset-management-built-an-ai-research",
-      "date": "2026-03-06",
-      "name": "How Balyasny Asset Management built an AI research engine for investing",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "See how Balyasny built an AI research system with GPT-5.4, rigorous model evaluation, and agent workflows to transform investment analysis at scale.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/balyasny-asset-management"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-06-aws-amazon-redshift-introduces-new-array-functions-for",
-      "date": "2026-03-06",
-      "name": "Amazon Redshift introduces new array functions for semi-structured data processing",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/redshift/\">Amazon Redshift</a> now supports nine new array functions for working with semi-structured data stored in the <a href=\"https://docs.aws.amazon.com/redshift/latest/dg/super-ov",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-redshift-nine-new-array-functions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-06-aws-amazon-ec2-r8g-instances-now-available-in-addition",
-      "date": "2026-03-06",
-      "name": "Amazon EC2 R8g instances now available in additional regions",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8g instances are available in AWS Middle East (UAE), AWS Mexico (Central), and AWS Europe (Zurich) regions. These instances are powered by AWS Graviton4 proce",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-r8g-instances-additional-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-06-dust-spa-poke-6f395a7",
-      "date": "2026-03-06",
-      "name": "spa/poke/6f395a7",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>fix(mcp): fallback to cached tools if admin is disconnected (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/22702\">#22702</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6f395a7"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-06-dust-spa-poke-e39a122",
-      "date": "2026-03-06",
-      "name": "spa/poke/e39a122",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>[front] Simplify dust global agent prompt: remove deep_dive delegatio…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fe39a122"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-05-openai-user-may-experience-errors-in-chatgpt",
-      "date": "2026-03-05",
-      "name": "User may experience errors in ChatGPT",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Conversations (Degraded performance)</li>\n          ",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KJXSQH2Y0XHSNCXM9R7T968C"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-05-openai-ensuring-ai-use-in-education-leads-to-opportunity",
-      "date": "2026-03-05",
-      "name": "Ensuring AI use in education leads to opportunity",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/ai-education-opportunity"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-05-openai-high-error-rate-in-realtime-api-eu",
-      "date": "2026-03-05",
-      "name": "High Error Rate in Realtime API (EU)",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Login (Operational)</li>\n<li>Files (Operational)</li>\n<li>Login (Opera",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KJZG0ADWGBF4K6AJ5EDFV52T"
         }
       ],
       "impact": 5,
