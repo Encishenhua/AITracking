@@ -1,6 +1,204 @@
 {
   "items": [
     {
+      "id": "2026-03-13-openai-responses-api-errors-when-using-background-mode",
+      "date": "2026-03-13",
+      "name": "Responses API errors when using background mode",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Responses (Operational)</li>\n          </ul>",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KKMB9HWS1B9452FT6BV6KDD6"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-13-aws-amazon-cloudwatch-application-signals-adds-new-slo",
+      "date": "2026-03-13",
+      "name": "Amazon CloudWatch Application Signals adds new SLO capabilities",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon CloudWatch Application Signals now offers three new console based capabilities for Service Level Objectives (SLOs): SLO Recommendations, Service-Level SLOs, and SLO Performance Report. CloudWatch Application Si",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/cloudwatch-application-signals-adds-slo-capabilities/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-13-aws-accelerate-serverless-application-development-with",
+      "date": "2026-03-13",
+      "name": "Accelerate serverless application development with new SAM Kiro power",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS announces the AWS Serverless Application Model (SAM)&nbsp;Kiro power, bringing serverless application development&nbsp;expertise&nbsp;to agentic AI development in Kiro. With this power, you can build, deploy, and ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-sam-kiro-power/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-13-aws-amazon-ec2-r8a-instances-are-now-available-in-asia",
+      "date": "2026-03-13",
+      "name": "Amazon EC2 R8a instances are now available in Asia Pacific (Tokyo) Region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon EC2 R8a instances are now available in Asia Pacific (Tokyo) Region. These instances, feature 5th Gen AMD EPYC processors (formerly code named Turin) with a maximum frequency of 4.5 GHz, deliver ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-r8a-instances-tokyo/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-13-aws-amazon-ec2-m8azn-instances-are-now-available-in-us",
+      "date": "2026-03-13",
+      "name": "Amazon EC2 M8azn instances are now available in US East (Ohio) Region",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, Amazon EC2 M8azn instances are now available in US East (Ohio) Region. These general purpose high-frequency high-network instances are powered by fifth generation AMD EPYC (formerly code named Turin) p",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-m8azn-instances-ohio/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-13-aws-aws-network-firewall-launch-in-the-aws-european-so",
+      "date": "2026-03-13",
+      "name": "AWS Network Firewall Launch in the AWS European Sovereign Cloud",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, AWS Network Firewall is available in the AWS European Sovereign Cloud. With this launch, European customers, particularly those in highly regulated industries, government agencies, and organizations wi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/network-firewall-european-sovereign-cloud-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-13-aws-amazon-ec2-hpc8a-instances-are-now-available-in-as",
+      "date": "2026-03-13",
+      "name": "Amazon EC2 Hpc8a instances are now available in Asia Pacific (Tokyo) and AWS GovCloud (US-West)",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon EC2 Hpc8a instances are available in Asia Pacific (Tokyo) and AWS GovCloud (US-West) regions. These instances are powered by 5th Gen AMD EPYC processors (formerly code named Turin). With a maxim",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-hpc8a-additional-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-13-aws-aws-lambda-managed-instances-now-supports-rust",
+      "date": "2026-03-13",
+      "name": "AWS Lambda Managed Instances now supports Rust",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Lambda Managed Instances now supports Rust, enabling developers to run high-performance Rust-based functions on Lambda-managed Amazon EC2 instances while maintaining Lambda’s operational simplicity. This combinati",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-lambda-managed-instances-rust/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-13-dust-spa-poke-5f86f47",
+      "date": "2026-03-13",
+      "name": "spa/poke/5f86f47",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front/components/agent_builder/observability/utils] - refactor: upda…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5f86f47"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-13-dust-spa-poke-3d7de70-front-fix-analytics-insights-time",
+      "date": "2026-03-13",
+      "name": "spa/poke/3d7de70: [front] - fix(analytics/insights): time-zone aware queries (#22882)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>[front/lib/utils] - feature: add timezone utility functions for date formatting and calculations</li>\n</ul>\n<ul>\n<li>Implement formatDateFromMillis to format dates according to specified IANA timezone</li>\n<li>C",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F3d7de70"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-13-crewai-1-10-2rc1",
+      "date": "2026-03-13",
+      "name": "1.10.2rc1",
+      "vendor": "CrewAI",
+      "type": "launch",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add release command and trigger PyPI publish</li>\n</ul>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Fix cross-process and thread-safe locking to unprotected I/O</li>\n<li>Propagate conte",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.10.2rc1"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-03-12-aws-aws-private-ca-connector-for-scep-now-supports-aws",
       "date": "2026-03-12",
       "name": "AWS Private CA Connector for SCEP now supports AWS PrivateLink",
@@ -140,6 +338,42 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-12-aws-opensearch-ui-supports-cross-account-data-access-t",
+      "date": "2026-03-12",
+      "name": "OpenSearch UI supports Cross Account Data Access to OpenSearch domains",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon OpenSearch Service now supports cross-account data access, enabling users to access OpenSearch domains hosted in different AWS accounts from within a single OpenSearch UI application. With this feature, you can",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/opensearch-ui-cross-account-data-access-domains/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-12-aws-new-lza-mcp-server-for-ai-assisted-configuration-m",
+      "date": "2026-03-12",
+      "name": "New LZA MCP Server for AI-assisted configuration management",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>The <a href=\"https://aws.amazon.com/solutions/implementations/landing-zone-accelerator-on-aws/\">Landing Zone Accelerator on AWS</a> (LZA) Model Context Protocol (MCP) Server is now open source, enabling organizations ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/new-lza-mcp-server-ai-assisted/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -523,6 +757,24 @@
       "tags": []
     },
     {
+      "id": "2026-03-11-aws-aws-firewall-manager-launches-in-aws-asia-pacific-",
+      "date": "2026-03-11",
+      "name": "AWS Firewall Manager launches in AWS Asia Pacific (New Zealand) Region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Firewall Manager announces that it is now available in AWS Asia Pacific (New Zealand) Region. AWS Firewall Manager helps cloud security administrators and site reliability engineers protect applications while redu",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-firewall-manager-launches-asia-pacific-new-zealand/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-03-10-openai-deep-research-requests-are-erroring-for-latam-user",
       "date": "2026-03-10",
       "name": "Deep Research requests are erroring for LATAM users",
@@ -821,258 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-cloudwatch-logs-increased-limits/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-09-aws-amazon-quick-suite-launches-user-preferences-for-c",
-      "date": "2026-03-09",
-      "name": "Amazon Quick Suite launches User Preferences for chat personalization",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>We are announcing User Preferences in Amazon Quick Suite – a new feature that gives users greater control over how Quick looks, feels, and works for them. With User Preferences, users can now customize their Chat pane",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/user-preferences-in-quick/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-09-aws-amazon-cognito-is-now-available-in-asia-pacific-ta",
-      "date": "2026-03-09",
-      "name": "Amazon Cognito is now available in Asia Pacific (Taipei) and Asia Pacific (New Zealand) Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Cognito is now available in the AWS Asia Pacific (Taipei) and Asia Pacific (New Zealand) Regions. This launch introduces all Amazon Cognito features and tiers, allowing customers to implement secure sign-in and",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/cognito-taipei-and-new-zealand-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-09-aws-iam-roles-anywhere-now-supports-post-quantum-digit",
-      "date": "2026-03-09",
-      "name": "IAM Roles Anywhere now supports post-quantum digital certificates",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/iam/roles-anywhere/\">AWS Identity and Access Management (IAM) Roles Anywhere</a> now supports the <a href=\"https://csrc.nist.gov/pubs/fips/204/final\">FIPS 204 Module-Lattice Digital Sig",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/iam-roles-anywhere-post-quantum-digital-certificates"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-09-aws-amazon-ec2-g7e-instances-now-available-in-asia-pac",
-      "date": "2026-03-09",
-      "name": "Amazon EC2 G7e instances now available in Asia Pacific (Seoul) and Europe (Spain) regions",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Starting today, Amazon EC2 G7e instances accelerated by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs are now available in &nbsp;Asia Pacific (Seoul) and Europe (Spain) regions. G7e instances offer up to 2.3x infe",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-g7e-seoul-spain-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-09-langchain-langgraph-how-we-built-langchain-s-gtm-agent",
-      "date": "2026-03-09",
-      "name": "How we built LangChain’s GTM Agent",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "Learn how we built a GTM agent that increased lead conversion by 250% while saving each sales rep 40 hours per month",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/how-we-built-langchains-gtm-agent/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-03-09-dust-spa-poke-7162134-add-flag-to-restrict-builder-agen",
-      "date": "2026-03-09",
-      "name": "spa/poke/7162134: Add flag to restrict builder agent publishing (#22746)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>Add flag to restrict builder agent publishing</p>\n</li>\n<li>\n<p>Fix error message</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F7162134"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-09-dust-spa-poke-2764de1-rename-copilot-to-sidekick-throug",
-      "date": "2026-03-09",
-      "name": "spa/poke/2764de1: Rename copilot to sidekick throughout the code (#22719)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>I didn't rename the feature flags, to avoid disturbing enabled workspaces</li>\n<li>I <strong>did</strong> rename the <code>source</code> in the suggestions table, which will cause some pending suggestions to be ",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2764de1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-09-dust-spa-poke-43b3fa0-monitor-the-inmemoryspanexporter-",
-      "date": "2026-03-09",
-      "name": "spa/poke/43b3fa0: monitor the InMemorySpanExporter to see if it leaks memory (#22730)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Co-authored-by: Fabien <a href=\"mailto:fabiencelier@Fabiens-MacBook-Pro.local\">fabiencelier@Fabiens-MacBook-Pro.local</a></p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F43b3fa0"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-09-dust-spa-app-7162134-add-flag-to-restrict-builder-agent",
-      "date": "2026-03-09",
-      "name": "spa/app/7162134: Add flag to restrict builder agent publishing (#22746)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>Add flag to restrict builder agent publishing</p>\n</li>\n<li>\n<p>Fix error message</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F7162134"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-09-aws-amazon-route-53-global-resolver-is-now-generally-a",
-      "date": "2026-03-09",
-      "name": "Amazon Route 53 Global Resolver is now generally available",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS announced the general availability of Amazon Route 53 Global Resolver, an internet-reachable anycast DNS resolver that delivers easy, secure, and reliable DNS resolution for authorized clients from anywhere",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-route-53-global-resolver/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-09-aws-amazon-sagemaker-unified-studio-now-supports-faste",
-      "date": "2026-03-09",
-      "name": "Amazon SageMaker Unified Studio now supports faster data preview in Visual ETL",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/sagemaker/unified-studio/\">Amazon SageMaker Unified Studio </a>introduces data preview v2.0 for Visual ETL, a new data preview mode that delivers near-instant results when building and ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-unified-studio-faster-data-preview/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-06-dust-spa-poke-5c5e369",
-      "date": "2026-03-06",
-      "name": "spa/poke/5c5e369",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Auto populate agent name for sidekick template use case (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/22667\">#22667</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5c5e369"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-06-dust-spa-app-5c5e369",
-      "date": "2026-03-06",
-      "name": "spa/app/5c5e369",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Auto populate agent name for sidekick template use case (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/22667\">#22667</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F5c5e369"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-06-openai-codex-security-now-in-research-preview",
-      "date": "2026-03-06",
-      "name": "Codex Security: now in research preview",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/codex-security-now-in-research-preview"
         }
       ],
       "impact": 5,
