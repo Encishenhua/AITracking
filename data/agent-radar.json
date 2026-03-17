@@ -1,6 +1,222 @@
 {
   "items": [
     {
+      "id": "2026-03-16-aws-amazon-cloudwatch-introduces-organization-wide-ec2",
+      "date": "2026-03-16",
+      "name": "Amazon CloudWatch introduces organization-wide EC2 detailed monitoring enablement",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon CloudWatch now allows customers to automatically enable Amazon Elastic Compute Cloud (EC2) detailed monitoring across their AWS Organization. Customers can create enablement rules in CloudWatch Ingestion that a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/cloudwatch-org-enablement-ec2-metrics/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-16-aws-sagemaker-hyperpod-now-supports-idle-resource-shar",
+      "date": "2026-03-16",
+      "name": "SageMaker HyperPod now supports idle resource sharing for dynamic cluster utilization",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker HyperPod task governance now supports dynamic resource sharing, allowing teams to borrow unallocated compute capacity in HyperPod clusters beyond their guaranteed quotas. Administrators can also confi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/sagemaker-hyperpod-idle-resource-sharing/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-16-aws-amazon-neptune-now-supports-reading-s3-data-using-",
+      "date": "2026-03-16",
+      "name": "Amazon Neptune now supports reading S3 data using openCyper",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/neptune/\" target=\"_blank\">Amazon Neptune</a>&nbsp;now supports reading data from Amazon S3 within openCypher queries. Through the new `neptune.read()` procedure, customers now have an a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/neptune-read-s3-opencypher/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-16-aws-amazon-timestream-for-influxdb-3-now-supports-expa",
+      "date": "2026-03-16",
+      "name": "Amazon Timestream for InfluxDB 3 Now Supports Expanded Multi-Node Cluster Configurations",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Timestream for InfluxDB now supports expanded multi-node cluster configurations for InfluxDB 3 Enterprise edition, enabling you to scale clusters up to 15 nodes for demanding production workloads requiring high",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-timestream-for-influxdb-3-multi-node-cluster/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-16-aws-announcing-aws-partner-central-agents-to-accelerat",
+      "date": "2026-03-16",
+      "name": "Announcing AWS Partner Central agents to accelerate co-sell",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the general availability of AWS Partner Central agents, new AI-powered capabilities designed to accelerate partner co-selling with AWS. Built on Amazon Bedrock AgentCore, these agentic capabilitie",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-partner-central-agents-accelerate-co-sell/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-16-aws-amazon-connect-now-enables-agents-to-forward-email",
+      "date": "2026-03-16",
+      "name": "Amazon Connect now enables agents to forward email contacts to external email addresses",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect now enables agents to forward email contacts to external email addresses and distribution lists directly from the Agent workspace and Contact Center Panel. When an email is forwarded, agents still retai",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-forward-email-contacts/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-16-langchain-langgraph-langchain-announces-enterprise-agentic-ai-platform",
+      "date": "2026-03-16",
+      "name": "LangChain Announces Enterprise Agentic AI Platform Built with NVIDIA",
+      "vendor": "LangChain/LangGraph",
+      "type": "upgrade",
+      "summary": "<p><em>Comprehensive agent engineering platform combined with NVIDIA AI enables enterprises to build, deploy, and monitor production-grade AI agents at scale</em></p><p><a href=\"https://www.prnewswire.com/news-releases/l",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/nvidia-enterprise/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-03-16-langchain-langgraph-introducing-deploy-cli",
+      "date": "2026-03-16",
+      "name": "Introducing deploy cli",
+      "vendor": "LangChain/LangGraph",
+      "type": "launch",
+      "summary": "<p>We&#x2019;re excited to introduce the deploy cli, a new set of commands within the <code>langgraph-cli</code> package that makes it simple to deploy and manage agents directly from the command line.</p><p>The first co",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/introducing-deploy-cli/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-03-16-flowise-flowise-3-1-0",
+      "date": "2026-03-16",
+      "name": "flowise@3.1.0",
+      "vendor": "Flowise",
+      "type": "launch",
+      "summary": "<h2>⚠️ Breaking Changes</h2>\n<h3>HTTP security checks enabled by default</h3>\n<p>Flowise now enables <strong>HTTP security validation by default</strong> to prevent requests to unsafe or internal domains.</p>\n<p>A built-",
+      "sources": [
+        {
+          "title": "Flowise source",
+          "url": "https://github.com/FlowiseAI/Flowise/releases/tag/flowise%403.1.0"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-03-16-dust-spa-poke-5235f45",
+      "date": "2026-03-16",
+      "name": "spa/poke/5235f45",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Improve parallelism in reinforced-agent workflows (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/22956\">#22956</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5235f45"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-16-dust-spa-poke-fee13d7",
+      "date": "2026-03-16",
+      "name": "spa/poke/fee13d7",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Fix unbounded LRU cache causing memory leak in agent-loop workers (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/2\">#2</a>…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Ffee13d7"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-16-crewai-1-11-0rc1",
+      "date": "2026-03-16",
+      "name": "1.11.0rc1",
+      "vendor": "CrewAI",
+      "type": "upgrade",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add Plus API token authentication for a2a enterprise</li>\n<li>Implement plan execute pattern</li>\n</ul>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Resolve code interpreter sandbox esca",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.11.0rc1"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-03-13-openai-responses-api-errors-when-using-background-mode",
       "date": "2026-03-13",
       "name": "Responses API errors when using background mode",
@@ -196,6 +412,24 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-03-13-aws-amazon-bedrock-agentcore-runtime-now-supports-the-",
+      "date": "2026-03-13",
+      "name": "Amazon Bedrock AgentCore Runtime now supports the AG-UI protocol",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock AgentCore Runtime now supports the Agent-User Interaction (AG-UI) protocol, enabling developers to deploy AG-UI servers that deliver responsive, real-time agent experiences to user-facing applications. ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-agentcore-runtime-ag-ui-protocol/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
       "tags": []
     },
     {
@@ -839,240 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-agentcore-runtime-stateful-mcp/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-10-aws-amazon-bedrock-now-supports-observability-of-first",
-      "date": "2026-03-10",
-      "name": "Amazon Bedrock now supports observability of First Token Latency and Quota Consumption",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Bedrock is a fully managed service for building generative AI applications using high-performing foundation models from leading AI providers. It now supports two new CloudWatch metrics, TimeToFirstToken and Est",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-observability-ttft-quota/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-10-aws-aws-builder-id-now-supports-sign-in-with-github-an",
-      "date": "2026-03-10",
-      "name": "AWS Builder ID now supports Sign in with GitHub and Amazon",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Builder ID, your&nbsp;profile for accessing AWS applications including AWS Builder Center, AWS Training and Certification and Kiro, now supports&nbsp;two new social logins:&nbsp;GitHub&nbsp;and Amazon. This expans",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-builder-id-sign-in-github-amazon/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-10-aws-amazon-connect-enhances-ai-powered-predictive-insi",
-      "date": "2026-03-10",
-      "name": "Amazon Connect enhances AI-powered predictive insights",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, Amazon Connect is announcing enhancements to AI-powered predictive insights that make it easier for businesses to deliver proactive, personalized customer experiences at scale. Building on the five recommendati",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-predictive-insights/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-10-aws-amazon-connect-now-supports-conversational-analyti",
-      "date": "2026-03-10",
-      "name": "Amazon Connect now supports conversational analytics for email",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect now supports conversational analytics for email contacts, enabling contact center managers to automatically categorize emails, redact personally identifiable information (PII), and generate contact summ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-conversational-analytics-email/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-10-aws-amazon-connect-introduces-ai-powered-manager-assis",
-      "date": "2026-03-10",
-      "name": "Amazon Connect introduces AI-powered manager assistance (Preview)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, Amazon Connect announces the preview of an AI-powered assistant that enables contact center managers to get instant answers to operational questions using natural language. You can query across 150+ Amazon Conn",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-ai-powered-manager-assistance/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-10-langchain-langgraph-how-coding-agents-are-reshaping-engineering-produc",
-      "date": "2026-03-10",
-      "name": "How Coding Agents Are Reshaping Engineering, Product and Design",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "<p>EPD (Engineering, Product, and Design) at software company is about creating good software. Separate roles exist, but the end goal is functional software that solves a business problem that users can use. At the end o",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/how-coding-agents-are-reshaping-engineering-product-and-design/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-03-10-dust-spa-poke-6505752-front-feat-skillbuilder-full-diff",
-      "date": "2026-03-10",
-      "name": "spa/poke/6505752: [front] - feat(SkillBuilder): full diff (#22787)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>[shared/tools_picker] - feature: update ActionCard component for diff support</li>\n</ul>\n<ul>\n<li>Extend ActionCard component to support visual diffing with new props handling</li>\n<li>Add conditionals to render",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6505752"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-10-dust-spa-poke-5976984-add-fathom-mcp-22760",
-      "date": "2026-03-10",
-      "name": "spa/poke/5976984: Add Fathom MCP (#22760)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>Add Fathom MCP</p>\n</li>\n<li>\n<p>Address comments</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5976984"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-10-dust-spa-poke-3041bb0",
-      "date": "2026-03-10",
-      "name": "spa/poke/3041bb0",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>[front] chore: reorganize skill GitHub import files (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/22742\">#22742</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F3041bb0"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-10-dust-spa-poke-916d16c",
-      "date": "2026-03-10",
-      "name": "spa/poke/916d16c",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>feat(mcp): deeper RFC compliance for MCP token refresh (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/22773\">#22773</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F916d16c"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-10-dust-spa-poke-0230a91",
-      "date": "2026-03-10",
-      "name": "spa/poke/0230a91",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[Remote MCP] Miro add (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/22781\">#22781</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F0230a91"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-10-dust-spa-poke-72f6be8-byok-add-model-providers-admin-pa",
-      "date": "2026-03-10",
-      "name": "spa/poke/72f6be8: [BYOK] Add Model Providers admin page with per-provider toggles (#22774)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>feat(auth): expose isByok on AuthenticatorType</li>\n</ul>\n<p>Add <code>isByok</code> field to <code>AuthenticatorType</code> interface and populate it in<br />\n<code>Authenticator.toJSON()</code> from the plan, ",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F72f6be8"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-09-aws-amazon-cloudwatch-logs-announces-increased-query-c",
-      "date": "2026-03-09",
-      "name": "Amazon CloudWatch Logs announces increased query concurrency and API limits",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon CloudWatch Logs customers can now run up to 100 concurrent queries per account using&nbsp; Logs Insights Query Language (Logs Insights QL). Customers can also execute 10 StartQuery API and 10 GetQueryResults AP",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-cloudwatch-logs-increased-limits/"
         }
       ],
       "impact": 5,
