@@ -1,6 +1,312 @@
 {
   "items": [
     {
+      "id": "2026-03-18-aws-amazon-connect-expands-agentic-speech-to-speech-vo",
+      "date": "2026-03-18",
+      "name": "Amazon Connect expands agentic speech-to-speech voice experiences to the London (Europe) region and adds three new voices",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Connect now offers agentic speech-to-speech voice experiences in an&nbsp;additional&nbsp;AWS Region: Europe (London). Amazon Connect also adds three new speech-to-speech voices across US Spanish and UK English:",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-london-europe-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-17-openai-introducing-gpt-5-4-mini-and-nano",
+      "date": "2026-03-17",
+      "name": "Introducing GPT-5.4 mini and nano",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-17-openai-equipping-workers-with-insights-about-compensation",
+      "date": "2026-03-17",
+      "name": "Equipping workers with insights about compensation",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-17-aws-amazon-connect-voice-ai-agents-now-supports-13-new",
+      "date": "2026-03-17",
+      "name": "Amazon Connect voice AI agents now supports 13 new languages",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Connect now supports 13 new languages for voice AI agents, bringing the total to 40 language locales.&nbsp;&nbsp;New languages include Arabic (Saudi Arabia), Czech, Danish, Dutch (Belgium), English (Ireland), E",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-voice-ai-agents-13-languages/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-17-aws-amazon-sagemaker-unified-studio-supports-aggregate",
+      "date": "2026-03-17",
+      "name": "Amazon SageMaker Unified Studio supports aggregated view of data lineage",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/sagemaker/unified-studio/\">Amazon SageMaker Unified Studio</a> now provides an aggregated view of data lineage, displaying all jobs contributing to your dataset. The aggregated view giv",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sageMaker-unified-studio-aggregated-view -data-lineage/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-17-aws-sagemaker-training-plans-now-enables-extending-of-",
+      "date": "2026-03-17",
+      "name": "SageMaker Training Plans now enables extending of existing capacity commitments without workload reconfiguration",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://docs.aws.amazon.com/sagemaker/latest/dg/reserve-capacity-with-training-plans.html\">SageMaker Training Plans</a> allows you to reserve GPU capacity within specified time frames in cluster sizes of up t",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-training-plan-extension/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-17-aws-aws-blu-insights-is-now-aws-transform-for-mainfram",
+      "date": "2026-03-17",
+      "name": "AWS Blu Insights is now AWS Transform for mainframe refactor",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Blu Insights capabilities are now available as part of AWS Transform, enabling customers to launch mainframe refactoring projects from the AWS Transform console. This launch unifies all three mainframe modernizati",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-transform-mainframe-refactor/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-17-aws-amazon-bedrock-agentcore-runtime-now-supports-shel",
+      "date": "2026-03-17",
+      "name": "Amazon Bedrock AgentCore Runtime now supports shell command execution",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock AgentCore Runtime now supports InvokeAgentRuntimeCommand, a new API that lets you execute shell commands directly inside a running AgentCore Runtime session. Developers can send a command, stream the ou",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/bedrock-agentcore-runtime-shell-command/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-17-aws-amazon-corretto-26-is-now-generally-available",
+      "date": "2026-03-17",
+      "name": "Amazon Corretto 26 is now generally available",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Corretto 26, a Feature Release (FR) version, is now available for download. <a href=\"https://aws.amazon.com/corretto/\">Amazon Corretto</a> is a no-cost, multi-platform, production-ready distribution of <a href=",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-corretto-26-generally-available/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-17-aws-amazon-rds-enhancements-for-sql-server-developer-e",
+      "date": "2026-03-17",
+      "name": "Amazon RDS enhancements for SQL Server Developer Edition",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for SQL Server</a> now supports Additional Storage Volumes, Resource Governor, and SQL Server 2019 with S",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-rds-enhancements-for-sql-server-developer-edition/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-17-aws-amazon-bedrock-is-now-available-in-asia-pacific-ne",
+      "date": "2026-03-17",
+      "name": "Amazon Bedrock is now available in Asia Pacific (New Zealand)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, customers can use Amazon Bedrock in the Asia Pacific (New Zealand) Region to easily build and scale generative AI applications using a variety of foundation models (FMs) as well as powerful tools to bu",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-asia-pacific-new-zealand/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-17-langchain-langgraph-introducing-langsmith-sandboxes-secure-code-execut",
+      "date": "2026-03-17",
+      "name": "Introducing LangSmith Sandboxes: Secure Code Execution for Agents",
+      "vendor": "LangChain/LangGraph",
+      "type": "launch",
+      "summary": "Spin up a sandbox in a single line of code with the LangSmith SDK. Now in Private Preview.",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/introducing-langsmith-sandboxes-secure-code-execution-for-agents/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-03-17-langchain-langgraph-open-swe-an-open-source-framework-for-internal-cod",
+      "date": "2026-03-17",
+      "name": "Open SWE: An Open-Source Framework for Internal Coding Agents",
+      "vendor": "LangChain/LangGraph",
+      "type": "upgrade",
+      "summary": "Built on Deep Agents and LangGraph, Open SWE provides the core architectural components for internal coding agents.",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/open-swe-an-open-source-framework-for-internal-coding-agents/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-03-17-dust-spa-poke-7994c86",
+      "date": "2026-03-17",
+      "name": "spa/poke/7994c86",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Only shows the Reinforced agents suggestions if the flag is activated…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F7994c86"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-17-dust-spa-poke-1761ff8",
+      "date": "2026-03-17",
+      "name": "spa/poke/1761ff8",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Poke: Add a time option for triggering the reinforced agent (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/23090\">#23090</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F1761ff8"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-17-dust-spa-poke-61de7f5",
+      "date": "2026-03-17",
+      "name": "spa/poke/61de7f5",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Poke: Add delete button for agent suggestions (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/23060\">#23060</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F61de7f5"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-17-crewai-1-11-0rc2",
+      "date": "2026-03-17",
+      "name": "1.11.0rc2",
+      "vendor": "CrewAI",
+      "type": "upgrade",
+      "summary": "<h2>What's Changed</h2>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Enhance LLM response handling and serialization.</li>\n<li>Upgrade vulnerable transitive dependencies (authlib, PyJWT, snowflake-connector-python).</li>\n<li>Replace <cod",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.11.0rc2"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-03-16-aws-amazon-cloudwatch-introduces-organization-wide-ec2",
       "date": "2026-03-16",
       "name": "Amazon CloudWatch introduces organization-wide EC2 detailed monitoring enablement",
@@ -214,6 +520,24 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-03-16-aws-amazon-cloudwatch-logs-now-supports-log-ingestion-",
+      "date": "2026-03-16",
+      "name": "Amazon CloudWatch Logs now supports log ingestion using HTTP-based protocol",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon CloudWatch Logs now supports HTTP Log Collector (HLC), ND-JSON, Structured JSON and OTEL for&nbsp;sending logs using HTTP-based protocol with bearer token.&nbsp;With this launch, customers can ingest logs where",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/cloudwatch-http-log-collector/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
       "tags": []
     },
     {
@@ -749,330 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-r7gd-instances-available/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-11-aws-amazon-cloudwatch-database-insights-on-demand-anal",
-      "date": "2026-03-11",
-      "name": "Amazon CloudWatch Database Insights on-demand analysis now available in AWS Govcloud (US) Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon CloudWatch Database Insights expands the availability of its on-demand analysis experience to AWS GovCloud (US-East) and AWS GovCloud (US-West). CloudWatch Database Insights is a monitoring and diagnostics solu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-cloudwatch-database-insights-on-demand-analysis-in-govcloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-11-aws-amazon-connect-now-provides-integrated-workflows-f",
-      "date": "2026-03-11",
-      "name": "Amazon Connect now provides integrated workflows for managers to coach agents",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Connect now delivers integrated agent coaching workflows that enable contact center managers to provide timely, targeted feedback directly within the Connect UI. When managers identify improvement opportunities",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-integrated-agent-coaching-workflows/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-11-aws-amazon-ec2-high-memory-u7i-instances-now-available",
-      "date": "2026-03-11",
-      "name": "Amazon EC2 High Memory U7i instances now available in additional regions",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon EC2 High Memory U7i instances with 8TB of memory (u7i-8tb.112xlarge) are now available in AWS Asia Pacific (Hyderabad), and U7i instances with 12TB of memory (u7i-12tb.224xlarge) are now available in AWS Europe",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-high-memory-u7i-instances/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-11-aws-amazon-connect-now-lets-you-select-different-from-",
-      "date": "2026-03-11",
-      "name": "Amazon Connect now lets you select different From email addresses when sending emails",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect now enables you to choose the \"From\" email address when replying to inbound emails or sending new outbound messages, helping contact centers ensure the correct brand or business identity is used for eve",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-agents-select-from-email/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-11-aws-amazon-connect-now-provides-case-data-in-analytics",
-      "date": "2026-03-11",
-      "name": "Amazon Connect now provides case data in analytics data lake",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect now provides case data in the analytics data lake, making it easier for you to generate reports and insights. With case data available alongside other Amazon Connect analytics, you can use Amazon Athena",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-cases-data-lake"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-11-aws-aws-backup-expands-support-for-amazon-rds-multi-az",
-      "date": "2026-03-11",
-      "name": "AWS Backup expands support for Amazon RDS Multi-AZ clusters to 17 Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Backup for Amazon RDS Multi-AZ clusters is now available in 17 additional AWS Regions: Asia Pacific (Mumbai, Osaka, Seoul, Hong Kong, Jakarta, Hyderabad, Melbourne, Malaysia), Europe (London, Paris, Milan, Zurich,",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-backup-expands-amazon-rds-multi-az-clusters-17-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-11-aws-amazon-neptune-database-adds-native-spatial-data-s",
-      "date": "2026-03-11",
-      "name": "Amazon Neptune Database adds native spatial data support",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/neptune/\" target=\"_blank\">Amazon Neptune</a> Database now includes comprehensive spatial data capabilities, addressing the growing need for location-aware insights in graph database app",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.comhttps://aws.amazon.com/about-aws/whats-new/2026/03/amazon-neptune-database-spatial-data/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-11-langchain-langgraph-autonomous-context-compression",
-      "date": "2026-03-11",
-      "name": "Autonomous context compression",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "<p><em>TL;DR: We&apos;ve added a tool to the </em><a href=\"https://docs.langchain.com/oss/python/deepagents/overview?ref=blog.langchain.com\"><em>Deep Agents SDK</em></a><em> (Python) and </em><a href=\"https://docs.langch",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/autonomous-context-compression/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-03-11-langchain-langgraph-the-anatomy-of-an-agent-harness",
-      "date": "2026-03-11",
-      "name": "The Anatomy of an Agent Harness",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "<p><em>By Vivek Trivedy</em></p><p><strong>TLDR:</strong> Agent = Model + Harness.  Harness engineering is how we build systems around models to turn them into work engines.  The model contains the intelligence and the h",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/the-anatomy-of-an-agent-harness/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-03-11-dust-spa-poke-68d4b89-front-refacto-actioncards-share-c",
-      "date": "2026-03-11",
-      "name": "spa/poke/68d4b89: [front] - refacto(ActionCards): share component (#22816)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>[sparkle] - refactor: update ActionCard component to handle different states</li>\n</ul>\n<ul>\n<li>Extend the <code>ActionCardProps</code> to differentiate between selectable, display, and display with diff indica",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F68d4b89"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-11-dust-spa-poke-f0a69a8-fix-memory-leaks-in-agent-loop-wo",
-      "date": "2026-03-11",
-      "name": "spa/poke/f0a69a8: Fix memory leaks in agent-loop worker from uncancelled timers (#22848)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>Fix memory leaks in agent-loop worker from uncancelled timers and unclosed generators</p>\n</li>\n<li>\n<p>Always end Langfuse generation</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Ff0a69a8"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-11-dust-spa-poke-ec17e40",
-      "date": "2026-03-11",
-      "name": "spa/poke/ec17e40",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[Front] feat(byok): add LLMCredentialsType and workspace-aware creden…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fec17e40"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-11-crewai-1-10-2a1",
-      "date": "2026-03-11",
-      "name": "1.10.2a1",
-      "vendor": "CrewAI",
-      "type": "launch",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add support for tool search by saving tokens and dynamically injecting appropriate tools during execution.</li>\n<li>Introduce more Brave Search tools.</li>\n<li>Create ac",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.10.2a1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-03-11-aws-aws-firewall-manager-launches-in-aws-asia-pacific-",
-      "date": "2026-03-11",
-      "name": "AWS Firewall Manager launches in AWS Asia Pacific (New Zealand) Region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Firewall Manager announces that it is now available in AWS Asia Pacific (New Zealand) Region. AWS Firewall Manager helps cloud security administrators and site reliability engineers protect applications while redu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-firewall-manager-launches-asia-pacific-new-zealand/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-10-openai-deep-research-requests-are-erroring-for-latam-user",
-      "date": "2026-03-10",
-      "name": "Deep Research requests are erroring for LATAM users",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Deep Research (Operational)</li>\n          </ul>",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KKAD2PHFBC0DP0X6ZQTJJ4D4"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-10-openai-codex-unresponsive",
-      "date": "2026-03-10",
-      "name": "Codex unresponsive",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Identified</b><br /><br />We are still working on implementing a mitigation.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Codex (Degraded performance)</li>\n          </ul>",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KK9JA8JKQKDW1W24T09NHBYH"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-10-openai-increased-errors-on-chatgpt-file-uploads",
-      "date": "2026-03-10",
-      "name": "Increased errors on ChatGPT File Uploads",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>File uploads (Degraded performance)</li>\n          <",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KKCT34VDK552CSMP286DS9HE"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-10-aws-amazon-bedrock-agentcore-runtime-now-supports-stat",
-      "date": "2026-03-10",
-      "name": "Amazon Bedrock AgentCore Runtime now supports stateful MCP server features",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock AgentCore Runtime now supports stateful Model Context Protocol (MCP) server features, enabling developers to build MCP servers that leverage elicitation, sampling, and progress notifications alongside e",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-agentcore-runtime-stateful-mcp/"
         }
       ],
       "impact": 5,
