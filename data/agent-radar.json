@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "2026-03-19-dust-spa-poke-cf2206d-add-client-side-mcp-deregister-ap",
+      "date": "2026-03-19",
+      "name": "spa/poke/cf2206d: Add client side MCP deregister API (#23048)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>Add client side MCP deregister API</p>\n</li>\n<li>\n<p>Add typeguard and unit test</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fcf2206d"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-19-dust-spa-app-cf2206d-add-client-side-mcp-deregister-api",
+      "date": "2026-03-19",
+      "name": "spa/app/cf2206d: Add client side MCP deregister API (#23048)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>Add client side MCP deregister API</p>\n</li>\n<li>\n<p>Add typeguard and unit test</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2Fcf2206d"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-03-18-aws-amazon-connect-expands-agentic-speech-to-speech-vo",
       "date": "2026-03-18",
       "name": "Amazon Connect expands agentic speech-to-speech voice experiences to the London (Europe) region and adds three new voices",
@@ -14,6 +50,276 @@
         }
       ],
       "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-18-aws-minimax-m2-5-and-glm-5-models-now-available-on-ama",
+      "date": "2026-03-18",
+      "name": "Minimax M2.5 and GLM 5 models now available on Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Bedrock expands model selection for customers by adding support for GLM 5 and Minimax M2.5. GLM 5 is a frontier‑class, general‑purpose large language model optimized for complex systems engineering and long‑hor",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-minimax-glm/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-18-aws-amazon-ec2-high-memory-u7i-6tb-instances-now-avail",
+      "date": "2026-03-18",
+      "name": "Amazon EC2 High Memory U7i-6TB instances now available in Asia Pacific (Malaysia)",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon EC2 High Memory U7i instances with 6TB of memory (u7i-6tb.112xlarge) are now available in AWS Asia Pacific (Malaysia). U7i instances are part of AWS 7th generation and are powered by custom fourth generation In",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/ec2-high-memory-u7i-6tb-asia-pacific/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-18-aws-nvidia-nemotron-3-super-now-available-on-amazon-be",
+      "date": "2026-03-18",
+      "name": "NVIDIA Nemotron 3 Super now available on Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Bedrock now supports NVIDIA Nemotron 3 Super, an open hybrid Mixture-of-Experts (MoE) model designed for complex multi-agent applications. Built for agentic workloads, Nemotron 3 Super delivers fast, and cost-e",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-nemotron-3-super/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-18-aws-amazon-s3-access-grants-are-now-available-in-the-a",
+      "date": "2026-03-18",
+      "name": "Amazon S3 Access Grants are now available in the AWS Asia Pacific (New Zealand) Region",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>You can now create Amazon S3 Access Grants in the AWS Asia Pacific (New Zealand) Region.</p> \n<p>Amazon S3 Access Grants map identities in directories such as Microsoft Entra ID, or AWS Identity and Access Management ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-s3-access-grants-new-zealand/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-18-aws-amazon-ec2-m6in-and-m6idn-instances-are-now-availa",
+      "date": "2026-03-18",
+      "name": "Amazon EC2 M6in and M6idn instances are now available in Europe (London) Region",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, <a href=\"https://aws.amazon.com/ec2/instance-types/m6i\">Amazon Elastic Compute Cloud (Amazon EC2) M6in and M6idn instances</a> are available in AWS London Region. These sixth-generation network optimiz",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-m6in-m6idn-instances-london/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-18-aws-amazon-ec2-c8a-instances-now-available-in-the-asia",
+      "date": "2026-03-18",
+      "name": "Amazon EC2 C8a instances now available in the Asia Pacific (Tokyo) region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, the compute-optimized Amazon EC2 C8a instances are available in the Asia Pacific (Tokyo) region. C8a instances are powered by 5th Gen AMD EPYC processors (formerly code named Turin) with a maximum freq",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-r8a-instances-asia-pacific-tokyo-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-18-aws-amazon-inspector-expands-agentless-ec2-scanning-an",
+      "date": "2026-03-18",
+      "name": "Amazon Inspector expands agentless EC2 scanning and introduces Windows KB-based findings",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Inspector now offers expanded agentless EC2 scanning with enhanced detection coverage, including new support for Windows operating system vulnerability scanning without requiring an agent. Security teams and IT",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-inspector-agentless-ec2-scanning-windows/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-18-aws-aws-config-launches-75-new-managed-rules",
+      "date": "2026-03-18",
+      "name": "AWS Config launches 75 new managed rules",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Config announces the launch of an additional 75 managed Config rules for various use cases such as security, durability, and operations. You can now search, discover, enable and manage these additional rules direc",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-config-launches-new-rules/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-18-aws-amazon-redshift-increases-performance-for-new-quer",
+      "date": "2026-03-18",
+      "name": "Amazon Redshift increases performance for new queries in dashboards and ETL workloads by up to 7x",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p><a href=\"https://aws.amazon.com/redshift\">Amazon Redshift</a> improves the performance of BI dashboards and ETL workloads by speeding up new queries by up to 7x. This significantly improves the response times of low-l",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-redshift-increases-performance-for-new-queries/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-18-aws-amazon-sagemaker-unified-studio-adds-custom-metada",
+      "date": "2026-03-18",
+      "name": "Amazon SageMaker Unified Studio adds custom metadata filters",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon SageMaker Unified Studio adds custom metadata search filters, enabling customers to narrow catalog search results using organization-specific attributes. This helps customers find the right assets faster by fil",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-smus-custom-metadata-search/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-18-aws-amazon-opensearch-service-now-supports-opensearch-",
+      "date": "2026-03-18",
+      "name": "Amazon OpenSearch Service now supports OpenSearch version 3.5",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>You can now run OpenSearch version 3.5 on Amazon OpenSearch Service. OpenSearch 3.5 introduces significant improvements in agentic AI capabilities, search relevance tooling, and observability features to help you buil",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-opensearch-service-version-3-5/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-18-langchain-langgraph-polly-is-generally-available-everywhere-you-work-i",
+      "date": "2026-03-18",
+      "name": "Polly is generally available everywhere you work in LangSmith",
+      "vendor": "LangChain/LangGraph",
+      "type": "launch",
+      "summary": "<p>Debugging agents is different from debugging anything else you&apos;ve built. Traces run hundreds of steps deep, prompts span thousands of lines, and when something goes wrong, the context that caused it is buried som",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/polly-langsmith-ga/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-03-18-dust-spa-poke-27461a8-fix-tracking-fixes-for-authentica",
+      "date": "2026-03-18",
+      "name": "spa/poke/27461a8: fix: tracking fixes for authenticated users (#23211)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>🔧 use dust aid to bridge posthog identity</p>\n</li>\n<li>\n<p>📝 comment</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F27461a8"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-18-dust-spa-poke-639da9d-add-a-close-button-on-frames-erro",
+      "date": "2026-03-18",
+      "name": "spa/poke/639da9d: Add a close button on frames error in extension (#23113)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>Add a close button on frames error in extension</p>\n</li>\n<li>\n<p>Always add the header</p>\n</li>\n<li>\n<p>Split AgentBrowser into multiple components</p>\n</li>\n<li>\n<p>cleaning</p>\n</li>\n<li>\n<p>Use useClien",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F639da9d"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-18-dust-spa-poke-95fe105-mcp-views-notify-admins-about-aff",
+      "date": "2026-03-18",
+      "name": "spa/poke/95fe105: [MCP Views] Notify admins about affected agents on global share (#23102)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>Email admins about MCP reconfiguration impact</p>\n</li>\n<li>\n<p>Address MCP sharing review feedback</p>\n</li>\n<li>\n<p>Refine MCP sharing impact helpers</p>\n</li>\n<li>\n<p>Adjust MCP view creation return shape",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F95fe105"
+        }
+      ],
+      "impact": 3,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -304,6 +610,42 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-03-17-aws-aws-elemental-mediaconnect-adds-support-for-ndi-in",
+      "date": "2026-03-17",
+      "name": "AWS Elemental MediaConnect adds support for NDI® inputs",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, <a href=\"https://aws.amazon.com/mediaconnect/\">AWS Elemental MediaConnect </a>supports <a href=\"https://ndi.video/\">NDI® (Network Device Interface)</a> as a live video source, enabling broadcasters and",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/mediaconnect-ndi-inputs/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-17-aws-amazon-connect-adds-new-generative-text-to-speech-",
+      "date": "2026-03-17",
+      "name": "Amazon Connect adds new generative text-to-speech voices and expands to new regions",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Connect now offers generative text-to-speech voices in three&nbsp;additional&nbsp;AWS Regions: Europe (London), Asia Pacific (Seoul), and Asia Pacific (Sydney). Amazon Connect also expands support for nine new ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-adds-generative-text-to-speech-voices/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
       "tags": []
     },
     {
@@ -736,348 +1078,6 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-03-13-aws-amazon-bedrock-agentcore-runtime-now-supports-the-",
-      "date": "2026-03-13",
-      "name": "Amazon Bedrock AgentCore Runtime now supports the AG-UI protocol",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock AgentCore Runtime now supports the Agent-User Interaction (AG-UI) protocol, enabling developers to deploy AG-UI servers that deliver responsive, real-time agent experiences to user-facing applications. ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-agentcore-runtime-ag-ui-protocol/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-12-aws-aws-private-ca-connector-for-scep-now-supports-aws",
-      "date": "2026-03-12",
-      "name": "AWS Private CA Connector for SCEP now supports AWS PrivateLink",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Private CA Connector for SCEP now supports AWS PrivateLink, allowing your clients to request certificates from within your Amazon Virtual Private Cloud (VPC) without traversing the public internet. With this launc",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-private-ca-connector-scep-privatelink/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-12-aws-aws-cdk-mixins-is-now-generally-available",
-      "date": "2026-03-12",
-      "name": "AWS CDK Mixins is now generally available",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS announces the general availability of CDK Mixins, a new feature of the AWS Cloud Development Kit (CDK) that lets you add composable, reusable abstractions to any AWS construct, whether L1, L2, or custom, without r",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-cdk-mixins/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-12-aws-amazon-bedrock-agentcore-memory-announces-streamin",
-      "date": "2026-03-12",
-      "name": "Amazon Bedrock AgentCore Memory announces streaming notifications for long-term memory",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock AgentCore Memory now supports streaming notifications for long-term memory, eliminating the need to poll for changes. Long-term memory extracts insights from agent interactions to deliver personalized e",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/agentcore-memory-streaming-ltm/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-12-aws-amazon-ec2-m8i-and-m8i-flex-instances-are-now-avai",
-      "date": "2026-03-12",
-      "name": "Amazon EC2 M8i and M8i-flex instances are now available in additional AWS Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon EC2 M8i and M8i-flex instances are now available in Europe (Ireland)<b> </b>and Europe (London)<b> </b>Regions. These instances are powered by custom Intel Xeon 6 processors, available only on A",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-m8i-m8i-flex-additional-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-12-aws-amazon-workspaces-now-supports-microsoft-windows-s",
-      "date": "2026-03-12",
-      "name": "Amazon WorkSpaces now supports Microsoft Windows Server 2025",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS announces availability of new bundles powered by&nbsp;Microsoft Windows&nbsp;Server 2025, offered for Amazon WorkSpaces Personal and Amazon WorkSpaces Core. With these bundles, customers can launch Windows Server ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-workspaces-windows-server-2025/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-12-aws-aws-backup-adds-logically-air-gapped-vault-support",
-      "date": "2026-03-12",
-      "name": "AWS Backup adds logically air-gapped vault support for Amazon EKS",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Backup logically air-gapped vault now supports Amazon EKS. Logically air-gapped vaults are a type of AWS Backup vault that allows secure sharing of backups across accounts and AWS Organizations, supporting direct ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-backup-logically-air-gapped-vault-amazon-eks/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-12-dust-spa-poke-21cbdd6-add-new-reinforcement-column-to-a",
-      "date": "2026-03-12",
-      "name": "spa/poke/21cbdd6: Add new reinforcement column to agent_configurations (#22890)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>Adds a reinforcement column to agent_configurations with values auto | on | off, defaulting to auto</li>\n<li>Filters out agents with reinforcement: \"off\" in getAgentConfigurationsActivity (the reinforced agent t",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F21cbdd6"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-12-dust-spa-poke-8e04603",
-      "date": "2026-03-12",
-      "name": "spa/poke/8e04603",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Use batch calls to LLM API in reinforced agents (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/22858\">#22858</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8e04603"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-12-aws-opensearch-ui-supports-cross-account-data-access-t",
-      "date": "2026-03-12",
-      "name": "OpenSearch UI supports Cross Account Data Access to OpenSearch domains",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon OpenSearch Service now supports cross-account data access, enabling users to access OpenSearch domains hosted in different AWS accounts from within a single OpenSearch UI application. With this feature, you can",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/opensearch-ui-cross-account-data-access-domains/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-12-aws-new-lza-mcp-server-for-ai-assisted-configuration-m",
-      "date": "2026-03-12",
-      "name": "New LZA MCP Server for AI-assisted configuration management",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>The <a href=\"https://aws.amazon.com/solutions/implementations/landing-zone-accelerator-on-aws/\">Landing Zone Accelerator on AWS</a> (LZA) Model Context Protocol (MCP) Server is now open source, enabling organizations ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/new-lza-mcp-server-ai-assisted/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-11-openai-rakuten-fixes-issues-twice-as-fast-with-codex",
-      "date": "2026-03-11",
-      "name": "Rakuten fixes issues twice as fast with Codex",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/rakuten"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-11-openai-designing-ai-agents-to-resist-prompt-injection",
-      "date": "2026-03-11",
-      "name": "Designing AI agents to resist prompt injection",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-11-openai-from-model-to-agent-equipping-the-responses-api-wi",
-      "date": "2026-03-11",
-      "name": "From model to agent: Equipping the Responses API with a computer environment",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/equip-responses-api-computer-environment"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-11-openai-increased-errors-with-chatgpt-file-downloads",
-      "date": "2026-03-11",
-      "name": "Increased errors with ChatGPT file downloads",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KKD07DNHFKAWK5JCAMAASYGZ"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-11-openai-elevated-error-rates-for-deep-research-in-enterpri",
-      "date": "2026-03-11",
-      "name": "Elevated error rates for Deep Research in Enterprise Workspaces",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Deep Research (Operational)</li>\n          </ul>",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KKF5RQTSB25839GBZ33S7MWX"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-11-aws-amazon-neptune-database-is-now-available-in-asia-p",
-      "date": "2026-03-11",
-      "name": "Amazon Neptune Database is now available in Asia Pacific (Hyderabad) region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/neptune/\" target=\"_blank\">Amazon Neptune</a> Database is now available in the <a href=\"https://aws.amazon.com/local/india/\" target=\"_blank\">AWS Asia Pacific (Hyderabad)</a> region. You ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-neptune-hyderabad/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-11-aws-amazon-ec2-c8id-instances-are-now-available-in-eur",
-      "date": "2026-03-11",
-      "name": "Amazon EC2 C8id instances are now available in Europe (Spain)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Elastic Compute Cloud (EC2) C8id instances powered by custom Intel Xeon 6 processors feature up to 384 vCPUs, 768GiB of memory, and 22.8TB of NVMe SSD storage and deliver up to 43% higher performance and 3.3x m",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-c8id-instances-europe-spain/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-11-aws-amazon-ec2-r7gd-instances-are-now-available-in-sou",
-      "date": "2026-03-11",
-      "name": "Amazon EC2 R7gd instances are now available in South America (Sao Paulo) Region",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R7gd instances with up to 3.8 TB of local NVMe-based SSD block-level storage are available in South America (Sao Paulo) Region.<br /> <br /> R7gd are powered b",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-r7gd-instances-available/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
       "tags": []
     }
   ]
