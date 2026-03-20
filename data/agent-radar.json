@@ -37,6 +37,168 @@
       "tags": []
     },
     {
+      "id": "2026-03-19-openai-how-we-monitor-internal-coding-agents-for-misalign",
+      "date": "2026-03-19",
+      "name": "How we monitor internal coding agents for misalignment",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-19-aws-amazon-ec2-fleet-now-supports-interruptible-capaci",
+      "date": "2026-03-19",
+      "name": "Amazon EC2 Fleet now supports interruptible Capacity Reservations",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon EC2 Fleet now supports interruptible Capacity Reservations. EC2 Fleet allows you to launch instances across multiple instance types and Availability Zones. Starting today, you can specify interruptible Capacity",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-fleet-interruptible-capacity-reservations/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-19-aws-aws-adds-support-for-nixl-with-efa-to-accelerate-l",
+      "date": "2026-03-19",
+      "name": "AWS adds support for NIXL with EFA to accelerate LLM inference at scale",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS announces support for NVIDIA Inference Xfer Library (NIXL) with Elastic Fabric Adapter (EFA) to accelerate disaggregated large language model (LLM) inference on Amazon EC2. This integration enhances disaggregated ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-support-nixl-with-efa/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-19-aws-amazon-redshift-supports-federated-permissions-wit",
+      "date": "2026-03-19",
+      "name": "Amazon Redshift supports federated permissions with IAM Identity Center in multiple AWS Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Redshift federated permissions are now supported with AWS IAM Identity Center (IdC) in multiple AWS Regions. You can extend IdC from your primary AWS Region to additional Regions for improved performance throug",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/redshift-federated-permissions-idc-mrr/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-19-aws-amazon-ec2-c8gn-instances-are-now-available-in-add",
+      "date": "2026-03-19",
+      "name": "Amazon EC2 C8gn instances are now available in additional regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8gn instances, powered by the latest-generation AWS Graviton4 processors, are available in the AWS Region&nbsp;Asia Pacific (Jakarta, Hyderabad, Tokyo),&nbsp;",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-c8gn-instances-additional-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-19-aws-aws-lambda-now-supports-availability-zone-metadata",
+      "date": "2026-03-19",
+      "name": "AWS Lambda now supports Availability Zone metadata",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Lambda now provides Availability Zone (AZ) metadata through a new metadata endpoint in the Lambda execution environment. With this capability, developers can&nbsp;determine&nbsp;the AZ ID (e.g., use1-az1) of the A",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/lambda-availability-zone-metadata/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-19-langchain-langgraph-introducing-langsmith-fleet",
+      "date": "2026-03-19",
+      "name": "Introducing LangSmith Fleet",
+      "vendor": "LangChain/LangGraph",
+      "type": "launch",
+      "summary": "Agent Builder is now Fleet: a central place for all of your teams to build, use, and manage agents across the enterprise.",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/introducing-langsmith-fleet/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-03-19-dust-spa-poke-36c0ac0",
+      "date": "2026-03-19",
+      "name": "spa/poke/36c0ac0",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Reinforced Agent evaluation framework (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/23198\">#23198</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F36c0ac0"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-19-dust-spa-poke-eb1726c-don-t-add-client-side-mcp-for-ini",
+      "date": "2026-03-19",
+      "name": "spa/poke/eb1726c: Don't add client side mcp for initial sidekick message (#23214)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>Don't add client side mcp for initial sidekick message</p>\n</li>\n<li>\n<p>Remove panel wait on client side mcp</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Feb1726c"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-03-18-aws-amazon-connect-expands-agentic-speech-to-speech-vo",
       "date": "2026-03-18",
       "name": "Amazon Connect expands agentic speech-to-speech voice experiences to the London (Europe) region and adds three new voices",
@@ -649,6 +811,24 @@
       "tags": []
     },
     {
+      "id": "2026-03-17-aws-aws-security-agent-now-supports-downloading-penetr",
+      "date": "2026-03-17",
+      "name": "AWS Security Agent now supports downloading penetration testing reports",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS Security Agent now provides the ability to download penetration testing reports.&nbsp;This enhancement to the AWS Security Agent allows users to create customized reports based on specific filters.&nbsp;Each repor",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-security-agent-generates-customizable/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-03-16-aws-amazon-cloudwatch-introduces-organization-wide-ec2",
       "date": "2026-03-16",
       "name": "Amazon CloudWatch introduces organization-wide EC2 detailed monitoring enablement",
@@ -898,186 +1078,6 @@
       "impact": 5,
       "risk": 3,
       "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-13-aws-amazon-cloudwatch-application-signals-adds-new-slo",
-      "date": "2026-03-13",
-      "name": "Amazon CloudWatch Application Signals adds new SLO capabilities",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon CloudWatch Application Signals now offers three new console based capabilities for Service Level Objectives (SLOs): SLO Recommendations, Service-Level SLOs, and SLO Performance Report. CloudWatch Application Si",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/cloudwatch-application-signals-adds-slo-capabilities/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-13-aws-accelerate-serverless-application-development-with",
-      "date": "2026-03-13",
-      "name": "Accelerate serverless application development with new SAM Kiro power",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS announces the AWS Serverless Application Model (SAM)&nbsp;Kiro power, bringing serverless application development&nbsp;expertise&nbsp;to agentic AI development in Kiro. With this power, you can build, deploy, and ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-sam-kiro-power/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-13-aws-amazon-ec2-r8a-instances-are-now-available-in-asia",
-      "date": "2026-03-13",
-      "name": "Amazon EC2 R8a instances are now available in Asia Pacific (Tokyo) Region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon EC2 R8a instances are now available in Asia Pacific (Tokyo) Region. These instances, feature 5th Gen AMD EPYC processors (formerly code named Turin) with a maximum frequency of 4.5 GHz, deliver ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-r8a-instances-tokyo/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-13-aws-amazon-ec2-m8azn-instances-are-now-available-in-us",
-      "date": "2026-03-13",
-      "name": "Amazon EC2 M8azn instances are now available in US East (Ohio) Region",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, Amazon EC2 M8azn instances are now available in US East (Ohio) Region. These general purpose high-frequency high-network instances are powered by fifth generation AMD EPYC (formerly code named Turin) p",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-m8azn-instances-ohio/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-13-aws-aws-network-firewall-launch-in-the-aws-european-so",
-      "date": "2026-03-13",
-      "name": "AWS Network Firewall Launch in the AWS European Sovereign Cloud",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, AWS Network Firewall is available in the AWS European Sovereign Cloud. With this launch, European customers, particularly those in highly regulated industries, government agencies, and organizations wi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/network-firewall-european-sovereign-cloud-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-13-aws-amazon-ec2-hpc8a-instances-are-now-available-in-as",
-      "date": "2026-03-13",
-      "name": "Amazon EC2 Hpc8a instances are now available in Asia Pacific (Tokyo) and AWS GovCloud (US-West)",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon EC2 Hpc8a instances are available in Asia Pacific (Tokyo) and AWS GovCloud (US-West) regions. These instances are powered by 5th Gen AMD EPYC processors (formerly code named Turin). With a maxim",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-hpc8a-additional-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-13-aws-aws-lambda-managed-instances-now-supports-rust",
-      "date": "2026-03-13",
-      "name": "AWS Lambda Managed Instances now supports Rust",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Lambda Managed Instances now supports Rust, enabling developers to run high-performance Rust-based functions on Lambda-managed Amazon EC2 instances while maintaining Lambda’s operational simplicity. This combinati",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-lambda-managed-instances-rust/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-13-dust-spa-poke-5f86f47",
-      "date": "2026-03-13",
-      "name": "spa/poke/5f86f47",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front/components/agent_builder/observability/utils] - refactor: upda…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5f86f47"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-13-dust-spa-poke-3d7de70-front-fix-analytics-insights-time",
-      "date": "2026-03-13",
-      "name": "spa/poke/3d7de70: [front] - fix(analytics/insights): time-zone aware queries (#22882)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>[front/lib/utils] - feature: add timezone utility functions for date formatting and calculations</li>\n</ul>\n<ul>\n<li>Implement formatDateFromMillis to format dates according to specified IANA timezone</li>\n<li>C",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F3d7de70"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-13-crewai-1-10-2rc1",
-      "date": "2026-03-13",
-      "name": "1.10.2rc1",
-      "vendor": "CrewAI",
-      "type": "launch",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add release command and trigger PyPI publish</li>\n</ul>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Fix cross-process and thread-safe locking to unprotected I/O</li>\n<li>Propagate conte",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.10.2rc1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
       "tags": []
     }
   ]
