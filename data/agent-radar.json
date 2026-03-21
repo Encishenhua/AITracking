@@ -1,6 +1,168 @@
 {
   "items": [
     {
+      "id": "2026-03-20-aws-amazon-bedrock-agentcore-runtime-adds-webrtc-suppo",
+      "date": "2026-03-20",
+      "name": "Amazon Bedrock AgentCore Runtime adds WebRTC support for real-time bidirectional streaming",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock AgentCore Runtime now supports WebRTC for real-time bidirectional streaming between clients and agents, adding to the existing WebSocket protocol support. With WebRTC, developers can build voice agents ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-webrtc/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-20-aws-amazon-eks-announces-99-99-service-level-agreement",
+      "date": "2026-03-20",
+      "name": "Amazon EKS announces 99.99% Service Level Agreement and new 8XL scaling tier for Provisioned Control Plane clusters",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/eks/\">Amazon Elastic Kubernetes Service (Amazon EKS)</a>&nbsp;now offers a 99.99% Service Level Agreement (SLA) for clusters running on Provisioned Control Plane, up from the 99.95% SLA",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-eks-announces-sla-8xl-scaling-tier/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-20-aws-aws-neuron-announces-support-for-dynamic-resource-",
+      "date": "2026-03-20",
+      "name": "AWS Neuron announces support for Dynamic Resource Allocation with Amazon EKS",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS announces the Neuron Dynamic Resource Allocation (DRA) driver for Amazon Elastic Kubernetes Service (EKS), bringing Kubernetes-native hardware-aware scheduling to AWS Trainium-based instances. The Neuron DRA drive",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/neuron-eks-dra-support/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-20-aws-aws-datasync-now-supports-aws-secrets-manager-for-",
+      "date": "2026-03-20",
+      "name": "AWS DataSync now supports AWS Secrets Manager for all location types",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS DataSync now supports AWS Secrets Manager for credential management across all location types, including Hadoop Distributed File System (HDFS), Amazon FSx for Windows File Server, and Amazon FSx for NetApp ONTAP. ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-datasync-secrets-manager/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-20-aws-aws-firewall-manager-launches-in-aws-asia-pacific-",
+      "date": "2026-03-20",
+      "name": "AWS Firewall Manager launches in AWS Asia Pacific (New Zealand) Region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Firewall Manager announces that it is now available in AWS Asia Pacific (New Zealand) Region. AWS Firewall Manager helps cloud security administrators and site reliability engineers protect applications while redu",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-firewall-manager-launches-ap-nz/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-20-dust-spa-poke-16722f9",
+      "date": "2026-03-20",
+      "name": "spa/poke/16722f9",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Reinforced Agent: filter suggestion based on feature flag when buildi…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F16722f9"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-20-dust-spa-poke-277aea8",
+      "date": "2026-03-20",
+      "name": "spa/poke/277aea8",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>Remove useAgentStreamLegacy in favor of using the existing message da…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F277aea8"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-20-dust-spa-poke-116a79a",
+      "date": "2026-03-20",
+      "name": "spa/poke/116a79a",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Migrate frame share scope from \"workspace\" to \"workspace_and_emails\" …</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F116a79a"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-20-dust-spa-poke-25b9012-only-process-agents-set-to-on-pok",
+      "date": "2026-03-20",
+      "name": "spa/poke/25b9012: Only process agents set to 'on' + poke plugin to set flag (#23287)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>Only run reinforced agent workflows for agents with reinforcement explicitly set to \"on\" (previously also ran for \"auto\")</li>\n<li>Add poke plugin to change an agent's reinforcement mode (on, off, auto) — only u",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F25b9012"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-03-19-dust-spa-poke-cf2206d-add-client-side-mcp-deregister-ap",
       "date": "2026-03-19",
       "name": "spa/poke/cf2206d: Add client side MCP deregister API (#23048)",
@@ -911,168 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-partner-central-agents-accelerate-co-sell/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-16-aws-amazon-connect-now-enables-agents-to-forward-email",
-      "date": "2026-03-16",
-      "name": "Amazon Connect now enables agents to forward email contacts to external email addresses",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect now enables agents to forward email contacts to external email addresses and distribution lists directly from the Agent workspace and Contact Center Panel. When an email is forwarded, agents still retai",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-forward-email-contacts/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-16-langchain-langgraph-langchain-announces-enterprise-agentic-ai-platform",
-      "date": "2026-03-16",
-      "name": "LangChain Announces Enterprise Agentic AI Platform Built with NVIDIA",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "<p><em>Comprehensive agent engineering platform combined with NVIDIA AI enables enterprises to build, deploy, and monitor production-grade AI agents at scale</em></p><p><a href=\"https://www.prnewswire.com/news-releases/l",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/nvidia-enterprise/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-03-16-langchain-langgraph-introducing-deploy-cli",
-      "date": "2026-03-16",
-      "name": "Introducing deploy cli",
-      "vendor": "LangChain/LangGraph",
-      "type": "launch",
-      "summary": "<p>We&#x2019;re excited to introduce the deploy cli, a new set of commands within the <code>langgraph-cli</code> package that makes it simple to deploy and manage agents directly from the command line.</p><p>The first co",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/introducing-deploy-cli/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-03-16-flowise-flowise-3-1-0",
-      "date": "2026-03-16",
-      "name": "flowise@3.1.0",
-      "vendor": "Flowise",
-      "type": "launch",
-      "summary": "<h2>⚠️ Breaking Changes</h2>\n<h3>HTTP security checks enabled by default</h3>\n<p>Flowise now enables <strong>HTTP security validation by default</strong> to prevent requests to unsafe or internal domains.</p>\n<p>A built-",
-      "sources": [
-        {
-          "title": "Flowise source",
-          "url": "https://github.com/FlowiseAI/Flowise/releases/tag/flowise%403.1.0"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-03-16-dust-spa-poke-5235f45",
-      "date": "2026-03-16",
-      "name": "spa/poke/5235f45",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Improve parallelism in reinforced-agent workflows (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/22956\">#22956</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5235f45"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-16-dust-spa-poke-fee13d7",
-      "date": "2026-03-16",
-      "name": "spa/poke/fee13d7",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Fix unbounded LRU cache causing memory leak in agent-loop workers (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/2\">#2</a>…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Ffee13d7"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-16-crewai-1-11-0rc1",
-      "date": "2026-03-16",
-      "name": "1.11.0rc1",
-      "vendor": "CrewAI",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add Plus API token authentication for a2a enterprise</li>\n<li>Implement plan execute pattern</li>\n</ul>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Resolve code interpreter sandbox esca",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.11.0rc1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-03-16-aws-amazon-cloudwatch-logs-now-supports-log-ingestion-",
-      "date": "2026-03-16",
-      "name": "Amazon CloudWatch Logs now supports log ingestion using HTTP-based protocol",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon CloudWatch Logs now supports HTTP Log Collector (HLC), ND-JSON, Structured JSON and OTEL for&nbsp;sending logs using HTTP-based protocol with bearer token.&nbsp;With this launch, customers can ingest logs where",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/cloudwatch-http-log-collector/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-13-openai-responses-api-errors-when-using-background-mode",
-      "date": "2026-03-13",
-      "name": "Responses API errors when using background mode",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Responses (Operational)</li>\n          </ul>",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KKMB9HWS1B9452FT6BV6KDD6"
         }
       ],
       "impact": 5,
