@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "2026-03-21-dust-spa-poke-1407008",
+      "date": "2026-03-21",
+      "name": "spa/poke/1407008",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[Email Agents] Switch inbound sender auth to DMARC-style alignment (#…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F1407008"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-21-dust-spa-app-1407008",
+      "date": "2026-03-21",
+      "name": "spa/app/1407008",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[Email Agents] Switch inbound sender auth to DMARC-style alignment (#…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F1407008"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-03-20-aws-amazon-bedrock-agentcore-runtime-adds-webrtc-suppo",
       "date": "2026-03-20",
       "name": "Amazon Bedrock AgentCore Runtime adds WebRTC support for real-time bidirectional streaming",
@@ -1037,42 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/neptune-read-s3-opencypher/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-16-aws-amazon-timestream-for-influxdb-3-now-supports-expa",
-      "date": "2026-03-16",
-      "name": "Amazon Timestream for InfluxDB 3 Now Supports Expanded Multi-Node Cluster Configurations",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Timestream for InfluxDB now supports expanded multi-node cluster configurations for InfluxDB 3 Enterprise edition, enabling you to scale clusters up to 15 nodes for demanding production workloads requiring high",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-timestream-for-influxdb-3-multi-node-cluster/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-16-aws-announcing-aws-partner-central-agents-to-accelerat",
-      "date": "2026-03-16",
-      "name": "Announcing AWS Partner Central agents to accelerate co-sell",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the general availability of AWS Partner Central agents, new AI-powered capabilities designed to accelerate partner co-selling with AWS. Built on Amazon Bedrock AgentCore, these agentic capabilitie",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-partner-central-agents-accelerate-co-sell/"
         }
       ],
       "impact": 5,
