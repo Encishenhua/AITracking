@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "2026-03-23-aws-aws-healthimaging-is-now-available-in-europe-londo",
+      "date": "2026-03-23",
+      "name": "AWS HealthImaging is now available in Europe (London)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS HealthImaging is now available in the AWS Europe (London) Region. AWS HealthImaging is a HIPAA-eligible service that empowers healthcare providers, life sciences organizations, and their software partners to store",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-healthimaging-europe-london/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-23-langchain-langgraph-join-langchain-at-google-cloud-next-2026",
+      "date": "2026-03-23",
+      "name": "Join LangChain at Google Cloud Next 2026",
+      "vendor": "LangChain/LangGraph",
+      "type": "launch",
+      "summary": "<hr /><p>If you&apos;re attending Google Cloud Next 2026 in Las Vegas this year and working on agent development, here&apos;s what we have planned.</p><h2 id=\"visit-us-at-booth-5006\">Visit Us at Booth #5006</h2><p>We&apo",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/join-langchain-at-google-cloud-next-2026/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-03-23-langchain-langgraph-two-different-types-of-agent-authorization",
+      "date": "2026-03-23",
+      "name": "Two different types of agent authorization",
+      "vendor": "LangChain/LangGraph",
+      "type": "launch",
+      "summary": "LangSmith Fleet introduces two types of agent authorization: Assistants, which use the end user's own credentials, and Claws, which use a fixed set of credentials.",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/two-different-types-of-agent-authorization/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-03-23-flowise-flowise-3-1-1",
+      "date": "2026-03-23",
+      "name": "flowise@3.1.1",
+      "vendor": "Flowise",
+      "type": "deprecation",
+      "summary": "<h2>What's Changed</h2>\n<ul>\n<li>Traversal env var by <a class=\"user-mention notranslate\" href=\"https://github.com/christopherholland-workday\">@christopherholland-workday</a> in <a class=\"issue-link js-issue-link\" href=\"",
+      "sources": [
+        {
+          "title": "Flowise source",
+          "url": "https://github.com/FlowiseAI/Flowise/releases/tag/flowise%403.1.1"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-03-21-dust-spa-poke-1407008",
       "date": "2026-03-21",
       "name": "spa/poke/1407008",
@@ -199,6 +271,24 @@
       "tags": []
     },
     {
+      "id": "2026-03-20-aws-amazon-polly-expands-generative-tts-engine-with-10",
+      "date": "2026-03-20",
+      "name": "Amazon Polly expands Generative TTS engine with 10 new voices, 2 new regions, and Bidirectional Streaming API",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, we&nbsp;are&nbsp;excited&nbsp;to announce the general availability of&nbsp;10&nbsp;new&nbsp;highly expressive Amazon Polly Generative voices&nbsp;across 8 locales:&nbsp;Tiffany&nbsp;(American English),&nbsp;Bri",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-polly-expands-TTS-new-voices-and-bidirectional-streaming/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-03-19-dust-spa-poke-cf2206d-add-client-side-mcp-deregister-ap",
       "date": "2026-03-19",
       "name": "spa/poke/cf2206d: Add client side MCP deregister API (#23048)",
@@ -392,6 +482,24 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-19-aws-aws-mcp-server-preview-now-with-enhanced-monitorin",
+      "date": "2026-03-19",
+      "name": "AWS MCP Server (Preview) now with enhanced monitoring and semantic search capability",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces that the AWS MCP Server (preview) now publishes operational <a href=\"https://docs.aws.amazon.com/aws-mcp/latest/userguide/monitoring-overview.html\">metrics</a> to Amazon CloudWatch and introduces ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-mcp-server-preview-enhanced-monitoring/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -970,114 +1078,6 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-03-17-aws-aws-elemental-mediaconnect-adds-support-for-ndi-in",
-      "date": "2026-03-17",
-      "name": "AWS Elemental MediaConnect adds support for NDI® inputs",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, <a href=\"https://aws.amazon.com/mediaconnect/\">AWS Elemental MediaConnect </a>supports <a href=\"https://ndi.video/\">NDI® (Network Device Interface)</a> as a live video source, enabling broadcasters and",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/mediaconnect-ndi-inputs/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-17-aws-amazon-connect-adds-new-generative-text-to-speech-",
-      "date": "2026-03-17",
-      "name": "Amazon Connect adds new generative text-to-speech voices and expands to new regions",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Connect now offers generative text-to-speech voices in three&nbsp;additional&nbsp;AWS Regions: Europe (London), Asia Pacific (Seoul), and Asia Pacific (Sydney). Amazon Connect also expands support for nine new ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-adds-generative-text-to-speech-voices/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-17-aws-aws-security-agent-now-supports-downloading-penetr",
-      "date": "2026-03-17",
-      "name": "AWS Security Agent now supports downloading penetration testing reports",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS Security Agent now provides the ability to download penetration testing reports.&nbsp;This enhancement to the AWS Security Agent allows users to create customized reports based on specific filters.&nbsp;Each repor",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-security-agent-generates-customizable/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-16-aws-amazon-cloudwatch-introduces-organization-wide-ec2",
-      "date": "2026-03-16",
-      "name": "Amazon CloudWatch introduces organization-wide EC2 detailed monitoring enablement",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon CloudWatch now allows customers to automatically enable Amazon Elastic Compute Cloud (EC2) detailed monitoring across their AWS Organization. Customers can create enablement rules in CloudWatch Ingestion that a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/cloudwatch-org-enablement-ec2-metrics/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-16-aws-sagemaker-hyperpod-now-supports-idle-resource-shar",
-      "date": "2026-03-16",
-      "name": "SageMaker HyperPod now supports idle resource sharing for dynamic cluster utilization",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker HyperPod task governance now supports dynamic resource sharing, allowing teams to borrow unallocated compute capacity in HyperPod clusters beyond their guaranteed quotas. Administrators can also confi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/sagemaker-hyperpod-idle-resource-sharing/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-16-aws-amazon-neptune-now-supports-reading-s3-data-using-",
-      "date": "2026-03-16",
-      "name": "Amazon Neptune now supports reading S3 data using openCyper",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/neptune/\" target=\"_blank\">Amazon Neptune</a>&nbsp;now supports reading data from Amazon S3 within openCypher queries. Through the new `neptune.read()` procedure, customers now have an a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/neptune-read-s3-opencypher/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
       "tags": []
     }
   ]
