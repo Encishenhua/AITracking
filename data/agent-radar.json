@@ -1,6 +1,186 @@
 {
   "items": [
     {
+      "id": "2026-03-27-aws-amazon-timestream-for-influxdb-now-supports-advanc",
+      "date": "2026-03-27",
+      "name": "Amazon Timestream for InfluxDB Now Supports Advanced Metrics",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Timestream for InfluxDB now offers Advanced Metrics, providing comprehensive visibility into your database performance and health. This new capability automatically publishes detailed operational metrics from y",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-timestream-for-influxdb-advanced-metrics/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-27-aws-amazon-cloudwatch-logs-now-supports-data-protectio",
+      "date": "2026-03-27",
+      "name": "Amazon CloudWatch Logs now supports data protection,  OpenSearch PPL and OpenSearch SQL for the Infrequent Access ingestion class",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon CloudWatch Logs now supports expanded analytics and data protection capabilities for the Infrequent Access (Logs IA) ingestion class, including support for data protection, OpenSearch’s Piped Processing Languag",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-cloudwatch-infrequent-access-log-class/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-27-aws-aws-lambda-supports-up-to-32-gb-of-memory-and-16-v",
+      "date": "2026-03-27",
+      "name": "AWS Lambda supports up to 32 GB of memory and 16 vCPUs for Lambda Managed Instances",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS Lambda now supports up to 32 GB of memory and 16 vCPUs for functions running on Lambda Managed Instances, enabling customers to run compute-intensive workloads such as large-scale data processing, media transcodin",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/lambda-32-gb-memory-16-vcpus/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-27-aws-aws-management-console-now-supports-settings-to-co",
+      "date": "2026-03-27",
+      "name": "AWS Management Console now supports settings to control service and Region visibility",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the general availability of Visible services and Visible Regions account settings in the AWS Management Console. These settings allow you to customize which services and regions appear in the Mana",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/account-customizations-console/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-27-aws-amazon-gamelift-servers-expands-instance-support-w",
+      "date": "2026-03-27",
+      "name": "Amazon GameLift Servers expands instance support with next-generation EC2 instance families",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon GameLift Servers now supports Amazon EC2 5th through 8th generation instances, offering enhanced price-performance, efficiency, and flexibility for game server hosting. This update allows developers to leverage",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-gamelift-servers-expands-instance-support/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-27-aws-aws-healthimaging-announces-study-level-fine-grain",
+      "date": "2026-03-27",
+      "name": "AWS HealthImaging announces study-level fine-grained access control",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS HealthImaging now supports fine-grained access control, enabling organizations to securely manage access to medical imaging data at the DICOM study and series levels. Medical imaging workflows are typically organi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-healthimaging-study-level-access-control/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-27-langchain-langgraph-agent-evaluation-readiness-checklist",
+      "date": "2026-03-27",
+      "name": "Agent Evaluation Readiness Checklist",
+      "vendor": "LangChain/LangGraph",
+      "type": "upgrade",
+      "summary": "A practical checklist for agent evaluation: error analysis, dataset construction, grader design, offline & online evals, and production readiness.",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/agent-evaluation-readiness-checklist/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-03-27-dust-spa-poke-59f8767",
+      "date": "2026-03-27",
+      "name": "spa/poke/59f8767",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Add a 'reinforcement' agent to not re-use sidekick (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/23377\">#23377</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F59f8767"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-27-dust-spa-poke-27d2341-fix-hide-agent-details-from-all-t",
+      "date": "2026-03-27",
+      "name": "spa/poke/27d2341: fix: hide agent details from all tab in extension (#23292)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>fix: hide agent details from all tab</p>\n</li>\n<li>\n<p>fix: mentions dropdown</p>\n</li>\n<li>\n<p>feat: suggestion text</p>\n</li>\n<li>\n<p>feat: suggestion copy</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F27d2341"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-27-dust-spa-poke-1fb80c5",
+      "date": "2026-03-27",
+      "name": "spa/poke/1fb80c5",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] feat: extend poke plugin to retrieve MCP server credentials (…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F1fb80c5"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-03-26-crewai-1-12-1",
       "date": "2026-03-26",
       "name": "1.12.1",
@@ -322,6 +502,78 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-03-26-aws-aws-step-functions-adds-28-new-service-integration",
+      "date": "2026-03-26",
+      "name": "AWS Step Functions adds 28 new service integrations, including Amazon Bedrock AgentCore",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p><a href=\"https://aws.amazon.com/step-functions/\">AWS Step Functions</a>&nbsp;expands its AWS SDK integrations with 28 additional services and over 1,100 new API actions across new and existing AWS services, including ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-step-functions-sdk-integrations/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-26-aws-palmyra-vision-7b-from-writer-now-available-on-ama",
+      "date": "2026-03-26",
+      "name": "Palmyra Vision 7B from Writer now available on Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Bedrock is a fully managed service that offers a choice of high-performing foundation models from leading AI companies via a single API. Starting today, customers can use Palmyra Vision 7B from Writer on Amazon",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/palmyra-vision-7b-writer-bedrock/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-26-aws-aws-parallel-computing-service-supports-slurmdbd-a",
+      "date": "2026-03-26",
+      "name": "AWS Parallel Computing Service supports slurmdbd and cgroups settings",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS Parallel Computing Service (AWS PCS) now supports additional Slurm configuration settings for slurmdbd and cgroups, enabling you to fine-tune accounting behavior and resource isolation directly through the AWS PCS",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-pcs-manages-slurmdbd-cgroups-settings/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-26-aws-amazon-ec2-i8ge-instances-are-now-generally-availa",
+      "date": "2026-03-26",
+      "name": "Amazon EC2 I8ge instances are now generally available in additional AWS regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Web Services (AWS) announces the availability of Amazon EC2 I8ge instances in Europe (Stockholm), Asia Pacific (Mumbai), Asia Pacific (Malaysia), Asia Pacific (Singapore), and Asia Pacific (Sydney) AWS regions.",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/ec2-i8ge-available-new-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
       "tags": []
     },
     {
@@ -821,258 +1073,6 @@
         {
           "title": "Dust source",
           "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F1407008"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-21-dust-spa-app-1407008",
-      "date": "2026-03-21",
-      "name": "spa/app/1407008",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[Email Agents] Switch inbound sender auth to DMARC-style alignment (#…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F1407008"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-20-aws-amazon-bedrock-agentcore-runtime-adds-webrtc-suppo",
-      "date": "2026-03-20",
-      "name": "Amazon Bedrock AgentCore Runtime adds WebRTC support for real-time bidirectional streaming",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock AgentCore Runtime now supports WebRTC for real-time bidirectional streaming between clients and agents, adding to the existing WebSocket protocol support. With WebRTC, developers can build voice agents ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-webrtc/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-20-aws-amazon-eks-announces-99-99-service-level-agreement",
-      "date": "2026-03-20",
-      "name": "Amazon EKS announces 99.99% Service Level Agreement and new 8XL scaling tier for Provisioned Control Plane clusters",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/eks/\">Amazon Elastic Kubernetes Service (Amazon EKS)</a>&nbsp;now offers a 99.99% Service Level Agreement (SLA) for clusters running on Provisioned Control Plane, up from the 99.95% SLA",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-eks-announces-sla-8xl-scaling-tier/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-20-aws-aws-neuron-announces-support-for-dynamic-resource-",
-      "date": "2026-03-20",
-      "name": "AWS Neuron announces support for Dynamic Resource Allocation with Amazon EKS",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS announces the Neuron Dynamic Resource Allocation (DRA) driver for Amazon Elastic Kubernetes Service (EKS), bringing Kubernetes-native hardware-aware scheduling to AWS Trainium-based instances. The Neuron DRA drive",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/neuron-eks-dra-support/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-20-aws-aws-datasync-now-supports-aws-secrets-manager-for-",
-      "date": "2026-03-20",
-      "name": "AWS DataSync now supports AWS Secrets Manager for all location types",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS DataSync now supports AWS Secrets Manager for credential management across all location types, including Hadoop Distributed File System (HDFS), Amazon FSx for Windows File Server, and Amazon FSx for NetApp ONTAP. ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-datasync-secrets-manager/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-20-aws-aws-firewall-manager-launches-in-aws-asia-pacific-",
-      "date": "2026-03-20",
-      "name": "AWS Firewall Manager launches in AWS Asia Pacific (New Zealand) Region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Firewall Manager announces that it is now available in AWS Asia Pacific (New Zealand) Region. AWS Firewall Manager helps cloud security administrators and site reliability engineers protect applications while redu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-firewall-manager-launches-ap-nz/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-20-dust-spa-poke-16722f9",
-      "date": "2026-03-20",
-      "name": "spa/poke/16722f9",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Reinforced Agent: filter suggestion based on feature flag when buildi…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F16722f9"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-20-dust-spa-poke-277aea8",
-      "date": "2026-03-20",
-      "name": "spa/poke/277aea8",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>Remove useAgentStreamLegacy in favor of using the existing message da…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F277aea8"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-20-dust-spa-poke-116a79a",
-      "date": "2026-03-20",
-      "name": "spa/poke/116a79a",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Migrate frame share scope from \"workspace\" to \"workspace_and_emails\" …</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F116a79a"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-20-dust-spa-poke-25b9012-only-process-agents-set-to-on-pok",
-      "date": "2026-03-20",
-      "name": "spa/poke/25b9012: Only process agents set to 'on' + poke plugin to set flag (#23287)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>Only run reinforced agent workflows for agents with reinforcement explicitly set to \"on\" (previously also ran for \"auto\")</li>\n<li>Add poke plugin to change an agent's reinforcement mode (on, off, auto) — only u",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F25b9012"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-20-aws-amazon-polly-expands-generative-tts-engine-with-10",
-      "date": "2026-03-20",
-      "name": "Amazon Polly expands Generative TTS engine with 10 new voices, 2 new regions, and Bidirectional Streaming API",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, we&nbsp;are&nbsp;excited&nbsp;to announce the general availability of&nbsp;10&nbsp;new&nbsp;highly expressive Amazon Polly Generative voices&nbsp;across 8 locales:&nbsp;Tiffany&nbsp;(American English),&nbsp;Bri",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-polly-expands-TTS-new-voices-and-bidirectional-streaming/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-20-aws-aws-dms-schema-conversion-with-genai-now-available",
-      "date": "2026-03-20",
-      "name": "AWS DMS Schema Conversion with GenAI now available in 10 additional regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Database Migration Service (DMS) Schema Conversion with GenAI is now available in nine additional AWS Regions: Asia Pacific (Tokyo, Osaka, Sydney), Europe (Ireland, London, Stockholm, Paris), Canada (Central) and ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-dms-schema-conversion-with-genai/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-19-dust-spa-poke-cf2206d-add-client-side-mcp-deregister-ap",
-      "date": "2026-03-19",
-      "name": "spa/poke/cf2206d: Add client side MCP deregister API (#23048)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>Add client side MCP deregister API</p>\n</li>\n<li>\n<p>Add typeguard and unit test</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fcf2206d"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-19-dust-spa-app-cf2206d-add-client-side-mcp-deregister-api",
-      "date": "2026-03-19",
-      "name": "spa/app/cf2206d: Add client side MCP deregister API (#23048)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>Add client side MCP deregister API</p>\n</li>\n<li>\n<p>Add typeguard and unit test</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2Fcf2206d"
         }
       ],
       "impact": 3,
