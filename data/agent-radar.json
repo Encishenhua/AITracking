@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "2026-03-28-dust-spa-poke-5886ae9-email-agents-reply-only-to-sender",
+      "date": "2026-03-28",
+      "name": "spa/poke/5886ae9: [Email Agents] Reply only to sender (#23410)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>\n<p>[Email Agents] Reply only to sender</p>\n</li>\n<li>\n<p>[Email Agents] Strip legacy reply lists from Redis context</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5886ae9"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-28-dust-spa-poke-bc69164-email-agents-align-email-copy-wit",
+      "date": "2026-03-28",
+      "name": "spa/poke/bc69164: [Email Agents] Align email copy with web app and Slack bot (#23411)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>[Email Agents] Align email copy with web app and Slack bot</li>\n</ul>\n<ul>\n<li>Sender: \"Dust Agent (name)\" → \"name (Dust agent)\"</li>\n<li>Reply footer: \"Open in Dust\" → \"Answered by agentName · View full convers",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fbc69164"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-28-dust-spa-app-5886ae9-email-agents-reply-only-to-sender-",
+      "date": "2026-03-28",
+      "name": "spa/app/5886ae9: [Email Agents] Reply only to sender (#23410)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>\n<p>[Email Agents] Reply only to sender</p>\n</li>\n<li>\n<p>[Email Agents] Strip legacy reply lists from Redis context</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F5886ae9"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-28-dust-spa-app-bc69164-email-agents-align-email-copy-with",
+      "date": "2026-03-28",
+      "name": "spa/app/bc69164: [Email Agents] Align email copy with web app and Slack bot (#23411)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>[Email Agents] Align email copy with web app and Slack bot</li>\n</ul>\n<ul>\n<li>Sender: \"Dust Agent (name)\" → \"name (Dust agent)\"</li>\n<li>Reply footer: \"Open in Dust\" → \"Answered by agentName · View full convers",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2Fbc69164"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-03-27-aws-amazon-timestream-for-influxdb-now-supports-advanc",
       "date": "2026-03-27",
       "name": "Amazon Timestream for InfluxDB Now Supports Advanced Metrics",
@@ -1004,78 +1076,6 @@
         }
       ],
       "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-23-langchain-langgraph-join-langchain-at-google-cloud-next-2026",
-      "date": "2026-03-23",
-      "name": "Join LangChain at Google Cloud Next 2026",
-      "vendor": "LangChain/LangGraph",
-      "type": "launch",
-      "summary": "<hr /><p>If you&apos;re attending Google Cloud Next 2026 in Las Vegas this year and working on agent development, here&apos;s what we have planned.</p><h2 id=\"visit-us-at-booth-5006\">Visit Us at Booth #5006</h2><p>We&apo",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/join-langchain-at-google-cloud-next-2026/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-03-23-langchain-langgraph-two-different-types-of-agent-authorization",
-      "date": "2026-03-23",
-      "name": "Two different types of agent authorization",
-      "vendor": "LangChain/LangGraph",
-      "type": "launch",
-      "summary": "LangSmith Fleet introduces two types of agent authorization: Assistants, which use the end user's own credentials, and Claws, which use a fixed set of credentials.",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/two-different-types-of-agent-authorization/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-03-23-flowise-flowise-3-1-1",
-      "date": "2026-03-23",
-      "name": "flowise@3.1.1",
-      "vendor": "Flowise",
-      "type": "deprecation",
-      "summary": "<h2>What's Changed</h2>\n<ul>\n<li>Traversal env var by <a class=\"user-mention notranslate\" href=\"https://github.com/christopherholland-workday\">@christopherholland-workday</a> in <a class=\"issue-link js-issue-link\" href=\"",
-      "sources": [
-        {
-          "title": "Flowise source",
-          "url": "https://github.com/FlowiseAI/Flowise/releases/tag/flowise%403.1.1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-03-21-dust-spa-poke-1407008",
-      "date": "2026-03-21",
-      "name": "spa/poke/1407008",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[Email Agents] Switch inbound sender auth to DMARC-style alignment (#…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F1407008"
-        }
-      ],
-      "impact": 3,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
