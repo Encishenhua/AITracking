@@ -1,6 +1,204 @@
 {
   "items": [
     {
+      "id": "2026-03-30-aws-amazon-cloudwatch-now-supports-multi-account-and-r",
+      "date": "2026-03-30",
+      "name": "Amazon CloudWatch now supports multi-account and region log centralization based on data source",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon CloudWatch centralization now supports centralizing logs based on <a href=\"https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/data-source-discovery-management.html\" rel=\"noopener noreferrer\" target=\"_blan",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/cloudwatch-centralization-datasource/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-30-aws-aws-security-hub-is-now-available-in-aws-govcloud-",
+      "date": "2026-03-30",
+      "name": "AWS Security Hub is now available in AWS GovCloud (US) Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Security Hub is now available in the AWS GovCloud (US-East) and AWS GovCloud (US-West) Regions. Security Hub is a unified cloud security solution that prioritizes critical security issues and helps you respond at ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-security-hub-govcloud-us-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-30-aws-aws-healthomics-introduces-vpc-connected-workflows",
+      "date": "2026-03-30",
+      "name": "AWS HealthOmics introduces VPC-connected workflows",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS HealthOmics announces VPC-connected workflows, giving customers the ability to run bioinformatics pipelines that access AWS resources across regions and public internet resources through a customer’s Virtual Priva",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-healthomics-vpc-connected-workflows/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-30-aws-aws-elemental-mediatailor-now-available-in-europe-",
+      "date": "2026-03-30",
+      "name": "AWS Elemental MediaTailor now available in Europe (London)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Elemental MediaTailor is now available in the Europe (London) AWS Region.&nbsp;MediaTailor is a personalized ad insertion and channel assembly service that enables video providers to serve targeted ads in live and",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-elemental-mediatailor-london-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-30-aws-amazon-athena-launches-capacity-reservations-in-ad",
+      "date": "2026-03-30",
+      "name": "Amazon Athena launches Capacity Reservations in additional regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/athena/\">Amazon Athena</a> now offers Capacity Reservations in additional commercial AWS Regions. Capacity Reservations give you dedicated serverless capacity for your most important wo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-athena-adding-cap-reservation-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-30-aws-amazon-sagemaker-data-agent-is-now-available-in-th",
+      "date": "2026-03-30",
+      "name": "Amazon SageMaker Data Agent is now available in the Amazon SageMaker Unified Studio Query Editor",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker Data Agent is now available in the Query Editor in Amazon SageMaker Unified Studio, extending beyond notebook experience. With Data Agent in Query Editor, you can generate SQL queries from natural lan",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-data-agent-query-editor/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-30-aws-aws-direct-connect-adds-cloudwatch-metrics-for-bgp",
+      "date": "2026-03-30",
+      "name": "AWS Direct Connect adds CloudWatch metrics for BGP monitoring",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Direct Connect now publishes three new Amazon CloudWatch metrics for virtual interfaces (VIFs) that provide visibility into Border Gateway Protocol (BGP) session health and route counts. Network engineers and oper",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-direct-connect-cloudwatch-bgp-monitoring/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-30-dust-spa-poke-839f7ce",
+      "date": "2026-03-30",
+      "name": "spa/poke/839f7ce",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Ensure sidekick uses new ID when duplicating agent (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/23495\">#23495</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F839f7ce"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-30-dust-spa-poke-11c5bf7-add-tier-1-audit-logging-events-2",
+      "date": "2026-03-30",
+      "name": "spa/poke/11c5bf7: Add tier 1 audit logging events (#23420)",
+      "vendor": "Dust",
+      "type": "deprecation",
+      "summary": "<ul>\n<li>feat(audit): add Tier 1 security-critical audit log events</li>\n</ul>\n<p>Add audit infrastructure (workos_audit.ts types + emitAuditLogEventDirect,<br />\nupdated createAuditLogEvent to return Result) and emit ca",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F11c5bf7"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-30-dust-spa-poke-4b92866-front-conversation-layout-update-",
+      "date": "2026-03-30",
+      "name": "spa/poke/4b92866: [front] Conversation layout update (#23384)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>remove avatar</p>\n</li>\n<li>\n<p>take out timestamp</p>\n</li>\n<li>\n<p>adjust font weight</p>\n</li>\n<li>\n<p>update agent message layout</p>\n</li>\n<li>\n<p>roundness and size</p>\n</li>\n<li>\n<p>adjust spacing siz",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F4b92866"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-29-openai-helping-disaster-response-teams-turn-ai-into-actio",
+      "date": "2026-03-29",
+      "name": "Helping disaster response teams turn AI into action across Asia",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/helping-disaster-response-teams-asia"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-03-28-dust-spa-poke-5886ae9-email-agents-reply-only-to-sender",
       "date": "2026-03-28",
       "name": "spa/poke/5886ae9: [Email Agents] Reply only to sender (#23410)",
@@ -875,204 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/bedrock-agentcore-runtime-session-storage/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-25-langchain-langgraph-skills-in-langsmith-fleet",
-      "date": "2026-03-25",
-      "name": "Skills in LangSmith Fleet",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "Fleet now supports shareable skills, so you equip agents across your team with knowledge for specialized tasks.",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/skills-in-langsmith-fleet/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-03-25-crewai-1-12-0a2",
-      "date": "2026-03-25",
-      "name": "1.12.0a2",
-      "vendor": "CrewAI",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add Qdrant Edge storage backend for memory system</li>\n</ul>\n<h3>Documentation</h3>\n<ul>\n<li>Update changelog and version for v1.12.0a1</li>\n</ul>\n<h2>Contributors</h2>\n",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.12.0a2"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-03-25-crewai-1-12-0a1",
-      "date": "2026-03-25",
-      "name": "1.12.0a1",
-      "vendor": "CrewAI",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add docs-check command to analyze changes and generate docs with translations</li>\n<li>Add Arabic language support to changelog and release tooling</li>\n<li>Add modern s",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.12.0a1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-03-25-aws-amazon-quick-now-available-in-the-aws-tokyo-region",
-      "date": "2026-03-25",
-      "name": "Amazon Quick Now Available in the AWS Tokyo Region",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Quick is now available in the AWS Asia Pacific (Tokyo) region (ap-northeast-1). This launch allows customers in Japan to access the full power of Amazon Quick while meeting local and regional requirements for d",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-quick-now-available-in-the-aws-tokyo-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-25-aws-amazon-quick-now-available-in-the-aws-frankfurt-re",
-      "date": "2026-03-25",
-      "name": "Amazon Quick Now Available in the AWS Frankfurt Region",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Quick is now available in the AWS Europe (Frankfurt) region (eu-central-1). This launch allows customers in Germany to access the full power of Amazon Quick while meeting local and regional requirements for dat",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-quick-now-available-in-the-aws-frankfurt-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-25-aws-amazon-quick-now-available-in-the-aws-london-regio",
-      "date": "2026-03-25",
-      "name": "Amazon Quick Now Available in the AWS London Region",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Quick is now available in the AWS Europe (London) region (eu-west-2). This launch allows customers in the United Kingdom to access the full power of Amazon Quick while meeting local and regional requirements fo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-quick-now-available-in-the-aws-london-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-24-openai-powering-product-discovery-in-chatgpt",
-      "date": "2026-03-24",
-      "name": "Powering product discovery in ChatGPT",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/powering-product-discovery-in-chatgpt"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-24-langchain-langgraph-how-moda-builds-production-grade-ai-design-agents-",
-      "date": "2026-03-24",
-      "name": "How Moda Builds Production-Grade AI Design Agents with Deep Agents",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "Moda uses a multi-agent system built on Deep Agents and traced through LangSmith to let non-designers create and iterate on professional-grade visuals.",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/how-moda-builds-production-grade-ai-design-agents-with-deep-agents/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-03-24-aws-amazon-timestream-for-influxdb-is-now-available-in",
-      "date": "2026-03-24",
-      "name": "Amazon Timestream for InfluxDB is now available in the Mexico (Central), Japan (Osaka), and Brazil (Sao Paulo) AWS regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>You can now use Amazon Timestream for InfluxDB in the Mexico (Central), Japan (Osaka), and Brazil (Sao Paulo) AWS regions. Timestream for InfluxDB makes it easy for application developers and DevOps teams to run fully",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-timestream-influxdb-mexico-osaka-sao-paulo/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-24-aws-aws-healthomics-introduces-batch-run-operations",
-      "date": "2026-03-24",
-      "name": "AWS HealthOmics introduces batch run operations",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS HealthOmics announces batch run submission, allowing customers to submit up to 100,000 runs of any given workflow in a single request. With this launch, customers can now submit large-scale genomics experiments wi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-healthomics-introduces-batch-run/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-23-aws-aws-healthimaging-is-now-available-in-europe-londo",
-      "date": "2026-03-23",
-      "name": "AWS HealthImaging is now available in Europe (London)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS HealthImaging is now available in the AWS Europe (London) Region. AWS HealthImaging is a HIPAA-eligible service that empowers healthcare providers, life sciences organizations, and their software partners to store",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-healthimaging-europe-london/"
         }
       ],
       "impact": 5,
