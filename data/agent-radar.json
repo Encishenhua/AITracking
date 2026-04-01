@@ -1,6 +1,546 @@
 {
   "items": [
     {
+      "id": "2026-03-31-aws-amazon-cloudwatch-now-supports-ingesting-security-",
+      "date": "2026-03-31",
+      "name": "Amazon CloudWatch now supports ingesting Security Hub CSPM findings with organization-wide enablement",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon CloudWatch now supports ingesting AWS&nbsp;Security Hub CSPM findings, enabling customers to centrally analyze and monitor security findings directly in CloudWatch Logs. Security Hub CSPM findings are supported",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-cloudwatch-securityhub-findings/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-31-aws-aws-launches-sustainability-console-for-carbon-emi",
+      "date": "2026-03-31",
+      "name": "AWS launches Sustainability console for carbon emissions tracking",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS launches the <a href=\"https://aws.amazon.com/sustainability/tools/console/\">AWS Sustainability console</a>, a free, standalone service that shows customers their environmental impact associated with their AWS usag",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-launches-sustainability-console/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-31-aws-aws-iam-identity-center-is-now-available-in-aws-eu",
+      "date": "2026-03-31",
+      "name": "AWS IAM Identity Center is now available in AWS European Sovereign Cloud (Germany) Region",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>You can now deploy AWS IAM Identity Center in the AWS European Sovereign Cloud (Germany) Region. The AWS European Sovereign Cloud is a new independent cloud for Europe entirely located within the European Union (EU), ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-iam-identity-center-european-sovereign-cloud-germany-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-31-aws-amazon-managed-service-for-apache-flink-now-suppor",
+      "date": "2026-03-31",
+      "name": "Amazon Managed Service for Apache Flink now supports Apache Flink 2.2",
+      "vendor": "AWS",
+      "type": "deprecation",
+      "summary": "<p>Amazon Managed Service for Apache Flink now supports Apache Flink version 2.2. This is a major upgrade that brings runtime improvements such as Java 17 support, RocksDB 8.10.0 for better I/O performance, and serializa",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-managed-service-flink-2-2/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-31-aws-amazon-sagemaker-unified-studio-adds-observability",
+      "date": "2026-03-31",
+      "name": "Amazon SageMaker Unified Studio adds Observability for AWS Glue jobs via CloudWatch metrics",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker Unified Studio adds Observability for jobs, it now displays Amazon CloudWatch metrics for AWS Glue jobs directly alongside job logs in a single, unified interface. This enhancement adds observability ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/sagemaker-unified-studio-metrics/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-31-aws-aws-organizations-now-provides-organization-paths-",
+      "date": "2026-03-31",
+      "name": "AWS Organizations now provides organization paths in API responses",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Organizations now&nbsp;returns&nbsp;the complete organizational path for accounts and organizational units (OUs) directly in API responses,&nbsp;eliminating&nbsp;the need for multiple API calls to traverse organiz",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-organizations-paths-api-responses/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-31-aws-amazon-s3-vectors-expands-to-17-additional-aws-reg",
+      "date": "2026-03-31",
+      "name": "Amazon S3 Vectors expands to 17 additional AWS Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon S3 Vectors is now available in 17 additional AWS Regions: Africa (Cape Town), Asia Pacific (Hong Kong), Asia Pacific (Hyderabad), Asia Pacific (Jakarta), Asia Pacific (Malaysia), Asia Pacific (Melbourne), Asia ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/s3-vectors-expands-17-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-31-aws-aws-service-availability-updates",
+      "date": "2026-03-31",
+      "name": "AWS Service Availability Updates",
+      "vendor": "AWS",
+      "type": "deprecation",
+      "summary": "<p>We’re announcing availability changes to the following AWS services and features.<br /> <br /> Services moving to Maintenance</p> \n<p>Services moving to maintenance will no longer be accessible to new customers starti",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-service-availability/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-31-aws-amazon-bedrock-agentcore-evaluations-is-now-genera",
+      "date": "2026-03-31",
+      "name": "Amazon Bedrock AgentCore Evaluations is now generally available",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock AgentCore Evaluations is now generally available, providing automated quality assessment for AI agents. Evaluations enables developers to monitor agent quality through continuous evaluation of productio",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/agentcore-evaluations-generally-available/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-31-aws-aws-end-user-messaging-now-supports-rcs-for-busine",
+      "date": "2026-03-31",
+      "name": "AWS End User Messaging now supports RCS for Business",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Today, AWS End User Messaging announces support for Rich Communication Services (RCS) for Business. Traditional SMS arrives from a generic phone number that customers may not recognize, making it harder for businesses",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/rcs-business-messaging/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-31-aws-aws-devops-agent-is-now-generally-available",
+      "date": "2026-03-31",
+      "name": "AWS DevOps Agent is now generally available",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Now generally available, AWS DevOps Agent is your always-available operations teammate that resolves and proactively prevents incidents, optimizes application reliability and performance, and handles on-demand SRE tas",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-devops-agent-generally-available/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-31-aws-aws-security-agent-on-demand-penetration-testing-i",
+      "date": "2026-03-31",
+      "name": "AWS Security Agent on-demand penetration testing is now generally available",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today,&nbsp;AWS&nbsp;announced the general availability of AWS&nbsp;Security&nbsp;Agent&nbsp;for&nbsp;on-demand penetration testing&nbsp;in&nbsp;six&nbsp;AWS Regions.&nbsp;AWS Security Agent&nbsp;delivers&nbsp;autonom",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-security-agent-ondemand-penetration/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-31-aws-aws-private-ca-now-publishes-utilization-metrics-t",
+      "date": "2026-03-31",
+      "name": "AWS Private CA now publishes utilization metrics to Amazon CloudWatch",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Private Certificate Authority (AWS Private CA) now publishes certificate authority (CA) utilization metrics to Amazon CloudWatch, providing visibility into your CA usage. AWS Private CA enforces service quota limi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-private-ca-publishes-metrics/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-31-aws-amazon-location-service-now-supports-grabmaps-with",
+      "date": "2026-03-31",
+      "name": "Amazon Location Service now supports GrabMaps with enhanced APIs for Southeast Asia",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Location Service now supports GrabMaps with simplified APIs that eliminate upfront resource creation, making it faster to build maps, places, and routing applications with high-quality Southeast Asian data. Gra",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-location-service-grabmaps/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-31-aws-amazon-cloudwatch-logs-introduces-lookup-query-com",
+      "date": "2026-03-31",
+      "name": "Amazon CloudWatch Logs introduces lookup query command",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon CloudWatch Logs Insights now supports a new lookup command that enables customers to enrich log query results with data from reference tables. Developers, DevOps engineers, and SREs working with complex distrib",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/cloudwatch-lookup-query-command/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-31-aws-aws-backup-expands-support-for-amazon-redshift-ser",
+      "date": "2026-03-31",
+      "name": "AWS Backup expands support for Amazon Redshift Serverless to seven Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Backup support for Amazon Redshift Serverless is now available in seven additional AWS Regions: Asia Pacific (Osaka, Hyderabad, Taipei, Kuala Lumpur, Auckland), Europe (Milan), and Africa (Cape Town).</p> \n<p>This",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-backup-redshift-serverless-seven-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-31-aws-aws-transform-custom-announces-general-availabilit",
+      "date": "2026-03-31",
+      "name": "AWS Transform custom announces general availability of automated codebase analysis",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Transform custom announces the general availability of the comprehensive codebase analysis transformation. This up-front analysis reduces documentation maintenance burden and preserves critical institutional knowl",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/transform-custom-new-codebase-analysis/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-31-aws-announcing-amazon-rds-for-oracle-on-aws-outposts",
+      "date": "2026-03-31",
+      "name": "Announcing Amazon RDS for Oracle on AWS Outposts",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/oracle/\">Amazon Relational Database Service (Amazon RDS) for Oracle</a> is now available on AWS Outposts. <a href=\"https://aws.amazon.com/outposts/\">AWS Outposts</a> is a fully mana",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-rds-oracle-aws-outposts/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-31-aws-aws-transform-custom-introduces-new-aws-managed-tr",
+      "date": "2026-03-31",
+      "name": "AWS Transform custom introduces new AWS-managed transformations to modernize code at scale",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Transform custom now offers seven new AWS-managed transformations to help you modernize code at scale. These transformations address common modernization scenarios across multiple languages and frameworks.<br /> <",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/transform-custom-new-transformations/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-31-aws-amazon-rds-for-db2-is-now-available-in-asia-pacifi",
+      "date": "2026-03-31",
+      "name": "Amazon RDS for Db2 is now available in Asia Pacific (New Zealand)",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/db2/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon RDS for Db2</a> is now available in the Asia Pacific (New Zealand) AWS Region. Amazon RDS for Db2 makes it easy to set up, ope",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-rds-db2-available-Aisa-Pacific-New-Zealand/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-31-aws-amazon-rds-for-sql-server-developer-edition-is-now",
+      "date": "2026-03-31",
+      "name": "Amazon RDS for SQL Server Developer Edition is now available in the AWS GovCloud (US) Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for SQL Server</a> now offers Microsoft SQL Server Developer Edition in the AWS GovCloud (US) Regions. Wi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-rds-sql-server-developer-edition-available-aws-govcloud-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-31-aws-amazon-cloudfront-now-supports-byoip-for-ipv6-thro",
+      "date": "2026-03-31",
+      "name": "Amazon CloudFront now supports BYOIP for IPv6 through VPC IPAM integration",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon CloudFront now supports bringing your own IPv6 addresses (BYOIP) for Anycast Static IPs via VPC IP Address Manager (IPAM). This capability enables network administrators to use their own public IPv4 and IPv6 ad",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/cloudfront-byoip-ipv6-vpc-ipam/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-31-aws-amazon-s3-express-one-zone-now-supports-request-me",
+      "date": "2026-03-31",
+      "name": "Amazon S3 Express One Zone now supports request metrics in Amazon CloudWatch",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon S3 Express One Zone, a high performance S3 storage class for latency-sensitive applications, now supports&nbsp;request metrics&nbsp;in Amazon CloudWatch. You can&nbsp;use request metrics&nbsp;to track performan",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/s3-express-one-zone-cloudwatch-request-metrics/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-31-langchain-langgraph-announcing-the-langchain-mongodb-partnership-the-a",
+      "date": "2026-03-31",
+      "name": "Announcing the LangChain + MongoDB Partnership: The AI Agent Stack That Runs On The Database You Already Trust",
+      "vendor": "LangChain/LangGraph",
+      "type": "upgrade",
+      "summary": "Build production AI agents on MongoDB Atlas — with vector search, persistent memory, natural-language querying, and end-to-end observability built in.",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/announcing-the-langchain-mongodb-partnership-the-ai-agent-stack-that-runs-on-the-database-you-already-trust/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-03-31-dust-spa-poke-2693108-front-chore-api-keys-cleanup-2352",
+      "date": "2026-03-31",
+      "name": "spa/poke/2693108: [front] - chore(API-keys): cleanup (#23526)",
+      "vendor": "Dust",
+      "type": "deprecation",
+      "summary": "<ul>\n<li>[front] - refactor: update key type to remove scope and groupId fields</li>\n</ul>\n<ul>\n<li>removes unused scope and groupId fields from KeyType for simplification</li>\n<li>consolidates group membership into grou",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2693108"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-31-dust-spa-poke-89ae821-audit-logs-for-agents-spaces-and-",
+      "date": "2026-03-31",
+      "name": "spa/poke/89ae821: Audit logs for agents, spaces and data sources (#23502)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>feat(audit): add tier 2/3 audit log events for agents, spaces, and data sources</li>\n</ul>\n<p>Add 12 new audit log events:</p>\n<ul>\n<li>Agent lifecycle: agent.created, agent.updated, agent.archived, agent.delete",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F89ae821"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-31-dust-spa-poke-52d1ffa-fix-show-enterprise-label-and-fea",
+      "date": "2026-03-31",
+      "name": "spa/poke/52d1ffa: fix: show Enterprise label and features on subscription card (#23492)",
+      "vendor": "Dust",
+      "type": "pricing",
+      "summary": "<ul>\n<li>fix: show Enterprise label and features on subscription card when isBusiness flag is on</li>\n</ul>\n<p>When the workspace isBusiness flag is toggled, the first plan card on<br />\nAdmin &gt; Subscription now displ",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F52d1ffa"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-31-dust-spa-poke-9f1dd4f",
+      "date": "2026-03-31",
+      "name": "spa/poke/9f1dd4f",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[Email Agents] Hotfix: Relay inbound email misses to the other region…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9f1dd4f"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-31-dust-spa-poke-1a42fd6-add-teams-transcripts-mcp-tools-2",
+      "date": "2026-03-31",
+      "name": "spa/poke/1a42fd6: Add Teams transcripts MCP tools (#23532)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>Add Teams transcripts MCP tools</p>\n</li>\n<li>\n<p>fix snapshots</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F1a42fd6"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-31-crewai-1-13-0a3",
+      "date": "2026-03-31",
+      "name": "1.13.0a3",
+      "vendor": "CrewAI",
+      "type": "upgrade",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Emit token usage data in LLMCallCompletedEvent</li>\n<li>Extract and publish tool metadata to AMP</li>\n</ul>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Handle GPT-5.x models not support",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.13.0a3"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-03-30-aws-amazon-cloudwatch-now-supports-multi-account-and-r",
       "date": "2026-03-30",
       "name": "Amazon CloudWatch now supports multi-account and region log centralization based on data source",
@@ -451,6 +991,24 @@
       "tags": []
     },
     {
+      "id": "2026-03-27-aws-amazon-connect-now-supports-tag-based-access-contr",
+      "date": "2026-03-27",
+      "name": "Amazon Connect now supports tag-based access control for quick responses",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect now applies tag-based access controls (TBAC) to routing profile assignments in quick responses. Previously, quick responses configured by administrators with tag-based access controls were available to ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2006/03/amazon-connect-tag-based-access/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-03-26-crewai-1-12-1",
       "date": "2026-03-26",
       "name": "1.12.1",
@@ -515,564 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/ec2-u7i-europe-milan/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-26-aws-amazon-sagemaker-studio-launches-support-for-kiro-",
-      "date": "2026-03-26",
-      "name": "Amazon SageMaker Studio launches support for Kiro and Cursor IDEs as remote IDEs",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the ability to remotely connect from Kiro and Cursor IDEs to Amazon SageMaker Studio. This new capability allows data scientists, ML engineers, and developers to leverage their Kiro and Cursor set",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-studio-kiro-cursor/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-26-aws-amazon-ecs-managed-instances-now-supports-fips-cer",
-      "date": "2026-03-26",
-      "name": "Amazon ECS Managed Instances now supports FIPS-certified workloads on Graviton and GPU accelerated instances in AWS GovCloud (US) Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, customers can deploy their Graviton-based and GPU-accelerated workloads on Amazon Elastic Container Service (Amazon ECS) Managed Instances in a Federal Information Processing Standard (FIPS) compliant ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ecs-mi-supports-fips-graviron-gpu/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-26-aws-aws-appconfig-adds-enhanced-targeting-during-featu",
-      "date": "2026-03-26",
-      "name": "AWS AppConfig adds enhanced targeting during feature flag rollout",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS AppConfig enhances its deployment capabilities with new controls that allow customers to target feature flag and configuration data values to specific segments or individual users during the lifecycle of a gradual",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/appconfig-enhanced-targeting-feature-flag-rollout/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-26-aws-the-aws-advanced-jdbc-wrapper-now-supports-automat",
-      "date": "2026-03-26",
-      "name": "The AWS Advanced JDBC Wrapper now supports automatic query caching with Valkey",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>The <a href=\"https://github.com/aws/aws-advanced-jdbc-wrapper\">AWS Advanced JDBC Wrapper</a> now supports automatically caching JDBC queries with <a href=\"https://valkey.io/\">Valkey</a>, including <a href=\"https://doc",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-jdbc-caching-with-valkey/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-26-aws-amazon-ec2-r8gd-instances-are-now-available-in-add",
-      "date": "2026-03-26",
-      "name": "Amazon EC2 R8gd instances are now available in additional AWS Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Elastic Compute Cloud (Amazon EC2) R8gd instances with up to 11.4 TB of local NVMe-based SSD block-level storage are now available in US West (N. California), Asia Pacific (Seoul, Hong Kong, Jakarta), Africa (C",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-r8gd-aws-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-26-aws-amazon-ec2-m8a-instances-now-available-in-aws-euro",
-      "date": "2026-03-26",
-      "name": "Amazon EC2 M8a instances now available in AWS Europe (Ireland) region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, the general-purpose Amazon EC2 M8a instances are available in AWS Europe (Ireland) region. M8a instances are powered by 5th Gen AMD EPYC processors (formerly code named Turin) with a maximum frequency ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-m8a-instances-europe-ireland-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-26-aws-amazon-ec2-m8a-instances-now-available-in-aws-govc",
-      "date": "2026-03-26",
-      "name": "Amazon EC2 M8a instances now available in AWS GovCloud (US-West) region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, the general-purpose Amazon EC2 M8a instances are available in AWS GovCloud (US-West) region. M8a instances are powered by 5th Gen AMD EPYC processors (formerly code named Turin) with a maximum frequenc",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-m8a-instances-govcloud-us-west-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-26-aws-aws-storage-gateway-terraform-modules-now-support-",
-      "date": "2026-03-26",
-      "name": "AWS Storage Gateway Terraform modules now support Amazon Linux 2023",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Storage Gateway Terraform modules now enable Amazon Linux 2023-based deployments, delivering improved security, reliability, and operational simplicity for Infrastructure as Code (IaC) provisioning. The updated mo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/storage-gateway-terraform-al2023/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-26-langchain-langgraph-how-kensho-built-a-multi-agent-framework-with-lang",
-      "date": "2026-03-26",
-      "name": "How Kensho built a multi-agent framework with LangGraph to solve trusted financial data retrieval",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "Discover how Kensho, S&amp;P Global’s AI innovation engine, leveraged LangGraph to create its Grounding framework–a unified agentic access layer solving fragmented financial data retrieval at enterprise scale.",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/customers-kensho/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-03-26-langchain-langgraph-how-we-build-evals-for-deep-agents",
-      "date": "2026-03-26",
-      "name": "How we build evals for Deep Agents",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "<div class=\"kg-card kg-callout-card kg-callout-card-grey\"><div class=\"kg-callout-emoji\">&#x1f4a1;</div><div class=\"kg-callout-text\"><b><strong style=\"white-space: pre-wrap;\">TLDR:</strong></b> The best agent evals direct",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/how-we-build-evals-for-deep-agents/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-03-26-langchain-langgraph-how-middleware-lets-you-customize-your-agent-harne",
-      "date": "2026-03-26",
-      "name": "How Middleware Lets You Customize Your Agent Harness",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "<p>Agent harnesses are what help build an agent, they connect an LLM to its environment and let it do things.</p><p>When you&#x2019;re building an agent, it&#x2019;s likely you&#x2019;ll want build an application specifi",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/how-middleware-lets-you-customize-your-agent-harness/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-03-26-dust-spa-poke-1880248-add-send-mail-functionality-to-ou",
-      "date": "2026-03-26",
-      "name": "spa/poke/1880248: Add send_mail functionality to Outlook integration (#23330)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>Add send_mail functionality to Outlook integration</li>\n</ul>\n<ul>\n<li>Introduced a new action <code>send_mail</code> to send emails directly via Outlook without creating drafts.</li>\n<li>Updated <code>OUTLOOK_T",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F1880248"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-26-dust-spa-app-1880248-add-send-mail-functionality-to-out",
-      "date": "2026-03-26",
-      "name": "spa/app/1880248: Add send_mail functionality to Outlook integration (#23330)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>Add send_mail functionality to Outlook integration</li>\n</ul>\n<ul>\n<li>Introduced a new action <code>send_mail</code> to send emails directly via Outlook without creating drafts.</li>\n<li>Updated <code>OUTLOOK_T",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F1880248"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-26-crewai-1-13-0a1",
-      "date": "2026-03-26",
-      "name": "1.13.0a1",
-      "vendor": "CrewAI",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Fix broken links in documentation workflow by pinning Node to LTS 22</li>\n<li>Bust the uv cache for freshly published packages in enterprise release</li>\n</ul>\n<h3>Docu",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.13.0a1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-03-26-aws-aws-step-functions-adds-28-new-service-integration",
-      "date": "2026-03-26",
-      "name": "AWS Step Functions adds 28 new service integrations, including Amazon Bedrock AgentCore",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p><a href=\"https://aws.amazon.com/step-functions/\">AWS Step Functions</a>&nbsp;expands its AWS SDK integrations with 28 additional services and over 1,100 new API actions across new and existing AWS services, including ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-step-functions-sdk-integrations/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-26-aws-palmyra-vision-7b-from-writer-now-available-on-ama",
-      "date": "2026-03-26",
-      "name": "Palmyra Vision 7B from Writer now available on Amazon Bedrock",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Bedrock is a fully managed service that offers a choice of high-performing foundation models from leading AI companies via a single API. Starting today, customers can use Palmyra Vision 7B from Writer on Amazon",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/palmyra-vision-7b-writer-bedrock/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-26-aws-aws-parallel-computing-service-supports-slurmdbd-a",
-      "date": "2026-03-26",
-      "name": "AWS Parallel Computing Service supports slurmdbd and cgroups settings",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS Parallel Computing Service (AWS PCS) now supports additional Slurm configuration settings for slurmdbd and cgroups, enabling you to fine-tune accounting behavior and resource isolation directly through the AWS PCS",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-pcs-manages-slurmdbd-cgroups-settings/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-26-aws-amazon-ec2-i8ge-instances-are-now-generally-availa",
-      "date": "2026-03-26",
-      "name": "Amazon EC2 I8ge instances are now generally available in additional AWS regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Web Services (AWS) announces the availability of Amazon EC2 I8ge instances in Europe (Stockholm), Asia Pacific (Mumbai), Asia Pacific (Malaysia), Asia Pacific (Singapore), and Asia Pacific (Sydney) AWS regions.",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/ec2-i8ge-available-new-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-25-openai-unable-to-download-or-preview-project-files",
-      "date": "2026-03-25",
-      "name": "Unable to download or preview project files",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Investigating</b><br /><br />We are investigating the issue for the listed services.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>File uploads (Degraded performance)</li>\n<li>Files (Opera",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KMH5C6HVAYJ9SS3REEAWXB6R"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-25-openai-introducing-the-openai-safety-bug-bounty-program",
-      "date": "2026-03-25",
-      "name": "Introducing the OpenAI Safety Bug Bounty program",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/safety-bug-bounty"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-25-aws-aws-firewall-manager-launches-in-aws-asia-pacific-",
-      "date": "2026-03-25",
-      "name": "AWS Firewall Manager launches in AWS Asia Pacific (New Zealand) Region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Firewall Manager announces that it is now available in AWS Asia Pacific (New Zealand) Region. AWS Firewall Manager helps cloud security administrators and site reliability engineers protect applications while redu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-firewall-manager-launches-ap-nz/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-25-aws-accelerate-ai-assisted-development-with-agent-plug",
-      "date": "2026-03-25",
-      "name": "Accelerate AI-assisted development with Agent Plugin for AWS Serverless",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS announces the Agent Plugin for&nbsp;AWS&nbsp;Serverless, enabling developers to easily build, deploy, troubleshoot, and manage serverless applications using AI coding assistants like Kiro, Claude Code, and Cursor.",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/agent-plugin-aws-serverless/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-25-aws-aws-batch-now-provides-ami-status-and-supports-aws",
-      "date": "2026-03-25",
-      "name": "AWS Batch now provides AMI status and supports AWS Health Planned Lifecycle Events",
-      "vendor": "AWS",
-      "type": "deprecation",
-      "summary": "<p>AWS Batch now provides enhanced visibility into your compute environments with two new capabilities that help you maintain operational best practices. When you describe a compute environment, you can now see the statu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-batch-ami-status-aws-health/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-25-aws-amazon-bedrock-agentcore-adds-support-for-chrome-p",
-      "date": "2026-03-25",
-      "name": "Amazon Bedrock AgentCore adds support for Chrome policies and custom root CA",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock AgentCore now enables customers to configure Chrome Enterprise policies for AgentCore Browser and specify custom root Certificate Authority (CA) certificates for both AgentCore Browser and Code Interpre",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/agentcore-browser-policies-root-ca/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-25-aws-amazon-route-53-profiles-now-supports-granular-iam",
-      "date": "2026-03-25",
-      "name": "Amazon Route 53 Profiles now supports granular IAM permissions for resource and VPC associations",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Route 53 Profiles now supports granular AWS Identity and Access Management (IAM) permissions, allowing you to control which users can manage specific resource types and VPC associations within your Profiles. Wi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-route-53-profiles-granular-iam/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-25-aws-amazon-aurora-postgresql-now-supports-creating-and",
-      "date": "2026-03-25",
-      "name": "Amazon Aurora PostgreSQL now supports creating and connecting to a database in seconds",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Aurora PostgreSQL now offers a new experience to create a cluster with express configuration, enabling you to create and query an Aurora serverless database in seconds. With pre-configured settings, the new exp",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-aurora-postgresql-database/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-25-aws-amazon-sagemaker-ai-now-supports-serverless-reinfo",
-      "date": "2026-03-25",
-      "name": "Amazon SageMaker AI now supports serverless reinforcement fine-tuning for 12 additional models",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon SageMaker AI now supports serverless model customization and reinforcement fine-tuning for 12 additional open-weight models, enabling you to fine-tune and evaluate them without provisioning or managing infrastr",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-ai-serverless-additional-models/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-25-aws-amazon-ec2-i7ie-instances-now-available-in-additio",
-      "date": "2026-03-25",
-      "name": "Amazon EC2 I7ie instances now available in additional AWS regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS is announcing starting today, Amazon EC2 I7ie instances are now available in AWS Asia Pacific (Hong Kong), Asia Pacific (Seoul),&nbsp;Asia Pacific (Melbourne),&nbsp;Asia Pacific (Thailand),&nbsp;Europe (Zurich),&n",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-i7ie-instances-additional-aws-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-25-aws-aws-backup-expands-support-for-amazon-documentdb-t",
-      "date": "2026-03-25",
-      "name": "AWS Backup expands support for Amazon DocumentDB to 12 Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Backup now supports Amazon DocumentDB in 12 additional AWS Regions: Asia Pacific (Malaysia, Thailand, Osaka, Hong Kong, Jakarta, Melbourne), Europe (Stockholm, Spain, Zurich), Africa (Cape Town), Israel (Tel Aviv)",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-backup-amazon-documentdb-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-25-aws-aws-transfer-family-as2-now-supports-receipts-of-m",
-      "date": "2026-03-25",
-      "name": "AWS Transfer Family AS2 now supports receipts of MDNs asynchronously",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Transfer Family now supports receiving&nbsp;Message Disposition Notifications (MDNs) asynchronously for messages sent to trading partners over Applicability Statement 2 (AS2). This enables you to migrate your AS2 ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-transfer-family-as2-mdns/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-25-aws-amazon-bedrock-agentcore-runtime-now-supports-mana",
-      "date": "2026-03-25",
-      "name": "Amazon Bedrock AgentCore Runtime now supports managed session storage for persistent agent filesystem state (preview)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock AgentCore Runtime now offers managed session storage in public preview, enabling agents to persist their filesystem state across stop and resume cycles. Modern agents write code, install packages, gener",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/bedrock-agentcore-runtime-session-storage/"
         }
       ],
       "impact": 5,
