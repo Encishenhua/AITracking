@@ -1,6 +1,204 @@
 {
   "items": [
     {
+      "id": "2026-04-01-openai-gradient-labs-gives-every-bank-customer-an-ai-acco",
+      "date": "2026-04-01",
+      "name": "Gradient Labs gives every bank customer an AI account manager",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/gradient-labs"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-01-aws-amazon-ses-mail-manager-adds-new-features-for-enha",
+      "date": "2026-04-01",
+      "name": "Amazon SES Mail Manager adds new features for enhanced security and email processing",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Simple Email Service (SES) Mail Manager now offers enhancements to email security and processing while simplifying email infrastructure migrations. These enhancements include optional TLS and certificate-based ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/ses-mail-manager-introduces-new-features/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-01-aws-amazon-ecs-announces-managed-daemons-for-ecs-manag",
+      "date": "2026-04-01",
+      "name": "Amazon ECS announces Managed Daemons for ECS Managed Instances",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon ECS announces Managed Daemons for <a href=\"https://aws.amazon.com/ecs/managed-instances/\">ECS Managed Instances</a>, enabling organizations to centrally deploy and manage software agents such as security, obser",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ecs-managed-daemons/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-01-aws-amazon-sagemaker-data-agent-now-supports-geo-speci",
+      "date": "2026-04-01",
+      "name": "Amazon SageMaker Data Agent now supports geo-specific inference for Japan and Australia",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon SageMaker Data Agent now supports cross-region inference profiles for Japan and Australia through Amazon Bedrock. With this update, inference requests from Data Agent in the Asia Pacific (Tokyo) and Asia Pacifi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/sage-maker-da-infr-jp-au/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-01-aws-aws-vpc-encryption-controls-now-available-in-aws-g",
+      "date": "2026-04-01",
+      "name": "AWS VPC Encryption Controls now available in AWS GovCloud (US) Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS launches VPC Encryption Controls in AWS GovCloud (US) Regions to make it easy to audit and enforce encryption in transit within and across Amazon Virtual Private Clouds (VPC), and demonstrate compliance with encry",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-vpc-encryption-controls/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-01-aws-amazon-rds-for-oracle-now-supports-cross-account-s",
+      "date": "2026-04-01",
+      "name": "Amazon RDS for Oracle now supports cross-account snapshot sharing with additional storage volumes",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/oracle/\">Amazon RDS for Oracle</a> now supports cross-account snapshot sharing for database instances with additional storage volumes. Additional storage volumes allow customers to ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/rds-oracle-cross-account-snapshot-sharing-additional-storage-volume/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-01-aws-amazon-bedrock-now-supports-structured-outputs-to-",
+      "date": "2026-04-01",
+      "name": "Amazon Bedrock now supports structured outputs to AWS GovCloud (US) Regions",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Bedrock is a fully managed service that provides access to a wide selection of high-performing foundation models from leading AI companies through a single API. Today, Amazon Bedrock expands structured outputs ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-bedrock-structured-outputs-govcloud/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-01-langchain-langgraph-march-2026-langchain-newsletter",
+      "date": "2026-04-01",
+      "name": "March 2026: LangChain Newsletter",
+      "vendor": "LangChain/LangGraph",
+      "type": "upgrade",
+      "summary": "It feels like spring has sprung here, and so has a new NVIDIA integration, ticket sales for Interrupt 2026, and announcing LangSmith Fleet (formerly Agent Builder).",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/march-2026-langchain-newsletter/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-04-01-dust-spa-poke-58247c8",
+      "date": "2026-04-01",
+      "name": "spa/poke/58247c8",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Reinforced Agent: retry error on tool calls (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/23561\">#23561</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F58247c8"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-01-dust-spa-poke-980f551-add-global-feature-flags-with-per",
+      "date": "2026-04-01",
+      "name": "spa/poke/980f551: Add global feature flags with percentage-based rollout (#23057)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>Adds a global_feature_flags table that allows enabling feature flags globally with a rollout percentage (0-100), rather than requiring per-workspace enablement</li>\n<li>Workspace-level flags always take preceden",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F980f551"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-01-crewai-1-13-0a6",
+      "date": "2026-04-01",
+      "name": "1.13.0a6",
+      "vendor": "CrewAI",
+      "type": "upgrade",
+      "summary": "<h2>What's Changed</h2>\n<h3>Documentation</h3>\n<ul>\n<li>Fix RBAC permission levels to match actual UI options (<a class=\"issue-link js-issue-link\" href=\"https://github.com/crewAIInc/crewAI/pull/5210\">#5210</a>)</li>\n<li>",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.13.0a6"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-03-31-aws-amazon-cloudwatch-now-supports-ingesting-security-",
       "date": "2026-03-31",
       "name": "Amazon CloudWatch now supports ingesting Security Hub CSPM findings with organization-wide enablement",
@@ -541,6 +739,42 @@
       "tags": []
     },
     {
+      "id": "2026-03-31-aws-amazon-opensearch-service-introduces-agentic-ai-fo",
+      "date": "2026-03-31",
+      "name": "Amazon OpenSearch Service introduces agentic AI for log analytics",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon OpenSearch Service now offers agentic AI capabilities that enable engineering and support teams to analyze log data through an agentic conversational interface. These agentic AI features help simplify log query",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/opensearch-agentic-ai-log-analytics-observability/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-03-31-aws-aws-direct-connect-now-supports-aws-cloudformation",
+      "date": "2026-03-31",
+      "name": "AWS Direct Connect now supports AWS CloudFormation",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Direct Connect now supports AWS CloudFormation, enabling infrastructure-as-code provisioning of Direct Connect resources. This integration allows you to define your entire Direct Connect topology in CloudFormation",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-direct-connect-supports-aws-cloudformation/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-03-30-aws-amazon-cloudwatch-now-supports-multi-account-and-r",
       "date": "2026-03-30",
       "name": "Amazon CloudWatch now supports multi-account and region log centralization based on data source",
@@ -839,240 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-cloudwatch-infrequent-access-log-class/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-27-aws-aws-lambda-supports-up-to-32-gb-of-memory-and-16-v",
-      "date": "2026-03-27",
-      "name": "AWS Lambda supports up to 32 GB of memory and 16 vCPUs for Lambda Managed Instances",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS Lambda now supports up to 32 GB of memory and 16 vCPUs for functions running on Lambda Managed Instances, enabling customers to run compute-intensive workloads such as large-scale data processing, media transcodin",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/lambda-32-gb-memory-16-vcpus/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-27-aws-aws-management-console-now-supports-settings-to-co",
-      "date": "2026-03-27",
-      "name": "AWS Management Console now supports settings to control service and Region visibility",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the general availability of Visible services and Visible Regions account settings in the AWS Management Console. These settings allow you to customize which services and regions appear in the Mana",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/account-customizations-console/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-27-aws-amazon-gamelift-servers-expands-instance-support-w",
-      "date": "2026-03-27",
-      "name": "Amazon GameLift Servers expands instance support with next-generation EC2 instance families",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon GameLift Servers now supports Amazon EC2 5th through 8th generation instances, offering enhanced price-performance, efficiency, and flexibility for game server hosting. This update allows developers to leverage",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-gamelift-servers-expands-instance-support/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-27-aws-aws-healthimaging-announces-study-level-fine-grain",
-      "date": "2026-03-27",
-      "name": "AWS HealthImaging announces study-level fine-grained access control",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS HealthImaging now supports fine-grained access control, enabling organizations to securely manage access to medical imaging data at the DICOM study and series levels. Medical imaging workflows are typically organi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-healthimaging-study-level-access-control/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-27-langchain-langgraph-agent-evaluation-readiness-checklist",
-      "date": "2026-03-27",
-      "name": "Agent Evaluation Readiness Checklist",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "A practical checklist for agent evaluation: error analysis, dataset construction, grader design, offline & online evals, and production readiness.",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/agent-evaluation-readiness-checklist/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-03-27-dust-spa-poke-59f8767",
-      "date": "2026-03-27",
-      "name": "spa/poke/59f8767",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Add a 'reinforcement' agent to not re-use sidekick (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/23377\">#23377</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F59f8767"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-27-dust-spa-poke-27d2341-fix-hide-agent-details-from-all-t",
-      "date": "2026-03-27",
-      "name": "spa/poke/27d2341: fix: hide agent details from all tab in extension (#23292)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>fix: hide agent details from all tab</p>\n</li>\n<li>\n<p>fix: mentions dropdown</p>\n</li>\n<li>\n<p>feat: suggestion text</p>\n</li>\n<li>\n<p>feat: suggestion copy</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F27d2341"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-27-dust-spa-poke-1fb80c5",
-      "date": "2026-03-27",
-      "name": "spa/poke/1fb80c5",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] feat: extend poke plugin to retrieve MCP server credentials (…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F1fb80c5"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-27-aws-amazon-connect-now-supports-tag-based-access-contr",
-      "date": "2026-03-27",
-      "name": "Amazon Connect now supports tag-based access control for quick responses",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect now applies tag-based access controls (TBAC) to routing profile assignments in quick responses. Previously, quick responses configured by administrators with tag-based access controls were available to ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2006/03/amazon-connect-tag-based-access/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-26-crewai-1-12-1",
-      "date": "2026-03-26",
-      "name": "1.12.1",
-      "vendor": "CrewAI",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add request_id to HumanFeedbackRequestedEvent</li>\n<li>Add Qdrant Edge storage backend for memory system</li>\n<li>Add docs-check command to analyze changes and generate ",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.12.1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-03-26-crewai-1-12-0",
-      "date": "2026-03-26",
-      "name": "1.12.0",
-      "vendor": "CrewAI",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add Qdrant Edge storage backend for memory system</li>\n<li>Add docs-check command to analyze changes and generate docs with translations</li>\n<li>Add Arabic language sup",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.12.0"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-03-26-openai-responses-api-and-sora-increased-error-rates",
-      "date": "2026-03-26",
-      "name": "Responses API and Sora Increased Error Rates",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Responses (Operational)</li>\n          </ul>",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KMP0CDV3T8QX1YPXHQMRN2EP"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-26-aws-amazon-ec2-high-memory-u7i-instances-now-available",
-      "date": "2026-03-26",
-      "name": "Amazon EC2 High Memory U7i instances now available in Europe (Milan)",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon EC2 High Memory U7i-8TB instances (u7i-8tb.112xlarge) and U7i-12TB instances (u7i-12tb.224xlarge) are now available in AWS Europe (Milan). U7i instances are part of AWS 7th generation and are powered by custom ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/ec2-u7i-europe-milan/"
         }
       ],
       "impact": 5,
