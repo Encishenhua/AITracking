@@ -1,6 +1,204 @@
 {
   "items": [
     {
+      "id": "2026-04-02-openai-codex-now-offers-more-flexible-pricing-for-teams",
+      "date": "2026-04-02",
+      "name": "Codex now offers more flexible pricing for teams",
+      "vendor": "OpenAI",
+      "type": "pricing",
+      "summary": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/codex-flexible-pricing-for-teams"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-02-aws-amazon-cloudwatch-launches-otel-container-insights",
+      "date": "2026-04-02",
+      "name": "Amazon CloudWatch launches OTel Container Insights for Amazon EKS (Preview)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon CloudWatch introduces Container Insights with OpenTelemetry metrics for Amazon EKS, available in public preview. Building on the existing Container Insights experience, this capability provides deeper visibilit",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/cloudwatch-otel-container-insights-eks/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-02-aws-aws-deadline-cloud-now-supports-configurable-job-s",
+      "date": "2026-04-02",
+      "name": "AWS Deadline Cloud now supports configurable job scheduling modes for queues",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS Deadline Cloud announces support for configurable job scheduling modes, giving you control over how workers are distributed across jobs in a queue. AWS Deadline Cloud is a fully managed service that simplif",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/deadline-cloud-job-scheduling/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-02-aws-announcing-compute-optimized-instance-bundles-for-",
+      "date": "2026-04-02",
+      "name": "Announcing compute-optimized instance bundles for Amazon Lightsail",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Lightsail now offers compute-optimized instance bundles with up to 72 vCPUs. The new instance bundles are available in 7 sizes with both IPv6-only and dual-stack networking types. All Lightsail blueprints are s",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/lightsail-compute-optimized-instances/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-02-aws-amazon-cloudwatch-expands-auto-enablement-to-amazo",
+      "date": "2026-04-02",
+      "name": "Amazon CloudWatch expands auto-enablement to Amazon CloudFront logs and 3 additional resource types",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon CloudWatch now supports automatic enablement of Amazon CloudFront Standard access logs, AWS Security Hub CSPM finding logs, and Amazon Bedrock AgentCore memory and gateway logs and traces to CloudWatch Logs. Cu",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-cloudfront-enablement/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-02-aws-amazon-cloudwatch-now-supports-opentelemetry-metri",
+      "date": "2026-04-02",
+      "name": "Amazon CloudWatch now supports OpenTelemetry metrics in public preview",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon CloudWatch now supports native OpenTelemetry (OTel) metrics in public preview, enabling you to send metrics directly using the OpenTelemetry Protocol (OTLP) without custom conversion logic or additional tooling",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-opentelemetry-metrics/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-02-aws-amazon-workspaces-applications-improves-multi-sess",
+      "date": "2026-04-02",
+      "name": "Amazon WorkSpaces Applications improves multi-session fleet management",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon WorkSpaces Applications now enables instances in multi-session fleets to stop accepting new user sessions, while allowing existing sessions to continue uninterrupted. This capability, known as drain mode, ensur",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-workspaces-applications-drain-mode/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-02-langchain-langgraph-open-models-have-crossed-a-threshold",
+      "date": "2026-04-02",
+      "name": "Open Models have crossed a threshold",
+      "vendor": "LangChain/LangGraph",
+      "type": "upgrade",
+      "summary": "<div class=\"kg-card kg-callout-card kg-callout-card-blue\"><div class=\"kg-callout-emoji\">&#x1f4a1;</div><div class=\"kg-callout-text\"><b><strong style=\"white-space: pre-wrap;\">TL;DR:</strong></b> Open models like GLM-5 and",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/open-models-have-crossed-a-threshold/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-04-02-dust-spa-poke-77f0147-feat-mcp-gong-mcp-20452",
+      "date": "2026-04-02",
+      "name": "spa/poke/77f0147: feat(mcp): gong mcp (#20452)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>feat(mcp): gong mcp</p>\n</li>\n<li>\n<p>move to new architecture</p>\n</li>\n<li>\n<p>lint</p>\n</li>\n<li>\n<p>test fixes</p>\n</li>\n<li>\n<p>review feedback</p>\n</li>\n<li>\n<p>nits and rebase</p>\n</li>\n<li>\n<p>update",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F77f0147"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-02-dust-spa-poke-27fb569-front-refactor-agent-pass-authori",
+      "date": "2026-04-02",
+      "name": "spa/poke/27fb569: [front] - refactor(agent): pass `authorId` (#23609)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>[assistant] - refactor: require authorId explicitly for agent configuration</li>\n</ul>\n<ul>\n<li>Passes authorId explicitly through all agent configuration creation and upgrade functions to decouple user from aut",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F27fb569"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-02-crewai-1-13-0",
+      "date": "2026-04-02",
+      "name": "1.13.0",
+      "vendor": "CrewAI",
+      "type": "upgrade",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add RuntimeState RootModel for unified state serialization</li>\n<li>Enhance event listener with new telemetry spans for skill and memory events</li>\n<li>Add A2UI extensi",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.13.0"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-04-01-openai-gradient-labs-gives-every-bank-customer-an-ai-acco",
       "date": "2026-04-01",
       "name": "Gradient Labs gives every bank customer an AI account manager",
@@ -875,204 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-data-agent-query-editor/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-30-aws-aws-direct-connect-adds-cloudwatch-metrics-for-bgp",
-      "date": "2026-03-30",
-      "name": "AWS Direct Connect adds CloudWatch metrics for BGP monitoring",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Direct Connect now publishes three new Amazon CloudWatch metrics for virtual interfaces (VIFs) that provide visibility into Border Gateway Protocol (BGP) session health and route counts. Network engineers and oper",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-direct-connect-cloudwatch-bgp-monitoring/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-30-dust-spa-poke-839f7ce",
-      "date": "2026-03-30",
-      "name": "spa/poke/839f7ce",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Ensure sidekick uses new ID when duplicating agent (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/23495\">#23495</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F839f7ce"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-30-dust-spa-poke-11c5bf7-add-tier-1-audit-logging-events-2",
-      "date": "2026-03-30",
-      "name": "spa/poke/11c5bf7: Add tier 1 audit logging events (#23420)",
-      "vendor": "Dust",
-      "type": "deprecation",
-      "summary": "<ul>\n<li>feat(audit): add Tier 1 security-critical audit log events</li>\n</ul>\n<p>Add audit infrastructure (workos_audit.ts types + emitAuditLogEventDirect,<br />\nupdated createAuditLogEvent to return Result) and emit ca",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F11c5bf7"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-30-dust-spa-poke-4b92866-front-conversation-layout-update-",
-      "date": "2026-03-30",
-      "name": "spa/poke/4b92866: [front] Conversation layout update (#23384)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>remove avatar</p>\n</li>\n<li>\n<p>take out timestamp</p>\n</li>\n<li>\n<p>adjust font weight</p>\n</li>\n<li>\n<p>update agent message layout</p>\n</li>\n<li>\n<p>roundness and size</p>\n</li>\n<li>\n<p>adjust spacing siz",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F4b92866"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-29-openai-helping-disaster-response-teams-turn-ai-into-actio",
-      "date": "2026-03-29",
-      "name": "Helping disaster response teams turn AI into action across Asia",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/helping-disaster-response-teams-asia"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-28-dust-spa-poke-5886ae9-email-agents-reply-only-to-sender",
-      "date": "2026-03-28",
-      "name": "spa/poke/5886ae9: [Email Agents] Reply only to sender (#23410)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>\n<p>[Email Agents] Reply only to sender</p>\n</li>\n<li>\n<p>[Email Agents] Strip legacy reply lists from Redis context</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5886ae9"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-28-dust-spa-poke-bc69164-email-agents-align-email-copy-wit",
-      "date": "2026-03-28",
-      "name": "spa/poke/bc69164: [Email Agents] Align email copy with web app and Slack bot (#23411)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>[Email Agents] Align email copy with web app and Slack bot</li>\n</ul>\n<ul>\n<li>Sender: \"Dust Agent (name)\" → \"name (Dust agent)\"</li>\n<li>Reply footer: \"Open in Dust\" → \"Answered by agentName · View full convers",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fbc69164"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-28-dust-spa-app-5886ae9-email-agents-reply-only-to-sender-",
-      "date": "2026-03-28",
-      "name": "spa/app/5886ae9: [Email Agents] Reply only to sender (#23410)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>\n<p>[Email Agents] Reply only to sender</p>\n</li>\n<li>\n<p>[Email Agents] Strip legacy reply lists from Redis context</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F5886ae9"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-28-dust-spa-app-bc69164-email-agents-align-email-copy-with",
-      "date": "2026-03-28",
-      "name": "spa/app/bc69164: [Email Agents] Align email copy with web app and Slack bot (#23411)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>[Email Agents] Align email copy with web app and Slack bot</li>\n</ul>\n<ul>\n<li>Sender: \"Dust Agent (name)\" → \"name (Dust agent)\"</li>\n<li>Reply footer: \"Open in Dust\" → \"Answered by agentName · View full convers",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2Fbc69164"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-27-aws-amazon-timestream-for-influxdb-now-supports-advanc",
-      "date": "2026-03-27",
-      "name": "Amazon Timestream for InfluxDB Now Supports Advanced Metrics",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Timestream for InfluxDB now offers Advanced Metrics, providing comprehensive visibility into your database performance and health. This new capability automatically publishes detailed operational metrics from y",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-timestream-for-influxdb-advanced-metrics/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-27-aws-amazon-cloudwatch-logs-now-supports-data-protectio",
-      "date": "2026-03-27",
-      "name": "Amazon CloudWatch Logs now supports data protection,  OpenSearch PPL and OpenSearch SQL for the Infrequent Access ingestion class",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon CloudWatch Logs now supports expanded analytics and data protection capabilities for the Infrequent Access (Logs IA) ingestion class, including support for data protection, OpenSearch’s Piped Processing Languag",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-cloudwatch-infrequent-access-log-class/"
         }
       ],
       "impact": 5,
