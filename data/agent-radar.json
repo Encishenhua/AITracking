@@ -1,6 +1,222 @@
 {
   "items": [
     {
+      "id": "2026-04-03-aws-apache-spark-troubleshooting-and-upgrade-agents-no",
+      "date": "2026-04-03",
+      "name": "Apache Spark troubleshooting and upgrade agents now available as Kiro powers",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>The Apache Spark troubleshooting agent and upgrade agent for Amazon EMR are now available as Kiro powers, bringing one-click access to AI-assisted Spark operations directly in Kiro. With these powers, data engineers c",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-emr-spark-troubleshooting-upgrade-kiro-power/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-03-aws-amazon-sagemaker-data-agent-introduces-charting-ca",
+      "date": "2026-04-03",
+      "name": "Amazon SageMaker Data Agent introduces charting capabilities and support for materialized views",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker Data Agent now supports interactive charting, SQL analytics on Snowflake data sources, and materialized view management in Amazon SageMaker Unified Studio notebooks. Data Agent now provides a complete",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sgmkr-dataagent-chart-mv/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-03-aws-amazon-bedrock-guardrails-announces-general-availa",
+      "date": "2026-04-03",
+      "name": "Amazon Bedrock Guardrails announces general availability of cross-account safeguards",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock Guardrails now enables centralized enforcement of safety controls across all AWS accounts within an organization through cross-account safeguards. Amazon Bedrock Guardrails offers configurable safeguard",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/bedrock-guardrails-cross-account-safeguards/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-03-aws-partner-revenue-measurement-now-supports-user-agen",
+      "date": "2026-04-03",
+      "name": "Partner Revenue Measurement now supports User Agent string for certain AWS services",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS announces the general availability of Partner Revenue Measurement User Agent string — a new capability that enables AWS Partners to measure AWS service consumption driven by their solutions using AWS APIs a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/partner-revenue-measurement-user-agent-support/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-03-aws-partner-revenue-measurement-now-supports-aws-marke",
+      "date": "2026-04-03",
+      "name": "Partner Revenue Measurement now supports AWS Marketplace Metering for certain AWS Marketplace products",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the launch of Partner Revenue Measurement integration with AWS Marketplace Metering for Amazon Machine Image (AMI) and Machine Learning (ML) products listed in AWS Marketplace. Partner Revenue Mea",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/partner-revenue-supports-mp-metering/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-03-aws-amazon-cloudwatch-introduces-promql-querying-with-",
+      "date": "2026-04-03",
+      "name": "Amazon CloudWatch introduces PromQL querying with Query Studio Preview",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon CloudWatch announces Query Studio in public preview, a unified query and visualization experience that brings native PromQL querying to CloudWatch for the first time. Query Studio combines PromQL and CloudWatch",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-query-studio-preview/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-03-langchain-langgraph-how-my-agents-self-heal-in-production",
+      "date": "2026-04-03",
+      "name": "How My Agents Self-Heal in Production",
+      "vendor": "LangChain/LangGraph",
+      "type": "upgrade",
+      "summary": "I built a self-healing deployment pipeline for our GTM Agent. After every deploy, it detects regressions, triages whether the change caused them, and kicks off an agent to open a PR with a fix, with no manual interventio",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/production-agents-self-heal/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-04-03-dust-spa-poke-1654741-make-reinforced-agent-preserve-ta",
+      "date": "2026-04-03",
+      "name": "spa/poke/1654741: Make reinforced agent preserve target agent's goals (#23718)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>An attempt to prevent Reinforced from suggesting changes that are out of scope.</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F1654741"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-03-dust-spa-poke-740761a-temporarily-keep-reinforced-consi",
+      "date": "2026-04-03",
+      "name": "spa/poke/740761a: Temporarily keep reinforced consideration to only on agent (#23729)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>Temporarily keep reinforced consideration to only on agents until we had smart limits</p>\n</li>\n<li>\n<p>Lint</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F740761a"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-03-dust-spa-poke-6029cbc-fix-skip-slack-channel-linking-ca",
+      "date": "2026-04-03",
+      "name": "spa/poke/6029cbc: fix: skip slack channel linking call for non-builder users (#23699)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>fix: skip slack channel linking call for non-builder users</li>\n</ul>\n<p>The linked_slack_channels endpoint requires builder/admin role, but<br />\nagent creation is open to all users. Non-builder users saving ag",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6029cbc"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-03-dust-spa-poke-940ccb8-sessions-improve-single-agent-mod",
+      "date": "2026-04-03",
+      "name": "spa/poke/940ccb8: [sessions] improve single agent mode (#23739)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>Change the mention logic</p>\n</li>\n<li>\n<p>cleanup</p>\n</li>\n<li>\n<p>separate buttons</p>\n</li>\n<li>\n<p>simplify</p>\n</li>\n<li>\n<p>Show agent selector for single agent mode</p>\n</li>\n<li>\n<p>fix type</p>\n</l",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F940ccb8"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-03-dust-spa-poke-657a03c",
+      "date": "2026-04-03",
+      "name": "spa/poke/657a03c",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Filter agents from reinforced workflow that do not pass hard constrai…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F657a03c"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-04-02-openai-codex-now-offers-more-flexible-pricing-for-teams",
       "date": "2026-04-02",
       "name": "Codex now offers more flexible pricing for teams",
@@ -860,222 +1076,6 @@
         }
       ],
       "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-31-dust-spa-poke-52d1ffa-fix-show-enterprise-label-and-fea",
-      "date": "2026-03-31",
-      "name": "spa/poke/52d1ffa: fix: show Enterprise label and features on subscription card (#23492)",
-      "vendor": "Dust",
-      "type": "pricing",
-      "summary": "<ul>\n<li>fix: show Enterprise label and features on subscription card when isBusiness flag is on</li>\n</ul>\n<p>When the workspace isBusiness flag is toggled, the first plan card on<br />\nAdmin &gt; Subscription now displ",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F52d1ffa"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-31-dust-spa-poke-9f1dd4f",
-      "date": "2026-03-31",
-      "name": "spa/poke/9f1dd4f",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[Email Agents] Hotfix: Relay inbound email misses to the other region…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9f1dd4f"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-31-dust-spa-poke-1a42fd6-add-teams-transcripts-mcp-tools-2",
-      "date": "2026-03-31",
-      "name": "spa/poke/1a42fd6: Add Teams transcripts MCP tools (#23532)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>Add Teams transcripts MCP tools</p>\n</li>\n<li>\n<p>fix snapshots</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F1a42fd6"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-31-crewai-1-13-0a3",
-      "date": "2026-03-31",
-      "name": "1.13.0a3",
-      "vendor": "CrewAI",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Emit token usage data in LLMCallCompletedEvent</li>\n<li>Extract and publish tool metadata to AMP</li>\n</ul>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Handle GPT-5.x models not support",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.13.0a3"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-03-31-aws-amazon-opensearch-service-introduces-agentic-ai-fo",
-      "date": "2026-03-31",
-      "name": "Amazon OpenSearch Service introduces agentic AI for log analytics",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon OpenSearch Service now offers agentic AI capabilities that enable engineering and support teams to analyze log data through an agentic conversational interface. These agentic AI features help simplify log query",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/opensearch-agentic-ai-log-analytics-observability/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-31-aws-aws-direct-connect-now-supports-aws-cloudformation",
-      "date": "2026-03-31",
-      "name": "AWS Direct Connect now supports AWS CloudFormation",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Direct Connect now supports AWS CloudFormation, enabling infrastructure-as-code provisioning of Direct Connect resources. This integration allows you to define your entire Direct Connect topology in CloudFormation",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-direct-connect-supports-aws-cloudformation/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-30-aws-amazon-cloudwatch-now-supports-multi-account-and-r",
-      "date": "2026-03-30",
-      "name": "Amazon CloudWatch now supports multi-account and region log centralization based on data source",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon CloudWatch centralization now supports centralizing logs based on <a href=\"https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/data-source-discovery-management.html\" rel=\"noopener noreferrer\" target=\"_blan",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/cloudwatch-centralization-datasource/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-30-aws-aws-security-hub-is-now-available-in-aws-govcloud-",
-      "date": "2026-03-30",
-      "name": "AWS Security Hub is now available in AWS GovCloud (US) Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Security Hub is now available in the AWS GovCloud (US-East) and AWS GovCloud (US-West) Regions. Security Hub is a unified cloud security solution that prioritizes critical security issues and helps you respond at ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-security-hub-govcloud-us-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-30-aws-aws-healthomics-introduces-vpc-connected-workflows",
-      "date": "2026-03-30",
-      "name": "AWS HealthOmics introduces VPC-connected workflows",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS HealthOmics announces VPC-connected workflows, giving customers the ability to run bioinformatics pipelines that access AWS resources across regions and public internet resources through a customer’s Virtual Priva",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-healthomics-vpc-connected-workflows/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-30-aws-aws-elemental-mediatailor-now-available-in-europe-",
-      "date": "2026-03-30",
-      "name": "AWS Elemental MediaTailor now available in Europe (London)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Elemental MediaTailor is now available in the Europe (London) AWS Region.&nbsp;MediaTailor is a personalized ad insertion and channel assembly service that enables video providers to serve targeted ads in live and",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-elemental-mediatailor-london-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-30-aws-amazon-athena-launches-capacity-reservations-in-ad",
-      "date": "2026-03-30",
-      "name": "Amazon Athena launches Capacity Reservations in additional regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/athena/\">Amazon Athena</a> now offers Capacity Reservations in additional commercial AWS Regions. Capacity Reservations give you dedicated serverless capacity for your most important wo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-athena-adding-cap-reservation-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-30-aws-amazon-sagemaker-data-agent-is-now-available-in-th",
-      "date": "2026-03-30",
-      "name": "Amazon SageMaker Data Agent is now available in the Amazon SageMaker Unified Studio Query Editor",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker Data Agent is now available in the Query Editor in Amazon SageMaker Unified Studio, extending beyond notebook experience. With Data Agent in Query Editor, you can generate SQL queries from natural lan",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-data-agent-query-editor/"
-        }
-      ],
-      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
