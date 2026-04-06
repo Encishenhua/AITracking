@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "2026-04-05-langchain-langgraph-continual-learning-for-ai-agents",
+      "date": "2026-04-05",
+      "name": "Continual learning for AI agents",
+      "vendor": "LangChain/LangGraph",
+      "type": "upgrade",
+      "summary": "<p><a href=\"https://x.com/hwchase17?ref=blog.langchain.com\"></a><a href=\"https://x.com/hwchase17/article/2040467997022884194/media/2040467721792659456?ref=blog.langchain.com\"></a>Most discussions of continual learning in",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/continual-learning-for-ai-agents/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-04-03-aws-apache-spark-troubleshooting-and-upgrade-agents-no",
       "date": "2026-04-03",
       "name": "Apache Spark troubleshooting and upgrade agents now available as Kiro powers",
@@ -1055,24 +1073,6 @@
         {
           "title": "Dust source",
           "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2693108"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-31-dust-spa-poke-89ae821-audit-logs-for-agents-spaces-and-",
-      "date": "2026-03-31",
-      "name": "spa/poke/89ae821: Audit logs for agents, spaces and data sources (#23502)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>feat(audit): add tier 2/3 audit log events for agents, spaces, and data sources</li>\n</ul>\n<p>Add 12 new audit log events:</p>\n<ul>\n<li>Agent lifecycle: agent.created, agent.updated, agent.archived, agent.delete",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F89ae821"
         }
       ],
       "impact": 3,
