@@ -1,6 +1,114 @@
 {
   "items": [
     {
+      "id": "2026-04-06-aws-amazon-sagemaker-unified-studio-adds-notebook-impo",
+      "date": "2026-04-06",
+      "name": "Amazon SageMaker Unified Studio adds notebook import/export and developer acceleration features",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker Unified Studio notebooks now support&nbsp;import/export capabilities, enabling migration from JupyterLab and other notebook platforms. This release also introduces developer acceleration features incl",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-unified-studio/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-06-aws-aws-announces-general-availability-of-smithy-java-",
+      "date": "2026-04-06",
+      "name": "AWS announces general availability of Smithy-Java client framework",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS today announced the general availability of Smithy-Java, an open-source Java framework for generating type-safe clients and standalone classes from Smithy models. Smithy-Java addresses one of the most consistently",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/smithy-java-client-framework/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-06-aws-aws-iot-greengrass-component-sdk-for-c-c-and-rust-",
+      "date": "2026-04-06",
+      "name": "AWS IoT Greengrass component SDK for C, C++, and Rust applications",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>We're excited to announce the launch of a new&nbsp;<a href=\"https://github.com/aws-greengrass/aws-greengrass-component-sdk\">Greengrass component SDK&nbsp;</a>for AWS IoT Greengrass applications. This new SDK addresses",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/iot-greengrass-component-sdk/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-06-aws-amazon-rds-for-oracle-now-supports-oracle-manageme",
+      "date": "2026-04-06",
+      "name": "Amazon RDS for Oracle now supports Oracle Management Agent version 24.1.0.0.v1 for Oracle Enterprise Manager Cloud Control 24aiR1",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/oracle/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for Oracle</a> now supports Oracle Management Agent (OMA) version 24.1.0.0.v1 for Oracle Enterprise Manager ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-rds-oracle-supports-oracle-management-agent-version-for-oracle-enterprise-manager=cloud-control/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-06-dust-spa-poke-e8ab413",
+      "date": "2026-04-06",
+      "name": "spa/poke/e8ab413",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Restructure reinforced agent block editing prompts (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/23782\">#23782</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fe8ab413"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-06-dust-spa-poke-cd7092f",
+      "date": "2026-04-06",
+      "name": "spa/poke/cd7092f",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Choose agents for auto-mode reinforced agent based on scoring system …</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fcd7092f"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-04-05-langchain-langgraph-continual-learning-for-ai-agents",
       "date": "2026-04-05",
       "name": "Continual learning for AI agents",
@@ -230,6 +338,24 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-03-aws-amazon-quick-enables-sparklines-for-inline-trend-v",
+      "date": "2026-04-03",
+      "name": "Amazon Quick Enables Sparklines for Inline Trend Visualization in Tables",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/quick/quicksight/\" rel=\"noopener noreferrer\" target=\"_blank\">Quick Sight in Amazon Quick</a> now supports sparklines, enabling authors to embed compact, inline trend visualizations dire",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/quick-sparklines-tables/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -950,132 +1076,6 @@
         }
       ],
       "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-31-aws-aws-transform-custom-introduces-new-aws-managed-tr",
-      "date": "2026-03-31",
-      "name": "AWS Transform custom introduces new AWS-managed transformations to modernize code at scale",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Transform custom now offers seven new AWS-managed transformations to help you modernize code at scale. These transformations address common modernization scenarios across multiple languages and frameworks.<br /> <",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/transform-custom-new-transformations/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-31-aws-amazon-rds-for-db2-is-now-available-in-asia-pacifi",
-      "date": "2026-03-31",
-      "name": "Amazon RDS for Db2 is now available in Asia Pacific (New Zealand)",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/db2/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon RDS for Db2</a> is now available in the Asia Pacific (New Zealand) AWS Region. Amazon RDS for Db2 makes it easy to set up, ope",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-rds-db2-available-Aisa-Pacific-New-Zealand/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-31-aws-amazon-rds-for-sql-server-developer-edition-is-now",
-      "date": "2026-03-31",
-      "name": "Amazon RDS for SQL Server Developer Edition is now available in the AWS GovCloud (US) Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for SQL Server</a> now offers Microsoft SQL Server Developer Edition in the AWS GovCloud (US) Regions. Wi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-rds-sql-server-developer-edition-available-aws-govcloud-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-31-aws-amazon-cloudfront-now-supports-byoip-for-ipv6-thro",
-      "date": "2026-03-31",
-      "name": "Amazon CloudFront now supports BYOIP for IPv6 through VPC IPAM integration",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon CloudFront now supports bringing your own IPv6 addresses (BYOIP) for Anycast Static IPs via VPC IP Address Manager (IPAM). This capability enables network administrators to use their own public IPv4 and IPv6 ad",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/cloudfront-byoip-ipv6-vpc-ipam/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-31-aws-amazon-s3-express-one-zone-now-supports-request-me",
-      "date": "2026-03-31",
-      "name": "Amazon S3 Express One Zone now supports request metrics in Amazon CloudWatch",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon S3 Express One Zone, a high performance S3 storage class for latency-sensitive applications, now supports&nbsp;request metrics&nbsp;in Amazon CloudWatch. You can&nbsp;use request metrics&nbsp;to track performan",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/s3-express-one-zone-cloudwatch-request-metrics/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-03-31-langchain-langgraph-announcing-the-langchain-mongodb-partnership-the-a",
-      "date": "2026-03-31",
-      "name": "Announcing the LangChain + MongoDB Partnership: The AI Agent Stack That Runs On The Database You Already Trust",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "Build production AI agents on MongoDB Atlas — with vector search, persistent memory, natural-language querying, and end-to-end observability built in.",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/announcing-the-langchain-mongodb-partnership-the-ai-agent-stack-that-runs-on-the-database-you-already-trust/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-03-31-dust-spa-poke-2693108-front-chore-api-keys-cleanup-2352",
-      "date": "2026-03-31",
-      "name": "spa/poke/2693108: [front] - chore(API-keys): cleanup (#23526)",
-      "vendor": "Dust",
-      "type": "deprecation",
-      "summary": "<ul>\n<li>[front] - refactor: update key type to remove scope and groupId fields</li>\n</ul>\n<ul>\n<li>removes unused scope and groupId fields from KeyType for simplification</li>\n<li>consolidates group membership into grou",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2693108"
-        }
-      ],
-      "impact": 3,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
