@@ -1,6 +1,222 @@
 {
   "items": [
     {
+      "id": "2026-04-08-openai-the-next-phase-of-enterprise-ai",
+      "date": "2026-04-08",
+      "name": "The next phase of enterprise AI",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "OpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI agents.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/next-phase-of-enterprise-ai"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-08-aws-sagemaker-hyperpod-now-supports-gang-scheduling-fo",
+      "date": "2026-04-08",
+      "name": "SageMaker HyperPod now supports gang scheduling for distributed training workloads",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker HyperPod task governance now supports gang scheduling, which ensures all pods required for a distributed training job are ready before training begins. Administrators can configure gang scheduling to ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-hyperpod-gang-scheduling/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-08-aws-amazon-ivs-real-time-streaming-now-supports-redund",
+      "date": "2026-04-08",
+      "name": "Amazon IVS Real-Time Streaming now supports redundant ingest",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Interactive Video Service (Amazon IVS) Real-Time Streaming now supports redundant ingest, helping protect your live streams against source encoder failures and first-mile network issues. With redundant ingest, ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ivs-real-time-streaming-redundant-ingest/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-08-aws-amazon-bedrock-agentcore-browser-adds-os-level-int",
+      "date": "2026-04-08",
+      "name": "Amazon Bedrock AgentCore Browser adds OS-level interaction capabilities",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock AgentCore Browser now supports OS-level interaction capabilities, enabling automation of browser workflows that require direct operating system control beyond Chrome DevTools Protocol (CDP) capabilities",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/agentcore-browser-os-actions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-08-aws-amazon-workspaces-advisor-now-available-for-ai-pow",
+      "date": "2026-04-08",
+      "name": "Amazon WorkSpaces Advisor now available for AI-powered troubleshooting",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon WorkSpaces Advisor is a new AI-powered tool that helps administrators quickly troubleshoot and resolve issues with Amazon WorkSpaces Personal. Using generative AI capabilities, it analyzes WorkSpace configurati",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/workspaces-advisor-ai-troubleshooting/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-08-aws-amazon-opensearch-service-now-supports-graviton4-b",
+      "date": "2026-04-08",
+      "name": "Amazon OpenSearch Service now supports Graviton4 based i8ge instances",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon OpenSearch Service now supports i8ge instances, which is the latest generation of storage optimized instances offering the best performance for storage-intensive workloads.<br /> <br /> Powered by AWS Graviton4",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/4/amazon-opensearch-service-supports-i8ge/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-08-langchain-langgraph-better-harness-a-recipe-for-harness-hill-climbing-",
+      "date": "2026-04-08",
+      "name": "Better Harness: A Recipe for Harness Hill-Climbing with Evals",
+      "vendor": "LangChain/LangGraph",
+      "type": "upgrade",
+      "summary": "<p><em>By Vivek Trivedy, Product Manager</em></p><div class=\"kg-card kg-callout-card kg-callout-card-blue\"><div class=\"kg-callout-emoji\">&#x1f4a1;</div><div class=\"kg-callout-text\"><b><strong style=\"white-space: pre-wrap",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/better-harness-a-recipe-for-harness-hill-climbing-with-evals/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-04-08-dust-spa-poke-54878cc-start-persisting-tool-outputs-to-",
+      "date": "2026-04-08",
+      "name": "spa/poke/54878cc: Start persisting tool outputs to conversation GCS path (#23942)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>\n<p>Start persisting tool outputs to conversation GCS path</p>\n</li>\n<li>\n<p>🐒</p>\n</li>\n<li>\n<p>✨</p>\n</li>\n<li>\n<p>Gate behind Sandbox FF</p>\n</li>\n<li>\n<p>👕</p>\n</li>\n<li>\n<p>👕</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F54878cc"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-08-dust-spa-poke-79b845a-front-feat-analytics-new-analytic",
+      "date": "2026-04-08",
+      "name": "spa/poke/79b845a: [front] - feat(analytics): new analytics GA (#23889)",
+      "vendor": "Dust",
+      "type": "deprecation",
+      "summary": "<ul>\n<li>[misc] - refactor: remove analytics_csv_export from whitelistable features</li>\n</ul>\n<ul>\n<li>Removes the analytics_csv_export feature flag from shared config and types as it is no longer needed</li>\n<li>Cleans",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F79b845a"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-08-dust-spa-poke-12c0942",
+      "date": "2026-04-08",
+      "name": "spa/poke/12c0942",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>fix: respect BACK10 for agentId (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/23890\">#23890</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F12c0942"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-08-dust-spa-poke-9e3f2af",
+      "date": "2026-04-08",
+      "name": "spa/poke/9e3f2af",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] fix MCP action details for <code>ask_user_question</code> tool (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/23870\">#23870</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9e3f2af"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-08-dust-spa-poke-9e0a144-slack-handle-file-auth-events-in-",
+      "date": "2026-04-08",
+      "name": "spa/poke/9e0a144: [Slack] Handle file auth events in Slack streams (#23866)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>Fix deferred blocking events for run_agent</p>\n</li>\n<li>\n<p>Trim agent-loop fix to file auth flow</p>\n</li>\n<li>\n<p>Deduplicate run_agent blocking event handling</p>\n</li>\n<li>\n<p>Remove focused agent-loop ",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9e0a144"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-04-07-openai-some-users-may-experience-issues-accessing-the-cha",
       "date": "2026-04-07",
       "name": "Some users may experience issues accessing the ChatGPT website on VPN",
@@ -862,222 +1078,6 @@
       "impact": 3,
       "risk": 3,
       "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-02-crewai-1-13-0",
-      "date": "2026-04-02",
-      "name": "1.13.0",
-      "vendor": "CrewAI",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add RuntimeState RootModel for unified state serialization</li>\n<li>Enhance event listener with new telemetry spans for skill and memory events</li>\n<li>Add A2UI extensi",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.13.0"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-04-01-openai-gradient-labs-gives-every-bank-customer-an-ai-acco",
-      "date": "2026-04-01",
-      "name": "Gradient Labs gives every bank customer an AI account manager",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/gradient-labs"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-01-aws-amazon-ses-mail-manager-adds-new-features-for-enha",
-      "date": "2026-04-01",
-      "name": "Amazon SES Mail Manager adds new features for enhanced security and email processing",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Simple Email Service (SES) Mail Manager now offers enhancements to email security and processing while simplifying email infrastructure migrations. These enhancements include optional TLS and certificate-based ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/ses-mail-manager-introduces-new-features/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-01-aws-amazon-ecs-announces-managed-daemons-for-ecs-manag",
-      "date": "2026-04-01",
-      "name": "Amazon ECS announces Managed Daemons for ECS Managed Instances",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon ECS announces Managed Daemons for <a href=\"https://aws.amazon.com/ecs/managed-instances/\">ECS Managed Instances</a>, enabling organizations to centrally deploy and manage software agents such as security, obser",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ecs-managed-daemons/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-01-aws-amazon-sagemaker-data-agent-now-supports-geo-speci",
-      "date": "2026-04-01",
-      "name": "Amazon SageMaker Data Agent now supports geo-specific inference for Japan and Australia",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon SageMaker Data Agent now supports cross-region inference profiles for Japan and Australia through Amazon Bedrock. With this update, inference requests from Data Agent in the Asia Pacific (Tokyo) and Asia Pacifi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/sage-maker-da-infr-jp-au/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-01-aws-aws-vpc-encryption-controls-now-available-in-aws-g",
-      "date": "2026-04-01",
-      "name": "AWS VPC Encryption Controls now available in AWS GovCloud (US) Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS launches VPC Encryption Controls in AWS GovCloud (US) Regions to make it easy to audit and enforce encryption in transit within and across Amazon Virtual Private Clouds (VPC), and demonstrate compliance with encry",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-vpc-encryption-controls/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-01-aws-amazon-rds-for-oracle-now-supports-cross-account-s",
-      "date": "2026-04-01",
-      "name": "Amazon RDS for Oracle now supports cross-account snapshot sharing with additional storage volumes",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/oracle/\">Amazon RDS for Oracle</a> now supports cross-account snapshot sharing for database instances with additional storage volumes. Additional storage volumes allow customers to ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/rds-oracle-cross-account-snapshot-sharing-additional-storage-volume/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-01-aws-amazon-bedrock-now-supports-structured-outputs-to-",
-      "date": "2026-04-01",
-      "name": "Amazon Bedrock now supports structured outputs to AWS GovCloud (US) Regions",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Bedrock is a fully managed service that provides access to a wide selection of high-performing foundation models from leading AI companies through a single API. Today, Amazon Bedrock expands structured outputs ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-bedrock-structured-outputs-govcloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-01-langchain-langgraph-march-2026-langchain-newsletter",
-      "date": "2026-04-01",
-      "name": "March 2026: LangChain Newsletter",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "It feels like spring has sprung here, and so has a new NVIDIA integration, ticket sales for Interrupt 2026, and announcing LangSmith Fleet (formerly Agent Builder).",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/march-2026-langchain-newsletter/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-04-01-dust-spa-poke-58247c8",
-      "date": "2026-04-01",
-      "name": "spa/poke/58247c8",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Reinforced Agent: retry error on tool calls (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/23561\">#23561</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F58247c8"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-01-dust-spa-poke-980f551-add-global-feature-flags-with-per",
-      "date": "2026-04-01",
-      "name": "spa/poke/980f551: Add global feature flags with percentage-based rollout (#23057)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>Adds a global_feature_flags table that allows enabling feature flags globally with a rollout percentage (0-100), rather than requiring per-workspace enablement</li>\n<li>Workspace-level flags always take preceden",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F980f551"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-01-crewai-1-13-0a6",
-      "date": "2026-04-01",
-      "name": "1.13.0a6",
-      "vendor": "CrewAI",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<h3>Documentation</h3>\n<ul>\n<li>Fix RBAC permission levels to match actual UI options (<a class=\"issue-link js-issue-link\" href=\"https://github.com/crewAIInc/crewAI/pull/5210\">#5210</a>)</li>\n<li>",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.13.0a6"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
       "tags": []
     }
   ]
