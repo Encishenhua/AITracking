@@ -1,6 +1,240 @@
 {
   "items": [
     {
+      "id": "2026-04-09-openai-cyberagent-moves-faster-with-chatgpt-enterprise-an",
+      "date": "2026-04-09",
+      "name": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/cyberagent"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-09-aws-amazon-timestream-for-influxdb-now-supports-custom",
+      "date": "2026-04-09",
+      "name": "Amazon Timestream for InfluxDB Now Supports Customer-Defined Maintenance Windows",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Timestream for InfluxDB now supports customer-defined maintenance windows, giving you control over when routine maintenance is performed on your InfluxDB databases. This feature is available for both InfluxDB 2",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/timestream-influxdb-maintenance-windows/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-09-aws-amazon-bedrock-now-supports-cost-allocation-by-iam",
+      "date": "2026-04-09",
+      "name": "Amazon Bedrock now supports cost allocation by IAM user and role",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock now supports cost allocation by IAM principal, such as IAM users and IAM roles, in AWS Cost and Usage Report 2.0 (CUR 2.0) and Cost Explorer. This enables customers to understand and attribute Bedrock m",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/bedrock-iam-cost-allocation/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-09-aws-amazon-opensearch-service-supports-managed-prometh",
+      "date": "2026-04-09",
+      "name": "Amazon OpenSearch Service supports Managed Prometheus and agent tracing",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon OpenSearch Service now provides a unified observability experience that brings together metrics, logs, traces, and AI agent tracing in a single interface. This release introduces native integration with Amazon ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/opensearch-managed-prometheus-agent-tracing/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-09-aws-amazon-rds-blue-green-deployments-now-supports-ama",
+      "date": "2026-04-09",
+      "name": "Amazon RDS Blue/Green Deployments now supports Amazon RDS Proxy",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon RDS Blue/Green Deployments now supports Amazon RDS Proxy, enabling faster application recovery during switchover by eliminating DNS propagation delays. Blue/Green Deployments create a fully managed staging envi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/rds-proxy-blue-green/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-09-aws-aws-marketplace-announces-the-discovery-api-for-pr",
+      "date": "2026-04-09",
+      "name": "AWS Marketplace announces the Discovery API for programmatic access to catalog data",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS Marketplace announces the Discovery API, giving you programmatic access to product and pricing information across the AWS Marketplace catalog — including SaaS, AI agents and tools, AMI, containers, and mach",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-marketplace-discovery-api/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-09-aws-aws-agent-registry-for-centralized-agent-discovery",
+      "date": "2026-04-09",
+      "name": "AWS Agent Registry for centralized agent discovery and governance is now available in Preview",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Agent Registry, available through Amazon Bedrock AgentCore, is now in preview — a private, governed catalog and discovery layer for agents, tools, skills, MCP servers, and custom resources within the organization.",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-agent-registry-in-agentcore-preview/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-09-aws-amazon-opensearch-serverless-now-supports-zstandar",
+      "date": "2026-04-09",
+      "name": "Amazon OpenSearch Serverless now supports Zstandard (zstd) codec for index compression",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon OpenSearch Serverless now supports Zstandard codecs for index storage, giving customers greater control over the trade-off between storage costs and query performance. With this launch, customers can configure&",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-opensearch-serverless-supports-zstandard-index-compression/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-09-aws-amazon-ec2-capacity-manager-now-supports-tag-based",
+      "date": "2026-04-09",
+      "name": "Amazon EC2 Capacity Manager now supports tag-based dimensions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, Amazon EC2 Capacity Manager supports tag-based dimensions, enabling you to use tags from your EC2 resources to group and filter capacity metrics. EC2 Capacity Manager helps you monitor and optimize cap",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-capacity-manager-tag-based-dimensions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-09-langchain-langgraph-previewing-interrupt-2026-agents-at-enterprise-sca",
+      "date": "2026-04-09",
+      "name": "Previewing Interrupt 2026: Agents at Enterprise Scale",
+      "vendor": "LangChain/LangGraph",
+      "type": "launch",
+      "summary": "This year, we're doing it again. Interrupt 2026 is May 13–14 at The Midway in San Francisco, and the lineup, the format, and the scale have all leveled up.",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/previewing-interrupt-2026-agents-at-enterprise-scale/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-04-09-langchain-langgraph-deep-agents-deploy-an-open-alternative-to-claude-m",
+      "date": "2026-04-09",
+      "name": "Deep Agents Deploy: an open alternative to Claude Managed Agents",
+      "vendor": "LangChain/LangGraph",
+      "type": "launch",
+      "summary": "<p>Today we&#x2019;re launching <a href=\"https://docs.langchain.com/oss/python/deepagents/deploy?ref=blog.langchain.com\" rel=\"noreferrer\">Deep Agents deploy</a> in beta. Deep Agents deploy is the fastest way to deploy a ",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/deep-agents-deploy-an-open-alternative-to-claude-managed-agents/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-04-09-langchain-langgraph-human-judgment-in-the-agent-improvement-loop",
+      "date": "2026-04-09",
+      "name": "Human judgment in the agent improvement loop",
+      "vendor": "LangChain/LangGraph",
+      "type": "launch",
+      "summary": "AI agents work best when they reflect the knowledge and judgment your team has built over time. Some of that is institutional knowledge that’s already documented and easy for an agent to use as-is. But most great organiz",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/human-judgment-in-the-agent-improvement-loop/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-04-09-dust-spa-poke-1494c1c-front-feat-add-gemini-3-1-flash-l",
+      "date": "2026-04-09",
+      "name": "spa/poke/1494c1c: [front] feat: add Gemini 3.1 Flash Lite (Preview) model support (#23962)",
+      "vendor": "Dust",
+      "type": "pricing",
+      "summary": "<ul>\n<li>\n<p>[front] feat: add Gemini 3.1 Flash Lite (Preview) model support</p>\n</li>\n<li>\n<p>[front] feat: add Gemini 3.1 Flash Lite (Preview) model support</p>\n</li>\n</ul>\n<p>Fix max reasoning effort to \"high\" — the m",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F1494c1c"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-04-08-openai-the-next-phase-of-enterprise-ai",
       "date": "2026-04-08",
       "name": "The next phase of enterprise AI",
@@ -839,240 +1073,6 @@
         {
           "title": "Dust source",
           "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6029cbc"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-03-dust-spa-poke-940ccb8-sessions-improve-single-agent-mod",
-      "date": "2026-04-03",
-      "name": "spa/poke/940ccb8: [sessions] improve single agent mode (#23739)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>Change the mention logic</p>\n</li>\n<li>\n<p>cleanup</p>\n</li>\n<li>\n<p>separate buttons</p>\n</li>\n<li>\n<p>simplify</p>\n</li>\n<li>\n<p>Show agent selector for single agent mode</p>\n</li>\n<li>\n<p>fix type</p>\n</l",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F940ccb8"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-03-dust-spa-poke-657a03c",
-      "date": "2026-04-03",
-      "name": "spa/poke/657a03c",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Filter agents from reinforced workflow that do not pass hard constrai…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F657a03c"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-03-aws-amazon-quick-enables-sparklines-for-inline-trend-v",
-      "date": "2026-04-03",
-      "name": "Amazon Quick Enables Sparklines for Inline Trend Visualization in Tables",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/quick/quicksight/\" rel=\"noopener noreferrer\" target=\"_blank\">Quick Sight in Amazon Quick</a> now supports sparklines, enabling authors to embed compact, inline trend visualizations dire",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/quick-sparklines-tables/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-02-openai-codex-now-offers-more-flexible-pricing-for-teams",
-      "date": "2026-04-02",
-      "name": "Codex now offers more flexible pricing for teams",
-      "vendor": "OpenAI",
-      "type": "pricing",
-      "summary": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/codex-flexible-pricing-for-teams"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-02-aws-amazon-cloudwatch-launches-otel-container-insights",
-      "date": "2026-04-02",
-      "name": "Amazon CloudWatch launches OTel Container Insights for Amazon EKS (Preview)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon CloudWatch introduces Container Insights with OpenTelemetry metrics for Amazon EKS, available in public preview. Building on the existing Container Insights experience, this capability provides deeper visibilit",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/cloudwatch-otel-container-insights-eks/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-02-aws-aws-deadline-cloud-now-supports-configurable-job-s",
-      "date": "2026-04-02",
-      "name": "AWS Deadline Cloud now supports configurable job scheduling modes for queues",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS Deadline Cloud announces support for configurable job scheduling modes, giving you control over how workers are distributed across jobs in a queue. AWS Deadline Cloud is a fully managed service that simplif",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/deadline-cloud-job-scheduling/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-02-aws-announcing-compute-optimized-instance-bundles-for-",
-      "date": "2026-04-02",
-      "name": "Announcing compute-optimized instance bundles for Amazon Lightsail",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Lightsail now offers compute-optimized instance bundles with up to 72 vCPUs. The new instance bundles are available in 7 sizes with both IPv6-only and dual-stack networking types. All Lightsail blueprints are s",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/lightsail-compute-optimized-instances/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-02-aws-amazon-cloudwatch-expands-auto-enablement-to-amazo",
-      "date": "2026-04-02",
-      "name": "Amazon CloudWatch expands auto-enablement to Amazon CloudFront logs and 3 additional resource types",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon CloudWatch now supports automatic enablement of Amazon CloudFront Standard access logs, AWS Security Hub CSPM finding logs, and Amazon Bedrock AgentCore memory and gateway logs and traces to CloudWatch Logs. Cu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-cloudfront-enablement/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-02-aws-amazon-cloudwatch-now-supports-opentelemetry-metri",
-      "date": "2026-04-02",
-      "name": "Amazon CloudWatch now supports OpenTelemetry metrics in public preview",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon CloudWatch now supports native OpenTelemetry (OTel) metrics in public preview, enabling you to send metrics directly using the OpenTelemetry Protocol (OTLP) without custom conversion logic or additional tooling",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-opentelemetry-metrics/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-02-aws-amazon-workspaces-applications-improves-multi-sess",
-      "date": "2026-04-02",
-      "name": "Amazon WorkSpaces Applications improves multi-session fleet management",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon WorkSpaces Applications now enables instances in multi-session fleets to stop accepting new user sessions, while allowing existing sessions to continue uninterrupted. This capability, known as drain mode, ensur",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-workspaces-applications-drain-mode/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-02-langchain-langgraph-open-models-have-crossed-a-threshold",
-      "date": "2026-04-02",
-      "name": "Open Models have crossed a threshold",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "<div class=\"kg-card kg-callout-card kg-callout-card-blue\"><div class=\"kg-callout-emoji\">&#x1f4a1;</div><div class=\"kg-callout-text\"><b><strong style=\"white-space: pre-wrap;\">TL;DR:</strong></b> Open models like GLM-5 and",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/open-models-have-crossed-a-threshold/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-04-02-dust-spa-poke-77f0147-feat-mcp-gong-mcp-20452",
-      "date": "2026-04-02",
-      "name": "spa/poke/77f0147: feat(mcp): gong mcp (#20452)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>feat(mcp): gong mcp</p>\n</li>\n<li>\n<p>move to new architecture</p>\n</li>\n<li>\n<p>lint</p>\n</li>\n<li>\n<p>test fixes</p>\n</li>\n<li>\n<p>review feedback</p>\n</li>\n<li>\n<p>nits and rebase</p>\n</li>\n<li>\n<p>update",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F77f0147"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-02-dust-spa-poke-27fb569-front-refactor-agent-pass-authori",
-      "date": "2026-04-02",
-      "name": "spa/poke/27fb569: [front] - refactor(agent): pass `authorId` (#23609)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>[assistant] - refactor: require authorId explicitly for agent configuration</li>\n</ul>\n<ul>\n<li>Passes authorId explicitly through all agent configuration creation and upgrade functions to decouple user from aut",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F27fb569"
         }
       ],
       "impact": 3,
