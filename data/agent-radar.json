@@ -1,6 +1,276 @@
 {
   "items": [
     {
+      "id": "2026-04-10-openai-research-with-chatgpt",
+      "date": "2026-04-10",
+      "name": "Research with ChatGPT",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/academy/search-and-deep-research"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-10-openai-chatgpt-for-research",
+      "date": "2026-04-10",
+      "name": "ChatGPT for research",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/academy/research"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-10-openai-personalizing-chatgpt",
+      "date": "2026-04-10",
+      "name": "Personalizing ChatGPT",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "Learn how to personalize ChatGPT using custom instructions and memory to get more relevant, consistent, and tailored responses.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/academy/personalization"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-10-openai-chatgpt-for-managers",
+      "date": "2026-04-10",
+      "name": "ChatGPT for managers",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "Learn how managers use ChatGPT to prepare for conversations, write clear feedback, stay organized, and improve team effectiveness.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/academy/managers"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-10-openai-using-projects-in-chatgpt",
+      "date": "2026-04-10",
+      "name": "Using projects in ChatGPT",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/academy/projects"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-10-openai-brainstorming-with-chatgpt",
+      "date": "2026-04-10",
+      "name": "Brainstorming with ChatGPT",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/academy/brainstorming"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-10-aws-amazon-ec2-x8i-instances-are-now-available-in-euro",
+      "date": "2026-04-10",
+      "name": "Amazon EC2 X8i instances are now available in Europe (Paris)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Web Services (AWS) is announcing the general availability of Amazon EC2 X8i instances, next-generation memory optimized instances powered by custom Intel Xeon 6 processors available only on AWS. X8i instances a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-x8i-instances-CDG-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-10-aws-aws-deadline-cloud-supports-monitor-creation-in-mu",
+      "date": "2026-04-10",
+      "name": "AWS Deadline Cloud supports monitor creation in multiple regions",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Today, AWS Deadline Cloud announces support for creating monitors in multiple AWS Regions without additional configuration of your IAM Identity Center instance. AWS Deadline Cloud is a fully managed service that helps",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/deadline-cloud-monitor-creation/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-10-aws-amazon-cloudwatch-pipelines-introduces-new-complia",
+      "date": "2026-04-10",
+      "name": "Amazon CloudWatch pipelines introduces new compliance and governance capabilities",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon CloudWatch pipelines now includes new compliance and governance capabilities to help you maintain data integrity and control access when processing logs. CloudWatch pipelines is a fully managed service that ing",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/cloudwatch-pipelines-compliance-governance/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-10-aws-second-generation-amazon-fsx-for-netapp-ontap-is-n",
+      "date": "2026-04-10",
+      "name": "Second-generation Amazon FSx for NetApp ONTAP is now available in four additional AWS commercial and AWS GovCloud (US) Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon FSx for NetApp ONTAP second-generation file systems are now available in 4 additional AWS Regions: Europe (London), Asia Pacific (Hyderabad), South America (Sao Paulo), and&nbsp;AWS GovCloud (US-West).&nbsp;<br",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/second-gen-amazon-fsx-ontap-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-10-aws-aws-billing-and-cost-management-dashboards-now-sup",
+      "date": "2026-04-10",
+      "name": "AWS Billing and Cost Management Dashboards Now Supports Scheduled Email Delivery",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Billing and Cost Management Dashboards now support scheduled email delivery for your reports. You can now automate report distribution on flexible recurring schedules, eliminating manual compilation&nbsp;work&nbsp",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-billing-and-cost-management-dashboards-scheduled-email-delivery/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-10-aws-aws-rtb-fabric-supports-health-checks-for-real-tim",
+      "date": "2026-04-10",
+      "name": "AWS RTB Fabric supports health checks for real-time bidding workloads",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS RTB Fabric now supports health checks for real-time bidding workloads that use <a href=\"https://docs.aws.amazon.com/autoscaling/ec2/userguide/auto-scaling-groups.html\">EC2 Auto Scaling groups</a> (AGS). Health che",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-rtb-fabric-health-checks/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-10-aws-aws-backup-extends-amazon-fsx-support-to-5-additio",
+      "date": "2026-04-10",
+      "name": "AWS Backup extends Amazon FSx support to 5 additional AWS Regions and expands cross-Region and cross-account copy to 14 AWS Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Backup is expanding support for Amazon FSx for Windows File Server, Amazon FSx for OpenZFS, and Amazon FSx for Lustre with two regional enhancements.</p> \n<p>First, AWS Backup now supports backup and restore of th",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/backup-extends-fsx-support/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-10-dust-spa-poke-2635055",
+      "date": "2026-04-10",
+      "name": "spa/poke/2635055",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] enh: Make mcp server error more user friendly (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/24069\">#24069</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2635055"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-10-dust-spa-poke-836074b-add-compactionmessagemodel-migrat",
+      "date": "2026-04-10",
+      "name": "spa/poke/836074b: Add CompactionMessageModel + migration (#24065)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>Add CompactionMessageModel + migration</li>\n</ul>\n<p>Add the CompactionMessageModel with status and content fields, extend<br />\nMessageModel with compactionMessageId FK, update the validation hook,<br />\nand ha",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F836074b"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-04-09-openai-cyberagent-moves-faster-with-chatgpt-enterprise-an",
       "date": "2026-04-09",
       "name": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
@@ -235,6 +505,24 @@
       "tags": []
     },
     {
+      "id": "2026-04-09-aws-aws-private-ca-now-supports-customer-managed-permi",
+      "date": "2026-04-09",
+      "name": "AWS Private CA now supports customer managed permissions for cross-account sharing",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Private Certificate Authority (AWS Private CA) now supports customer managed permissions in AWS Resource Access Manager (AWS RAM). AWS Private CA lets you share certificate authorities (CAs) across accounts using ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-private-ca-customer-managed-permissions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-04-08-openai-the-next-phase-of-enterprise-ai",
       "date": "2026-04-08",
       "name": "The next phase of enterprise AI",
@@ -446,6 +734,24 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-08-aws-amazon-route-53-resolver-endpoints-now-support-dns",
+      "date": "2026-04-08",
+      "name": "Amazon Route 53 Resolver endpoints now support DNS delegation for private hosted zones in AWS GovCloud (US) Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, domain name system (DNS) delegation for private hosted zone subdomains can be used with Route 53 inbound and outbound Resolver endpoints in AWS GovCloud (US) Regions. This allows you to delegate the au",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/route-53-resolver-endpoints/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -772,312 +1078,6 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-04-06-aws-amazon-sagemaker-unified-studio-adds-notebook-impo",
-      "date": "2026-04-06",
-      "name": "Amazon SageMaker Unified Studio adds notebook import/export and developer acceleration features",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker Unified Studio notebooks now support&nbsp;import/export capabilities, enabling migration from JupyterLab and other notebook platforms. This release also introduces developer acceleration features incl",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-unified-studio/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-06-aws-aws-announces-general-availability-of-smithy-java-",
-      "date": "2026-04-06",
-      "name": "AWS announces general availability of Smithy-Java client framework",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS today announced the general availability of Smithy-Java, an open-source Java framework for generating type-safe clients and standalone classes from Smithy models. Smithy-Java addresses one of the most consistently",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/smithy-java-client-framework/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-06-aws-aws-iot-greengrass-component-sdk-for-c-c-and-rust-",
-      "date": "2026-04-06",
-      "name": "AWS IoT Greengrass component SDK for C, C++, and Rust applications",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>We're excited to announce the launch of a new&nbsp;<a href=\"https://github.com/aws-greengrass/aws-greengrass-component-sdk\">Greengrass component SDK&nbsp;</a>for AWS IoT Greengrass applications. This new SDK addresses",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/iot-greengrass-component-sdk/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-06-aws-amazon-rds-for-oracle-now-supports-oracle-manageme",
-      "date": "2026-04-06",
-      "name": "Amazon RDS for Oracle now supports Oracle Management Agent version 24.1.0.0.v1 for Oracle Enterprise Manager Cloud Control 24aiR1",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/oracle/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for Oracle</a> now supports Oracle Management Agent (OMA) version 24.1.0.0.v1 for Oracle Enterprise Manager ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-rds-oracle-supports-oracle-management-agent-version-for-oracle-enterprise-manager=cloud-control/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-06-dust-spa-poke-e8ab413",
-      "date": "2026-04-06",
-      "name": "spa/poke/e8ab413",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Restructure reinforced agent block editing prompts (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/23782\">#23782</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fe8ab413"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-06-dust-spa-poke-cd7092f",
-      "date": "2026-04-06",
-      "name": "spa/poke/cd7092f",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Choose agents for auto-mode reinforced agent based on scoring system …</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fcd7092f"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-05-langchain-langgraph-continual-learning-for-ai-agents",
-      "date": "2026-04-05",
-      "name": "Continual learning for AI agents",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "<p><a href=\"https://x.com/hwchase17?ref=blog.langchain.com\"></a><a href=\"https://x.com/hwchase17/article/2040467997022884194/media/2040467721792659456?ref=blog.langchain.com\"></a>Most discussions of continual learning in",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/continual-learning-for-ai-agents/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-04-03-aws-apache-spark-troubleshooting-and-upgrade-agents-no",
-      "date": "2026-04-03",
-      "name": "Apache Spark troubleshooting and upgrade agents now available as Kiro powers",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>The Apache Spark troubleshooting agent and upgrade agent for Amazon EMR are now available as Kiro powers, bringing one-click access to AI-assisted Spark operations directly in Kiro. With these powers, data engineers c",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-emr-spark-troubleshooting-upgrade-kiro-power/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-03-aws-amazon-sagemaker-data-agent-introduces-charting-ca",
-      "date": "2026-04-03",
-      "name": "Amazon SageMaker Data Agent introduces charting capabilities and support for materialized views",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker Data Agent now supports interactive charting, SQL analytics on Snowflake data sources, and materialized view management in Amazon SageMaker Unified Studio notebooks. Data Agent now provides a complete",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sgmkr-dataagent-chart-mv/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-03-aws-amazon-bedrock-guardrails-announces-general-availa",
-      "date": "2026-04-03",
-      "name": "Amazon Bedrock Guardrails announces general availability of cross-account safeguards",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock Guardrails now enables centralized enforcement of safety controls across all AWS accounts within an organization through cross-account safeguards. Amazon Bedrock Guardrails offers configurable safeguard",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/bedrock-guardrails-cross-account-safeguards/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-03-aws-partner-revenue-measurement-now-supports-user-agen",
-      "date": "2026-04-03",
-      "name": "Partner Revenue Measurement now supports User Agent string for certain AWS services",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS announces the general availability of Partner Revenue Measurement User Agent string — a new capability that enables AWS Partners to measure AWS service consumption driven by their solutions using AWS APIs a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/partner-revenue-measurement-user-agent-support/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-03-aws-partner-revenue-measurement-now-supports-aws-marke",
-      "date": "2026-04-03",
-      "name": "Partner Revenue Measurement now supports AWS Marketplace Metering for certain AWS Marketplace products",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the launch of Partner Revenue Measurement integration with AWS Marketplace Metering for Amazon Machine Image (AMI) and Machine Learning (ML) products listed in AWS Marketplace. Partner Revenue Mea",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/partner-revenue-supports-mp-metering/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-03-aws-amazon-cloudwatch-introduces-promql-querying-with-",
-      "date": "2026-04-03",
-      "name": "Amazon CloudWatch introduces PromQL querying with Query Studio Preview",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon CloudWatch announces Query Studio in public preview, a unified query and visualization experience that brings native PromQL querying to CloudWatch for the first time. Query Studio combines PromQL and CloudWatch",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-query-studio-preview/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-03-langchain-langgraph-how-my-agents-self-heal-in-production",
-      "date": "2026-04-03",
-      "name": "How My Agents Self-Heal in Production",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "I built a self-healing deployment pipeline for our GTM Agent. After every deploy, it detects regressions, triages whether the change caused them, and kicks off an agent to open a PR with a fix, with no manual interventio",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/production-agents-self-heal/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-04-03-dust-spa-poke-1654741-make-reinforced-agent-preserve-ta",
-      "date": "2026-04-03",
-      "name": "spa/poke/1654741: Make reinforced agent preserve target agent's goals (#23718)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>An attempt to prevent Reinforced from suggesting changes that are out of scope.</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F1654741"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-03-dust-spa-poke-740761a-temporarily-keep-reinforced-consi",
-      "date": "2026-04-03",
-      "name": "spa/poke/740761a: Temporarily keep reinforced consideration to only on agent (#23729)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>Temporarily keep reinforced consideration to only on agents until we had smart limits</p>\n</li>\n<li>\n<p>Lint</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F740761a"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-03-dust-spa-poke-6029cbc-fix-skip-slack-channel-linking-ca",
-      "date": "2026-04-03",
-      "name": "spa/poke/6029cbc: fix: skip slack channel linking call for non-builder users (#23699)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>fix: skip slack channel linking call for non-builder users</li>\n</ul>\n<p>The linked_slack_channels endpoint requires builder/admin role, but<br />\nagent creation is open to all users. Non-builder users saving ag",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6029cbc"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
       "tags": []
     }
   ]
