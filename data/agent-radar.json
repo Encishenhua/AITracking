@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "2026-04-11-langchain-langgraph-your-harness-your-memory",
+      "date": "2026-04-11",
+      "name": "Your harness, your memory",
+      "vendor": "LangChain/LangGraph",
+      "type": "upgrade",
+      "summary": "<p>Agent harnesses are becoming the dominant way to build agents, and they are not going anywhere. These harnesses are intimately tied to agent memory. If you used a closed harness - especially if it&#x2019;s behind a pr",
+      "sources": [
+        {
+          "title": "LangChain/LangGraph source",
+          "url": "https://blog.langchain.com/your-harness-your-memory/"
+        }
+      ],
+      "impact": 4,
+      "risk": 2,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-04-10-openai-research-with-chatgpt",
       "date": "2026-04-10",
       "name": "Research with ChatGPT",
@@ -1055,24 +1073,6 @@
         {
           "title": "CrewAI source",
           "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.0"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-04-07-crewai-1-14-0a4",
-      "date": "2026-04-07",
-      "name": "1.14.0a4",
-      "vendor": "CrewAI",
-      "type": "deprecation",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add guardrail_type and name to distinguish traces</li>\n<li>Add SqliteProvider for checkpoint storage</li>\n<li>Add CheckpointConfig for automatic checkpointing</li>\n<li>I",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.0a4"
         }
       ],
       "impact": 3,
