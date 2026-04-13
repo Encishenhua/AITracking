@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "2026-04-12-openai-elevated-401-errors-for-api-endpoints",
+      "date": "2026-04-12",
+      "name": "Elevated 401 errors for API endpoints",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KP1PS4WFSH4CVJT0DJBKQ3FT"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-12-dust-spa-poke-80ae575-add-compactionmessageid-and-imple",
+      "date": "2026-04-12",
+      "name": "spa/poke/80ae575: Add compactionMessageId and implement batch rendering (#24109)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>Add compactionMessageId to CompactionMessageType and implement batch rendering</li>\n</ul>\n<p>Adds the <code>compactionMessageId</code> field (pointing to the CompactionMessageModel primary key) to<br />\n<code>Co",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F80ae575"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-12-dust-spa-app-80ae575-add-compactionmessageid-and-implem",
+      "date": "2026-04-12",
+      "name": "spa/app/80ae575: Add compactionMessageId and implement batch rendering (#24109)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>Add compactionMessageId to CompactionMessageType and implement batch rendering</li>\n</ul>\n<p>Adds the <code>compactionMessageId</code> field (pointing to the CompactionMessageModel primary key) to<br />\n<code>Co",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F80ae575"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-04-11-langchain-langgraph-your-harness-your-memory",
       "date": "2026-04-11",
       "name": "Your harness, your memory",
@@ -1024,60 +1078,6 @@
       "impact": 3,
       "risk": 3,
       "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-07-dust-spa-poke-9e57435-front-consolidate-the-max-width-o",
-      "date": "2026-04-07",
-      "name": "spa/poke/9e57435: [front] consolidate the max width of conversation layout (#23811)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>\n<p>fix loading spinner</p>\n</li>\n<li>\n<p>fix max width</p>\n</li>\n<li>\n<p>fix preview</p>\n</li>\n<li>\n<p>fix</p>\n</li>\n<li>\n<p>remove padding</p>\n</li>\n<li>\n<p>fix preview</p>\n</li>\n<li>\n<p>fix preview again</p>\n",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9e57435"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-07-dust-spa-poke-9c95e6a",
-      "date": "2026-04-07",
-      "name": "spa/poke/9c95e6a",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] Route agent card clicks to the single-agent picker in single-…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9c95e6a"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-07-crewai-1-14-0",
-      "date": "2026-04-07",
-      "name": "1.14.0",
-      "vendor": "CrewAI",
-      "type": "deprecation",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add checkpoint list/info CLI commands</li>\n<li>Add guardrail_type and name to distinguish traces</li>\n<li>Add SqliteProvider for checkpoint storage</li>\n<li>Add Checkpoi",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.0"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
       "tags": []
     }
   ]
