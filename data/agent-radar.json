@@ -1,6 +1,222 @@
 {
   "items": [
     {
+      "id": "2026-04-14-openai-elevated-401-errors-for-api-endpoints",
+      "date": "2026-04-14",
+      "name": "Elevated 401 errors for API endpoints",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Responses (Degraded performance)</li>\n<li>Chat Compl",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KP1PS4WFSH4CVJT0DJBKQ3FT"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-13-openai-enterprises-power-agentic-workflows-in-cloudflare-",
+      "date": "2026-04-13",
+      "name": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/cloudflare-openai-agent-cloud"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-13-aws-amazon-redshift-introduces-key-performance-optimiz",
+      "date": "2026-04-13",
+      "name": "Amazon Redshift introduces key  performance  optimization for Top-K queries",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/redshift/\">Amazon Redshift</a> further optimizes the processing of top-k queries (queries with ORDER BY and LIMIT clauses) by intelligently skipping irrelevant data blocks to return res",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-redshift-topk-optimization/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-13-aws-amazon-ec2-m8i-and-m8i-flex-instances-are-now-avai",
+      "date": "2026-04-13",
+      "name": "Amazon EC2 M8i and M8i-flex instances are now available in AWS GovCloud (US-West) Region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon EC2 M8i and M8i-flex instances are now available in AWS GovCloud (US-West)<b> </b>Region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the hig",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-m8i-flex-govcloud-us-west/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-13-aws-amazon-ec2-r8i-and-r8i-flex-instances-are-now-avai",
+      "date": "2026-04-13",
+      "name": "Amazon EC2 R8i and R8i-flex instances are now available in AWS GovCloud (US-West) Region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8i and R8i-flex instances are available in the AWS GovCloud (US-West) Region. These instances are powered by custom Intel Xeon 6 processors, available only on",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-r8i-instances-govcloud-us-west/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-13-aws-aws-iot-is-now-available-in-israel-tel-aviv-and-eu",
+      "date": "2026-04-13",
+      "name": "AWS IoT is now available in Israel (Tel Aviv) and Europe (Milan) AWS Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS IoT Core and AWS IoT Device Management services are now available in the Israel (Tel Aviv) and Europe (Milan) AWS Regions. With this expansion, organizations operating in these regions can better serve their local",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-iot-israel-tel-aviv-europe-milan/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-13-aws-amazon-fsx-now-supports-copying-file-system-backup",
+      "date": "2026-04-13",
+      "name": "Amazon FSx now supports copying file system backups across AWS opt-in Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon&nbsp;FSx&nbsp;now supports copying file system backups across&nbsp;<a href=\"https://docs.aws.amazon.com/glossary/latest/reference/glos-chap.html#optinregion\">opt-in Regions</a>&nbsp;(AWS Regions that are disabl",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-fsx-copying-backups-opt-in-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-13-aws-aws-elastic-disaster-recovery-now-supports-ipv6",
+      "date": "2026-04-13",
+      "name": "AWS Elastic Disaster Recovery now supports IPv6",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS Elastic Disaster Recovery (AWS DRS) now supports IPv6 for both data replication and control plane connections. Customers operating in IPv6-only or dual-stack network environments can now configure AWS DRS to repli",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-elastic-disaster-recovery-ipv6/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-13-dust-spa-poke-7058fa3",
+      "date": "2026-04-13",
+      "name": "spa/poke/7058fa3",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[Agent Loop] Handle terminal runModel timeouts without failing workfl…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F7058fa3"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-13-dust-spa-poke-9a7c252-fix-deprecate-temporal-patch-for-",
+      "date": "2026-04-13",
+      "name": "spa/poke/9a7c252: fix: deprecate temporal patch for tool-denial continue loop (#24190)",
+      "vendor": "Dust",
+      "type": "deprecation",
+      "summary": "<p>Move the tool-denial-continue-loop patch from patched() to deprecatePatch()<br />\nnow that the initial fix has been deployed and all in-flight workflows have<br />\ncompleted.</p>\n<p>Co-authored-by: Claude Opus 4.6 (1M",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9a7c252"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-13-dust-spa-poke-2d1a1f1-unify-text-based-conversation-ren",
+      "date": "2026-04-13",
+      "name": "spa/poke/2d1a1f1: Unify text-based conversation rendering (#24137)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>Unify text-based conversation rendering into renderConversationAsText</li>\n</ul>\n<p>Extract a single renderConversationAsText function that both<br />\nformatConversationForDisplay and getShrinkWrappedConversatio",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2d1a1f1"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-13-crewai-1-14-2a3",
+      "date": "2026-04-13",
+      "name": "1.14.2a3",
+      "vendor": "CrewAI",
+      "type": "upgrade",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add deploy validation CLI</li>\n<li>Improve LLM initialization ergonomics</li>\n</ul>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Override pypdf and uv to patched versions for <a href=\"ht",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.2a3"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-04-12-openai-elevated-401-errors-for-api-endpoints",
       "date": "2026-04-12",
       "name": "Elevated 401 errors for API endpoints",
@@ -860,222 +1076,6 @@
         }
       ],
       "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-07-aws-aws-cost-explorer-launches-natural-language-query-",
-      "date": "2026-04-07",
-      "name": "AWS Cost Explorer launches Natural Language Query capabilities powered by Amazon Q",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Cost Explorer now brings Amazon Q Developer's generative AI capabilities directly into your cost analysis workflows. You can now use natural language queries to ask Amazon Q questions about your AWS cost and usage",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-cost-explorer-natural-language-query/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-07-aws-amazon-lightsail-is-now-available-in-the-asia-paci",
-      "date": "2026-04-07",
-      "name": "Amazon Lightsail is now available in the Asia Pacific (Malaysia) Region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon Lightsail is available in the Asia Pacific (Malaysia) Region. This expansion brings the power and simplicity of Lightsail to customers in Malaysia and surrounding regions.<br /> <br /> With this",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-lightsail-malaysia/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-07-aws-amazon-bedrock-now-offers-claude-mythos-preview-ga",
-      "date": "2026-04-07",
-      "name": "Amazon Bedrock now offers Claude Mythos Preview (Gated Research Preview)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock, the platform for building generative AI applications and agents at production scale, now offers Claude Mythos Preview in gated research preview as part of Project Glasswing. Claude Mythos Preview is An",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-bedrock-claude-mythos/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-07-aws-amazon-sagemaker-adds-serverless-workflows-to-iden",
-      "date": "2026-04-07",
-      "name": "Amazon SageMaker adds serverless workflows to Identity Center domains",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/sagemaker/unified-studio/\">Amazon SageMaker Unified Studio</a> now supports Serverless Workflows in Identity Center domains. &nbsp;With this launch, customers using Identity Center doma",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-serverless-workflows/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-07-aws-announcing-amazon-s3-files-making-s3-buckets-acces",
-      "date": "2026-04-07",
-      "name": "Announcing Amazon S3 Files, making S3 buckets accessible as file systems",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>S3 Files delivers a shared file system that connects any AWS&nbsp;compute&nbsp;resource directly with your data in Amazon S3. With S3 Files, Amazon S3 is the first and only cloud object store that provides fully-featu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-s3-files/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-07-aws-amazon-rds-for-oracle-now-supports-m8i-and-r8i-ins",
-      "date": "2026-04-07",
-      "name": "Amazon RDS for Oracle now supports M8i and R8i instances",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/oracle/\">Amazon RDS for Oracle </a>now supports M8i and R8i instances. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the highest p",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-oracle-8th-gen-instances/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-07-aws-amazon-braket-adds-support-for-rigetti-s-108-qubit",
-      "date": "2026-04-07",
-      "name": "Amazon Braket adds support for Rigetti's 108-qubit Cepheus QPU",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Braket, the quantum computing service from AWS, now offers access to Rigetti's Cepheus-1-108Q device, the first 100+ qubit superconducting quantum processing unit (QPU) available on Amazon Braket. Cepheus-1-108",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-braket-rigetti-cepheus/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-07-aws-amazon-aurora-now-supports-postgresql-17-9-16-13-1",
-      "date": "2026-04-07",
-      "name": "Amazon Aurora now supports PostgreSQL 17.9, 16.13, 15.17, and 14.22",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Aurora PostgreSQL-Compatible Edition now supports PostgreSQL versions 17.9, 16.13, 15.17, and 14.22 that includes bug fixes from the PostgreSQL community and Aurora-specific enhancements. We recommend upgrading",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-aurora-postgresql-17-9-16-13-15-17-14-22/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-07-aws-aws-certificate-manager-now-supports-native-certif",
-      "date": "2026-04-07",
-      "name": "AWS Certificate Manager now supports native certificate search",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Certificate Manager (ACM) now provides a search bar in the console that customers can use to find certificates using one or more certificate parameters such as domain name, certificate ARN, and/or certificate vali",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/aws-certificate-manager-search/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-07-langchain-langgraph-deep-agents-v0-5",
-      "date": "2026-04-07",
-      "name": "Deep Agents v0.5",
-      "vendor": "LangChain/LangGraph",
-      "type": "launch",
-      "summary": "<div class=\"kg-card kg-callout-card kg-callout-card-blue\"><div class=\"kg-callout-emoji\">&#x1f4a1;</div><div class=\"kg-callout-text\"><b><strong style=\"white-space: pre-wrap;\">TL;DR:</strong></b> We&#x2019;ve released new ",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/deep-agents-v0-5/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-04-07-langchain-langgraph-arcade-dev-tools-now-in-langsmith-fleet",
-      "date": "2026-04-07",
-      "name": "Arcade.dev tools now in LangSmith Fleet",
-      "vendor": "LangChain/LangGraph",
-      "type": "launch",
-      "summary": "Arcade is the MCP runtime for production agents, delivering secure agent authorization, reliable tools, and governance. This integration gives your agents access to Arcade’s collection of 7,500+ agent-optimized tools thr",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/arcade-dev-tools-now-in-langsmith-fleet/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-04-07-dust-spa-poke-298e5ef-steering-fix-default-agent-select",
-      "date": "2026-04-07",
-      "name": "spa/poke/298e5ef: [steering] Fix default agent selection in project conversations (#23822)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>[steering] Fix default agent selection in project conversations</p>\n</li>\n<li>\n<p>Clarify new logic</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F298e5ef"
-        }
-      ],
-      "impact": 3,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
