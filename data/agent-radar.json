@@ -19,6 +19,168 @@
       "tags": []
     },
     {
+      "id": "2026-04-14-aws-amazon-ec2-p6-b300-instances-are-now-available-in-",
+      "date": "2026-04-14",
+      "name": "Amazon EC2 P6-B300 instances are now available in the AWS GovCloud (US-East) Region",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Starting today, Amazon Elastic Cloud Compute (Amazon EC2) P6-B300 instances are available in the AWS GovCloud (US-East) Region. P6-B300 instances provide 8x NVIDIA Blackwell Ultra GPUs with 2.1 TB high bandwidth GPU m",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-p6-b300-govcloud-us-east/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-14-aws-aws-transform-is-now-available-in-kiro-and-vs-code",
+      "date": "2026-04-14",
+      "name": "AWS Transform is now available in Kiro and VS Code",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Transform is now available through two additional developer tools — including Kiro and VS Code. <a href=\"https://aws.amazon.com/transform\">AWS Transform</a> is an agentic migration and modernization factory design",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-transform-kiro-vscode/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-14-aws-aws-secrets-manager-now-supports-hybrid-post-quant",
+      "date": "2026-04-14",
+      "name": "AWS Secrets Manager now supports hybrid post-quantum TLS to protect secrets from quantum threats",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Secrets Manager now&nbsp;supports&nbsp;hybrid post-quantum key exchange using ML-KEM (Module-Lattice-based Key-Encapsulation Mechanism) to secure TLS connections for retrieving and managing secrets. This protectio",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-secrets-manager-post-quantum-tls/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-14-flowise-flowise-ui-3-1-2-release-3-1-2-6215",
+      "date": "2026-04-14",
+      "name": "flowise-ui@3.1.2: Release/3.1.2 (#6215)",
+      "vendor": "Flowise",
+      "type": "upgrade",
+      "summary": "<p>release@3.1.2</p>\n<p>Co-authored-by: yau-wd <a href=\"mailto:yau.ong@workday.com\">yau.ong@workday.com</a></p>",
+      "sources": [
+        {
+          "title": "Flowise source",
+          "url": "https://github.com/FlowiseAI/Flowise/releases/tag/flowise-ui%403.1.2"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-04-14-flowise-flowise-components-3-1-2-release-3-1-2-6215",
+      "date": "2026-04-14",
+      "name": "flowise-components@3.1.2: Release/3.1.2 (#6215)",
+      "vendor": "Flowise",
+      "type": "upgrade",
+      "summary": "<p>release@3.1.2</p>\n<p>Co-authored-by: yau-wd <a href=\"mailto:yau.ong@workday.com\">yau.ong@workday.com</a></p>",
+      "sources": [
+        {
+          "title": "Flowise source",
+          "url": "https://github.com/FlowiseAI/Flowise/releases/tag/flowise-components%403.1.2"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-04-14-flowise-flowise-3-1-2",
+      "date": "2026-04-14",
+      "name": "flowise@3.1.2",
+      "vendor": "Flowise",
+      "type": "pricing",
+      "summary": "<h2>What's Changed</h2>\n<ul>\n<li>Hardcoded CORS wildcard on TTS endpoint enables cross-origin credential abuse from any webpage by <a class=\"user-mention notranslate\" href=\"https://github.com/christopherholland-workday\">",
+      "sources": [
+        {
+          "title": "Flowise source",
+          "url": "https://github.com/FlowiseAI/Flowise/releases/tag/flowise%403.1.2"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-04-14-dust-spa-poke-99a2535-feat-build-agent-loop-context-for",
+      "date": "2026-04-14",
+      "name": "spa/poke/99a2535: feat: build agent loop context for sandbox tool calls (#24227)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>feat: build agent loop context for sandbox tool calls</p>\n</li>\n<li>\n<p>review feedback</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F99a2535"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-14-dust-spa-poke-62f5f21-outlook-mcp-enhancements-24222",
+      "date": "2026-04-14",
+      "name": "spa/poke/62f5f21: Outlook MCP Enhancements (#24222)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>Enable send mail tool and workspace credentials for Outlook MCP</p>\n</li>\n<li>\n<p>Enable migration disabling send_mail for existing Outlook instances</p>\n</li>\n<li>\n<p>Make Mail.Send an optional permission i",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F62f5f21"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-14-dust-spa-poke-5dae913",
+      "date": "2026-04-14",
+      "name": "spa/poke/5dae913",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Remove redundant authType workspaceId guards (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/24214\">#24214</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5dae913"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-04-13-openai-enterprises-power-agentic-workflows-in-cloudflare-",
       "date": "2026-04-13",
       "name": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
@@ -214,6 +376,60 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-04-13-aws-nvidia-nemotron-3-super-120b-qwen3-5-9b-and-qwen3-",
+      "date": "2026-04-13",
+      "name": "NVIDIA Nemotron-3-Super-120B, Qwen3.5-9B, and Qwen3.5-27B models now available on Amazon SageMaker JumpStart",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>NVIDIA’s Nemotron-3-Super-120B, Qwen3.5-9B, and Qwen3.5-27B models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. These three models bring spe",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/nemotron3super-120b-qwen3.5-9b-qwen3.5-27b-on-sagemaker-jumpstart/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-13-aws-amazon-quick-now-supports-document-level-access-co",
+      "date": "2026-04-13",
+      "name": "Amazon Quick now supports document-level access controls for Google Drive knowledge bases",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Quick now supports document-level access controls (ACLs) for Google Drive knowledge bases, enabling organizations to maintain native Google Drive permissions when indexing content. Quick combines ACL replicatio",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-document-level-access-controls-google-drive/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-13-aws-aws-announces-general-availability-of-aws-intercon",
+      "date": "2026-04-13",
+      "name": "AWS announces general availability of AWS Interconnect - last mile",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS launches AWS Interconnect - last mile, a fully managed connectivity offering that allows customers to connect their branch offices, data centers, and remote locations to AWS with just a few clicks, eliminating the",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-announces-ga-AWS-interconnect-last-mile/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
       "tags": []
     },
     {
@@ -559,6 +775,24 @@
       "tags": []
     },
     {
+      "id": "2026-04-10-aws-amazon-quick-now-supports-document-level-access-co",
+      "date": "2026-04-10",
+      "name": "Amazon Quick now supports document-level access controls for ACL support for S3",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Quick now supports document-level access control lists (ACLs) for Amazon S3 knowledge bases, enabling you to manage granular permissions for documents stored in S3. With this feature, you can control which user",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-document-level-access-controls-acl-s3/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-04-09-openai-cyberagent-moves-faster-with-chatgpt-enterprise-an",
       "date": "2026-04-09",
       "name": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
@@ -839,240 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-hyperpod-gang-scheduling/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-08-aws-amazon-ivs-real-time-streaming-now-supports-redund",
-      "date": "2026-04-08",
-      "name": "Amazon IVS Real-Time Streaming now supports redundant ingest",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Interactive Video Service (Amazon IVS) Real-Time Streaming now supports redundant ingest, helping protect your live streams against source encoder failures and first-mile network issues. With redundant ingest, ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ivs-real-time-streaming-redundant-ingest/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-08-aws-amazon-bedrock-agentcore-browser-adds-os-level-int",
-      "date": "2026-04-08",
-      "name": "Amazon Bedrock AgentCore Browser adds OS-level interaction capabilities",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock AgentCore Browser now supports OS-level interaction capabilities, enabling automation of browser workflows that require direct operating system control beyond Chrome DevTools Protocol (CDP) capabilities",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/agentcore-browser-os-actions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-08-aws-amazon-workspaces-advisor-now-available-for-ai-pow",
-      "date": "2026-04-08",
-      "name": "Amazon WorkSpaces Advisor now available for AI-powered troubleshooting",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon WorkSpaces Advisor is a new AI-powered tool that helps administrators quickly troubleshoot and resolve issues with Amazon WorkSpaces Personal. Using generative AI capabilities, it analyzes WorkSpace configurati",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/workspaces-advisor-ai-troubleshooting/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-08-aws-amazon-opensearch-service-now-supports-graviton4-b",
-      "date": "2026-04-08",
-      "name": "Amazon OpenSearch Service now supports Graviton4 based i8ge instances",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon OpenSearch Service now supports i8ge instances, which is the latest generation of storage optimized instances offering the best performance for storage-intensive workloads.<br /> <br /> Powered by AWS Graviton4",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/4/amazon-opensearch-service-supports-i8ge/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-08-langchain-langgraph-better-harness-a-recipe-for-harness-hill-climbing-",
-      "date": "2026-04-08",
-      "name": "Better Harness: A Recipe for Harness Hill-Climbing with Evals",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "<p><em>By Vivek Trivedy, Product Manager</em></p><div class=\"kg-card kg-callout-card kg-callout-card-blue\"><div class=\"kg-callout-emoji\">&#x1f4a1;</div><div class=\"kg-callout-text\"><b><strong style=\"white-space: pre-wrap",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/better-harness-a-recipe-for-harness-hill-climbing-with-evals/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-04-08-dust-spa-poke-54878cc-start-persisting-tool-outputs-to-",
-      "date": "2026-04-08",
-      "name": "spa/poke/54878cc: Start persisting tool outputs to conversation GCS path (#23942)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>\n<p>Start persisting tool outputs to conversation GCS path</p>\n</li>\n<li>\n<p>🐒</p>\n</li>\n<li>\n<p>✨</p>\n</li>\n<li>\n<p>Gate behind Sandbox FF</p>\n</li>\n<li>\n<p>👕</p>\n</li>\n<li>\n<p>👕</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F54878cc"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-08-dust-spa-poke-79b845a-front-feat-analytics-new-analytic",
-      "date": "2026-04-08",
-      "name": "spa/poke/79b845a: [front] - feat(analytics): new analytics GA (#23889)",
-      "vendor": "Dust",
-      "type": "deprecation",
-      "summary": "<ul>\n<li>[misc] - refactor: remove analytics_csv_export from whitelistable features</li>\n</ul>\n<ul>\n<li>Removes the analytics_csv_export feature flag from shared config and types as it is no longer needed</li>\n<li>Cleans",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F79b845a"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-08-dust-spa-poke-12c0942",
-      "date": "2026-04-08",
-      "name": "spa/poke/12c0942",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>fix: respect BACK10 for agentId (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/23890\">#23890</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F12c0942"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-08-dust-spa-poke-9e3f2af",
-      "date": "2026-04-08",
-      "name": "spa/poke/9e3f2af",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] fix MCP action details for <code>ask_user_question</code> tool (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/23870\">#23870</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9e3f2af"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-08-dust-spa-poke-9e0a144-slack-handle-file-auth-events-in-",
-      "date": "2026-04-08",
-      "name": "spa/poke/9e0a144: [Slack] Handle file auth events in Slack streams (#23866)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>Fix deferred blocking events for run_agent</p>\n</li>\n<li>\n<p>Trim agent-loop fix to file auth flow</p>\n</li>\n<li>\n<p>Deduplicate run_agent blocking event handling</p>\n</li>\n<li>\n<p>Remove focused agent-loop ",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9e0a144"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-08-aws-amazon-route-53-resolver-endpoints-now-support-dns",
-      "date": "2026-04-08",
-      "name": "Amazon Route 53 Resolver endpoints now support DNS delegation for private hosted zones in AWS GovCloud (US) Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, domain name system (DNS) delegation for private hosted zone subdomains can be used with Route 53 inbound and outbound Resolver endpoints in AWS GovCloud (US) Regions. This allows you to delegate the au",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/route-53-resolver-endpoints/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-07-openai-some-users-may-experience-issues-accessing-the-cha",
-      "date": "2026-04-07",
-      "name": "Some users may experience issues accessing the ChatGPT website on VPN",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Search (Operational)</li>\n<li>Conversations (Operational)</li>\n<li>Com",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KNKQQ4R06K00RDTNXZVX7SFC"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-07-aws-aws-lambda-expands-response-streaming-support-to-a",
-      "date": "2026-04-07",
-      "name": "AWS Lambda expands response streaming support to all commercial AWS Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Lambda response streaming is now available in all commercial AWS Regions, bringing full regional parity for this capability. Customers in newly supported Regions can use the InvokeWithResponseStream API to progres",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-lambda-response-streaming/"
         }
       ],
       "impact": 5,
