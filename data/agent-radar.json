@@ -1,6 +1,150 @@
 {
   "items": [
     {
+      "id": "2026-04-15-openai-the-next-evolution-of-the-agents-sdk",
+      "date": "2026-04-15",
+      "name": "The next evolution of the Agents SDK",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-15-aws-aws-payment-cryptography-now-available-in-south-am",
+      "date": "2026-04-15",
+      "name": "AWS Payment Cryptography now available in South America (São Paulo)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Payment Cryptography has expanded its global presence with availability in South America (São Paulo). This expansion enables customers with latency-sensitive payment applications to build, deploy or migrate into a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-payment-cryptography-south/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-15-aws-amazon-quick-introduces-sheet-tooltips-for-rich-co",
+      "date": "2026-04-15",
+      "name": "Amazon Quick Introduces Sheet Tooltips for Rich, Contextual Data Exploration",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/quick/quicksight/\" rel=\"noopener noreferrer\" target=\"_blank\">Quick Sight in Amazon Quick</a> now supports sheet tooltips, enabling authors to surface rich, contextual detail when viewer",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/quick-sheet-tooltips/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-15-dust-spa-poke-620523b-front-enh-add-dialog-upon-disabli",
+      "date": "2026-04-15",
+      "name": "spa/poke/620523b: [front] enh: add dialog upon disabling provider workspace-wide (#24332)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>add disable provider dialog</p>\n</li>\n<li>\n<p>format</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F620523b"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-15-dust-spa-poke-169f8a6-cache-credits-balance-from-metron",
+      "date": "2026-04-15",
+      "name": "spa/poke/169f8a6: Cache credits balance from Metronome (#23926)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>Cache credits balance from Metronome</li>\n</ul>\n<h1>Conflicts:</h1>\n<h1>front/components/assistant/conversation/ConversationContainer.tsx</h1>\n<ul>\n<li>\n<p>simplify hasCredits</p>\n</li>\n<li>\n<p>add FF</p>\n</li>\n",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F169f8a6"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-15-dust-spa-poke-44b08ac-feat-add-command-palette-cmd-k-v0",
+      "date": "2026-04-15",
+      "name": "spa/poke/44b08ac: feat: add command palette (Cmd+K) v0 - silent ship (#24194)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>Vary basic command palette with easy access to agents &amp; skills</p>\n</li>\n<li>\n<p>Apply feedback</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F44b08ac"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-15-dust-spa-poke-30ef146",
+      "date": "2026-04-15",
+      "name": "spa/poke/30ef146",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Do not track <code>agent_inaccessible</code> error in run_agent (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/24303\">#24303</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F30ef146"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-15-crewai-1-14-2rc1",
+      "date": "2026-04-15",
+      "name": "1.14.2rc1",
+      "vendor": "CrewAI",
+      "type": "upgrade",
+      "summary": "<h2>What's Changed</h2>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Fix handling of cyclic JSON schemas in MCP tool resolution</li>\n<li>Fix vulnerability by bumping python-multipart to 0.0.26</li>\n<li>Fix vulnerability by bumping pypdf ",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.2rc1"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-04-14-openai-elevated-401-errors-for-api-endpoints",
       "date": "2026-04-14",
       "name": "Elevated 401 errors for API endpoints",
@@ -176,6 +320,24 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-14-aws-aws-announces-general-availability-of-aws-intercon",
+      "date": "2026-04-14",
+      "name": "AWS announces general availability of AWS Interconnect - multicloud",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS announces general availability (GA) of AWS Interconnect - multicloud, providing simple, resilient, high-speed private connections to other cloud service providers (CSPs). With GA comes Google Cloud as the first la",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-announces-ga-AWS-interconnect-multicloud/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -911,168 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-agent-registry-in-agentcore-preview/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-09-aws-amazon-opensearch-serverless-now-supports-zstandar",
-      "date": "2026-04-09",
-      "name": "Amazon OpenSearch Serverless now supports Zstandard (zstd) codec for index compression",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon OpenSearch Serverless now supports Zstandard codecs for index storage, giving customers greater control over the trade-off between storage costs and query performance. With this launch, customers can configure&",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-opensearch-serverless-supports-zstandard-index-compression/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-09-aws-amazon-ec2-capacity-manager-now-supports-tag-based",
-      "date": "2026-04-09",
-      "name": "Amazon EC2 Capacity Manager now supports tag-based dimensions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, Amazon EC2 Capacity Manager supports tag-based dimensions, enabling you to use tags from your EC2 resources to group and filter capacity metrics. EC2 Capacity Manager helps you monitor and optimize cap",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-capacity-manager-tag-based-dimensions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-09-langchain-langgraph-previewing-interrupt-2026-agents-at-enterprise-sca",
-      "date": "2026-04-09",
-      "name": "Previewing Interrupt 2026: Agents at Enterprise Scale",
-      "vendor": "LangChain/LangGraph",
-      "type": "launch",
-      "summary": "This year, we're doing it again. Interrupt 2026 is May 13–14 at The Midway in San Francisco, and the lineup, the format, and the scale have all leveled up.",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/previewing-interrupt-2026-agents-at-enterprise-scale/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-04-09-langchain-langgraph-deep-agents-deploy-an-open-alternative-to-claude-m",
-      "date": "2026-04-09",
-      "name": "Deep Agents Deploy: an open alternative to Claude Managed Agents",
-      "vendor": "LangChain/LangGraph",
-      "type": "launch",
-      "summary": "<p>Today we&#x2019;re launching <a href=\"https://docs.langchain.com/oss/python/deepagents/deploy?ref=blog.langchain.com\" rel=\"noreferrer\">Deep Agents deploy</a> in beta. Deep Agents deploy is the fastest way to deploy a ",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/deep-agents-deploy-an-open-alternative-to-claude-managed-agents/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-04-09-langchain-langgraph-human-judgment-in-the-agent-improvement-loop",
-      "date": "2026-04-09",
-      "name": "Human judgment in the agent improvement loop",
-      "vendor": "LangChain/LangGraph",
-      "type": "launch",
-      "summary": "AI agents work best when they reflect the knowledge and judgment your team has built over time. Some of that is institutional knowledge that’s already documented and easy for an agent to use as-is. But most great organiz",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/human-judgment-in-the-agent-improvement-loop/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-04-09-dust-spa-poke-1494c1c-front-feat-add-gemini-3-1-flash-l",
-      "date": "2026-04-09",
-      "name": "spa/poke/1494c1c: [front] feat: add Gemini 3.1 Flash Lite (Preview) model support (#23962)",
-      "vendor": "Dust",
-      "type": "pricing",
-      "summary": "<ul>\n<li>\n<p>[front] feat: add Gemini 3.1 Flash Lite (Preview) model support</p>\n</li>\n<li>\n<p>[front] feat: add Gemini 3.1 Flash Lite (Preview) model support</p>\n</li>\n</ul>\n<p>Fix max reasoning effort to \"high\" — the m",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F1494c1c"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-09-aws-aws-private-ca-now-supports-customer-managed-permi",
-      "date": "2026-04-09",
-      "name": "AWS Private CA now supports customer managed permissions for cross-account sharing",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Private Certificate Authority (AWS Private CA) now supports customer managed permissions in AWS Resource Access Manager (AWS RAM). AWS Private CA lets you share certificate authorities (CAs) across accounts using ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-private-ca-customer-managed-permissions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-08-openai-the-next-phase-of-enterprise-ai",
-      "date": "2026-04-08",
-      "name": "The next phase of enterprise AI",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "OpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI agents.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/next-phase-of-enterprise-ai"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-08-aws-sagemaker-hyperpod-now-supports-gang-scheduling-fo",
-      "date": "2026-04-08",
-      "name": "SageMaker HyperPod now supports gang scheduling for distributed training workloads",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker HyperPod task governance now supports gang scheduling, which ensures all pods required for a distributed training job are ready before training begins. Administrators can configure gang scheduling to ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-hyperpod-gang-scheduling/"
         }
       ],
       "impact": 5,
