@@ -1,6 +1,204 @@
 {
   "items": [
     {
+      "id": "2026-04-16-openai-codex-for-almost-everything",
+      "date": "2026-04-16",
+      "name": "Codex for (almost) everything",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/codex-for-almost-everything"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-16-openai-responses-api-streaming-error",
+      "date": "2026-04-16",
+      "name": "Responses API Streaming Error",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Responses (Operational)</li>\n          </ul>",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KPBWZ18HR2G685X2XMZD78EP"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-16-aws-amazon-cloudwatch-now-supports-cross-region-teleme",
+      "date": "2026-04-16",
+      "name": "Amazon CloudWatch now supports cross-region telemetry auditing and enablement rules",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon CloudWatch now supports auditing telemetry configuration and enabling telemetry from AWS services such as Amazon EC2, Amazon VPC, and AWS CloudTrail across multiple AWS Regions from a single region. Customers c",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-cross-region-enablement-rules/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-16-aws-aws-elastic-disaster-recovery-is-now-available-in-",
+      "date": "2026-04-16",
+      "name": "AWS Elastic Disaster Recovery is now available in the AWS European Sovereign Cloud",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/disaster-recovery/\">AWS Elastic Disaster Recovery</a> (AWS DRS) is now available in the AWS European Sovereign Cloud, enabling organizations with data sovereignty requirements to protec",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/drs-thf/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-16-aws-amazon-workspaces-personal-and-amazon-workspaces-c",
+      "date": "2026-04-16",
+      "name": "Amazon WorkSpaces Personal and Amazon WorkSpaces Core are now available in two additional AWS Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon WorkSpaces Personal and Amazon WorkSpaces Core are now available in US East (Ohio) and Asia Pacific (Malaysia) AWS Regions. You can now provision WorkSpaces closer to your users, helping to provide in-country d",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-workspaces-available-two-new-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-16-aws-introducing-amazon-ec2-c8in-and-c8ib-instances",
+      "date": "2026-04-16",
+      "name": "Introducing Amazon EC2 C8in and C8ib instances",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS is announcing the general availability of Amazon EC2 C8in and C8ib instances powered by custom, sixth generation Intel Xeon Scalable processors, available only on AWS. These instances feature the latest sixth gene",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-c8in-c8ib-instances-ga/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-16-aws-amazon-quick-now-supports-multi-account-sign-in-wi",
+      "date": "2026-04-16",
+      "name": "Amazon Quick now supports multi-account sign-in within the same browser",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Today, AWS announces multi-session support for Amazon Quick, which enables customers to access up to five Amazon Quick accounts simultaneously within the same browser. The feature also includes the Amazon Quick accoun",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-multi-account-sign-in/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-16-aws-claude-opus-4-7-is-now-available-in-amazon-bedrock",
+      "date": "2026-04-16",
+      "name": "Claude Opus 4.7 is now available in Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Bedrock, the platform for building AI applications and agents at production scale, now offers Claude Opus 4.7--&nbsp;Anthropic's&nbsp;most capable Opus model to date&nbsp;--&nbsp;delivering meaningful improveme",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/claude-opus-4.7-amazon-bedrock/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-16-dust-spa-poke-35d6783-wire-dsbx-forward-subcommand-2437",
+      "date": "2026-04-16",
+      "name": "spa/poke/35d6783: Wire dsbx forward subcommand (#24375)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>\n<p>Wire dsbx forward subcommand</p>\n</li>\n<li>\n<p>Propagate build_handshake_frame errors</p>\n</li>\n</ul>\n<p>Follow-up to the [RUST1] fix in handshake.rs: thread the new Result<br />\nthrough the caller using the",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F35d6783"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-16-dust-spa-poke-13ea0dd-use-a-schedule-instead-of-cron-fo",
+      "date": "2026-04-16",
+      "name": "spa/poke/13ea0dd: Use a schedule instead of cron for reinforcement workflows (#24396)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>Convert per-workspace reinforcement from Temporal cron workflows to Temporal schedules with a 2-hour jitter, replacing the deterministic hash-based delay (computeWorkspaceDelayMs)</li>\n<li>Remove the checkReinfo",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F13ea0dd"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-16-dust-spa-poke-8ef7f4b-sessions-stop-disabling-input-bar",
+      "date": "2026-04-16",
+      "name": "spa/poke/8ef7f4b: [sessions]: Stop disabling input bar editor during submission (#24420)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>[front] Stop disabling editor during submission</li>\n</ul>\n<p>Remove the setEditable effect that flipped the input bar editor to<br />\nnon-editable whenever isLocalSubmitting was true. The editor losing<br />\ned",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8ef7f4b"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-04-15-openai-the-next-evolution-of-the-agents-sdk",
       "date": "2026-04-15",
       "name": "The next evolution of the Agents SDK",
@@ -875,204 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-rtb-fabric-health-checks/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-10-aws-aws-backup-extends-amazon-fsx-support-to-5-additio",
-      "date": "2026-04-10",
-      "name": "AWS Backup extends Amazon FSx support to 5 additional AWS Regions and expands cross-Region and cross-account copy to 14 AWS Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Backup is expanding support for Amazon FSx for Windows File Server, Amazon FSx for OpenZFS, and Amazon FSx for Lustre with two regional enhancements.</p> \n<p>First, AWS Backup now supports backup and restore of th",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/backup-extends-fsx-support/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-10-dust-spa-poke-2635055",
-      "date": "2026-04-10",
-      "name": "spa/poke/2635055",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] enh: Make mcp server error more user friendly (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/24069\">#24069</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2635055"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-10-dust-spa-poke-836074b-add-compactionmessagemodel-migrat",
-      "date": "2026-04-10",
-      "name": "spa/poke/836074b: Add CompactionMessageModel + migration (#24065)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>Add CompactionMessageModel + migration</li>\n</ul>\n<p>Add the CompactionMessageModel with status and content fields, extend<br />\nMessageModel with compactionMessageId FK, update the validation hook,<br />\nand ha",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F836074b"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-10-aws-amazon-quick-now-supports-document-level-access-co",
-      "date": "2026-04-10",
-      "name": "Amazon Quick now supports document-level access controls for ACL support for S3",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Quick now supports document-level access control lists (ACLs) for Amazon S3 knowledge bases, enabling you to manage granular permissions for documents stored in S3. With this feature, you can control which user",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-document-level-access-controls-acl-s3/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-09-openai-cyberagent-moves-faster-with-chatgpt-enterprise-an",
-      "date": "2026-04-09",
-      "name": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "CyberAgent uses ChatGPT Enterprise and Codex to securely scale AI adoption, improve quality, and accelerate decisions across advertising, media, and gaming.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/cyberagent"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-09-aws-amazon-timestream-for-influxdb-now-supports-custom",
-      "date": "2026-04-09",
-      "name": "Amazon Timestream for InfluxDB Now Supports Customer-Defined Maintenance Windows",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Timestream for InfluxDB now supports customer-defined maintenance windows, giving you control over when routine maintenance is performed on your InfluxDB databases. This feature is available for both InfluxDB 2",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/timestream-influxdb-maintenance-windows/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-09-aws-amazon-bedrock-now-supports-cost-allocation-by-iam",
-      "date": "2026-04-09",
-      "name": "Amazon Bedrock now supports cost allocation by IAM user and role",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock now supports cost allocation by IAM principal, such as IAM users and IAM roles, in AWS Cost and Usage Report 2.0 (CUR 2.0) and Cost Explorer. This enables customers to understand and attribute Bedrock m",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/bedrock-iam-cost-allocation/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-09-aws-amazon-opensearch-service-supports-managed-prometh",
-      "date": "2026-04-09",
-      "name": "Amazon OpenSearch Service supports Managed Prometheus and agent tracing",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon OpenSearch Service now provides a unified observability experience that brings together metrics, logs, traces, and AI agent tracing in a single interface. This release introduces native integration with Amazon ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/opensearch-managed-prometheus-agent-tracing/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-09-aws-amazon-rds-blue-green-deployments-now-supports-ama",
-      "date": "2026-04-09",
-      "name": "Amazon RDS Blue/Green Deployments now supports Amazon RDS Proxy",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon RDS Blue/Green Deployments now supports Amazon RDS Proxy, enabling faster application recovery during switchover by eliminating DNS propagation delays. Blue/Green Deployments create a fully managed staging envi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/rds-proxy-blue-green/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-09-aws-aws-marketplace-announces-the-discovery-api-for-pr",
-      "date": "2026-04-09",
-      "name": "AWS Marketplace announces the Discovery API for programmatic access to catalog data",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS Marketplace announces the Discovery API, giving you programmatic access to product and pricing information across the AWS Marketplace catalog — including SaaS, AI agents and tools, AMI, containers, and mach",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-marketplace-discovery-api/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-09-aws-aws-agent-registry-for-centralized-agent-discovery",
-      "date": "2026-04-09",
-      "name": "AWS Agent Registry for centralized agent discovery and governance is now available in Preview",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Agent Registry, available through Amazon Bedrock AgentCore, is now in preview — a private, governed catalog and discovery layer for agents, tools, skills, MCP servers, and custom resources within the organization.",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-agent-registry-in-agentcore-preview/"
         }
       ],
       "impact": 5,
