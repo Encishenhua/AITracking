@@ -1,6 +1,204 @@
 {
   "items": [
     {
+      "id": "2026-04-17-aws-amazon-ec2-high-memory-u7i-instances-now-available",
+      "date": "2026-04-17",
+      "name": "Amazon EC2 High Memory U7i instances now available in AWS Asia Pacific (Singapore) region",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon EC2 High Memory U7i-8TB instances (u7i-8tb.112xlarge) and U7i-12TB instances (u7i-12tb.224xlarge) are now available in AWS Asia Pacific (Singapore) region. U7i instances are part of AWS 7th generation and are p",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-high-memory-u7i-asia-pacific/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-17-aws-aws-deadline-cloud-announces-ai-powered-troublesho",
+      "date": "2026-04-17",
+      "name": "AWS Deadline Cloud announces AI-powered troubleshooting assistant for render jobs",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS Deadline Cloud announces an AI-powered troubleshooting assistant that helps you quickly diagnose and resolve render job failures. AWS Deadline Cloud is a fully managed service that simplifies render managem",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/deadline-cloud-ai-troubleshooting/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-17-aws-amazon-managed-grafana-now-supports-creating-grafa",
+      "date": "2026-04-17",
+      "name": "Amazon Managed Grafana now supports creating Grafana 12.4 workspaces",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Managed Grafana&nbsp;now supports creating new workspaces with&nbsp;Grafana version 12.4.&nbsp;&nbsp;This release includes features that were launched as a part of open source Grafana versions 11.0&nbsp;to 12.4",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-managed-grafana-v12-create/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-17-aws-sagemaker-jumpstart-now-offers-optimized-deploymen",
+      "date": "2026-04-17",
+      "name": "SageMaker JumpStart now offers optimized deployments for foundation models",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>SageMaker JumpStart now offers optimized deployments, enabling customers to deploy foundation models with pre-configured settings tailored to specific use cases and performance constraints. SageMaker JumpStart optimiz",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-jumpstart-optimized-deployments/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-17-dust-spa-poke-33418f9-hubspot-add-marketing-email-scope",
+      "date": "2026-04-17",
+      "name": "spa/poke/33418f9: [hubspot] Add marketing email scopes & endpoints to HubSpot MCP (#24224)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>add new scopes and endpoints</p>\n</li>\n<li>\n<p>format</p>\n</li>\n<li>\n<p>update snapshot</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F33418f9"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-17-dust-spa-poke-912f8bf-sandbox-bake-egress-plumbing-into",
+      "date": "2026-04-17",
+      "name": "spa/poke/912f8bf: sandbox: bake egress plumbing into image (dormant, uid-scoped) (#24424)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>sandbox: bake egress plumbing into image (dormant, uid-scoped)</li>\n</ul>\n<p>Adds dust-fwd system user, iptables package, and /etc/dust to the bedrock<br />\nimage. In the template layer, creates the dormant agen",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F912f8bf"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-17-dust-spa-poke-83dfec9",
+      "date": "2026-04-17",
+      "name": "spa/poke/83dfec9",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>[front] feat: GA skills import from GitHub repository/files (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/24463\">#24463</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F83dfec9"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-17-dust-spa-poke-70e032a-proposal-wake-up-implementation-p",
+      "date": "2026-04-17",
+      "name": "spa/poke/70e032a: proposal: wake-up implementation plan (x/spolu/wakeup) (#24494)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>Split the wake-up feature into 11 PRs across 7 milestones: data layer,<br />\nTemporal execution, agent action, security, API+UI, cron, cleanup+GA.</p>\n<p>Co-authored-by: Claude Opus 4.6 (1M context) <a href=\"mailto:no",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F70e032a"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-17-dust-spa-poke-48e12e5-audit-logs-fill-a-few-gaps-in-our",
+      "date": "2026-04-17",
+      "name": "spa/poke/48e12e5: [audit logs] fill a few gaps in our logging  (#24427)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>\n<p>[front] feat(audit): inject actor_type and add new actions/targets</p>\n</li>\n<li>\n<p>[front] chore(audit): add actor_type field to existing event schemas</p>\n</li>\n<li>\n<p>[front] feat(audit): add Phase 2 ev",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F48e12e5"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-17-dust-spa-poke-6a73d18",
+      "date": "2026-04-17",
+      "name": "spa/poke/6a73d18",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>[front] enh: improve slash command dropdown dismissal and navigation …</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6a73d18"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-17-crewai-1-14-2",
+      "date": "2026-04-17",
+      "name": "1.14.2",
+      "vendor": "CrewAI",
+      "type": "upgrade",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add checkpoint resume, diff, and prune commands with improved discoverability.</li>\n<li>Add <code>from_checkpoint</code> parameter to <code>Agent.kickoff</code> and rela",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.2"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-04-16-openai-codex-for-almost-everything",
       "date": "2026-04-16",
       "name": "Codex for (almost) everything",
@@ -194,6 +392,42 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-16-aws-amazon-cloudwatch-rum-now-available-in-aws-europea",
+      "date": "2026-04-16",
+      "name": "Amazon CloudWatch RUM now available in AWS European Sovereign Cloud",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon CloudWatch RUM (Real User Monitoring) is a feature of Amazon CloudWatch that enables developers and operations teams to collect, view, and analyze client-side performance data from real end-user sessions in web",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-cloudwatch-rum-european-sovereign-cloud/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-16-aws-amazon-ec2-x8aedz-instances-are-now-available-in-e",
+      "date": "2026-04-16",
+      "name": "Amazon EC2 X8aedz instances are now available in Europe (Stockholm) region",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) X8aedz instances are available in&nbsp;Europe (Stockholm) region. These instances are powered by 5th Gen AMD EPYC processors (formerly code named Turin). These",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-x8aedz-instances-stockholm/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -842,240 +1076,6 @@
         }
       ],
       "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-11-langchain-langgraph-your-harness-your-memory",
-      "date": "2026-04-11",
-      "name": "Your harness, your memory",
-      "vendor": "LangChain/LangGraph",
-      "type": "upgrade",
-      "summary": "<p>Agent harnesses are becoming the dominant way to build agents, and they are not going anywhere. These harnesses are intimately tied to agent memory. If you used a closed harness - especially if it&#x2019;s behind a pr",
-      "sources": [
-        {
-          "title": "LangChain/LangGraph source",
-          "url": "https://blog.langchain.com/your-harness-your-memory/"
-        }
-      ],
-      "impact": 4,
-      "risk": 2,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-04-10-openai-research-with-chatgpt",
-      "date": "2026-04-10",
-      "name": "Research with ChatGPT",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/academy/search-and-deep-research"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-10-openai-chatgpt-for-research",
-      "date": "2026-04-10",
-      "name": "ChatGPT for research",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/academy/research"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-10-openai-personalizing-chatgpt",
-      "date": "2026-04-10",
-      "name": "Personalizing ChatGPT",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "Learn how to personalize ChatGPT using custom instructions and memory to get more relevant, consistent, and tailored responses.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/academy/personalization"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-10-openai-chatgpt-for-managers",
-      "date": "2026-04-10",
-      "name": "ChatGPT for managers",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "Learn how managers use ChatGPT to prepare for conversations, write clear feedback, stay organized, and improve team effectiveness.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/academy/managers"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-10-openai-using-projects-in-chatgpt",
-      "date": "2026-04-10",
-      "name": "Using projects in ChatGPT",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/academy/projects"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-10-openai-brainstorming-with-chatgpt",
-      "date": "2026-04-10",
-      "name": "Brainstorming with ChatGPT",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/academy/brainstorming"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-10-aws-amazon-ec2-x8i-instances-are-now-available-in-euro",
-      "date": "2026-04-10",
-      "name": "Amazon EC2 X8i instances are now available in Europe (Paris)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Web Services (AWS) is announcing the general availability of Amazon EC2 X8i instances, next-generation memory optimized instances powered by custom Intel Xeon 6 processors available only on AWS. X8i instances a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-x8i-instances-CDG-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-10-aws-aws-deadline-cloud-supports-monitor-creation-in-mu",
-      "date": "2026-04-10",
-      "name": "AWS Deadline Cloud supports monitor creation in multiple regions",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Today, AWS Deadline Cloud announces support for creating monitors in multiple AWS Regions without additional configuration of your IAM Identity Center instance. AWS Deadline Cloud is a fully managed service that helps",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/deadline-cloud-monitor-creation/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-10-aws-amazon-cloudwatch-pipelines-introduces-new-complia",
-      "date": "2026-04-10",
-      "name": "Amazon CloudWatch pipelines introduces new compliance and governance capabilities",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon CloudWatch pipelines now includes new compliance and governance capabilities to help you maintain data integrity and control access when processing logs. CloudWatch pipelines is a fully managed service that ing",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/cloudwatch-pipelines-compliance-governance/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-10-aws-second-generation-amazon-fsx-for-netapp-ontap-is-n",
-      "date": "2026-04-10",
-      "name": "Second-generation Amazon FSx for NetApp ONTAP is now available in four additional AWS commercial and AWS GovCloud (US) Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon FSx for NetApp ONTAP second-generation file systems are now available in 4 additional AWS Regions: Europe (London), Asia Pacific (Hyderabad), South America (Sao Paulo), and&nbsp;AWS GovCloud (US-West).&nbsp;<br",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/second-gen-amazon-fsx-ontap-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-10-aws-aws-billing-and-cost-management-dashboards-now-sup",
-      "date": "2026-04-10",
-      "name": "AWS Billing and Cost Management Dashboards Now Supports Scheduled Email Delivery",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Billing and Cost Management Dashboards now support scheduled email delivery for your reports. You can now automate report distribution on flexible recurring schedules, eliminating manual compilation&nbsp;work&nbsp",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-billing-and-cost-management-dashboards-scheduled-email-delivery/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-10-aws-aws-rtb-fabric-supports-health-checks-for-real-tim",
-      "date": "2026-04-10",
-      "name": "AWS RTB Fabric supports health checks for real-time bidding workloads",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS RTB Fabric now supports health checks for real-time bidding workloads that use <a href=\"https://docs.aws.amazon.com/autoscaling/ec2/userguide/auto-scaling-groups.html\">EC2 Auto Scaling groups</a> (AGS). Health che",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-rtb-fabric-health-checks/"
-        }
-      ],
-      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
