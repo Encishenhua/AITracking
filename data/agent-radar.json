@@ -1,6 +1,294 @@
 {
   "items": [
     {
+      "id": "2026-04-21-openai-some-users-may-encounter-issues-with-gpt-5-4-c-mod",
+      "date": "2026-04-21",
+      "name": "Some users may encounter issues with GPT-5.4-C model in Codex",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Codex Web (Degraded performance)</li>\n<li>CLI (Degra",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KPPY7B8PMYHJWDNFY9TMJX33"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-20-openai-users-unable-to-load-chatgpt-codex-and-api-platfor",
+      "date": "2026-04-20",
+      "name": "Users unable to load ChatGPT, Codex and API Platform",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Login (Operational)</li>\n<li>File uploads (Operational)</li>\n<li>Compl",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KPNN2V2SMP3TAN3MCJK87W50"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-20-aws-aws-iot-greengrass-v2-17-now-supports-non-root-ins",
+      "date": "2026-04-20",
+      "name": "AWS IoT Greengrass v2.17 now supports non-root installation and introduces new light weight components",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://docs.aws.amazon.com/greengrass/v2/developerguide/greengrass-release-2026-04-16.html\">AWS IoT Greengrass v2.17</a>&nbsp;is now available, enabling you to run the edge runtime as a non-root user on Linu",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-iot-greengrass-v217/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-20-aws-amazon-documentdb-with-mongodb-compatibility-now-s",
+      "date": "2026-04-20",
+      "name": "Amazon DocumentDB (with MongoDB compatibility) now supports in-place upgrade from version 5.0 to 8.0",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/documentdb/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon DocumentDB (with MongoDB compatibility)</a>&nbsp;supports in-place major version upgrade (MVU) from version 5.0 to 8.0. You",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-documentdb-mongodb-in-place-version-upgrade-5-0-to-8-0/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-20-aws-amazon-eks-enhances-cluster-governance-with-new-ia",
+      "date": "2026-04-20",
+      "name": "Amazon EKS enhances cluster governance with new IAM condition keys",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/eks/\" target=\"_blank\">Amazon Elastic Kubernetes Service</a> (EKS) now supports seven additional <a href=\"https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonel",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-eks-iam-condition-keys/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-20-aws-amazon-msk-replicator-now-supports-log-forwarding-",
+      "date": "2026-04-20",
+      "name": "Amazon MSK Replicator now supports log forwarding for replication visibility",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon MSK Replicator now delivers replicator logs to give you end-to-end visibility into replication health. Replicator logs surface critical replication events and errors&nbsp;along with guidance on&nbsp;how to reso",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-msk-replicator-logs/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-20-aws-amazon-msk-replicator-now-supports-enhanced-consum",
+      "date": "2026-04-20",
+      "name": "Amazon MSK Replicator now supports enhanced consumer offset synchronization for bidirectional replication",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon MSK Replicator now provides enhanced consumer offset synchronization for bidirectional replication, enabling applications to resume processing from the correct position when moving across Kafka clusters. This c",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-msk-replicator-enhanced-consumer-offset-synchronization/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-20-aws-msk-replicator-now-supports-replication-from-exter",
+      "date": "2026-04-20",
+      "name": "MSK Replicator now supports replication from external Apache Kafka clusters to MSK Express Brokers",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon MSK Replicator now supports&nbsp;data replication&nbsp;from&nbsp;external&nbsp;Apache Kafka clusters—including on-premises, self-managed on AWS, or other cloud providers—to&nbsp;<a href=\"https://aws.amazon.com/",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-msk-replicator-external-kafka-cluster-support/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-20-aws-amazon-s3-express-one-zone-now-supports-s3-invento",
+      "date": "2026-04-20",
+      "name": "Amazon S3 Express One Zone now supports S3 Inventory",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon S3 Express One Zone, a high-performance S3 storage class for latency-sensitive applications, now supports S3 Inventory. S3 Inventory&nbsp;provides&nbsp;a scheduled alternative to S3's synchronous List API.&nbsp",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/s3-express-one-zone-supports-s3-inventory/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-20-aws-aws-managed-microsoft-ad-now-supports-kerberos-enc",
+      "date": "2026-04-20",
+      "name": "AWS Managed Microsoft AD now supports Kerberos Encryption audit event logs",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, AWS Managed Microsoft AD supports forwarding Kerberos&nbsp;Encryption audit&nbsp;event logs (Event IDs 201–209) to Amazon CloudWatch Logs. These logs provide visibility into the encryption types used b",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-managed-microsoft-ad-kerberose-encrption-logs/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-20-dust-spa-poke-76312ab",
+      "date": "2026-04-20",
+      "name": "spa/poke/76312ab",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Cache recent authors for agents (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/24478\">#24478</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F76312ab"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-20-dust-spa-poke-89df6ee-front-fix-mcp-static-credential-s",
+      "date": "2026-04-20",
+      "name": "spa/poke/89df6ee: [front] fix MCP static credential submit race (#24574)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>The Snowflake MCP connection flow was silently stalling with a \"form is<br />\nnot ready\" toast because staticFormRef.current was being nulled out<br />\nmid-submit. Root cause is two independent changes that interact b",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F89df6ee"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-20-dust-spa-poke-30ddb50",
+      "date": "2026-04-20",
+      "name": "spa/poke/30ddb50",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] chore: add members count in poke workspace info table (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/24529\">#24529</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F30ddb50"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-20-dust-spa-poke-5d03ad0-outlook-add-teams-meeting-link-to",
+      "date": "2026-04-20",
+      "name": "spa/poke/5d03ad0: [outlook] Add Teams meeting link to calendar events (#24573)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>All events created via the Outlook Calendar tool now automatically<br />\ninclude a Microsoft Teams meeting link (isOnlineMeeting: true by<br />\ndefault, mirroring Google Calendar's createConference behavior).</p>\n<p>T",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5d03ad0"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-20-dust-spa-poke-a8d7951-front-surface-mcp-snowflake-crede",
+      "date": "2026-04-20",
+      "name": "spa/poke/a8d7951: [front] surface MCP Snowflake credential form errors (#24543)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>The keypair credential form silently returned null from submit() whenever<br />\nreact-hook-form validation failed, so users saw \"Connect\" do nothing and<br />\nthe MCP tool stayed disconnected without any feedback.</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fa8d7951"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-20-crewai-1-14-3a1",
+      "date": "2026-04-20",
+      "name": "1.14.3a1",
+      "vendor": "CrewAI",
+      "type": "upgrade",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add checkpoint and fork support to standalone agents</li>\n</ul>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Preserve thought_signature in Gemini streaming tool calls</li>\n<li>Emit task_",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.3a1"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-04-17-aws-amazon-ec2-high-memory-u7i-instances-now-available",
       "date": "2026-04-17",
       "name": "Amazon EC2 High Memory U7i instances now available in AWS Asia Pacific (Singapore) region",
@@ -196,6 +484,42 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-04-17-aws-amazon-connect-flow-modules-now-work-across-all-fl",
+      "date": "2026-04-17",
+      "name": "Amazon Connect flow modules now work across all flow types and within other modules",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect now supports the use of flow modules across all Connect flows, allowing you to reuse common logic and functionality beyond inbound customer experiences. Flow modules organize repeatable logic and create",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-flow-modules-enhancements/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-17-aws-aws-clean-rooms-now-supports-configurable-spark-pr",
+      "date": "2026-04-17",
+      "name": "AWS Clean Rooms now supports configurable Spark properties for PySpark",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Clean Rooms now supports configurable <a href=\"https://docs.aws.amazon.com/clean-rooms/latest/userguide/run-jobs-with-analysis-template.html\" target=\"_blank\">Spark properties for PySpark jobs</a>, offering custome",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-clean-rooms-configurable-properties-pyspark/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
       "tags": []
     },
     {
@@ -749,330 +1073,6 @@
         {
           "title": "Dust source",
           "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5dae913"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-14-aws-aws-announces-general-availability-of-aws-intercon",
-      "date": "2026-04-14",
-      "name": "AWS announces general availability of AWS Interconnect - multicloud",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS announces general availability (GA) of AWS Interconnect - multicloud, providing simple, resilient, high-speed private connections to other cloud service providers (CSPs). With GA comes Google Cloud as the first la",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-announces-ga-AWS-interconnect-multicloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-13-openai-enterprises-power-agentic-workflows-in-cloudflare-",
-      "date": "2026-04-13",
-      "name": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/cloudflare-openai-agent-cloud"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-13-aws-amazon-redshift-introduces-key-performance-optimiz",
-      "date": "2026-04-13",
-      "name": "Amazon Redshift introduces key  performance  optimization for Top-K queries",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/redshift/\">Amazon Redshift</a> further optimizes the processing of top-k queries (queries with ORDER BY and LIMIT clauses) by intelligently skipping irrelevant data blocks to return res",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-redshift-topk-optimization/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-13-aws-amazon-ec2-m8i-and-m8i-flex-instances-are-now-avai",
-      "date": "2026-04-13",
-      "name": "Amazon EC2 M8i and M8i-flex instances are now available in AWS GovCloud (US-West) Region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon EC2 M8i and M8i-flex instances are now available in AWS GovCloud (US-West)<b> </b>Region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the hig",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-m8i-flex-govcloud-us-west/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-13-aws-amazon-ec2-r8i-and-r8i-flex-instances-are-now-avai",
-      "date": "2026-04-13",
-      "name": "Amazon EC2 R8i and R8i-flex instances are now available in AWS GovCloud (US-West) Region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8i and R8i-flex instances are available in the AWS GovCloud (US-West) Region. These instances are powered by custom Intel Xeon 6 processors, available only on",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-r8i-instances-govcloud-us-west/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-13-aws-aws-iot-is-now-available-in-israel-tel-aviv-and-eu",
-      "date": "2026-04-13",
-      "name": "AWS IoT is now available in Israel (Tel Aviv) and Europe (Milan) AWS Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS IoT Core and AWS IoT Device Management services are now available in the Israel (Tel Aviv) and Europe (Milan) AWS Regions. With this expansion, organizations operating in these regions can better serve their local",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-iot-israel-tel-aviv-europe-milan/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-13-aws-amazon-fsx-now-supports-copying-file-system-backup",
-      "date": "2026-04-13",
-      "name": "Amazon FSx now supports copying file system backups across AWS opt-in Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon&nbsp;FSx&nbsp;now supports copying file system backups across&nbsp;<a href=\"https://docs.aws.amazon.com/glossary/latest/reference/glos-chap.html#optinregion\">opt-in Regions</a>&nbsp;(AWS Regions that are disabl",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-fsx-copying-backups-opt-in-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-13-aws-aws-elastic-disaster-recovery-now-supports-ipv6",
-      "date": "2026-04-13",
-      "name": "AWS Elastic Disaster Recovery now supports IPv6",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS Elastic Disaster Recovery (AWS DRS) now supports IPv6 for both data replication and control plane connections. Customers operating in IPv6-only or dual-stack network environments can now configure AWS DRS to repli",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-elastic-disaster-recovery-ipv6/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-13-dust-spa-poke-7058fa3",
-      "date": "2026-04-13",
-      "name": "spa/poke/7058fa3",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[Agent Loop] Handle terminal runModel timeouts without failing workfl…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F7058fa3"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-13-dust-spa-poke-9a7c252-fix-deprecate-temporal-patch-for-",
-      "date": "2026-04-13",
-      "name": "spa/poke/9a7c252: fix: deprecate temporal patch for tool-denial continue loop (#24190)",
-      "vendor": "Dust",
-      "type": "deprecation",
-      "summary": "<p>Move the tool-denial-continue-loop patch from patched() to deprecatePatch()<br />\nnow that the initial fix has been deployed and all in-flight workflows have<br />\ncompleted.</p>\n<p>Co-authored-by: Claude Opus 4.6 (1M",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9a7c252"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-13-dust-spa-poke-2d1a1f1-unify-text-based-conversation-ren",
-      "date": "2026-04-13",
-      "name": "spa/poke/2d1a1f1: Unify text-based conversation rendering (#24137)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>Unify text-based conversation rendering into renderConversationAsText</li>\n</ul>\n<p>Extract a single renderConversationAsText function that both<br />\nformatConversationForDisplay and getShrinkWrappedConversatio",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2d1a1f1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-13-crewai-1-14-2a3",
-      "date": "2026-04-13",
-      "name": "1.14.2a3",
-      "vendor": "CrewAI",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add deploy validation CLI</li>\n<li>Improve LLM initialization ergonomics</li>\n</ul>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Override pypdf and uv to patched versions for <a href=\"ht",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.2a3"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-04-13-aws-nvidia-nemotron-3-super-120b-qwen3-5-9b-and-qwen3-",
-      "date": "2026-04-13",
-      "name": "NVIDIA Nemotron-3-Super-120B, Qwen3.5-9B, and Qwen3.5-27B models now available on Amazon SageMaker JumpStart",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>NVIDIA’s Nemotron-3-Super-120B, Qwen3.5-9B, and Qwen3.5-27B models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. These three models bring spe",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/nemotron3super-120b-qwen3.5-9b-qwen3.5-27b-on-sagemaker-jumpstart/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-13-aws-amazon-quick-now-supports-document-level-access-co",
-      "date": "2026-04-13",
-      "name": "Amazon Quick now supports document-level access controls for Google Drive knowledge bases",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Quick now supports document-level access controls (ACLs) for Google Drive knowledge bases, enabling organizations to maintain native Google Drive permissions when indexing content. Quick combines ACL replicatio",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-document-level-access-controls-google-drive/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-13-aws-aws-announces-general-availability-of-aws-intercon",
-      "date": "2026-04-13",
-      "name": "AWS announces general availability of AWS Interconnect - last mile",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS launches AWS Interconnect - last mile, a fully managed connectivity offering that allows customers to connect their branch offices, data centers, and remote locations to AWS with just a few clicks, eliminating the",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-announces-ga-AWS-interconnect-last-mile/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-12-openai-elevated-401-errors-for-api-endpoints",
-      "date": "2026-04-12",
-      "name": "Elevated 401 errors for API endpoints",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KP1PS4WFSH4CVJT0DJBKQ3FT"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-12-dust-spa-poke-80ae575-add-compactionmessageid-and-imple",
-      "date": "2026-04-12",
-      "name": "spa/poke/80ae575: Add compactionMessageId and implement batch rendering (#24109)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>Add compactionMessageId to CompactionMessageType and implement batch rendering</li>\n</ul>\n<p>Adds the <code>compactionMessageId</code> field (pointing to the CompactionMessageModel primary key) to<br />\n<code>Co",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F80ae575"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-12-dust-spa-app-80ae575-add-compactionmessageid-and-implem",
-      "date": "2026-04-12",
-      "name": "spa/app/80ae575: Add compactionMessageId and implement batch rendering (#24109)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>Add compactionMessageId to CompactionMessageType and implement batch rendering</li>\n</ul>\n<p>Adds the <code>compactionMessageId</code> field (pointing to the CompactionMessageModel primary key) to<br />\n<code>Co",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F80ae575"
         }
       ],
       "impact": 3,
