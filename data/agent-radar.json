@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "2026-04-22-openai-chatgpt-free-users-are-seeing-errors-when-having-c",
+      "date": "2026-04-22",
+      "name": "ChatGPT free users are seeing errors when having conversations",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Conversations (Partial outage)</li>\n          </ul>",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KPSB0GQZ0G7FT3GAV3H2Q8D8"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-04-21-openai-some-users-may-encounter-issues-with-gpt-5-4-c-mod",
       "date": "2026-04-21",
       "name": "Some users may encounter issues with GPT-5.4-C model in Codex",
@@ -16,6 +34,294 @@
       "impact": 5,
       "risk": 3,
       "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-21-aws-amazon-sagemaker-now-supports-multi-region-replica",
+      "date": "2026-04-21",
+      "name": "Amazon SageMaker now supports multi-region replication from IAM Identity Center",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker now supports multi-region replication from IAM Identity Center (IdC), enabling you to deploy SageMaker Unified Studio domains in different regions from your IdC instance. This new capability empowers ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/smus-identity-center/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-21-aws-introducing-the-amazon-eks-hybrid-nodes-gateway-fo",
+      "date": "2026-04-21",
+      "name": "Introducing the Amazon EKS Hybrid Nodes gateway for hybrid Kubernetes networking",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/eks/\">Amazon Elastic Kubernetes Service</a> (EKS) now offers the Amazon EKS Hybrid Nodes gateway, a feature that automates networking between your Amazon EKS cluster VPC and Kubernetes ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-eks-hybrid-nodes-gateway/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-21-aws-aws-marketplace-streamlines-vat-payment-for-deemed",
+      "date": "2026-04-21",
+      "name": "AWS Marketplace streamlines VAT payment for deemed supply transactions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Marketplace now offers sellers a streamlined self-service process to submit Value Added Tax (VAT) invoices and receive automated VAT disbursements for deemed supply of digital services in the European Union, Norwa",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-marketplace-vat/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-21-aws-aws-lambda-functions-can-now-mount-amazon-s3-bucke",
+      "date": "2026-04-21",
+      "name": "AWS Lambda functions can now mount Amazon S3 buckets as file systems with S3 Files",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Lambda now supports&nbsp;<a href=\"https://aws.amazon.com/s3/features/files/\" target=\"_blank\">Amazon S3 Files</a>, enabling your Lambda functions to mount Amazon S3 buckets as file systems and perform standard file",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-lambda-amazon-s3/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-21-aws-amazon-cloudwatch-pipelines-now-supports-configura",
+      "date": "2026-04-21",
+      "name": "Amazon CloudWatch pipelines now supports configuration of processors via AI",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon CloudWatch pipelines now lets you configure log processors using natural language descriptions powered by generative AI. CloudWatch pipelines is a fully managed service that ingests, transforms, and routes log ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-pipelines-ai-configuration/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-21-aws-aws-glue-now-supports-oauth-2-0-for-snowflake-conn",
+      "date": "2026-04-21",
+      "name": "AWS Glue now supports OAuth 2.0 for Snowflake connectivity",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, AWS Glue supports OAuth 2.0 authorization and authentication for native Snowflake connectivity, enabling customers to read from and write to Snowflake without sharing user credentials. This makes it ea",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-glue-oauth-snowflake-connectivity/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-21-aws-aws-transform-custom-is-now-available-in-six-addit",
+      "date": "2026-04-21",
+      "name": "AWS Transform custom is now available in six additional AWS Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Transform custom is now available in six additional AWS Regions: Asia Pacific (Mumbai, Tokyo, Seoul, Sydney), Canada (Central), and Europe (London).<br /> <br /> AWS Transform custom enables organizations to moder",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-atx-custom-additional-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-21-aws-amazon-ec2-g7e-instances-now-available-in-aws-loca",
+      "date": "2026-04-21",
+      "name": "Amazon EC2 G7e instances now available in AWS Local Zones in Los Angeles",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the general availability of <a href=\"https://aws.amazon.com/ec2/instance-types/g7e/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Elastic Compute Cloud (Amazon EC2) G7e instances</a> in AWS Lo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-g7e-instances-local-zones/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-21-aws-amazon-location-service-now-offers-bulk-address-va",
+      "date": "2026-04-21",
+      "name": "Amazon Location Service now offers bulk address validation for the United States, Canada, Australia, and the United Kingdom",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Location Service now offers bulk address validation for the United States, Canada, Australia, and the United Kingdom. Customers can now validate, correct, and standardize large volumes of addresses at scale, wh",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-location-service-bulk-address-validation/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-21-aws-amazon-aurora-serverless-up-to-30-better-performan",
+      "date": "2026-04-21",
+      "name": "Amazon Aurora serverless: Up to 30% better performance, smarter scaling, and still scales to zero",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/aurora/serverless/\">Amazon Aurora serverless</a> — the autoscaling database that scales up to support your most demanding workloads and down to zero when you don't need it — just go",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aurora-serverless-smarter-scaling/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-21-aws-aws-backup-adds-amazon-redshift-serverless-and-aur",
+      "date": "2026-04-21",
+      "name": "AWS Backup adds Amazon Redshift Serverless and Aurora DSQL support for AWS Organizations backup policies",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Backup now supports Amazon Redshift Serverless namespaces and Amazon Aurora DSQL clusters as resource types in AWS Organizations backup policies. Organization administrators can now define backup policy rules that",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/backup-policies-aurora-dsql-redshift-serverless/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-21-aws-aws-lambda-durable-execution-sdk-for-java-ga",
+      "date": "2026-04-21",
+      "name": "AWS Lambda Durable Execution SDK for Java GA",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS announces the general availability of the AWS Lambda Durable Execution SDK for Java, empowering Java developers to build resilient, long-running workflows using Lambda durable functions. With this SDK, deve",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/lambda-durable-execution-java-ga/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-21-aws-amazon-connect-outbound-campaigns-now-supports-con",
+      "date": "2026-04-21",
+      "name": "Amazon Connect Outbound Campaigns now supports contact priority ordering",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Connect&nbsp;Outbound&nbsp;Campaigns now&nbsp;allows&nbsp;you to dial contacts in configurable priority order based on up to 10 profile attributes for voice campaigns and voice activities in journeys.&nbsp;This",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-priority-dialing/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-21-dust-spa-poke-2284589-front-fix-revert-jira-and-mcp-cha",
+      "date": "2026-04-21",
+      "name": "spa/poke/2284589: [front] fix: revert Jira and MCP changes for multiple instances (#24648)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>Revert \"[front] chore: fix biome formatting in jira_api_helper (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/24568\">#24568</a>)\"</li>\n</ul>\n<p>This reverts commit <a class=\"comm",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2284589"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-21-dust-spa-poke-55a876c-remove-db-concurrency-from-update",
+      "date": "2026-04-21",
+      "name": "spa/poke/55a876c: Remove DB concurrency from updateActiveAgentsRequirements (#24624)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>updateActiveAgentsRequirements was processing all agents concurrently, leading to many concurrent DB connections.</p>\n<p>Even though it had a concurrency limit of 5, the problem is that they each called fetchMCPServer",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F55a876c"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-21-crewai-1-14-3a2",
+      "date": "2026-04-21",
+      "name": "1.14.3a2",
+      "vendor": "CrewAI",
+      "type": "launch",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add support for bedrock V4</li>\n<li>Add Daytona sandbox tools for enhanced functionality</li>\n<li>Add 'Build with AI' page — AI-native docs for coding agents</li>\n<li>Ad",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.3a2"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
       "tags": []
     },
     {
@@ -289,6 +595,42 @@
       "tags": []
     },
     {
+      "id": "2026-04-20-aws-amazon-connect-expands-agentic-voice-speech-to-spe",
+      "date": "2026-04-20",
+      "name": "Amazon Connect expands agentic voice speech-to-speech experiences to three new AWS Regions and ten locales",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect now expands agentic voice speech-to-speech experiences to three additional AWS Regions: Asia Pacific (Seoul), Asia Pacific (Singapore), and Europe (Frankfurt), along with new locales including Australia",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-aws/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-20-aws-amazon-connect-adds-touchtone-buffering-for-ai-pow",
+      "date": "2026-04-20",
+      "name": "Amazon Connect adds touchtone buffering for AI-powered self-service",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p><span>Amazon Connect now enables you to automatically pass customer context to personalize self-service experiences from the moment a call connects. When a customer initiates a call from a website, mobile app, or noti",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-touchtone-buffering/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-04-17-aws-amazon-ec2-high-memory-u7i-instances-now-available",
       "date": "2026-04-17",
       "name": "Amazon EC2 High Memory U7i instances now available in AWS Asia Pacific (Singapore) region",
@@ -523,6 +865,24 @@
       "tags": []
     },
     {
+      "id": "2026-04-17-aws-aws-neuron-sdk-2-29-0-now-available-with-nki-and-n",
+      "date": "2026-04-17",
+      "name": "AWS Neuron SDK 2.29.0 now available with NKI and Neuron Explorer out of Beta, a new CPU Simulator, and an expanded NKI Library",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>In this release, AWS Neuron SDK 2.29.0 promotes the Neuron Kernel Interface (NKI) from Beta to Stable with version 0.3.0. NKI gives developers direct, low-level programming access to AWS Trainium and AWS Inferentia Ne",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/announcing-neuron-2-29/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-04-16-openai-codex-for-almost-everything",
       "date": "2026-04-16",
       "name": "Codex for (almost) everything",
@@ -713,366 +1073,6 @@
         {
           "title": "Dust source",
           "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8ef7f4b"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-16-aws-amazon-cloudwatch-rum-now-available-in-aws-europea",
-      "date": "2026-04-16",
-      "name": "Amazon CloudWatch RUM now available in AWS European Sovereign Cloud",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon CloudWatch RUM (Real User Monitoring) is a feature of Amazon CloudWatch that enables developers and operations teams to collect, view, and analyze client-side performance data from real end-user sessions in web",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-cloudwatch-rum-european-sovereign-cloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-16-aws-amazon-ec2-x8aedz-instances-are-now-available-in-e",
-      "date": "2026-04-16",
-      "name": "Amazon EC2 X8aedz instances are now available in Europe (Stockholm) region",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) X8aedz instances are available in&nbsp;Europe (Stockholm) region. These instances are powered by 5th Gen AMD EPYC processors (formerly code named Turin). These",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-x8aedz-instances-stockholm/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-15-openai-the-next-evolution-of-the-agents-sdk",
-      "date": "2026-04-15",
-      "name": "The next evolution of the Agents SDK",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-15-aws-aws-payment-cryptography-now-available-in-south-am",
-      "date": "2026-04-15",
-      "name": "AWS Payment Cryptography now available in South America (São Paulo)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Payment Cryptography has expanded its global presence with availability in South America (São Paulo). This expansion enables customers with latency-sensitive payment applications to build, deploy or migrate into a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-payment-cryptography-south/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-15-aws-amazon-quick-introduces-sheet-tooltips-for-rich-co",
-      "date": "2026-04-15",
-      "name": "Amazon Quick Introduces Sheet Tooltips for Rich, Contextual Data Exploration",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/quick/quicksight/\" rel=\"noopener noreferrer\" target=\"_blank\">Quick Sight in Amazon Quick</a> now supports sheet tooltips, enabling authors to surface rich, contextual detail when viewer",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/quick-sheet-tooltips/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-15-dust-spa-poke-620523b-front-enh-add-dialog-upon-disabli",
-      "date": "2026-04-15",
-      "name": "spa/poke/620523b: [front] enh: add dialog upon disabling provider workspace-wide (#24332)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>add disable provider dialog</p>\n</li>\n<li>\n<p>format</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F620523b"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-15-dust-spa-poke-169f8a6-cache-credits-balance-from-metron",
-      "date": "2026-04-15",
-      "name": "spa/poke/169f8a6: Cache credits balance from Metronome (#23926)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>Cache credits balance from Metronome</li>\n</ul>\n<h1>Conflicts:</h1>\n<h1>front/components/assistant/conversation/ConversationContainer.tsx</h1>\n<ul>\n<li>\n<p>simplify hasCredits</p>\n</li>\n<li>\n<p>add FF</p>\n</li>\n",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F169f8a6"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-15-dust-spa-poke-44b08ac-feat-add-command-palette-cmd-k-v0",
-      "date": "2026-04-15",
-      "name": "spa/poke/44b08ac: feat: add command palette (Cmd+K) v0 - silent ship (#24194)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>Vary basic command palette with easy access to agents &amp; skills</p>\n</li>\n<li>\n<p>Apply feedback</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F44b08ac"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-15-dust-spa-poke-30ef146",
-      "date": "2026-04-15",
-      "name": "spa/poke/30ef146",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Do not track <code>agent_inaccessible</code> error in run_agent (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/24303\">#24303</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F30ef146"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-15-crewai-1-14-2rc1",
-      "date": "2026-04-15",
-      "name": "1.14.2rc1",
-      "vendor": "CrewAI",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Fix handling of cyclic JSON schemas in MCP tool resolution</li>\n<li>Fix vulnerability by bumping python-multipart to 0.0.26</li>\n<li>Fix vulnerability by bumping pypdf ",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.2rc1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-04-14-openai-elevated-401-errors-for-api-endpoints",
-      "date": "2026-04-14",
-      "name": "Elevated 401 errors for API endpoints",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Responses (Degraded performance)</li>\n<li>Chat Compl",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KP1PS4WFSH4CVJT0DJBKQ3FT"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-14-aws-amazon-ec2-p6-b300-instances-are-now-available-in-",
-      "date": "2026-04-14",
-      "name": "Amazon EC2 P6-B300 instances are now available in the AWS GovCloud (US-East) Region",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Starting today, Amazon Elastic Cloud Compute (Amazon EC2) P6-B300 instances are available in the AWS GovCloud (US-East) Region. P6-B300 instances provide 8x NVIDIA Blackwell Ultra GPUs with 2.1 TB high bandwidth GPU m",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-p6-b300-govcloud-us-east/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-14-aws-aws-transform-is-now-available-in-kiro-and-vs-code",
-      "date": "2026-04-14",
-      "name": "AWS Transform is now available in Kiro and VS Code",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Transform is now available through two additional developer tools — including Kiro and VS Code. <a href=\"https://aws.amazon.com/transform\">AWS Transform</a> is an agentic migration and modernization factory design",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-transform-kiro-vscode/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-14-aws-aws-secrets-manager-now-supports-hybrid-post-quant",
-      "date": "2026-04-14",
-      "name": "AWS Secrets Manager now supports hybrid post-quantum TLS to protect secrets from quantum threats",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Secrets Manager now&nbsp;supports&nbsp;hybrid post-quantum key exchange using ML-KEM (Module-Lattice-based Key-Encapsulation Mechanism) to secure TLS connections for retrieving and managing secrets. This protectio",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-secrets-manager-post-quantum-tls/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-14-flowise-flowise-ui-3-1-2-release-3-1-2-6215",
-      "date": "2026-04-14",
-      "name": "flowise-ui@3.1.2: Release/3.1.2 (#6215)",
-      "vendor": "Flowise",
-      "type": "upgrade",
-      "summary": "<p>release@3.1.2</p>\n<p>Co-authored-by: yau-wd <a href=\"mailto:yau.ong@workday.com\">yau.ong@workday.com</a></p>",
-      "sources": [
-        {
-          "title": "Flowise source",
-          "url": "https://github.com/FlowiseAI/Flowise/releases/tag/flowise-ui%403.1.2"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-04-14-flowise-flowise-components-3-1-2-release-3-1-2-6215",
-      "date": "2026-04-14",
-      "name": "flowise-components@3.1.2: Release/3.1.2 (#6215)",
-      "vendor": "Flowise",
-      "type": "upgrade",
-      "summary": "<p>release@3.1.2</p>\n<p>Co-authored-by: yau-wd <a href=\"mailto:yau.ong@workday.com\">yau.ong@workday.com</a></p>",
-      "sources": [
-        {
-          "title": "Flowise source",
-          "url": "https://github.com/FlowiseAI/Flowise/releases/tag/flowise-components%403.1.2"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-04-14-flowise-flowise-3-1-2",
-      "date": "2026-04-14",
-      "name": "flowise@3.1.2",
-      "vendor": "Flowise",
-      "type": "pricing",
-      "summary": "<h2>What's Changed</h2>\n<ul>\n<li>Hardcoded CORS wildcard on TTS endpoint enables cross-origin credential abuse from any webpage by <a class=\"user-mention notranslate\" href=\"https://github.com/christopherholland-workday\">",
-      "sources": [
-        {
-          "title": "Flowise source",
-          "url": "https://github.com/FlowiseAI/Flowise/releases/tag/flowise%403.1.2"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-04-14-dust-spa-poke-99a2535-feat-build-agent-loop-context-for",
-      "date": "2026-04-14",
-      "name": "spa/poke/99a2535: feat: build agent loop context for sandbox tool calls (#24227)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>feat: build agent loop context for sandbox tool calls</p>\n</li>\n<li>\n<p>review feedback</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F99a2535"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-14-dust-spa-poke-62f5f21-outlook-mcp-enhancements-24222",
-      "date": "2026-04-14",
-      "name": "spa/poke/62f5f21: Outlook MCP Enhancements (#24222)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>Enable send mail tool and workspace credentials for Outlook MCP</p>\n</li>\n<li>\n<p>Enable migration disabling send_mail for existing Outlook instances</p>\n</li>\n<li>\n<p>Make Mail.Send an optional permission i",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F62f5f21"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-14-dust-spa-poke-5dae913",
-      "date": "2026-04-14",
-      "name": "spa/poke/5dae913",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Remove redundant authType workspaceId guards (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/24214\">#24214</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5dae913"
         }
       ],
       "impact": 3,
