@@ -1,6 +1,294 @@
 {
   "items": [
     {
+      "id": "2026-04-23-openai-elevated-error-rates-and-latency-for-moderation-ap",
+      "date": "2026-04-23",
+      "name": "Elevated error rates and latency for Moderation API",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Resolved</b><br /><br />Error rates and latency for the Moderation API have returned to normal levels after mitigation.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Moderations (Operation",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KPXKMRJ72KA5SYTEH509CQA5"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-23-aws-aws-parallel-computing-service-now-supports-slurm-",
+      "date": "2026-04-23",
+      "name": "AWS Parallel Computing Service now supports Slurm 25.11",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Parallel Computing Service (AWS PCS) now supports Slurm version 25.11, with support for a Prometheus-compatible OpenMetrics endpoint, and introduces new log types including scheduler audit logs.<br /> <br /> This ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-pcs-slurm-25-11/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-23-aws-amazon-sagemaker-supports-notebooks-and-data-agent",
+      "date": "2026-04-23",
+      "name": "Amazon SageMaker supports notebooks and data agent for IdC domains",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker Unified Studio now supports serverless notebooks with a built-in data agent for AWS IAM Identity Center (IdC) domains. Previously, the notebook experience and data agent were available only in IAM dom",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-idc/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-23-aws-attributed-revenue-dashboard-now-available-in-aws-",
+      "date": "2026-04-23",
+      "name": "Attributed Revenue Dashboard Now Available in AWS Partner Central",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the launch of the <a href=\"https://aws.amazon.com/blogs/apn/unlock-revenue-insights-in-the-new-attributed-revenue-dashboard/\">Attributed Revenue dashboard</a> in AWS Partner Central in the AWS Con",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/attributed-revenue-dashboard-launch/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-23-aws-aws-elastic-beanstalk-ai-powered-environment-analy",
+      "date": "2026-04-23",
+      "name": "AWS Elastic Beanstalk AI-powered environment analysis now supports Windows",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS Elastic Beanstalk AI-powered environment analysis is now available on Windows Server platforms. Previously available on Amazon Linux 2 and AL2023, this feature now extends to Windows-based environments, enabling y",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/elastic-beanstalk-ai-analysis-windows/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-23-aws-second-generation-aws-outposts-racks-now-supported",
+      "date": "2026-04-23",
+      "name": "Second-generation AWS Outposts racks now supported in the AWS Asia Pacific (Seoul, Sydney) and Europe (Paris) Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Second-generation AWS Outposts racks are now supported in the AWS Asia Pacific (Seoul, Sydney) and Europe (Paris) Regions. Outposts racks extend AWS infrastructure, AWS services, APIs, and tools to virtually any on-pr",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/second-generation-aws-outposts-racks-sydney-seoul-paris/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-23-aws-amazon-quick-now-supports-multiple-owners-for-admi",
+      "date": "2026-04-23",
+      "name": "Amazon Quick now supports multiple owners for admin-managed SharePoint and Google Drive knowledge bases",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Quick now enables you to add co-owners to knowledge bases and data source connections for admin-managed Microsoft SharePoint Online and Google Drive integrations. This makes it easier to collaborate across team",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-sharepoint/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-23-aws-amazon-ec2-x8g-instances-now-available-in-europe-i",
+      "date": "2026-04-23",
+      "name": "Amazon EC2 X8g instances now available in Europe (Ireland) region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) X8g instances are available in Europe (Ireland) region. These instances are powered by AWS Graviton4 processors and deliver up to 60% better performance than A",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-x8g-instances-europe-ireland/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-23-aws-amazon-redshift-supports-update-delete-merge-for-a",
+      "date": "2026-04-23",
+      "name": "Amazon Redshift supports UPDATE, DELETE, MERGE for Apache Iceberg tables",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/redshift/\">Amazon Redshift</a> now supports row-level UPDATE, DELETE, and MERGE operations on Apache Iceberg tables. Customers who use Iceberg to build interoperable data lakes can now ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/redshift-update-delete-merge-iceberg-tables/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-23-aws-amazon-quick-now-supports-permission-verification-",
+      "date": "2026-04-23",
+      "name": "Amazon Quick now supports permission verification for ACL-enabled knowledge bases",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Quick now provides ACL verification for ACL enabled knowledge bases, enabling administrators to check whether a specific user has access to a specific document. This feature simplifies troubleshooting access is",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-acl/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-23-aws-amazon-s3-now-supports-five-additional-checksum-al",
+      "date": "2026-04-23",
+      "name": "Amazon S3 now supports five additional checksum algorithms",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon S3 now supports five additional checksum algorithms: MD5, XXHash3, XXHash64, XXHash128, and SHA-512, bringing the total to ten. S3 validates and stores the checksum alongside your object for any of these suppor",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/s3-five-additional-checksum-algorithms/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-23-aws-aws-backup-expands-support-for-amazon-aurora-pitr-",
+      "date": "2026-04-23",
+      "name": "AWS Backup expands support for Amazon Aurora PITR to six Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Backup support for Amazon Aurora Point-in-time Recovery (PITR) is now available in six additional AWS Regions: Asia Pacific (Malaysia, Thailand, Taipei, New Zealand), Canada West (Calgary) and Mexico (Central).</p",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-backup-amazon-aurora-pitr/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-23-aws-amazon-sagemaker-unified-studio-now-supports-vpc-f",
+      "date": "2026-04-23",
+      "name": "Amazon SageMaker Unified Studio now supports VPC for notebook kernels",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker Unified Studio now supports Amazon Virtual Private Cloud (Amazon VPC) for notebook kernels. With this launch, notebook kernels execute within the VPC configured at the domain level, giving enterprises",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-unified-studio-vpc/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-23-dust-spa-poke-8977397",
+      "date": "2026-04-23",
+      "name": "spa/poke/8977397",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] fix: route EU workspaces back to Gemini for image generation …</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8977397"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-23-dust-spa-poke-1936ce5-add-sidebar-wake-up-indicator-on-",
+      "date": "2026-04-23",
+      "name": "spa/poke/1936ce5: Add: sidebar wake-up indicator on conversation list items (#24795)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>Add: sidebar wake-up indicator on conversation list items</li>\n</ul>\n<p>Surfaces the scheduled wake-up time next to each conversation title in the<br />\nsidebar, driven by next_wakeup_at on the ES conversation_s",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F1936ce5"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-23-dust-spa-poke-f6afc72-fix-sbx-run-egress-forwarder-as-r",
+      "date": "2026-04-23",
+      "name": "spa/poke/f6afc72: fix(sbx): run egress forwarder as root instead of dust-fwd (#24749)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>E2B's exec API wraps commands in /bin/bash -l -c which fails with<br />\n\"fork/exec /bin/sh: permission denied\" when running as dust-fwd.<br />\nRevert to running the forwarder as root. The nftables rules are<br />\nuid-",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Ff6afc72"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-04-22-openai-chatgpt-free-users-are-seeing-errors-when-having-c",
       "date": "2026-04-22",
       "name": "ChatGPT free users are seeing errors when having conversations",
@@ -785,294 +1073,6 @@
         {
           "title": "Dust source",
           "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F76312ab"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-20-dust-spa-poke-89df6ee-front-fix-mcp-static-credential-s",
-      "date": "2026-04-20",
-      "name": "spa/poke/89df6ee: [front] fix MCP static credential submit race (#24574)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>The Snowflake MCP connection flow was silently stalling with a \"form is<br />\nnot ready\" toast because staticFormRef.current was being nulled out<br />\nmid-submit. Root cause is two independent changes that interact b",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F89df6ee"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-20-dust-spa-poke-30ddb50",
-      "date": "2026-04-20",
-      "name": "spa/poke/30ddb50",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] chore: add members count in poke workspace info table (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/24529\">#24529</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F30ddb50"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-20-dust-spa-poke-5d03ad0-outlook-add-teams-meeting-link-to",
-      "date": "2026-04-20",
-      "name": "spa/poke/5d03ad0: [outlook] Add Teams meeting link to calendar events (#24573)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>All events created via the Outlook Calendar tool now automatically<br />\ninclude a Microsoft Teams meeting link (isOnlineMeeting: true by<br />\ndefault, mirroring Google Calendar's createConference behavior).</p>\n<p>T",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5d03ad0"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-20-dust-spa-poke-a8d7951-front-surface-mcp-snowflake-crede",
-      "date": "2026-04-20",
-      "name": "spa/poke/a8d7951: [front] surface MCP Snowflake credential form errors (#24543)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>The keypair credential form silently returned null from submit() whenever<br />\nreact-hook-form validation failed, so users saw \"Connect\" do nothing and<br />\nthe MCP tool stayed disconnected without any feedback.</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fa8d7951"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-20-crewai-1-14-3a1",
-      "date": "2026-04-20",
-      "name": "1.14.3a1",
-      "vendor": "CrewAI",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add checkpoint and fork support to standalone agents</li>\n</ul>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Preserve thought_signature in Gemini streaming tool calls</li>\n<li>Emit task_",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.3a1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-04-20-aws-amazon-connect-expands-agentic-voice-speech-to-spe",
-      "date": "2026-04-20",
-      "name": "Amazon Connect expands agentic voice speech-to-speech experiences to three new AWS Regions and ten locales",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect now expands agentic voice speech-to-speech experiences to three additional AWS Regions: Asia Pacific (Seoul), Asia Pacific (Singapore), and Europe (Frankfurt), along with new locales including Australia",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-aws/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-20-aws-amazon-connect-adds-touchtone-buffering-for-ai-pow",
-      "date": "2026-04-20",
-      "name": "Amazon Connect adds touchtone buffering for AI-powered self-service",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p><span>Amazon Connect now enables you to automatically pass customer context to personalize self-service experiences from the moment a call connects. When a customer initiates a call from a website, mobile app, or noti",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-touchtone-buffering/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-17-aws-amazon-ec2-high-memory-u7i-instances-now-available",
-      "date": "2026-04-17",
-      "name": "Amazon EC2 High Memory U7i instances now available in AWS Asia Pacific (Singapore) region",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon EC2 High Memory U7i-8TB instances (u7i-8tb.112xlarge) and U7i-12TB instances (u7i-12tb.224xlarge) are now available in AWS Asia Pacific (Singapore) region. U7i instances are part of AWS 7th generation and are p",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-high-memory-u7i-asia-pacific/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-17-aws-aws-deadline-cloud-announces-ai-powered-troublesho",
-      "date": "2026-04-17",
-      "name": "AWS Deadline Cloud announces AI-powered troubleshooting assistant for render jobs",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS Deadline Cloud announces an AI-powered troubleshooting assistant that helps you quickly diagnose and resolve render job failures. AWS Deadline Cloud is a fully managed service that simplifies render managem",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/deadline-cloud-ai-troubleshooting/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-17-aws-amazon-managed-grafana-now-supports-creating-grafa",
-      "date": "2026-04-17",
-      "name": "Amazon Managed Grafana now supports creating Grafana 12.4 workspaces",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Managed Grafana&nbsp;now supports creating new workspaces with&nbsp;Grafana version 12.4.&nbsp;&nbsp;This release includes features that were launched as a part of open source Grafana versions 11.0&nbsp;to 12.4",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-managed-grafana-v12-create/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-17-aws-sagemaker-jumpstart-now-offers-optimized-deploymen",
-      "date": "2026-04-17",
-      "name": "SageMaker JumpStart now offers optimized deployments for foundation models",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>SageMaker JumpStart now offers optimized deployments, enabling customers to deploy foundation models with pre-configured settings tailored to specific use cases and performance constraints. SageMaker JumpStart optimiz",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-jumpstart-optimized-deployments/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-17-dust-spa-poke-33418f9-hubspot-add-marketing-email-scope",
-      "date": "2026-04-17",
-      "name": "spa/poke/33418f9: [hubspot] Add marketing email scopes & endpoints to HubSpot MCP (#24224)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>add new scopes and endpoints</p>\n</li>\n<li>\n<p>format</p>\n</li>\n<li>\n<p>update snapshot</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F33418f9"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-17-dust-spa-poke-912f8bf-sandbox-bake-egress-plumbing-into",
-      "date": "2026-04-17",
-      "name": "spa/poke/912f8bf: sandbox: bake egress plumbing into image (dormant, uid-scoped) (#24424)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>sandbox: bake egress plumbing into image (dormant, uid-scoped)</li>\n</ul>\n<p>Adds dust-fwd system user, iptables package, and /etc/dust to the bedrock<br />\nimage. In the template layer, creates the dormant agen",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F912f8bf"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-17-dust-spa-poke-83dfec9",
-      "date": "2026-04-17",
-      "name": "spa/poke/83dfec9",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>[front] feat: GA skills import from GitHub repository/files (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/24463\">#24463</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F83dfec9"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-17-dust-spa-poke-70e032a-proposal-wake-up-implementation-p",
-      "date": "2026-04-17",
-      "name": "spa/poke/70e032a: proposal: wake-up implementation plan (x/spolu/wakeup) (#24494)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>Split the wake-up feature into 11 PRs across 7 milestones: data layer,<br />\nTemporal execution, agent action, security, API+UI, cron, cleanup+GA.</p>\n<p>Co-authored-by: Claude Opus 4.6 (1M context) <a href=\"mailto:no",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F70e032a"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-17-dust-spa-poke-48e12e5-audit-logs-fill-a-few-gaps-in-our",
-      "date": "2026-04-17",
-      "name": "spa/poke/48e12e5: [audit logs] fill a few gaps in our logging  (#24427)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>\n<p>[front] feat(audit): inject actor_type and add new actions/targets</p>\n</li>\n<li>\n<p>[front] chore(audit): add actor_type field to existing event schemas</p>\n</li>\n<li>\n<p>[front] feat(audit): add Phase 2 ev",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F48e12e5"
         }
       ],
       "impact": 3,
