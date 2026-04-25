@@ -1,6 +1,204 @@
 {
   "items": [
     {
+      "id": "2026-04-24-aws-aws-lambda-provisioned-mode-for-kafka-event-source",
+      "date": "2026-04-24",
+      "name": "AWS Lambda Provisioned Mode for Kafka event source mappings (ESMs) now available in AWS Asia Pacific (Taipei) and AWS GovCloud (US) Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Lambda now supports Provisioned Mode for event source mappings (ESMs) that subscribe to Apache Kafka event sources in the Asia Pacific (Taipei), AWS GovCloud (US-East), and AWS GovCloud (US-West) Regions. Provisio",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-Lambda-provisioned-esm-region-expansion/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-24-aws-amazon-quick-now-integrates-with-visier-s-vee-agen",
+      "date": "2026-04-24",
+      "name": "Amazon Quick now integrates with Visier’s Vee agent for workforce intelligence",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Quick now integrates with Vee, the AI assistant from Visier's people analytics platform, through the model context protocol (MCP). HR business partners, finance managers, and operations leaders can now get gove",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-visier-vee/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-24-aws-amazon-bedrock-agentcore-gateway-and-identity-supp",
+      "date": "2026-04-24",
+      "name": "Amazon Bedrock AgentCore Gateway and Identity support VPC egress",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock AgentCore Gateway and Identity now provide secure and controlled egress traffic management for your applications, enabling seamless communication with resources in your Virtual Private Cloud (VPC). VPC ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2024/04/agentcore-gateway-identity-vpc/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-24-aws-amazon-connect-now-provides-eight-new-metrics-to-m",
+      "date": "2026-04-24",
+      "name": "Amazon Connect now provides eight new metrics to measure and improve AI agent performance",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect now provides eight new metrics to measure and improve AI agent performance, including goal success rate, faithfulness score, and tool selection accuracy. These metrics offer visibility into the quality ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-ai-agent-metrics/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-24-aws-amazon-ec2-high-memory-u7i-instances-now-available",
+      "date": "2026-04-24",
+      "name": "Amazon EC2 High Memory U7i instances now available in additional regions",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon EC2 High Memory U7i-8TB instances (u7i-8tb.112xlarge) are now available in AWS Europe (Stockholm, Zurich) regions, U7in-16TB instances (u7in-16tb.224xlarge) are now available in the AWS US East (Ohio) region, a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-high-memory-u7i/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-24-aws-aws-marketplace-management-portal-now-supports-ban",
+      "date": "2026-04-24",
+      "name": "AWS Marketplace Management Portal now supports bank account deletion",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Marketplace sellers can now delete bank accounts directly from the Payment Settings page in the AWS Marketplace Management Portal (AMMP). This new self-service capability addresses a long-standing gap in payment a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-marketplace-management-portal/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-24-dust-spa-poke-6670795",
+      "date": "2026-04-24",
+      "name": "spa/poke/6670795",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>fix: count mention-less web messages against plan limit (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/24845\">#24845</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6670795"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-24-dust-spa-poke-84dc1b8-feat-sbx-workspace-egress-policy-",
+      "date": "2026-04-24",
+      "name": "spa/poke/84dc1b8: feat(sbx): workspace egress policy management (#24817)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>feat(sbx): workspace egress policy management UI and API</li>\n</ul>\n<p>Workspace admins can now manage their sandbox egress domain allowlist<br />\nthrough a new \"Network\" page under developer settings. The allow",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F84dc1b8"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-24-dust-spa-poke-53cba46-redo-remove-all-reinforcement-age",
+      "date": "2026-04-24",
+      "name": "spa/poke/53cba46: Redo \"Remove all reinforcement agent code\"\" (#24802)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Had been reverted because of helm chart mismatch. Redoing now.</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F53cba46"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-24-dust-spa-poke-f8e24ca",
+      "date": "2026-04-24",
+      "name": "spa/poke/f8e24ca",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>[front] feat: add keyboard navigation in <code>UserAnswerRequired</code> (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/24759\">#24759</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Ff8e24ca"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-24-crewai-1-14-3",
+      "date": "2026-04-24",
+      "name": "1.14.3",
+      "vendor": "CrewAI",
+      "type": "pricing",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add lifecycle events for checkpoint operations</li>\n<li>Add support for e2b</li>\n<li>Fall back to DefaultAzureCredential when no API key is provided in Azure integration",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.3"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-04-23-openai-elevated-error-rates-and-latency-for-moderation-ap",
       "date": "2026-04-23",
       "name": "Elevated error rates and latency for Moderation API",
@@ -284,6 +482,42 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-23-aws-aws-client-vpn-now-supports-native-aws-transit-gat",
+      "date": "2026-04-23",
+      "name": "AWS Client VPN now supports native AWS Transit Gateway integration",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Client VPN now supports native integration with AWS Transit Gateway, simplifying centralized remote access for your end users across multiple VPCs and on-premises, and providing end-to-end source IP visibility.<br",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-client-vpn-transit-gateway/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-23-aws-aws-compute-optimizer-supports-162-new-ec2-instanc",
+      "date": "2026-04-23",
+      "name": "AWS Compute Optimizer supports 162 new EC2 instance types and 32 new RDS DB instance classes",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Compute Optimizer now supports the latest generation of Amazon Elastic Compute Cloud (Amazon EC2) and Amazon Relational Database Service (Amazon RDS) instance types. This expansion enables Compute Optimizer to hel",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-compute-optimizer-ec2-rds/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -839,240 +1073,6 @@
         {
           "title": "Dust source",
           "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F55a876c"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-21-crewai-1-14-3a2",
-      "date": "2026-04-21",
-      "name": "1.14.3a2",
-      "vendor": "CrewAI",
-      "type": "launch",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add support for bedrock V4</li>\n<li>Add Daytona sandbox tools for enhanced functionality</li>\n<li>Add 'Build with AI' page — AI-native docs for coding agents</li>\n<li>Ad",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.3a2"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-04-21-aws-amazon-sagemaker-ai-launches-optimized-generative-",
-      "date": "2026-04-21",
-      "name": "Amazon SageMaker AI launches optimized generative AI inference recommendations",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon SageMaker AI now supports inference recommendations, a new capability that eliminates manual optimization and benchmarking to deliver optimal inference performance. By delivering validated, optimal deployment c",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-ai-inference-rec/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-21-aws-five-new-qwen-models-for-coding-agents-and-efficie",
-      "date": "2026-04-21",
-      "name": "Five new Qwen models for coding agents and efficient reasoning are now available in Amazon SageMaker JumpStart",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announced the availability of Qwen3-Coder-Next, Qwen3-30B-A3B, Qwen3-30B-A3B-Thinking-2507, Qwen3-Coder-30B-A3B-Instruct, and Qwen3.5-4B in Amazon SageMaker JumpStart, expanding the portfolio of foundation ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/qwen-models-on-sagemaker-jumpstart/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-20-openai-users-unable-to-load-chatgpt-codex-and-api-platfor",
-      "date": "2026-04-20",
-      "name": "Users unable to load ChatGPT, Codex and API Platform",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Login (Operational)</li>\n<li>File uploads (Operational)</li>\n<li>Compl",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KPNN2V2SMP3TAN3MCJK87W50"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-20-aws-aws-iot-greengrass-v2-17-now-supports-non-root-ins",
-      "date": "2026-04-20",
-      "name": "AWS IoT Greengrass v2.17 now supports non-root installation and introduces new light weight components",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://docs.aws.amazon.com/greengrass/v2/developerguide/greengrass-release-2026-04-16.html\">AWS IoT Greengrass v2.17</a>&nbsp;is now available, enabling you to run the edge runtime as a non-root user on Linu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-iot-greengrass-v217/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-20-aws-amazon-documentdb-with-mongodb-compatibility-now-s",
-      "date": "2026-04-20",
-      "name": "Amazon DocumentDB (with MongoDB compatibility) now supports in-place upgrade from version 5.0 to 8.0",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/documentdb/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon DocumentDB (with MongoDB compatibility)</a>&nbsp;supports in-place major version upgrade (MVU) from version 5.0 to 8.0. You",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-documentdb-mongodb-in-place-version-upgrade-5-0-to-8-0/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-20-aws-amazon-eks-enhances-cluster-governance-with-new-ia",
-      "date": "2026-04-20",
-      "name": "Amazon EKS enhances cluster governance with new IAM condition keys",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/eks/\" target=\"_blank\">Amazon Elastic Kubernetes Service</a> (EKS) now supports seven additional <a href=\"https://docs.aws.amazon.com/service-authorization/latest/reference/list_amazonel",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-eks-iam-condition-keys/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-20-aws-amazon-msk-replicator-now-supports-log-forwarding-",
-      "date": "2026-04-20",
-      "name": "Amazon MSK Replicator now supports log forwarding for replication visibility",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon MSK Replicator now delivers replicator logs to give you end-to-end visibility into replication health. Replicator logs surface critical replication events and errors&nbsp;along with guidance on&nbsp;how to reso",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-msk-replicator-logs/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-20-aws-amazon-msk-replicator-now-supports-enhanced-consum",
-      "date": "2026-04-20",
-      "name": "Amazon MSK Replicator now supports enhanced consumer offset synchronization for bidirectional replication",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon MSK Replicator now provides enhanced consumer offset synchronization for bidirectional replication, enabling applications to resume processing from the correct position when moving across Kafka clusters. This c",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-msk-replicator-enhanced-consumer-offset-synchronization/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-20-aws-msk-replicator-now-supports-replication-from-exter",
-      "date": "2026-04-20",
-      "name": "MSK Replicator now supports replication from external Apache Kafka clusters to MSK Express Brokers",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon MSK Replicator now supports&nbsp;data replication&nbsp;from&nbsp;external&nbsp;Apache Kafka clusters—including on-premises, self-managed on AWS, or other cloud providers—to&nbsp;<a href=\"https://aws.amazon.com/",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-msk-replicator-external-kafka-cluster-support/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-20-aws-amazon-s3-express-one-zone-now-supports-s3-invento",
-      "date": "2026-04-20",
-      "name": "Amazon S3 Express One Zone now supports S3 Inventory",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon S3 Express One Zone, a high-performance S3 storage class for latency-sensitive applications, now supports S3 Inventory. S3 Inventory&nbsp;provides&nbsp;a scheduled alternative to S3's synchronous List API.&nbsp",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/s3-express-one-zone-supports-s3-inventory/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-20-aws-aws-managed-microsoft-ad-now-supports-kerberos-enc",
-      "date": "2026-04-20",
-      "name": "AWS Managed Microsoft AD now supports Kerberos Encryption audit event logs",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, AWS Managed Microsoft AD supports forwarding Kerberos&nbsp;Encryption audit&nbsp;event logs (Event IDs 201–209) to Amazon CloudWatch Logs. These logs provide visibility into the encryption types used b",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-managed-microsoft-ad-kerberose-encrption-logs/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-20-dust-spa-poke-76312ab",
-      "date": "2026-04-20",
-      "name": "spa/poke/76312ab",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Cache recent authors for agents (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/24478\">#24478</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F76312ab"
         }
       ],
       "impact": 3,
