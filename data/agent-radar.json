@@ -1,6 +1,240 @@
 {
   "items": [
     {
+      "id": "2026-04-27-openai-an-open-source-spec-for-orchestration-symphony",
+      "date": "2026-04-27",
+      "name": "An open-source spec for orchestration: Symphony",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/open-source-codex-orchestration-symphony"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-27-openai-choco-automates-food-distribution-with-ai-agents",
+      "date": "2026-04-27",
+      "name": "Choco automates food distribution with AI agents",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/choco"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-27-aws-aws-kms-now-tracks-last-usage-of-all-kms-keys",
+      "date": "2026-04-27",
+      "name": "AWS KMS now tracks last usage of all KMS keys",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/kms/\">AWS Key Management Service (KMS)</a> now provides visibility into the last cryptographic operation performed with your KMS keys, eliminating the need to manually query and analyze",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-kms-tracks-last-usage-kms-keys/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-27-aws-amazon-redshift-serverless-is-now-available-in-the",
+      "date": "2026-04-27",
+      "name": "Amazon Redshift Serverless is now available in the AWS Asia Pacific (Melbourne) and Canada West (Calgary) regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/redshift/redshift-serverless/\">Amazon Redshift Serverless</a>, which allows you to run and scale analytics without having to provision and manage data warehouse clusters, is now general",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-redshift-serverless-melbourne-calgary-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-27-aws-amazon-connect-increases-attachment-file-sizes-and",
+      "date": "2026-04-27",
+      "name": "Amazon Connect increases attachment file sizes and adds custom file types",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect now supports attachment file sizes up to 100 MB for chat, cases, and tasks, up from the previous 20 MB limit.&nbsp;Administrators can enable these higher limits and configure custom file extensions for ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-increases-attachment/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-27-aws-amazon-fsx-for-openzfs-single-az-ha-file-systems-a",
+      "date": "2026-04-27",
+      "name": "Amazon FSx for OpenZFS Single-AZ (HA) file systems are now available in 17 additional AWS commercial and AWS GovCloud (US) Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>You can now create Amazon FSx for OpenZFS Single-AZ (HA) file systems in seventeen additional AWS Regions across the South America, Europe, Africa, Asia Pacific, and AWS GovCloud (US).</p> \n<p>Amazon FSx for OpenZFS p",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-fsx-openzfs-single-az-ha/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-27-aws-amazon-sagemaker-hyperpod-now-supports-g7e-and-r5d",
+      "date": "2026-04-27",
+      "name": "Amazon SageMaker HyperPod now supports G7e and r5d.16xlarge instances",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon SageMaker HyperPod now supports <a href=\"https://aws.amazon.com/ec2/instance-types/g7e/\" target=\"_blank\">G7e</a> and r5d.16xlarge instances. SageMaker HyperPod is a purpose-built infrastructure for developing, ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-hyperpod-g7e-r5d/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-27-aws-introducing-amazon-ec2-m8in-and-m8ib-instances",
+      "date": "2026-04-27",
+      "name": "Introducing Amazon EC2 M8in and M8ib instances",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS is announcing the general availability of Amazon EC2 M8in network optimized instances and Amazon EC2 M8ib EBS optimized instances. The new instances are powered by custom sixth generation Intel Xeon Scalable proce",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-m8in-m8ib/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-27-aws-introducing-amazon-ec2-r8in-and-r8ib-instances",
+      "date": "2026-04-27",
+      "name": "Introducing Amazon EC2 R8in and R8ib instances",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS is announcing the general availability of memory optimized Amazon EC2 R8in network optimized instances and Amazon EC2 R8ib EBS optimized instances. These new instances are powered by custom sixth generation Intel ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-r8in-r8ib/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-27-aws-introducing-amazon-ec2-c8ine-and-m8ine-instances",
+      "date": "2026-04-27",
+      "name": "Introducing Amazon EC2 C8ine and M8ine instances",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS is announcing the general availability of Amazon EC2 C8ine and Amazon EC2 M8ine instances, powered by custom sixth generation Intel Xeon Scalable processors, available only on AWS. These also instances feature the",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-c8ine-m8ine/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-27-dust-spa-poke-25d22ae",
+      "date": "2026-04-27",
+      "name": "spa/poke/25d22ae",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] chore: add composite index to speed up remote mcp server fetc…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F25d22ae"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-27-dust-spa-poke-7b0ef6f-feat-sbx-add-cache-invalidation-e",
+      "date": "2026-04-27",
+      "name": "spa/poke/7b0ef6f: feat(sbx): Add cache invalidation endpoint to egress proxy (#24866)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>feat(sbx): Add cache invalidation endpoint to egress proxy</li>\n</ul>\n<p>Policy changes made through the admin UI were taking up to 60 seconds<br />\nto propagate due to the egress proxy's moka cache TTL. This ad",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F7b0ef6f"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-27-dust-spa-poke-4f9a2a4-front-sparkle-refacto-shared-tail",
+      "date": "2026-04-27",
+      "name": "spa/poke/4f9a2a4: [front,sparkle] - refacto: shared tailwindconfig (#24831)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>[sparkle] - feature: add custom tailwind preset with color system and typography</li>\n</ul>\n<ul>\n<li>introduce custom color palette with extended gray, blue, green, rose, golden, and other schemes for consistent",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F4f9a2a4"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-04-24-aws-aws-lambda-provisioned-mode-for-kafka-event-source",
       "date": "2026-04-24",
       "name": "AWS Lambda Provisioned Mode for Kafka event source mappings (ESMs) now available in AWS Asia Pacific (Taipei) and AWS GovCloud (US) Regions",
@@ -196,6 +430,24 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-04-24-aws-amazon-workspaces-personal-supports-rocky-9-red-ha",
+      "date": "2026-04-24",
+      "name": "Amazon WorkSpaces Personal Supports Rocky 9, Red Hat Enterprise Linux 9, and Ubuntu 24.04",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS announces availability of new Linux bundles for Amazon WorkSpaces Personal, including Rocky Linux 9, Red Hat Enterprise Linux 9, and Ubuntu 24.04. With these bundles, customers can launch WorkSpaces powered by the",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-workspaces-rocky9-rhel9-ubuntu24/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
       "tags": []
     },
     {
@@ -523,6 +775,24 @@
       "tags": []
     },
     {
+      "id": "2026-04-23-aws-amazon-sagemaker-unified-studio-now-offers-ci-cd-c",
+      "date": "2026-04-23",
+      "name": "Amazon SageMaker Unified Studio now offers CI/CD CLI for data and AI applications",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker Unified Studio now offers the CI/CD CLI (aws-smus-cicd-cli), an open-source command line tool that automates deployment of multi-service data and AI applications across development, test, and producti",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-smus-ci-cd-cli/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-04-22-openai-chatgpt-free-users-are-seeing-errors-when-having-c",
       "date": "2026-04-22",
       "name": "ChatGPT free users are seeing errors when having conversations",
@@ -806,276 +1076,6 @@
         }
       ],
       "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-21-aws-amazon-sagemaker-now-supports-multi-region-replica",
-      "date": "2026-04-21",
-      "name": "Amazon SageMaker now supports multi-region replication from IAM Identity Center",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker now supports multi-region replication from IAM Identity Center (IdC), enabling you to deploy SageMaker Unified Studio domains in different regions from your IdC instance. This new capability empowers ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/smus-identity-center/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-21-aws-introducing-the-amazon-eks-hybrid-nodes-gateway-fo",
-      "date": "2026-04-21",
-      "name": "Introducing the Amazon EKS Hybrid Nodes gateway for hybrid Kubernetes networking",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/eks/\">Amazon Elastic Kubernetes Service</a> (EKS) now offers the Amazon EKS Hybrid Nodes gateway, a feature that automates networking between your Amazon EKS cluster VPC and Kubernetes ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-eks-hybrid-nodes-gateway/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-21-aws-aws-marketplace-streamlines-vat-payment-for-deemed",
-      "date": "2026-04-21",
-      "name": "AWS Marketplace streamlines VAT payment for deemed supply transactions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Marketplace now offers sellers a streamlined self-service process to submit Value Added Tax (VAT) invoices and receive automated VAT disbursements for deemed supply of digital services in the European Union, Norwa",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-marketplace-vat/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-21-aws-aws-lambda-functions-can-now-mount-amazon-s3-bucke",
-      "date": "2026-04-21",
-      "name": "AWS Lambda functions can now mount Amazon S3 buckets as file systems with S3 Files",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Lambda now supports&nbsp;<a href=\"https://aws.amazon.com/s3/features/files/\" target=\"_blank\">Amazon S3 Files</a>, enabling your Lambda functions to mount Amazon S3 buckets as file systems and perform standard file",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-lambda-amazon-s3/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-21-aws-amazon-cloudwatch-pipelines-now-supports-configura",
-      "date": "2026-04-21",
-      "name": "Amazon CloudWatch pipelines now supports configuration of processors via AI",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon CloudWatch pipelines now lets you configure log processors using natural language descriptions powered by generative AI. CloudWatch pipelines is a fully managed service that ingests, transforms, and routes log ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-pipelines-ai-configuration/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-21-aws-aws-glue-now-supports-oauth-2-0-for-snowflake-conn",
-      "date": "2026-04-21",
-      "name": "AWS Glue now supports OAuth 2.0 for Snowflake connectivity",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, AWS Glue supports OAuth 2.0 authorization and authentication for native Snowflake connectivity, enabling customers to read from and write to Snowflake without sharing user credentials. This makes it ea",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-glue-oauth-snowflake-connectivity/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-21-aws-aws-transform-custom-is-now-available-in-six-addit",
-      "date": "2026-04-21",
-      "name": "AWS Transform custom is now available in six additional AWS Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Transform custom is now available in six additional AWS Regions: Asia Pacific (Mumbai, Tokyo, Seoul, Sydney), Canada (Central), and Europe (London).<br /> <br /> AWS Transform custom enables organizations to moder",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-atx-custom-additional-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-21-aws-amazon-ec2-g7e-instances-now-available-in-aws-loca",
-      "date": "2026-04-21",
-      "name": "Amazon EC2 G7e instances now available in AWS Local Zones in Los Angeles",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the general availability of <a href=\"https://aws.amazon.com/ec2/instance-types/g7e/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Elastic Compute Cloud (Amazon EC2) G7e instances</a> in AWS Lo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-g7e-instances-local-zones/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-21-aws-amazon-location-service-now-offers-bulk-address-va",
-      "date": "2026-04-21",
-      "name": "Amazon Location Service now offers bulk address validation for the United States, Canada, Australia, and the United Kingdom",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Location Service now offers bulk address validation for the United States, Canada, Australia, and the United Kingdom. Customers can now validate, correct, and standardize large volumes of addresses at scale, wh",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-location-service-bulk-address-validation/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-21-aws-amazon-aurora-serverless-up-to-30-better-performan",
-      "date": "2026-04-21",
-      "name": "Amazon Aurora serverless: Up to 30% better performance, smarter scaling, and still scales to zero",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/aurora/serverless/\">Amazon Aurora serverless</a> — the autoscaling database that scales up to support your most demanding workloads and down to zero when you don't need it — just go",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aurora-serverless-smarter-scaling/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-21-aws-aws-backup-adds-amazon-redshift-serverless-and-aur",
-      "date": "2026-04-21",
-      "name": "AWS Backup adds Amazon Redshift Serverless and Aurora DSQL support for AWS Organizations backup policies",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Backup now supports Amazon Redshift Serverless namespaces and Amazon Aurora DSQL clusters as resource types in AWS Organizations backup policies. Organization administrators can now define backup policy rules that",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/backup-policies-aurora-dsql-redshift-serverless/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-21-aws-aws-lambda-durable-execution-sdk-for-java-ga",
-      "date": "2026-04-21",
-      "name": "AWS Lambda Durable Execution SDK for Java GA",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS announces the general availability of the AWS Lambda Durable Execution SDK for Java, empowering Java developers to build resilient, long-running workflows using Lambda durable functions. With this SDK, deve",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/lambda-durable-execution-java-ga/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-21-aws-amazon-connect-outbound-campaigns-now-supports-con",
-      "date": "2026-04-21",
-      "name": "Amazon Connect Outbound Campaigns now supports contact priority ordering",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Connect&nbsp;Outbound&nbsp;Campaigns now&nbsp;allows&nbsp;you to dial contacts in configurable priority order based on up to 10 profile attributes for voice campaigns and voice activities in journeys.&nbsp;This",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-priority-dialing/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-21-dust-spa-poke-2284589-front-fix-revert-jira-and-mcp-cha",
-      "date": "2026-04-21",
-      "name": "spa/poke/2284589: [front] fix: revert Jira and MCP changes for multiple instances (#24648)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>Revert \"[front] chore: fix biome formatting in jira_api_helper (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/24568\">#24568</a>)\"</li>\n</ul>\n<p>This reverts commit <a class=\"comm",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2284589"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-21-dust-spa-poke-55a876c-remove-db-concurrency-from-update",
-      "date": "2026-04-21",
-      "name": "spa/poke/55a876c: Remove DB concurrency from updateActiveAgentsRequirements (#24624)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>updateActiveAgentsRequirements was processing all agents concurrently, leading to many concurrent DB connections.</p>\n<p>Even though it had a concurrency limit of 5, the problem is that they each called fetchMCPServer",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F55a876c"
-        }
-      ],
-      "impact": 3,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
