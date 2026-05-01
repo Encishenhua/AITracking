@@ -1,6 +1,204 @@
 {
   "items": [
     {
+      "id": "2026-04-30-aws-aws-outposts-racks-now-support-lagstatus-cloudwatc",
+      "date": "2026-04-30",
+      "name": "AWS Outposts racks now support LagStatus CloudWatch metric",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS Outposts racks now support the LagStatus Amazon CloudWatch metric in all AWS commercial Regions and the AWS GovCloud (US-East) and AWS GovCloud (US-West) Regions.</p> \n<p>This metric provides you with the ability ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-outposts-lagstatus-cloudwatch/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-30-aws-amazon-ecs-managed-instances-now-supports-nvidia-g",
+      "date": "2026-04-30",
+      "name": "Amazon ECS Managed Instances now supports NVIDIA GPU metrics",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/ecs/\">Amazon Elastic Container Service (Amazon ECS)</a> now offers NVIDIA GPU metrics for containerized workloads running on Amazon ECS Managed Instances. These metrics are available th",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ecs-mi-gpu-metrics/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-30-aws-amazon-mq-for-rabbitmq-now-supports-prometheus-met",
+      "date": "2026-04-30",
+      "name": "Amazon MQ for RabbitMQ now supports Prometheus metrics",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p><a href=\"https://aws.amazon.com/amazon-mq/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon MQ</a> for RabbitMQ now supports the Prometheus plugin on RabbitMQ 4.2 brokers, providing a native Prometheus-compatible met",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-mq-rabbitmq-prometheus-metrics/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-30-aws-amazon-bedrock-agentcore-identity-now-supports-on-",
+      "date": "2026-04-30",
+      "name": "Amazon Bedrock AgentCore Identity now supports On-Behalf-Of (OBO) token exchange",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock AgentCore Identity now supports On-Behalf-Of (OBO) token exchange, enabling developers to build agents that securely access protected resources on behalf of authenticated users — without requiring users",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-bedrock-agentcore/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-30-aws-aws-neuron-sdk-now-available-with-neuron-agentic-d",
+      "date": "2026-04-30",
+      "name": "AWS Neuron SDK now available with Neuron Agentic Development for NKI kernel development on Trainium",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS Neuron announces the Neuron Agentic Development capabilities, an open-source collection of agents and skills that equip AI coding assistants to accelerate development on <a href=\"https://aws.amazon.com/ai/machine-",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/announcing-neuron-agentic-development/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-30-aws-amazon-bedrock-agentcore-launches-capabilities-for",
+      "date": "2026-04-30",
+      "name": "Amazon Bedrock AgentCore launches capabilities for optimizing agent performance in preview",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock AgentCore launches recommendations and two ways to validate performance (batch evaluations and A/B tests). This completes the observe, evaluate, improve loop for AI agents in production. Until now, tran",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/bedrock-agentcore-optimization-preview/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-30-aws-amazon-quick-adds-microsoft-excel-powerpoint-exten",
+      "date": "2026-04-30",
+      "name": "Amazon Quick adds Microsoft Excel, PowerPoint extensions and updates the Word extension (Preview)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, Amazon Quick introduces new and upgraded Microsoft 365 extensions in preview for Excel, PowerPoint, and Word, enabling Quick to perform tasks directly within users’ Microsoft 365 environments. These extensions ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-microsoft-excel/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-30-aws-amazon-opensearch-service-now-supports-index-level",
+      "date": "2026-04-30",
+      "name": "Amazon OpenSearch Service now supports index-level encryption",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon OpenSearch Service now supports index-level encryption, enabling you to encrypt data at rest on a per-index basis using AWS Key Management Service (KMS) customer managed keys. You can use different customer man",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-opensearch-service-supports-index-level-encryption/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-30-dust-spa-poke-990b4d1",
+      "date": "2026-04-30",
+      "name": "spa/poke/990b4d1",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>feat(sbx): redact env var values from bash output, instruct agent on …</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F990b4d1"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-30-dust-spa-poke-412b9e0",
+      "date": "2026-04-30",
+      "name": "spa/poke/412b9e0",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Add ability to pick a custom agent and a custom message when starting…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F412b9e0"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-30-crewai-1-14-4",
+      "date": "2026-04-30",
+      "name": "1.14.4",
+      "vendor": "CrewAI",
+      "type": "launch",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add support for custom persistence key in <a class=\"user-mention notranslate\" href=\"https://github.com/persist\">@persist</a></li>\n<li>Add Responses API support for Azure",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.4"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-04-29-openai-building-the-compute-infrastructure-for-the-intell",
       "date": "2026-04-29",
       "name": "Building the compute infrastructure for the Intelligence Age",
@@ -878,204 +1076,6 @@
         }
       ],
       "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-27-aws-amazon-cloudwatch-rum-now-supports-an-improved-app",
-      "date": "2026-04-27",
-      "name": "Amazon CloudWatch RUM now supports an improved App Monitors overview with health, SLO, and tracing status",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon CloudWatch RUM, which provides real user monitoring for web, iOS, and Android applications, now supports an improved App Monitors overview that surfaces fleet-wide health, SLO breaches, and distributed tracing ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-rum-app-monitors/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-24-aws-aws-lambda-provisioned-mode-for-kafka-event-source",
-      "date": "2026-04-24",
-      "name": "AWS Lambda Provisioned Mode for Kafka event source mappings (ESMs) now available in AWS Asia Pacific (Taipei) and AWS GovCloud (US) Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Lambda now supports Provisioned Mode for event source mappings (ESMs) that subscribe to Apache Kafka event sources in the Asia Pacific (Taipei), AWS GovCloud (US-East), and AWS GovCloud (US-West) Regions. Provisio",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-Lambda-provisioned-esm-region-expansion/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-24-aws-amazon-quick-now-integrates-with-visier-s-vee-agen",
-      "date": "2026-04-24",
-      "name": "Amazon Quick now integrates with Visier’s Vee agent for workforce intelligence",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Quick now integrates with Vee, the AI assistant from Visier's people analytics platform, through the model context protocol (MCP). HR business partners, finance managers, and operations leaders can now get gove",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-visier-vee/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-24-aws-amazon-bedrock-agentcore-gateway-and-identity-supp",
-      "date": "2026-04-24",
-      "name": "Amazon Bedrock AgentCore Gateway and Identity support VPC egress",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock AgentCore Gateway and Identity now provide secure and controlled egress traffic management for your applications, enabling seamless communication with resources in your Virtual Private Cloud (VPC). VPC ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2024/04/agentcore-gateway-identity-vpc/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-24-aws-amazon-connect-now-provides-eight-new-metrics-to-m",
-      "date": "2026-04-24",
-      "name": "Amazon Connect now provides eight new metrics to measure and improve AI agent performance",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect now provides eight new metrics to measure and improve AI agent performance, including goal success rate, faithfulness score, and tool selection accuracy. These metrics offer visibility into the quality ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-ai-agent-metrics/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-24-aws-amazon-ec2-high-memory-u7i-instances-now-available",
-      "date": "2026-04-24",
-      "name": "Amazon EC2 High Memory U7i instances now available in additional regions",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon EC2 High Memory U7i-8TB instances (u7i-8tb.112xlarge) are now available in AWS Europe (Stockholm, Zurich) regions, U7in-16TB instances (u7in-16tb.224xlarge) are now available in the AWS US East (Ohio) region, a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-high-memory-u7i/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-24-aws-aws-marketplace-management-portal-now-supports-ban",
-      "date": "2026-04-24",
-      "name": "AWS Marketplace Management Portal now supports bank account deletion",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Marketplace sellers can now delete bank accounts directly from the Payment Settings page in the AWS Marketplace Management Portal (AMMP). This new self-service capability addresses a long-standing gap in payment a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-marketplace-management-portal/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-24-dust-spa-poke-6670795",
-      "date": "2026-04-24",
-      "name": "spa/poke/6670795",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>fix: count mention-less web messages against plan limit (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/24845\">#24845</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6670795"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-24-dust-spa-poke-84dc1b8-feat-sbx-workspace-egress-policy-",
-      "date": "2026-04-24",
-      "name": "spa/poke/84dc1b8: feat(sbx): workspace egress policy management (#24817)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>feat(sbx): workspace egress policy management UI and API</li>\n</ul>\n<p>Workspace admins can now manage their sandbox egress domain allowlist<br />\nthrough a new \"Network\" page under developer settings. The allow",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F84dc1b8"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-24-dust-spa-poke-53cba46-redo-remove-all-reinforcement-age",
-      "date": "2026-04-24",
-      "name": "spa/poke/53cba46: Redo \"Remove all reinforcement agent code\"\" (#24802)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Had been reverted because of helm chart mismatch. Redoing now.</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F53cba46"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-24-dust-spa-poke-f8e24ca",
-      "date": "2026-04-24",
-      "name": "spa/poke/f8e24ca",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>[front] feat: add keyboard navigation in <code>UserAnswerRequired</code> (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/24759\">#24759</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Ff8e24ca"
-        }
-      ],
-      "impact": 3,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
