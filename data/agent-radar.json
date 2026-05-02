@@ -1,6 +1,294 @@
 {
   "items": [
     {
+      "id": "2026-05-01-openai-elevated-error-rate-for-responses-api",
+      "date": "2026-05-01",
+      "name": "Elevated error rate for Responses API",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Responses (Operational)</li>\n          </ul>",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KQHYX4D53W6GT8FDTT9PHBQ3"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-01-aws-amazon-bedrock-agentcore-is-now-available-in-the-s",
+      "date": "2026-05-01",
+      "name": "Amazon Bedrock AgentCore is now available in the South America (São Paulo) Region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Bedrock AgentCore is now available in the AWS South America (São Paulo) Region. Amazon Bedrock AgentCore is the platform to build, connect, and optimize agents. It helps engineers ship agents fast with any fram",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/agentcore-sao-paulo-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-01-aws-freertos-202604-lts-now-available-with-enhanced-se",
+      "date": "2026-05-01",
+      "name": "FreeRTOS 202604 LTS now available with enhanced security and MQTT v5.0",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>FreeRTOS 202604 LTS, a new Long Term Support release of the open-source real-time operating system for embedded devices, is now available. This release provides embedded systems developers and Internet of Things (IoT)",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/freertos-lts/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-01-aws-opensearch-ui-supports-cross-region-data-access-to",
+      "date": "2026-05-01",
+      "name": "OpenSearch UI supports cross-region data access to OpenSearch domains",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon OpenSearch Service now supports cross-region data access for OpenSearch UI, enabling users to access OpenSearch domains hosted in different AWS Regions from within a single OpenSearch UI application. Combined w",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/opensearch-ui-cross-region-data-access-domains/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-01-aws-iam-roles-anywhere-now-enforces-vpc-endpoint-polic",
+      "date": "2026-05-01",
+      "name": "IAM Roles Anywhere now enforces VPC endpoint policies for the CreateSession API",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/iam/roles-anywhere/\">AWS Identity and Access Management (IAM) Roles Anywhere</a> now provides the capability to configure Virtual Private Cloud (VPC) endpoint policies for the IAM Roles",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/iam-roles-anywhere-vpc/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-01-aws-amazon-redshift-introduces-concurrency-scaling-sup",
+      "date": "2026-05-01",
+      "name": "Amazon Redshift Introduces Concurrency Scaling Support for auto-copy and zero-ETL",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/redshift/\">Amazon Redshift </a>announces the general availability of Amazon Redshift <a href=\"https://docs.aws.amazon.com/redshift/latest/dg/concurrency-scaling.html\">concurrency scalin",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/concurrency-scaling-auto-copy-zero-ETL/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-01-aws-aws-transform-now-offers-bi-migration-agents-for-p",
+      "date": "2026-05-01",
+      "name": "AWS Transform now offers BI migration agents for Power BI and Tableau to Amazon Quick",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Transform&nbsp;customers can&nbsp;now&nbsp;use&nbsp;BI migration agents to&nbsp;convert Tableau and Power BI dashboards to Amazon Quick Sight&nbsp;(BI capability of Amazon Quick)&nbsp;assets,&nbsp;helping&nbsp;red",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/quick-bi-migration/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-01-aws-spatial-data-management-on-aws-adds-custom-transfo",
+      "date": "2026-05-01",
+      "name": "Spatial Data Management on AWS adds custom transformations",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Spatial Data Management on AWS (SDMA) now supports custom transformation connectors and a unified desktop client installer. Custom transformation connectors let you run compute-intensive processing — such as format co",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/spatial-data-management-aws/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-01-aws-announcing-kubernetes-dynamic-resource-allocation-",
+      "date": "2026-05-01",
+      "name": "Announcing Kubernetes Dynamic Resource Allocation for Elastic Fabric Adapter",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Elastic Kubernetes Service (Amazon EKS) now supports Dynamic Resource Allocation (DRA) for Elastic Fabric Adapter (EFA), simplifying high-performance inter-node communication and RDMA (Remote Direct Memory Acce",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/kubernetes-dra-elastic-fabric-adapter/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-01-aws-amazon-rds-for-sql-server-supports-cross-account-s",
+      "date": "2026-05-01",
+      "name": "Amazon RDS for SQL Server supports cross-account snapshot sharing with additional storage volumes",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\">Amazon Relational Database Service (Amazon RDS) for SQL Server</a> now supports cross-account snapshot sharing for database instances with additional storage volumes. Ad",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/rds-sqlserver-cross-account-snapshot-sharing-additional-storage-volume/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-01-dust-spa-poke-5b7f86d",
+      "date": "2026-05-01",
+      "name": "spa/poke/5b7f86d",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>fix(hubspot): preserve engagement content fields stripped by hs_* fil…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5b7f86d"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-01-dust-spa-poke-3c7266c-fix-project-todos-prevent-system-",
+      "date": "2026-05-01",
+      "name": "spa/poke/3c7266c: fix(project-todos): prevent system from reopening done todos (#25004)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>\n<p>feat(project-todos): add creation rationale to takeaway extraction and propagate to actorRationale</p>\n</li>\n<li>\n<p>fix(project-todos): prevent system from reopening done todos</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F3c7266c"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-01-dust-spa-poke-2a9319f",
+      "date": "2026-05-01",
+      "name": "spa/poke/2a9319f",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>Persist last navigation in projects. (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/25093\">#25093</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2a9319f"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-01-dust-spa-app-5b7f86d",
+      "date": "2026-05-01",
+      "name": "spa/app/5b7f86d",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>fix(hubspot): preserve engagement content fields stripped by hs_* fil…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F5b7f86d"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-01-dust-spa-app-3c7266c-fix-project-todos-prevent-system-f",
+      "date": "2026-05-01",
+      "name": "spa/app/3c7266c: fix(project-todos): prevent system from reopening done todos (#25004)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>\n<p>feat(project-todos): add creation rationale to takeaway extraction and propagate to actorRationale</p>\n</li>\n<li>\n<p>fix(project-todos): prevent system from reopening done todos</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F3c7266c"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-01-dust-spa-app-2a9319f",
+      "date": "2026-05-01",
+      "name": "spa/app/2a9319f",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>Persist last navigation in projects. (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/25093\">#25093</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F2a9319f"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-04-30-aws-aws-outposts-racks-now-support-lagstatus-cloudwatc",
       "date": "2026-04-30",
       "name": "AWS Outposts racks now support LagStatus CloudWatch metric",
@@ -196,6 +484,42 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-04-30-aws-aws-payment-cryptography-now-supports-paper-based-",
+      "date": "2026-04-30",
+      "name": "AWS Payment Cryptography now supports paper-based key exchange",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/payment-cryptography/\">AWS Payment Cryptography</a> now supports Physical Key Exchange, a new PCI PIN and P2PE compliant feature for performing paper-based cryptographic key exchange wi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-payment-cryptography/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-30-aws-amazon-eks-now-supports-one-click-cluster-access-t",
+      "date": "2026-04-30",
+      "name": "Amazon EKS now supports one-click cluster access through CloudShell",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/eks/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Elastic Kubernetes Service</a> (EKS) now provides one-click cluster access directly from the AWS Management Console through <a hre",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-eks-one-click-cluster-access/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
       "tags": []
     },
     {
@@ -752,330 +1076,6 @@
         }
       ],
       "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-28-dust-spa-poke-734a4c3-feat-sbx-gate-dsbx-tools-behind-s",
-      "date": "2026-04-28",
-      "name": "spa/poke/734a4c3: feat(sbx): gate dsbx tools behind sandbox_dsbx_tools flag (#24937)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>feat(sbx): gate dsbx tools behind sandbox_dsbx_tools flag</li>\n</ul>\n<p>Splits programmatic tool access (dsbx tools CLI) from the broader<br />\nsandbox feature so the sandbox skill / bash tool can roll out witho",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F734a4c3"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-28-aws-amazon-bedrock-agentcore-runtime-now-supports-node",
-      "date": "2026-04-28",
-      "name": "Amazon Bedrock AgentCore Runtime now supports Node.js for direct code deployment",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Bedrock AgentCore Runtime now supports Node.js as a managed language runtime for direct code deployment, alongside the existing Python support. Developers can bring their Node.js-based agents to AgentCore Runti",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-bedrock-agentcore-runtime/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-28-aws-amazon-gamelift-streams-now-supports-proton-10-run",
-      "date": "2026-04-28",
-      "name": "Amazon GameLift Streams now supports Proton 10 runtime",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon GameLift Streams now supports Proton 10, an updated version of the Proton compatibility layer for running Windows games on Linux-based stream classes. Proton 10 improves game compatibility for newer titles, has",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-gamelift-streams-proton-10-runtime/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-27-openai-an-open-source-spec-for-orchestration-symphony",
-      "date": "2026-04-27",
-      "name": "An open-source spec for orchestration: Symphony",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "Learn how Symphony, an open-source spec for Codex orchestration, turns issue trackers into always-on agent systems—boosting engineering output and reducing context switching.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/open-source-codex-orchestration-symphony"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-27-openai-choco-automates-food-distribution-with-ai-agents",
-      "date": "2026-04-27",
-      "name": "Choco automates food distribution with AI agents",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "How Choco used OpenAI APIs to streamline food distribution, boost productivity, and unlock growth—an in-depth customer story on real-world AI impact.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/choco"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-27-aws-aws-kms-now-tracks-last-usage-of-all-kms-keys",
-      "date": "2026-04-27",
-      "name": "AWS KMS now tracks last usage of all KMS keys",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/kms/\">AWS Key Management Service (KMS)</a> now provides visibility into the last cryptographic operation performed with your KMS keys, eliminating the need to manually query and analyze",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-kms-tracks-last-usage-kms-keys/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-27-aws-amazon-redshift-serverless-is-now-available-in-the",
-      "date": "2026-04-27",
-      "name": "Amazon Redshift Serverless is now available in the AWS Asia Pacific (Melbourne) and Canada West (Calgary) regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/redshift/redshift-serverless/\">Amazon Redshift Serverless</a>, which allows you to run and scale analytics without having to provision and manage data warehouse clusters, is now general",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-redshift-serverless-melbourne-calgary-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-27-aws-amazon-connect-increases-attachment-file-sizes-and",
-      "date": "2026-04-27",
-      "name": "Amazon Connect increases attachment file sizes and adds custom file types",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect now supports attachment file sizes up to 100 MB for chat, cases, and tasks, up from the previous 20 MB limit.&nbsp;Administrators can enable these higher limits and configure custom file extensions for ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-increases-attachment/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-27-aws-amazon-fsx-for-openzfs-single-az-ha-file-systems-a",
-      "date": "2026-04-27",
-      "name": "Amazon FSx for OpenZFS Single-AZ (HA) file systems are now available in 17 additional AWS commercial and AWS GovCloud (US) Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>You can now create Amazon FSx for OpenZFS Single-AZ (HA) file systems in seventeen additional AWS Regions across the South America, Europe, Africa, Asia Pacific, and AWS GovCloud (US).</p> \n<p>Amazon FSx for OpenZFS p",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-fsx-openzfs-single-az-ha/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-27-aws-amazon-sagemaker-hyperpod-now-supports-g7e-and-r5d",
-      "date": "2026-04-27",
-      "name": "Amazon SageMaker HyperPod now supports G7e and r5d.16xlarge instances",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon SageMaker HyperPod now supports <a href=\"https://aws.amazon.com/ec2/instance-types/g7e/\" target=\"_blank\">G7e</a> and r5d.16xlarge instances. SageMaker HyperPod is a purpose-built infrastructure for developing, ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-hyperpod-g7e-r5d/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-27-aws-introducing-amazon-ec2-m8in-and-m8ib-instances",
-      "date": "2026-04-27",
-      "name": "Introducing Amazon EC2 M8in and M8ib instances",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS is announcing the general availability of Amazon EC2 M8in network optimized instances and Amazon EC2 M8ib EBS optimized instances. The new instances are powered by custom sixth generation Intel Xeon Scalable proce",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-m8in-m8ib/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-27-aws-introducing-amazon-ec2-r8in-and-r8ib-instances",
-      "date": "2026-04-27",
-      "name": "Introducing Amazon EC2 R8in and R8ib instances",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS is announcing the general availability of memory optimized Amazon EC2 R8in network optimized instances and Amazon EC2 R8ib EBS optimized instances. These new instances are powered by custom sixth generation Intel ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-r8in-r8ib/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-27-aws-introducing-amazon-ec2-c8ine-and-m8ine-instances",
-      "date": "2026-04-27",
-      "name": "Introducing Amazon EC2 C8ine and M8ine instances",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS is announcing the general availability of Amazon EC2 C8ine and Amazon EC2 M8ine instances, powered by custom sixth generation Intel Xeon Scalable processors, available only on AWS. These also instances feature the",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-c8ine-m8ine/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-27-dust-spa-poke-25d22ae",
-      "date": "2026-04-27",
-      "name": "spa/poke/25d22ae",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] chore: add composite index to speed up remote mcp server fetc…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F25d22ae"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-27-dust-spa-poke-7b0ef6f-feat-sbx-add-cache-invalidation-e",
-      "date": "2026-04-27",
-      "name": "spa/poke/7b0ef6f: feat(sbx): Add cache invalidation endpoint to egress proxy (#24866)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>feat(sbx): Add cache invalidation endpoint to egress proxy</li>\n</ul>\n<p>Policy changes made through the admin UI were taking up to 60 seconds<br />\nto propagate due to the egress proxy's moka cache TTL. This ad",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F7b0ef6f"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-27-dust-spa-poke-4f9a2a4-front-sparkle-refacto-shared-tail",
-      "date": "2026-04-27",
-      "name": "spa/poke/4f9a2a4: [front,sparkle] - refacto: shared tailwindconfig (#24831)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>[sparkle] - feature: add custom tailwind preset with color system and typography</li>\n</ul>\n<ul>\n<li>introduce custom color palette with extended gray, blue, green, rose, golden, and other schemes for consistent",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F4f9a2a4"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-27-aws-aws-billing-conductor-launches-passthrough-pricing",
-      "date": "2026-04-27",
-      "name": "AWS Billing Conductor launches Passthrough Pricing Plan for Billing Transfer users",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Billing Conductor now supports the Passthrough Pricing Plan, a new managed pricing plan for Billing Transfer users.</p> \n<p>Customers using Billing Transfer can now select the AWS-managed Passthrough Pricing Plan ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-billing-conductor-launches-passthrough/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-27-aws-amazon-sagemaker-training-plans-now-provides-capac",
-      "date": "2026-04-27",
-      "name": "Amazon SageMaker Training Plans now provides capacity utilization monitoring through Amazon CloudWatch",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://docs.aws.amazon.com/sagemaker/latest/dg/reserve-capacity-with-training-plans.html\">Amazon SageMaker Training Plans</a> now supports <a href=\"https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitor",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-training-plan-cloudwatch-observability/"
-        }
-      ],
-      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
