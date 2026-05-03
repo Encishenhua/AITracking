@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "2026-05-02-dust-spa-poke-32bb8d9-front-no-store-on-x-reload-requir",
+      "date": "2026-05-02",
+      "name": "spa/poke/32bb8d9: [front] no-store on X-Reload-Required responses (#25115)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>[front] Add Origin to Vary and no-store on X-Reload-Required</li>\n</ul>\n<p>Reproduced via Playwright: with two tabs (one on a flagged commit, one on<br />\nprod), Chrome served the flagged tab's cached response (",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F32bb8d9"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-05-01-openai-elevated-error-rate-for-responses-api",
       "date": "2026-05-01",
       "name": "Elevated error rate for Responses API",
@@ -1055,24 +1073,6 @@
         {
           "title": "Dust source",
           "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F16679f7"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-28-dust-spa-poke-6873b23-add-server-level-title-override-f",
-      "date": "2026-04-28",
-      "name": "spa/poke/6873b23: Add server-level title override for wakeups MCP server (#24895)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>Add server-level title override for wakeups MCP server</li>\n</ul>\n<p>Replace the default \"Allow Wakeups to ?\" validation dialog title<br />\nwith \"Allow  to ?\" for every wakeup tool, via a new<br />\nMCP_SERVER_OV",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6873b23"
         }
       ],
       "impact": 3,
