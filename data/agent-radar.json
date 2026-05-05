@@ -1,6 +1,168 @@
 {
   "items": [
     {
+      "id": "2026-05-04-aws-aws-entity-resolution-launches-support-for-increme",
+      "date": "2026-05-04",
+      "name": "AWS Entity Resolution launches support for incremental Machine Learning based matching workflows",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Entity Resolution launches support for Machine Learning (ML) based Incremental Matching workflows in General Availability, fundamentally transforming how enterprises process entity resolution at scale. Previously,",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-entity-resolution-ml/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-04-aws-amazon-quick-generates-dashboards-from-natural-lan",
+      "date": "2026-05-04",
+      "name": "Amazon Quick generates dashboards from natural language prompts",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Quick now generates dashboards from natural language prompts with Generate Analysis. You describe the dashboard you want, select up to three datasets, and review an editable plan before generation. Amazon Quick",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-generates-analyses-from-natural-language-prompts/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-04-aws-amazon-quick-introduces-dataset-q-a-for-conversati",
+      "date": "2026-05-04",
+      "name": "Amazon Quick introduces Dataset Q&A for conversational analytics against enterprise data",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Quick now supports Dataset Q&amp;A — a conversational analytics capability that enables users to ask natural language questions directly against their enterprise data. Alongside Dashboard Q&amp;A, Dataset Q&amp",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-dataset-qa/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-04-aws-amazon-eventbridge-supports-data-plane-logging-to-",
+      "date": "2026-05-04",
+      "name": "Amazon EventBridge supports data plane logging to AWS CloudTrail",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, Amazon EventBridge announces support for logging data plane APIs using AWS CloudTrail, enabling customers to have greater visibility into event bus activity in their AWS account for best practices in security a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-eventbridge-data-aws-cloudtrail/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-04-aws-amazon-quick-now-supports-s3-tables-bucket-as-a-da",
+      "date": "2026-05-04",
+      "name": "Amazon Quick now supports S3 tables bucket as a data source",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Quick now supports Amazon S3 table buckets as a data source — enabling users to build dashboards, run conversational analytics, and explore Apache Iceberg tables stored in S3 table buckets. With no intermediate",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/quick-direct-query-s3-tables/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-04-aws-amazon-quick-upgrades-the-extension-for-microsoft-",
+      "date": "2026-05-04",
+      "name": "Amazon Quick upgrades the extension for Microsoft Outlook (Preview)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the preview of the Amazon Quick extension for Microsoft Outlook, which brings generative AI-powered productivity directly into your email and calendar workflows. With the extension, you can use na",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-microsoft-outlook/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-04-aws-amazon-sagemaker-ai-launches-ai-agent-experience-f",
+      "date": "2026-05-04",
+      "name": "Amazon SageMaker AI launches AI agent experience for model customization",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker AI now features an agentic experience that transforms model customization from a months-long process into a workflow completed in days or hours. Customers building an AI solution need to carefully fra",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ai-ai/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-04-aws-amazon-rds-for-sql-server-now-supports-m8i-and-r8i",
+      "date": "2026-05-04",
+      "name": "Amazon RDS for SQL Server now supports M8i and R8i instances",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\">Amazon Relational Database Service (Amazon RDS) for SQL Server</a> now supports M8i and R8i instances. These instances are powered by custom Intel Xeon 6 processors, ava",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/rds-sqlserver-supports-m8i-r8i-instances/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-04-crewai-1-14-5a2",
+      "date": "2026-05-04",
+      "name": "1.14.5a2",
+      "vendor": "CrewAI",
+      "type": "launch",
+      "summary": "<h2>What's Changed</h2>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Fix task output restoration in finally block</li>\n<li>Include <code>thoughts_token_count</code> in completion tokens</li>\n<li>Preserve task outputs across async batch f",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.5a2"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-05-02-dust-spa-poke-32bb8d9-front-no-store-on-x-reload-requir",
       "date": "2026-05-02",
       "name": "spa/poke/32bb8d9: [front] no-store on X-Reload-Required responses (#25115)",
@@ -307,6 +469,42 @@
       "tags": []
     },
     {
+      "id": "2026-05-01-aws-general-availability-of-aws-for-sap-mcp-server-in-",
+      "date": "2026-05-01",
+      "name": "General availability of AWS for SAP MCP Server in Amazon Bedrock AgentCore",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, we're announcing the General Availability of the <b>AWS for SAP MCP Server on Amazon Bedrock AgentCore, </b>purpose-built to connect AI agents directly to SAP ERP systems, securely and at scale. Built on the Mo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-sap-mcp-amazon-bedrock/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-01-aws-amazon-sagemaker-ai-now-supports-capacity-aware-in",
+      "date": "2026-05-01",
+      "name": "Amazon SageMaker AI Now Supports Capacity-Aware Inference with Automatic Instance Fallback",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker AI inference endpoints now support flexible provisioning across a prioritized list of instance types. When your preferred instance type has insufficient capacity, SageMaker AI automatically provisions",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-ai-inf-auto-inst/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-04-30-aws-aws-outposts-racks-now-support-lagstatus-cloudwatc",
       "date": "2026-04-30",
       "name": "AWS Outposts racks now support LagStatus CloudWatch metric",
@@ -533,6 +731,24 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-eks-one-click-cluster-access/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-04-30-aws-aws-payment-cryptography-adds-integration-to-multi",
+      "date": "2026-04-30",
+      "name": "AWS Payment Cryptography adds integration to Multi-party approval for sensitive operations",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p><a href=\"https://docs.aws.amazon.com/payment-cryptography/latest/userguide/what-is.html\">AWS Payment&nbsp;Cryptography(APC)</a>&nbsp;now supports&nbsp;<a href=\"https://docs.aws.amazon.com/mpa/latest/userguide/what-is.",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-payment-cryptography-multi-party/"
         }
       ],
       "impact": 5,
@@ -857,222 +1073,6 @@
         {
           "title": "Dust source",
           "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F79fbba1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-29-crewai-1-14-4a2",
-      "date": "2026-04-29",
-      "name": "1.14.4a2",
-      "vendor": "CrewAI",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<ul>\n<li>feat(flow): support custom persistence key in <a class=\"user-mention notranslate\" href=\"https://github.com/persist\">@persist</a> by <a class=\"user-mention notranslate\" href=\"https://githu",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.4a2"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-04-29-crewai-1-14-4a1",
-      "date": "2026-04-29",
-      "name": "1.14.4a1",
-      "vendor": "CrewAI",
-      "type": "launch",
-      "summary": "<h2>What's Changed</h2>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Fix crew chat description helpers against LLM failures.</li>\n<li>Reset messages and iterations between invocations in executor.</li>\n<li>Forward trained-agents file thr",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.4a1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-04-28-openai-openai-models-codex-and-managed-agents-come-to-aws",
-      "date": "2026-04-28",
-      "name": "OpenAI models, Codex, and Managed Agents come to AWS",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/openai-on-aws"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-28-aws-amazon-workspaces-personal-enhances-pcoip-to-dcv-p",
-      "date": "2026-04-28",
-      "name": "Amazon WorkSpaces Personal enhances PCoIP to DCV protocol migration",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon WorkSpaces Personal now provides an enhanced experience for administrators migrating WorkSpaces from PCoIP to DCV protocol, including a guided console action for protocol modification, checkpoint snapshots for ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-workspaces-personal-pcoip/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-28-aws-amazon-ec2-c8gn-instances-are-now-available-in-add",
-      "date": "2026-04-28",
-      "name": "Amazon EC2 C8gn instances are now available in additional regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8gn instances, powered by the latest-generation AWS Graviton4 processors, are available in the AWS&nbsp;Europe (Milan) and&nbsp;Asia Pacific (Hong Kong) regio",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-c8gn-milan-hong-kong/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-28-aws-amazon-connect-talent-for-ai-powered-hiring-now-av",
-      "date": "2026-04-28",
-      "name": "Amazon Connect Talent for AI-powered hiring (now available in Preview)",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Connect Talent is now available in Preview, giving talent acquisition leaders an AI-powered hiring solution that accelerates candidate selection at scale. Informed by decades of Amazon's hiring science, Amazon ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-talent-ai-powered/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-28-aws-amazon-bedrock-now-offers-openai-models-codex-and-",
-      "date": "2026-04-28",
-      "name": "Amazon Bedrock now offers OpenAI models, Codex, and Managed Agents (Limited Preview)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS and OpenAI are expanding their partnership to bring frontier&nbsp;intelligence to the&nbsp;infrastructure millions of organizations already trust. Enterprises want the most capable AI models and agents, with the s",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/bedrock-openai-models-codex-managed-agents/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-28-aws-aws-announces-amazon-connect-decisions",
-      "date": "2026-04-28",
-      "name": "AWS Announces Amazon Connect Decisions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the general availability of Amazon Connect Decisions, an agentic AI planning and intelligence solution that helps supply chain teams shift from firefighting to proactive operations. Combining 30 y",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-decisions-april/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-28-aws-build-custom-applications-using-natural-language-i",
-      "date": "2026-04-28",
-      "name": "Build custom applications using natural language in Amazon Quick (Preview)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces new features in preview for <a href=\"https://www.aws.com/quick/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Quick</a>, allowing users to create custom web applications in minutes using natur",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/custom-applications/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-28-aws-amazon-quick-now-available-as-a-desktop-applicatio",
-      "date": "2026-04-28",
-      "name": "Amazon Quick now available as a desktop application for macOS and Windows (Preview)",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Quick is now available as a native desktop application for MacOS and Windows in preview. The desktop application extends Quick beyond your browser and utilizes the capabilities on your computer– including direc",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-macos-windows-preview/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-28-aws-start-using-amazon-quick-for-free-in-minutes-with-",
-      "date": "2026-04-28",
-      "name": "Start using Amazon Quick for free in minutes with Free and Plus pricing plans",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, new Free and Plus pricing plans for <u><a href=\"https://aws.com/quick\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Quick</a></u> allow you to <a href=\"https://portal.aws.amazon.com/billing/signup/",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-free-plus/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-28-dust-spa-poke-16679f7-feat-sbx-document-egress-proxy-in",
-      "date": "2026-04-28",
-      "name": "spa/poke/16679f7: feat(sbx): document egress proxy in sandbox skill instructions (#24906)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>feat(sbx): document egress proxy in sandbox skill instructions</li>\n</ul>\n<p>The sandbox runs behind a deny-by-default egress proxy, but the agent<br />\nhad no awareness of it — discovery was purely reactive via",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F16679f7"
         }
       ],
       "impact": 3,
