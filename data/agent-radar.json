@@ -1,6 +1,222 @@
 {
   "items": [
     {
+      "id": "2026-05-05-aws-aws-elemental-mediatailor-now-provides-automatic-s",
+      "date": "2026-05-05",
+      "name": "AWS Elemental MediaTailor now provides automatic secure server-to-server integration with Google's ad platforms",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Elemental MediaTailor now automatically authenticates server-to-server connections with Google Ad Manager (GAM), Google Campaign Manager (GCM), and Google Display &amp; Video 360 (DV360). This delivers a seamless ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/mediatailor-automatic-google-ad-platform-integration"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-05-aws-aws-sam-cli-adds-buildkit-support-for-aws-lambda-f",
+      "date": "2026-05-05",
+      "name": "AWS SAM CLI adds BuildKit support for AWS Lambda functions packaged as container images",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/using-sam-cli.html\" target=\"_blank\">AWS Serverless Application Model Command Line Interface (SAM CLI)</a> now supports BuildKit f",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-sam-cli-buildkit-aws-lambda/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-05-aws-aws-sam-now-supports-websocket-apis-for-amazon-api",
+      "date": "2026-05-05",
+      "name": "AWS SAM now supports WebSocket APIs for Amazon API Gateway",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html\" target=\"_blank\">AWS Serverless Application Model (AWS SAM)</a> now supports WebSocket APIs for Amazon API Gatew",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-sam-websocket-apis-api-gateway/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-05-aws-amazon-elasticache-adds-thirteen-new-amazon-cloudw",
+      "date": "2026-05-05",
+      "name": "Amazon ElastiCache adds thirteen new Amazon CloudWatch metrics for network capacity planning and engine diagnostics",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p><a href=\"https://aws.amazon.com/elasticache/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon ElastiCache</a> customers can now detect network throttling, memory fragmentation, and connection exhaustion, using thirte",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-elasticache-cloudwatch-metrics-network-engine-diagnostics/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-05-aws-amazon-workspaces-now-lets-ai-agents-operate-deskt",
+      "date": "2026-05-05",
+      "name": "Amazon WorkSpaces now lets AI agents operate desktop applications (Preview)",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon WorkSpaces, AWS's fully managed cloud desktop service, now enables AI agents to securely access and operate desktop applications through managed WorkSpaces environments. Many enterprises run critical business p",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/workspaces-ai-agents/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-05-aws-amazon-quick-now-integrates-with-new-relic-for-obs",
+      "date": "2026-05-05",
+      "name": "Amazon Quick now integrates with New Relic for observability-driven AI agents",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Quick, your AI assistant for work,&nbsp;now integrates with New Relic's AI agents, enabling&nbsp;on-call engineers, SREs, and engineering leaders&nbsp;to&nbsp;investigate incidents, generate root cause analysis",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-new-relic/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-05-aws-amazon-connect-cases-now-supports-customer-profile",
+      "date": "2026-05-05",
+      "name": "Amazon Connect Cases now supports customer profile identity resolution",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect Cases now automatically reassociates cases when duplicate customer profiles are merged, so agents always see a complete case history for each customer. When the same customer has multiple profiles, such",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-cases-customer-profiles-id-res/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-05-aws-amazon-bedrock-agentcore-is-now-available-in-aws-g",
+      "date": "2026-05-05",
+      "name": "Amazon Bedrock AgentCore is now available in AWS GovCloud (US-West)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock AgentCore brings enterprise-grade agentic AI capabilities to workloads with elevated compliance needs in the AWS GovCloud (US-West) Region. AgentCore is a platform for building, deploying, and operating",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/bedrock-agentcore-launch-aws-govcloud-us/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-05-aws-aws-backup-improves-performance-for-amazon-eks-clu",
+      "date": "2026-05-05",
+      "name": "AWS Backup improves performance for Amazon EKS cluster backups",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Backup for Amazon EKS now completes cluster state backups up to 10x faster. This performance improvement enables you to back up Amazon EKS clusters with a large numbers of namespaces and Kubernetes resources signi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-backup-amazon-eks-performance-improvement/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-05-aws-aws-iam-now-provides-higher-maximum-quotas-for-rol",
+      "date": "2026-05-05",
+      "name": "AWS IAM now provides higher maximum quotas for roles, role trust policies, instance profiles, managed policies, and identity providers",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p><a href=\"https://aws.amazon.com/iam/\">AWS Identity and Access Management (IAM)</a> has increased maximum quotas for six resources:<br /> </p> \n<ul> \n <li>Customer managed policies per account (5,000 to 10,000)</li> \n ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iam-increased-quotas/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-05-dust-spa-poke-92905d8",
+      "date": "2026-05-05",
+      "name": "spa/poke/92905d8",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>[front] gate sandbox workspace admin surface behind sandbox_workspace…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F92905d8"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-05-dust-spa-poke-3382b59-feat-sandbox-scaffold-sandbox-too",
+      "date": "2026-05-05",
+      "name": "spa/poke/3382b59: feat(sandbox): scaffold sandbox_tool_executions storage (#25162)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Adds the storage layer for sandbox-originated MCP tool executions (the<br />\napproval-flow PR will land on top). New <code>sandbox_tool_executions</code><br />\ntable plus a single <code>spawnChildSandboxToolExecution<",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F3382b59"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-05-04-aws-aws-entity-resolution-launches-support-for-increme",
       "date": "2026-05-04",
       "name": "AWS Entity Resolution launches support for incremental Machine Learning based matching workflows",
@@ -160,6 +376,78 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-05-04-openai-openai-and-pwc-collaborate-to-reimagine-the-office",
+      "date": "2026-05-04",
+      "name": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/openai-pwc-finance-collaboration"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-04-aws-amazon-workspaces-applications-now-supports-host-t",
+      "date": "2026-05-04",
+      "name": "Amazon WorkSpaces Applications now supports host-to-client URL redirection",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon WorkSpaces Applications now supports host-to-client URL redirection, which automatically launches URLs from streaming sessions in the user's local browser. Administrators can configure allow and deny URL patter",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-workspaces-applications-url/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-04-aws-4-new-qwen-models-for-multimodal-reasoning-agentic",
+      "date": "2026-05-04",
+      "name": "4 new Qwen models for multimodal reasoning, agentic coding, and multilingual applications are now available in Amazon SageMaker JumpStart",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Today, we are excited to announce the availability of four new Qwen models in <a>Amazon SageMaker JumpStart</a>: <b>Qwen3.5-27B-FP8</b>, <b>Qwen3.6-35B-A3B</b>, <b>Qwen3.5-0.8B</b>, and <b>Qwen3.5-2B</b>.</p> \n<p>Thes",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/qwen-models-on-sagemaker-jumpstart/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-04-aws-amazon-vpc-lattice-resource-configurations-now-sup",
+      "date": "2026-05-04",
+      "name": "Amazon VPC Lattice resource configurations now support private domain-name targets",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>VPC Lattice resource configurations now support domain-name targets that are private to your network. You can define a resource configuration for a private FQDN and share it with other accounts, enabling secure cross-",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-vpc-lattice/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
       "tags": []
     },
     {
@@ -505,6 +793,24 @@
       "tags": []
     },
     {
+      "id": "2026-05-01-aws-amazon-cloudwatch-rum-now-supports-session-replay-",
+      "date": "2026-05-01",
+      "name": "Amazon CloudWatch RUM now supports Session Replay for Web Applications",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon CloudWatch RUM (Real User Monitoring) Session Replay gives developers a video-like playback of user experiences on their web applications — capturing clicks, scrolls, page changes, and errors — so they can see ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudwatch-rum-session/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-04-30-aws-aws-outposts-racks-now-support-lagstatus-cloudwatc",
       "date": "2026-04-30",
       "name": "AWS Outposts racks now support LagStatus CloudWatch metric",
@@ -770,312 +1076,6 @@
         }
       ],
       "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-29-openai-elevated-errors-for-chatgpt-go-5-3-thinking",
-      "date": "2026-04-29",
-      "name": "Elevated errors for ChatGPT Go (5.3 Thinking)",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Voice mode (Operational)</li>\n<li>Search (Operational)</li>\n<li>Conver",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KQDGQKRTSJ02E03R134H5JFD"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-29-openai-chatgpt-users-may-encounter-issues-in-conversation",
-      "date": "2026-04-29",
-      "name": "ChatGPT users may encounter issues in conversation",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>App (Operational)</li>\n<li>Search (Operational)</li>\n<li>Chat Completi",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KQBXGR1S2JW48DA0795D4MGZ"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-29-aws-amazon-rds-for-mysql-announces-innovation-release-",
-      "date": "2026-04-29",
-      "name": "Amazon RDS for MySQL announces Innovation Release 9.6 in Amazon RDS Database Preview Environment",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/mysql/\">Amazon RDS for MySQL</a>&nbsp;now supports community MySQL Innovation Release 9.6 in the&nbsp;<a href=\"https://aws.amazon.com/rds/databasepreview/\">Amazon RDS Database Previ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-rds-mysql-innovation/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-29-aws-amazon-documentdb-with-mongodb-compatibility-is-no",
-      "date": "2026-04-29",
-      "name": "Amazon DocumentDB (with MongoDB compatibility) is Now Available in the Canada West (Calgary) Region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon DocumentDB (with MongoDB compatibility) is now available in the Canada West (Calgary) region adding to the <a href=\"https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/\">list of ava",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-documentdb-available-in-canada-west-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-29-aws-amazon-cloudfront-now-supports-invalidation-by-cac",
-      "date": "2026-04-29",
-      "name": "Amazon CloudFront now supports invalidation by cache tag",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon CloudFront now allows you to invalidate cached objects by cache tag, enabling you to remove groups of related content from CloudFront edge locations with a single invalidation request. Cache tag invalidation si",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/cloudfront-invalidation-cache-tag/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-29-aws-paraphrase-multilingual-minilm-l12-v2-table-transf",
-      "date": "2026-04-29",
-      "name": "Paraphrase-multilingual-MiniLM-L12-v2, Table Transformer Detection, and Bielik-11B-v3.0-Instruct are now available in Amazon SageMaker JumpStart",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announced the availability of paraphrase-multilingual-MiniLM-L12-v2, Microsoft Table Transformer Detection, and Bielik-11B-v3.0-Instruct in Amazon SageMaker JumpStart.</p> \n<p><b>Paraphrase-multilingual-Min",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/paraphrase-multilingual-table-transformer-bielik-on-sagemaker-jumpstart/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-29-aws-gemma-4-models-are-now-available-in-amazon-sagemak",
-      "date": "2026-04-29",
-      "name": "Gemma 4 models are now available in Amazon SageMaker JumpStart",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announced the availability of Gemma 4 E4B, Gemma 4 26B-A4B, and Gemma 4 31B in Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. These three instruction-tu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/gemma-4-models-on-sagemaker-jumpstart/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-29-aws-amazon-cloudwatch-adds-visual-agent-configuration-",
-      "date": "2026-04-29",
-      "name": "Amazon CloudWatch adds visual agent configuration to the EC2 console",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon CloudWatch now provides a visual configuration editor for the CloudWatch agent directly in the Amazon EC2 console, enabling you to set up and manage observability for your EC2 instances without hand-editing JSO",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-agent-ec2/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-29-aws-openai-gpt-oss-and-nvidia-nemotron-models-availabl",
-      "date": "2026-04-29",
-      "name": "OpenAI GPT OSS and NVIDIA Nemotron Models Available on Amazon Bedrock in AWS GovCloud (US)",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Bedrock now supports OpenAI's open-weight GPT OSS models (120B and 20B) and NVIDIA Nemotron (Nano 9B v2, Nano 12B v2, Nano 30B, Super 120B) models expanding your ability to build and scale generative AI applica",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/openai-gpt-oss-nvidia-nemotron-govcloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-29-aws-amazon-quick-adds-custom-sort-for-filter-controls",
-      "date": "2026-04-29",
-      "name": "Amazon Quick Adds Custom Sort for Filter Controls",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Quick Sight in Amazon Quick&nbsp;now supports custom sort for filter controls, giving authors control over how values appear in dropdown and list controls. Previously, filter control values were always sorted alphabet",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/quick-filter-control-sort/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-29-aws-aws-transfer-family-terraform-module-now-supports-",
-      "date": "2026-04-29",
-      "name": "AWS Transfer Family Terraform module now supports Okta and Microsoft Entra ID integration examples",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://github.com/aws-ia/terraform-aws-transfer-family\" rel=\"noopener noreferrer\" target=\"_blank\">AWS Transfer Family Terraform module</a>&nbsp;now&nbsp;includes end-to-end examples for deploying Transfer Fa",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-transfer-family-terraform-okta-microsoft-entra-id/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-29-aws-amazon-rds-for-db2-is-now-available-in-the-aws-gov",
-      "date": "2026-04-29",
-      "name": "Amazon RDS for Db2 is now available in the AWS GovCloud (US-East, US-West) Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/db2/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for Db2</a> is now available in the AWS GovCloud (US-East, US-West) Regions. Amazon R",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-rds-db2-available-aws-govcloud-us-east-us-west-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-29-aws-amazon-opensearch-service-now-supports-jwks-url-co",
-      "date": "2026-04-29",
-      "name": "Amazon OpenSearch Service now supports JWKS URL configuration for JWT authentication",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon OpenSearch Service now supports JSON Web Key Set (JWKS) URL configuration for JWT authentication. You can configure a JWKS URL as part of your JWT authentication setup, allowing your OpenSearch domains to autom",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-opensearch-jwks-url-jwt/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-29-dust-spa-poke-8551657-feat-sbx-dedicated-action-details",
-      "date": "2026-04-29",
-      "name": "spa/poke/8551657: feat(sbx): dedicated action details for add_egress_domain (#24997)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>feat(sbx): dedicated action details for add_egress_domain</li>\n</ul>\n<p>The shared sandbox details component was hard-coded for the bash tool:<br />\nfixed \"Executed command in sandbox\" label and an output parser",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8551657"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-29-dust-spa-poke-232ec07-gate-fetching-the-suggestion-behi",
-      "date": "2026-04-29",
-      "name": "spa/poke/232ec07: Gate fetching the suggestion behind the feature flag (#24972)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>Co-authored-by: Fabien <a href=\"mailto:fabiencelier@Fabiens-MacBook-Pro.local\">fabiencelier@Fabiens-MacBook-Pro.local</a></p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F232ec07"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-29-dust-spa-poke-86abdb7-add-cat-and-grep-tools-to-files-m",
-      "date": "2026-04-29",
-      "name": "spa/poke/86abdb7: Add cat and grep tools to files MCP server (#25005)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>Add cat and grep tools to files MCP server</p>\n</li>\n<li>\n<p>Fix tests</p>\n</li>\n<li>\n<p>👕</p>\n</li>\n<li>\n<p>Address comments from review</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F86abdb7"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-29-dust-spa-poke-79fbba1",
-      "date": "2026-04-29",
-      "name": "spa/poke/79fbba1",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Fallback to cached tools when remote MCP rate limit hit (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/24978\">#24978</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F79fbba1"
-        }
-      ],
-      "impact": 3,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
