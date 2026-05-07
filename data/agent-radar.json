@@ -1,6 +1,204 @@
 {
   "items": [
     {
+      "id": "2026-05-06-openai-how-frontier-enterprises-are-building-an-ai-advant",
+      "date": "2026-05-06",
+      "name": "How frontier enterprises are building an AI advantage",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/introducing-b2b-signals"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-06-aws-aws-site-to-site-vpn-now-supports-modifying-tunnel",
+      "date": "2026-05-06",
+      "name": "AWS Site-to-Site VPN now supports modifying tunnel bandwidth on existing VPN connections",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Site-to-Site VPN now supports modifying tunnel bandwidth between standard (up to 1.25 Gbps) and large (up to 5 Gbps) on existing connections, making it easier to update your VPN connections’ bandwidth per your org",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-site-to-site-vpn-modify-bandwidth/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-06-aws-amazon-ec2-p6-b300-instances-are-now-available-in-",
+      "date": "2026-05-06",
+      "name": "Amazon EC2 P6-B300 instances are now available in the US East (N. Virginia) Region",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Starting today, Amazon Elastic Cloud Compute (Amazon EC2) P6-B300 instances are available in the US East (N. Virginia) Region.&nbsp;P6-B300 instances provide 8xNVIDIA Blackwell Ultra GPUs with 2.1 TB high bandwidth GP",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-p6-b300-us-east"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-06-aws-aws-marketplace-now-supports-programmatic-procurem",
+      "date": "2026-05-06",
+      "name": "AWS Marketplace now supports programmatic procurement with Agreements API",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS Marketplace announces the Agreements API, enabling you to procure AWS Marketplace products and manage agreements programmatically. With this launch, you can generate estimates, accept offers, track charges ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-marketplace-agreements-api/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-06-aws-amazon-bedrock-agentcore-memory-announces-metadata",
+      "date": "2026-05-06",
+      "name": "Amazon Bedrock AgentCore Memory announces metadata for long-term memory",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Bedrock&nbsp;AgentCore&nbsp;Memory now supports&nbsp;metadata on long-term memory (LTM) records, enabling agents to tag, filter, and retrieve memories using structured attributes alongside semantic search. You ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/agentcore-longterm-memory-metadata"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-06-aws-aws-elemental-mediatailor-now-supports-ad-trickpla",
+      "date": "2026-05-06",
+      "name": "AWS Elemental MediaTailor now supports ad trickplay personalization and compact DASH manifest optimization via dynamic transcoding",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Elemental MediaTailor now enhances streaming ad personalization with support for trickplay features in HLS and DASH formats. This update also introduces compact DASH manifests for more efficient manifest delivery.",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/mediatail-ad-trickplay-and-compact-dash-manifest-optimization"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-06-aws-announcing-agent-toolkit-for-aws-help-ai-coding-ag",
+      "date": "2026-05-06",
+      "name": "Announcing Agent Toolkit for AWS — help AI coding agents build effectively on AWS",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS is launching the Agent Toolkit for AWS, a production-ready suite of tools and guidance that helps AI coding agents build on AWS with fewer errors, lower token costs, and enterprise-grade security controls. ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/agent-toolkit/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-06-aws-the-aws-mcp-server-is-now-generally-available",
+      "date": "2026-05-06",
+      "name": "The AWS MCP Server is now generally available",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the general availability of the AWS MCP Server, a managed server that gives AI coding agents secure, auditable access to AWS services through the Model Context Protocol (MCP). The AWS MCP Server i",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-mcp-server/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-06-aws-aws-directory-service-expands-directory-security-s",
+      "date": "2026-05-06",
+      "name": "AWS Directory Service expands directory security settings with STIG-aligned controls for Managed AD",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><br /> AWS Directory Service for Microsoft Active Directory (AWS Managed Microsoft AD) now has expanded its security settings to include STIG-aligned configurations for high-impact security areas. These new security s",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/add-security-settings-stig-aws-microsoft-ad/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-06-dust-spa-poke-8ce1d24-mcp-add-meta-key-value-fields-to-",
+      "date": "2026-05-06",
+      "name": "spa/poke/8ce1d24: [MCP] Add meta key-value fields to remote MCP servers (#25245)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>\n<p>feat(mcp): add meta JSONB column to remote_mcp_servers</p>\n</li>\n<li>\n<p>feat(mcp): propagate meta through action pipeline and expose PATCH endpoint</p>\n</li>\n<li>\n<p>feat(mcp): add meta fields editor to rem",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8ce1d24"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-06-dust-spa-poke-3cffaf8-fix-plugins-after-migration-to-zo",
+      "date": "2026-05-06",
+      "name": "spa/poke/3cffaf8: Fix plugins after migration to Zod (#25268)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>The io-ts → zod migration in <a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/25236\">#25236</a> silently broke every resource-targeted poke plugin (Run Reinforcement, and others) — they a",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F3cffaf8"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-05-05-aws-aws-elemental-mediatailor-now-provides-automatic-s",
       "date": "2026-05-05",
       "name": "AWS Elemental MediaTailor now provides automatic secure server-to-server integration with Google's ad platforms",
@@ -451,6 +649,24 @@
       "tags": []
     },
     {
+      "id": "2026-05-04-aws-aws-console-mobile-app-adds-interactive-graphs-ai-",
+      "date": "2026-05-04",
+      "name": "AWS Console Mobile App adds interactive graphs, AI log ssummaries, and natural language logs search to CloudWatch Alarms",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Web Services (AWS) is announcing new CloudWatch Alarms capabilities in the AWS Console Mobile Application. You can now investigate alarms and move from notification to root cause faster with interactive graphs,",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-console-mobile-app/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-05-02-dust-spa-poke-32bb8d9-front-no-store-on-x-reload-requir",
       "date": "2026-05-02",
       "name": "spa/poke/32bb8d9: [front] no-store on X-Reload-Required responses (#25115)",
@@ -857,222 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-mq-rabbitmq-prometheus-metrics/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-30-aws-amazon-bedrock-agentcore-identity-now-supports-on-",
-      "date": "2026-04-30",
-      "name": "Amazon Bedrock AgentCore Identity now supports On-Behalf-Of (OBO) token exchange",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock AgentCore Identity now supports On-Behalf-Of (OBO) token exchange, enabling developers to build agents that securely access protected resources on behalf of authenticated users — without requiring users",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-bedrock-agentcore/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-30-aws-aws-neuron-sdk-now-available-with-neuron-agentic-d",
-      "date": "2026-04-30",
-      "name": "AWS Neuron SDK now available with Neuron Agentic Development for NKI kernel development on Trainium",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS Neuron announces the Neuron Agentic Development capabilities, an open-source collection of agents and skills that equip AI coding assistants to accelerate development on <a href=\"https://aws.amazon.com/ai/machine-",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/announcing-neuron-agentic-development/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-30-aws-amazon-bedrock-agentcore-launches-capabilities-for",
-      "date": "2026-04-30",
-      "name": "Amazon Bedrock AgentCore launches capabilities for optimizing agent performance in preview",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock AgentCore launches recommendations and two ways to validate performance (batch evaluations and A/B tests). This completes the observe, evaluate, improve loop for AI agents in production. Until now, tran",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/bedrock-agentcore-optimization-preview/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-30-aws-amazon-quick-adds-microsoft-excel-powerpoint-exten",
-      "date": "2026-04-30",
-      "name": "Amazon Quick adds Microsoft Excel, PowerPoint extensions and updates the Word extension (Preview)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, Amazon Quick introduces new and upgraded Microsoft 365 extensions in preview for Excel, PowerPoint, and Word, enabling Quick to perform tasks directly within users’ Microsoft 365 environments. These extensions ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-microsoft-excel/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-30-aws-amazon-opensearch-service-now-supports-index-level",
-      "date": "2026-04-30",
-      "name": "Amazon OpenSearch Service now supports index-level encryption",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon OpenSearch Service now supports index-level encryption, enabling you to encrypt data at rest on a per-index basis using AWS Key Management Service (KMS) customer managed keys. You can use different customer man",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-opensearch-service-supports-index-level-encryption/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-30-dust-spa-poke-990b4d1",
-      "date": "2026-04-30",
-      "name": "spa/poke/990b4d1",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>feat(sbx): redact env var values from bash output, instruct agent on …</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F990b4d1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-30-dust-spa-poke-412b9e0",
-      "date": "2026-04-30",
-      "name": "spa/poke/412b9e0",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Add ability to pick a custom agent and a custom message when starting…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F412b9e0"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-30-crewai-1-14-4",
-      "date": "2026-04-30",
-      "name": "1.14.4",
-      "vendor": "CrewAI",
-      "type": "launch",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add support for custom persistence key in <a class=\"user-mention notranslate\" href=\"https://github.com/persist\">@persist</a></li>\n<li>Add Responses API support for Azure",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.4"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-04-30-aws-aws-payment-cryptography-now-supports-paper-based-",
-      "date": "2026-04-30",
-      "name": "AWS Payment Cryptography now supports paper-based key exchange",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/payment-cryptography/\">AWS Payment Cryptography</a> now supports Physical Key Exchange, a new PCI PIN and P2PE compliant feature for performing paper-based cryptographic key exchange wi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-payment-cryptography/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-30-aws-amazon-eks-now-supports-one-click-cluster-access-t",
-      "date": "2026-04-30",
-      "name": "Amazon EKS now supports one-click cluster access through CloudShell",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/eks/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Elastic Kubernetes Service</a> (EKS) now provides one-click cluster access directly from the AWS Management Console through <a hre",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-eks-one-click-cluster-access/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-30-aws-aws-payment-cryptography-adds-integration-to-multi",
-      "date": "2026-04-30",
-      "name": "AWS Payment Cryptography adds integration to Multi-party approval for sensitive operations",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p><a href=\"https://docs.aws.amazon.com/payment-cryptography/latest/userguide/what-is.html\">AWS Payment&nbsp;Cryptography(APC)</a>&nbsp;now supports&nbsp;<a href=\"https://docs.aws.amazon.com/mpa/latest/userguide/what-is.",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-payment-cryptography-multi-party/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-29-openai-building-the-compute-infrastructure-for-the-intell",
-      "date": "2026-04-29",
-      "name": "Building the compute infrastructure for the Intelligence Age",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age"
         }
       ],
       "impact": 5,
