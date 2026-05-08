@@ -1,6 +1,348 @@
 {
   "items": [
     {
+      "id": "2026-05-07-openai-parloa-builds-service-agents-customers-want-to-tal",
+      "date": "2026-05-07",
+      "name": "Parloa builds service agents customers want to talk to",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/parloa"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-07-openai-elevated-transcription-failures-affecting-chatgpt-",
+      "date": "2026-05-07",
+      "name": "Elevated transcription failures affecting ChatGPT & Codex",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Investigating</b><br /><br />We are investigating the issue for the listed services.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Codex API (Degraded performance)</li>\n<li>Voice mode (Deg",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KR1Q0SWZESWXQVWQRKRDJCHK"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-07-aws-amazon-ec2-g6-instances-now-available-in-aws-europ",
+      "date": "2026-05-07",
+      "name": "Amazon EC2 G6 instances now available in AWS European Sovereign Cloud (Germany)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, the Amazon Elastic Compute Cloud (Amazon EC2) G6 instances powered by NVIDIA L4 GPUs are available in AWS European Sovereign Cloud (Germany). G6 instances can be used for a wide range of graphics-inten",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-g6-aws-european-sovereign-cloud/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-07-aws-amazon-ec2-x8i-instances-are-now-available-in-addi",
+      "date": "2026-05-07",
+      "name": "Amazon EC2 X8i instances are now available in additional regions",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) X8i instances are available in the Europe (Ireland) and Asia Pacific (Mumbai) regions. These instances are powered by custom Intel Xeon 6 processors available ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-BOM-DUB-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-07-aws-amazon-sagemaker-unified-studio-adds-identity-and-",
+      "date": "2026-05-07",
+      "name": "Amazon SageMaker Unified Studio adds identity and user management features",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker Unified Studio announces new administration features that give administrators more control over identity configuration and user management for both IAM and Identity Center domain types.<br /> <br /> I",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/smus-identity-user-management/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-07-aws-amazon-ec2-g7e-instances-now-available-in-europe-l",
+      "date": "2026-05-07",
+      "name": "Amazon EC2 G7e instances now available in Europe (London) region",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Starting today, Amazon EC2 G7e instances accelerated by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs are now available in Europe (London) region. G7e instances offer up to 2.3x inference performance compared to G",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-g7e-london-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-07-aws-aws-capabilities-by-region-now-supports-availabili",
+      "date": "2026-05-07",
+      "name": "AWS Capabilities by Region now supports availability notifications",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces availability notifications for AWS Capabilities by Region in AWS Builder Center, a new subscription-based system that automatically alerts builders when&nbsp;an&nbsp;AWS service(s)&nbsp;and/or&nbs",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-regional-planning-tool-notification"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-07-aws-aws-elemental-mediatailor-launches-monetization-fu",
+      "date": "2026-05-07",
+      "name": "AWS Elemental MediaTailor launches Monetization Functions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Elemental MediaTailor now supports&nbsp;monetization&nbsp;functions,&nbsp;a new capability that lets customers customize how MediaTailor builds ad decision server (ADS) requests and manages session data during ad-",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-elemental-mediatailor-monetization-functions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-07-aws-aws-advanced-jdbc-wrapper-now-provides-client-side",
+      "date": "2026-05-07",
+      "name": "AWS Advanced JDBC Wrapper now provides client-side encryption",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>The AWS Advanced JDBC Wrapper now provides column-level client-side encryption through its KMS Encryption plugin. The wrapper provides advanced capabilities such as failover handling, AWS authentication integration, a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-advanced-jdbc-wrapper-encryption/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-07-aws-amazon-sagemaker-hyperpod-now-supports-ami-based-n",
+      "date": "2026-05-07",
+      "name": "Amazon SageMaker HyperPod now supports AMI-based node lifecycle configuration for Slurm clusters",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon SageMaker HyperPod now supports AMI-based configuration that provisions Slurm cluster nodes with the software and configurations needed for a production-ready environment to run AI/ML training workloads. This r",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-hyperpod-ami-based-node/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-07-aws-amazon-ec2-m8gn-and-m8gb-instances-are-now-availab",
+      "date": "2026-05-07",
+      "name": "Amazon EC2 M8gn and M8gb instances are now available in AWS Europe (Ireland) region",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M8gn and M8gb instances are available in the AWS Europe (Ireland) region. These instances are powered by AWS Graviton4 processors to deliver up to 30% better c",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-m8gn-m8gb-aws-europe/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-07-aws-introducing-amazon-ec2-r8idn-and-r8idb-instances",
+      "date": "2026-05-07",
+      "name": "Introducing Amazon EC2 R8idn and R8idb instances",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS is announcing the general availability of Amazon EC2 R8idn and Amazon EC2 R8idb instances, powered by custom sixth generation Intel Xeon Scalable processors, available only on AWS. These instances also feature the",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-r8idn-r8idb/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-07-aws-introducing-amazon-ec2-m8idn-and-m8idb-instances",
+      "date": "2026-05-07",
+      "name": "Introducing Amazon EC2 M8idn and M8idb instances",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS is announcing the general availability of Amazon EC2 M8idn and Amazon EC2 M8idb instances, powered by custom sixth generation Intel Xeon Scalable processors, available only on AWS. These instances also feature the",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-m8idn-m8idb/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-07-aws-agents-that-transact-amazon-bedrock-agentcore-now-",
+      "date": "2026-05-07",
+      "name": "Agents that transact: Amazon Bedrock AgentCore now includes Payments (preview)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, Amazon Bedrock AgentCore announces the preview of AgentCore payments, enabling AI agents to autonomously access and pay for APIs, MCP servers, web content, and other agents. Built in partnership with Coinbase a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-bedrock-agentcore-payments-preview"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-07-aws-amazon-rds-for-sql-server-now-supports-instances-p",
+      "date": "2026-05-07",
+      "name": "Amazon RDS for SQL Server now supports instances powered by AMD EPYC processors",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\">Amazon RDS for SQL Server</a> now supports M8a and R8a instances powered by 5th Generation AMD EPYC processors. On RDS for SQL Server, R8a and M8a instances deliver up t",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/rds-sqlserver-supports-amd-instances/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-07-aws-amazon-ses-mail-manager-now-available-in-aws-govcl",
+      "date": "2026-05-07",
+      "name": "Amazon SES Mail Manager now available in AWS GovCloud (US) Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SES Mail Manager is now available in AWS GovCloud (US) regions, expanding Mail Manager coverage to 30 AWS regions.</p> \n<p>Amazon SES Mail Manager provides a centralized gateway to manage all inbound and outbou",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/ses-mail-manager-available-aws-govcloud-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-07-dust-spa-poke-53458f0-fix-sbx-don-t-remount-gcs-fuse-on",
+      "date": "2026-05-07",
+      "name": "spa/poke/53458f0: fix(sbx): don't remount GCS FUSE on wake (#25340)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>fix(sbx): make GCS FUSE mount idempotent</li>\n</ul>\n<p>ensureSandboxReady now calls a single helper that probes the mount and<br />\ntoken server, refreshes the token in place when both are alive, and<br />\nother",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F53458f0"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-07-dust-spa-poke-713e16b-ungate-new-file-explorer-25327",
+      "date": "2026-05-07",
+      "name": "spa/poke/713e16b: Ungate new file explorer (#25327)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>\n<p>Ungate new file explorer</p>\n</li>\n<li>\n<p>Address comments from review</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F713e16b"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-07-dust-spa-poke-0468d7a-refacto-front-todo-todo-component",
+      "date": "2026-05-07",
+      "name": "spa/poke/0468d7a: [refacto] - front(TODO): todo components (#25280)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>[front] - refactor: simplify add project task composer and UI</li>\n</ul>\n<ul>\n<li>merges repetitive composition logic into a single AddTaskComposer component</li>\n<li>updates UI to use Sparkle Input and Button, ",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F0468d7a"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-05-06-openai-how-frontier-enterprises-are-building-an-ai-advant",
       "date": "2026-05-06",
       "name": "How frontier enterprises are building an AI advantage",
@@ -194,6 +536,114 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-06-openai-how-frontier-firms-are-pulling-ahead",
+      "date": "2026-05-06",
+      "name": "How frontier firms are pulling ahead",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/introducing-b2b-signals"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-06-aws-amazon-ec2-p6-b200-instances-are-now-available-in-",
+      "date": "2026-05-06",
+      "name": "Amazon EC2 P6-B200 instances are now available in the AWS GovCloud (US-West) Region",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) P6-B200 instances accelerated by NVIDIA Blackwell GPUs are available in AWS GovCloud (US-West) Region.&nbsp;These instances offer up to 2x performance compared",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-p6-b200-aws-govcloud"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-06-aws-amazon-bedrock-agentcore-runtime-now-supports-brin",
+      "date": "2026-05-06",
+      "name": "Amazon Bedrock AgentCore Runtime now supports bring-your-own file system from Amazon S3 Files and Amazon EFS",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Bedrock AgentCore Runtime now supports bring-your-own file system, enabling developers to attach their Amazon S3 Files and Amazon EFS access points directly to agent runtimes. AgentCore Runtime mounts the file ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-bedrock-agentcore-runtime/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-06-aws-amazon-elasticache-now-supports-real-time-aggregat",
+      "date": "2026-05-06",
+      "name": "Amazon ElastiCache now supports real-time aggregations",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/elasticache/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon ElastiCache</a> now supports aggregation queries, making it easier to filter, group, transform, and summarize data directl",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-elasticache-aggregations/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-06-aws-amazon-elasticache-now-supports-real-time-hybrid-s",
+      "date": "2026-05-06",
+      "name": "Amazon ElastiCache now supports real-time hybrid search with vector and full-text",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/elasticache/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon ElastiCache</a> now supports real-time hybrid search that combines vector similarity with full-text search in a single que",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-elasticache-hybrid-search/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-06-aws-amazon-elasticache-now-supports-real-time-full-tex",
+      "date": "2026-05-06",
+      "name": "Amazon ElastiCache now supports real-time full-text, exact-match, and numeric range search",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/elasticache/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon ElastiCache</a> now supports real-time full-text, exact-match, and numeric range search directly in your cache without a s",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-elasticache-enchanced-search/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -415,6 +865,24 @@
       "tags": []
     },
     {
+      "id": "2026-05-05-aws-announcing-valkey-9-0-for-amazon-elasticache",
+      "date": "2026-05-05",
+      "name": "Announcing Valkey 9.0 for Amazon ElastiCache",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/elasticache/\">Amazon ElastiCache</a> now supports Valkey 9.0, bringing new capabilities to customers building real-time, AI-driven, and high-throughput applications on AWS. As applicati",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/valkey-amazon-elasticache/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-05-04-aws-aws-entity-resolution-launches-support-for-increme",
       "date": "2026-05-04",
       "name": "AWS Entity Resolution launches support for incremental Machine Learning based matching workflows",
@@ -605,474 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-workspaces-applications-url/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-04-aws-4-new-qwen-models-for-multimodal-reasoning-agentic",
-      "date": "2026-05-04",
-      "name": "4 new Qwen models for multimodal reasoning, agentic coding, and multilingual applications are now available in Amazon SageMaker JumpStart",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Today, we are excited to announce the availability of four new Qwen models in <a>Amazon SageMaker JumpStart</a>: <b>Qwen3.5-27B-FP8</b>, <b>Qwen3.6-35B-A3B</b>, <b>Qwen3.5-0.8B</b>, and <b>Qwen3.5-2B</b>.</p> \n<p>Thes",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/qwen-models-on-sagemaker-jumpstart/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-04-aws-amazon-vpc-lattice-resource-configurations-now-sup",
-      "date": "2026-05-04",
-      "name": "Amazon VPC Lattice resource configurations now support private domain-name targets",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>VPC Lattice resource configurations now support domain-name targets that are private to your network. You can define a resource configuration for a private FQDN and share it with other accounts, enabling secure cross-",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-vpc-lattice/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-04-aws-aws-console-mobile-app-adds-interactive-graphs-ai-",
-      "date": "2026-05-04",
-      "name": "AWS Console Mobile App adds interactive graphs, AI log ssummaries, and natural language logs search to CloudWatch Alarms",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Web Services (AWS) is announcing new CloudWatch Alarms capabilities in the AWS Console Mobile Application. You can now investigate alarms and move from notification to root cause faster with interactive graphs,",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-console-mobile-app/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-02-dust-spa-poke-32bb8d9-front-no-store-on-x-reload-requir",
-      "date": "2026-05-02",
-      "name": "spa/poke/32bb8d9: [front] no-store on X-Reload-Required responses (#25115)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>[front] Add Origin to Vary and no-store on X-Reload-Required</li>\n</ul>\n<p>Reproduced via Playwright: with two tabs (one on a flagged commit, one on<br />\nprod), Chrome served the flagged tab's cached response (",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F32bb8d9"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-01-openai-elevated-error-rate-for-responses-api",
-      "date": "2026-05-01",
-      "name": "Elevated error rate for Responses API",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Responses (Operational)</li>\n          </ul>",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KQHYX4D53W6GT8FDTT9PHBQ3"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-01-aws-amazon-bedrock-agentcore-is-now-available-in-the-s",
-      "date": "2026-05-01",
-      "name": "Amazon Bedrock AgentCore is now available in the South America (São Paulo) Region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Bedrock AgentCore is now available in the AWS South America (São Paulo) Region. Amazon Bedrock AgentCore is the platform to build, connect, and optimize agents. It helps engineers ship agents fast with any fram",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/agentcore-sao-paulo-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-01-aws-freertos-202604-lts-now-available-with-enhanced-se",
-      "date": "2026-05-01",
-      "name": "FreeRTOS 202604 LTS now available with enhanced security and MQTT v5.0",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>FreeRTOS 202604 LTS, a new Long Term Support release of the open-source real-time operating system for embedded devices, is now available. This release provides embedded systems developers and Internet of Things (IoT)",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/freertos-lts/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-01-aws-opensearch-ui-supports-cross-region-data-access-to",
-      "date": "2026-05-01",
-      "name": "OpenSearch UI supports cross-region data access to OpenSearch domains",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon OpenSearch Service now supports cross-region data access for OpenSearch UI, enabling users to access OpenSearch domains hosted in different AWS Regions from within a single OpenSearch UI application. Combined w",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/opensearch-ui-cross-region-data-access-domains/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-01-aws-iam-roles-anywhere-now-enforces-vpc-endpoint-polic",
-      "date": "2026-05-01",
-      "name": "IAM Roles Anywhere now enforces VPC endpoint policies for the CreateSession API",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/iam/roles-anywhere/\">AWS Identity and Access Management (IAM) Roles Anywhere</a> now provides the capability to configure Virtual Private Cloud (VPC) endpoint policies for the IAM Roles",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/iam-roles-anywhere-vpc/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-01-aws-amazon-redshift-introduces-concurrency-scaling-sup",
-      "date": "2026-05-01",
-      "name": "Amazon Redshift Introduces Concurrency Scaling Support for auto-copy and zero-ETL",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/redshift/\">Amazon Redshift </a>announces the general availability of Amazon Redshift <a href=\"https://docs.aws.amazon.com/redshift/latest/dg/concurrency-scaling.html\">concurrency scalin",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/concurrency-scaling-auto-copy-zero-ETL/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-01-aws-aws-transform-now-offers-bi-migration-agents-for-p",
-      "date": "2026-05-01",
-      "name": "AWS Transform now offers BI migration agents for Power BI and Tableau to Amazon Quick",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Transform&nbsp;customers can&nbsp;now&nbsp;use&nbsp;BI migration agents to&nbsp;convert Tableau and Power BI dashboards to Amazon Quick Sight&nbsp;(BI capability of Amazon Quick)&nbsp;assets,&nbsp;helping&nbsp;red",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/quick-bi-migration/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-01-aws-spatial-data-management-on-aws-adds-custom-transfo",
-      "date": "2026-05-01",
-      "name": "Spatial Data Management on AWS adds custom transformations",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Spatial Data Management on AWS (SDMA) now supports custom transformation connectors and a unified desktop client installer. Custom transformation connectors let you run compute-intensive processing — such as format co",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/spatial-data-management-aws/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-01-aws-announcing-kubernetes-dynamic-resource-allocation-",
-      "date": "2026-05-01",
-      "name": "Announcing Kubernetes Dynamic Resource Allocation for Elastic Fabric Adapter",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Elastic Kubernetes Service (Amazon EKS) now supports Dynamic Resource Allocation (DRA) for Elastic Fabric Adapter (EFA), simplifying high-performance inter-node communication and RDMA (Remote Direct Memory Acce",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/kubernetes-dra-elastic-fabric-adapter/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-01-aws-amazon-rds-for-sql-server-supports-cross-account-s",
-      "date": "2026-05-01",
-      "name": "Amazon RDS for SQL Server supports cross-account snapshot sharing with additional storage volumes",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\">Amazon Relational Database Service (Amazon RDS) for SQL Server</a> now supports cross-account snapshot sharing for database instances with additional storage volumes. Ad",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/rds-sqlserver-cross-account-snapshot-sharing-additional-storage-volume/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-01-dust-spa-poke-5b7f86d",
-      "date": "2026-05-01",
-      "name": "spa/poke/5b7f86d",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>fix(hubspot): preserve engagement content fields stripped by hs_* fil…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5b7f86d"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-01-dust-spa-poke-3c7266c-fix-project-todos-prevent-system-",
-      "date": "2026-05-01",
-      "name": "spa/poke/3c7266c: fix(project-todos): prevent system from reopening done todos (#25004)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>\n<p>feat(project-todos): add creation rationale to takeaway extraction and propagate to actorRationale</p>\n</li>\n<li>\n<p>fix(project-todos): prevent system from reopening done todos</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F3c7266c"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-01-dust-spa-poke-2a9319f",
-      "date": "2026-05-01",
-      "name": "spa/poke/2a9319f",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>Persist last navigation in projects. (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/25093\">#25093</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2a9319f"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-01-dust-spa-app-5b7f86d",
-      "date": "2026-05-01",
-      "name": "spa/app/5b7f86d",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>fix(hubspot): preserve engagement content fields stripped by hs_* fil…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F5b7f86d"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-01-dust-spa-app-3c7266c-fix-project-todos-prevent-system-f",
-      "date": "2026-05-01",
-      "name": "spa/app/3c7266c: fix(project-todos): prevent system from reopening done todos (#25004)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>\n<p>feat(project-todos): add creation rationale to takeaway extraction and propagate to actorRationale</p>\n</li>\n<li>\n<p>fix(project-todos): prevent system from reopening done todos</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F3c7266c"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-01-dust-spa-app-2a9319f",
-      "date": "2026-05-01",
-      "name": "spa/app/2a9319f",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>Persist last navigation in projects. (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/25093\">#25093</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F2a9319f"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-01-aws-general-availability-of-aws-for-sap-mcp-server-in-",
-      "date": "2026-05-01",
-      "name": "General availability of AWS for SAP MCP Server in Amazon Bedrock AgentCore",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, we're announcing the General Availability of the <b>AWS for SAP MCP Server on Amazon Bedrock AgentCore, </b>purpose-built to connect AI agents directly to SAP ERP systems, securely and at scale. Built on the Mo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-sap-mcp-amazon-bedrock/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-01-aws-amazon-sagemaker-ai-now-supports-capacity-aware-in",
-      "date": "2026-05-01",
-      "name": "Amazon SageMaker AI Now Supports Capacity-Aware Inference with Automatic Instance Fallback",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker AI inference endpoints now support flexible provisioning across a prioritized list of instance types. When your preferred instance type has insufficient capacity, SageMaker AI automatically provisions",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-ai-inf-auto-inst/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-01-aws-amazon-cloudwatch-rum-now-supports-session-replay-",
-      "date": "2026-05-01",
-      "name": "Amazon CloudWatch RUM now supports Session Replay for Web Applications",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon CloudWatch RUM (Real User Monitoring) Session Replay gives developers a video-like playback of user experiences on their web applications — capturing clicks, scrolls, page changes, and errors — so they can see ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudwatch-rum-session/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-30-aws-aws-outposts-racks-now-support-lagstatus-cloudwatc",
-      "date": "2026-04-30",
-      "name": "AWS Outposts racks now support LagStatus CloudWatch metric",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS Outposts racks now support the LagStatus Amazon CloudWatch metric in all AWS commercial Regions and the AWS GovCloud (US-East) and AWS GovCloud (US-West) Regions.</p> \n<p>This metric provides you with the ability ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-outposts-lagstatus-cloudwatch/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-30-aws-amazon-ecs-managed-instances-now-supports-nvidia-g",
-      "date": "2026-04-30",
-      "name": "Amazon ECS Managed Instances now supports NVIDIA GPU metrics",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/ecs/\">Amazon Elastic Container Service (Amazon ECS)</a> now offers NVIDIA GPU metrics for containerized workloads running on Amazon ECS Managed Instances. These metrics are available th",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ecs-mi-gpu-metrics/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-04-30-aws-amazon-mq-for-rabbitmq-now-supports-prometheus-met",
-      "date": "2026-04-30",
-      "name": "Amazon MQ for RabbitMQ now supports Prometheus metrics",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p><a href=\"https://aws.amazon.com/amazon-mq/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon MQ</a> for RabbitMQ now supports the Prometheus plugin on RabbitMQ 4.2 brokers, providing a native Prometheus-compatible met",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-mq-rabbitmq-prometheus-metrics/"
         }
       ],
       "impact": 5,
