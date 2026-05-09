@@ -1,6 +1,114 @@
 {
   "items": [
     {
+      "id": "2026-05-09-openai-elevated-errors-for-responses-api",
+      "date": "2026-05-09",
+      "name": "Elevated errors for Responses API",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.\n\nBetween 4:05pm and 4:40pm PT on May 8, some customers using the Responses API may have experienced elevated 404 errors. We identified th",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KR50YN2DBMTXGPC6BQSJN48J"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-08-openai-running-codex-safely-at-openai",
+      "date": "2026-05-08",
+      "name": "Running Codex safely at OpenAI",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/running-codex-safely"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-08-openai-degraded-performance-with-codex-cloud-tasks",
+      "date": "2026-05-08",
+      "name": "Degraded Performance with Codex Cloud Tasks",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Codex Web (Operational)</li>\n<li>CLI (Operational)</li>\n<li>App (Opera",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KR421V8PCTFKA8EJJC2VCGA3"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-08-aws-amazon-connect-adds-default-step-by-step-guides-fo",
+      "date": "2026-05-08",
+      "name": "Amazon Connect adds default Step-by-Step Guides for After Contact Work",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect now supports Default Guides for After Contact Work (ACW), enabling contact center administrators to automatically launch a Step-by-Step Guide when an agent enters the ACW state without any manual work.&",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-adds-default-step-by-step-guides-for-after-contact-work"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-08-aws-amazon-route-53-global-resolver-now-lets-you-add-a",
+      "date": "2026-05-08",
+      "name": "Amazon Route 53 Global Resolver now lets you add and remove AWS Regions for anycast DNS resolution",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Route 53 Global Resolver now lets you add and remove AWS Regions for anycast DNS resolution, giving you flexible control over where your DNS queries are resolved. This allows you to easily expand Global Resolve",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-route-global-resolver-aws/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-08-aws-aws-service-catalog-is-now-available-in-the-aws-as",
+      "date": "2026-05-08",
+      "name": "AWS Service Catalog is now available in the AWS Asia Pacific (New Zealand) and Canada West (Calgary) regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Service Catalog is now available to customers in two additional AWS Regions: Asia Pacific (New Zealand) and Canada West (Calgary).<br /> <br /> AWS Service Catalog enables customers to create, govern, and distribu",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-service-catalog-calgary-new-zealand-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-05-07-openai-parloa-builds-service-agents-customers-want-to-tal",
       "date": "2026-05-07",
       "name": "Parloa builds service agents customers want to talk to",
@@ -338,6 +446,42 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-07-aws-amazon-route-53-resolver-endpoints-now-support-add",
+      "date": "2026-05-07",
+      "name": "Amazon Route 53 Resolver endpoints now support additional capabilities for IPv6 query traffic",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Route 53 Resolver endpoints now support DNS64 on inbound endpoints and IPv6 forwarding through the internet gateway (IGW) on outbound endpoints, making it easier to manage hybrid DNS across IPv4 and IPv6 networ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-route-53-resolver-ipv6/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-07-aws-amazon-redshift-now-scales-data-ingestion-automati",
+      "date": "2026-05-07",
+      "name": "Amazon Redshift now scales data ingestion automatically with concurrency scaling for batch workloads",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/redshift/\">Amazon Redshift </a>now extends concurrency scaling to support high-volume data ingestion workloads, enabling <a href=\"https://docs.aws.amazon.com/redshift/latest/dg/concurre",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/concurrencyscaling-support-for-copy"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -929,150 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-dataset-qa/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-04-aws-amazon-eventbridge-supports-data-plane-logging-to-",
-      "date": "2026-05-04",
-      "name": "Amazon EventBridge supports data plane logging to AWS CloudTrail",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, Amazon EventBridge announces support for logging data plane APIs using AWS CloudTrail, enabling customers to have greater visibility into event bus activity in their AWS account for best practices in security a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-eventbridge-data-aws-cloudtrail/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-04-aws-amazon-quick-now-supports-s3-tables-bucket-as-a-da",
-      "date": "2026-05-04",
-      "name": "Amazon Quick now supports S3 tables bucket as a data source",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Quick now supports Amazon S3 table buckets as a data source — enabling users to build dashboards, run conversational analytics, and explore Apache Iceberg tables stored in S3 table buckets. With no intermediate",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/quick-direct-query-s3-tables/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-04-aws-amazon-quick-upgrades-the-extension-for-microsoft-",
-      "date": "2026-05-04",
-      "name": "Amazon Quick upgrades the extension for Microsoft Outlook (Preview)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the preview of the Amazon Quick extension for Microsoft Outlook, which brings generative AI-powered productivity directly into your email and calendar workflows. With the extension, you can use na",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-microsoft-outlook/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-04-aws-amazon-sagemaker-ai-launches-ai-agent-experience-f",
-      "date": "2026-05-04",
-      "name": "Amazon SageMaker AI launches AI agent experience for model customization",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker AI now features an agentic experience that transforms model customization from a months-long process into a workflow completed in days or hours. Customers building an AI solution need to carefully fra",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ai-ai/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-04-aws-amazon-rds-for-sql-server-now-supports-m8i-and-r8i",
-      "date": "2026-05-04",
-      "name": "Amazon RDS for SQL Server now supports M8i and R8i instances",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\">Amazon Relational Database Service (Amazon RDS) for SQL Server</a> now supports M8i and R8i instances. These instances are powered by custom Intel Xeon 6 processors, ava",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/rds-sqlserver-supports-m8i-r8i-instances/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-04-crewai-1-14-5a2",
-      "date": "2026-05-04",
-      "name": "1.14.5a2",
-      "vendor": "CrewAI",
-      "type": "launch",
-      "summary": "<h2>What's Changed</h2>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Fix task output restoration in finally block</li>\n<li>Include <code>thoughts_token_count</code> in completion tokens</li>\n<li>Preserve task outputs across async batch f",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.5a2"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-05-04-openai-openai-and-pwc-collaborate-to-reimagine-the-office",
-      "date": "2026-05-04",
-      "name": "OpenAI and PwC collaborate to reimagine the office of the CFO",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/openai-pwc-finance-collaboration"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-04-aws-amazon-workspaces-applications-now-supports-host-t",
-      "date": "2026-05-04",
-      "name": "Amazon WorkSpaces Applications now supports host-to-client URL redirection",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon WorkSpaces Applications now supports host-to-client URL redirection, which automatically launches URLs from streaming sessions in the user's local browser. Administrators can configure allow and deny URL patter",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-workspaces-applications-url/"
         }
       ],
       "impact": 5,
