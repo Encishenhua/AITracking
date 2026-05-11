@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "2026-05-11-openai-users-may-experience-elevated-errors-in-chatgpt-up",
+      "date": "2026-05-11",
+      "name": "Users may experience elevated errors in ChatGPT uploading files and Codex Cloud creating tasks",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>File uploads (Degraded performance)</li>\n<li>Codex W",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KRAA341YK58M05V2DFGDRMFB"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-05-09-openai-elevated-errors-for-responses-api",
       "date": "2026-05-09",
       "name": "Elevated errors for Responses API",
@@ -1055,24 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-generates-analyses-from-natural-language-prompts/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-04-aws-amazon-quick-introduces-dataset-q-a-for-conversati",
-      "date": "2026-05-04",
-      "name": "Amazon Quick introduces Dataset Q&A for conversational analytics against enterprise data",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Quick now supports Dataset Q&amp;A — a conversational analytics capability that enables users to ask natural language questions directly against their enterprise data. Alongside Dashboard Q&amp;A, Dataset Q&amp",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-dataset-qa/"
         }
       ],
       "impact": 5,
