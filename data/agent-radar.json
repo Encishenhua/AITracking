@@ -19,6 +19,294 @@
       "tags": []
     },
     {
+      "id": "2026-05-11-openai-how-enterprises-are-scaling-ai",
+      "date": "2026-05-11",
+      "name": "How enterprises are scaling AI",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-11-openai-openai-launches-deployco-to-help-businesses-build-",
+      "date": "2026-05-11",
+      "name": "OpenAI launches DeployCo to help businesses build around intelligence",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/openai-launches-the-deployment-company"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-11-aws-announcing-region-expansion-of-p6-b200-instances-o",
+      "date": "2026-05-11",
+      "name": "Announcing Region Expansion of P6-B200 instances on SageMaker Studio notebooks",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>We are pleased to announce general availability of Amazon EC2 P6-B200 instances in AWS US East (N. Virginia) on SageMaker Studio notebooks.</p> \n<p><a href=\"https://aws.amazon.com/ec2/instance-types/p6/\">Amazon EC2 P6",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/p6-b200-region-expansion-sagemaker-studio-notebooks/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-11-aws-announcing-region-expansion-of-g6e-instances-on-sa",
+      "date": "2026-05-11",
+      "name": "Announcing Region Expansion of G6e instances on SageMaker Studio notebooks",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>We are pleased to announce general availability of Amazon EC2 G6e instances in the Middle East (Dubai), Asia Pacific (Tokyo, Seoul) and Europe (Frankfurt, Stockholm, Spain) on SageMaker Studio notebooks.</p> \n<p><a hr",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/g6e-region-expansion-sagemaker-studio-notebooks/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-11-aws-announcing-region-expansion-of-g6-instances-on-sag",
+      "date": "2026-05-11",
+      "name": "Announcing Region Expansion of G6 instances on SageMaker Studio notebooks",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>We are pleased to announce general availability of Amazon EC2 G6 instances in the Middle East (Dubai) and Asia Pacific (Malaysia) on SageMaker Studio notebooks.</p> \n<p><a href=\"https://aws.amazon.com/ec2/instance-typ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/g6-region-expansion-sagemaker-studio-notebooks/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-11-aws-ena-express-for-amazon-ec2-instances-now-supports-",
+      "date": "2026-05-11",
+      "name": "ENA Express for Amazon EC2 instances now supports traffic between Availability Zones",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Elastic Network Adapter (ENA) Express now supports traffic between Amazon EC2 instances in different Availability Zones within a Region, delivering up to 25 Gbps single-flow bandwidth. ENA Express is a networking feat",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/ena-express-availability-zones/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-11-aws-announcing-region-expansion-of-p4de-instances-on-s",
+      "date": "2026-05-11",
+      "name": "Announcing Region Expansion of P4de instances on SageMaker Studio notebooks",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>We are pleased to announce general availability of Amazon EC2 P4de instances in Asia Pacific (Tokyo, Singapore) and Europe (Frankfurt) on SageMaker Studio notebooks.<br /> <br /> <a href=\"https://aws.amazon.com/ec2/in",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/p4de-region-expansion-sagemaker-studio-notebooks/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-11-aws-amazon-aurora-dsql-is-now-available-in-five-additi",
+      "date": "2026-05-11",
+      "name": "Amazon Aurora DSQL is now available in five additional AWS Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Aurora DSQL single-Region clusters are now available in Asia Pacific (Hong Kong), Asia Pacific (Mumbai), Asia Pacific (Singapore), Europe (Stockholm), and South America (Sao Paulo). Aurora DSQL is the fastest s",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-aurora-dsql-five-additional-aws-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-11-aws-aws-healthomics-now-supports-caching-of-cancelled-",
+      "date": "2026-05-11",
+      "name": "AWS HealthOmics now supports caching of cancelled workflow runs",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS HealthOmics now supports caching completed task outputs of cancelled runs, enabling customers to reuse outputs and avoid recomputing previously completed tasks. When caching is enabled and a run is cancelled, Heal",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-healthomics-caching-cancelled-runs/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-11-aws-claude-platform-on-aws-is-now-generally-available",
+      "date": "2026-05-11",
+      "name": "Claude Platform on AWS is now generally available",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announced the general availability of Claude Platform on AWS, a new service that gives customers direct access to&nbsp;Anthropic's&nbsp;native Claude Platform experience through their existing AWS account.&",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/claude-platform-aws/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-11-aws-aws-transform-adds-containerization-capability-dur",
+      "date": "2026-05-11",
+      "name": "AWS Transform adds containerization capability during migrations",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS Transform now supports replatforming applications to containers during migration to AWS. This release extends AWS Transform's agentic AI capabilities to automate the containerization of your source code, enabling ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transform-containerization/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-11-dust-spa-poke-694a823",
+      "date": "2026-05-11",
+      "name": "spa/poke/694a823",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Move MCP action output items GCS paths under the workspace prefix (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/2\">#2</a>…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F694a823"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-11-dust-spa-poke-96dcad8-branching-ungate-conversation-bra",
+      "date": "2026-05-11",
+      "name": "spa/poke/96dcad8: [Branching] Ungate conversation branching (#25395)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>\n<p>Ungate conversation branching</p>\n</li>\n<li>\n<p>Keep SDK feature flag type compatible</p>\n</li>\n<li>\n<p>Keep branching flag for rollout compatibility</p>\n</li>\n<li>\n<p>Finalize branching ungate</p>\n</li>\n<li",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F96dcad8"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-11-dust-spa-poke-eef802a-sessions-improve-agent-human-ment",
+      "date": "2026-05-11",
+      "name": "spa/poke/eef802a: [sessions] improve agent + human mentions logic & UI (#25458)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>remove input bar shrinking</p>\n</li>\n<li>\n<p>remove logic</p>\n</li>\n<li>\n<p>format</p>\n</li>\n<li>\n<p>add remove btn</p>\n</li>\n<li>\n<p>fix</p>\n</li>\n<li>\n<p>format</p>\n</li>\n<li>\n<p>a11y</p>\n</li>\n<li>\n<p>cle",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Feef802a"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-11-dust-spa-poke-e684a8f",
+      "date": "2026-05-11",
+      "name": "spa/poke/e684a8f",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] chore: migrate asana mcp to v2 endpoint (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/25471\">#25471</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fe684a8f"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-11-dust-spa-poke-e25a082",
+      "date": "2026-05-11",
+      "name": "spa/poke/e25a082",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>fix(skills): delete conversation/agent-message skill rows before skil…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fe25a082"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-05-09-openai-elevated-errors-for-responses-api",
       "date": "2026-05-09",
       "name": "Elevated errors for Responses API",
@@ -785,294 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-elasticache-hybrid-search/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-06-aws-amazon-elasticache-now-supports-real-time-full-tex",
-      "date": "2026-05-06",
-      "name": "Amazon ElastiCache now supports real-time full-text, exact-match, and numeric range search",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/elasticache/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon ElastiCache</a> now supports real-time full-text, exact-match, and numeric range search directly in your cache without a s",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-elasticache-enchanced-search/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-05-aws-aws-elemental-mediatailor-now-provides-automatic-s",
-      "date": "2026-05-05",
-      "name": "AWS Elemental MediaTailor now provides automatic secure server-to-server integration with Google's ad platforms",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Elemental MediaTailor now automatically authenticates server-to-server connections with Google Ad Manager (GAM), Google Campaign Manager (GCM), and Google Display &amp; Video 360 (DV360). This delivers a seamless ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/mediatailor-automatic-google-ad-platform-integration"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-05-aws-aws-sam-cli-adds-buildkit-support-for-aws-lambda-f",
-      "date": "2026-05-05",
-      "name": "AWS SAM CLI adds BuildKit support for AWS Lambda functions packaged as container images",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/using-sam-cli.html\" target=\"_blank\">AWS Serverless Application Model Command Line Interface (SAM CLI)</a> now supports BuildKit f",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-sam-cli-buildkit-aws-lambda/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-05-aws-aws-sam-now-supports-websocket-apis-for-amazon-api",
-      "date": "2026-05-05",
-      "name": "AWS SAM now supports WebSocket APIs for Amazon API Gateway",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/what-is-sam.html\" target=\"_blank\">AWS Serverless Application Model (AWS SAM)</a> now supports WebSocket APIs for Amazon API Gatew",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-sam-websocket-apis-api-gateway/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-05-aws-amazon-elasticache-adds-thirteen-new-amazon-cloudw",
-      "date": "2026-05-05",
-      "name": "Amazon ElastiCache adds thirteen new Amazon CloudWatch metrics for network capacity planning and engine diagnostics",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p><a href=\"https://aws.amazon.com/elasticache/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon ElastiCache</a> customers can now detect network throttling, memory fragmentation, and connection exhaustion, using thirte",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-elasticache-cloudwatch-metrics-network-engine-diagnostics/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-05-aws-amazon-workspaces-now-lets-ai-agents-operate-deskt",
-      "date": "2026-05-05",
-      "name": "Amazon WorkSpaces now lets AI agents operate desktop applications (Preview)",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon WorkSpaces, AWS's fully managed cloud desktop service, now enables AI agents to securely access and operate desktop applications through managed WorkSpaces environments. Many enterprises run critical business p",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/workspaces-ai-agents/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-05-aws-amazon-quick-now-integrates-with-new-relic-for-obs",
-      "date": "2026-05-05",
-      "name": "Amazon Quick now integrates with New Relic for observability-driven AI agents",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Quick, your AI assistant for work,&nbsp;now integrates with New Relic's AI agents, enabling&nbsp;on-call engineers, SREs, and engineering leaders&nbsp;to&nbsp;investigate incidents, generate root cause analysis",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-new-relic/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-05-aws-amazon-connect-cases-now-supports-customer-profile",
-      "date": "2026-05-05",
-      "name": "Amazon Connect Cases now supports customer profile identity resolution",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect Cases now automatically reassociates cases when duplicate customer profiles are merged, so agents always see a complete case history for each customer. When the same customer has multiple profiles, such",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-cases-customer-profiles-id-res/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-05-aws-amazon-bedrock-agentcore-is-now-available-in-aws-g",
-      "date": "2026-05-05",
-      "name": "Amazon Bedrock AgentCore is now available in AWS GovCloud (US-West)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock AgentCore brings enterprise-grade agentic AI capabilities to workloads with elevated compliance needs in the AWS GovCloud (US-West) Region. AgentCore is a platform for building, deploying, and operating",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/bedrock-agentcore-launch-aws-govcloud-us/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-05-aws-aws-backup-improves-performance-for-amazon-eks-clu",
-      "date": "2026-05-05",
-      "name": "AWS Backup improves performance for Amazon EKS cluster backups",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Backup for Amazon EKS now completes cluster state backups up to 10x faster. This performance improvement enables you to back up Amazon EKS clusters with a large numbers of namespaces and Kubernetes resources signi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-backup-amazon-eks-performance-improvement/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-05-aws-aws-iam-now-provides-higher-maximum-quotas-for-rol",
-      "date": "2026-05-05",
-      "name": "AWS IAM now provides higher maximum quotas for roles, role trust policies, instance profiles, managed policies, and identity providers",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p><a href=\"https://aws.amazon.com/iam/\">AWS Identity and Access Management (IAM)</a> has increased maximum quotas for six resources:<br /> </p> \n<ul> \n <li>Customer managed policies per account (5,000 to 10,000)</li> \n ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iam-increased-quotas/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-05-dust-spa-poke-92905d8",
-      "date": "2026-05-05",
-      "name": "spa/poke/92905d8",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>[front] gate sandbox workspace admin surface behind sandbox_workspace…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F92905d8"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-05-dust-spa-poke-3382b59-feat-sandbox-scaffold-sandbox-too",
-      "date": "2026-05-05",
-      "name": "spa/poke/3382b59: feat(sandbox): scaffold sandbox_tool_executions storage (#25162)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Adds the storage layer for sandbox-originated MCP tool executions (the<br />\napproval-flow PR will land on top). New <code>sandbox_tool_executions</code><br />\ntable plus a single <code>spawnChildSandboxToolExecution<",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F3382b59"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-05-aws-announcing-valkey-9-0-for-amazon-elasticache",
-      "date": "2026-05-05",
-      "name": "Announcing Valkey 9.0 for Amazon ElastiCache",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/elasticache/\">Amazon ElastiCache</a> now supports Valkey 9.0, bringing new capabilities to customers building real-time, AI-driven, and high-throughput applications on AWS. As applicati",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/valkey-amazon-elasticache/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-04-aws-aws-entity-resolution-launches-support-for-increme",
-      "date": "2026-05-04",
-      "name": "AWS Entity Resolution launches support for incremental Machine Learning based matching workflows",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Entity Resolution launches support for Machine Learning (ML) based Incremental Matching workflows in General Availability, fundamentally transforming how enterprises process entity resolution at scale. Previously,",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-entity-resolution-ml/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-04-aws-amazon-quick-generates-dashboards-from-natural-lan",
-      "date": "2026-05-04",
-      "name": "Amazon Quick generates dashboards from natural language prompts",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Quick now generates dashboards from natural language prompts with Generate Analysis. You describe the dashboard you want, select up to three datasets, and review an editable plan before generation. Amazon Quick",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-generates-analyses-from-natural-language-prompts/"
         }
       ],
       "impact": 5,
