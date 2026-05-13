@@ -1,6 +1,150 @@
 {
   "items": [
     {
+      "id": "2026-05-12-openai-what-parameter-golf-taught-us-about-ai-assisted-re",
+      "date": "2026-05-12",
+      "name": "What Parameter Golf taught us about AI-assisted research",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/what-parameter-golf-taught-us"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-12-aws-aws-lambda-supports-scheduled-scaling-for-function",
+      "date": "2026-05-12",
+      "name": "AWS Lambda supports scheduled scaling for functions on Lambda Managed Instances",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Lambda now supports scheduled scaling for functions running on Lambda Managed Instances, using Amazon EventBridge Scheduler. This capability allows you to define one-time or recurring schedules that proactively ad",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-lambda-managed-instances/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-12-aws-amazon-sagemaker-feature-store-now-supports-sagema",
+      "date": "2026-05-12",
+      "name": "Amazon SageMaker Feature Store now supports SageMaker Python SDK V3",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon SageMaker Feature Store now supports the SageMaker Python SDK v3, including new capabilities for Lake Formation access controls and Apache Iceberg table properties configuration. Feature Store is a fully manage",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-feature-store-pyv3/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-12-aws-karpenter-now-supports-amazon-application-recovery",
+      "date": "2026-05-12",
+      "name": "Karpenter now supports Amazon Application Recovery Controller zonal shift",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Elastic Kubernetes Service (Amazon EKS) now supports <a href=\"https://aws.amazon.com/application-recovery-controller/\">Amazon Application Recovery Controller</a> (ARC) zonal shift and zonal autoshift when using",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/karpenter-arc-zonal-shift/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-12-aws-amazon-redshift-launches-rg-instances-powered-by-a",
+      "date": "2026-05-12",
+      "name": "Amazon Redshift launches RG instances powered by AWS Graviton",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Redshift announces the general availability of <a href=\"https://aws.amazon.com/redshift/features/rg/\">RG instances</a>, a new generation of provisioned cluster nodes powered by AWS Graviton processors that deli",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-redshift-rg-instances-powered-by-graviton"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-12-aws-amazon-cloudfront-premium-flat-rate-plan-now-suppo",
+      "date": "2026-05-12",
+      "name": "Amazon CloudFront Premium flat-rate plan now supports configurable usage allowances",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p style=\"text-align: left;\">Previously, the Amazon CloudFront Premium flat-rate plan supported a single usage allowance, and customers who outgrew it needed to contact us to discuss custom pricing options. Now, the Prem",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/cloudfront-configurable-premium-flat-rate-plans/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-12-aws-amazon-connect-customer-now-supports-embedding-cas",
+      "date": "2026-05-12",
+      "name": "Amazon Connect Customer now supports embedding Cases and Customer Profiles in custom agent applications",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Connect Customer now enables you to embed Cases and Customer Profiles into custom agent applications, helping agents access case details and customer context alongside the tools they already use to resolve issu",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-sdk-cases-customer-profiles/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-12-crewai-1-14-5a5",
+      "date": "2026-05-12",
+      "name": "1.14.5a5",
+      "vendor": "CrewAI",
+      "type": "deprecation",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Deprecate CrewAgentExecutor, default Crew agents to AgentExecutor</li>\n<li>Improve Daytona sandbox tools</li>\n</ul>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Fix missing code block in",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.5a5"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-05-11-openai-users-may-experience-elevated-errors-in-chatgpt-up",
       "date": "2026-05-11",
       "name": "Users may experience elevated errors in ChatGPT uploading files and Codex Cloud creating tasks",
@@ -302,6 +446,24 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-11-aws-amazon-route-53-domains-adds-support-for-34-new-to",
+      "date": "2026-05-11",
+      "name": "Amazon Route 53 Domains adds support for 34 new Top Level Domains including .app, .dev, and .health.",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Route 53 Domains now supports registration and management of 34 new top-level domains (TLDs), including .app, .dev, .art, .forum, .health, and .realty. This expansion enhances Route 53's domain registration and",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-route-53-domains/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -911,168 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/agent-toolkit/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-06-aws-the-aws-mcp-server-is-now-generally-available",
-      "date": "2026-05-06",
-      "name": "The AWS MCP Server is now generally available",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the general availability of the AWS MCP Server, a managed server that gives AI coding agents secure, auditable access to AWS services through the Model Context Protocol (MCP). The AWS MCP Server i",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-mcp-server/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-06-aws-aws-directory-service-expands-directory-security-s",
-      "date": "2026-05-06",
-      "name": "AWS Directory Service expands directory security settings with STIG-aligned controls for Managed AD",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><br /> AWS Directory Service for Microsoft Active Directory (AWS Managed Microsoft AD) now has expanded its security settings to include STIG-aligned configurations for high-impact security areas. These new security s",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/add-security-settings-stig-aws-microsoft-ad/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-06-dust-spa-poke-8ce1d24-mcp-add-meta-key-value-fields-to-",
-      "date": "2026-05-06",
-      "name": "spa/poke/8ce1d24: [MCP] Add meta key-value fields to remote MCP servers (#25245)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>\n<p>feat(mcp): add meta JSONB column to remote_mcp_servers</p>\n</li>\n<li>\n<p>feat(mcp): propagate meta through action pipeline and expose PATCH endpoint</p>\n</li>\n<li>\n<p>feat(mcp): add meta fields editor to rem",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8ce1d24"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-06-dust-spa-poke-3cffaf8-fix-plugins-after-migration-to-zo",
-      "date": "2026-05-06",
-      "name": "spa/poke/3cffaf8: Fix plugins after migration to Zod (#25268)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>The io-ts → zod migration in <a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/25236\">#25236</a> silently broke every resource-targeted poke plugin (Run Reinforcement, and others) — they a",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F3cffaf8"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-06-openai-how-frontier-firms-are-pulling-ahead",
-      "date": "2026-05-06",
-      "name": "How frontier firms are pulling ahead",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/introducing-b2b-signals"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-06-aws-amazon-ec2-p6-b200-instances-are-now-available-in-",
-      "date": "2026-05-06",
-      "name": "Amazon EC2 P6-B200 instances are now available in the AWS GovCloud (US-West) Region",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) P6-B200 instances accelerated by NVIDIA Blackwell GPUs are available in AWS GovCloud (US-West) Region.&nbsp;These instances offer up to 2x performance compared",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-p6-b200-aws-govcloud"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-06-aws-amazon-bedrock-agentcore-runtime-now-supports-brin",
-      "date": "2026-05-06",
-      "name": "Amazon Bedrock AgentCore Runtime now supports bring-your-own file system from Amazon S3 Files and Amazon EFS",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Bedrock AgentCore Runtime now supports bring-your-own file system, enabling developers to attach their Amazon S3 Files and Amazon EFS access points directly to agent runtimes. AgentCore Runtime mounts the file ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-bedrock-agentcore-runtime/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-06-aws-amazon-elasticache-now-supports-real-time-aggregat",
-      "date": "2026-05-06",
-      "name": "Amazon ElastiCache now supports real-time aggregations",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/elasticache/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon ElastiCache</a> now supports aggregation queries, making it easier to filter, group, transform, and summarize data directl",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-elasticache-aggregations/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-06-aws-amazon-elasticache-now-supports-real-time-hybrid-s",
-      "date": "2026-05-06",
-      "name": "Amazon ElastiCache now supports real-time hybrid search with vector and full-text",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/elasticache/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon ElastiCache</a> now supports real-time hybrid search that combines vector similarity with full-text search in a single que",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-elasticache-hybrid-search/"
         }
       ],
       "impact": 5,
