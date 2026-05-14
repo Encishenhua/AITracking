@@ -1,6 +1,150 @@
 {
   "items": [
     {
+      "id": "2026-05-13-openai-building-a-safe-effective-sandbox-to-enable-codex-",
+      "date": "2026-05-13",
+      "name": "Building a safe, effective sandbox to enable Codex on Windows",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/building-codex-windows-sandbox"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-13-aws-amazon-sagemaker-data-agent-now-available-for-iam-",
+      "date": "2026-05-13",
+      "name": "Amazon SageMaker Data Agent now available for IAM Identity Center domains",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker Data Agent is now available in SageMaker Unified Studio domains configured with IAM Identity Center. Data Agent extends its AI-powered capabilities to help data analysts and engineers streamline their",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-data-agent-idc/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-13-aws-amazon-fsx-for-openzfs-now-supports-creating-multi",
+      "date": "2026-05-13",
+      "name": "Amazon FSx for OpenZFS now supports creating Multi-AZ file systems in shared VPCs",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon&nbsp;FSx&nbsp;for&nbsp;OpenZFS&nbsp;now&nbsp;allows&nbsp;you to create&nbsp;Multi-AZ&nbsp;file systems in&nbsp;shared&nbsp;VPCs&nbsp;within your AWS organization, making it easier for you&nbsp;to decentralize&n",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-fsx-openzfs-multi-az-vpcs/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-13-aws-amazon-rds-for-oracle-now-supports-m8i-and-r8i-ins",
+      "date": "2026-05-13",
+      "name": "Amazon RDS for Oracle now supports M8i and R8i instances with Oracle SE2 License Included",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/oracle/\">Amazon RDS for Oracle </a>now offers M8i and R8i instances with Oracle Database Standard Edition 2 (SE2) with the License Included (LI). M8i and R8i instances are powered b",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/amazon-oracle-m8i-r8i-license-included"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-13-dust-spa-poke-86e7d06-feat-switch-agentmcpaction-read-t",
+      "date": "2026-05-13",
+      "name": "spa/poke/86e7d06: feat: switch agentMCPAction read to new table (#25562)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>feat: switch agentMCPAction read to new table</p>\n</li>\n<li>\n<p>review feedback</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F86e7d06"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-13-dust-spa-poke-42a8b0e",
+      "date": "2026-05-13",
+      "name": "spa/poke/42a8b0e",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Add: private + solo projects allow using any agents you have access t…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F42a8b0e"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-13-dust-spa-poke-41a0c5c-agent-new-convo-button-not-closin",
+      "date": "2026-05-13",
+      "name": "spa/poke/41a0c5c: Agent new convo button not closing slideout (#25540)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>[front] Close agent details sheet on new conversation click</p>\n</li>\n<li>\n<p>Extract new conversation handler</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F41a0c5c"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-13-dust-spa-poke-028d58c-run-agent-fail-early-when-child-a",
+      "date": "2026-05-13",
+      "name": "spa/poke/028d58c: [Run Agent] Fail early when child agent is inaccessible (#25577)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>Fix run_agent child access failure</p>\n</li>\n<li>\n<p>Make run_agent child access check exhaustive</p>\n</li>\n<li>\n<p>Fail closed on run_agent child access checks</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F028d58c"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-05-12-openai-what-parameter-golf-taught-us-about-ai-assisted-re",
       "date": "2026-05-12",
       "name": "What Parameter Golf taught us about AI-assisted research",
@@ -142,6 +286,60 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-05-12-aws-aws-security-agent-now-supports-full-repository-co",
+      "date": "2026-05-12",
+      "name": "AWS Security Agent now supports full repository code reviews",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS <a href=\"https://aws.amazon.com/blogs/security/aws-security-agent-full-repository-code-scanning-feature-now-available-in-preview/\">announces the release of full repository code review</a>, a new capability ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-agent-full-repository-code-review/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-12-aws-announcing-region-expansion-of-p5-48xl-instances-o",
+      "date": "2026-05-12",
+      "name": "Announcing Region Expansion of P5.48xl instances on SageMaker Studio notebooks",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>We are pleased to announce general availability of Amazon EC2 P5.48xl instances in the AWS US West (San Francisco), Asia Pacific (Tokyo, Mumbai, Sydney, Jakarta) and Europe (London, Stockholm) regions on SageMaker Stu",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/p5-48xl-region-expansion-sagemaker-studio-notebooks/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-12-aws-announcing-region-expansion-of-g6-instances-on-sag",
+      "date": "2026-05-12",
+      "name": "Announcing Region Expansion of G6 instances on SageMaker Notebook Instances",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>We are pleased to announce general availability of Amazon EC2 G6 instances in Asia Pacific (Tokyo, Mumbai, Sydney) and Europe (London, Paris, Frankfurt, Stockholm, Zurich) on SageMaker notebook instances.</p> \n<p><a h",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/g6-region-expansion-sagemaker-notebook-instances/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
       "tags": []
     },
     {
@@ -461,6 +659,24 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-route-53-domains/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-11-aws-amazon-sagemaker-studio-notebooks-now-support-p5-4",
+      "date": "2026-05-11",
+      "name": "Amazon SageMaker Studio notebooks now support P5.4xl instance types",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>We are pleased to announce general availability of Amazon EC2 P5.4xl instances on SageMaker Studio notebooks.</p> \n<p><a href=\"https://aws.amazon.com/ec2/instance-types/p5/\">Amazon EC2 P5.4xl instances</a>&nbsp;are po",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/p5.4xl-new-launch-sagemaker-studio-notebooks/"
         }
       ],
       "impact": 5,
@@ -857,222 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/ses-mail-manager-available-aws-govcloud-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-07-dust-spa-poke-53458f0-fix-sbx-don-t-remount-gcs-fuse-on",
-      "date": "2026-05-07",
-      "name": "spa/poke/53458f0: fix(sbx): don't remount GCS FUSE on wake (#25340)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>fix(sbx): make GCS FUSE mount idempotent</li>\n</ul>\n<p>ensureSandboxReady now calls a single helper that probes the mount and<br />\ntoken server, refreshes the token in place when both are alive, and<br />\nother",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F53458f0"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-07-dust-spa-poke-713e16b-ungate-new-file-explorer-25327",
-      "date": "2026-05-07",
-      "name": "spa/poke/713e16b: Ungate new file explorer (#25327)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>\n<p>Ungate new file explorer</p>\n</li>\n<li>\n<p>Address comments from review</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F713e16b"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-07-dust-spa-poke-0468d7a-refacto-front-todo-todo-component",
-      "date": "2026-05-07",
-      "name": "spa/poke/0468d7a: [refacto] - front(TODO): todo components (#25280)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>[front] - refactor: simplify add project task composer and UI</li>\n</ul>\n<ul>\n<li>merges repetitive composition logic into a single AddTaskComposer component</li>\n<li>updates UI to use Sparkle Input and Button, ",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F0468d7a"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-07-aws-amazon-route-53-resolver-endpoints-now-support-add",
-      "date": "2026-05-07",
-      "name": "Amazon Route 53 Resolver endpoints now support additional capabilities for IPv6 query traffic",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Route 53 Resolver endpoints now support DNS64 on inbound endpoints and IPv6 forwarding through the internet gateway (IGW) on outbound endpoints, making it easier to manage hybrid DNS across IPv4 and IPv6 networ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-route-53-resolver-ipv6/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-07-aws-amazon-redshift-now-scales-data-ingestion-automati",
-      "date": "2026-05-07",
-      "name": "Amazon Redshift now scales data ingestion automatically with concurrency scaling for batch workloads",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/redshift/\">Amazon Redshift </a>now extends concurrency scaling to support high-volume data ingestion workloads, enabling <a href=\"https://docs.aws.amazon.com/redshift/latest/dg/concurre",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/concurrencyscaling-support-for-copy"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-06-openai-how-frontier-enterprises-are-building-an-ai-advant",
-      "date": "2026-05-06",
-      "name": "How frontier enterprises are building an AI advantage",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/introducing-b2b-signals"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-06-aws-aws-site-to-site-vpn-now-supports-modifying-tunnel",
-      "date": "2026-05-06",
-      "name": "AWS Site-to-Site VPN now supports modifying tunnel bandwidth on existing VPN connections",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Site-to-Site VPN now supports modifying tunnel bandwidth between standard (up to 1.25 Gbps) and large (up to 5 Gbps) on existing connections, making it easier to update your VPN connections’ bandwidth per your org",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-site-to-site-vpn-modify-bandwidth/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-06-aws-amazon-ec2-p6-b300-instances-are-now-available-in-",
-      "date": "2026-05-06",
-      "name": "Amazon EC2 P6-B300 instances are now available in the US East (N. Virginia) Region",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Starting today, Amazon Elastic Cloud Compute (Amazon EC2) P6-B300 instances are available in the US East (N. Virginia) Region.&nbsp;P6-B300 instances provide 8xNVIDIA Blackwell Ultra GPUs with 2.1 TB high bandwidth GP",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-p6-b300-us-east"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-06-aws-aws-marketplace-now-supports-programmatic-procurem",
-      "date": "2026-05-06",
-      "name": "AWS Marketplace now supports programmatic procurement with Agreements API",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS Marketplace announces the Agreements API, enabling you to procure AWS Marketplace products and manage agreements programmatically. With this launch, you can generate estimates, accept offers, track charges ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-marketplace-agreements-api/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-06-aws-amazon-bedrock-agentcore-memory-announces-metadata",
-      "date": "2026-05-06",
-      "name": "Amazon Bedrock AgentCore Memory announces metadata for long-term memory",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Bedrock&nbsp;AgentCore&nbsp;Memory now supports&nbsp;metadata on long-term memory (LTM) records, enabling agents to tag, filter, and retrieve memories using structured attributes alongside semantic search. You ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/agentcore-longterm-memory-metadata"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-06-aws-aws-elemental-mediatailor-now-supports-ad-trickpla",
-      "date": "2026-05-06",
-      "name": "AWS Elemental MediaTailor now supports ad trickplay personalization and compact DASH manifest optimization via dynamic transcoding",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Elemental MediaTailor now enhances streaming ad personalization with support for trickplay features in HLS and DASH formats. This update also introduces compact DASH manifests for more efficient manifest delivery.",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/mediatail-ad-trickplay-and-compact-dash-manifest-optimization"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-06-aws-announcing-agent-toolkit-for-aws-help-ai-coding-ag",
-      "date": "2026-05-06",
-      "name": "Announcing Agent Toolkit for AWS — help AI coding agents build effectively on AWS",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS is launching the Agent Toolkit for AWS, a production-ready suite of tools and guidance that helps AI coding agents build on AWS with fewer errors, lower token costs, and enterprise-grade security controls. ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/agent-toolkit/"
         }
       ],
       "impact": 5,
