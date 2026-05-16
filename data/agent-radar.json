@@ -1,6 +1,204 @@
 {
   "items": [
     {
+      "id": "2026-05-16-openai-gpt5-5-performance-degradation",
+      "date": "2026-05-16",
+      "name": "GPT5.5 Performance Degradation",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KRP6FM6HSKWB3MS1EJTY6AT4"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-15-openai-databricks-brings-gpt-5-5-to-enterprise-agent-work",
+      "date": "2026-05-15",
+      "name": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/databricks"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-15-aws-amazon-emr-serverless-is-now-available-in-addition",
+      "date": "2026-05-15",
+      "name": "Amazon EMR Serverless is now available in additional AWS Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon EMR Serverless is now generally available in six additional AWS Regions - Asia Pacific (Hyderabad), Asia Pacific (Malaysia), Asia Pacific (New Zealand), Asia Pacific (Taipei), Asia Pacific (Thailand), and Mexic",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-emr-serverless-aws-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-15-aws-aws-partner-central-agents-now-accelerates-opportu",
+      "date": "2026-05-15",
+      "name": "AWS Partner Central agents now accelerates opportunity creation",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces that the AWS Partner Central agents now accelerate opportunity creation through natural language conversation. <a href=\"https://aws.amazon.com/about-aws/whats-new/2026/03/aws-partner-central-agent",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-partner-central-agents-oppo"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-15-aws-amazon-connect-cases-now-lets-you-edit-related-ite",
+      "date": "2026-05-15",
+      "name": "Amazon Connect Cases now lets you edit related items and delete cases from the agent workspace",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect Cases now supports editing and deleting related items, and deleting cases directly from the agent workspace without administrator help. Agents can update comments, unlink contacts associated with the wr",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-cases-related-item/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-15-aws-amazon-rds-for-postgresql-announces-extended-suppo",
+      "date": "2026-05-15",
+      "name": "Amazon RDS for PostgreSQL announces Extended Support minor versions 11.22-rds.20260224, 12.22-rds.20260224, and 13.23-rds.20260224",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/postgresql/\">Amazon Relational Database Service</a> (RDS) for PostgreSQL announces Amazon RDS Extended Support minor versions 11.22-rds.20260224, 12.22-rds.20260224, and 13.23-rds.2",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-postgresql-extended-support/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-15-aws-amazon-managed-grafana-now-supports-in-place-upgra",
+      "date": "2026-05-15",
+      "name": "Amazon Managed Grafana now supports in-place upgrade to Grafana version 12.4",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Managed Grafana&nbsp;now supports&nbsp;in-place&nbsp;upgrade&nbsp;from Grafana version 10.4 to 12.4.&nbsp;You can upgrade with just a few clicks&nbsp;from&nbsp;the AWS Console or via AWS SDK or AWS CLI.</p> \n<p",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-managed-grafana-v12-update/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-15-aws-aws-organizations-now-supports-higher-quotas-for-s",
+      "date": "2026-05-15",
+      "name": "AWS Organizations now supports higher quotas for service control policies (SCPs)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/organizations/\">AWS Organizations</a> now supports higher quotas for service control policies (SCPs). The maximum number of SCPs that can be attached to a single node (root, OU, or acco",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-organizations-increased-scp-quotas/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-15-dust-spa-poke-7483821",
+      "date": "2026-05-15",
+      "name": "spa/poke/7483821",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>chore: stop writing version&amp;scid to agent mcp action (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/25642\">#25642</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F7483821"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-15-dust-spa-poke-1333fd9",
+      "date": "2026-05-15",
+      "name": "spa/poke/1333fd9",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Handle missing conversations in agent loop data (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/25625\">#25625</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F1333fd9"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-15-dust-spa-poke-72aa331",
+      "date": "2026-05-15",
+      "name": "spa/poke/72aa331",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[Productboard MCP] Migrate search entities to structured filter/retur…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F72aa331"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-05-14-openai-sea-s-view-on-the-future-of-agentic-software-devel",
       "date": "2026-05-14",
       "name": "Sea's View on the Future of Agentic Software Development with Codex",
@@ -320,6 +518,42 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-14-aws-amazon-cloudfront-announces-passthrough-mode-for-m",
+      "date": "2026-05-14",
+      "name": "Amazon CloudFront announces Passthrough Mode for mutual TLS (Viewer)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon CloudFront now supports passthrough mode for mutual TLS (mTLS) viewer authentication, allowing CloudFront to forward client certificates to the origin without verifying the certificates on CloudFront. Customers",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudfront-mtls-passthrough/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-14-aws-amazon-ec2-high-memory-u7i-instances-now-available",
+      "date": "2026-05-14",
+      "name": "Amazon EC2 High Memory U7i instances now available in AWS Europe (Paris) region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon EC2 High Memory U7i-12TB instances (u7i-12tb.224xlarge) and U7in-16TB instances (u7in-16tb.224xlarge) are now available in the AWS Europe (Paris) region. U7i instances are part of the AWS 7th generation and are",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-u7i-aws-europe-paris/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -839,240 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-aurora-dsql-five-additional-aws-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-11-aws-aws-healthomics-now-supports-caching-of-cancelled-",
-      "date": "2026-05-11",
-      "name": "AWS HealthOmics now supports caching of cancelled workflow runs",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS HealthOmics now supports caching completed task outputs of cancelled runs, enabling customers to reuse outputs and avoid recomputing previously completed tasks. When caching is enabled and a run is cancelled, Heal",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-healthomics-caching-cancelled-runs/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-11-aws-claude-platform-on-aws-is-now-generally-available",
-      "date": "2026-05-11",
-      "name": "Claude Platform on AWS is now generally available",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announced the general availability of Claude Platform on AWS, a new service that gives customers direct access to&nbsp;Anthropic's&nbsp;native Claude Platform experience through their existing AWS account.&",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/claude-platform-aws/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-11-aws-aws-transform-adds-containerization-capability-dur",
-      "date": "2026-05-11",
-      "name": "AWS Transform adds containerization capability during migrations",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS Transform now supports replatforming applications to containers during migration to AWS. This release extends AWS Transform's agentic AI capabilities to automate the containerization of your source code, enabling ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transform-containerization/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-11-dust-spa-poke-694a823",
-      "date": "2026-05-11",
-      "name": "spa/poke/694a823",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Move MCP action output items GCS paths under the workspace prefix (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/2\">#2</a>…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F694a823"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-11-dust-spa-poke-96dcad8-branching-ungate-conversation-bra",
-      "date": "2026-05-11",
-      "name": "spa/poke/96dcad8: [Branching] Ungate conversation branching (#25395)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>\n<p>Ungate conversation branching</p>\n</li>\n<li>\n<p>Keep SDK feature flag type compatible</p>\n</li>\n<li>\n<p>Keep branching flag for rollout compatibility</p>\n</li>\n<li>\n<p>Finalize branching ungate</p>\n</li>\n<li",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F96dcad8"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-11-dust-spa-poke-eef802a-sessions-improve-agent-human-ment",
-      "date": "2026-05-11",
-      "name": "spa/poke/eef802a: [sessions] improve agent + human mentions logic & UI (#25458)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>remove input bar shrinking</p>\n</li>\n<li>\n<p>remove logic</p>\n</li>\n<li>\n<p>format</p>\n</li>\n<li>\n<p>add remove btn</p>\n</li>\n<li>\n<p>fix</p>\n</li>\n<li>\n<p>format</p>\n</li>\n<li>\n<p>a11y</p>\n</li>\n<li>\n<p>cle",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Feef802a"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-11-dust-spa-poke-e684a8f",
-      "date": "2026-05-11",
-      "name": "spa/poke/e684a8f",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] chore: migrate asana mcp to v2 endpoint (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/25471\">#25471</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fe684a8f"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-11-dust-spa-poke-e25a082",
-      "date": "2026-05-11",
-      "name": "spa/poke/e25a082",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>fix(skills): delete conversation/agent-message skill rows before skil…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fe25a082"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-11-aws-amazon-route-53-domains-adds-support-for-34-new-to",
-      "date": "2026-05-11",
-      "name": "Amazon Route 53 Domains adds support for 34 new Top Level Domains including .app, .dev, and .health.",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Route 53 Domains now supports registration and management of 34 new top-level domains (TLDs), including .app, .dev, .art, .forum, .health, and .realty. This expansion enhances Route 53's domain registration and",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-route-53-domains/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-11-aws-amazon-sagemaker-studio-notebooks-now-support-p5-4",
-      "date": "2026-05-11",
-      "name": "Amazon SageMaker Studio notebooks now support P5.4xl instance types",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>We are pleased to announce general availability of Amazon EC2 P5.4xl instances on SageMaker Studio notebooks.</p> \n<p><a href=\"https://aws.amazon.com/ec2/instance-types/p5/\">Amazon EC2 P5.4xl instances</a>&nbsp;are po",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/p5.4xl-new-launch-sagemaker-studio-notebooks/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-09-openai-elevated-errors-for-responses-api",
-      "date": "2026-05-09",
-      "name": "Elevated errors for Responses API",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.\n\nBetween 4:05pm and 4:40pm PT on May 8, some customers using the Responses API may have experienced elevated 404 errors. We identified th",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KR50YN2DBMTXGPC6BQSJN48J"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-08-openai-running-codex-safely-at-openai",
-      "date": "2026-05-08",
-      "name": "Running Codex safely at OpenAI",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/running-codex-safely"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-08-openai-degraded-performance-with-codex-cloud-tasks",
-      "date": "2026-05-08",
-      "name": "Degraded Performance with Codex Cloud Tasks",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Codex Web (Operational)</li>\n<li>CLI (Operational)</li>\n<li>App (Opera",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KR421V8PCTFKA8EJJC2VCGA3"
         }
       ],
       "impact": 5,
