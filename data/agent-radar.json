@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "2026-05-17-dust-spa-poke-287fc7f-switch-over-user-workspace-credit",
+      "date": "2026-05-17",
+      "name": "spa/poke/287fc7f: Switch over user/workspace credits to use active AWU usage (#25658)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>Switch over user/workspace credits to use active AWU usage</p>\n</li>\n<li>\n<p>Address claude comments</p>\n</li>\n<li>\n<p>Address comments</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F287fc7f"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-17-dust-spa-app-287fc7f-switch-over-user-workspace-credits",
+      "date": "2026-05-17",
+      "name": "spa/app/287fc7f: Switch over user/workspace credits to use active AWU usage (#25658)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>Switch over user/workspace credits to use active AWU usage</p>\n</li>\n<li>\n<p>Address claude comments</p>\n</li>\n<li>\n<p>Address comments</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F287fc7f"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-05-16-openai-gpt5-5-performance-degradation",
       "date": "2026-05-16",
       "name": "GPT5.5 Performance Degradation",
@@ -1037,42 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/ena-express-availability-zones/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-11-aws-announcing-region-expansion-of-p4de-instances-on-s",
-      "date": "2026-05-11",
-      "name": "Announcing Region Expansion of P4de instances on SageMaker Studio notebooks",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>We are pleased to announce general availability of Amazon EC2 P4de instances in Asia Pacific (Tokyo, Singapore) and Europe (Frankfurt) on SageMaker Studio notebooks.<br /> <br /> <a href=\"https://aws.amazon.com/ec2/in",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/p4de-region-expansion-sagemaker-studio-notebooks/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-11-aws-amazon-aurora-dsql-is-now-available-in-five-additi",
-      "date": "2026-05-11",
-      "name": "Amazon Aurora DSQL is now available in five additional AWS Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Aurora DSQL single-Region clusters are now available in Asia Pacific (Hong Kong), Asia Pacific (Mumbai), Asia Pacific (Singapore), Europe (Stockholm), and South America (Sao Paulo). Aurora DSQL is the fastest s",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-aurora-dsql-five-additional-aws-regions/"
         }
       ],
       "impact": 5,
