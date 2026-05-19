@@ -1,6 +1,132 @@
 {
   "items": [
     {
+      "id": "2026-05-18-openai-openai-and-dell-partner-to-bring-codex-to-hybrid-a",
+      "date": "2026-05-18",
+      "name": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/dell-codex-enterprise-partnership"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-18-aws-aws-management-console-now-displays-aws-local-zone",
+      "date": "2026-05-18",
+      "name": "AWS Management Console now displays AWS Local Zones in the Region Selector",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the addition of AWS Local Zones to the Region selector in the AWS Management Console, providing a unified experience across AWS global infrastructure. AWS Local Zones now appear alongside AWS Regi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-local-zones-region-selector/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-18-aws-amazon-lightsail-cdn-distributions-now-support-ipv",
+      "date": "2026-05-18",
+      "name": "Amazon Lightsail CDN distributions now support IPv6-only instances as origins",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Lightsail content delivery network (CDN) distributions now support IPv6-only instances as origins. This feature enables customers to use IPv6-only instances to deliver content through the Lightsail CDN distribu",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-lightsail-cdn-ipv6/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-18-aws-aws-sam-cli-adds-aws-cloudformation-language-exten",
+      "date": "2026-05-18",
+      "name": "AWS SAM CLI adds AWS CloudFormation Language Extensions support to accelerate local serverless development",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/using-sam-cli.html\" target=\"_blank\">AWS SAM CLI</a> now supports <a href=\"https://docs.aws.amazon.com/AWSCloudFormation/latest/Te",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-sam-cli-cloudformation/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-18-aws-amazon-sagemaker-studio-now-supports-gpu-capacity-",
+      "date": "2026-05-18",
+      "name": "Amazon SageMaker Studio now supports GPU capacity reservation through SageMaker Flexible Training Plans",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker Studio IDEs, including JupyterLab and Code Editor, now support GPU capacity reservations through <a href=\"https://docs.aws.amazon.com/sagemaker/latest/dg/reserve-capacity-with-training-plans.html\">Sag",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-training-plan-support-for-studio/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-18-crewai-1-14-5",
+      "date": "2026-05-18",
+      "name": "1.14.5",
+      "vendor": "CrewAI",
+      "type": "deprecation",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Deprecate <code>CrewAgentExecutor</code>, default Crew agents to <code>AgentExecutor</code></li>\n<li>Improve Daytona sandbox tools</li>\n<li>Add <code>restore_from_state_",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.5"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-05-18-crewai-1-14-5a7",
+      "date": "2026-05-18",
+      "name": "1.14.5a7",
+      "vendor": "CrewAI",
+      "type": "deprecation",
+      "summary": "<h2>What's Changed</h2>\n<h3>Documentation</h3>\n<ul>\n<li>Update changelog and version for v1.14.5a6</li>\n</ul>\n<h3>Breaking Changes</h3>\n<ul>\n<li>Deprecate function_calling_llm field</li>\n</ul>\n<h2>Contributors</h2>\n<p><a",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.5a7"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-05-17-dust-spa-poke-287fc7f-switch-over-user-workspace-credit",
       "date": "2026-05-17",
       "name": "spa/poke/287fc7f: Switch over user/workspace credits to use active AWU usage (#25658)",
@@ -947,132 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/g6-region-expansion-sagemaker-notebook-instances/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-11-openai-users-may-experience-elevated-errors-in-chatgpt-up",
-      "date": "2026-05-11",
-      "name": "Users may experience elevated errors in ChatGPT uploading files and Codex Cloud creating tasks",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>File uploads (Degraded performance)</li>\n<li>Codex W",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KRAA341YK58M05V2DFGDRMFB"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-11-openai-how-enterprises-are-scaling-ai",
-      "date": "2026-05-11",
-      "name": "How enterprises are scaling AI",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-11-openai-openai-launches-deployco-to-help-businesses-build-",
-      "date": "2026-05-11",
-      "name": "OpenAI launches DeployCo to help businesses build around intelligence",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/openai-launches-the-deployment-company"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-11-aws-announcing-region-expansion-of-p6-b200-instances-o",
-      "date": "2026-05-11",
-      "name": "Announcing Region Expansion of P6-B200 instances on SageMaker Studio notebooks",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>We are pleased to announce general availability of Amazon EC2 P6-B200 instances in AWS US East (N. Virginia) on SageMaker Studio notebooks.</p> \n<p><a href=\"https://aws.amazon.com/ec2/instance-types/p6/\">Amazon EC2 P6",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/p6-b200-region-expansion-sagemaker-studio-notebooks/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-11-aws-announcing-region-expansion-of-g6e-instances-on-sa",
-      "date": "2026-05-11",
-      "name": "Announcing Region Expansion of G6e instances on SageMaker Studio notebooks",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>We are pleased to announce general availability of Amazon EC2 G6e instances in the Middle East (Dubai), Asia Pacific (Tokyo, Seoul) and Europe (Frankfurt, Stockholm, Spain) on SageMaker Studio notebooks.</p> \n<p><a hr",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/g6e-region-expansion-sagemaker-studio-notebooks/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-11-aws-announcing-region-expansion-of-g6-instances-on-sag",
-      "date": "2026-05-11",
-      "name": "Announcing Region Expansion of G6 instances on SageMaker Studio notebooks",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>We are pleased to announce general availability of Amazon EC2 G6 instances in the Middle East (Dubai) and Asia Pacific (Malaysia) on SageMaker Studio notebooks.</p> \n<p><a href=\"https://aws.amazon.com/ec2/instance-typ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/g6-region-expansion-sagemaker-studio-notebooks/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-11-aws-ena-express-for-amazon-ec2-instances-now-supports-",
-      "date": "2026-05-11",
-      "name": "ENA Express for Amazon EC2 instances now supports traffic between Availability Zones",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Elastic Network Adapter (ENA) Express now supports traffic between Amazon EC2 instances in different Availability Zones within a Region, delivering up to 25 Gbps single-flow bandwidth. ENA Express is a networking feat",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/ena-express-availability-zones/"
         }
       ],
       "impact": 5,
