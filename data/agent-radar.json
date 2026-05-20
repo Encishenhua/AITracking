@@ -1,6 +1,132 @@
 {
   "items": [
     {
+      "id": "2026-05-20-aws-amazon-sagemaker-hyperpod-now-supports-data-captur",
+      "date": "2026-05-20",
+      "name": "Amazon SageMaker HyperPod now supports data capture for inference workloads",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker HyperPod now supports data capture for inference workloads, enabling customers to record inference request and response payloads for model monitoring, compliance, debugging, and offline analysis. Orga",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-hyperpod-data-capture"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-19-openai-introducing-openai-for-singapore",
+      "date": "2026-05-19",
+      "name": "Introducing OpenAI for Singapore",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/introducing-openai-for-singapore"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-19-aws-amazon-mwaa-now-supports-apache-airflow-3-2",
+      "date": "2026-05-19",
+      "name": "Amazon MWAA now supports Apache Airflow 3.2",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Managed Workflows for Apache Airflow (MWAA) now supports Apache Airflow version 3.2, the latest major release of the popular open-source workflow orchestration framework. Amazon MWAA is a managed service that l",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-mwaa-now-supports-apache-airflow-3-2/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-19-aws-amazon-inspector-is-now-available-in-the-aws-asia-",
+      "date": "2026-05-19",
+      "name": "Amazon Inspector is now available in the AWS Asia Pacific (Taipei) Region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS announces the availability of Amazon Inspector in the AWS Asia Pacific (Taipei) Region. Amazon Inspector is an automated vulnerability management service that continually scans AWS workloads including Amazo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-inspector-taipei/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-19-dust-spa-poke-2547752",
+      "date": "2026-05-19",
+      "name": "spa/poke/2547752",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Add files__move tool and block frame copy in the files MCP server (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/2\">#2</a>…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2547752"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-19-dust-spa-poke-4727fec",
+      "date": "2026-05-19",
+      "name": "spa/poke/4727fec",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Drop redundant workspace FK indexes (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/25749\">#25749</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F4727fec"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-19-dust-spa-poke-8d33bce-feat-mistral-add-mistral-medium-3",
+      "date": "2026-05-19",
+      "name": "spa/poke/8d33bce: feat(mistral): add Mistral Medium 3.5 (#25781)",
+      "vendor": "Dust",
+      "type": "pricing",
+      "summary": "<ul>\n<li>feat(mistral): add Mistral Medium 3.5</li>\n</ul>\n<p>New flagship medium model from Mistral (256k context, multimodal,<br />\nagentic/coding focus). Demote Medium 3.1 to isLatest: false (already<br />\nisLegacy: tr",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8d33bce"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-05-18-openai-openai-and-dell-partner-to-bring-codex-to-hybrid-a",
       "date": "2026-05-18",
       "name": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
@@ -124,6 +250,24 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-05-18-aws-introducing-pre-fetching-and-iam-role-assumption-f",
+      "date": "2026-05-18",
+      "name": "Introducing pre-fetching and IAM role assumption for AWS Secrets Manager Agent",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Secrets Manager Agent now supports two new capabilities: pre-fetching secrets at startup and assuming an IAM role to retrieve secrets. With pre-fetching, you can specify a list of secrets or a tag value to retriev",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/secrets-manager-agent-prefetch-and-role-assumption/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
       "tags": []
     },
     {
@@ -929,150 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-feature-store-pyv3/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-12-aws-karpenter-now-supports-amazon-application-recovery",
-      "date": "2026-05-12",
-      "name": "Karpenter now supports Amazon Application Recovery Controller zonal shift",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Elastic Kubernetes Service (Amazon EKS) now supports <a href=\"https://aws.amazon.com/application-recovery-controller/\">Amazon Application Recovery Controller</a> (ARC) zonal shift and zonal autoshift when using",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/karpenter-arc-zonal-shift/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-12-aws-amazon-redshift-launches-rg-instances-powered-by-a",
-      "date": "2026-05-12",
-      "name": "Amazon Redshift launches RG instances powered by AWS Graviton",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Redshift announces the general availability of <a href=\"https://aws.amazon.com/redshift/features/rg/\">RG instances</a>, a new generation of provisioned cluster nodes powered by AWS Graviton processors that deli",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-redshift-rg-instances-powered-by-graviton"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-12-aws-amazon-cloudfront-premium-flat-rate-plan-now-suppo",
-      "date": "2026-05-12",
-      "name": "Amazon CloudFront Premium flat-rate plan now supports configurable usage allowances",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p style=\"text-align: left;\">Previously, the Amazon CloudFront Premium flat-rate plan supported a single usage allowance, and customers who outgrew it needed to contact us to discuss custom pricing options. Now, the Prem",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/cloudfront-configurable-premium-flat-rate-plans/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-12-aws-amazon-connect-customer-now-supports-embedding-cas",
-      "date": "2026-05-12",
-      "name": "Amazon Connect Customer now supports embedding Cases and Customer Profiles in custom agent applications",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Connect Customer now enables you to embed Cases and Customer Profiles into custom agent applications, helping agents access case details and customer context alongside the tools they already use to resolve issu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-sdk-cases-customer-profiles/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-12-crewai-1-14-5a5",
-      "date": "2026-05-12",
-      "name": "1.14.5a5",
-      "vendor": "CrewAI",
-      "type": "deprecation",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Deprecate CrewAgentExecutor, default Crew agents to AgentExecutor</li>\n<li>Improve Daytona sandbox tools</li>\n</ul>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Fix missing code block in",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.5a5"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-05-12-aws-aws-security-agent-now-supports-full-repository-co",
-      "date": "2026-05-12",
-      "name": "AWS Security Agent now supports full repository code reviews",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS <a href=\"https://aws.amazon.com/blogs/security/aws-security-agent-full-repository-code-scanning-feature-now-available-in-preview/\">announces the release of full repository code review</a>, a new capability ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-agent-full-repository-code-review/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-12-aws-announcing-region-expansion-of-p5-48xl-instances-o",
-      "date": "2026-05-12",
-      "name": "Announcing Region Expansion of P5.48xl instances on SageMaker Studio notebooks",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>We are pleased to announce general availability of Amazon EC2 P5.48xl instances in the AWS US West (San Francisco), Asia Pacific (Tokyo, Mumbai, Sydney, Jakarta) and Europe (London, Stockholm) regions on SageMaker Stu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/p5-48xl-region-expansion-sagemaker-studio-notebooks/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-12-aws-announcing-region-expansion-of-g6-instances-on-sag",
-      "date": "2026-05-12",
-      "name": "Announcing Region Expansion of G6 instances on SageMaker Notebook Instances",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>We are pleased to announce general availability of Amazon EC2 G6 instances in Asia Pacific (Tokyo, Mumbai, Sydney) and Europe (London, Paris, Frankfurt, Stockholm, Zurich) on SageMaker notebook instances.</p> \n<p><a h",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/g6-region-expansion-sagemaker-notebook-instances/"
         }
       ],
       "impact": 5,
