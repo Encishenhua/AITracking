@@ -19,6 +19,150 @@
       "tags": []
     },
     {
+      "id": "2026-05-20-aws-aws-security-hub-now-uncovers-identity-risks-from-",
+      "date": "2026-05-20",
+      "name": "AWS Security Hub now uncovers identity risks from unused access",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS Security Hub brings identity risk into the same unified console where central security teams already manage threats, exposures, and posture findings. Security Hub now detects unused IAM permissions, roles, ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-hub-unused-access/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-20-aws-security-hub-extended-expands-to-21-curated-partne",
+      "date": "2026-05-20",
+      "name": "Security Hub Extended expands to 21 curated partner solutions across 9 categories",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Security Hub Extended plan now includes 21 curated partner solutions across 9 security categories, adding SentinelOne (endpoint), CyberArk (identity), Sublime (email), Varonis (data security), LayerX (browser), Na",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-hub-extended/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-20-aws-aws-announces-extenddb-an-open-source-dynamodb-com",
+      "date": "2026-05-20",
+      "name": "AWS announces ExtendDB, an open source DynamoDB-compatible adapter",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, Amazon Web Services (AWS) announced version 0.1 of ExtendDB, an open source project that implements the Amazon DynamoDB API with pluggable storage backends. Amazon DynamoDB is a serverless, fully managed NoSQL ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-extenddb-dynamodb/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-20-aws-aws-billing-conductor-improves-account-visibility-",
+      "date": "2026-05-20",
+      "name": "AWS Billing Conductor Improves Account Visibility with Billing Transfer Inventory",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<div class=\"OutlineElement Ltr SCXW31228399 BCX2\" style=\"direction: ltr;\">\n <p class=\"Paragraph SCXW31228399 BCX2\" lang=\"EN-US\" style=\"font-weight: normal; font-style: normal; vertical-align: baseline; background-color: ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-billing-conductor-billing-transfer/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-20-aws-ecs-supports-native-integration-with-amazon-ebs-vo",
+      "date": "2026-05-20",
+      "name": "ECS supports native integration with Amazon EBS volumes in GovCloud Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/ecs/\">Amazon Elastic Container Service</a> (ECS) now supports mounting Amazon Elastic Block Store (EBS) volumes to containers in the AWS GovCloud Regions. This capability makes it easie",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/ecs-amazon-ebs-govcloud/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-20-aws-announcing-the-general-availability-of-a-new-aws-l",
+      "date": "2026-05-20",
+      "name": "Announcing the general availability of a new AWS Local Zone in Istanbul, Türkiye",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS announces the general availability of a new AWS Local Zone in Istanbul, Türkiye, bringing AWS infrastructure closer to end users, while enabling organizations to meet data residency requirements by storing ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-local-zones-istanbul-turkiye/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-20-aws-aws-transfer-family-web-apps-now-support-federated",
+      "date": "2026-05-20",
+      "name": "AWS Transfer Family web apps now support federated permissions with IAM Identity Center across AWS Regions",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS Transfer Family web apps now support federated permissions with AWS IAM Identity Center across multiple AWS Regions.&nbsp;Previously, you could only create&nbsp;Transfer Family web apps&nbsp;in the Region where yo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transfer-family-federated-permissions-across-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-20-dust-spa-poke-0fd6f0a",
+      "date": "2026-05-20",
+      "name": "spa/poke/0fd6f0a",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Include file ID in MCP files listing for frame and slideshow entries …</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F0fd6f0a"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-05-19-openai-introducing-openai-for-singapore",
       "date": "2026-05-19",
       "name": "Introducing OpenAI for Singapore",
@@ -929,150 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/amazon-oracle-m8i-r8i-license-included"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-13-dust-spa-poke-86e7d06-feat-switch-agentmcpaction-read-t",
-      "date": "2026-05-13",
-      "name": "spa/poke/86e7d06: feat: switch agentMCPAction read to new table (#25562)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>feat: switch agentMCPAction read to new table</p>\n</li>\n<li>\n<p>review feedback</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F86e7d06"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-13-dust-spa-poke-42a8b0e",
-      "date": "2026-05-13",
-      "name": "spa/poke/42a8b0e",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Add: private + solo projects allow using any agents you have access t…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F42a8b0e"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-13-dust-spa-poke-41a0c5c-agent-new-convo-button-not-closin",
-      "date": "2026-05-13",
-      "name": "spa/poke/41a0c5c: Agent new convo button not closing slideout (#25540)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>[front] Close agent details sheet on new conversation click</p>\n</li>\n<li>\n<p>Extract new conversation handler</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F41a0c5c"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-13-dust-spa-poke-028d58c-run-agent-fail-early-when-child-a",
-      "date": "2026-05-13",
-      "name": "spa/poke/028d58c: [Run Agent] Fail early when child agent is inaccessible (#25577)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>Fix run_agent child access failure</p>\n</li>\n<li>\n<p>Make run_agent child access check exhaustive</p>\n</li>\n<li>\n<p>Fail closed on run_agent child access checks</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F028d58c"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-13-openai-our-response-to-the-tanstack-npm-supply-chain-atta",
-      "date": "2026-05-13",
-      "name": "Our response to the TanStack npm supply chain attack",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-12-openai-what-parameter-golf-taught-us-about-ai-assisted-re",
-      "date": "2026-05-12",
-      "name": "What Parameter Golf taught us about AI-assisted research",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/what-parameter-golf-taught-us"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-12-aws-aws-lambda-supports-scheduled-scaling-for-function",
-      "date": "2026-05-12",
-      "name": "AWS Lambda supports scheduled scaling for functions on Lambda Managed Instances",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Lambda now supports scheduled scaling for functions running on Lambda Managed Instances, using Amazon EventBridge Scheduler. This capability allows you to define one-time or recurring schedules that proactively ad",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-lambda-managed-instances/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-12-aws-amazon-sagemaker-feature-store-now-supports-sagema",
-      "date": "2026-05-12",
-      "name": "Amazon SageMaker Feature Store now supports SageMaker Python SDK V3",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon SageMaker Feature Store now supports the SageMaker Python SDK v3, including new capabilities for Lake Formation access controls and Apache Iceberg table properties configuration. Feature Store is a fully manage",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-feature-store-pyv3/"
         }
       ],
       "impact": 5,
