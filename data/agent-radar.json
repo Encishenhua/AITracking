@@ -1,6 +1,96 @@
 {
   "items": [
     {
+      "id": "2026-05-21-aws-amazon-ec2-c7i-flex-m7i-flex-m7i-instances-now-ava",
+      "date": "2026-05-21",
+      "name": "Amazon EC2 C7i-flex, M7i-flex & M7i instances now available in Asia Pacific (Hyderabad) region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C7i-flex, M7i-flex and M7i instances powered by custom 4th Gen Intel Xeon Scalable processors (code-named Sapphire Rapids) are available in Asia Pacific (Hyder",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-c7i-flex-m7i-flex-m7i-instances-HYD-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-21-aws-sagemaker-unified-studio-automates-glue-connector-",
+      "date": "2026-05-21",
+      "name": "SageMaker Unified Studio automates Glue connector provisioning for cross-subnet job retries",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker Unified Studio now supports automatic creation of connections for Glue job retries across subnets to improve data pipeline resilience. This helps organizations running business-critical data pipelines",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/sagemaker-unified-studio-glue/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-21-aws-amazon-sagemaker-ai-now-supports-openai-compatible",
+      "date": "2026-05-21",
+      "name": "Amazon SageMaker AI now supports OpenAI-compatible APIs for inference endpoints",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker Inference now supports OpenAI-compatible APIs, so you can use the tools and frameworks you already know, like the OpenAI SDK, LangChain, and Strands Agents, to connect directly to your SageMaker endpo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ai-openai-apis/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-21-dust-spa-poke-8169601",
+      "date": "2026-05-21",
+      "name": "spa/poke/8169601",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] enh: improve large IN clauses in agent step content fetches (…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8169601"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-21-dust-spa-poke-4fa9615-inline-text-editing-for-frames-25",
+      "date": "2026-05-21",
+      "name": "spa/poke/4fa9615: Inline text editing for Frames (#25913)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>\n<p>PoC</p>\n</li>\n<li>\n<p>[viz] feat: inline text editing for Frame components</p>\n</li>\n</ul>\n<ul>\n<li>Double-click to enter edit mode on JSX text nodes</li>\n<li>Enter to save, Escape to revert, blur to save</l",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F4fa9615"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-05-20-aws-amazon-sagemaker-hyperpod-now-supports-data-captur",
       "date": "2026-05-20",
       "name": "Amazon SageMaker HyperPod now supports data capture for inference workloads",
@@ -158,6 +248,60 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-20-aws-amazon-bedrock-expands-support-for-request-level-u",
+      "date": "2026-05-20",
+      "name": "Amazon Bedrock expands support for request-level usage attribution",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock customers can now attribute model inference usage to specific teams, applications, environments, and experiments at the individual request level on the InvokeModel and InvokeModelWithResponseStream APIs",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-bedrock-request-level-usage-attribution/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-20-aws-amazon-documentdb-with-mongodb-compatibility-serve",
+      "date": "2026-05-20",
+      "name": "Amazon DocumentDB (with MongoDB compatibility) Serverless is now available on DocumentDB 8.0",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon DocumentDB (with MongoDB compatibility) Serverless, an on-demand, auto-scaling configuration for DocumentDB, is now available on version 8.0. Amazon DocumentDB Serverless automatically scales capacity up or dow",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/5/docdb8-serverless"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-20-aws-amazon-sagemaker-unified-studio-now-supports-data-",
+      "date": "2026-05-20",
+      "name": "Amazon SageMaker Unified Studio now supports data quality rule authoring and evaluation",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker Unified Studio now supports data quality rule authoring and evaluation, powered by AWS Glue Data Quality. Data engineers, analysts, and data scientists can define data quality rules, run ruleset evalu",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/smus-data-quality"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -407,6 +551,24 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/secrets-manager-agent-prefetch-and-role-assumption/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-18-aws-amazon-ecs-now-integrates-with-amazon-ebs-volumes-",
+      "date": "2026-05-18",
+      "name": "Amazon ECS now integrates with Amazon EBS volumes in AWS GovCloud Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/ecs/\">Amazon Elastic Container Service</a> (Amazon ECS) now integrates with Amazon Elastic Block Store (Amazon EBS) volumes in AWS GovCloud Regions. This capability makes it easier for ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/ecs-amazon-ebs-govcloud/"
         }
       ],
       "impact": 5,
@@ -911,168 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transform-ai-assistant"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-14-aws-aws-rtb-fabric-supports-custom-domains-for-real-ti",
-      "date": "2026-05-14",
-      "name": "AWS RTB Fabric supports custom domains for real-time bidding workloads",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS RTB Fabric now supports custom domains for real-time bidding transactions received through <a href=\"https://docs.aws.amazon.com/rtb-fabric/latest/userguide/using-custom-domains-ext-inbound-links.html\">external lin",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-rtb-fabric-custom-domains/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-14-dust-spa-poke-73176f2",
-      "date": "2026-05-14",
-      "name": "spa/poke/73176f2",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>[front] fix: guard extractDataSourceIds against external MCP table sh…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F73176f2"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-14-dust-spa-app-73176f2",
-      "date": "2026-05-14",
-      "name": "spa/app/73176f2",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>[front] fix: guard extractDataSourceIds against external MCP table sh…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F73176f2"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-14-aws-amazon-cloudfront-announces-passthrough-mode-for-m",
-      "date": "2026-05-14",
-      "name": "Amazon CloudFront announces Passthrough Mode for mutual TLS (Viewer)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon CloudFront now supports passthrough mode for mutual TLS (mTLS) viewer authentication, allowing CloudFront to forward client certificates to the origin without verifying the certificates on CloudFront. Customers",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudfront-mtls-passthrough/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-14-aws-amazon-ec2-high-memory-u7i-instances-now-available",
-      "date": "2026-05-14",
-      "name": "Amazon EC2 High Memory U7i instances now available in AWS Europe (Paris) region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon EC2 High Memory U7i-12TB instances (u7i-12tb.224xlarge) and U7in-16TB instances (u7in-16tb.224xlarge) are now available in the AWS Europe (Paris) region. U7i instances are part of the AWS 7th generation and are",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-u7i-aws-europe-paris/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-13-openai-building-a-safe-effective-sandbox-to-enable-codex-",
-      "date": "2026-05-13",
-      "name": "Building a safe, effective sandbox to enable Codex on Windows",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/building-codex-windows-sandbox"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-13-aws-amazon-sagemaker-data-agent-now-available-for-iam-",
-      "date": "2026-05-13",
-      "name": "Amazon SageMaker Data Agent now available for IAM Identity Center domains",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker Data Agent is now available in SageMaker Unified Studio domains configured with IAM Identity Center. Data Agent extends its AI-powered capabilities to help data analysts and engineers streamline their",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-data-agent-idc/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-13-aws-amazon-fsx-for-openzfs-now-supports-creating-multi",
-      "date": "2026-05-13",
-      "name": "Amazon FSx for OpenZFS now supports creating Multi-AZ file systems in shared VPCs",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon&nbsp;FSx&nbsp;for&nbsp;OpenZFS&nbsp;now&nbsp;allows&nbsp;you to create&nbsp;Multi-AZ&nbsp;file systems in&nbsp;shared&nbsp;VPCs&nbsp;within your AWS organization, making it easier for you&nbsp;to decentralize&n",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-fsx-openzfs-multi-az-vpcs/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-13-aws-amazon-rds-for-oracle-now-supports-m8i-and-r8i-ins",
-      "date": "2026-05-13",
-      "name": "Amazon RDS for Oracle now supports M8i and R8i instances with Oracle SE2 License Included",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/oracle/\">Amazon RDS for Oracle </a>now offers M8i and R8i instances with Oracle Database Standard Edition 2 (SE2) with the License Included (LI). M8i and R8i instances are powered b",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/amazon-oracle-m8i-r8i-license-included"
         }
       ],
       "impact": 5,
