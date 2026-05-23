@@ -1,6 +1,186 @@
 {
   "items": [
     {
+      "id": "2026-05-22-openai-openai-named-a-leader-in-enterprise-coding-agents-",
+      "date": "2026-05-22",
+      "name": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/gartner-2026-agentic-coding-leader"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-22-openai-increase-in-users-hitting-codex-rate-limits",
+      "date": "2026-05-22",
+      "name": "Increase in users hitting Codex rate limits",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>VS Code extension (Degraded performance)</li>\n<li>Co",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KS88SRADTWQW27NYRAXMBAQN"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-22-aws-amazon-sagemaker-expands-domain-management-across-",
+      "date": "2026-05-22",
+      "name": "Amazon SageMaker expands domain management across domain types",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker Unified Studio now provides domain management experience for Identity Center and IAM-based domains outside of AWS console, allows administrators and data management teams to create and manage projects",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/domain-management-iam-idc/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-22-aws-new-agentic-migration-assessment-capabilities-now-",
+      "date": "2026-05-22",
+      "name": "New agentic migration assessment capabilities now available with AWS Transform",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS Transform now offers advanced migration assessment capabilities including what-if scenarios, customizable assumptions, flexible file format support, and multiple new total cost of ownership (TCO) assessment featur",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/assessment-capabilities-transform"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-22-aws-amazon-sagemaker-adds-business-metadata-and-govern",
+      "date": "2026-05-22",
+      "name": "Amazon SageMaker adds business metadata and governance in IAM-based domains",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/sagemaker/unified-studio/\">Amazon SageMaker Unified Studio</a> now supports business context, metadata and data governance capabilities in IAM-based domains. With this launch, customers",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/sagemaker-catalog-iam-domains/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-22-aws-aws-security-agent-adds-verification-scripts-for-p",
+      "date": "2026-05-22",
+      "name": "AWS Security Agent adds verification scripts for pentest findings",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/security-agent/\">AWS Security Agent</a> now generates verification scripts for penetration test findings, enabling security teams to independently reproduce and validate discovered vuln",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-agent/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-22-aws-amazon-keyspaces-for-apache-cassandra-expands-to-a",
+      "date": "2026-05-22",
+      "name": "Amazon Keyspaces (for Apache Cassandra) expands to Asia Pacific (Malaysia) and Asia Pacific (Thailand) Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/keyspaces/\">Amazon Keyspaces (for Apache Cassandra)</a> is now available in the Asia Pacific (Malaysia) and Asia Pacific (Thailand) Regions, allowing customers in Asia Pacific Region to",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-keyspaces-malaysia-thailand/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-22-aws-aws-clean-rooms-now-supports-mutable-payment-confi",
+      "date": "2026-05-22",
+      "name": "AWS Clean Rooms now supports mutable payment configurations for collaborations",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Clean Rooms now supports mutable fine-grained <a href=\"https://docs.aws.amazon.com/clean-rooms/latest/userguide/change-requests.html\" rel=\"noopener noreferrer\" target=\"_blank\">payment configurations</a> for collab",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-clean-rooms-mutable-payments"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-22-dust-spa-poke-75873f5-email-agents-stop-disabled-worksp",
+      "date": "2026-05-22",
+      "name": "spa/poke/75873f5: [Email Agents] Stop disabled workspace relay (#26049)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>Fix email agent disabled workspace relay</p>\n</li>\n<li>\n<p>Fix email trigger test mock</p>\n</li>\n<li>\n<p>Clarify disabled email agents error</p>\n</li>\n<li>\n<p>Remove disabled email agents trigger test</p>\n</",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F75873f5"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-22-dust-spa-poke-ea1b725",
+      "date": "2026-05-22",
+      "name": "spa/poke/ea1b725",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] chore: cleanup agent loop DD metrics, reduce metric cardinali…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fea1b725"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-05-21-aws-amazon-ec2-c7i-flex-m7i-flex-m7i-instances-now-ava",
       "date": "2026-05-21",
       "name": "Amazon EC2 C7i-flex, M7i-flex & M7i instances now available in Asia Pacific (Hyderabad) region",
@@ -893,186 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-transform-developer-tools/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-14-aws-aws-transform-introduces-the-agent-builder-toolkit",
-      "date": "2026-05-14",
-      "name": "AWS Transform introduces the agent builder toolkit Kiro power for building customized transformation agents",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, as part of the <a href=\"https://aws.amazon.com/transform/partners/\">AWS Transform composability initiative</a>, AWS announces the general availability of the agent builder toolkit Kiro power for AWS Transform. ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transform-agent-builder-toolkit/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-14-aws-aws-transform-now-supports-customer-owned-artifact",
-      "date": "2026-05-14",
-      "name": "AWS Transform now supports customer-owned artifact stores",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Transform brings assessment, migration, and modernization into a single AI-powered experience that guides enterprises through their full transformation journey. Today, AWS announces support for customer-owned Amaz",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transform-customer-owned-artifact/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-14-aws-new-models-for-image-generation-and-text-embedding",
-      "date": "2026-05-14",
-      "name": "New models for image generation and text embeddings are now available in Amazon SageMaker JumpStart",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announced the availability of FLUX.2-klein-base-4B and Qwen3-Embedding-0.6B in Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. These models from Black Fo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/image-embeddings-models-on-sagemaker-jumpstart/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-14-aws-three-new-models-for-speech-recognition-and-text-t",
-      "date": "2026-05-14",
-      "name": "Three new models for speech recognition and text-to-speech are now available in Amazon SageMaker JumpStart",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announced the availability of Qwen3-TTS-12Hz-1.7B-CustomVoice, Qwen3-TTS-12Hz-1.7B-Base, and Qwen3-ASR-1.7B in Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS custo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/speech-models-on-sagemaker-jumpstart/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-14-aws-two-new-models-for-agentic-coding-and-efficient-ai",
-      "date": "2026-05-14",
-      "name": "Two new models for agentic coding and efficient AI are now available in Amazon SageMaker JumpStart",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announced the availability of GLM-5.1-FP8 and Phi-4-mini-instruct in Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. These models from Z.ai and Microsoft",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/agentic-reasoning-models-on-sagemaker-jumpstart/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-14-aws-amazon-aurora-dsql-now-supports-change-data-captur",
-      "date": "2026-05-14",
-      "name": "Amazon Aurora DSQL now supports change data capture (Preview)",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Aurora DSQL introduces support for change data capture (CDC) in preview, enabling you to stream real-time database changes directly to Amazon Kinesis Data Streams. This fully managed capability removes the need",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-aurora-dsql-change-data-capture-preview/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-14-aws-amazon-ec2-x8aedz-instances-are-now-available-in-e",
-      "date": "2026-05-14",
-      "name": "Amazon EC2 X8aedz instances are now available in Europe (Ireland) region",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) X8aedz instances are available in&nbsp;Europe (Ireland) region. These instances are powered by 5th Gen AMD EPYC processors (formerly code named Turin). These i",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-x8aedz-europe-ireland/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-14-aws-amazon-connect-customer-launches-permission-for-ag",
-      "date": "2026-05-14",
-      "name": "Amazon Connect Customer launches permission for agents to view only their own performance evaluations",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect Customer now supports a permission that gives agents access to their own performance evaluations in the Connect UI, without exposing other agents' evaluations, so they can review feedback to improve the",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-customer-permission-view-own-performance-evaluations/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-14-aws-amazon-rds-for-postgresql-supports-minor-versions-",
-      "date": "2026-05-14",
-      "name": "Amazon RDS for PostgreSQL supports minor versions 18.4, 17.10, 16.14, 15.18, and 14.23",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/postgresql/\">Amazon Relational Database Service (RDS)</a> for PostgreSQL now supports the latest minor versions 18.4, 17.10, 16.14, 15.18, and 14.23. We recommend that you upgrade t",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-postgresql/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-14-aws-aws-transform-adds-agentic-ai-assistant-to-the-aws",
-      "date": "2026-05-14",
-      "name": "AWS Transform adds agentic AI assistant to the AWS Toolkit for Visual Studio",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>To improve developer experience, AWS Transform now includes an interactive agentic AI assistant in the AWS Toolkit for Visual Studio. This enables .NET developers to modernize applications through a conversational, st",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transform-ai-assistant"
         }
       ],
       "impact": 5,
