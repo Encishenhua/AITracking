@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "2026-05-23-dust-spa-poke-374a729",
+      "date": "2026-05-23",
+      "name": "spa/poke/374a729",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>Fix icons and copy as well as polish mobile navigation. (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/26080\">#26080</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F374a729"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-23-dust-spa-app-374a729",
+      "date": "2026-05-23",
+      "name": "spa/app/374a729",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>Fix icons and copy as well as polish mobile navigation. (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/26080\">#26080</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F374a729"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-05-22-openai-openai-named-a-leader-in-enterprise-coding-agents-",
       "date": "2026-05-22",
       "name": "OpenAI named a Leader in enterprise coding agents by Gartner",
@@ -1037,42 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-m3-ultra-mac-instances-generally-available/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-14-aws-sagemaker-ai-now-supports-serverless-model-customi",
-      "date": "2026-05-14",
-      "name": "SageMaker AI now supports serverless model customization for Qwen3.6",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker AI now supports serverless model customization for Qwen3.6 27B parameter model using supervised fine-tuning (SFT) and reinforcement fine-tuning (RFT). Qwen3.6 is a popular open-weight model family fro",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ft-qwen3-6/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-14-aws-aws-transform-agents-now-available-in-kiro-claude-",
-      "date": "2026-05-14",
-      "name": "AWS Transform agents now available in Kiro, Claude, Cursor, and Codex",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces that the AWS Transform agents — built on decades of AWS migration and modernization experience — are now accessible through a Kiro power, agent plugins, and via the AWS Transform MCP server. Devel",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/aws-transform-developer-tools/"
         }
       ],
       "impact": 5,
