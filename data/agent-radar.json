@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "2026-05-25-dust-spa-poke-36de27e",
+      "date": "2026-05-25",
+      "name": "spa/poke/36de27e",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Add: mcp tool for universal harness in pods. (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/26112\">#26112</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F36de27e"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-25-dust-spa-app-36de27e",
+      "date": "2026-05-25",
+      "name": "spa/app/36de27e",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Add: mcp tool for universal harness in pods. (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/26112\">#26112</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F36de27e"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-05-23-dust-spa-poke-374a729",
       "date": "2026-05-23",
       "name": "spa/poke/374a729",
@@ -523,6 +559,24 @@
       "tags": []
     },
     {
+      "id": "2026-05-20-aws-aws-transform-now-modernizes-networks-during-migra",
+      "date": "2026-05-20",
+      "name": "AWS Transform now modernizes networks during migrations",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Network migration teams previously spent days manually reviewing network designs and discovered conflicts only at deployment. AWS Transform now includes two new capabilities that solve both. A new modernization engine",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transform-network-modernization"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-05-19-openai-introducing-openai-for-singapore",
       "date": "2026-05-19",
       "name": "Introducing OpenAI for Singapore",
@@ -1022,60 +1076,6 @@
         }
       ],
       "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-14-openai-sea-s-view-on-the-future-of-agentic-software-devel",
-      "date": "2026-05-14",
-      "name": "Sea's View on the Future of Agentic Software Development with Codex",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/sea-david-chen"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-14-aws-amazon-bedrock-introduces-advanced-prompt-optimiza",
-      "date": "2026-05-14",
-      "name": "Amazon Bedrock Introduces Advanced Prompt Optimization and Migration Tool",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Customers&nbsp;spend days to weeks&nbsp;optimizing&nbsp;prompts and evaluating responses when they want to migrate to a new model or just get better performance out of their current model.&nbsp;They struggle&nbsp;with",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-bedrock-advanced-prompt-optimization-migration-tool/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-14-aws-announcing-general-availability-of-amazon-ec2-m3-u",
-      "date": "2026-05-14",
-      "name": "Announcing general availability of Amazon EC2 M3 Ultra Mac instances",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Web Services announces general availability of Amazon EC2 M3&nbsp;Ultra&nbsp;Mac instances, powered by the latest Mac Studio hardware. Amazon EC2 M3 Ultra Mac instances are the next-generation EC2 Mac instances",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-m3-ultra-mac-instances-generally-available/"
-        }
-      ],
-      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
