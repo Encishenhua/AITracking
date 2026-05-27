@@ -1,6 +1,150 @@
 {
   "items": [
     {
+      "id": "2026-05-26-openai-login-issues-for-fedramp-users-who-recently-logged",
+      "date": "2026-05-26",
+      "name": "Login issues for FedRAMP users who recently logged out",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Identified</b><br /><br />We have identified that users are experiencing login issues for the impacted services.\n\nWe are working on implementing a mitigation.<br /><br /><b>Affected components</b>\n          <u",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KSJKR3EXTMKY0C287HS1BR8P"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-26-aws-amazon-rds-now-supports-ena-express-for-multi-az-r",
+      "date": "2026-05-26",
+      "name": "Amazon RDS now supports ENA Express for Multi-AZ replication",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon RDS </a>Multi-AZ instances now use ENA Express for replication traffic between Availability Zones. ENA Express uses AWS's Scalable",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-ena-express-multiAZ/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-26-aws-amazon-ec2-r8i-and-r8i-flex-instances-are-now-avai",
+      "date": "2026-05-26",
+      "name": "Amazon EC2 R8i and R8i-flex instances are now available in AWS GovCloud (US-East) Region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8i and R8i-flex instances are available in the AWS GovCloud (US-East) Region. These instances are powered by custom Intel Xeon 6 processors, available only on",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-r8i-r8i-flex-govcloud-east/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-26-aws-amazon-ec2-m8i-and-m8i-flex-instances-are-now-avai",
+      "date": "2026-05-26",
+      "name": "Amazon EC2 M8i and M8i-flex instances are now available in AWS GovCloud (US-East) Region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon EC2 M8i and M8i-flex instances are now available in AWS GovCloud (US-East)<b> </b>Region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the hig",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-m8i-m8i-flex-govcloud-east/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-26-aws-amazon-vpc-ipam-now-supports-tags-on-ipam-pool-all",
+      "date": "2026-05-26",
+      "name": "Amazon VPC IPAM now supports tags on IPAM pool allocations",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon VPC IP Address Manager (IPAM) now supports tags on IPAM pool allocations, enabling customers to organize, govern, and control access to individual IP address allocations using the same tagging workflows they us",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-vpc-ipam-tags/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-26-dust-spa-poke-6da8806",
+      "date": "2026-05-26",
+      "name": "spa/poke/6da8806",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Add Contentsquare as a remote MCP server (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/25973\">#25973</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6da8806"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-26-dust-spa-poke-4f8b3c4",
+      "date": "2026-05-26",
+      "name": "spa/poke/4f8b3c4",
+      "vendor": "Dust",
+      "type": "deprecation",
+      "summary": "<p>feat(models): deprecate gemini-3.1-flash-lite-preview → gemini-3.1-fl…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F4f8b3c4"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-26-dust-spa-poke-3b9b155",
+      "date": "2026-05-26",
+      "name": "spa/poke/3b9b155",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] fix: simplify YAML agent patch imports (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/25912\">#25912</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F3b9b155"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-05-25-dust-spa-poke-36de27e",
       "date": "2026-05-25",
       "name": "spa/poke/36de27e",
@@ -248,6 +392,24 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-22-aws-amazon-gamelift-streams-launches-generation-6e-str",
+      "date": "2026-05-22",
+      "name": "Amazon GameLift Streams launches Generation 6e stream classes for high-fidelity game streaming",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, Amazon GameLift Streams launched Generation 6e (G6e) stream classes, providing enhanced GPU performance for streaming high-fidelity, graphically demanding games and applications. The new G6e stream classes are ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-gamelift-streams-g6e-stream-class/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -577,6 +739,24 @@
       "tags": []
     },
     {
+      "id": "2026-05-20-aws-aws-deadline-cloud-now-supports-browsing-job-attac",
+      "date": "2026-05-20",
+      "name": "AWS Deadline Cloud now supports browsing job attachments in the monitor",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Deadline Cloud now supports browsing job attachment files directly within the Deadline Cloud monitor. AWS Deadline Cloud is a fully managed service that simplifies render management for teams creating computer-gen",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-deadline-cloud/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-05-19-openai-introducing-openai-for-singapore",
       "date": "2026-05-19",
       "name": "Introducing OpenAI for Singapore",
@@ -896,186 +1076,6 @@
         }
       ],
       "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-15-openai-databricks-brings-gpt-5-5-to-enterprise-agent-work",
-      "date": "2026-05-15",
-      "name": "Databricks brings GPT-5.5 to enterprise agent workflows",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/databricks"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-15-aws-amazon-emr-serverless-is-now-available-in-addition",
-      "date": "2026-05-15",
-      "name": "Amazon EMR Serverless is now available in additional AWS Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon EMR Serverless is now generally available in six additional AWS Regions - Asia Pacific (Hyderabad), Asia Pacific (Malaysia), Asia Pacific (New Zealand), Asia Pacific (Taipei), Asia Pacific (Thailand), and Mexic",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-emr-serverless-aws-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-15-aws-aws-partner-central-agents-now-accelerates-opportu",
-      "date": "2026-05-15",
-      "name": "AWS Partner Central agents now accelerates opportunity creation",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces that the AWS Partner Central agents now accelerate opportunity creation through natural language conversation. <a href=\"https://aws.amazon.com/about-aws/whats-new/2026/03/aws-partner-central-agent",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-partner-central-agents-oppo"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-15-aws-amazon-connect-cases-now-lets-you-edit-related-ite",
-      "date": "2026-05-15",
-      "name": "Amazon Connect Cases now lets you edit related items and delete cases from the agent workspace",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect Cases now supports editing and deleting related items, and deleting cases directly from the agent workspace without administrator help. Agents can update comments, unlink contacts associated with the wr",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-cases-related-item/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-15-aws-amazon-rds-for-postgresql-announces-extended-suppo",
-      "date": "2026-05-15",
-      "name": "Amazon RDS for PostgreSQL announces Extended Support minor versions 11.22-rds.20260224, 12.22-rds.20260224, and 13.23-rds.20260224",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/postgresql/\">Amazon Relational Database Service</a> (RDS) for PostgreSQL announces Amazon RDS Extended Support minor versions 11.22-rds.20260224, 12.22-rds.20260224, and 13.23-rds.2",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-postgresql-extended-support/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-15-aws-amazon-managed-grafana-now-supports-in-place-upgra",
-      "date": "2026-05-15",
-      "name": "Amazon Managed Grafana now supports in-place upgrade to Grafana version 12.4",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Managed Grafana&nbsp;now supports&nbsp;in-place&nbsp;upgrade&nbsp;from Grafana version 10.4 to 12.4.&nbsp;You can upgrade with just a few clicks&nbsp;from&nbsp;the AWS Console or via AWS SDK or AWS CLI.</p> \n<p",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-managed-grafana-v12-update/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-15-aws-aws-organizations-now-supports-higher-quotas-for-s",
-      "date": "2026-05-15",
-      "name": "AWS Organizations now supports higher quotas for service control policies (SCPs)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/organizations/\">AWS Organizations</a> now supports higher quotas for service control policies (SCPs). The maximum number of SCPs that can be attached to a single node (root, OU, or acco",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-organizations-increased-scp-quotas/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-15-dust-spa-poke-7483821",
-      "date": "2026-05-15",
-      "name": "spa/poke/7483821",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>chore: stop writing version&amp;scid to agent mcp action (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/25642\">#25642</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F7483821"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-15-dust-spa-poke-1333fd9",
-      "date": "2026-05-15",
-      "name": "spa/poke/1333fd9",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Handle missing conversations in agent loop data (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/25625\">#25625</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F1333fd9"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-15-dust-spa-poke-72aa331",
-      "date": "2026-05-15",
-      "name": "spa/poke/72aa331",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[Productboard MCP] Migrate search entities to structured filter/retur…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F72aa331"
-        }
-      ],
-      "impact": 3,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
