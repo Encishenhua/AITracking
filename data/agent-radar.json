@@ -1,6 +1,348 @@
 {
   "items": [
     {
+      "id": "2026-05-28-openai-codex-context-compaction-latency",
+      "date": "2026-05-28",
+      "name": "Codex Context Compaction Latency",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Codex Web (Degraded performance)</li>\n<li>CLI (Degra",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KSN9ATSF1WCJ5ZTQSR1H9CC7"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-27-openai-building-self-improving-tax-agents-with-codex",
+      "date": "2026-05-27",
+      "name": "Building self-improving tax agents with Codex",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-27-openai-warp-s-big-bet-on-building-open-source-with-gpt-5-",
+      "date": "2026-05-27",
+      "name": "Warp’s big bet on building open source with GPT-5.5",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/warp"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-27-openai-android-chatgpt-business-users-having-trouble-swit",
+      "date": "2026-05-27",
+      "name": "Android ChatGPT Business users having trouble switching workspaces",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Investigating</b><br /><br />Android ChatGPT users may have trouble switching workspaces. We are investigating and will provide updates as more information becomes available.<br /><br /><b>Affected components<",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KSN40TAYQYGAKFA50HNH22YG"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-27-aws-announcing-region-expansion-of-p6-b200-instances-o",
+      "date": "2026-05-27",
+      "name": "Announcing Region Expansion of P6-B200 instances on SageMaker Notebook Instances",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>We are pleased to announce general availability of Amazon EC2 P6-B200 instances in AWS US East (N. Virginia) on SageMaker notebook instances.</p> \n<p><u><a href=\"https://aws.amazon.com/ec2/instance-types/p6/\">Amazon E",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/p6-b200-region-expansion-sagemaker-notebook-instances/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-27-aws-amazon-bedrock-expands-support-for-service-quotas",
+      "date": "2026-05-27",
+      "name": "Amazon Bedrock expands support for Service Quotas",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock is a fully managed service that provides secure, enterprise-grade access to high-performing foundation models from leading AI companies, enabling you to build and scale generative AI applications. Amazo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/5/amazon-bedrock-service-quotas/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-27-aws-sagemaker-notebook-instances-now-support-p5-4xl-in",
+      "date": "2026-05-27",
+      "name": "SageMaker Notebook Instances now support P5.4xl instance types",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>We are pleased to announce general availability of Amazon EC2 P5.4xl instances on SageMaker notebook instances.</p> \n<p><a href=\"https://aws.amazon.com/ec2/instance-types/p5/\">Amazon EC2 P5.4xl instances</a> are power",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/p5-4xl-new-instance-launch-sagemaker-notebook-instances/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-27-aws-sagemaker-notebook-instances-now-support-p5en-48xl",
+      "date": "2026-05-27",
+      "name": "SageMaker Notebook Instances now support P5en.48xl instance types",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>We are pleased to announce general availability of Amazon EC2 P5en.48xl instances on SageMaker notebook instances.</p> \n<p><a href=\"https://aws.amazon.com/ec2/instance-types/p5/\">Amazon EC2 P5en instances</a> feature ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/p5en-new-instance-launch-sagemaker-notebook-instances/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-27-aws-amazon-emr-now-supports-apache-spark-4-0-2-in-gene",
+      "date": "2026-05-27",
+      "name": "Amazon EMR now supports Apache Spark 4.0.2 in general availability",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon EMR now supports Apache Spark 4.0.2 across all three deployment models. With Spark 4.0.2, you can build and maintain data pipelines more easily with ANSI SQL and VARIANT data types, enforce fine-grained access ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-emr-apache-spark/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-27-aws-aws-glue-large-and-memory-optimized-workers-now-av",
+      "date": "2026-05-27",
+      "name": "AWS Glue large and memory optimized workers now available in Europe (Spain) Region",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Glue now offers large and memory-optimized workers in the AWS Europe (Spain) Region, giving customers in this region more power to handle complex data processing workloads. The new additions include two general co",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-glue-larger-memory-intensive-workers-spain"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-27-aws-amazon-connect-customer-now-uses-generative-ai-to-",
+      "date": "2026-05-27",
+      "name": "Amazon Connect Customer now uses generative AI to automatically evaluate self-service interactions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Connect Customer now enables managers to use generative AI to automatically evaluate self-service interactions, and get aggregated insights to help improve customer experience. Managers can define custom evalua",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-customer-gen-AI-evaluations-self-service"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-27-aws-amazon-sagemaker-hyperpod-slurm-clusters-now-suppo",
+      "date": "2026-05-27",
+      "name": "Amazon SageMaker HyperPod Slurm clusters now support specifying minimum capacity requirements with continuous provisioning",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker HyperPod now supports minimum capacity requirements (MinCount) for clusters using Slurm orchestration with continuous provisioning. With <a href=\"https://aws.amazon.com/about-aws/whats-new/2026/03/ama",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-hyperpod-mincount/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-27-aws-amazon-aurora-mysql-now-supports-integration-with-",
+      "date": "2026-05-27",
+      "name": "Amazon Aurora MySQL now supports integration with Kiro Powers",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Today, AWS announces that Amazon Aurora MySQL-Compatible Edition now supports integration with <a href=\"https://kiro.dev/powers/\">Kiro Powers</a>, enabling developers to build Aurora MySQL-backed applications faster w",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-aurora-mysql-kiro-powers/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-27-aws-aws-backup-adds-otp-verification-for-multi-party-a",
+      "date": "2026-05-27",
+      "name": "AWS Backup adds OTP verification for Multi-party approval on logically air-gapped vaults",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Backup now requires one-time password (OTP) verification when approvers vote on Multi-party approval actions for logically air-gapped vaults.</p> \n<p>When an approver votes on an Multi-party approval request, they",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-backup-otp-multi-party-approval-lag/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-27-dust-spa-poke-7427535-agent-loop-heartbeat-while-proces",
+      "date": "2026-05-27",
+      "name": "spa/poke/7427535: [Agent Loop] Heartbeat while processing tool results (#26237)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>Heartbeat while processing MCP tool results</p>\n</li>\n<li>\n<p>Address tool result heartbeat review comments</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F7427535"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-27-dust-spa-poke-775ff86-fix-prevent-move-conversation-if-",
+      "date": "2026-05-27",
+      "name": "spa/poke/775ff86: Fix: prevent move conversation if agent loop is running.",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Co-authored-by: Cursor <a href=\"mailto:cursoragent@cursor.com\">cursoragent@cursor.com</a></p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F775ff86"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-27-dust-spa-poke-620d8c4",
+      "date": "2026-05-27",
+      "name": "spa/poke/620d8c4",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] AgentMessage: log warning when trying to copy a null agentMes…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F620d8c4"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-27-dust-spa-poke-16d6b56",
+      "date": "2026-05-27",
+      "name": "spa/poke/16d6b56",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Add Costory as a remote MCP server (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/26326\">#26326</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F16d6b56"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-27-crewai-1-14-6a2",
+      "date": "2026-05-27",
+      "name": "1.14.6a2",
+      "vendor": "CrewAI",
+      "type": "upgrade",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Enhance <code>StdioTransport</code> to prevent environment variable leakage</li>\n<li>Enhance planning configuration and observation handling</li>\n<li>Declare <code>env_v",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.6a2"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-05-26-openai-login-issues-for-fedramp-users-who-recently-logged",
       "date": "2026-05-26",
       "name": "Login issues for FedRAMP users who recently logged out",
@@ -140,6 +482,24 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-26-aws-amazon-ec2-x8i-instances-are-now-available-in-addi",
+      "date": "2026-05-26",
+      "name": "Amazon EC2 X8i instances are now available in additional regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) X8i instances are available in the Asia Pacific (Singapore), Asia Pacific (Sydney) and AWS GovCloud (US-West) regions.&nbsp;These instances are powered by cust",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-SIN-SYD-PDT-region/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -713,366 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/smus-data-quality"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-20-aws-aws-transform-now-modernizes-networks-during-migra",
-      "date": "2026-05-20",
-      "name": "AWS Transform now modernizes networks during migrations",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Network migration teams previously spent days manually reviewing network designs and discovered conflicts only at deployment. AWS Transform now includes two new capabilities that solve both. A new modernization engine",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transform-network-modernization"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-20-aws-aws-deadline-cloud-now-supports-browsing-job-attac",
-      "date": "2026-05-20",
-      "name": "AWS Deadline Cloud now supports browsing job attachments in the monitor",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Deadline Cloud now supports browsing job attachment files directly within the Deadline Cloud monitor. AWS Deadline Cloud is a fully managed service that simplifies render management for teams creating computer-gen",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-deadline-cloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-19-openai-introducing-openai-for-singapore",
-      "date": "2026-05-19",
-      "name": "Introducing OpenAI for Singapore",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/introducing-openai-for-singapore"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-19-aws-amazon-mwaa-now-supports-apache-airflow-3-2",
-      "date": "2026-05-19",
-      "name": "Amazon MWAA now supports Apache Airflow 3.2",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Managed Workflows for Apache Airflow (MWAA) now supports Apache Airflow version 3.2, the latest major release of the popular open-source workflow orchestration framework. Amazon MWAA is a managed service that l",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-mwaa-now-supports-apache-airflow-3-2/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-19-aws-amazon-inspector-is-now-available-in-the-aws-asia-",
-      "date": "2026-05-19",
-      "name": "Amazon Inspector is now available in the AWS Asia Pacific (Taipei) Region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS announces the availability of Amazon Inspector in the AWS Asia Pacific (Taipei) Region. Amazon Inspector is an automated vulnerability management service that continually scans AWS workloads including Amazo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-inspector-taipei/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-19-dust-spa-poke-2547752",
-      "date": "2026-05-19",
-      "name": "spa/poke/2547752",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Add files__move tool and block frame copy in the files MCP server (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/2\">#2</a>…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2547752"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-19-dust-spa-poke-4727fec",
-      "date": "2026-05-19",
-      "name": "spa/poke/4727fec",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Drop redundant workspace FK indexes (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/25749\">#25749</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F4727fec"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-19-dust-spa-poke-8d33bce-feat-mistral-add-mistral-medium-3",
-      "date": "2026-05-19",
-      "name": "spa/poke/8d33bce: feat(mistral): add Mistral Medium 3.5 (#25781)",
-      "vendor": "Dust",
-      "type": "pricing",
-      "summary": "<ul>\n<li>feat(mistral): add Mistral Medium 3.5</li>\n</ul>\n<p>New flagship medium model from Mistral (256k context, multimodal,<br />\nagentic/coding focus). Demote Medium 3.1 to isLatest: false (already<br />\nisLegacy: tr",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8d33bce"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-18-openai-openai-and-dell-partner-to-bring-codex-to-hybrid-a",
-      "date": "2026-05-18",
-      "name": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/dell-codex-enterprise-partnership"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-18-aws-aws-management-console-now-displays-aws-local-zone",
-      "date": "2026-05-18",
-      "name": "AWS Management Console now displays AWS Local Zones in the Region Selector",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the addition of AWS Local Zones to the Region selector in the AWS Management Console, providing a unified experience across AWS global infrastructure. AWS Local Zones now appear alongside AWS Regi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-local-zones-region-selector/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-18-aws-amazon-lightsail-cdn-distributions-now-support-ipv",
-      "date": "2026-05-18",
-      "name": "Amazon Lightsail CDN distributions now support IPv6-only instances as origins",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Lightsail content delivery network (CDN) distributions now support IPv6-only instances as origins. This feature enables customers to use IPv6-only instances to deliver content through the Lightsail CDN distribu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-lightsail-cdn-ipv6/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-18-aws-aws-sam-cli-adds-aws-cloudformation-language-exten",
-      "date": "2026-05-18",
-      "name": "AWS SAM CLI adds AWS CloudFormation Language Extensions support to accelerate local serverless development",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/using-sam-cli.html\" target=\"_blank\">AWS SAM CLI</a> now supports <a href=\"https://docs.aws.amazon.com/AWSCloudFormation/latest/Te",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-sam-cli-cloudformation/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-18-aws-amazon-sagemaker-studio-now-supports-gpu-capacity-",
-      "date": "2026-05-18",
-      "name": "Amazon SageMaker Studio now supports GPU capacity reservation through SageMaker Flexible Training Plans",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker Studio IDEs, including JupyterLab and Code Editor, now support GPU capacity reservations through <a href=\"https://docs.aws.amazon.com/sagemaker/latest/dg/reserve-capacity-with-training-plans.html\">Sag",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-training-plan-support-for-studio/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-18-crewai-1-14-5",
-      "date": "2026-05-18",
-      "name": "1.14.5",
-      "vendor": "CrewAI",
-      "type": "deprecation",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Deprecate <code>CrewAgentExecutor</code>, default Crew agents to <code>AgentExecutor</code></li>\n<li>Improve Daytona sandbox tools</li>\n<li>Add <code>restore_from_state_",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.5"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-05-18-crewai-1-14-5a7",
-      "date": "2026-05-18",
-      "name": "1.14.5a7",
-      "vendor": "CrewAI",
-      "type": "deprecation",
-      "summary": "<h2>What's Changed</h2>\n<h3>Documentation</h3>\n<ul>\n<li>Update changelog and version for v1.14.5a6</li>\n</ul>\n<h3>Breaking Changes</h3>\n<ul>\n<li>Deprecate function_calling_llm field</li>\n</ul>\n<h2>Contributors</h2>\n<p><a",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.5a7"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-05-18-aws-introducing-pre-fetching-and-iam-role-assumption-f",
-      "date": "2026-05-18",
-      "name": "Introducing pre-fetching and IAM role assumption for AWS Secrets Manager Agent",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Secrets Manager Agent now supports two new capabilities: pre-fetching secrets at startup and assuming an IAM role to retrieve secrets. With pre-fetching, you can specify a list of secrets or a tag value to retriev",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/secrets-manager-agent-prefetch-and-role-assumption/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-18-aws-amazon-ecs-now-integrates-with-amazon-ebs-volumes-",
-      "date": "2026-05-18",
-      "name": "Amazon ECS now integrates with Amazon EBS volumes in AWS GovCloud Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/ecs/\">Amazon Elastic Container Service</a> (Amazon ECS) now integrates with Amazon Elastic Block Store (Amazon EBS) volumes in AWS GovCloud Regions. This capability makes it easier for ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/ecs-amazon-ebs-govcloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-17-dust-spa-poke-287fc7f-switch-over-user-workspace-credit",
-      "date": "2026-05-17",
-      "name": "spa/poke/287fc7f: Switch over user/workspace credits to use active AWU usage (#25658)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>Switch over user/workspace credits to use active AWU usage</p>\n</li>\n<li>\n<p>Address claude comments</p>\n</li>\n<li>\n<p>Address comments</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F287fc7f"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-17-dust-spa-app-287fc7f-switch-over-user-workspace-credits",
-      "date": "2026-05-17",
-      "name": "spa/app/287fc7f: Switch over user/workspace credits to use active AWU usage (#25658)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>Switch over user/workspace credits to use active AWU usage</p>\n</li>\n<li>\n<p>Address claude comments</p>\n</li>\n<li>\n<p>Address comments</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F287fc7f"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-16-openai-gpt5-5-performance-degradation",
-      "date": "2026-05-16",
-      "name": "GPT5.5 Performance Degradation",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KRP6FM6HSKWB3MS1EJTY6AT4"
         }
       ],
       "impact": 5,
