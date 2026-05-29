@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "2026-05-29-openai-users-may-encounter-issues-with-conversations",
+      "date": "2026-05-29",
+      "name": "Users may encounter issues with conversations",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Conversations (Degraded performance)</li>\n          ",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KSRVTZVW4J7NZ3WXM74DG4KX"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-29-openai-users-may-encounter-issues-logging-in-or-creating-",
+      "date": "2026-05-29",
+      "name": "Users may encounter issues logging in or creating an account",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Login (Degraded performance)</li>\n<li>Login (Degrade",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KSRVH1TAV8Q47M91F6V4V6X0"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-05-28-openai-codex-context-compaction-latency",
       "date": "2026-05-28",
       "name": "Codex Context Compaction Latency",
@@ -16,6 +52,312 @@
       "impact": 5,
       "risk": 3,
       "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-28-openai-how-endava-builds-an-agentic-organization-with-cod",
+      "date": "2026-05-28",
+      "name": "How Endava builds an agentic organization with Codex",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/endava"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-28-openai-openai-s-frontier-governance-framework",
+      "date": "2026-05-28",
+      "name": "OpenAI’s Frontier Governance Framework",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/openai-frontier-governance-framework"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-28-openai-subscription-checkout-failing",
+      "date": "2026-05-28",
+      "name": "Subscription checkout failing",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />Resolved - Some users were unable to complete subscriptions on web and mobile. Affected users may have experienced the Subscribe button becoming unresponsive or encountered the error me",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KSPYYC11CCY3KKXEK4E03CBG"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-28-openai-android-chatgpt-business-users-having-trouble-swit",
+      "date": "2026-05-28",
+      "name": "Android ChatGPT Business users having trouble switching workspaces",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Login (Operational)</li>\n          </ul>",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KSN40TAYQYGAKFA50HNH22YG"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-28-aws-monitor-aws-budgets-directly-in-billing-and-cost-m",
+      "date": "2026-05-28",
+      "name": "Monitor AWS Budgets directly in Billing and Cost Management Dashboards with new Budgets widget",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS Billing and Cost Management (BCM) announces support for Budgets widgets in BCM Dashboards, giving you the flexibility to customize your cost management console with the views that matter most to your organi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/monitor-aws-budgets-using-dashboards"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-28-aws-aws-organizations-emits-cloudtrail-events-for-acco",
+      "date": "2026-05-28",
+      "name": "AWS Organizations emits CloudTrail events for account membership changes",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Organizations&nbsp;now automatically emits CloudTrail events to your management account whenever accounts join or leave your organization. These new events—AccountJoinedOrganization&nbsp;and&nbsp;AccountDepartedOr",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-organizations-cloudtrail/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-28-aws-aws-announces-general-availability-of-the-next-gen",
+      "date": "2026-05-28",
+      "name": "AWS announces general availability of the next generation of AWS Resilience Hub",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the general availability of the next generation of AWS Resilience Hub, a central location in the AWS console that helps platform engineering and site reliability teams assess and strengthen the re",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-announces-next-gen-aws-resilience-hub/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-28-aws-amazon-connect-customer-expands-generative-ai-powe",
+      "date": "2026-05-28",
+      "name": "Amazon Connect Customer expands generative AI-powered post-contact summaries to eight new languages",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect Customer now supports generative AI-powered post-contact summaries in eight additional language families: Portuguese, French, Italian, German, Spanish, Chinese, Japanese, and Korean. Post-contact summar",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-summary-languages/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-28-aws-claude-opus-4-8-is-now-available-on-aws",
+      "date": "2026-05-28",
+      "name": "Claude Opus 4.8 is now available on AWS",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS&nbsp; now offers Claude Opus 4.8 -- Anthropic's most capable generally available model to date -- delivering meaningful advances across agentic coding, professional knowledge work, and long-running autonomous task",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/claude-opus-4.8-aws/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-28-aws-dynamodb-streams-now-supports-aws-privatelink-for-",
+      "date": "2026-05-28",
+      "name": "DynamoDB Streams now supports AWS PrivateLink for FIPS endpoints in AWS GovCloud (US) Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon DynamoDB Streams now supports AWS PrivateLink for FIPS (Federal Information Processing Standard) endpoints in AWS GovCloud (US) Regions. DynamoDB Streams captures time-ordered sequences of item-level modificati",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-dynamodb-streams-privatelink-fips-govcloud/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-28-aws-amazon-workspaces-applications-adds-support-for-wi",
+      "date": "2026-05-28",
+      "name": "Amazon WorkSpaces Applications adds support for Windows Desktop OS",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon WorkSpaces Applications now supports the ability to set up streaming resources powered by Windows Desktop operating systems using Bring Your Own License (BYOL). Customers can now bring their existing Windows De",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-workspaces-applications-windows-desktop-OS/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-28-aws-the-next-generation-of-amazon-opensearch-serverles",
+      "date": "2026-05-28",
+      "name": "The next generation of Amazon OpenSearch Serverless is now generally available",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS announced the general availability of the next generation of Amazon OpenSearch Serverless, a fully managed search and vector engine designed for customers building agents. The next generation of OpenSearch ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-opensearch-serverless-next-generation-generally-available/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-28-aws-aws-iot-core-now-supports-direct-messaging-for-poi",
+      "date": "2026-05-28",
+      "name": "AWS IoT Core now supports direct messaging for point-to-point communication",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/iot-core/\">AWS IoT Core</a> now supports the ability to send point-to-point messages to any connected device, providing better visibility into message delivery and lower messaging cost.",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iot-core-direct-messaging/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-28-aws-aws-partner-central-now-supports-deal-sizing-using",
+      "date": "2026-05-28",
+      "name": "AWS Partner Central now supports deal sizing using total contract value (TCV)",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS announces an enhancement to the opportunity deal sizing capability in AWS Partner Central, by allowing Partners to estimate deals using total contract value (TCV). Partners can now submit the TCV from the d",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-partner-central-opportunity-deal-sizing-tcv/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-28-dust-spa-poke-92f89d1-add-claude-opus-4-8-as-the-main-o",
+      "date": "2026-05-28",
+      "name": "spa/poke/92f89d1: Add Claude Opus 4.8 as the main Opus model (#26411)",
+      "vendor": "Dust",
+      "type": "pricing",
+      "summary": "<ul>\n<li>feat: add Claude Opus 4.8 as the main Opus model</li>\n</ul>\n<p>Adds claude-opus-4-8 (config, pricing, registry, router whitelist, SDK<br />\ntypes, UI config, tests) following the Opus 4.7 pattern. Marks 4.8 as<b",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F92f89d1"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-28-dust-spa-poke-40c643b",
+      "date": "2026-05-28",
+      "name": "spa/poke/40c643b",
+      "vendor": "Dust",
+      "type": "pricing",
+      "summary": "<p>Revert \"Pricing: add limit events to know when we are close to worksp…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F40c643b"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-28-crewai-1-14-6",
+      "date": "2026-05-28",
+      "name": "1.14.6",
+      "vendor": "CrewAI",
+      "type": "launch",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Enhance StdioTransport to prevent environment variable leakage</li>\n<li>Enhance planning configuration and observation handling</li>\n<li>Declare env_vars on DatabricksQu",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.6"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
       "tags": []
     },
     {
@@ -343,6 +685,60 @@
       "tags": []
     },
     {
+      "id": "2026-05-27-aws-announcing-region-expansion-of-p5-48xl-instances-o",
+      "date": "2026-05-27",
+      "name": "Announcing Region Expansion of P5.48xl instances on SageMaker Notebook Instances",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>We are pleased to announce general availability of Amazon EC2 P5.48xl instances in Asia Pacific (Tokyo) on SageMaker notebook instances.</p> \n<p><a href=\"https://aws.amazon.com/ec2/instance-types/p5/\">Amazon EC2 P5.48",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/p5-48xl-region-expansion-sagemaker-notebook-instances/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-27-aws-announcing-region-expansion-of-p4de-instances-on-s",
+      "date": "2026-05-27",
+      "name": "Announcing Region Expansion of P4de instances on SageMaker Notebook Instances",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>We are pleased to announce general availability of Amazon EC2 P4de instances in Asia Pacific (Tokyo) on SageMaker notebook instances.</p> \n<p><a href=\"https://aws.amazon.com/ec2/instance-types/p4/\">Amazon EC2 P4de ins",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/p4de-region-expansion-sagemaker-notebook-instances/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-27-aws-aws-elemental-inference-now-supports-smart-subtitl",
+      "date": "2026-05-27",
+      "name": "AWS Elemental Inference now supports Smart Subtitles for automated live captioning",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Elemental Inference now supports smart subtitles, a new AI-powered feature that automatically generates real-time subtitles for live video streams. Smart subtitles use advanced speech recognition to transcribe spo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/elemental-inference-subtitles"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-05-26-openai-login-issues-for-fedramp-users-who-recently-logged",
       "date": "2026-05-26",
       "name": "Login issues for FedRAMP users who recently logged out",
@@ -505,6 +901,42 @@
       "tags": []
     },
     {
+      "id": "2026-05-26-aws-amazon-connect-customer-launches-granular-access-c",
+      "date": "2026-05-26",
+      "name": "Amazon Connect Customer launches granular access controls for the agent login/logout report",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect Customer&nbsp;now supports tag-based access controls for the agent<i> </i>login/logout report, enabling you to apply granular access controls to meet compliance and regulatory requirements for data acce",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-customer/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-26-aws-aws-neuron-2-30-0-now-available-with-nki-0-4-0-and",
+      "date": "2026-05-26",
+      "name": "AWS Neuron 2.30.0 now available with NKI 0.4.0 and 22 new NKI Library kernels",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the general availability of AWS Neuron 2.30.0, delivering NKI 0.4.0 with new AWS Trainium3 specific hardware capabilities, 22 new NKI Library kernels, and expanded Neuron Agentic Development skill",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-announce-neuron-2-30-0"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-05-25-dust-spa-poke-36de27e",
       "date": "2026-05-25",
       "name": "spa/poke/36de27e",
@@ -641,438 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/assessment-capabilities-transform"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-22-aws-amazon-sagemaker-adds-business-metadata-and-govern",
-      "date": "2026-05-22",
-      "name": "Amazon SageMaker adds business metadata and governance in IAM-based domains",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/sagemaker/unified-studio/\">Amazon SageMaker Unified Studio</a> now supports business context, metadata and data governance capabilities in IAM-based domains. With this launch, customers",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/sagemaker-catalog-iam-domains/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-22-aws-aws-security-agent-adds-verification-scripts-for-p",
-      "date": "2026-05-22",
-      "name": "AWS Security Agent adds verification scripts for pentest findings",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/security-agent/\">AWS Security Agent</a> now generates verification scripts for penetration test findings, enabling security teams to independently reproduce and validate discovered vuln",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-agent/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-22-aws-amazon-keyspaces-for-apache-cassandra-expands-to-a",
-      "date": "2026-05-22",
-      "name": "Amazon Keyspaces (for Apache Cassandra) expands to Asia Pacific (Malaysia) and Asia Pacific (Thailand) Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/keyspaces/\">Amazon Keyspaces (for Apache Cassandra)</a> is now available in the Asia Pacific (Malaysia) and Asia Pacific (Thailand) Regions, allowing customers in Asia Pacific Region to",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-keyspaces-malaysia-thailand/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-22-aws-aws-clean-rooms-now-supports-mutable-payment-confi",
-      "date": "2026-05-22",
-      "name": "AWS Clean Rooms now supports mutable payment configurations for collaborations",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Clean Rooms now supports mutable fine-grained <a href=\"https://docs.aws.amazon.com/clean-rooms/latest/userguide/change-requests.html\" rel=\"noopener noreferrer\" target=\"_blank\">payment configurations</a> for collab",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-clean-rooms-mutable-payments"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-22-dust-spa-poke-75873f5-email-agents-stop-disabled-worksp",
-      "date": "2026-05-22",
-      "name": "spa/poke/75873f5: [Email Agents] Stop disabled workspace relay (#26049)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>Fix email agent disabled workspace relay</p>\n</li>\n<li>\n<p>Fix email trigger test mock</p>\n</li>\n<li>\n<p>Clarify disabled email agents error</p>\n</li>\n<li>\n<p>Remove disabled email agents trigger test</p>\n</",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F75873f5"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-22-dust-spa-poke-ea1b725",
-      "date": "2026-05-22",
-      "name": "spa/poke/ea1b725",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] chore: cleanup agent loop DD metrics, reduce metric cardinali…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fea1b725"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-22-aws-amazon-gamelift-streams-launches-generation-6e-str",
-      "date": "2026-05-22",
-      "name": "Amazon GameLift Streams launches Generation 6e stream classes for high-fidelity game streaming",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, Amazon GameLift Streams launched Generation 6e (G6e) stream classes, providing enhanced GPU performance for streaming high-fidelity, graphically demanding games and applications. The new G6e stream classes are ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-gamelift-streams-g6e-stream-class/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-21-aws-amazon-ec2-c7i-flex-m7i-flex-m7i-instances-now-ava",
-      "date": "2026-05-21",
-      "name": "Amazon EC2 C7i-flex, M7i-flex & M7i instances now available in Asia Pacific (Hyderabad) region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C7i-flex, M7i-flex and M7i instances powered by custom 4th Gen Intel Xeon Scalable processors (code-named Sapphire Rapids) are available in Asia Pacific (Hyder",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-c7i-flex-m7i-flex-m7i-instances-HYD-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-21-aws-sagemaker-unified-studio-automates-glue-connector-",
-      "date": "2026-05-21",
-      "name": "SageMaker Unified Studio automates Glue connector provisioning for cross-subnet job retries",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker Unified Studio now supports automatic creation of connections for Glue job retries across subnets to improve data pipeline resilience. This helps organizations running business-critical data pipelines",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/sagemaker-unified-studio-glue/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-21-aws-amazon-sagemaker-ai-now-supports-openai-compatible",
-      "date": "2026-05-21",
-      "name": "Amazon SageMaker AI now supports OpenAI-compatible APIs for inference endpoints",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker Inference now supports OpenAI-compatible APIs, so you can use the tools and frameworks you already know, like the OpenAI SDK, LangChain, and Strands Agents, to connect directly to your SageMaker endpo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ai-openai-apis/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-21-dust-spa-poke-8169601",
-      "date": "2026-05-21",
-      "name": "spa/poke/8169601",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] enh: improve large IN clauses in agent step content fetches (…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8169601"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-21-dust-spa-poke-4fa9615-inline-text-editing-for-frames-25",
-      "date": "2026-05-21",
-      "name": "spa/poke/4fa9615: Inline text editing for Frames (#25913)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>\n<p>PoC</p>\n</li>\n<li>\n<p>[viz] feat: inline text editing for Frame components</p>\n</li>\n</ul>\n<ul>\n<li>Double-click to enter edit mode on JSX text nodes</li>\n<li>Enter to save, Escape to revert, blur to save</l",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F4fa9615"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-20-aws-amazon-sagemaker-hyperpod-now-supports-data-captur",
-      "date": "2026-05-20",
-      "name": "Amazon SageMaker HyperPod now supports data capture for inference workloads",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker HyperPod now supports data capture for inference workloads, enabling customers to record inference request and response payloads for model monitoring, compliance, debugging, and offline analysis. Orga",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-hyperpod-data-capture"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-20-aws-aws-security-hub-now-uncovers-identity-risks-from-",
-      "date": "2026-05-20",
-      "name": "AWS Security Hub now uncovers identity risks from unused access",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS Security Hub brings identity risk into the same unified console where central security teams already manage threats, exposures, and posture findings. Security Hub now detects unused IAM permissions, roles, ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-hub-unused-access/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-20-aws-security-hub-extended-expands-to-21-curated-partne",
-      "date": "2026-05-20",
-      "name": "Security Hub Extended expands to 21 curated partner solutions across 9 categories",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Security Hub Extended plan now includes 21 curated partner solutions across 9 security categories, adding SentinelOne (endpoint), CyberArk (identity), Sublime (email), Varonis (data security), LayerX (browser), Na",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-hub-extended/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-20-aws-aws-announces-extenddb-an-open-source-dynamodb-com",
-      "date": "2026-05-20",
-      "name": "AWS announces ExtendDB, an open source DynamoDB-compatible adapter",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, Amazon Web Services (AWS) announced version 0.1 of ExtendDB, an open source project that implements the Amazon DynamoDB API with pluggable storage backends. Amazon DynamoDB is a serverless, fully managed NoSQL ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-extenddb-dynamodb/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-20-aws-aws-billing-conductor-improves-account-visibility-",
-      "date": "2026-05-20",
-      "name": "AWS Billing Conductor Improves Account Visibility with Billing Transfer Inventory",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<div class=\"OutlineElement Ltr SCXW31228399 BCX2\" style=\"direction: ltr;\">\n <p class=\"Paragraph SCXW31228399 BCX2\" lang=\"EN-US\" style=\"font-weight: normal; font-style: normal; vertical-align: baseline; background-color: ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-billing-conductor-billing-transfer/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-20-aws-ecs-supports-native-integration-with-amazon-ebs-vo",
-      "date": "2026-05-20",
-      "name": "ECS supports native integration with Amazon EBS volumes in GovCloud Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/ecs/\">Amazon Elastic Container Service</a> (ECS) now supports mounting Amazon Elastic Block Store (EBS) volumes to containers in the AWS GovCloud Regions. This capability makes it easie",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/ecs-amazon-ebs-govcloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-20-aws-announcing-the-general-availability-of-a-new-aws-l",
-      "date": "2026-05-20",
-      "name": "Announcing the general availability of a new AWS Local Zone in Istanbul, Türkiye",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS announces the general availability of a new AWS Local Zone in Istanbul, Türkiye, bringing AWS infrastructure closer to end users, while enabling organizations to meet data residency requirements by storing ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-local-zones-istanbul-turkiye/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-20-aws-aws-transfer-family-web-apps-now-support-federated",
-      "date": "2026-05-20",
-      "name": "AWS Transfer Family web apps now support federated permissions with IAM Identity Center across AWS Regions",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS Transfer Family web apps now support federated permissions with AWS IAM Identity Center across multiple AWS Regions.&nbsp;Previously, you could only create&nbsp;Transfer Family web apps&nbsp;in the Region where yo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transfer-family-federated-permissions-across-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-20-dust-spa-poke-0fd6f0a",
-      "date": "2026-05-20",
-      "name": "spa/poke/0fd6f0a",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Include file ID in MCP files listing for frame and slideshow entries …</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F0fd6f0a"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-20-aws-amazon-bedrock-expands-support-for-request-level-u",
-      "date": "2026-05-20",
-      "name": "Amazon Bedrock expands support for request-level usage attribution",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock customers can now attribute model inference usage to specific teams, applications, environments, and experiments at the individual request level on the InvokeModel and InvokeModelWithResponseStream APIs",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-bedrock-request-level-usage-attribution/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-20-aws-amazon-documentdb-with-mongodb-compatibility-serve",
-      "date": "2026-05-20",
-      "name": "Amazon DocumentDB (with MongoDB compatibility) Serverless is now available on DocumentDB 8.0",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon DocumentDB (with MongoDB compatibility) Serverless, an on-demand, auto-scaling configuration for DocumentDB, is now available on version 8.0. Amazon DocumentDB Serverless automatically scales capacity up or dow",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/5/docdb8-serverless"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-20-aws-amazon-sagemaker-unified-studio-now-supports-data-",
-      "date": "2026-05-20",
-      "name": "Amazon SageMaker Unified Studio now supports data quality rule authoring and evaluation",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker Unified Studio now supports data quality rule authoring and evaluation, powered by AWS Glue Data Quality. Data engineers, analysts, and data scientists can define data quality rules, run ruleset evalu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/smus-data-quality"
         }
       ],
       "impact": 5,
