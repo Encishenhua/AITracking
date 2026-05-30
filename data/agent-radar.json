@@ -37,6 +37,186 @@
       "tags": []
     },
     {
+      "id": "2026-05-29-openai-users-may-experience-issues-accessing-chatgpt",
+      "date": "2026-05-29",
+      "name": "Users May Experience Issues Accessing ChatGPT",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>GPTs (Operational)</li>\n<li>Agent (Operational)</li>\n<li>Connectors/Ap",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KSSY9D28AM92BCDXRTS4CDKZ"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-29-aws-amazon-ses-now-offers-inbox-placement-metrics-and-",
+      "date": "2026-05-29",
+      "name": "Amazon SES now offers inbox placement metrics and blocklist monitoring",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, Amazon Simple Email Service&nbsp;(SES) launched a new set of deliverability features that help customers get more information about their outbound sending deliverability performance and reputation. Customers ca",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ses-global-deliverability/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-29-aws-aws-end-user-messaging-rcs-for-business-now-availa",
+      "date": "2026-05-29",
+      "name": "AWS End User Messaging RCS for Business now available in 20 additional countries",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p> AWS End User Messaging now supports RCS for Business messaging in 20 additional countries, bringing the total to 22. Businesses can now send verified, branded RCS&nbsp;messages to customers in Austria, Brazil, Colomb",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-rcs-countries/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-29-aws-amazon-connect-customer-now-supports-scheduling-ta",
+      "date": "2026-05-29",
+      "name": "Amazon Connect Customer now supports scheduling tasks up to 90 days in advance",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect Customer now supports scheduling tasks up to 90 days in advance, helping organizations plan, route, and track long-running follow-up work. For example, an insurance team managing an auto repair claim ca",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-customer-tasks-90day-schedule"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-29-aws-aws-shield-advanced-introduces-ddos-attack-flow-lo",
+      "date": "2026-05-29",
+      "name": "AWS Shield Advanced introduces DDoS attack flow logs",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Shield Advanced announces distributed denial-of-service (DDoS) attack flow logs, giving you packet-level visibility into traffic hitting Shield Advanced protected resources during a DDoS attack. The log data is pu",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-shield-ddos/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-29-aws-amazon-redshift-serverless-now-offers-4-rpu-minimu",
+      "date": "2026-05-29",
+      "name": "Amazon Redshift Serverless now offers 4-RPU Minimum Capacity in 7 additional AWS Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/redshift/\">Amazon Redshift</a> now allows you to get started with Amazon Redshift Serverless with a lower data warehouse <a href=\"https://docs.aws.amazon.com/redshift/latest/mgmt/server",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-redshift-serverless-4-rpu-seven-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-29-aws-aws-interconnect-multicloud-now-offers-a-free-500-",
+      "date": "2026-05-29",
+      "name": "AWS Interconnect - multicloud now offers a free 500 Mbps tier",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Interconnect - multicloud now offers a free 500 Mbps multicloud Interconnect, making it easier to privately connect your workloads on AWS and other public clouds.</p> \n<p>Customers have been adopting multicloud st",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-interconnect-multicloud-offers-free-500-mbps-tier"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-29-aws-amazon-rds-for-oracle-now-supports-april-2026-rele",
+      "date": "2026-05-29",
+      "name": "Amazon RDS for Oracle now supports April 2026 Release Update and Supplemental Patch Bundle",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/oracle/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for Oracle</a> now supports the <a href=\"https://www.oracle.com/security-alerts/cpuapr2026.html#AppendixDB\" ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-oracle-supports-april-2026-release-update-supplemental-patch-bundle"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-29-aws-oracle-database-aws-is-now-available-in-twenty-aws",
+      "date": "2026-05-29",
+      "name": "Oracle Database@AWS is now available in twenty AWS Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Oracle Database@AWS is now generally available in eight additional AWS Regions: EU-Central-2 (Zurich), EU-South-1 (Milan), EU-South-2 (Spain), EU-West-3 (Paris), AP-Northeast-3 (Osaka), AP-Southeast-1 (Singapore), AP-",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/oracle-database-aws-available-twenty-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-29-aws-amazon-s3-tables-are-now-available-in-two-addition",
+      "date": "2026-05-29",
+      "name": "Amazon S3 Tables are now available in two additional AWS Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon S3 Tables are now available in the Asia Pacific (Taipei) and Asia Pacific (New Zealand) Regions.</p> \n<p>Amazon S3 Tables deliver the first cloud object store with built-in Apache Iceberg support, streamlining ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-s3-tables-aws-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-05-28-openai-codex-context-compaction-latency",
       "date": "2026-05-28",
       "name": "Codex Context Compaction Latency",
@@ -358,6 +538,24 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-05-28-openai-mufg-aims-to-become-ai-native-with-openai",
+      "date": "2026-05-28",
+      "name": "MUFG aims to become AI-native with OpenAI",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/mufg"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
       "tags": []
     },
     {
@@ -878,204 +1076,6 @@
         }
       ],
       "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-26-aws-amazon-ec2-x8i-instances-are-now-available-in-addi",
-      "date": "2026-05-26",
-      "name": "Amazon EC2 X8i instances are now available in additional regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) X8i instances are available in the Asia Pacific (Singapore), Asia Pacific (Sydney) and AWS GovCloud (US-West) regions.&nbsp;These instances are powered by cust",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-SIN-SYD-PDT-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-26-aws-amazon-connect-customer-launches-granular-access-c",
-      "date": "2026-05-26",
-      "name": "Amazon Connect Customer launches granular access controls for the agent login/logout report",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect Customer&nbsp;now supports tag-based access controls for the agent<i> </i>login/logout report, enabling you to apply granular access controls to meet compliance and regulatory requirements for data acce",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-customer/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-26-aws-aws-neuron-2-30-0-now-available-with-nki-0-4-0-and",
-      "date": "2026-05-26",
-      "name": "AWS Neuron 2.30.0 now available with NKI 0.4.0 and 22 new NKI Library kernels",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the general availability of AWS Neuron 2.30.0, delivering NKI 0.4.0 with new AWS Trainium3 specific hardware capabilities, 22 new NKI Library kernels, and expanded Neuron Agentic Development skill",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-announce-neuron-2-30-0"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-25-dust-spa-poke-36de27e",
-      "date": "2026-05-25",
-      "name": "spa/poke/36de27e",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Add: mcp tool for universal harness in pods. (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/26112\">#26112</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F36de27e"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-25-dust-spa-app-36de27e",
-      "date": "2026-05-25",
-      "name": "spa/app/36de27e",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Add: mcp tool for universal harness in pods. (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/26112\">#26112</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F36de27e"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-23-dust-spa-poke-374a729",
-      "date": "2026-05-23",
-      "name": "spa/poke/374a729",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>Fix icons and copy as well as polish mobile navigation. (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/26080\">#26080</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F374a729"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-23-dust-spa-app-374a729",
-      "date": "2026-05-23",
-      "name": "spa/app/374a729",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>Fix icons and copy as well as polish mobile navigation. (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/26080\">#26080</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F374a729"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-22-openai-openai-named-a-leader-in-enterprise-coding-agents-",
-      "date": "2026-05-22",
-      "name": "OpenAI named a Leader in enterprise coding agents by Gartner",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/gartner-2026-agentic-coding-leader"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-22-openai-increase-in-users-hitting-codex-rate-limits",
-      "date": "2026-05-22",
-      "name": "Increase in users hitting Codex rate limits",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>VS Code extension (Degraded performance)</li>\n<li>Co",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KS88SRADTWQW27NYRAXMBAQN"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-22-aws-amazon-sagemaker-expands-domain-management-across-",
-      "date": "2026-05-22",
-      "name": "Amazon SageMaker expands domain management across domain types",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker Unified Studio now provides domain management experience for Identity Center and IAM-based domains outside of AWS console, allows administrators and data management teams to create and manage projects",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/domain-management-iam-idc/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-22-aws-new-agentic-migration-assessment-capabilities-now-",
-      "date": "2026-05-22",
-      "name": "New agentic migration assessment capabilities now available with AWS Transform",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS Transform now offers advanced migration assessment capabilities including what-if scenarios, customizable assumptions, flexible file format support, and multiple new total cost of ownership (TCO) assessment featur",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/assessment-capabilities-transform"
-        }
-      ],
-      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
