@@ -1,6 +1,294 @@
 {
   "items": [
     {
+      "id": "2026-06-01-openai-building-the-infrastructure-for-the-intelligence-a",
+      "date": "2026-06-01",
+      "name": "Building the infrastructure for the Intelligence Age in Michigan",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/stargate-michigan-data-center"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-01-aws-aws-healthomics-now-supports-nextflow-version-pinn",
+      "date": "2026-06-01",
+      "name": "AWS HealthOmics now supports Nextflow version pinning at run time",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS HealthOmics now allows customers to specify the Nextflow engine version at run time via the StartRun API, enabling customers to pin runs to a specific Nextflow version for controlled migration. With this launch, c",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-nextflow-version-pinning-at-runtime/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-01-aws-aws-healthomics-now-supports-nextflow-version-26-0",
+      "date": "2026-06-01",
+      "name": "AWS HealthOmics now supports Nextflow version 26.04",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS HealthOmics now supports Nextflow version 26.04, enabling customers to take advantage of new Nextflow features and enhancements: record types,&nbsp;the strict syntax parser, workflow output summaries, and agent lo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-nextflow-version-26-04/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-01-aws-quick-research-now-supports-customer-managed-keys",
+      "date": "2026-06-01",
+      "name": "Quick Research now supports customer managed keys",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Quick Research now enables customers to encrypt their data using customer-managed keys (CMK) through AWS Key Management Service (KMS).</p> \n<p>This enhancement allows organizations with strict security and comp",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-research-cm-keys"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-01-aws-amazon-quick-now-supports-vpc-connectivity-for-mcp",
+      "date": "2026-06-01",
+      "name": "Amazon Quick now supports VPC connectivity for MCP connections",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Quick now enables enterprise customers to connect their privately hosted Model Context Protocol (MCP) servers to Quick through Amazon Virtual Private Cloud (VPC). Amazon Quick is an AI assistant that turns ques",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-vpc-mcp/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-01-aws-amazon-sagemaker-adds-permissions-boundaries-for-s",
+      "date": "2026-06-01",
+      "name": "Amazon SageMaker adds permissions boundaries for SCP compliance",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker Unified Studio now supports custom IAM permissions boundaries, so organizations that enforce Service Control Policies (SCPs) requiring permissions boundaries on all IAM roles can adopt SageMaker Unifi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-scp/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-01-aws-amazon-ec2-m8i-and-m8i-flex-instances-are-now-avai",
+      "date": "2026-06-01",
+      "name": "Amazon EC2 M8i and M8i-flex instances are now available in Asia Pacific (New Zealand) Region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon EC2 M8i and M8i-flex instances are now available in Asia Pacific (New Zealand)<b> </b>Region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-m8i-m8i-flex-new-zealand/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-01-aws-amazon-ec2-m8azn-instances-are-now-available-in-eu",
+      "date": "2026-06-01",
+      "name": "Amazon EC2 M8azn instances are now available in Europe (Ireland) Region",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, Amazon EC2 M8azn instances are now available in Europe (Ireland) Region. These general purpose high-frequency high-network instances are powered by fifth generation AMD EPYC (formerly code named Turin)",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-m8azn-europe-ireland/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-01-aws-amazon-bedrock-agentcore-identity-now-allows-you-t",
+      "date": "2026-06-01",
+      "name": "Amazon Bedrock AgentCore Identity now allows you to bring your own secrets with AWS Secrets Manager",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock&nbsp;AgentCore Identity now allows customers the ability to reference existing AWS Secrets Manager secret ARNs directly in AgentCore Identity Credential Providers.<br /> <br /> Previously, AgentCore Ide",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/agentcore-identity-secrets-manager/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-01-aws-amazon-sagemaker-hyperpod-now-offers-troubleshooti",
+      "date": "2026-06-01",
+      "name": "Amazon SageMaker HyperPod now offers troubleshooting skills for AI coding assistants",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon SageMaker HyperPod now provides troubleshooting skills that bring expert-level AI/ML cluster diagnostics directly into AI coding assistants such as Claude Code, Cursor, and Kiro. SageMaker HyperPod is a purpose",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-hyperpod-troubleshooting-skills/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-01-aws-aws-direct-connect-now-supports-vif-rate-limiters-",
+      "date": "2026-06-01",
+      "name": "AWS Direct Connect now supports VIF Rate Limiters to help prevent network congestion",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Direct Connect now supports Virtual Interface (VIF) Rate Limiters on dedicated connections, which help you prevent network congestion caused by unexpected traffic spikes on a VIF which can potentially consume all ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-direct-connect-now-supports-vif-rate-limiters/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-01-aws-amazon-bedrock-adds-amazon-cloudwatch-metrics-for-",
+      "date": "2026-06-01",
+      "name": "Amazon Bedrock adds Amazon CloudWatch metrics for OpenAI- and Anthropic-compatible APIs",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock is a fully managed service that provides secure, enterprise-grade access to high-performing foundation models from leading AI companies, enabling you to build and scale generative AI applications. Amazo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-supports-cloudwatch-metrics-bedrock-mantle-endpoint/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-01-aws-gpt-5-5-gpt-5-4-and-codex-from-openai-are-now-gene",
+      "date": "2026-06-01",
+      "name": "GPT-5.5, GPT-5.4, and Codex from OpenAI are now generally available on Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>You can now use GPT-5.5 and GPT-5.4 in production workloads on Amazon Bedrock and build with Codex for AI-powered software development, with the same security, governance, and operational controls you already use acro",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-openai-models-codex-generally-available/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-01-dust-spa-poke-9901d79-allow-admins-to-customize-workspa",
+      "date": "2026-06-01",
+      "name": "spa/poke/9901d79: Allow admins to customize workspace balance threshold (#26540)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>Allow admins to customize workspace balance threshold</p>\n</li>\n<li>\n<p>Use metronome + redis cache instead of db</p>\n</li>\n<li>\n<p>simplify threshold handling</p>\n</li>\n<li>\n<p>fix comments</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9901d79"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-01-dust-spa-poke-6366af8-front-feat-openai-targeted-frames",
+      "date": "2026-06-01",
+      "name": "spa/poke/6366af8: [front] feat: OpenAI-targeted Frames skill variant (#26556)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>[front] feat: add OpenAI-targeted Frames skill variant</li>\n</ul>\n<p>Adds a per-agent Frames authoring-prose override gated by a new optional<br />\n<code>framesVariant</code> hint on global agent definitions. Th",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6366af8"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-31-aws-amazon-inspector-launches-improved-agent-based-sca",
+      "date": "2026-05-31",
+      "name": "Amazon Inspector launches improved agent-based scanning for EC2",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Inspector now offers improved agent-based EC2 scanning with the new Inspector VM Scanner, delivering expanded detection coverage and reduced CPU utilization on your EC2 instances. Security teams can now detect ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-inspector-ec2-agent-scanning-improvements"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-05-29-openai-users-may-encounter-issues-with-conversations",
       "date": "2026-05-29",
       "name": "Users may encounter issues with conversations",
@@ -788,294 +1076,6 @@
         }
       ],
       "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-27-dust-spa-poke-7427535-agent-loop-heartbeat-while-proces",
-      "date": "2026-05-27",
-      "name": "spa/poke/7427535: [Agent Loop] Heartbeat while processing tool results (#26237)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>Heartbeat while processing MCP tool results</p>\n</li>\n<li>\n<p>Address tool result heartbeat review comments</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F7427535"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-27-dust-spa-poke-775ff86-fix-prevent-move-conversation-if-",
-      "date": "2026-05-27",
-      "name": "spa/poke/775ff86: Fix: prevent move conversation if agent loop is running.",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Co-authored-by: Cursor <a href=\"mailto:cursoragent@cursor.com\">cursoragent@cursor.com</a></p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F775ff86"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-27-dust-spa-poke-620d8c4",
-      "date": "2026-05-27",
-      "name": "spa/poke/620d8c4",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] AgentMessage: log warning when trying to copy a null agentMes…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F620d8c4"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-27-dust-spa-poke-16d6b56",
-      "date": "2026-05-27",
-      "name": "spa/poke/16d6b56",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Add Costory as a remote MCP server (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/26326\">#26326</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F16d6b56"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-27-crewai-1-14-6a2",
-      "date": "2026-05-27",
-      "name": "1.14.6a2",
-      "vendor": "CrewAI",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Enhance <code>StdioTransport</code> to prevent environment variable leakage</li>\n<li>Enhance planning configuration and observation handling</li>\n<li>Declare <code>env_v",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.6a2"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-05-27-aws-announcing-region-expansion-of-p5-48xl-instances-o",
-      "date": "2026-05-27",
-      "name": "Announcing Region Expansion of P5.48xl instances on SageMaker Notebook Instances",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>We are pleased to announce general availability of Amazon EC2 P5.48xl instances in Asia Pacific (Tokyo) on SageMaker notebook instances.</p> \n<p><a href=\"https://aws.amazon.com/ec2/instance-types/p5/\">Amazon EC2 P5.48",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/p5-48xl-region-expansion-sagemaker-notebook-instances/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-27-aws-announcing-region-expansion-of-p4de-instances-on-s",
-      "date": "2026-05-27",
-      "name": "Announcing Region Expansion of P4de instances on SageMaker Notebook Instances",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>We are pleased to announce general availability of Amazon EC2 P4de instances in Asia Pacific (Tokyo) on SageMaker notebook instances.</p> \n<p><a href=\"https://aws.amazon.com/ec2/instance-types/p4/\">Amazon EC2 P4de ins",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/04/p4de-region-expansion-sagemaker-notebook-instances/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-27-aws-aws-elemental-inference-now-supports-smart-subtitl",
-      "date": "2026-05-27",
-      "name": "AWS Elemental Inference now supports Smart Subtitles for automated live captioning",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Elemental Inference now supports smart subtitles, a new AI-powered feature that automatically generates real-time subtitles for live video streams. Smart subtitles use advanced speech recognition to transcribe spo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/elemental-inference-subtitles"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-26-openai-login-issues-for-fedramp-users-who-recently-logged",
-      "date": "2026-05-26",
-      "name": "Login issues for FedRAMP users who recently logged out",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Identified</b><br /><br />We have identified that users are experiencing login issues for the impacted services.\n\nWe are working on implementing a mitigation.<br /><br /><b>Affected components</b>\n          <u",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KSJKR3EXTMKY0C287HS1BR8P"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-26-aws-amazon-rds-now-supports-ena-express-for-multi-az-r",
-      "date": "2026-05-26",
-      "name": "Amazon RDS now supports ENA Express for Multi-AZ replication",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon RDS </a>Multi-AZ instances now use ENA Express for replication traffic between Availability Zones. ENA Express uses AWS's Scalable",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-ena-express-multiAZ/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-26-aws-amazon-ec2-r8i-and-r8i-flex-instances-are-now-avai",
-      "date": "2026-05-26",
-      "name": "Amazon EC2 R8i and R8i-flex instances are now available in AWS GovCloud (US-East) Region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8i and R8i-flex instances are available in the AWS GovCloud (US-East) Region. These instances are powered by custom Intel Xeon 6 processors, available only on",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-r8i-r8i-flex-govcloud-east/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-26-aws-amazon-ec2-m8i-and-m8i-flex-instances-are-now-avai",
-      "date": "2026-05-26",
-      "name": "Amazon EC2 M8i and M8i-flex instances are now available in AWS GovCloud (US-East) Region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon EC2 M8i and M8i-flex instances are now available in AWS GovCloud (US-East)<b> </b>Region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the hig",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-m8i-m8i-flex-govcloud-east/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-26-aws-amazon-vpc-ipam-now-supports-tags-on-ipam-pool-all",
-      "date": "2026-05-26",
-      "name": "Amazon VPC IPAM now supports tags on IPAM pool allocations",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon VPC IP Address Manager (IPAM) now supports tags on IPAM pool allocations, enabling customers to organize, govern, and control access to individual IP address allocations using the same tagging workflows they us",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-vpc-ipam-tags/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-26-dust-spa-poke-6da8806",
-      "date": "2026-05-26",
-      "name": "spa/poke/6da8806",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Add Contentsquare as a remote MCP server (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/25973\">#25973</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6da8806"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-26-dust-spa-poke-4f8b3c4",
-      "date": "2026-05-26",
-      "name": "spa/poke/4f8b3c4",
-      "vendor": "Dust",
-      "type": "deprecation",
-      "summary": "<p>feat(models): deprecate gemini-3.1-flash-lite-preview → gemini-3.1-fl…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F4f8b3c4"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-26-dust-spa-poke-3b9b155",
-      "date": "2026-05-26",
-      "name": "spa/poke/3b9b155",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] fix: simplify YAML agent patch imports (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/25912\">#25912</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F3b9b155"
-        }
-      ],
-      "impact": 3,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
