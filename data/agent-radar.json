@@ -1,6 +1,150 @@
 {
   "items": [
     {
+      "id": "2026-06-03-openai-elevated-errors-for-chatgpt-pro",
+      "date": "2026-06-03",
+      "name": "Elevated errors for ChatGPT Pro",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>GPTs (Operational)</li>\n<li>Agent (Operational)</li>\n<li>Deep Research",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KT5AMWGKRTMQW2BAHD70PC4X"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-02-aws-amazon-eks-and-amazon-eks-distro-now-supports-kube",
+      "date": "2026-06-02",
+      "name": "Amazon EKS and Amazon EKS Distro now supports Kubernetes version 1.36",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Kubernetes version 1.36 introduced several new features and bug fixes, and AWS is excited to announce that you can now use <a href=\"https://aws.amazon.com/eks/\" target=\"_blank\">Amazon Elastic Kubernetes Service</a> (E",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-eks-distro-kubernetes-version-1-36"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-02-aws-aws-config-now-supports-internal-service-linked-ru",
+      "date": "2026-06-02",
+      "name": "AWS Config now supports internal service linked rules",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS Config now supports internal service linked rules, enabling AWS services to evaluate AWS resource configurations using AWS Config managed rules. Internal service linked rules extend the existing service linked rec",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-config-supports-internal-service-linked-rules"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-02-aws-aws-deadline-cloud-now-supports-persistent-storage",
+      "date": "2026-06-02",
+      "name": "AWS Deadline Cloud now supports persistent storage for Service Managed Fleets",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Deadline Cloud now supports persistent storage for Service-Managed Fleets (SMF), allowing you to maintain data across worker lifecycle events.&nbsp;AWS Deadline Cloud is a fully managed service that makes it easy ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/deadline-cloud/persistent-storage"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-02-aws-amazon-sagemaker-studio-now-sets-up-in-seconds-wit",
+      "date": "2026-06-02",
+      "name": "Amazon SageMaker Studio now sets up in seconds with model customization ready from the start",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon SageMaker Studio quick setup now completes in under twenty seconds, reduced from over two minutes. Whether you are building ML pipelines, exploring data, developing with notebooks, or fine-tuning foundation mod",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/quick-setup-model-customization-sagemaker-studio/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-02-aws-amazon-elasticache-for-valkey-now-supports-durabil",
+      "date": "2026-06-02",
+      "name": "Amazon ElastiCache for Valkey now supports durability",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS announces durability support for Amazon ElastiCache. Durability enables you to use ElastiCache for workloads that require microsecond read latency but cannot tolerate data loss. With durability support, Ela",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/durability-amazon-elasticache"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-02-aws-amazon-rds-for-sql-server-supports-bring-your-own-",
+      "date": "2026-06-02",
+      "name": "Amazon RDS for SQL Server supports Bring Your Own Media",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for SQL Server</a> launches Bring Your Own Media (BYOM) for Microsoft SQL Serve",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/rds-sqlserver-supports-bring-your-own-media/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-02-dust-spa-poke-2173b85",
+      "date": "2026-06-02",
+      "name": "spa/poke/2173b85",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Require double ESC to stop the agent loop (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/26641\">#26641</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2173b85"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-06-01-openai-building-the-infrastructure-for-the-intelligence-a",
       "date": "2026-06-01",
       "name": "Building the infrastructure for the Intelligence Age in Michigan",
@@ -271,6 +415,24 @@
       "tags": []
     },
     {
+      "id": "2026-06-01-aws-aws-pcs-now-provides-a-production-ready-deep-learn",
+      "date": "2026-06-01",
+      "name": "AWS PCS now provides a production-ready Deep Learning AMI",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS Parallel Computing Service (AWS PCS) launches PCS-ready DLAMI, an AWS-maintained Amazon Machine Image built on the Deep Learning Base GPU AMI (Ubuntu 24.04). It provides a production-quality foundation for ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-pcs-deep-learning-ami/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-05-31-aws-amazon-inspector-launches-improved-agent-based-sca",
       "date": "2026-05-31",
       "name": "Amazon Inspector launches improved agent-based scanning for EC2",
@@ -497,6 +659,24 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-s3-tables-aws-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-05-29-aws-aws-healthlake-now-supports-cms-interoperability-a",
+      "date": "2026-05-29",
+      "name": "AWS HealthLake now supports CMS Interoperability and Prior Authorization Final Rule (CMS-0057-F) requirements",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS HealthLake now provides native support for healthcare payers to comply with the CMS Interoperability and Prior Authorization Final Rule (CMS-0057-F). This rule requires Medicare Advantage organizations, Medicaid m",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-healthlake-cms-cms-0057-f/"
         }
       ],
       "impact": 5,
@@ -893,186 +1073,6 @@
         {
           "title": "OpenAI source",
           "url": "https://status.openai.com//incidents/01KSN40TAYQYGAKFA50HNH22YG"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-27-aws-announcing-region-expansion-of-p6-b200-instances-o",
-      "date": "2026-05-27",
-      "name": "Announcing Region Expansion of P6-B200 instances on SageMaker Notebook Instances",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>We are pleased to announce general availability of Amazon EC2 P6-B200 instances in AWS US East (N. Virginia) on SageMaker notebook instances.</p> \n<p><u><a href=\"https://aws.amazon.com/ec2/instance-types/p6/\">Amazon E",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/p6-b200-region-expansion-sagemaker-notebook-instances/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-27-aws-amazon-bedrock-expands-support-for-service-quotas",
-      "date": "2026-05-27",
-      "name": "Amazon Bedrock expands support for Service Quotas",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock is a fully managed service that provides secure, enterprise-grade access to high-performing foundation models from leading AI companies, enabling you to build and scale generative AI applications. Amazo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/5/amazon-bedrock-service-quotas/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-27-aws-sagemaker-notebook-instances-now-support-p5-4xl-in",
-      "date": "2026-05-27",
-      "name": "SageMaker Notebook Instances now support P5.4xl instance types",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>We are pleased to announce general availability of Amazon EC2 P5.4xl instances on SageMaker notebook instances.</p> \n<p><a href=\"https://aws.amazon.com/ec2/instance-types/p5/\">Amazon EC2 P5.4xl instances</a> are power",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/p5-4xl-new-instance-launch-sagemaker-notebook-instances/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-27-aws-sagemaker-notebook-instances-now-support-p5en-48xl",
-      "date": "2026-05-27",
-      "name": "SageMaker Notebook Instances now support P5en.48xl instance types",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>We are pleased to announce general availability of Amazon EC2 P5en.48xl instances on SageMaker notebook instances.</p> \n<p><a href=\"https://aws.amazon.com/ec2/instance-types/p5/\">Amazon EC2 P5en instances</a> feature ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/p5en-new-instance-launch-sagemaker-notebook-instances/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-27-aws-amazon-emr-now-supports-apache-spark-4-0-2-in-gene",
-      "date": "2026-05-27",
-      "name": "Amazon EMR now supports Apache Spark 4.0.2 in general availability",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon EMR now supports Apache Spark 4.0.2 across all three deployment models. With Spark 4.0.2, you can build and maintain data pipelines more easily with ANSI SQL and VARIANT data types, enforce fine-grained access ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-emr-apache-spark/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-27-aws-aws-glue-large-and-memory-optimized-workers-now-av",
-      "date": "2026-05-27",
-      "name": "AWS Glue large and memory optimized workers now available in Europe (Spain) Region",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Glue now offers large and memory-optimized workers in the AWS Europe (Spain) Region, giving customers in this region more power to handle complex data processing workloads. The new additions include two general co",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-glue-larger-memory-intensive-workers-spain"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-27-aws-amazon-connect-customer-now-uses-generative-ai-to-",
-      "date": "2026-05-27",
-      "name": "Amazon Connect Customer now uses generative AI to automatically evaluate self-service interactions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Connect Customer now enables managers to use generative AI to automatically evaluate self-service interactions, and get aggregated insights to help improve customer experience. Managers can define custom evalua",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-customer-gen-AI-evaluations-self-service"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-27-aws-amazon-sagemaker-hyperpod-slurm-clusters-now-suppo",
-      "date": "2026-05-27",
-      "name": "Amazon SageMaker HyperPod Slurm clusters now support specifying minimum capacity requirements with continuous provisioning",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker HyperPod now supports minimum capacity requirements (MinCount) for clusters using Slurm orchestration with continuous provisioning. With <a href=\"https://aws.amazon.com/about-aws/whats-new/2026/03/ama",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-hyperpod-mincount/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-27-aws-amazon-aurora-mysql-now-supports-integration-with-",
-      "date": "2026-05-27",
-      "name": "Amazon Aurora MySQL now supports integration with Kiro Powers",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Today, AWS announces that Amazon Aurora MySQL-Compatible Edition now supports integration with <a href=\"https://kiro.dev/powers/\">Kiro Powers</a>, enabling developers to build Aurora MySQL-backed applications faster w",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-aurora-mysql-kiro-powers/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-27-aws-aws-backup-adds-otp-verification-for-multi-party-a",
-      "date": "2026-05-27",
-      "name": "AWS Backup adds OTP verification for Multi-party approval on logically air-gapped vaults",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Backup now requires one-time password (OTP) verification when approvers vote on Multi-party approval actions for logically air-gapped vaults.</p> \n<p>When an approver votes on an Multi-party approval request, they",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-backup-otp-multi-party-approval-lag/"
         }
       ],
       "impact": 5,
