@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "2026-06-04-openai-increased-latency-for-codex-compaction-for-a-subse",
+      "date": "2026-06-04",
+      "name": "Increased latency for Codex compaction for a subset of users",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Identified</b><br /><br />We have identified that users are experiencing elevated latency for the impacted services.\n\nWe are working on implementing a mitigation.<br /><br /><b>Affected components</b>\n        ",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KT890WC7YQYMX39GY5VG9QAB"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-06-03-openai-elevated-errors-for-chatgpt-pro",
       "date": "2026-06-03",
       "name": "Elevated errors for ChatGPT Pro",
@@ -16,6 +34,294 @@
       "impact": 5,
       "risk": 3,
       "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-03-openai-a-blueprint-for-democratic-governance-of-frontier-",
+      "date": "2026-06-03",
+      "name": "A blueprint for democratic governance of frontier AI",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/frontier-safety-blueprint"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-03-openai-elevated-error-rates-on-codex-chatgpt-and-response",
+      "date": "2026-06-03",
+      "name": "Elevated error rates on Codex, ChatGPT and Responses API",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Login (Operational)</li>\n<li>Conversations (Operational)</li>\n<li>Resp",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KT5XJ5ATD6RMYP908WS69FVD"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-03-aws-aws-iot-device-management-adds-mqtt-session-data-t",
+      "date": "2026-06-03",
+      "name": "AWS IoT Device Management adds MQTT session data to connectivity status API",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/iot-device-management/\">AWS IoT Device Management</a> adds MQTT session data to connectivity status API, enabling you to troubleshoot connectivity issues and audit connection patterns a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iot-device-management-mqtt/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-03-aws-amazon-sagemaker-data-agent-now-supports-conversat",
+      "date": "2026-06-03",
+      "name": "Amazon SageMaker Data Agent now supports conversation history",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon SageMaker Data Agent, available in SageMaker Unified Studio now supports conversation history, enabling data practitioners to maintain continuity across analytical sessions. Data analysts and data scientists ca",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-data-agent/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-03-aws-amazon-sagemaker-unified-studio-now-supports-noteb",
+      "date": "2026-06-03",
+      "name": "Amazon SageMaker Unified Studio now supports notebook scheduling",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker Unified Studio now enables you to schedule, parameterize, and orchestrate notebook runs directly from the notebook interface without managing external orchestration infrastructure. This makes it easie",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-unified-studio/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-03-aws-aws-step-functions-adds-agentcore-powered-agentic-",
+      "date": "2026-06-03",
+      "name": "AWS Step Functions adds AgentCore-powered agentic reasoning step",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Step Functions now enables you to add AI agent reasoning steps to your workflow through an optimized integration with the managed harness (currently in preview) in Amazon Bedrock AgentCore. <a href=\"https://aws.am",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-step-functions-agentcore/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-03-aws-openai-gpt-5-4-generally-available-on-amazon-bedro",
+      "date": "2026-06-03",
+      "name": "OpenAI GPT-5.4 generally available on Amazon Bedrock in AWS GovCloud (US-West)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock now supports GPT‑5.4 from OpenAI in AWS GovCloud (US-West) — giving government and regulated industry customers access to OpenAI's most capable frontier model for professional work, backed by the enterp",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/GPT54-available-in-aws-govcloud-us-west/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-03-aws-aws-compute-optimizer-now-supports-32-day-lookback",
+      "date": "2026-06-03",
+      "name": "AWS Compute Optimizer now supports 32-day lookback for EBS volume and ECS service rightsizing recommendations",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Compute Optimizer now lets you extend the lookback period of your Amazon EBS volume and Amazon ECS rightsizing recommendations from the default 14 days to 32 days, at no additional cost. A longer lookback period a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-compute-optimizer-ebs-ecs-32-day-lookback/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-03-aws-amazon-keyspaces-for-apache-cassandra-now-provides",
+      "date": "2026-06-03",
+      "name": "Amazon Keyspaces (for Apache Cassandra) now provides CDC iterator position",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Keyspaces (for Apache Cassandra) now returns an iterator position in the GetRecords response for change data capture (CDC) streams, indicating whether a consumer has reached the tip of the stream or whether add",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/keyspaces-cdc-iterator-position/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-03-aws-amazon-sagemaker-unified-studio-now-supports-a-loc",
+      "date": "2026-06-03",
+      "name": "Amazon SageMaker Unified Studio now supports a localized experience in twelve languages",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker Unified Studio enhanced its global accessibility by introducing support for twelve languages across the user interface. Supported languages include English (American), Chinese (Simplified and Traditio",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/sagemaker-localization"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-03-aws-amazon-sagemaker-ai-launches-multi-turn-reinforcem",
+      "date": "2026-06-03",
+      "name": "Amazon SageMaker AI launches multi-turn reinforcement learning for AI agent model customization",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker AI now offers multi-turn reinforcement learning (RL), a new serverless model customization technique for fine-tuning models on multi-step, agentic tasks.&nbsp;SageMaker AI model customization lets you",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/multi-turn-reinforcement-learning-on-sagemaker-ai/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-03-aws-aws-config-now-supports-9-new-resource-types",
+      "date": "2026-06-03",
+      "name": "AWS Config now supports 9 new resource types",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Config now supports 9 additional AWS resource types across key services including Amazon Bedrock, Amazon Bedrock AgentCore, and Amazon SageMaker. This expansion provides greater coverage over your AWS environment,",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-config-new-resource-types"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-03-aws-amazon-ecs-managed-instances-now-supports-aws-trai",
+      "date": "2026-06-03",
+      "name": "Amazon ECS Managed Instances now supports AWS Trainium and AWS Inferentia",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Elastic Container Service (<a href=\"https://aws.amazon.com/pm/ecs\">Amazon ECS</a>) Managed Instances now supports <a href=\"https://aws.amazon.com/ai/machine-learning/trainium/\">AWS Trainium</a> and <a href=\"htt",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-managed-instances-neuron"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-03-dust-spa-poke-38354ca",
+      "date": "2026-06-03",
+      "name": "spa/poke/38354ca",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[sdks/js] Fix v1 PATCH agent_configurations silently dropping config …</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F38354ca"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-03-dust-spa-poke-8cd0cbb",
+      "date": "2026-06-03",
+      "name": "spa/poke/8cd0cbb",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Correctly classify sidekick message as origin agent_sidekick (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/26715\">#26715</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8cd0cbb"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-03-crewai-1-14-7a1",
+      "date": "2026-06-03",
+      "name": "1.14.7a1",
+      "vendor": "CrewAI",
+      "type": "upgrade",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add crew trained agents file support</li>\n<li>Add native Snowflake Cortex LLM provider</li>\n<li>Add Databricks integration guide</li>\n<li>Add Snowflake integration guide",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.7a1"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
       "tags": []
     },
     {
@@ -433,6 +739,60 @@
       "tags": []
     },
     {
+      "id": "2026-06-01-aws-amazon-connect-customer-now-optimizes-placement-of",
+      "date": "2026-06-01",
+      "name": "Amazon Connect Customer now optimizes placement of ad-hoc activities in agent schedules",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect Customer now optimizes placement of ad-hoc activities in agent schedules, making it easier for you to schedule non-productive events while automatically minimizing impact to service level goals. For exa",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect-customer-activity-optimization/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-01-aws-amazon-connect-customer-now-supports-up-to-5-000-a",
+      "date": "2026-06-01",
+      "name": "Amazon Connect Customer now supports up to 5,000 agents per schedule",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect Customer now supports up to 5,000 agents per schedule, making it easier for you to schedule larger business units or multiple business units that share agents (multi-skilled agents) within a single sche",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect-customer-5000-agents/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-01-aws-amazon-connect-customer-now-provides-schedule-upda",
+      "date": "2026-06-01",
+      "name": "Amazon Connect Customer now provides schedule update notifications",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Connect Customer now provides schedule update notifications, making it easier for you to automatically notify agents when their schedules change. You can define rules to send email or text notifications (via Ev",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect-customer-scheduling-notifications/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-05-31-aws-amazon-inspector-launches-improved-agent-based-sca",
       "date": "2026-05-31",
       "name": "Amazon Inspector launches improved agent-based scanning for EC2",
@@ -685,6 +1045,24 @@
       "tags": []
     },
     {
+      "id": "2026-05-29-aws-amazon-cloudwatch-now-supports-querying-metrics-da",
+      "date": "2026-05-29",
+      "name": "Amazon CloudWatch now supports querying metrics data up to two weeks old",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon CloudWatch now allows you to query metrics data up to two weeks in the past using the Metrics Insights query source. CloudWatch Metrics Insights offers fast, flexible, SQL-based queries. This new capability all",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-mi-extended-retention-region-expansion"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-05-28-openai-codex-context-compaction-latency",
       "date": "2026-05-28",
       "name": "Codex Context Compaction Latency",
@@ -695,384 +1073,6 @@
         {
           "title": "OpenAI source",
           "url": "https://status.openai.com//incidents/01KSN9ATSF1WCJ5ZTQSR1H9CC7"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-28-openai-how-endava-builds-an-agentic-organization-with-cod",
-      "date": "2026-05-28",
-      "name": "How Endava builds an agentic organization with Codex",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/endava"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-28-openai-openai-s-frontier-governance-framework",
-      "date": "2026-05-28",
-      "name": "OpenAI’s Frontier Governance Framework",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/openai-frontier-governance-framework"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-28-openai-subscription-checkout-failing",
-      "date": "2026-05-28",
-      "name": "Subscription checkout failing",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />Resolved - Some users were unable to complete subscriptions on web and mobile. Affected users may have experienced the Subscribe button becoming unresponsive or encountered the error me",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KSPYYC11CCY3KKXEK4E03CBG"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-28-openai-android-chatgpt-business-users-having-trouble-swit",
-      "date": "2026-05-28",
-      "name": "Android ChatGPT Business users having trouble switching workspaces",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Login (Operational)</li>\n          </ul>",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KSN40TAYQYGAKFA50HNH22YG"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-28-aws-monitor-aws-budgets-directly-in-billing-and-cost-m",
-      "date": "2026-05-28",
-      "name": "Monitor AWS Budgets directly in Billing and Cost Management Dashboards with new Budgets widget",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS Billing and Cost Management (BCM) announces support for Budgets widgets in BCM Dashboards, giving you the flexibility to customize your cost management console with the views that matter most to your organi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/monitor-aws-budgets-using-dashboards"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-28-aws-aws-organizations-emits-cloudtrail-events-for-acco",
-      "date": "2026-05-28",
-      "name": "AWS Organizations emits CloudTrail events for account membership changes",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Organizations&nbsp;now automatically emits CloudTrail events to your management account whenever accounts join or leave your organization. These new events—AccountJoinedOrganization&nbsp;and&nbsp;AccountDepartedOr",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-organizations-cloudtrail/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-28-aws-aws-announces-general-availability-of-the-next-gen",
-      "date": "2026-05-28",
-      "name": "AWS announces general availability of the next generation of AWS Resilience Hub",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the general availability of the next generation of AWS Resilience Hub, a central location in the AWS console that helps platform engineering and site reliability teams assess and strengthen the re",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-announces-next-gen-aws-resilience-hub/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-28-aws-amazon-connect-customer-expands-generative-ai-powe",
-      "date": "2026-05-28",
-      "name": "Amazon Connect Customer expands generative AI-powered post-contact summaries to eight new languages",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect Customer now supports generative AI-powered post-contact summaries in eight additional language families: Portuguese, French, Italian, German, Spanish, Chinese, Japanese, and Korean. Post-contact summar",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-summary-languages/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-28-aws-claude-opus-4-8-is-now-available-on-aws",
-      "date": "2026-05-28",
-      "name": "Claude Opus 4.8 is now available on AWS",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS&nbsp; now offers Claude Opus 4.8 -- Anthropic's most capable generally available model to date -- delivering meaningful advances across agentic coding, professional knowledge work, and long-running autonomous task",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/claude-opus-4.8-aws/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-28-aws-dynamodb-streams-now-supports-aws-privatelink-for-",
-      "date": "2026-05-28",
-      "name": "DynamoDB Streams now supports AWS PrivateLink for FIPS endpoints in AWS GovCloud (US) Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon DynamoDB Streams now supports AWS PrivateLink for FIPS (Federal Information Processing Standard) endpoints in AWS GovCloud (US) Regions. DynamoDB Streams captures time-ordered sequences of item-level modificati",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-dynamodb-streams-privatelink-fips-govcloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-28-aws-amazon-workspaces-applications-adds-support-for-wi",
-      "date": "2026-05-28",
-      "name": "Amazon WorkSpaces Applications adds support for Windows Desktop OS",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon WorkSpaces Applications now supports the ability to set up streaming resources powered by Windows Desktop operating systems using Bring Your Own License (BYOL). Customers can now bring their existing Windows De",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-workspaces-applications-windows-desktop-OS/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-28-aws-the-next-generation-of-amazon-opensearch-serverles",
-      "date": "2026-05-28",
-      "name": "The next generation of Amazon OpenSearch Serverless is now generally available",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS announced the general availability of the next generation of Amazon OpenSearch Serverless, a fully managed search and vector engine designed for customers building agents. The next generation of OpenSearch ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-opensearch-serverless-next-generation-generally-available/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-28-aws-aws-iot-core-now-supports-direct-messaging-for-poi",
-      "date": "2026-05-28",
-      "name": "AWS IoT Core now supports direct messaging for point-to-point communication",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/iot-core/\">AWS IoT Core</a> now supports the ability to send point-to-point messages to any connected device, providing better visibility into message delivery and lower messaging cost.",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iot-core-direct-messaging/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-28-aws-aws-partner-central-now-supports-deal-sizing-using",
-      "date": "2026-05-28",
-      "name": "AWS Partner Central now supports deal sizing using total contract value (TCV)",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS announces an enhancement to the opportunity deal sizing capability in AWS Partner Central, by allowing Partners to estimate deals using total contract value (TCV). Partners can now submit the TCV from the d",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-partner-central-opportunity-deal-sizing-tcv/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-28-dust-spa-poke-92f89d1-add-claude-opus-4-8-as-the-main-o",
-      "date": "2026-05-28",
-      "name": "spa/poke/92f89d1: Add Claude Opus 4.8 as the main Opus model (#26411)",
-      "vendor": "Dust",
-      "type": "pricing",
-      "summary": "<ul>\n<li>feat: add Claude Opus 4.8 as the main Opus model</li>\n</ul>\n<p>Adds claude-opus-4-8 (config, pricing, registry, router whitelist, SDK<br />\ntypes, UI config, tests) following the Opus 4.7 pattern. Marks 4.8 as<b",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F92f89d1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-28-dust-spa-poke-40c643b",
-      "date": "2026-05-28",
-      "name": "spa/poke/40c643b",
-      "vendor": "Dust",
-      "type": "pricing",
-      "summary": "<p>Revert \"Pricing: add limit events to know when we are close to worksp…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F40c643b"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-28-crewai-1-14-6",
-      "date": "2026-05-28",
-      "name": "1.14.6",
-      "vendor": "CrewAI",
-      "type": "launch",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Enhance StdioTransport to prevent environment variable leakage</li>\n<li>Enhance planning configuration and observation handling</li>\n<li>Declare env_vars on DatabricksQu",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.6"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-05-28-openai-mufg-aims-to-become-ai-native-with-openai",
-      "date": "2026-05-28",
-      "name": "MUFG aims to become AI-native with OpenAI",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/mufg"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-27-openai-building-self-improving-tax-agents-with-codex",
-      "date": "2026-05-27",
-      "name": "Building self-improving tax agents with Codex",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-27-openai-warp-s-big-bet-on-building-open-source-with-gpt-5-",
-      "date": "2026-05-27",
-      "name": "Warp’s big bet on building open source with GPT-5.5",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/warp"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-27-openai-android-chatgpt-business-users-having-trouble-swit",
-      "date": "2026-05-27",
-      "name": "Android ChatGPT Business users having trouble switching workspaces",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Investigating</b><br /><br />Android ChatGPT users may have trouble switching workspaces. We are investigating and will provide updates as more information becomes available.<br /><br /><b>Affected components<",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KSN40TAYQYGAKFA50HNH22YG"
         }
       ],
       "impact": 5,
