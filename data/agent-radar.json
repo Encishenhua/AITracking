@@ -19,6 +19,222 @@
       "tags": []
     },
     {
+      "id": "2026-06-04-openai-how-endava-is-redesigning-software-delivery-around",
+      "date": "2026-06-04",
+      "name": "How Endava is redesigning software delivery around AI agents",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/endava-frontiers"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-04-openai-dreaming-better-memory-for-a-more-helpful-chatgpt",
+      "date": "2026-06-04",
+      "name": "Dreaming: Better memory for a more helpful ChatGPT",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/chatgpt-memory-dreaming"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-04-aws-amazon-sagemaker-data-agent-integrates-business-co",
+      "date": "2026-06-04",
+      "name": "Amazon SageMaker Data Agent integrates business context into conversations",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker Data Agent now integrates with SageMaker Catalog business context and metadata, enabling data practitioners to discover datasets and generate more accurate SQL and Python code using business terminolo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-data-agent-bdc/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-04-aws-amazon-cognito-now-supports-multi-region-replicati",
+      "date": "2026-06-04",
+      "name": "Amazon Cognito now supports multi-Region replication",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Cognito now supports multi-Region replication, enabling you to synchronize user and machine identity data — including credentials, user pool configurations, and federation setups — to a secondary user pool in a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-multi-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-04-aws-aws-databases-on-vercel-now-available-in-additiona",
+      "date": "2026-06-04",
+      "name": "AWS Databases on Vercel now available in additional AWS Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/aurora/\" target=\"_blank\">Amazon Aurora PostgreSQL</a>, <a href=\"https://aws.amazon.com/rds/aurora/dsql/\" target=\"_blank\">Amazon Aurora DSQL</a>, and <a href=\"https://aws.amazon.com/",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-databases-vercel-aws-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-04-aws-amazon-eks-capabilities-now-supports-amazon-cloudw",
+      "date": "2026-06-04",
+      "name": "Amazon EKS Capabilities now supports Amazon CloudWatch Vended Logs",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/eks/\">Amazon Elastic Kubernetes Service</a> (Amazon EKS) Capabilities can now be configured as log delivery sources using Amazon CloudWatch Vended Logs. This enables customers to monito",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-eks-capabilities-logging"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-04-aws-amazon-mq-is-now-available-in-the-aws-european-sov",
+      "date": "2026-06-04",
+      "name": "Amazon MQ is now available in the AWS European Sovereign Cloud (Germany) Region",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>You can now deploy Amazon MQ for RabbitMQ in the AWS European Sovereign Cloud (Germany) Region. This new independent cloud for Europe is located entirely within the EU, designed to help customers in regulated industri",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-mq-eur-sov-cloud"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-04-aws-amazon-bedrock-launches-a-redesigned-console-optim",
+      "date": "2026-06-04",
+      "name": "Amazon Bedrock launches a redesigned console optimized for OpenAI- and Anthropic-compatible APIs",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock is a fully managed service that provides secure, enterprise-grade access to high-performing foundation models from leading AI companies, enabling you to build and scale generative AI applications. Today",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-redesigned-console-optimized-openai-anthropic-compatible-apis/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-04-dust-spa-poke-77862ea-front-redirect-logged-in-users-fr",
+      "date": "2026-06-04",
+      "name": "spa/poke/77862ea: [front] redirect logged-in users from marketing root to the app (#26811)",
+      "vendor": "Dust",
+      "type": "pricing",
+      "summary": "<ul>\n<li>[front] redirect logged-in users from marketing root to the app</li>\n</ul>\n<p>Typing dust.tt when already logged in dumped users on the marketing<br />\nhomepage, forcing an extra \"Open Dust\" click. Now the root ",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F77862ea"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-04-dust-spa-poke-336e07e-front-send-latest-workos-schema-v",
+      "date": "2026-06-04",
+      "name": "spa/poke/336e07e: [front] Send latest WorkOS schema version with audit log events (#26831)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>[front] Send latest WorkOS schema version with audit log events</li>\n</ul>\n<p>WorkOS validates each emitted audit log event against the schema version<br />\nsent in the payload. Without an explicit version, even",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F336e07e"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-04-dust-spa-poke-9d3f57f-support-targeted-instruction-edit",
+      "date": "2026-06-04",
+      "name": "spa/poke/9d3f57f: Support targeted instruction edits in update_skill (#26788)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>Support targeted instruction edits in update_skill</li>\n</ul>\n<p>update_skill previously required passing the full instructions to change<br />\nanything. Add an old_string/new_string/expected_replacements mode s",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9d3f57f"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-04-dust-spa-poke-4f5466d-dsbx-skip-secret-substitution-in-",
+      "date": "2026-06-04",
+      "name": "spa/poke/4f5466d: [dsbx] Skip secret substitution in reflection-prone headers (#26828)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>[dsbx] Skip secret substitution in reflection-prone headers</li>\n</ul>\n<p>A recognized DSEC placeholder placed in a non-credential header (User-Agent,<br />\nOrigin, X-Request-Id, trace headers, ...) was substitu",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F4f5466d"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-06-03-openai-elevated-errors-for-chatgpt-pro",
       "date": "2026-06-03",
       "name": "Elevated errors for ChatGPT Pro",
@@ -857,222 +1073,6 @@
         {
           "title": "OpenAI source",
           "url": "https://status.openai.com//incidents/01KSSY9D28AM92BCDXRTS4CDKZ"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-29-aws-amazon-ses-now-offers-inbox-placement-metrics-and-",
-      "date": "2026-05-29",
-      "name": "Amazon SES now offers inbox placement metrics and blocklist monitoring",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, Amazon Simple Email Service&nbsp;(SES) launched a new set of deliverability features that help customers get more information about their outbound sending deliverability performance and reputation. Customers ca",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ses-global-deliverability/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-29-aws-aws-end-user-messaging-rcs-for-business-now-availa",
-      "date": "2026-05-29",
-      "name": "AWS End User Messaging RCS for Business now available in 20 additional countries",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p> AWS End User Messaging now supports RCS for Business messaging in 20 additional countries, bringing the total to 22. Businesses can now send verified, branded RCS&nbsp;messages to customers in Austria, Brazil, Colomb",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-rcs-countries/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-29-aws-amazon-connect-customer-now-supports-scheduling-ta",
-      "date": "2026-05-29",
-      "name": "Amazon Connect Customer now supports scheduling tasks up to 90 days in advance",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect Customer now supports scheduling tasks up to 90 days in advance, helping organizations plan, route, and track long-running follow-up work. For example, an insurance team managing an auto repair claim ca",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-customer-tasks-90day-schedule"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-29-aws-aws-shield-advanced-introduces-ddos-attack-flow-lo",
-      "date": "2026-05-29",
-      "name": "AWS Shield Advanced introduces DDoS attack flow logs",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Shield Advanced announces distributed denial-of-service (DDoS) attack flow logs, giving you packet-level visibility into traffic hitting Shield Advanced protected resources during a DDoS attack. The log data is pu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-shield-ddos/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-29-aws-amazon-redshift-serverless-now-offers-4-rpu-minimu",
-      "date": "2026-05-29",
-      "name": "Amazon Redshift Serverless now offers 4-RPU Minimum Capacity in 7 additional AWS Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/redshift/\">Amazon Redshift</a> now allows you to get started with Amazon Redshift Serverless with a lower data warehouse <a href=\"https://docs.aws.amazon.com/redshift/latest/mgmt/server",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-redshift-serverless-4-rpu-seven-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-29-aws-aws-interconnect-multicloud-now-offers-a-free-500-",
-      "date": "2026-05-29",
-      "name": "AWS Interconnect - multicloud now offers a free 500 Mbps tier",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Interconnect - multicloud now offers a free 500 Mbps multicloud Interconnect, making it easier to privately connect your workloads on AWS and other public clouds.</p> \n<p>Customers have been adopting multicloud st",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-interconnect-multicloud-offers-free-500-mbps-tier"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-29-aws-amazon-rds-for-oracle-now-supports-april-2026-rele",
-      "date": "2026-05-29",
-      "name": "Amazon RDS for Oracle now supports April 2026 Release Update and Supplemental Patch Bundle",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/oracle/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for Oracle</a> now supports the <a href=\"https://www.oracle.com/security-alerts/cpuapr2026.html#AppendixDB\" ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-oracle-supports-april-2026-release-update-supplemental-patch-bundle"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-29-aws-oracle-database-aws-is-now-available-in-twenty-aws",
-      "date": "2026-05-29",
-      "name": "Oracle Database@AWS is now available in twenty AWS Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Oracle Database@AWS is now generally available in eight additional AWS Regions: EU-Central-2 (Zurich), EU-South-1 (Milan), EU-South-2 (Spain), EU-West-3 (Paris), AP-Northeast-3 (Osaka), AP-Southeast-1 (Singapore), AP-",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/oracle-database-aws-available-twenty-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-29-aws-amazon-s3-tables-are-now-available-in-two-addition",
-      "date": "2026-05-29",
-      "name": "Amazon S3 Tables are now available in two additional AWS Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon S3 Tables are now available in the Asia Pacific (Taipei) and Asia Pacific (New Zealand) Regions.</p> \n<p>Amazon S3 Tables deliver the first cloud object store with built-in Apache Iceberg support, streamlining ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-s3-tables-aws-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-29-aws-aws-healthlake-now-supports-cms-interoperability-a",
-      "date": "2026-05-29",
-      "name": "AWS HealthLake now supports CMS Interoperability and Prior Authorization Final Rule (CMS-0057-F) requirements",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS HealthLake now provides native support for healthcare payers to comply with the CMS Interoperability and Prior Authorization Final Rule (CMS-0057-F). This rule requires Medicare Advantage organizations, Medicaid m",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-healthlake-cms-cms-0057-f/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-29-aws-amazon-cloudwatch-now-supports-querying-metrics-da",
-      "date": "2026-05-29",
-      "name": "Amazon CloudWatch now supports querying metrics data up to two weeks old",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon CloudWatch now allows you to query metrics data up to two weeks in the past using the Metrics Insights query source. CloudWatch Metrics Insights offers fast, flexible, SQL-based queries. This new capability all",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-mi-extended-retention-region-expansion"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-28-openai-codex-context-compaction-latency",
-      "date": "2026-05-28",
-      "name": "Codex Context Compaction Latency",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Codex Web (Degraded performance)</li>\n<li>CLI (Degra",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KSN9ATSF1WCJ5ZTQSR1H9CC7"
         }
       ],
       "impact": 5,
