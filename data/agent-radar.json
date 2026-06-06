@@ -1,6 +1,150 @@
 {
   "items": [
     {
+      "id": "2026-06-05-aws-amazon-bedrock-agentcore-runtime-introduces-intera",
+      "date": "2026-06-05",
+      "name": "Amazon Bedrock AgentCore Runtime introduces interactive shells for terminal access into agent sessions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock AgentCore Runtime now supports interactive shells through a new InvokeAgentRuntimeCommandShell API, opening a persistent, PTY-backed terminal directly into a running agent session over WebSocket. This c",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-runtime/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-05-aws-amazon-opensearch-ui-is-now-available-in-govcloud-",
+      "date": "2026-06-05",
+      "name": "Amazon OpenSearch UI is now available in GovCloud regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon OpenSearch Service expands its modernized operational analytics experience to GovCloud regions, including AWS GovCloud (US-East) and AWS GovCloud (US-West), enabling users to gain insights across data spanning ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/opensearch-ui-govcloud-region"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-05-aws-amazon-ecs-with-aws-fargate-now-supports-32vcpu-co",
+      "date": "2026-06-05",
+      "name": "Amazon ECS with AWS Fargate now supports 32vCPU compute configurations",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Elastic Container Service (Amazon ECS) with AWS Fargate now supports 32vCPU compute configurations, enabling customers to run more demanding applications with greater flexibility and performance. AWS Fargate of",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-fargate-32vcpu"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-05-aws-the-aws-mcp-server-now-supports-cross-account-and-",
+      "date": "2026-06-05",
+      "name": "The AWS MCP Server now supports cross-account and cross-role access",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Today, AWS announced cross-account and cross-role access for the AWS Model Context Protocol (MCP) Server, part of the <a href=\"https://aws.amazon.com/products/developer-tools/agent-toolkit-for-aws/\">Agent Toolkit for ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-mcp-server/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-05-dust-spa-poke-919e676-add-dust-support-skill-26876",
+      "date": "2026-06-05",
+      "name": "spa/poke/919e676: Add Dust Support skill (#26876)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>Add Dust Support skill</p>\n</li>\n<li>\n<p>Fix workspace SWR formatting</p>\n</li>\n<li>\n<p>Clarify support skill workspace knowledge</p>\n</li>\n<li>\n<p>Address support skill review nits</p>\n</li>\n<li>\n<p>Remove ",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F919e676"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-05-dust-spa-poke-761bfc7",
+      "date": "2026-06-05",
+      "name": "spa/poke/761bfc7",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] Attribute sub-agent usage to the originating API key (attribu…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F761bfc7"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-05-dust-spa-poke-91ba5c2-front-improve-agent-skill-search-",
+      "date": "2026-06-05",
+      "name": "spa/poke/91ba5c2: [front] improve agent/skill search   (#26855)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>fix search</p>\n</li>\n<li>\n<p>skills search</p>\n</li>\n<li>\n<p>format</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F91ba5c2"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-05-dust-spa-poke-05d74e9-fix-front-api-gate-regionalmodels",
+      "date": "2026-06-05",
+      "name": "spa/poke/05d74e9: fix(front-api): gate regionalModelsOnly toggle in Hono handler (#26860)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>The regionalModelsOnly guard that blocks enabling the setting when active<br />\nagents use non-regional models only existed in the Next handler, which is<br />\nno longer the one serving the request (MIGRATED_TO_HONO).",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F05d74e9"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-06-04-openai-increased-latency-for-codex-compaction-for-a-subse",
       "date": "2026-06-04",
       "name": "Increased latency for Codex compaction for a subset of users",
@@ -230,6 +374,24 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-04-aws-aws-deadline-cloud-now-supports-plugin-sync-for-se",
+      "date": "2026-06-04",
+      "name": "AWS Deadline Cloud now supports plugin sync for service-managed fleets",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Deadline Cloud now gives you an easier way to deliver plugins to cloud workers when using service-managed fleets. AWS Deadline Cloud is a fully managed service that helps teams run compute-intensive workloads in t",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/deadline-cloud/plugin-sync"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -914,168 +1076,6 @@
         }
       ],
       "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-01-dust-spa-poke-6366af8-front-feat-openai-targeted-frames",
-      "date": "2026-06-01",
-      "name": "spa/poke/6366af8: [front] feat: OpenAI-targeted Frames skill variant (#26556)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>[front] feat: add OpenAI-targeted Frames skill variant</li>\n</ul>\n<p>Adds a per-agent Frames authoring-prose override gated by a new optional<br />\n<code>framesVariant</code> hint on global agent definitions. Th",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6366af8"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-01-aws-aws-pcs-now-provides-a-production-ready-deep-learn",
-      "date": "2026-06-01",
-      "name": "AWS PCS now provides a production-ready Deep Learning AMI",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS Parallel Computing Service (AWS PCS) launches PCS-ready DLAMI, an AWS-maintained Amazon Machine Image built on the Deep Learning Base GPU AMI (Ubuntu 24.04). It provides a production-quality foundation for ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-pcs-deep-learning-ami/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-01-aws-amazon-connect-customer-now-optimizes-placement-of",
-      "date": "2026-06-01",
-      "name": "Amazon Connect Customer now optimizes placement of ad-hoc activities in agent schedules",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect Customer now optimizes placement of ad-hoc activities in agent schedules, making it easier for you to schedule non-productive events while automatically minimizing impact to service level goals. For exa",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect-customer-activity-optimization/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-01-aws-amazon-connect-customer-now-supports-up-to-5-000-a",
-      "date": "2026-06-01",
-      "name": "Amazon Connect Customer now supports up to 5,000 agents per schedule",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect Customer now supports up to 5,000 agents per schedule, making it easier for you to schedule larger business units or multiple business units that share agents (multi-skilled agents) within a single sche",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect-customer-5000-agents/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-01-aws-amazon-connect-customer-now-provides-schedule-upda",
-      "date": "2026-06-01",
-      "name": "Amazon Connect Customer now provides schedule update notifications",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Connect Customer now provides schedule update notifications, making it easier for you to automatically notify agents when their schedules change. You can define rules to send email or text notifications (via Ev",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect-customer-scheduling-notifications/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-31-aws-amazon-inspector-launches-improved-agent-based-sca",
-      "date": "2026-05-31",
-      "name": "Amazon Inspector launches improved agent-based scanning for EC2",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Inspector now offers improved agent-based EC2 scanning with the new Inspector VM Scanner, delivering expanded detection coverage and reduced CPU utilization on your EC2 instances. Security teams can now detect ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-inspector-ec2-agent-scanning-improvements"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-29-openai-users-may-encounter-issues-with-conversations",
-      "date": "2026-05-29",
-      "name": "Users may encounter issues with conversations",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Conversations (Degraded performance)</li>\n          ",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KSRVTZVW4J7NZ3WXM74DG4KX"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-29-openai-users-may-encounter-issues-logging-in-or-creating-",
-      "date": "2026-05-29",
-      "name": "Users may encounter issues logging in or creating an account",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Login (Degraded performance)</li>\n<li>Login (Degrade",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KSRVH1TAV8Q47M91F6V4V6X0"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-05-29-openai-users-may-experience-issues-accessing-chatgpt",
-      "date": "2026-05-29",
-      "name": "Users May Experience Issues Accessing ChatGPT",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>GPTs (Operational)</li>\n<li>Agent (Operational)</li>\n<li>Connectors/Ap",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KSSY9D28AM92BCDXRTS4CDKZ"
-        }
-      ],
-      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
