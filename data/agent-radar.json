@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "2026-06-06-dust-spa-poke-cfc62dc-email-agents-prefer-priority-work",
+      "date": "2026-06-06",
+      "name": "spa/poke/cfc62dc: [Email Agents] Prefer priority workspace for routing (#26891)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>Prioritize Dust workspace for email agents</p>\n</li>\n<li>\n<p>Use workspace id naming in email priority list</p>\n</li>\n<li>\n<p>Fix email agent test discovery</p>\n</li>\n<li>\n<p>Delete front-api/vite.config.mjs",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fcfc62dc"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-06-05-aws-amazon-bedrock-agentcore-runtime-introduces-intera",
       "date": "2026-06-05",
       "name": "Amazon Bedrock AgentCore Runtime introduces interactive shells for terminal access into agent sessions",
@@ -1058,24 +1076,6 @@
         }
       ],
       "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-01-dust-spa-poke-9901d79-allow-admins-to-customize-workspa",
-      "date": "2026-06-01",
-      "name": "spa/poke/9901d79: Allow admins to customize workspace balance threshold (#26540)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>Allow admins to customize workspace balance threshold</p>\n</li>\n<li>\n<p>Use metronome + redis cache instead of db</p>\n</li>\n<li>\n<p>simplify threshold handling</p>\n</li>\n<li>\n<p>fix comments</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9901d79"
-        }
-      ],
-      "impact": 3,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
