@@ -1,6 +1,114 @@
 {
   "items": [
     {
+      "id": "2026-06-07-dust-spa-poke-615ae75",
+      "date": "2026-06-07",
+      "name": "spa/poke/615ae75",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>Remove legacy shared Frames useFile policy (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/26913\">#26913</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F615ae75"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-07-dust-spa-poke-366d0be-front-feat-none-seat-type-message",
+      "date": "2026-06-07",
+      "name": "spa/poke/366d0be: [front] feat: none seat type + message-send gate (#26798)",
+      "vendor": "Dust",
+      "type": "pricing",
+      "summary": "<ul>\n<li>[front] feat: none seat type + message-send gate</li>\n</ul>\n<p>Add <code>none</code> to MEMBERSHIP_SEAT_TYPES for members who hold no billable seat.</p>\n<p>Backend gate: <code>checkMessagesLimit</code> (called b",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F366d0be"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-07-dust-spa-poke-315db38-front-feat-none-seat-type-seat-re",
+      "date": "2026-06-07",
+      "name": "spa/poke/315db38: [front] feat: none seat type + seat removal from usage page (#26824)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>[front] feat: none seat type + seat removal from usage page</li>\n</ul>\n<p>Adds <code>none</code> to MEMBERSHIP_SEAT_TYPES for members who hold no billable<br />\nseat (every tier at its configured max when they j",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F315db38"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-07-dust-spa-app-615ae75",
+      "date": "2026-06-07",
+      "name": "spa/app/615ae75",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>Remove legacy shared Frames useFile policy (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/26913\">#26913</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F615ae75"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-07-dust-spa-app-366d0be-front-feat-none-seat-type-message-",
+      "date": "2026-06-07",
+      "name": "spa/app/366d0be: [front] feat: none seat type + message-send gate (#26798)",
+      "vendor": "Dust",
+      "type": "pricing",
+      "summary": "<ul>\n<li>[front] feat: none seat type + message-send gate</li>\n</ul>\n<p>Add <code>none</code> to MEMBERSHIP_SEAT_TYPES for members who hold no billable seat.</p>\n<p>Backend gate: <code>checkMessagesLimit</code> (called b",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F366d0be"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-07-dust-spa-app-315db38-front-feat-none-seat-type-seat-rem",
+      "date": "2026-06-07",
+      "name": "spa/app/315db38: [front] feat: none seat type + seat removal from usage page (#26824)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>[front] feat: none seat type + seat removal from usage page</li>\n</ul>\n<p>Adds <code>none</code> to MEMBERSHIP_SEAT_TYPES for members who hold no billable<br />\nseat (every tier at its configured max when they j",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F315db38"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-06-06-dust-spa-poke-cfc62dc-email-agents-prefer-priority-work",
       "date": "2026-06-06",
       "name": "spa/poke/cfc62dc: [Email Agents] Prefer priority workspace for routing (#26891)",
@@ -965,114 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-m8i-m8i-flex-new-zealand/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-01-aws-amazon-ec2-m8azn-instances-are-now-available-in-eu",
-      "date": "2026-06-01",
-      "name": "Amazon EC2 M8azn instances are now available in Europe (Ireland) Region",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, Amazon EC2 M8azn instances are now available in Europe (Ireland) Region. These general purpose high-frequency high-network instances are powered by fifth generation AMD EPYC (formerly code named Turin)",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-m8azn-europe-ireland/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-01-aws-amazon-bedrock-agentcore-identity-now-allows-you-t",
-      "date": "2026-06-01",
-      "name": "Amazon Bedrock AgentCore Identity now allows you to bring your own secrets with AWS Secrets Manager",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock&nbsp;AgentCore Identity now allows customers the ability to reference existing AWS Secrets Manager secret ARNs directly in AgentCore Identity Credential Providers.<br /> <br /> Previously, AgentCore Ide",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/agentcore-identity-secrets-manager/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-01-aws-amazon-sagemaker-hyperpod-now-offers-troubleshooti",
-      "date": "2026-06-01",
-      "name": "Amazon SageMaker HyperPod now offers troubleshooting skills for AI coding assistants",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon SageMaker HyperPod now provides troubleshooting skills that bring expert-level AI/ML cluster diagnostics directly into AI coding assistants such as Claude Code, Cursor, and Kiro. SageMaker HyperPod is a purpose",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-hyperpod-troubleshooting-skills/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-01-aws-aws-direct-connect-now-supports-vif-rate-limiters-",
-      "date": "2026-06-01",
-      "name": "AWS Direct Connect now supports VIF Rate Limiters to help prevent network congestion",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Direct Connect now supports Virtual Interface (VIF) Rate Limiters on dedicated connections, which help you prevent network congestion caused by unexpected traffic spikes on a VIF which can potentially consume all ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-direct-connect-now-supports-vif-rate-limiters/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-01-aws-amazon-bedrock-adds-amazon-cloudwatch-metrics-for-",
-      "date": "2026-06-01",
-      "name": "Amazon Bedrock adds Amazon CloudWatch metrics for OpenAI- and Anthropic-compatible APIs",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock is a fully managed service that provides secure, enterprise-grade access to high-performing foundation models from leading AI companies, enabling you to build and scale generative AI applications. Amazo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-supports-cloudwatch-metrics-bedrock-mantle-endpoint/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-01-aws-gpt-5-5-gpt-5-4-and-codex-from-openai-are-now-gene",
-      "date": "2026-06-01",
-      "name": "GPT-5.5, GPT-5.4, and Codex from OpenAI are now generally available on Amazon Bedrock",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>You can now use GPT-5.5 and GPT-5.4 in production workloads on Amazon Bedrock and build with Codex for AI-powered software development, with the same security, governance, and operational controls you already use acro",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-openai-models-codex-generally-available/"
         }
       ],
       "impact": 5,
