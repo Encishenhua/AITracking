@@ -1,6 +1,258 @@
 {
   "items": [
     {
+      "id": "2026-06-09-crewai-1-14-7a3",
+      "date": "2026-06-09",
+      "name": "1.14.7a3",
+      "vendor": "CrewAI",
+      "type": "upgrade",
+      "summary": "<h2>What's Changed</h2>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Fix exposure of <code>ask_for_human_input</code> on experimental <code>AgentExecutor</code></li>\n<li>Resolve pip-audit CVEs for <code>aiohttp</code>, <code>docling</cod",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.7a3"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-06-08-aws-aws-compute-optimizer-now-supports-idle-recommenda",
+      "date": "2026-06-08",
+      "name": "AWS Compute Optimizer now supports idle recommendations for six additional resource types",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Compute Optimizer now identifies idle resources for Amazon DynamoDB provisioned tables, Amazon ElastiCache (Redis and Valkey), Amazon MemoryDB, Amazon DocumentDB (provisioned and serverless), Amazon WorkSpaces, an",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-compute-optimizer-six-new-idle"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-08-aws-amazon-documentdb-now-supports-engine-minor-versio",
+      "date": "2026-06-08",
+      "name": "Amazon DocumentDB now supports engine minor version starting with 5.0.1",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon DocumentDB (with MongoDB compatibility) now supports engine minor versions, starting with 5.0.1. This release delivers enhanced aggregation capabilities with new operators ($rand, $pow, $dateToParts, $dateFromP",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-documentdb-engine-minor-version-5-0-1/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-08-aws-postgresql-19-beta-1-is-now-available-in-amazon-rd",
+      "date": "2026-06-08",
+      "name": "PostgreSQL 19 Beta 1 is now available in Amazon RDS Database Preview Environment",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/postgresql/\">Amazon RDS for PostgreSQL</a> 19 Beta 1 is now available in the <a href=\"https://aws.amazon.com/rds/databasepreview/\">Amazon RDS Database Preview Environment</a>, allow",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/postgresql-19-beta-1-amazon-rds-database-preview-environment/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-08-aws-aws-lambda-managed-instances-expands-to-additional",
+      "date": "2026-06-08",
+      "name": "AWS Lambda Managed Instances expands to additional AWS Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Lambda Managed Instances (LMI) is now available in all commercial AWS Regions, except Israel (Tel Aviv), Middle East (Bahrain), Middle East (UAE), and Asia Pacific (Auckland). &nbsp;</p> \n<p>LMI lets you run Lambd",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lambda-managed-instances-region-expansion/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-08-aws-aws-application-migration-service-is-now-aws-trans",
+      "date": "2026-06-08",
+      "name": "AWS Application Migration Service is now AWS Transform MGN",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS Application Migration Service (MGN) is now available as <b>AWS Transform MGN</b>. This name change reflects MGN's role as the proven replication engine powering AWS Transform, the agentic migration service.<br /> ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-mgn-rebrand/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-08-aws-aws-now-provides-ai-powered-cost-investigations-fo",
+      "date": "2026-06-08",
+      "name": "AWS now provides AI-powered cost investigations for cost anomalies",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/aws-cost-management/aws-cost-anomaly-detection/\">AWS Cost Anomaly Detection</a> now includes AI-powered cost investigation, which uses Amazon Q to analyze the root cause of detected cos",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-ai-powered-cost-investigations/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-08-aws-amazon-connect-customer-now-offers-ai-agent-trace-",
+      "date": "2026-06-08",
+      "name": "Amazon Connect Customer now offers AI agent trace details for self-service voice interactions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect Customer now provides AI agent traces for self-service voice interactions, enabling you to understand how AI agents reason, act, and respond during each customer conversation. With this launch, you have",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect-ai-agent-traces/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-08-aws-amazon-redshift-reduces-manual-snapshot-cost-for-s",
+      "date": "2026-06-08",
+      "name": "Amazon Redshift reduces manual snapshot cost for Serverless and RG instances",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/redshift/\">Amazon Redshift</a> announces a new billing model for manual snapshots on <a href=\"https://aws.amazon.com/redshift/redshift-serverless/\">Amazon Redshift Serverless</a> and <a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-redshift-incremental-manual-snapshots/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-08-aws-amazon-rds-for-sql-server-migration-cost-assessmen",
+      "date": "2026-06-08",
+      "name": "Amazon RDS for SQL Server migration cost assessment capabilities now available in AWS Transform",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><b>Amazon RDS for SQL Server</b> now offers TCO assessment in AWS Transform, so you can estimate costs when migrating on-premises SQL Server databases to RDS for SQL Server. Using AI-powered agents, AWS Transform anal",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-sql-server-cost-assessment-aws-transform/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-08-dust-spa-poke-98550a7-trim-custom-model-dust-agents-to-",
+      "date": "2026-06-08",
+      "name": "spa/poke/98550a7: Trim custom-model dust agents to chawi and lionel (#26990)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Reduced the infra custom-models config to two entries: the model at<br />\nindex 0 (used by dust-chawi) and the model at index 1 (used by<br />\ndust-lionel). Removed the four other eval models.</p>\n<p>dust-chawi now us",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F98550a7"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-08-dust-spa-poke-906a838-front-sparkle-new-navigation-tabs",
+      "date": "2026-06-08",
+      "name": "spa/poke/906a838: [front & sparkle] New Navigation tabs  (#26960)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>\n<p>add navtabpill</p>\n</li>\n<li>\n<p>add motion reduce</p>\n</li>\n<li>\n<p>submenu</p>\n</li>\n<li>\n<p>use touchhitbox</p>\n</li>\n<li>\n<p>format</p>\n</li>\n<li>\n<p>minimize button</p>\n</li>\n<li>\n<p>format</p>\n</li>\n<l",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F906a838"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-08-dust-spa-poke-272b87c-fix-use-correct-gamma-mcp-endpoin",
+      "date": "2026-06-08",
+      "name": "spa/poke/272b87c:  fix: use correct Gamma MCP endpoint path /mcp (#27023)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>Co-authored-by: Anya Andrews <a href=\"mailto:anyaandrews@Anyas-MacBook-Air.local\">anyaandrews@Anyas-MacBook-Air.local</a><br />\nCo-authored-by: Claude Sonnet 4.6 <a href=\"mailto:noreply@anthropic.com\">noreply@anthropi",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F272b87c"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-08-dust-spa-poke-3ca8d83-remove-decommissioned-deepseek-r1",
+      "date": "2026-06-08",
+      "name": "spa/poke/3ca8d83: Remove decommissioned DeepSeek R1 models (#26958)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>Remove decommissioned DeepSeek R1 models</li>\n</ul>\n<p>DeepSeek R1 has been decommissioned across Fireworks, TogetherAI, and the<br />\nDeepSeek API. Drop all three model configs and the DeepSeek R1 global agent,",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F3ca8d83"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-06-07-dust-spa-poke-615ae75",
       "date": "2026-06-07",
       "name": "spa/poke/615ae75",
@@ -266,6 +518,24 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-05-aws-amazon-ec2-c8in-instances-are-now-available-in-add",
+      "date": "2026-06-05",
+      "name": "Amazon EC2 C8in instances are now available in additional regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8in instances are available in the AWS&nbsp;Asia Pacific (Sydney, Singapore, Malaysia) and Europe (Frankfurt) regions. C8in instances are powered by custom, s",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c8in-asia-pacific-europe/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -806,276 +1076,6 @@
         }
       ],
       "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-03-crewai-1-14-7a1",
-      "date": "2026-06-03",
-      "name": "1.14.7a1",
-      "vendor": "CrewAI",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add crew trained agents file support</li>\n<li>Add native Snowflake Cortex LLM provider</li>\n<li>Add Databricks integration guide</li>\n<li>Add Snowflake integration guide",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.7a1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-06-02-aws-amazon-eks-and-amazon-eks-distro-now-supports-kube",
-      "date": "2026-06-02",
-      "name": "Amazon EKS and Amazon EKS Distro now supports Kubernetes version 1.36",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Kubernetes version 1.36 introduced several new features and bug fixes, and AWS is excited to announce that you can now use <a href=\"https://aws.amazon.com/eks/\" target=\"_blank\">Amazon Elastic Kubernetes Service</a> (E",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-eks-distro-kubernetes-version-1-36"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-02-aws-aws-config-now-supports-internal-service-linked-ru",
-      "date": "2026-06-02",
-      "name": "AWS Config now supports internal service linked rules",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS Config now supports internal service linked rules, enabling AWS services to evaluate AWS resource configurations using AWS Config managed rules. Internal service linked rules extend the existing service linked rec",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-config-supports-internal-service-linked-rules"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-02-aws-aws-deadline-cloud-now-supports-persistent-storage",
-      "date": "2026-06-02",
-      "name": "AWS Deadline Cloud now supports persistent storage for Service Managed Fleets",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Deadline Cloud now supports persistent storage for Service-Managed Fleets (SMF), allowing you to maintain data across worker lifecycle events.&nbsp;AWS Deadline Cloud is a fully managed service that makes it easy ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/deadline-cloud/persistent-storage"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-02-aws-amazon-sagemaker-studio-now-sets-up-in-seconds-wit",
-      "date": "2026-06-02",
-      "name": "Amazon SageMaker Studio now sets up in seconds with model customization ready from the start",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon SageMaker Studio quick setup now completes in under twenty seconds, reduced from over two minutes. Whether you are building ML pipelines, exploring data, developing with notebooks, or fine-tuning foundation mod",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/quick-setup-model-customization-sagemaker-studio/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-02-aws-amazon-elasticache-for-valkey-now-supports-durabil",
-      "date": "2026-06-02",
-      "name": "Amazon ElastiCache for Valkey now supports durability",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS announces durability support for Amazon ElastiCache. Durability enables you to use ElastiCache for workloads that require microsecond read latency but cannot tolerate data loss. With durability support, Ela",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/durability-amazon-elasticache"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-02-aws-amazon-rds-for-sql-server-supports-bring-your-own-",
-      "date": "2026-06-02",
-      "name": "Amazon RDS for SQL Server supports Bring Your Own Media",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for SQL Server</a> launches Bring Your Own Media (BYOM) for Microsoft SQL Serve",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/rds-sqlserver-supports-bring-your-own-media/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-02-dust-spa-poke-2173b85",
-      "date": "2026-06-02",
-      "name": "spa/poke/2173b85",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Require double ESC to stop the agent loop (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/26641\">#26641</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2173b85"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-01-openai-building-the-infrastructure-for-the-intelligence-a",
-      "date": "2026-06-01",
-      "name": "Building the infrastructure for the Intelligence Age in Michigan",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/stargate-michigan-data-center"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-01-aws-aws-healthomics-now-supports-nextflow-version-pinn",
-      "date": "2026-06-01",
-      "name": "AWS HealthOmics now supports Nextflow version pinning at run time",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS HealthOmics now allows customers to specify the Nextflow engine version at run time via the StartRun API, enabling customers to pin runs to a specific Nextflow version for controlled migration. With this launch, c",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-nextflow-version-pinning-at-runtime/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-01-aws-aws-healthomics-now-supports-nextflow-version-26-0",
-      "date": "2026-06-01",
-      "name": "AWS HealthOmics now supports Nextflow version 26.04",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS HealthOmics now supports Nextflow version 26.04, enabling customers to take advantage of new Nextflow features and enhancements: record types,&nbsp;the strict syntax parser, workflow output summaries, and agent lo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-nextflow-version-26-04/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-01-aws-quick-research-now-supports-customer-managed-keys",
-      "date": "2026-06-01",
-      "name": "Quick Research now supports customer managed keys",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Quick Research now enables customers to encrypt their data using customer-managed keys (CMK) through AWS Key Management Service (KMS).</p> \n<p>This enhancement allows organizations with strict security and comp",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-research-cm-keys"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-01-aws-amazon-quick-now-supports-vpc-connectivity-for-mcp",
-      "date": "2026-06-01",
-      "name": "Amazon Quick now supports VPC connectivity for MCP connections",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Quick now enables enterprise customers to connect their privately hosted Model Context Protocol (MCP) servers to Quick through Amazon Virtual Private Cloud (VPC). Amazon Quick is an AI assistant that turns ques",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-vpc-mcp/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-01-aws-amazon-sagemaker-adds-permissions-boundaries-for-s",
-      "date": "2026-06-01",
-      "name": "Amazon SageMaker adds permissions boundaries for SCP compliance",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker Unified Studio now supports custom IAM permissions boundaries, so organizations that enforce Service Control Policies (SCPs) requiring permissions boundaries on all IAM roles can adopt SageMaker Unifi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-scp/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-01-aws-amazon-ec2-m8i-and-m8i-flex-instances-are-now-avai",
-      "date": "2026-06-01",
-      "name": "Amazon EC2 M8i and M8i-flex instances are now available in Asia Pacific (New Zealand) Region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon EC2 M8i and M8i-flex instances are now available in Asia Pacific (New Zealand)<b> </b>Region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-m8i-m8i-flex-new-zealand/"
-        }
-      ],
-      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
