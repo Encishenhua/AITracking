@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "2026-06-10-dust-spa-poke-6f79849-front-new-layout-26995",
+      "date": "2026-06-10",
+      "name": "spa/poke/6f79849: [front] new layout (#26995)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>new layout</p>\n</li>\n<li>\n<p>spacing spinner</p>\n</li>\n<li>\n<p>fix hashparam</p>\n</li>\n<li>\n<p>misc</p>\n</li>\n<li>\n<p>misc 2</p>\n</li>\n<li>\n<p>fix</p>\n</li>\n<li>\n<p>fix</p>\n</li>\n<li>\n<p>adjust scroll bar</p",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6f79849"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-10-dust-spa-app-6f79849-front-new-layout-26995",
+      "date": "2026-06-10",
+      "name": "spa/app/6f79849: [front] new layout (#26995)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>new layout</p>\n</li>\n<li>\n<p>spacing spinner</p>\n</li>\n<li>\n<p>fix hashparam</p>\n</li>\n<li>\n<p>misc</p>\n</li>\n<li>\n<p>misc 2</p>\n</li>\n<li>\n<p>fix</p>\n</li>\n<li>\n<p>fix</p>\n</li>\n<li>\n<p>adjust scroll bar</p",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F6f79849"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-06-09-crewai-1-14-7a3",
       "date": "2026-06-09",
       "name": "1.14.7a3",
@@ -11,6 +47,240 @@
         {
           "title": "CrewAI source",
           "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.7a3"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-06-09-openai-how-engineers-at-nextdoor-use-codex-to-build-witho",
+      "date": "2026-06-09",
+      "name": "How engineers at Nextdoor use Codex to build without limits",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/nextdoor"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-09-aws-amazon-sagemaker-unified-studio-notebooks-now-supp",
+      "date": "2026-06-09",
+      "name": "Amazon SageMaker Unified Studio Notebooks now support EMR Serverless",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker Unified Studio Notebooks now support Amazon EMR Serverless with Apache Spark Connect, giving data engineers and analysts more flexibility in choosing their Spark runtime for interactive analytics and ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-unified-studio-emr/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-09-aws-amazon-s3-access-grants-are-now-available-in-the-a",
+      "date": "2026-06-09",
+      "name": "Amazon S3 Access Grants are now available in the AWS European Sovereign Cloud (Germany) Region",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>You can now create Amazon S3 Access Grants in the AWS European Sovereign Cloud (Germany) Region.</p> \n<p>Amazon S3 Access Grants map identities in directories such as Microsoft Entra ID, or AWS Identity and Access Man",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-s3-access-grants-european-sovereign-cloud-germany-region"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-09-aws-aws-finops-agent-is-now-available-in-preview",
+      "date": "2026-06-09",
+      "name": "AWS FinOps Agent is now available in preview",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the preview of AWS FinOps Agent, a frontier agent for FinOps practitioners and engineering teams that answers cost questions, surfaces optimization opportunities, automatically investigates cost a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-finops-agent-preview/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-09-aws-aws-announces-claude-fable-5-the-first-generally-a",
+      "date": "2026-06-09",
+      "name": "AWS announces Claude Fable 5, the first generally available Mythos-class model",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Claude Fable 5 is generally available on AWS and makes Mythos-level capabilities available to all customers, with strong safeguards designed to make it safe for broader use. Fable 5 is state-of-the-art on nearly all t",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/claude-fable-5-aws/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-09-aws-aws-backup-support-for-amazon-eks-is-now-available",
+      "date": "2026-06-09",
+      "name": "AWS Backup support for Amazon EKS is now available in the AWS European Sovereign Cloud (Germany) Region",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS Backup support for Amazon Elastic Kubernetes Service (EKS) is now available in the AWS European Sovereign Cloud (Germany) Region. This expansion brings fully-managed, policy-based data protection and recovery to y",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-backup-amazon-eks-aws-european-sovereign-cloud/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-09-aws-run-interactive-workloads-on-amazon-emr-serverless",
+      "date": "2026-06-09",
+      "name": "Run Interactive Workloads on Amazon EMR Serverless with Spark Connect",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon EMR Serverless now supports interactive sessions with Spark Connect, enabling you to develop and run Apache Spark applications from managed notebooks in Amazon SageMaker Unified Studio, as well as your favorite",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-emr-serverless-spark-connect"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-09-aws-aws-cost-explorer-launches-intelligent-cost-explan",
+      "date": "2026-06-09",
+      "name": "AWS Cost Explorer launches intelligent cost explanations powered by Amazon Q",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Cost Explorer now supports 'Analyze with Amazon Q', a new capability that delivers comprehensive cost explanations for any report you configure in Cost Explorer. With a single button click you now can receive deta",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cost-explorer-intelligent-cost-explanations"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-09-dust-spa-poke-4611a0a-front-add-claude-fable-5-behind-a",
+      "date": "2026-06-09",
+      "name": "spa/poke/4611a0a: [front] Add claude-fable-5 behind a dust-only feature flag (#27113)",
+      "vendor": "Dust",
+      "type": "pricing",
+      "summary": "<ul>\n<li>[front] add claude-fable-5 behind a dust-only feature flag</li>\n</ul>\n<p>Adds the GA claude-fable-5 model (config, pricing, registry, router<br />\nwhitelist, SDK types, UI config, tests) following the Opus 4.8 p",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F4611a0a"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-09-dust-spa-poke-890d30d-front-use-opus-4-8-for-deep-dive-",
+      "date": "2026-06-09",
+      "name": "spa/poke/890d30d: [front] Use Opus 4.8 for deep-dive on Opus-enabled workspaces (#27089)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Co-authored-by: Henry Fontanier <a href=\"mailto:14199823+fontanierh@users.noreply.github.com\">14199823+fontanierh@users.noreply.github.com</a></p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F890d30d"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-09-dust-spa-poke-531af36",
+      "date": "2026-06-09",
+      "name": "spa/poke/531af36",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>[front] checkout: bypass payment-gated commit when amount is 0 (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/27059\">#27059</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F531af36"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-09-dust-spa-poke-80c64d7",
+      "date": "2026-06-09",
+      "name": "spa/poke/80c64d7",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] Auto-enable Computer skill for all agents when sandbox_tools …</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F80c64d7"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-09-crewai-1-14-7a4",
+      "date": "2026-06-09",
+      "name": "1.14.7a4",
+      "vendor": "CrewAI",
+      "type": "launch",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Migrate @listen/<a class=\"user-mention notranslate\" href=\"https://github.com/router\">@router</a> runtime to read from FlowDefinition</li>\n<li>Add pluggable default backe",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.7a4"
         }
       ],
       "impact": 3,
@@ -541,6 +811,24 @@
       "tags": []
     },
     {
+      "id": "2026-06-05-aws-the-aws-command-line-interface-cli-now-supports-th",
+      "date": "2026-06-05",
+      "name": "The AWS Command Line Interface (CLI) now supports the Agent Toolkit for AWS",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Today, AWS announced that the AWS Command Line Interface (CLI) allows users to install the <a href=\"https://aws.amazon.com/products/developer-tools/agent-toolkit-for-aws/\">Agent Toolkit for AWS</a>&nbsp;across multipl",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cli-agent-toolkit/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-06-04-openai-increased-latency-for-codex-compaction-for-a-subse",
       "date": "2026-06-04",
       "name": "Increased latency for Codex compaction for a subset of users",
@@ -788,294 +1076,6 @@
         }
       ],
       "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-03-openai-elevated-errors-for-chatgpt-pro",
-      "date": "2026-06-03",
-      "name": "Elevated errors for ChatGPT Pro",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>GPTs (Operational)</li>\n<li>Agent (Operational)</li>\n<li>Deep Research",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KT5AMWGKRTMQW2BAHD70PC4X"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-03-openai-a-blueprint-for-democratic-governance-of-frontier-",
-      "date": "2026-06-03",
-      "name": "A blueprint for democratic governance of frontier AI",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/frontier-safety-blueprint"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-03-openai-elevated-error-rates-on-codex-chatgpt-and-response",
-      "date": "2026-06-03",
-      "name": "Elevated error rates on Codex, ChatGPT and Responses API",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Login (Operational)</li>\n<li>Conversations (Operational)</li>\n<li>Resp",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KT5XJ5ATD6RMYP908WS69FVD"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-03-aws-aws-iot-device-management-adds-mqtt-session-data-t",
-      "date": "2026-06-03",
-      "name": "AWS IoT Device Management adds MQTT session data to connectivity status API",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/iot-device-management/\">AWS IoT Device Management</a> adds MQTT session data to connectivity status API, enabling you to troubleshoot connectivity issues and audit connection patterns a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iot-device-management-mqtt/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-03-aws-amazon-sagemaker-data-agent-now-supports-conversat",
-      "date": "2026-06-03",
-      "name": "Amazon SageMaker Data Agent now supports conversation history",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon SageMaker Data Agent, available in SageMaker Unified Studio now supports conversation history, enabling data practitioners to maintain continuity across analytical sessions. Data analysts and data scientists ca",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-data-agent/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-03-aws-amazon-sagemaker-unified-studio-now-supports-noteb",
-      "date": "2026-06-03",
-      "name": "Amazon SageMaker Unified Studio now supports notebook scheduling",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker Unified Studio now enables you to schedule, parameterize, and orchestrate notebook runs directly from the notebook interface without managing external orchestration infrastructure. This makes it easie",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-unified-studio/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-03-aws-aws-step-functions-adds-agentcore-powered-agentic-",
-      "date": "2026-06-03",
-      "name": "AWS Step Functions adds AgentCore-powered agentic reasoning step",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Step Functions now enables you to add AI agent reasoning steps to your workflow through an optimized integration with the managed harness (currently in preview) in Amazon Bedrock AgentCore. <a href=\"https://aws.am",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-step-functions-agentcore/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-03-aws-openai-gpt-5-4-generally-available-on-amazon-bedro",
-      "date": "2026-06-03",
-      "name": "OpenAI GPT-5.4 generally available on Amazon Bedrock in AWS GovCloud (US-West)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock now supports GPT‑5.4 from OpenAI in AWS GovCloud (US-West) — giving government and regulated industry customers access to OpenAI's most capable frontier model for professional work, backed by the enterp",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/GPT54-available-in-aws-govcloud-us-west/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-03-aws-aws-compute-optimizer-now-supports-32-day-lookback",
-      "date": "2026-06-03",
-      "name": "AWS Compute Optimizer now supports 32-day lookback for EBS volume and ECS service rightsizing recommendations",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Compute Optimizer now lets you extend the lookback period of your Amazon EBS volume and Amazon ECS rightsizing recommendations from the default 14 days to 32 days, at no additional cost. A longer lookback period a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-compute-optimizer-ebs-ecs-32-day-lookback/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-03-aws-amazon-keyspaces-for-apache-cassandra-now-provides",
-      "date": "2026-06-03",
-      "name": "Amazon Keyspaces (for Apache Cassandra) now provides CDC iterator position",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Keyspaces (for Apache Cassandra) now returns an iterator position in the GetRecords response for change data capture (CDC) streams, indicating whether a consumer has reached the tip of the stream or whether add",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/keyspaces-cdc-iterator-position/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-03-aws-amazon-sagemaker-unified-studio-now-supports-a-loc",
-      "date": "2026-06-03",
-      "name": "Amazon SageMaker Unified Studio now supports a localized experience in twelve languages",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker Unified Studio enhanced its global accessibility by introducing support for twelve languages across the user interface. Supported languages include English (American), Chinese (Simplified and Traditio",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/sagemaker-localization"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-03-aws-amazon-sagemaker-ai-launches-multi-turn-reinforcem",
-      "date": "2026-06-03",
-      "name": "Amazon SageMaker AI launches multi-turn reinforcement learning for AI agent model customization",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker AI now offers multi-turn reinforcement learning (RL), a new serverless model customization technique for fine-tuning models on multi-step, agentic tasks.&nbsp;SageMaker AI model customization lets you",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/multi-turn-reinforcement-learning-on-sagemaker-ai/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-03-aws-aws-config-now-supports-9-new-resource-types",
-      "date": "2026-06-03",
-      "name": "AWS Config now supports 9 new resource types",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Config now supports 9 additional AWS resource types across key services including Amazon Bedrock, Amazon Bedrock AgentCore, and Amazon SageMaker. This expansion provides greater coverage over your AWS environment,",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/aws-config-new-resource-types"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-03-aws-amazon-ecs-managed-instances-now-supports-aws-trai",
-      "date": "2026-06-03",
-      "name": "Amazon ECS Managed Instances now supports AWS Trainium and AWS Inferentia",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Elastic Container Service (<a href=\"https://aws.amazon.com/pm/ecs\">Amazon ECS</a>) Managed Instances now supports <a href=\"https://aws.amazon.com/ai/machine-learning/trainium/\">AWS Trainium</a> and <a href=\"htt",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-managed-instances-neuron"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-03-dust-spa-poke-38354ca",
-      "date": "2026-06-03",
-      "name": "spa/poke/38354ca",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[sdks/js] Fix v1 PATCH agent_configurations silently dropping config …</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F38354ca"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-03-dust-spa-poke-8cd0cbb",
-      "date": "2026-06-03",
-      "name": "spa/poke/8cd0cbb",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Correctly classify sidekick message as origin agent_sidekick (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/26715\">#26715</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8cd0cbb"
-        }
-      ],
-      "impact": 3,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
