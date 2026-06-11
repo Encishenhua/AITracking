@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "2026-06-11-aws-openai-gpt-5-4-and-gpt-5-5-models-now-available-in",
+      "date": "2026-06-11",
+      "name": "OpenAI GPT-5.4 and GPT-5.5 models now available in US East (N. Virginia) on Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the expanded availability of OpenAI's GPT-5.4 and GPT-5.5 models, which are now available in the US East (N. Virginia) Region on Amazon Bedrock. With GPT-5.4 and GPT-5.5, you can build generative ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/openai-gpt-us-east-virginia-amazon/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-11-crewai-1-14-7rc2",
+      "date": "2026-06-11",
+      "name": "1.14.7rc2",
+      "vendor": "CrewAI",
+      "type": "launch",
+      "summary": "<h2>What's Changed</h2>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Gate restore on a flag to prevent live snapshots from replaying as resume</li>\n</ul>\n<h3>Documentation</h3>\n<ul>\n<li>Update changelog and version for v1.14.7rc1</li>\n</",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.7rc2"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-06-10-dust-spa-poke-6f79849-front-new-layout-26995",
       "date": "2026-06-10",
       "name": "spa/poke/6f79849: [front] new layout (#26995)",
@@ -29,6 +65,150 @@
         {
           "title": "Dust source",
           "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F6f79849"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-10-openai-access-openai-models-and-codex-through-your-oracle",
+      "date": "2026-06-10",
+      "name": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/openai-on-oracle-cloud"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-10-aws-amazon-ecs-managed-daemons-now-support-inter-task-",
+      "date": "2026-06-10",
+      "name": "Amazon ECS Managed Daemons now support inter-task visibility and communication",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon ECS Managed Daemons now support inter-task visibility and communication, enabling customers to deploy tracing, profiling, and security agents that require access to application processes and shared IPC resource",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ecs-managed-daemons-pid-ipc-modes/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-10-aws-amazon-ec2-m9g-and-m9gd-general-purpose-instances-",
+      "date": "2026-06-10",
+      "name": "Amazon EC2 M9g and M9gd general purpose instances are now available",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) <a href=\"https://aws.amazon.com/ec2/instance-types/m9g/\">M9g and M9gd instances</a>, powered by AWS Graviton5 processors, are generally available. AWS Graviton",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-m9g-m9gd-instances-graviton5-processors-available"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-10-aws-amazon-ec2-p6-b200-instances-are-now-available-in-",
+      "date": "2026-06-10",
+      "name": "Amazon EC2 P6-B200 instances are now available in the AWS GovCloud (US-East) Region",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) P6-B200 instances accelerated by NVIDIA Blackwell GPUs are available in AWS GovCloud (US-East) Region. These instances offer up to 2x performance compared to P",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-p6-b200-aws-govcloud/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-10-dust-spa-poke-2045617-keep-oversized-conversation-files",
+      "date": "2026-06-10",
+      "name": "spa/poke/2045617: Keep oversized conversation files attached (#27096)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>Keep oversized conversation files attached</p>\n</li>\n<li>\n<p>Mark skipped attachments as unsearchable</p>\n</li>\n<li>\n<p>Document skipDataSourceIndexing in ContentFragment swagger schemas</p>\n</li>\n<li>\n<p>De",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2045617"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-10-dust-spa-poke-294e6e2",
+      "date": "2026-06-10",
+      "name": "spa/poke/294e6e2",
+      "vendor": "Dust",
+      "type": "pricing",
+      "summary": "<p>Pricing: Move onboarding questions after the checkout. (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/27136\">#27136</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F294e6e2"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-10-dust-spa-poke-89fa53c",
+      "date": "2026-06-10",
+      "name": "spa/poke/89fa53c",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>GA the defered conversation flow. (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/27114\">#27114</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F89fa53c"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-10-dust-spa-poke-86c6626-front-add-napta-remote-mcp-server",
+      "date": "2026-06-10",
+      "name": "spa/poke/86c6626: [front] Add Napta remote MCP server (#27197)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Register Napta as a default remote MCP server (oauth-dynamic) for<br />\nresource management and staffing, with tool stakes and display labels<br />\nfor its 16 tools. Adds the NaptaLogo across sparkle, the SDK icon<br ",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F86c6626"
         }
       ],
       "impact": 3,
@@ -286,6 +466,24 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-06-09-aws-announcing-metal-48xl-and-metal-96xl-for-amazon-ec",
+      "date": "2026-06-09",
+      "name": "Announcing metal-48xl and metal-96xl for Amazon EC2 network/EBS instances",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS is announcing the general availability of metal-48xl and metal-96xl sizes for Amazon Elastic Compute Cloud (Amazon EC2) M8in, M8ib, M8idn, M8idb, R8in, R8ib, R8idn, and R8idb instances. These instances are powered",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-metal-sizes-network-EBS/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
       "tags": []
     },
     {
@@ -875,204 +1073,6 @@
         {
           "title": "OpenAI source",
           "url": "https://openai.com/index/chatgpt-memory-dreaming"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-04-aws-amazon-sagemaker-data-agent-integrates-business-co",
-      "date": "2026-06-04",
-      "name": "Amazon SageMaker Data Agent integrates business context into conversations",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker Data Agent now integrates with SageMaker Catalog business context and metadata, enabling data practitioners to discover datasets and generate more accurate SQL and Python code using business terminolo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-data-agent-bdc/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-04-aws-amazon-cognito-now-supports-multi-region-replicati",
-      "date": "2026-06-04",
-      "name": "Amazon Cognito now supports multi-Region replication",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Cognito now supports multi-Region replication, enabling you to synchronize user and machine identity data — including credentials, user pool configurations, and federation setups — to a secondary user pool in a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-multi-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-04-aws-aws-databases-on-vercel-now-available-in-additiona",
-      "date": "2026-06-04",
-      "name": "AWS Databases on Vercel now available in additional AWS Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/aurora/\" target=\"_blank\">Amazon Aurora PostgreSQL</a>, <a href=\"https://aws.amazon.com/rds/aurora/dsql/\" target=\"_blank\">Amazon Aurora DSQL</a>, and <a href=\"https://aws.amazon.com/",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-databases-vercel-aws-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-04-aws-amazon-eks-capabilities-now-supports-amazon-cloudw",
-      "date": "2026-06-04",
-      "name": "Amazon EKS Capabilities now supports Amazon CloudWatch Vended Logs",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/eks/\">Amazon Elastic Kubernetes Service</a> (Amazon EKS) Capabilities can now be configured as log delivery sources using Amazon CloudWatch Vended Logs. This enables customers to monito",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-eks-capabilities-logging"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-04-aws-amazon-mq-is-now-available-in-the-aws-european-sov",
-      "date": "2026-06-04",
-      "name": "Amazon MQ is now available in the AWS European Sovereign Cloud (Germany) Region",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>You can now deploy Amazon MQ for RabbitMQ in the AWS European Sovereign Cloud (Germany) Region. This new independent cloud for Europe is located entirely within the EU, designed to help customers in regulated industri",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-mq-eur-sov-cloud"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-04-aws-amazon-bedrock-launches-a-redesigned-console-optim",
-      "date": "2026-06-04",
-      "name": "Amazon Bedrock launches a redesigned console optimized for OpenAI- and Anthropic-compatible APIs",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock is a fully managed service that provides secure, enterprise-grade access to high-performing foundation models from leading AI companies, enabling you to build and scale generative AI applications. Today",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-redesigned-console-optimized-openai-anthropic-compatible-apis/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-04-dust-spa-poke-77862ea-front-redirect-logged-in-users-fr",
-      "date": "2026-06-04",
-      "name": "spa/poke/77862ea: [front] redirect logged-in users from marketing root to the app (#26811)",
-      "vendor": "Dust",
-      "type": "pricing",
-      "summary": "<ul>\n<li>[front] redirect logged-in users from marketing root to the app</li>\n</ul>\n<p>Typing dust.tt when already logged in dumped users on the marketing<br />\nhomepage, forcing an extra \"Open Dust\" click. Now the root ",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F77862ea"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-04-dust-spa-poke-336e07e-front-send-latest-workos-schema-v",
-      "date": "2026-06-04",
-      "name": "spa/poke/336e07e: [front] Send latest WorkOS schema version with audit log events (#26831)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>[front] Send latest WorkOS schema version with audit log events</li>\n</ul>\n<p>WorkOS validates each emitted audit log event against the schema version<br />\nsent in the payload. Without an explicit version, even",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F336e07e"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-04-dust-spa-poke-9d3f57f-support-targeted-instruction-edit",
-      "date": "2026-06-04",
-      "name": "spa/poke/9d3f57f: Support targeted instruction edits in update_skill (#26788)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>Support targeted instruction edits in update_skill</li>\n</ul>\n<p>update_skill previously required passing the full instructions to change<br />\nanything. Add an old_string/new_string/expected_replacements mode s",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9d3f57f"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-04-dust-spa-poke-4f5466d-dsbx-skip-secret-substitution-in-",
-      "date": "2026-06-04",
-      "name": "spa/poke/4f5466d: [dsbx] Skip secret substitution in reflection-prone headers (#26828)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>[dsbx] Skip secret substitution in reflection-prone headers</li>\n</ul>\n<p>A recognized DSEC placeholder placed in a non-credential header (User-Agent,<br />\nOrigin, X-Request-Id, trace headers, ...) was substitu",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F4f5466d"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-04-aws-aws-deadline-cloud-now-supports-plugin-sync-for-se",
-      "date": "2026-06-04",
-      "name": "AWS Deadline Cloud now supports plugin sync for service-managed fleets",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Deadline Cloud now gives you an easier way to deliver plugins to cloud workers when using service-managed fleets. AWS Deadline Cloud is a fully managed service that helps teams run compute-intensive workloads in t",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/deadline-cloud/plugin-sync"
         }
       ],
       "impact": 5,
