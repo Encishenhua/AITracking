@@ -37,6 +37,186 @@
       "tags": []
     },
     {
+      "id": "2026-06-11-openai-openai-to-acquire-ona",
+      "date": "2026-06-11",
+      "name": "OpenAI to acquire Ona",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/openai-to-acquire-ona"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-11-aws-amazon-cloudwatch-application-signals-now-supports",
+      "date": "2026-06-11",
+      "name": "Amazon CloudWatch Application Signals now supports infrastructure, logs, and traces context for faster troubleshooting",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon CloudWatch Application Signals introduces service health ranking on the application map and new infrastructure, logs, and traces tabs on the service overview page. These capabilities let operators triage unheal",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/cloudwatch-application-signals-supports infrastructure-logs-traces-context-for-faster troubleshooting/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-11-aws-amazon-aurora-now-supports-postgresql-major-versio",
+      "date": "2026-06-11",
+      "name": "Amazon Aurora now supports PostgreSQL major version 18",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/aurora/\">Amazon Aurora PostgreSQL-Compatible Edition</a> now supports PostgreSQL major version 18, starting with version 18.3. This release brings community improvements to query pe",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-aurora-postgresql-major-version-18/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-11-aws-aws-elastic-beanstalk-console-now-integrates-cloud",
+      "date": "2026-06-11",
+      "name": "AWS Elastic Beanstalk console now integrates CloudWatch Logs in the Logs tab",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Elastic Beanstalk now provides a CloudWatch Logs integration directly in the environment Logs tab of the Elastic Beanstalk console. Previously, customers had to navigate to the CloudWatch console to find the relev",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/elastic-beanstalk-cloudwatch-logs/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-11-aws-amazon-mwaa-serverless-now-supports-amazon-eventbr",
+      "date": "2026-06-11",
+      "name": "Amazon MWAA Serverless now supports Amazon EventBridge notifications",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Managed Workflows for Apache Airflow (MWAA) Serverless now supports workflow and task state change events to <a href=\"https://aws.amazon.com/eventbridge/\">Amazon EventBridge</a>, enabling data engineering and p",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-mwaa-serverless-eventbridge/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-11-aws-amazon-managed-service-for-prometheus-now-supports",
+      "date": "2026-06-11",
+      "name": "Amazon Managed Service for Prometheus now supports Native Histograms",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/prometheus/\">Amazon Managed Service for Prometheus</a> now supports ingestion, storage, and querying of Prometheus native histograms, enabling customers to capture high-resolution metri",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-managed-service-prometheus-native-histograms/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-11-aws-aws-announces-aws-workload-credentials-provider",
+      "date": "2026-06-11",
+      "name": "AWS announces AWS Workload Credentials Provider",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS announces AWS Workload Credentials Provider, a lightweight client-side provider that automates deployment of exported certificates from AWS Certificate Manager (ACM) and local caching of secrets from AWS Secrets M",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-workload-credentials-provider/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-11-dust-spa-poke-2936ae4",
+      "date": "2026-06-11",
+      "name": "spa/poke/2936ae4",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[Email Agents] Relay disabled-workspace emails to the other region (#…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2936ae4"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-11-dust-spa-poke-2926d26",
+      "date": "2026-06-11",
+      "name": "spa/poke/2926d26",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>[front] fix: propagate skill icon changes to inline references (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/27237\">#27237</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2926d26"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-11-crewai-1-14-7",
+      "date": "2026-06-11",
+      "name": "1.14.7",
+      "vendor": "CrewAI",
+      "type": "launch",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add pluggable default backends for memory, knowledge, rag, and flow.</li>\n<li>Surface real finish_reason, sampling params, and response.id on LLM events.</li>\n<li>Type D",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.7"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-06-10-dust-spa-poke-6f79849-front-new-layout-26995",
       "date": "2026-06-10",
       "name": "spa/poke/6f79849: [front] new layout (#26995)",
@@ -212,6 +392,60 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-10-aws-amazon-opensearch-service-launches-mcp-apps-for-ag",
+      "date": "2026-06-10",
+      "name": "Amazon OpenSearch Service launches MCP Apps for agentic observability",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon OpenSearch Service now supports MCP Apps, bringing observability workflows directly into compatible agentic IDEs such as Claude Desktop and VS Code. With this capability, your AI agent in local environment can ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/opensearch-agentic-observability-mcp-app"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-10-aws-gemma-4-models-now-available-on-amazon-bedrock",
+      "date": "2026-06-10",
+      "name": "Gemma 4 models now available on Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS announces the availability of the Gemma 4 family of open-weight models from Google DeepMind on <a href=\"https://aws.amazon.com/bedrock/\">Amazon Bedrock</a>. With Gemma 4, you can build generative AI applica",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/gemma-4-amazon-bedrock/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-10-aws-amazon-virtual-private-cloud-vpc-flow-logs-introdu",
+      "date": "2026-06-10",
+      "name": "Amazon Virtual Private Cloud (VPC) Flow Logs introduces additional metadata",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Virtual Private Cloud (VPC) Flow Logs now supports EC2 resource tags and next-hop interface metadata, simplifying network monitoring and troubleshooting by eliminating the need to manually correlate flow log da",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-flow-logs-metadata"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -842,240 +1076,6 @@
         }
       ],
       "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-05-aws-amazon-bedrock-agentcore-runtime-introduces-intera",
-      "date": "2026-06-05",
-      "name": "Amazon Bedrock AgentCore Runtime introduces interactive shells for terminal access into agent sessions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock AgentCore Runtime now supports interactive shells through a new InvokeAgentRuntimeCommandShell API, opening a persistent, PTY-backed terminal directly into a running agent session over WebSocket. This c",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-runtime/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-05-aws-amazon-opensearch-ui-is-now-available-in-govcloud-",
-      "date": "2026-06-05",
-      "name": "Amazon OpenSearch UI is now available in GovCloud regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon OpenSearch Service expands its modernized operational analytics experience to GovCloud regions, including AWS GovCloud (US-East) and AWS GovCloud (US-West), enabling users to gain insights across data spanning ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/opensearch-ui-govcloud-region"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-05-aws-amazon-ecs-with-aws-fargate-now-supports-32vcpu-co",
-      "date": "2026-06-05",
-      "name": "Amazon ECS with AWS Fargate now supports 32vCPU compute configurations",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Elastic Container Service (Amazon ECS) with AWS Fargate now supports 32vCPU compute configurations, enabling customers to run more demanding applications with greater flexibility and performance. AWS Fargate of",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-fargate-32vcpu"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-05-aws-the-aws-mcp-server-now-supports-cross-account-and-",
-      "date": "2026-06-05",
-      "name": "The AWS MCP Server now supports cross-account and cross-role access",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Today, AWS announced cross-account and cross-role access for the AWS Model Context Protocol (MCP) Server, part of the <a href=\"https://aws.amazon.com/products/developer-tools/agent-toolkit-for-aws/\">Agent Toolkit for ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-mcp-server/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-05-dust-spa-poke-919e676-add-dust-support-skill-26876",
-      "date": "2026-06-05",
-      "name": "spa/poke/919e676: Add Dust Support skill (#26876)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>Add Dust Support skill</p>\n</li>\n<li>\n<p>Fix workspace SWR formatting</p>\n</li>\n<li>\n<p>Clarify support skill workspace knowledge</p>\n</li>\n<li>\n<p>Address support skill review nits</p>\n</li>\n<li>\n<p>Remove ",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F919e676"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-05-dust-spa-poke-761bfc7",
-      "date": "2026-06-05",
-      "name": "spa/poke/761bfc7",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] Attribute sub-agent usage to the originating API key (attribu…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F761bfc7"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-05-dust-spa-poke-91ba5c2-front-improve-agent-skill-search-",
-      "date": "2026-06-05",
-      "name": "spa/poke/91ba5c2: [front] improve agent/skill search   (#26855)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>fix search</p>\n</li>\n<li>\n<p>skills search</p>\n</li>\n<li>\n<p>format</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F91ba5c2"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-05-dust-spa-poke-05d74e9-fix-front-api-gate-regionalmodels",
-      "date": "2026-06-05",
-      "name": "spa/poke/05d74e9: fix(front-api): gate regionalModelsOnly toggle in Hono handler (#26860)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>The regionalModelsOnly guard that blocks enabling the setting when active<br />\nagents use non-regional models only existed in the Next handler, which is<br />\nno longer the one serving the request (MIGRATED_TO_HONO).",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F05d74e9"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-05-aws-amazon-ec2-c8in-instances-are-now-available-in-add",
-      "date": "2026-06-05",
-      "name": "Amazon EC2 C8in instances are now available in additional regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8in instances are available in the AWS&nbsp;Asia Pacific (Sydney, Singapore, Malaysia) and Europe (Frankfurt) regions. C8in instances are powered by custom, s",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c8in-asia-pacific-europe/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-05-aws-the-aws-command-line-interface-cli-now-supports-th",
-      "date": "2026-06-05",
-      "name": "The AWS Command Line Interface (CLI) now supports the Agent Toolkit for AWS",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Today, AWS announced that the AWS Command Line Interface (CLI) allows users to install the <a href=\"https://aws.amazon.com/products/developer-tools/agent-toolkit-for-aws/\">Agent Toolkit for AWS</a>&nbsp;across multipl",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cli-agent-toolkit/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-04-openai-increased-latency-for-codex-compaction-for-a-subse",
-      "date": "2026-06-04",
-      "name": "Increased latency for Codex compaction for a subset of users",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Identified</b><br /><br />We have identified that users are experiencing elevated latency for the impacted services.\n\nWe are working on implementing a mitigation.<br /><br /><b>Affected components</b>\n        ",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KT890WC7YQYMX39GY5VG9QAB"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-04-openai-how-endava-is-redesigning-software-delivery-around",
-      "date": "2026-06-04",
-      "name": "How Endava is redesigning software delivery around AI agents",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/endava-frontiers"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-04-openai-dreaming-better-memory-for-a-more-helpful-chatgpt",
-      "date": "2026-06-04",
-      "name": "Dreaming: Better memory for a more helpful ChatGPT",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/chatgpt-memory-dreaming"
-        }
-      ],
-      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
