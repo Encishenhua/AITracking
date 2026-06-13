@@ -1,6 +1,204 @@
 {
   "items": [
     {
+      "id": "2026-06-13-dust-spa-poke-77192f6",
+      "date": "2026-06-13",
+      "name": "spa/poke/77192f6",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Move dust mcp server back to stateless. (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/27342\">#27342</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F77192f6"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-13-dust-spa-app-77192f6",
+      "date": "2026-06-13",
+      "name": "spa/app/77192f6",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Move dust mcp server back to stateless. (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/27342\">#27342</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F77192f6"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-12-openai-new-openai-academy-courses-for-the-next-era-of-wor",
+      "date": "2026-06-12",
+      "name": "New OpenAI Academy courses for the next era of work",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/academy-courses-applying-ai-at-work"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-12-aws-amazon-lightsail-is-now-available-in-three-additio",
+      "date": "2026-06-12",
+      "name": "Amazon Lightsail is now available in three additional AWS Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Lightsail is available in three additional AWS Regions: Asia Pacific (Hong Kong), South America (São Paulo), and Europe (Spain). This expansion brings the power and simplicity of Lightsail to cu",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-lightsail-aws-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-12-aws-sagemaker-ai-now-supports-serverless-fine-tuning-f",
+      "date": "2026-06-12",
+      "name": "SageMaker AI now supports serverless fine-tuning for NVIDIA Nemotron models",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker AI now supports serverless model customization for NVIDIA Nemotron 3 Nano model using supervised fine-tuning (SFT) and reinforcement fine-tuning (RFT). This is a popular open-weight model from NVIDIA ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ft-nemotron-3/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-12-aws-amazon-ec2-capacity-blocks-for-ml-is-now-available",
+      "date": "2026-06-12",
+      "name": "Amazon EC2 Capacity Blocks for ML is now available in AWS GovCloud (US) Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon EC2 Capacity Blocks for ML is now available in AWS GovCloud (US-West) and AWS GovCloud (US-East), enabling government and regulated-industry customers to reserve GPU capacity for machine learning workloads.</p>",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-capacity-blocks-ml-govcloud/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-12-dust-spa-poke-784973f-add-workspace-branding-management",
+      "date": "2026-06-12",
+      "name": "spa/poke/784973f:  Add workspace branding management for Branded Frames (#27275)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>Add workspace branding management for Branded Frames</p>\n</li>\n<li>\n<p>Add missing import.</p>\n</li>\n<li>\n<p>🐒</p>\n</li>\n<li>\n<p>🪵</p>\n</li>\n<li>\n<p>Address comments from review</p>\n</li>\n<li>\n<p>🪵</p>\n</li>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F784973f"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-12-dust-spa-poke-356a5d3-front-add-get-source-breakdown-to",
+      "date": "2026-06-12",
+      "name": "spa/poke/356a5d3: [front] Add get_source_breakdown tool to workspace_analytics (#27284)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>The source filter only narrows to one origin, so the agent could not<br />\nenumerate the workspace's sources (it missed origins like Trigger). Add a<br />\nget_source_breakdown tool backed by the existing fetchContextO",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F356a5d3"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-12-dust-spa-poke-81ac9b5",
+      "date": "2026-06-12",
+      "name": "spa/poke/81ac9b5",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Create auto MCP server views just in time instead of backfilling all …</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F81ac9b5"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-12-dust-spa-poke-77a94b2",
+      "date": "2026-06-12",
+      "name": "spa/poke/77a94b2",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] Un-retire dust-soupinou agents, bind to new custom model (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/issues/27\">#27</a>…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F77a94b2"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-12-dust-spa-poke-23ba09e",
+      "date": "2026-06-12",
+      "name": "spa/poke/23ba09e",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Add workspace_branding file upload use case with SVG rasterization (#…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F23ba09e"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-06-11-aws-openai-gpt-5-4-and-gpt-5-5-models-now-available-in",
       "date": "2026-06-11",
       "name": "OpenAI GPT-5.4 and GPT-5.5 models now available in US East (N. Virginia) on Amazon Bedrock",
@@ -214,6 +412,60 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-06-11-aws-amazon-ec2-high-memory-u7i-8tb-instances-now-avail",
+      "date": "2026-06-11",
+      "name": "Amazon EC2 High Memory U7i-8TB instances now available in AWS Europe (Paris) region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon EC2 High Memory U7i-8TB instances (u7i-8tb.112xlarge) are now available in AWS Europe (Paris) region. U7i instances are part of the AWS 7th generation and are powered by custom fourth-generation Intel Xeon Scal",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-u7i-8tb-europe-paris/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-11-aws-amazon-quick-now-integrates-with-snowflake-cortex-",
+      "date": "2026-06-11",
+      "name": "Amazon Quick now integrates with Snowflake Cortex AI",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Quick now integrates with Snowflake Cortex AI through the Model Context Protocol (MCP), enabling teams to query their Snowflake data and documents using natural language, and automate multi-step workflows direc",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-snowflake-cortex-ai/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-11-aws-amazon-eks-now-supports-local-clusters-on-aws-outp",
+      "date": "2026-06-11",
+      "name": "Amazon EKS now supports local clusters on AWS Outposts with Amazon EC2 instance store",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS is expanding support for Amazon Elastic Kubernetes Service (EKS) local clusters on AWS Outposts to first-generation and second-generation AWS Outposts racks running Amazon EC2 instances that boot from Amazo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-eks-aws-outposts-ec2-instance-store/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
       "tags": []
     },
     {
@@ -824,258 +1076,6 @@
         }
       ],
       "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-08-aws-amazon-connect-customer-now-offers-ai-agent-trace-",
-      "date": "2026-06-08",
-      "name": "Amazon Connect Customer now offers AI agent trace details for self-service voice interactions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect Customer now provides AI agent traces for self-service voice interactions, enabling you to understand how AI agents reason, act, and respond during each customer conversation. With this launch, you have",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect-ai-agent-traces/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-08-aws-amazon-redshift-reduces-manual-snapshot-cost-for-s",
-      "date": "2026-06-08",
-      "name": "Amazon Redshift reduces manual snapshot cost for Serverless and RG instances",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/redshift/\">Amazon Redshift</a> announces a new billing model for manual snapshots on <a href=\"https://aws.amazon.com/redshift/redshift-serverless/\">Amazon Redshift Serverless</a> and <a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-redshift-incremental-manual-snapshots/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-08-aws-amazon-rds-for-sql-server-migration-cost-assessmen",
-      "date": "2026-06-08",
-      "name": "Amazon RDS for SQL Server migration cost assessment capabilities now available in AWS Transform",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><b>Amazon RDS for SQL Server</b> now offers TCO assessment in AWS Transform, so you can estimate costs when migrating on-premises SQL Server databases to RDS for SQL Server. Using AI-powered agents, AWS Transform anal",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-sql-server-cost-assessment-aws-transform/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-08-dust-spa-poke-98550a7-trim-custom-model-dust-agents-to-",
-      "date": "2026-06-08",
-      "name": "spa/poke/98550a7: Trim custom-model dust agents to chawi and lionel (#26990)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Reduced the infra custom-models config to two entries: the model at<br />\nindex 0 (used by dust-chawi) and the model at index 1 (used by<br />\ndust-lionel). Removed the four other eval models.</p>\n<p>dust-chawi now us",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F98550a7"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-08-dust-spa-poke-906a838-front-sparkle-new-navigation-tabs",
-      "date": "2026-06-08",
-      "name": "spa/poke/906a838: [front & sparkle] New Navigation tabs  (#26960)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>\n<p>add navtabpill</p>\n</li>\n<li>\n<p>add motion reduce</p>\n</li>\n<li>\n<p>submenu</p>\n</li>\n<li>\n<p>use touchhitbox</p>\n</li>\n<li>\n<p>format</p>\n</li>\n<li>\n<p>minimize button</p>\n</li>\n<li>\n<p>format</p>\n</li>\n<l",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F906a838"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-08-dust-spa-poke-272b87c-fix-use-correct-gamma-mcp-endpoin",
-      "date": "2026-06-08",
-      "name": "spa/poke/272b87c:  fix: use correct Gamma MCP endpoint path /mcp (#27023)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>Co-authored-by: Anya Andrews <a href=\"mailto:anyaandrews@Anyas-MacBook-Air.local\">anyaandrews@Anyas-MacBook-Air.local</a><br />\nCo-authored-by: Claude Sonnet 4.6 <a href=\"mailto:noreply@anthropic.com\">noreply@anthropi",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F272b87c"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-08-dust-spa-poke-3ca8d83-remove-decommissioned-deepseek-r1",
-      "date": "2026-06-08",
-      "name": "spa/poke/3ca8d83: Remove decommissioned DeepSeek R1 models (#26958)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>Remove decommissioned DeepSeek R1 models</li>\n</ul>\n<p>DeepSeek R1 has been decommissioned across Fireworks, TogetherAI, and the<br />\nDeepSeek API. Drop all three model configs and the DeepSeek R1 global agent,",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F3ca8d83"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-07-dust-spa-poke-615ae75",
-      "date": "2026-06-07",
-      "name": "spa/poke/615ae75",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>Remove legacy shared Frames useFile policy (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/26913\">#26913</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F615ae75"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-07-dust-spa-poke-366d0be-front-feat-none-seat-type-message",
-      "date": "2026-06-07",
-      "name": "spa/poke/366d0be: [front] feat: none seat type + message-send gate (#26798)",
-      "vendor": "Dust",
-      "type": "pricing",
-      "summary": "<ul>\n<li>[front] feat: none seat type + message-send gate</li>\n</ul>\n<p>Add <code>none</code> to MEMBERSHIP_SEAT_TYPES for members who hold no billable seat.</p>\n<p>Backend gate: <code>checkMessagesLimit</code> (called b",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F366d0be"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-07-dust-spa-poke-315db38-front-feat-none-seat-type-seat-re",
-      "date": "2026-06-07",
-      "name": "spa/poke/315db38: [front] feat: none seat type + seat removal from usage page (#26824)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>[front] feat: none seat type + seat removal from usage page</li>\n</ul>\n<p>Adds <code>none</code> to MEMBERSHIP_SEAT_TYPES for members who hold no billable<br />\nseat (every tier at its configured max when they j",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F315db38"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-07-dust-spa-app-615ae75",
-      "date": "2026-06-07",
-      "name": "spa/app/615ae75",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>Remove legacy shared Frames useFile policy (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/26913\">#26913</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F615ae75"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-07-dust-spa-app-366d0be-front-feat-none-seat-type-message-",
-      "date": "2026-06-07",
-      "name": "spa/app/366d0be: [front] feat: none seat type + message-send gate (#26798)",
-      "vendor": "Dust",
-      "type": "pricing",
-      "summary": "<ul>\n<li>[front] feat: none seat type + message-send gate</li>\n</ul>\n<p>Add <code>none</code> to MEMBERSHIP_SEAT_TYPES for members who hold no billable seat.</p>\n<p>Backend gate: <code>checkMessagesLimit</code> (called b",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F366d0be"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-07-dust-spa-app-315db38-front-feat-none-seat-type-seat-rem",
-      "date": "2026-06-07",
-      "name": "spa/app/315db38: [front] feat: none seat type + seat removal from usage page (#26824)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>[front] feat: none seat type + seat removal from usage page</li>\n</ul>\n<p>Adds <code>none</code> to MEMBERSHIP_SEAT_TYPES for members who hold no billable<br />\nseat (every tier at its configured max when they j",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F315db38"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-06-dust-spa-poke-cfc62dc-email-agents-prefer-priority-work",
-      "date": "2026-06-06",
-      "name": "spa/poke/cfc62dc: [Email Agents] Prefer priority workspace for routing (#26891)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>Prioritize Dust workspace for email agents</p>\n</li>\n<li>\n<p>Use workspace id naming in email priority list</p>\n</li>\n<li>\n<p>Fix email agent test discovery</p>\n</li>\n<li>\n<p>Delete front-api/vite.config.mjs",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fcfc62dc"
-        }
-      ],
-      "impact": 3,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
