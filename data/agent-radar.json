@@ -1,6 +1,348 @@
 {
   "items": [
     {
+      "id": "2026-06-15-openai-fedramp-workspaces-and-api-orgs-have-degraded-perf",
+      "date": "2026-06-15",
+      "name": "FedRAMP workspaces and API orgs have degraded performance",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Investigating</b><br /><br />We are investigating the issue for the listed services.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>FedRAMP (Degraded performance)</li>\n          </ul>",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KV6NGBYE50GK3TRXHD2EMTXA"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-15-aws-aws-management-console-private-access-now-works-wi",
+      "date": "2026-06-15",
+      "name": "AWS Management Console Private Access now works without internet connectivity",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Management Console Private Access now enables customers to access the AWS Console from VPCs without internet connectivity, allowing enterprises to manage their AWS infrastructure through the console while maintain",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-management-console-private/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-15-aws-amazon-bedrock-agentcore-memory-now-supports-stric",
+      "date": "2026-06-15",
+      "name": "Amazon Bedrock AgentCore Memory now supports strictly consistent metadata for long-term memory",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock AgentCore Memory extracts useful information from short-term memory and stores it as long-term memory records. Metadata on these records helps organize, filter, and route them for retrieval. Previously,",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/agentcore-memory-scmetadata"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-15-aws-amazon-cloudwatch-introduces-log-analytics-for-uni",
+      "date": "2026-06-15",
+      "name": "Amazon CloudWatch introduces Log Analytics for unified log analysis",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon CloudWatch now offers Log Analytics, a unified console experience that brings together CloudWatch Logs Insights for querying and analyzing log data, Live Tail for real-time log streaming, and Contributor Insigh",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-log-analytics/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-15-aws-amazon-route-53-resolver-dns-firewall-now-supports",
+      "date": "2026-06-15",
+      "name": "Amazon Route 53 Resolver DNS Firewall now supports Palo Alto Networks Advanced DNS Security (Preview)",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Web Services announces the preview of Palo Alto Networks (PANW) Advanced DNS Security on Amazon Route 53 Resolver DNS Firewall. Security administrators can now enforce DNS threat protections from Palo Alto Netw",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-route-53-resolver-dns/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-15-aws-aws-launches-cost-explorer-historical-data-retenti",
+      "date": "2026-06-15",
+      "name": "AWS launches Cost Explorer historical data retention for accounts in billing groups",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS announces Cost Explorer historical data retention for accounts in billing groups. &nbsp;</p> \n<p>Customers can use AWS Billing Conductor and Billing Transfer to map accounts to billing groups, enabling them",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cost-explorer/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-15-aws-aws-lambda-managed-instances-now-supports-tag-prop",
+      "date": "2026-06-15",
+      "name": "AWS Lambda Managed Instances now supports Tag Propagation for Managed Resources",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Lambda Managed Instances (LMI) now supports tag propagation, enabling you to automatically apply tags to managed resources such as Amazon EC2 instances, Amazon EBS volumes, and Amazon ENIs. This helps you enforce ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lambda-managed-instances-tag-propagation/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-15-aws-aws-devops-agent-expands-with-custom-sre-agents-an",
+      "date": "2026-06-15",
+      "name": "AWS DevOps Agent expands with custom SRE agents and MCP/A2A protocols",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS DevOps Agent now supports custom SRE agents, bring-your-own sub-agents, and headless access via MCP and A2A protocols. These capabilities enable teams to automate recurring SRE workflows, extend DevOps Agent by co",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-devops-agent-custom-agents/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-15-aws-amazon-ec2-c8i-instances-are-now-available-in-euro",
+      "date": "2026-06-15",
+      "name": "Amazon EC2 C8i instances are now available in Europe (Stockholm) region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8i instances are available in the Europe (Stockholm) region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c8i-instances-europe-stockholm-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-15-aws-amazon-ec2-c7i-instances-are-now-available-in-the-",
+      "date": "2026-06-15",
+      "name": "Amazon EC2 C7i instances are now available in the Israel (Tel Aviv) region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C7i instances powered by custom 4th Gen Intel Xeon Scalable processors (code-named Sapphire Rapids) are available in the Israel (Tel Aviv) Region. C7i instance",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c7i-instances-israel-tel-aviv-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-15-aws-aws-waf-announces-ai-traffic-monetization",
+      "date": "2026-06-15",
+      "name": "AWS WAF announces AI traffic monetization",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS WAF announced AI traffic monetization, a new Bot Control capability that lets you price, meter, and collect payment from AI bots and agents accessing your content and APIs. As AI agents increasingly support",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-waf-ai-traffic-monetization/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-15-aws-amazon-cloudwatch-now-supports-cross-account-metri",
+      "date": "2026-06-15",
+      "name": "Amazon CloudWatch now supports cross-account metrics centralization",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, Amazon Web Services announces the general availability of Amazon CloudWatch Metrics Centralization, which enables you to replicate CloudWatch metrics cross-account and cross-region into a single destination acc",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cross-account-metrics-centralization"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-15-aws-amazon-cloudwatch-query-studio-is-now-generally-av",
+      "date": "2026-06-15",
+      "name": "Amazon CloudWatch Query Studio is now generally available",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, Amazon Web Services announces the general availability of Amazon CloudWatch Query Studio, a unified querying and visualization experience that enables you to explore metrics from a single interface within the C",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-query-studio-generally-available"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-15-aws-free-network-bandwidth-amazon-gamelift-servers-is-",
+      "date": "2026-06-15",
+      "name": "Free Network Bandwidth Amazon GameLift Servers is Here!",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon GameLift Servers provides network bandwidth in and out of AWS at no additional charge for all instance types from generation 6 and later, including On-Demand and Spot, with no commitment require",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-gamelift-servers-free-network-bandwidth"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-15-aws-amazon-rds-for-mariadb-supports-long-term-support-",
+      "date": "2026-06-15",
+      "name": "Amazon RDS for MariaDB supports Long-Term Support version 12.3 in Amazon RDS Database Preview Environment",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/mariadb/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon RDS for MariaDB</a>&nbsp;now supports MariaDB 12.3 in the&nbsp;<a href=\"https://aws.amazon.com/rds/databasepreview/\" rel=\"",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-maria-db-innovation-release-12-3-rds-database-preview-environment/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-15-aws-amazon-rds-for-mysql-announces-extended-support-mi",
+      "date": "2026-06-15",
+      "name": "Amazon RDS for MySQL announces Extended Support minor version 5.7.44-RDS.20260521",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/mysql/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for MySQL</a>&nbsp;now supports new Amazon RDS Extended Support minor version 5.7.4",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-mysql-extended-support-minor-5744-rds/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-15-aws-amazon-rds-for-mariadb-now-supports-community-mari",
+      "date": "2026-06-15",
+      "name": "Amazon RDS for MariaDB now supports community MariaDB minor versions 10.6.27, 10.11.18, 11.4.12, and 11.8.8",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/mariadb/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for MariaDB</a>&nbsp;now supports community MariaDB minor versions 10.6.27, 10.11",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-mariadb-community-versions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-15-dust-spa-poke-d36cdc7",
+      "date": "2026-06-15",
+      "name": "spa/poke/d36cdc7",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] BillingPage: dedicated layout for free plan workspaces (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/27372\">#27372</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fd36cdc7"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-15-dust-spa-app-d36cdc7",
+      "date": "2026-06-15",
+      "name": "spa/app/d36cdc7",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] BillingPage: dedicated layout for free plan workspaces (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/27372\">#27372</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2Fd36cdc7"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-06-13-dust-spa-poke-77192f6",
       "date": "2026-06-13",
       "name": "spa/poke/77192f6",
@@ -731,348 +1073,6 @@
         {
           "title": "OpenAI source",
           "url": "https://openai.com/index/nextdoor"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-09-aws-amazon-sagemaker-unified-studio-notebooks-now-supp",
-      "date": "2026-06-09",
-      "name": "Amazon SageMaker Unified Studio Notebooks now support EMR Serverless",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker Unified Studio Notebooks now support Amazon EMR Serverless with Apache Spark Connect, giving data engineers and analysts more flexibility in choosing their Spark runtime for interactive analytics and ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-unified-studio-emr/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-09-aws-amazon-s3-access-grants-are-now-available-in-the-a",
-      "date": "2026-06-09",
-      "name": "Amazon S3 Access Grants are now available in the AWS European Sovereign Cloud (Germany) Region",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>You can now create Amazon S3 Access Grants in the AWS European Sovereign Cloud (Germany) Region.</p> \n<p>Amazon S3 Access Grants map identities in directories such as Microsoft Entra ID, or AWS Identity and Access Man",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-s3-access-grants-european-sovereign-cloud-germany-region"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-09-aws-aws-finops-agent-is-now-available-in-preview",
-      "date": "2026-06-09",
-      "name": "AWS FinOps Agent is now available in preview",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the preview of AWS FinOps Agent, a frontier agent for FinOps practitioners and engineering teams that answers cost questions, surfaces optimization opportunities, automatically investigates cost a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-finops-agent-preview/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-09-aws-aws-announces-claude-fable-5-the-first-generally-a",
-      "date": "2026-06-09",
-      "name": "AWS announces Claude Fable 5, the first generally available Mythos-class model",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Claude Fable 5 is generally available on AWS and makes Mythos-level capabilities available to all customers, with strong safeguards designed to make it safe for broader use. Fable 5 is state-of-the-art on nearly all t",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/claude-fable-5-aws/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-09-aws-aws-backup-support-for-amazon-eks-is-now-available",
-      "date": "2026-06-09",
-      "name": "AWS Backup support for Amazon EKS is now available in the AWS European Sovereign Cloud (Germany) Region",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS Backup support for Amazon Elastic Kubernetes Service (EKS) is now available in the AWS European Sovereign Cloud (Germany) Region. This expansion brings fully-managed, policy-based data protection and recovery to y",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-backup-amazon-eks-aws-european-sovereign-cloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-09-aws-run-interactive-workloads-on-amazon-emr-serverless",
-      "date": "2026-06-09",
-      "name": "Run Interactive Workloads on Amazon EMR Serverless with Spark Connect",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon EMR Serverless now supports interactive sessions with Spark Connect, enabling you to develop and run Apache Spark applications from managed notebooks in Amazon SageMaker Unified Studio, as well as your favorite",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-emr-serverless-spark-connect"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-09-aws-aws-cost-explorer-launches-intelligent-cost-explan",
-      "date": "2026-06-09",
-      "name": "AWS Cost Explorer launches intelligent cost explanations powered by Amazon Q",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Cost Explorer now supports 'Analyze with Amazon Q', a new capability that delivers comprehensive cost explanations for any report you configure in Cost Explorer. With a single button click you now can receive deta",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cost-explorer-intelligent-cost-explanations"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-09-dust-spa-poke-4611a0a-front-add-claude-fable-5-behind-a",
-      "date": "2026-06-09",
-      "name": "spa/poke/4611a0a: [front] Add claude-fable-5 behind a dust-only feature flag (#27113)",
-      "vendor": "Dust",
-      "type": "pricing",
-      "summary": "<ul>\n<li>[front] add claude-fable-5 behind a dust-only feature flag</li>\n</ul>\n<p>Adds the GA claude-fable-5 model (config, pricing, registry, router<br />\nwhitelist, SDK types, UI config, tests) following the Opus 4.8 p",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F4611a0a"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-09-dust-spa-poke-890d30d-front-use-opus-4-8-for-deep-dive-",
-      "date": "2026-06-09",
-      "name": "spa/poke/890d30d: [front] Use Opus 4.8 for deep-dive on Opus-enabled workspaces (#27089)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Co-authored-by: Henry Fontanier <a href=\"mailto:14199823+fontanierh@users.noreply.github.com\">14199823+fontanierh@users.noreply.github.com</a></p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F890d30d"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-09-dust-spa-poke-531af36",
-      "date": "2026-06-09",
-      "name": "spa/poke/531af36",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>[front] checkout: bypass payment-gated commit when amount is 0 (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/27059\">#27059</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F531af36"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-09-dust-spa-poke-80c64d7",
-      "date": "2026-06-09",
-      "name": "spa/poke/80c64d7",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] Auto-enable Computer skill for all agents when sandbox_tools …</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F80c64d7"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-09-crewai-1-14-7a4",
-      "date": "2026-06-09",
-      "name": "1.14.7a4",
-      "vendor": "CrewAI",
-      "type": "launch",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Migrate @listen/<a class=\"user-mention notranslate\" href=\"https://github.com/router\">@router</a> runtime to read from FlowDefinition</li>\n<li>Add pluggable default backe",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.7a4"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-06-09-aws-announcing-metal-48xl-and-metal-96xl-for-amazon-ec",
-      "date": "2026-06-09",
-      "name": "Announcing metal-48xl and metal-96xl for Amazon EC2 network/EBS instances",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS is announcing the general availability of metal-48xl and metal-96xl sizes for Amazon Elastic Compute Cloud (Amazon EC2) M8in, M8ib, M8idn, M8idb, R8in, R8ib, R8idn, and R8idb instances. These instances are powered",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-metal-sizes-network-EBS/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-08-aws-aws-compute-optimizer-now-supports-idle-recommenda",
-      "date": "2026-06-08",
-      "name": "AWS Compute Optimizer now supports idle recommendations for six additional resource types",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Compute Optimizer now identifies idle resources for Amazon DynamoDB provisioned tables, Amazon ElastiCache (Redis and Valkey), Amazon MemoryDB, Amazon DocumentDB (provisioned and serverless), Amazon WorkSpaces, an",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-compute-optimizer-six-new-idle"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-08-aws-amazon-documentdb-now-supports-engine-minor-versio",
-      "date": "2026-06-08",
-      "name": "Amazon DocumentDB now supports engine minor version starting with 5.0.1",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon DocumentDB (with MongoDB compatibility) now supports engine minor versions, starting with 5.0.1. This release delivers enhanced aggregation capabilities with new operators ($rand, $pow, $dateToParts, $dateFromP",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-documentdb-engine-minor-version-5-0-1/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-08-aws-postgresql-19-beta-1-is-now-available-in-amazon-rd",
-      "date": "2026-06-08",
-      "name": "PostgreSQL 19 Beta 1 is now available in Amazon RDS Database Preview Environment",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/postgresql/\">Amazon RDS for PostgreSQL</a> 19 Beta 1 is now available in the <a href=\"https://aws.amazon.com/rds/databasepreview/\">Amazon RDS Database Preview Environment</a>, allow",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/postgresql-19-beta-1-amazon-rds-database-preview-environment/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-08-aws-aws-lambda-managed-instances-expands-to-additional",
-      "date": "2026-06-08",
-      "name": "AWS Lambda Managed Instances expands to additional AWS Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Lambda Managed Instances (LMI) is now available in all commercial AWS Regions, except Israel (Tel Aviv), Middle East (Bahrain), Middle East (UAE), and Asia Pacific (Auckland). &nbsp;</p> \n<p>LMI lets you run Lambd",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lambda-managed-instances-region-expansion/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-08-aws-aws-application-migration-service-is-now-aws-trans",
-      "date": "2026-06-08",
-      "name": "AWS Application Migration Service is now AWS Transform MGN",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS Application Migration Service (MGN) is now available as <b>AWS Transform MGN</b>. This name change reflects MGN's role as the proven replication engine powering AWS Transform, the agentic migration service.<br /> ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-mgn-rebrand/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-08-aws-aws-now-provides-ai-powered-cost-investigations-fo",
-      "date": "2026-06-08",
-      "name": "AWS now provides AI-powered cost investigations for cost anomalies",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/aws-cost-management/aws-cost-anomaly-detection/\">AWS Cost Anomaly Detection</a> now includes AI-powered cost investigation, which uses Amazon Q to analyze the root cause of detected cos",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-ai-powered-cost-investigations/"
         }
       ],
       "impact": 5,
