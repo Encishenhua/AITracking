@@ -1,6 +1,456 @@
 {
   "items": [
     {
+      "id": "2026-06-17-openai-fedramp-workspaces-and-api-orgs-have-degraded-perf",
+      "date": "2026-06-17",
+      "name": "FedRAMP workspaces and API orgs have degraded performance",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Investigating</b><br /><br />We are still investigating the issue for the listed services.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>FedRAMP (Degraded performance)</li>\n          </ul>",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KV6NGBYE50GK3TRXHD2EMTXA"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-16-aws-amazon-bedrock-guardrails-announces-a-new-api-targ",
+      "date": "2026-06-16",
+      "name": "Amazon Bedrock Guardrails announces a new API targeting agentic AI workflows",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/bedrock/guardrails/\">Amazon Bedrock Guardrails</a> now offers the InvokeGuardrailChecks API, a new resourceless API that lets you apply individual safeguards at any point in your agenti",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-guardrails-api-ai/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-16-aws-aws-transform-now-supports-model-to-model-migratio",
+      "date": "2026-06-16",
+      "name": "AWS Transform now supports model-to-model migration assessment for generative AI workloads",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Transform now offers a model-to-model migration custom transformation that assesses your generative AI workloads and produces a comprehensive migration plan for moving from third-party providers to Amazon Bedrock.",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-model-to-model-assessments"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-16-aws-amazon-s3-vectors-now-supports-up-to-10-000-simila",
+      "date": "2026-06-16",
+      "name": "Amazon S3 Vectors now supports up to 10,000 similarity search results per query",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon S3 Vectors can now return up to 10,000 similarity search results per query, a 100x increase from the previous limit.&nbsp;The higher result limit helps you retrieve a larger, more comprehensive set of candidate",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/s3-vectors-supports-10000-search-results-per-query"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-16-aws-aws-transform-for-mainframe-now-delivers-a-traceab",
+      "date": "2026-06-16",
+      "name": "AWS Transform for mainframe now delivers a traceable reimagine workflow",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Transform for mainframe now delivers a connected, traceable reimagine experience from assessment through code generation. Previously, modernizing mainframe applications required months of analysis across multiple ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-mainframe-traceable-reimagine-workflow/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-16-aws-aws-sign-in-now-supports-resource-based-policies-a",
+      "date": "2026-06-16",
+      "name": "AWS Sign-in now supports resource-based policies and resource control policies",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Sign-in now supports resource-based policies and resource control policies (RCPs) for the AWS Management Console. You can use these policies to restrict console sign-in to expected networks. Policies are evaluated",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-sign-in/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-16-aws-amazon-redshift-rg-instances-powered-by-aws-gravit",
+      "date": "2026-06-16",
+      "name": "Amazon Redshift RG instances powered by AWS Graviton now available in additional regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Redshift is expanding the general availability of <a href=\"https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-redshift-rg-instances-powered-by-graviton/\">RG instances</a> — powered by AWS Graviton proces",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-redshift-rg-instances-3-additional-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-16-aws-aws-announces-aws-blocks-an-open-source-framework-",
+      "date": "2026-06-16",
+      "name": "AWS announces AWS Blocks, an open-source framework for composing application backends on AWS (Preview)",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Today, AWS announces the public preview of AWS Blocks, an open-source TypeScript framework for application developers who want backend capabilities on AWS removing the need to learn infrastructure tools. AWS Blocks ru",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-blocks-preview"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-16-aws-aws-partner-central-agents-now-accelerate-co-selli",
+      "date": "2026-06-16",
+      "name": "AWS Partner Central agents now accelerate co-selling on every deal",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, AWS Partner Central agents qualify every co-sell opportunity in real time and make recommendations that drive AWS engagement and accelerate deal progression. Building on the <a href=\"https://aws.amazon",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/accelerate-co-selling-with-agents/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-16-aws-amazon-cloudwatch-introduces-native-opentelemetry-",
+      "date": "2026-06-16",
+      "name": "Amazon CloudWatch introduces native OpenTelemetry metrics with PromQL querying and per-GB pricing",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon CloudWatch now natively supports OpenTelemetry metrics. You can send metrics via the OpenTelemetry Protocol (OTLP) and query them using Prometheus Query Language (PromQL), with per-GB ingestion pricing and 15 m",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-otel-metrics/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-16-aws-aws-marketplace-announces-ai-assisted-product-list",
+      "date": "2026-06-16",
+      "name": "AWS Marketplace announces AI-assisted product listing",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS Marketplace announces AI-assisted product listing in Partner Assistant chat, helping Independent Software Vendors (ISVs) and Consulting Partners create high-quality product listings on AWS Marketplace using",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ai-assisted-product-listing/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-16-aws-aws-partner-central-launches-new-funding-benefits-",
+      "date": "2026-06-16",
+      "name": "AWS Partner Central launches new funding benefits for Business Value Realization",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Partner Central now supports the Business Value Realization (BVR) motion, a new experience and funding motion for partners who drive customer adoption and business outcomes after deploying strategic AWS services. ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-partner-business-value-realization/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-16-aws-aws-partner-central-now-validates-foundational-tec",
+      "date": "2026-06-16",
+      "name": "AWS Partner Central now validates Foundational Technical Review in minutes",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Partner Central now accepts SOC 2 Type II audit reports or AWS Well-Architected Framework Reviews (WAFR) reports to complete Foundational Technical Review (FTR) in minutes. This streamlined process with AI-powered",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-partner-central-foundational-technical-review/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-16-aws-amazon-rds-for-sql-server-now-supports-x2m-instanc",
+      "date": "2026-06-16",
+      "name": "Amazon RDS for SQL Server now supports X2m instances",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for SQL Server</a> launches memory-optimized X2m database instances. Based on the Amazon EC2 X2iedn insta",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/rds-sqlserver-supports-x2m/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-16-aws-amazon-s3-vectors-reduces-query-charges-by-up-to-8",
+      "date": "2026-06-16",
+      "name": "Amazon S3 Vectors reduces query charges by up to 80% for large vector indexes",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon S3 Vectors has reduced data processed charges for queries on vector indexes with over 10 million vectors by up to 80%. This reduction lowers costs for customers running similarity search across large-scale AI, ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/s3-vectors-reduces-query-charges-80-percent-large-indexes/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-16-aws-aws-marketplace-reduces-listing-fee-for-profession",
+      "date": "2026-06-16",
+      "name": "AWS Marketplace reduces listing fee for professional services to 0.5%",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Marketplace now offers a 0.5% listing fee for professional services private offers, reduced from 2.5%. This makes it more cost-effective for consulting partners, systems integrators, managed services providers and",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/reduce-listing-fee-professional-services-aws-marketplace"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-16-aws-aws-partners-can-now-accelerate-co-sell-deals-with",
+      "date": "2026-06-16",
+      "name": "AWS Partners can now accelerate co-sell deals with express private offers",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Partners co-selling with AWS can now use express private offers to automate pricing within co-sell workflows. Partners configure their pricing rules, discount boundaries, and eligible products once, and when AWS s",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-partners-express-private-offers"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-16-aws-aws-announces-amazon-connect-customer-services-com",
+      "date": "2026-06-16",
+      "name": "AWS announces Amazon Connect Customer Services Competency",
+      "vendor": "AWS",
+      "type": "deprecation",
+      "summary": "<p>AWS announces the Amazon Connect Customer Competency, a new AWS Specialization that helps customers identify Services Partners with proven expertise in transforming enterprise-wide customer experience on Amazon Connec",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-announces-amazon-connect-customer-services-competency"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-16-aws-aws-transform-now-supports-amazon-fsx-for-netapp-o",
+      "date": "2026-06-16",
+      "name": "AWS Transform now supports Amazon FSx for NetApp ONTAP (Public Preview)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announced the public preview of a new storage migration capability for AWS Transform that enables customers to migrate block storage workloads from any on-premises or cloud source to Amazon FSx for NetApp O",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-vmware-fsx-for-ontap-preview"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-16-aws-aws-partner-central-agents-now-guide-new-partners-",
+      "date": "2026-06-16",
+      "name": "AWS Partner Central agents now guide new partners from registration to ready-to-sell",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the general availability of onboarding capabilities for AWS Partner Central agents. The agent acts as an always-available advisor that guides new partners through every step required to be ready t",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-partner-central/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-16-aws-amazon-s3-adds-annotations-to-provide-ai-agents-an",
+      "date": "2026-06-16",
+      "name": "Amazon S3 adds annotations to provide AI agents and analytics tools with context for data discovery",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon S3 adds annotations, so you can attach custom metadata to your S3 objects at massive scale, giving AI agents and analytics tools the context they need to find and use the right data. Annotations are a new metad",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-s3-annotations-business-context"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-16-aws-amazon-ec2-p6-b200-instances-are-now-available-in-",
+      "date": "2026-06-16",
+      "name": "Amazon EC2 P6-B200 instances are now available in the Asia Pacific (Mumbai) Region",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) P6-B200 instances accelerated by NVIDIA Blackwell GPUs are available in Asia Pacific (Mumbai) Region. These instances offer up to 2x performance compared to P5",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-p6-b200-mumbai/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-16-dust-spa-poke-4f019ef4-front-add-seattype-to-membership",
+      "date": "2026-06-16",
+      "name": "spa/poke/4f019ef4: [front] add seatType to MembershipInvitation model + migration (#26726)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>fix(streaming): fix GCS write stream leaks and SSE double-unsubscribe</li>\n</ul>\n<p>Three distinct leak fixes, no behaviour changes.</p>\n<ol>\n<li>\n<p>GCS write streams leaked on upload error paths (utils.ts, pro",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F4f019ef4"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-16-dust-spa-poke-2a96855",
+      "date": "2026-06-16",
+      "name": "spa/poke/2a96855",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[Outlook MCP] merge create_reply_draft into create_draft, use /reply …</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2a96855"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-16-dust-spa-poke-d809e71-add-workspace-branded-og-image-ge",
+      "date": "2026-06-16",
+      "name": "spa/poke/d809e71: Add workspace-branded OG image generation (#27386)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>Add workspace-branded OG image generation</p>\n</li>\n<li>\n<p>✨</p>\n</li>\n<li>\n<p>✨</p>\n</li>\n<li>\n<p>👕</p>\n</li>\n<li>\n<p>👕</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fd809e71"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-06-15-openai-fedramp-workspaces-and-api-orgs-have-degraded-perf",
       "date": "2026-06-15",
       "name": "FedRAMP workspaces and API orgs have degraded performance",
@@ -343,6 +793,42 @@
       "tags": []
     },
     {
+      "id": "2026-06-15-aws-grok-4-3-from-xai-now-available-in-amazon-bedrock",
+      "date": "2026-06-15",
+      "name": "Grok 4.3 from xAI now available in Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS announces the availability of xAI's Grok 4.3 model on Amazon Bedrock. With this launch, xAI joins Amazon Bedrock as a model provider, giving you even more choice as you build generative AI applications acro",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/grok-amazon-bedrock/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-15-aws-aws-partner-central-now-provides-lead-enrichment-a",
+      "date": "2026-06-15",
+      "name": "AWS Partner Central now provides lead enrichment and prospecting",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Partner Central now provides lead enrichment and prospecting, enabling AWS Partners to enrich AWS-sourced leads or partner-sourced leads with AWS-generated propensity insights, and recommendations for program, fun",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/lead-enrichment-and-prospecting"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-06-13-dust-spa-poke-77192f6",
       "date": "2026-06-13",
       "name": "spa/poke/77192f6",
@@ -587,492 +1073,6 @@
         {
           "title": "OpenAI source",
           "url": "https://openai.com/index/openai-to-acquire-ona"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-11-aws-amazon-cloudwatch-application-signals-now-supports",
-      "date": "2026-06-11",
-      "name": "Amazon CloudWatch Application Signals now supports infrastructure, logs, and traces context for faster troubleshooting",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon CloudWatch Application Signals introduces service health ranking on the application map and new infrastructure, logs, and traces tabs on the service overview page. These capabilities let operators triage unheal",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/cloudwatch-application-signals-supports infrastructure-logs-traces-context-for-faster troubleshooting/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-11-aws-amazon-aurora-now-supports-postgresql-major-versio",
-      "date": "2026-06-11",
-      "name": "Amazon Aurora now supports PostgreSQL major version 18",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/aurora/\">Amazon Aurora PostgreSQL-Compatible Edition</a> now supports PostgreSQL major version 18, starting with version 18.3. This release brings community improvements to query pe",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-aurora-postgresql-major-version-18/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-11-aws-aws-elastic-beanstalk-console-now-integrates-cloud",
-      "date": "2026-06-11",
-      "name": "AWS Elastic Beanstalk console now integrates CloudWatch Logs in the Logs tab",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Elastic Beanstalk now provides a CloudWatch Logs integration directly in the environment Logs tab of the Elastic Beanstalk console. Previously, customers had to navigate to the CloudWatch console to find the relev",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/elastic-beanstalk-cloudwatch-logs/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-11-aws-amazon-mwaa-serverless-now-supports-amazon-eventbr",
-      "date": "2026-06-11",
-      "name": "Amazon MWAA Serverless now supports Amazon EventBridge notifications",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Managed Workflows for Apache Airflow (MWAA) Serverless now supports workflow and task state change events to <a href=\"https://aws.amazon.com/eventbridge/\">Amazon EventBridge</a>, enabling data engineering and p",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-mwaa-serverless-eventbridge/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-11-aws-amazon-managed-service-for-prometheus-now-supports",
-      "date": "2026-06-11",
-      "name": "Amazon Managed Service for Prometheus now supports Native Histograms",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/prometheus/\">Amazon Managed Service for Prometheus</a> now supports ingestion, storage, and querying of Prometheus native histograms, enabling customers to capture high-resolution metri",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-managed-service-prometheus-native-histograms/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-11-aws-aws-announces-aws-workload-credentials-provider",
-      "date": "2026-06-11",
-      "name": "AWS announces AWS Workload Credentials Provider",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS announces AWS Workload Credentials Provider, a lightweight client-side provider that automates deployment of exported certificates from AWS Certificate Manager (ACM) and local caching of secrets from AWS Secrets M",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-workload-credentials-provider/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-11-dust-spa-poke-2936ae4",
-      "date": "2026-06-11",
-      "name": "spa/poke/2936ae4",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[Email Agents] Relay disabled-workspace emails to the other region (#…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2936ae4"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-11-dust-spa-poke-2926d26",
-      "date": "2026-06-11",
-      "name": "spa/poke/2926d26",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>[front] fix: propagate skill icon changes to inline references (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/27237\">#27237</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2926d26"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-11-crewai-1-14-7",
-      "date": "2026-06-11",
-      "name": "1.14.7",
-      "vendor": "CrewAI",
-      "type": "launch",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add pluggable default backends for memory, knowledge, rag, and flow.</li>\n<li>Surface real finish_reason, sampling params, and response.id on LLM events.</li>\n<li>Type D",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.7"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-06-11-aws-amazon-ec2-high-memory-u7i-8tb-instances-now-avail",
-      "date": "2026-06-11",
-      "name": "Amazon EC2 High Memory U7i-8TB instances now available in AWS Europe (Paris) region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon EC2 High Memory U7i-8TB instances (u7i-8tb.112xlarge) are now available in AWS Europe (Paris) region. U7i instances are part of the AWS 7th generation and are powered by custom fourth-generation Intel Xeon Scal",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-u7i-8tb-europe-paris/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-11-aws-amazon-quick-now-integrates-with-snowflake-cortex-",
-      "date": "2026-06-11",
-      "name": "Amazon Quick now integrates with Snowflake Cortex AI",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Quick now integrates with Snowflake Cortex AI through the Model Context Protocol (MCP), enabling teams to query their Snowflake data and documents using natural language, and automate multi-step workflows direc",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-snowflake-cortex-ai/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-11-aws-amazon-eks-now-supports-local-clusters-on-aws-outp",
-      "date": "2026-06-11",
-      "name": "Amazon EKS now supports local clusters on AWS Outposts with Amazon EC2 instance store",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS is expanding support for Amazon Elastic Kubernetes Service (EKS) local clusters on AWS Outposts to first-generation and second-generation AWS Outposts racks running Amazon EC2 instances that boot from Amazo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-eks-aws-outposts-ec2-instance-store/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-10-dust-spa-poke-6f79849-front-new-layout-26995",
-      "date": "2026-06-10",
-      "name": "spa/poke/6f79849: [front] new layout (#26995)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>new layout</p>\n</li>\n<li>\n<p>spacing spinner</p>\n</li>\n<li>\n<p>fix hashparam</p>\n</li>\n<li>\n<p>misc</p>\n</li>\n<li>\n<p>misc 2</p>\n</li>\n<li>\n<p>fix</p>\n</li>\n<li>\n<p>fix</p>\n</li>\n<li>\n<p>adjust scroll bar</p",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6f79849"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-10-dust-spa-app-6f79849-front-new-layout-26995",
-      "date": "2026-06-10",
-      "name": "spa/app/6f79849: [front] new layout (#26995)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>new layout</p>\n</li>\n<li>\n<p>spacing spinner</p>\n</li>\n<li>\n<p>fix hashparam</p>\n</li>\n<li>\n<p>misc</p>\n</li>\n<li>\n<p>misc 2</p>\n</li>\n<li>\n<p>fix</p>\n</li>\n<li>\n<p>fix</p>\n</li>\n<li>\n<p>adjust scroll bar</p",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F6f79849"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-10-openai-access-openai-models-and-codex-through-your-oracle",
-      "date": "2026-06-10",
-      "name": "Access OpenAI models and Codex through your Oracle cloud commitment",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/openai-on-oracle-cloud"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-10-aws-amazon-ecs-managed-daemons-now-support-inter-task-",
-      "date": "2026-06-10",
-      "name": "Amazon ECS Managed Daemons now support inter-task visibility and communication",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon ECS Managed Daemons now support inter-task visibility and communication, enabling customers to deploy tracing, profiling, and security agents that require access to application processes and shared IPC resource",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ecs-managed-daemons-pid-ipc-modes/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-10-aws-amazon-ec2-m9g-and-m9gd-general-purpose-instances-",
-      "date": "2026-06-10",
-      "name": "Amazon EC2 M9g and M9gd general purpose instances are now available",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) <a href=\"https://aws.amazon.com/ec2/instance-types/m9g/\">M9g and M9gd instances</a>, powered by AWS Graviton5 processors, are generally available. AWS Graviton",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-m9g-m9gd-instances-graviton5-processors-available"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-10-aws-amazon-ec2-p6-b200-instances-are-now-available-in-",
-      "date": "2026-06-10",
-      "name": "Amazon EC2 P6-B200 instances are now available in the AWS GovCloud (US-East) Region",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) P6-B200 instances accelerated by NVIDIA Blackwell GPUs are available in AWS GovCloud (US-East) Region. These instances offer up to 2x performance compared to P",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-p6-b200-aws-govcloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-10-dust-spa-poke-2045617-keep-oversized-conversation-files",
-      "date": "2026-06-10",
-      "name": "spa/poke/2045617: Keep oversized conversation files attached (#27096)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>Keep oversized conversation files attached</p>\n</li>\n<li>\n<p>Mark skipped attachments as unsearchable</p>\n</li>\n<li>\n<p>Document skipDataSourceIndexing in ContentFragment swagger schemas</p>\n</li>\n<li>\n<p>De",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2045617"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-10-dust-spa-poke-294e6e2",
-      "date": "2026-06-10",
-      "name": "spa/poke/294e6e2",
-      "vendor": "Dust",
-      "type": "pricing",
-      "summary": "<p>Pricing: Move onboarding questions after the checkout. (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/27136\">#27136</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F294e6e2"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-10-dust-spa-poke-89fa53c",
-      "date": "2026-06-10",
-      "name": "spa/poke/89fa53c",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>GA the defered conversation flow. (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/27114\">#27114</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F89fa53c"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-10-dust-spa-poke-86c6626-front-add-napta-remote-mcp-server",
-      "date": "2026-06-10",
-      "name": "spa/poke/86c6626: [front] Add Napta remote MCP server (#27197)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Register Napta as a default remote MCP server (oauth-dynamic) for<br />\nresource management and staffing, with tool stakes and display labels<br />\nfor its 16 tools. Adds the NaptaLogo across sparkle, the SDK icon<br ",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F86c6626"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-10-aws-amazon-opensearch-service-launches-mcp-apps-for-ag",
-      "date": "2026-06-10",
-      "name": "Amazon OpenSearch Service launches MCP Apps for agentic observability",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon OpenSearch Service now supports MCP Apps, bringing observability workflows directly into compatible agentic IDEs such as Claude Desktop and VS Code. With this capability, your AI agent in local environment can ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/opensearch-agentic-observability-mcp-app"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-10-aws-gemma-4-models-now-available-on-amazon-bedrock",
-      "date": "2026-06-10",
-      "name": "Gemma 4 models now available on Amazon Bedrock",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS announces the availability of the Gemma 4 family of open-weight models from Google DeepMind on <a href=\"https://aws.amazon.com/bedrock/\">Amazon Bedrock</a>. With Gemma 4, you can build generative AI applica",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/gemma-4-amazon-bedrock/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-10-aws-amazon-virtual-private-cloud-vpc-flow-logs-introdu",
-      "date": "2026-06-10",
-      "name": "Amazon Virtual Private Cloud (VPC) Flow Logs introduces additional metadata",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Virtual Private Cloud (VPC) Flow Logs now supports EC2 resource tags and next-hop interface metadata, simplifying network monitoring and troubleshooting by eliminating the need to manually correlate flow log da",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-flow-logs-metadata"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-09-crewai-1-14-7a3",
-      "date": "2026-06-09",
-      "name": "1.14.7a3",
-      "vendor": "CrewAI",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Fix exposure of <code>ask_for_human_input</code> on experimental <code>AgentExecutor</code></li>\n<li>Resolve pip-audit CVEs for <code>aiohttp</code>, <code>docling</cod",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.7a3"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-06-09-openai-how-engineers-at-nextdoor-use-codex-to-build-witho",
-      "date": "2026-06-09",
-      "name": "How engineers at Nextdoor use Codex to build without limits",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/nextdoor"
         }
       ],
       "impact": 5,
