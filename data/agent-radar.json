@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "2026-06-18-openai-chatgpt-failing-to-load-or-save",
+      "date": "2026-06-18",
+      "name": "ChatGPT failing to load or save",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>File uploads (Operational)</li>\n<li>Voice mode (Operational)</li>\n<li>",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KVCC8P5XTCA7H7W7E6A2MYJS"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-06-17-openai-fedramp-workspaces-and-api-orgs-have-degraded-perf",
       "date": "2026-06-17",
       "name": "FedRAMP workspaces and API orgs have degraded performance",
@@ -14,6 +32,330 @@
         }
       ],
       "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-17-aws-aws-glue-interactive-sessions-now-support-spark-co",
+      "date": "2026-06-17",
+      "name": "AWS Glue Interactive Sessions now support Spark Connect for interactive workloads",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Glue Interactive Sessions now support Apache Spark Connect, using which you can now develop and run Apache Spark applications from your preferred environment, including managed notebooks in Amazon SageMaker Unifie",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-glue-interactive-sessions-spark-connect-smus-notebooks"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-17-aws-aws-healthomics-now-streams-workflow-engine-logs-t",
+      "date": "2026-06-17",
+      "name": "AWS HealthOmics now streams workflow engine logs to Amazon CloudWatch in real time",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS HealthOmics now streams workflow engine logs to Amazon CloudWatch in real time, enabling customers to monitor workflow execution progress as it happens. <a href=\"https://aws.amazon.com/healthomics/\">AWS HealthOmic",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-real-time-engine-log-streaming/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-17-aws-aws-devops-agent-adds-release-management-capabilit",
+      "date": "2026-06-17",
+      "name": "AWS DevOps Agent adds release management capability (preview)",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS DevOps Agent now offers a release management capability in preview, reviewing code changes for release readiness and running autonomous release testing to help you ship code to production safely and with confidenc",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-devops-agent-release-management/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-17-aws-amazon-rds-for-postgresql-mysql-and-mariadb-now-su",
+      "date": "2026-06-17",
+      "name": "Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports M9g database instances",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Graviton5-based M9g database (DB) instances are now generally available for <a href=\"https://aws.amazon.com/rds/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Relational Database Service (RDS)</a> for PostgreS",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-postgresql-mysql-mariadb-m9g-instances/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-17-aws-amazon-aurora-and-rds-for-mysql-expand-extended-su",
+      "date": "2026-06-17",
+      "name": "Amazon Aurora and RDS for MySQL expand Extended Support for MySQL 5.7 through June 2029",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Aurora MySQL-Compatible Edition and Amazon Relational Database Service (RDS) for MySQL now offer <a href=\"https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/extended-support.html\">Amazon RDS Extended Suppor",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/rds-mysql-es-extension/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-17-aws-aws-outposts-racks-now-support-bmn-cx3a-instances-",
+      "date": "2026-06-17",
+      "name": "AWS Outposts racks now support bmn-cx3a instances, the first AMD-based instances with accelerated networking on Outposts",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS announces the availability of bmn-cx3a instances on second-generation AWS Outposts racks. Bmn-cx3a instances feature 5th Gen AMD EPYC processors with a maximum frequency of 4.1 GHz and NVIDIA ConnectX-7 (CX7) netw",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-outposts-amd-bmn-cx3a/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-17-aws-amazon-quick-announces-autonomous-agents-multi-dat",
+      "date": "2026-06-17",
+      "name": "Amazon Quick announces autonomous agents, multi-dataset analytics, and redesigned activity feed",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces multiple new features for Amazon Quick, including autonomous agents, multi-dataset analytics capabilities, and a redesigned activity feed. Amazon Quick is the AI assistant that connects to popular",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-17-aws-amazon-bedrock-agentcore-introduces-new-optimizati",
+      "date": "2026-06-17",
+      "name": "Amazon Bedrock AgentCore introduces new optimization capabilities to continuously improve agents in production",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces new optimization capabilities in AgentCore that turn production traces into continuous improvement for agents. The most dangerous agent failures are not the ones that throw errors. They are the si",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-new-optimization-capabilities"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-17-aws-agentcore-harness-in-now-generally-available",
+      "date": "2026-06-17",
+      "name": "AgentCore harness in now generally available",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the general availability of the managed agent harness in Amazon Bedrock AgentCore, taking teams from idea to working agents in minutes. An agent is more than a model. If the model is the brain, th",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-harness-generally-available"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-17-aws-amazon-bedrock-agentcore-now-supports-bedrock-guar",
+      "date": "2026-06-17",
+      "name": "Amazon Bedrock AgentCore now supports Bedrock Guardrails in policy",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS announces that Amazon Bedrock AgentCore now supports Bedrock Guardrails in policy, giving enterprises deeper safety and security controls as they scale AI agents in production. AgentCore policy is an author",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-policy-guardrails-generally-available"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-17-aws-aws-glue-data-catalog-now-supports-business-contex",
+      "date": "2026-06-17",
+      "name": "AWS Glue Data Catalog now supports business context and semantic search (Preview)",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Today, AWS announces the preview of business context and semantic search for AWS Glue Data Catalog, helping you discover and understand data by semantic meaning. You can now enrich your Glue Data Catalog tables, inclu",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-glue-data-catalog/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-17-aws-introducing-aws-continuum-for-security-at-machine-",
+      "date": "2026-06-17",
+      "name": "Introducing AWS Continuum for security at machine speed",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces AWS Continuum, which&nbsp;discovers, prioritizes, validates, and remediates security risks at machine speed within guardrails you define. Frontier models have made finding software vulnerabilities",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-continuum/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-17-aws-aws-secrets-manager-introduces-safe-secrets-handli",
+      "date": "2026-06-17",
+      "name": "AWS Secrets Manager introduces safe secrets handling in the Agent Toolkit for AWS",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Secrets Manager now offers a secret safety skill as part of the aws-core plugin in the <a href=\"https://github.com/aws/agent-toolkit-for-aws\">Agent Toolkit for AWS</a>, an open-source repository that equips AI cod",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/safe-secrets-handling-in-agent-toolkit-for-aws/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-17-aws-amazon-bedrock-managed-knowledge-base-is-now-gener",
+      "date": "2026-06-17",
+      "name": "Amazon Bedrock Managed Knowledge Base is now generally available",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Bedrock Managed Knowledge Base, a fully managed retrieval-augmented generation (RAG) service, is now generally available. With Managed Knowledge Base, developers can build production-ready AI agents grounded in",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-managed-knowledge-base/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-17-aws-aws-security-agent-announces-support-for-threat-mo",
+      "date": "2026-06-17",
+      "name": "AWS Security Agent announces support for Threat Modeling",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Security Agent (now part of AWS Continuum) now includes threat modeling, an AI-powered agentic capability that automatically generates threat models for your applications. Available today in public preview, AWS Se",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-security-agent-threat-modeling/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-17-aws-aws-security-agent-adds-kiro-power-claude-code-sim",
+      "date": "2026-06-17",
+      "name": "AWS Security Agent adds Kiro Power, Claude Code, simulated validations and new integrations support",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS Security Agent (now part of AWS Continuum) adds support for Kiro and Claude Code, enabling developers to trigger security scans directly from their development environment. AWS Security Agent now also validates co",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-kiro-power-claude-code/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-17-dust-spa-poke-041d797-add-lemlist-remote-mcp-server-268",
+      "date": "2026-06-17",
+      "name": "spa/poke/041d797: Add Lemlist remote MCP server (#26814)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>Add Lemlist as a remote MCP server</li>\n</ul>\n<p>Adds the Lemlist sales engagement platform as a default remote MCP<br />\nserver (id: 10020, oauth-dynamic auth) so agents can create outreach<br />\ncampaigns and ",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F041d797"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-17-dust-spa-poke-8e76584-feat-credits-add-workspace-auto-s",
+      "date": "2026-06-17",
+      "name": "spa/poke/8e76584: feat(credits): add workspace auto-seat-upgrade setting (#27421)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>feat(credits): add workspace auto-seat-upgrade setting</p>\n</li>\n<li>\n<p>empty commit retrigger CI</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8e76584"
+        }
+      ],
+      "impact": 3,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -451,6 +793,60 @@
       "tags": []
     },
     {
+      "id": "2026-06-16-aws-amazon-bedrock-guardrails-adds-automated-reasoning",
+      "date": "2026-06-16",
+      "name": "Amazon Bedrock Guardrails adds automated reasoning checks in Sydney",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Automated Reasoning checks in Amazon Bedrock Guardrails use formal verification techniques to validate AI model outputs with mathematical rigor, providing a fundamentally different approach from traditional sampling-b",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-guardrails-sydney/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-16-aws-announcing-web-search-on-amazon-bedrock-agentcore-",
+      "date": "2026-06-16",
+      "name": "Announcing Web Search on Amazon Bedrock AgentCore for Agentic Web Retrieval",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>As AI agents become more capable, they need access to information beyond a model's training data - to answer questions, retrieve latest facts, and take action grounded in current developments. Today, we're making that",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-web-search/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-16-aws-amazon-quick-expands-integrations-with-new-connect",
+      "date": "2026-06-16",
+      "name": "Amazon Quick expands integrations with new connectors for Adobe, Figma, WhatsApp, and more",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Quick now connects to 16 additional tools, allowing teams to act on insights from their data, analytics, design, and communication apps without switching context. New connectors include Adobe, Cisco Video Messa",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-adobe-figma-whatsapp/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-06-15-openai-fedramp-workspaces-and-api-orgs-have-degraded-perf",
       "date": "2026-06-15",
       "name": "FedRAMP workspaces and API orgs have degraded performance",
@@ -677,402 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-query-studio-generally-available"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-15-aws-free-network-bandwidth-amazon-gamelift-servers-is-",
-      "date": "2026-06-15",
-      "name": "Free Network Bandwidth Amazon GameLift Servers is Here!",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon GameLift Servers provides network bandwidth in and out of AWS at no additional charge for all instance types from generation 6 and later, including On-Demand and Spot, with no commitment require",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-gamelift-servers-free-network-bandwidth"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-15-aws-amazon-rds-for-mariadb-supports-long-term-support-",
-      "date": "2026-06-15",
-      "name": "Amazon RDS for MariaDB supports Long-Term Support version 12.3 in Amazon RDS Database Preview Environment",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/mariadb/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon RDS for MariaDB</a>&nbsp;now supports MariaDB 12.3 in the&nbsp;<a href=\"https://aws.amazon.com/rds/databasepreview/\" rel=\"",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-maria-db-innovation-release-12-3-rds-database-preview-environment/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-15-aws-amazon-rds-for-mysql-announces-extended-support-mi",
-      "date": "2026-06-15",
-      "name": "Amazon RDS for MySQL announces Extended Support minor version 5.7.44-RDS.20260521",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/mysql/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for MySQL</a>&nbsp;now supports new Amazon RDS Extended Support minor version 5.7.4",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-mysql-extended-support-minor-5744-rds/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-15-aws-amazon-rds-for-mariadb-now-supports-community-mari",
-      "date": "2026-06-15",
-      "name": "Amazon RDS for MariaDB now supports community MariaDB minor versions 10.6.27, 10.11.18, 11.4.12, and 11.8.8",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/mariadb/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for MariaDB</a>&nbsp;now supports community MariaDB minor versions 10.6.27, 10.11",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-mariadb-community-versions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-15-dust-spa-poke-d36cdc7",
-      "date": "2026-06-15",
-      "name": "spa/poke/d36cdc7",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] BillingPage: dedicated layout for free plan workspaces (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/27372\">#27372</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fd36cdc7"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-15-dust-spa-app-d36cdc7",
-      "date": "2026-06-15",
-      "name": "spa/app/d36cdc7",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] BillingPage: dedicated layout for free plan workspaces (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/27372\">#27372</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2Fd36cdc7"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-15-aws-grok-4-3-from-xai-now-available-in-amazon-bedrock",
-      "date": "2026-06-15",
-      "name": "Grok 4.3 from xAI now available in Amazon Bedrock",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS announces the availability of xAI's Grok 4.3 model on Amazon Bedrock. With this launch, xAI joins Amazon Bedrock as a model provider, giving you even more choice as you build generative AI applications acro",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/grok-amazon-bedrock/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-15-aws-aws-partner-central-now-provides-lead-enrichment-a",
-      "date": "2026-06-15",
-      "name": "AWS Partner Central now provides lead enrichment and prospecting",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Partner Central now provides lead enrichment and prospecting, enabling AWS Partners to enrich AWS-sourced leads or partner-sourced leads with AWS-generated propensity insights, and recommendations for program, fun",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/lead-enrichment-and-prospecting"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-13-dust-spa-poke-77192f6",
-      "date": "2026-06-13",
-      "name": "spa/poke/77192f6",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Move dust mcp server back to stateless. (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/27342\">#27342</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F77192f6"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-13-dust-spa-app-77192f6",
-      "date": "2026-06-13",
-      "name": "spa/app/77192f6",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Move dust mcp server back to stateless. (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/27342\">#27342</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F77192f6"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-12-openai-new-openai-academy-courses-for-the-next-era-of-wor",
-      "date": "2026-06-12",
-      "name": "New OpenAI Academy courses for the next era of work",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/academy-courses-applying-ai-at-work"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-12-aws-amazon-lightsail-is-now-available-in-three-additio",
-      "date": "2026-06-12",
-      "name": "Amazon Lightsail is now available in three additional AWS Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon Lightsail is available in three additional AWS Regions: Asia Pacific (Hong Kong), South America (São Paulo), and Europe (Spain). This expansion brings the power and simplicity of Lightsail to cu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-lightsail-aws-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-12-aws-sagemaker-ai-now-supports-serverless-fine-tuning-f",
-      "date": "2026-06-12",
-      "name": "SageMaker AI now supports serverless fine-tuning for NVIDIA Nemotron models",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker AI now supports serverless model customization for NVIDIA Nemotron 3 Nano model using supervised fine-tuning (SFT) and reinforcement fine-tuning (RFT). This is a popular open-weight model from NVIDIA ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ft-nemotron-3/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-12-aws-amazon-ec2-capacity-blocks-for-ml-is-now-available",
-      "date": "2026-06-12",
-      "name": "Amazon EC2 Capacity Blocks for ML is now available in AWS GovCloud (US) Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon EC2 Capacity Blocks for ML is now available in AWS GovCloud (US-West) and AWS GovCloud (US-East), enabling government and regulated-industry customers to reserve GPU capacity for machine learning workloads.</p>",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-capacity-blocks-ml-govcloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-12-dust-spa-poke-784973f-add-workspace-branding-management",
-      "date": "2026-06-12",
-      "name": "spa/poke/784973f:  Add workspace branding management for Branded Frames (#27275)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>Add workspace branding management for Branded Frames</p>\n</li>\n<li>\n<p>Add missing import.</p>\n</li>\n<li>\n<p>🐒</p>\n</li>\n<li>\n<p>🪵</p>\n</li>\n<li>\n<p>Address comments from review</p>\n</li>\n<li>\n<p>🪵</p>\n</li>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F784973f"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-12-dust-spa-poke-356a5d3-front-add-get-source-breakdown-to",
-      "date": "2026-06-12",
-      "name": "spa/poke/356a5d3: [front] Add get_source_breakdown tool to workspace_analytics (#27284)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>The source filter only narrows to one origin, so the agent could not<br />\nenumerate the workspace's sources (it missed origins like Trigger). Add a<br />\nget_source_breakdown tool backed by the existing fetchContextO",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F356a5d3"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-12-dust-spa-poke-81ac9b5",
-      "date": "2026-06-12",
-      "name": "spa/poke/81ac9b5",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Create auto MCP server views just in time instead of backfilling all …</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F81ac9b5"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-12-dust-spa-poke-77a94b2",
-      "date": "2026-06-12",
-      "name": "spa/poke/77a94b2",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] Un-retire dust-soupinou agents, bind to new custom model (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/issues/27\">#27</a>…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F77a94b2"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-12-dust-spa-poke-23ba09e",
-      "date": "2026-06-12",
-      "name": "spa/poke/23ba09e",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Add workspace_branding file upload use case with SVG rasterization (#…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F23ba09e"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-11-aws-openai-gpt-5-4-and-gpt-5-5-models-now-available-in",
-      "date": "2026-06-11",
-      "name": "OpenAI GPT-5.4 and GPT-5.5 models now available in US East (N. Virginia) on Amazon Bedrock",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the expanded availability of OpenAI's GPT-5.4 and GPT-5.5 models, which are now available in the US East (N. Virginia) Region on Amazon Bedrock. With GPT-5.4 and GPT-5.5, you can build generative ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/openai-gpt-us-east-virginia-amazon/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-11-crewai-1-14-7rc2",
-      "date": "2026-06-11",
-      "name": "1.14.7rc2",
-      "vendor": "CrewAI",
-      "type": "launch",
-      "summary": "<h2>What's Changed</h2>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Gate restore on a flag to prevent live snapshots from replaying as resume</li>\n</ul>\n<h3>Documentation</h3>\n<ul>\n<li>Update changelog and version for v1.14.7rc1</li>\n</",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.7rc2"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-06-11-openai-openai-to-acquire-ona",
-      "date": "2026-06-11",
-      "name": "OpenAI to acquire Ona",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/openai-to-acquire-ona"
         }
       ],
       "impact": 5,
