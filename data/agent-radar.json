@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "2026-06-19-openai-chatgpt-com-access-issues",
+      "date": "2026-06-19",
+      "name": "chatgpt.com access issues",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Investigating</b><br /><br />We have identified an issue causing some users to be unable to access ChatGPT on chatgpt.com \"chatgpt.com\": http://chatgpt.com. We are working on implementing a mitigation. In the ",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KVEZD06ZFM2CMDZQMQYDV9RK"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-19-aws-announcing-the-general-availability-of-a-new-aws-l",
+      "date": "2026-06-19",
+      "name": "Announcing the general availability of a new AWS Local Zone in Hanoi, Vietnam",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS announces the general availability of a new Local Zone in Hanoi, Vietnam, bringing AWS infrastructure closer to end users. This new Local Zone is one of the first AWS Local Zones in the Asia Pacific with su",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-local-zones-hanoi-vietnam/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-19-dust-spa-poke-29f28f0-fix-use-filled-star-icon-for-favo",
+      "date": "2026-06-19",
+      "name": "spa/poke/29f28f0: fix: use filled star icon for favorited agents (#27625)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>fix: use filled star icon for favorited agents</li>\n</ul>\n<p>Revert the variant-based approach from <a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/27408\">#27408</a> and restore th",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F29f28f0"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-19-dust-spa-app-29f28f0-fix-use-filled-star-icon-for-favor",
+      "date": "2026-06-19",
+      "name": "spa/app/29f28f0: fix: use filled star icon for favorited agents (#27625)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>fix: use filled star icon for favorited agents</li>\n</ul>\n<p>Revert the variant-based approach from <a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/27408\">#27408</a> and restore th",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F29f28f0"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-06-18-openai-chatgpt-failing-to-load-or-save",
       "date": "2026-06-18",
       "name": "ChatGPT failing to load or save",
@@ -16,6 +88,330 @@
       "impact": 5,
       "risk": 3,
       "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-18-openai-new-usage-analytics-and-updated-spend-controls-for",
+      "date": "2026-06-18",
+      "name": "New usage analytics and updated spend controls for enterprises",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/chatgpt-enterprise-spend-controls"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-18-openai-fedramp-workspaces-and-api-orgs-have-degraded-perf",
+      "date": "2026-06-18",
+      "name": "FedRAMP workspaces and API orgs have degraded performance",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Investigating</b><br /><br />We are still investigating the issue for the listed services.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>FedRAMP (Degraded performance)</li>\n          </ul>",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KV6NGBYE50GK3TRXHD2EMTXA"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-18-aws-amazon-ecs-announces-faster-service-auto-scaling",
+      "date": "2026-06-18",
+      "name": "Amazon ECS announces faster service auto scaling",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon ECS service auto scaling now detects and responds to load changes faster with support for high resolution (20-second) metrics and metric publishing optimizations. In AWS benchmarking tests, time to trigger scal",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-faster-autoscaling/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-18-aws-amazon-ec2-g7-instances-are-now-generally-availabl",
+      "date": "2026-06-18",
+      "name": "Amazon EC2 G7 instances are now generally available",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the general availability of Amazon Elastic Compute Cloud (Amazon EC2) G7 instances, accelerated by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs. G7 instances deliver up to 4.6x AI inference p",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-g7-generally-available"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-18-aws-amazon-mq-for-rabbitmq-now-supports-private-networ",
+      "date": "2026-06-18",
+      "name": "Amazon MQ for RabbitMQ now supports private networking connectivity",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon MQ for RabbitMQ now supports private networking, enabling your brokers to connect to private resources in your VPC without exposing those resources publicly.. This helps you meet your security and compliance re",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-mq-private-network-connectivity/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-18-aws-amazon-connect-customer-launches-the-ability-to-in",
+      "date": "2026-06-18",
+      "name": "Amazon Connect Customer launches the ability to interrupt an agent with an urgent contact",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect Customer now supports the ability to interrupt an agent with a contact, overriding their usual routing configuration in case of urgent or time-sensitive work. For example, an agent may be waiting for a ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect-interrupt-agent-with-urgent-contact/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-18-aws-all-minilm-l12-v2-for-semantic-search-and-sentence",
+      "date": "2026-06-18",
+      "name": "all-MiniLM-L12-v2 for semantic search and sentence similarity is now available in Amazon SageMaker JumpStart",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announced the availability of all-MiniLM-L12-v2 in Amazon SageMaker JumpStart, expanding the portfolio of models available to AWS customers. This model from Sentence Transformers maps sentences and paragrap",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/all-minilm-l12-v2-on-sagemaker-jumpstart/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-18-aws-ministral-3-14b-instruct-for-multimodal-reasoning-",
+      "date": "2026-06-18",
+      "name": "Ministral-3-14B-Instruct for multimodal reasoning and agentic AI is now available in Amazon SageMaker JumpStart",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announced the availability of Ministral-3-14B-Instruct-2512 in Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. This model from Mistral AI delivers fronti",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ministral-3-14b-on-sagemaker-jumpstart/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-18-aws-amazon-eks-now-supports-customer-routed-control-pl",
+      "date": "2026-06-18",
+      "name": "Amazon EKS now supports customer-routed control plane egress",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, <a href=\"https://aws.amazon.com/eks/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Elastic Kubernetes Service</a> (Amazon EKS) introduces customer-routed control plane egress, a capability that lets you rou",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-eks-customer-routed-control-plane-egress"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-18-aws-amazon-sagemaker-ai-announces-new-observability-ca",
+      "date": "2026-06-18",
+      "name": "Amazon SageMaker AI Announces New observability capability For Inference Endpoints",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker AI's new observability capability allows customers to operate production generative AI inference workloads with confidence by providing comprehensive visibility into token performance, GPU health, inf",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-ai-inference/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-18-aws-amazon-gamelift-servers-adds-new-container-fleet-i",
+      "date": "2026-06-18",
+      "name": "Amazon GameLift Servers adds new container fleet improvements",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon GameLift Servers now supports two significant container fleet improvements that enhance flexibility and inter-container communication for game server deployments. These new capabilities address common challenge",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-gamelift-servers-container-fleet-improvements"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-18-aws-amazon-rds-for-sql-server-increases-the-maximum-si",
+      "date": "2026-06-18",
+      "name": "Amazon RDS for SQL Server increases the maximum size and provisioned performance of General Purpose (gp3) volumes",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for SQL Server</a> now supports higher volume-level limits for General Purpose (gp3) storage. With this u",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/rds-sqlserver-increases-gp3-limits/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-18-dust-spa-poke-6760143-count-seattype-none-users-for-leg",
+      "date": "2026-06-18",
+      "name": "spa/poke/6760143: Count seatType=none users for legacy plans (#27529)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>\n<p>Count seatType=none users for legacy plans</p>\n</li>\n<li>\n<p>fix test</p>\n</li>\n<li>\n<p>fix biome</p>\n</li>\n<li>\n<p>use getPlan</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6760143"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-18-dust-spa-poke-88da6e1",
+      "date": "2026-06-18",
+      "name": "spa/poke/88da6e1",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] Enable noop agent internally (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/27571\">#27571</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F88da6e1"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-18-dust-spa-poke-85ea4cf-centralize-og-description-entitle",
+      "date": "2026-06-18",
+      "name": "spa/poke/85ea4cf: Centralize OG description entitlement logic in the API (#27602)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>Fix Open Graph previews for shared frames</p>\n</li>\n<li>\n<p>Fix Open Graph previews for shared frames</p>\n</li>\n<li>\n<p>Add comment explaining drift-prevention on share frame schema</p>\n</li>\n<li>\n<p>Hide vi",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F85ea4cf"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-18-dust-spa-poke-75dca1c-invite-modal-don-t-block-seat-req",
+      "date": "2026-06-18",
+      "name": "spa/poke/75dca1c: Invite modal: don't block seat requests on current availability (#27620)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>fix(front): invite modal lets admins request any offered seat type</li>\n</ul>\n<p>Seat cards in the invite modal no longer disable themselves based on<br />\ncurrent availability — every seat type present in seatP",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F75dca1c"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-18-crewai-1-14-8a2",
+      "date": "2026-06-18",
+      "name": "1.14.8a2",
+      "vendor": "CrewAI",
+      "type": "upgrade",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add single agent action to Flow definitions</li>\n<li>Validate flow CEL expressions at definition load time</li>\n</ul>\n<h3>Documentation</h3>\n<ul>\n<li>Add Datadog integra",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.8a2"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-06-18-crewai-1-14-8a",
+      "date": "2026-06-18",
+      "name": "1.14.8a",
+      "vendor": "CrewAI",
+      "type": "launch",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add script/code block action to FlowDefinition</li>\n<li>Add crew actions to FlowDefinition</li>\n<li>Add <code>each</code> composite action to FlowDefinition</li>\n<li>Imp",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.8a"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
       "tags": []
     },
     {
@@ -361,6 +757,24 @@
       "tags": []
     },
     {
+      "id": "2026-06-17-aws-agentcore-harness-is-now-generally-available",
+      "date": "2026-06-17",
+      "name": "AgentCore harness is now generally available",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the general availability of the managed agent harness in Amazon Bedrock AgentCore, taking teams from idea to working agents in minutes. An agent is more than a model. If the model is the brain, th",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-harness-generally-available"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-06-16-aws-amazon-bedrock-guardrails-announces-a-new-api-targ",
       "date": "2026-06-16",
       "name": "Amazon Bedrock Guardrails announces a new API targeting agentic AI workflows",
@@ -659,420 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-announces-amazon-connect-customer-services-competency"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-16-aws-aws-transform-now-supports-amazon-fsx-for-netapp-o",
-      "date": "2026-06-16",
-      "name": "AWS Transform now supports Amazon FSx for NetApp ONTAP (Public Preview)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announced the public preview of a new storage migration capability for AWS Transform that enables customers to migrate block storage workloads from any on-premises or cloud source to Amazon FSx for NetApp O",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-vmware-fsx-for-ontap-preview"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-16-aws-aws-partner-central-agents-now-guide-new-partners-",
-      "date": "2026-06-16",
-      "name": "AWS Partner Central agents now guide new partners from registration to ready-to-sell",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the general availability of onboarding capabilities for AWS Partner Central agents. The agent acts as an always-available advisor that guides new partners through every step required to be ready t",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-partner-central/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-16-aws-amazon-s3-adds-annotations-to-provide-ai-agents-an",
-      "date": "2026-06-16",
-      "name": "Amazon S3 adds annotations to provide AI agents and analytics tools with context for data discovery",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon S3 adds annotations, so you can attach custom metadata to your S3 objects at massive scale, giving AI agents and analytics tools the context they need to find and use the right data. Annotations are a new metad",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-s3-annotations-business-context"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-16-aws-amazon-ec2-p6-b200-instances-are-now-available-in-",
-      "date": "2026-06-16",
-      "name": "Amazon EC2 P6-B200 instances are now available in the Asia Pacific (Mumbai) Region",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) P6-B200 instances accelerated by NVIDIA Blackwell GPUs are available in Asia Pacific (Mumbai) Region. These instances offer up to 2x performance compared to P5",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-p6-b200-mumbai/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-16-dust-spa-poke-4f019ef4-front-add-seattype-to-membership",
-      "date": "2026-06-16",
-      "name": "spa/poke/4f019ef4: [front] add seatType to MembershipInvitation model + migration (#26726)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>fix(streaming): fix GCS write stream leaks and SSE double-unsubscribe</li>\n</ul>\n<p>Three distinct leak fixes, no behaviour changes.</p>\n<ol>\n<li>\n<p>GCS write streams leaked on upload error paths (utils.ts, pro",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F4f019ef4"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-16-dust-spa-poke-2a96855",
-      "date": "2026-06-16",
-      "name": "spa/poke/2a96855",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[Outlook MCP] merge create_reply_draft into create_draft, use /reply …</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2a96855"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-16-dust-spa-poke-d809e71-add-workspace-branded-og-image-ge",
-      "date": "2026-06-16",
-      "name": "spa/poke/d809e71: Add workspace-branded OG image generation (#27386)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>Add workspace-branded OG image generation</p>\n</li>\n<li>\n<p>✨</p>\n</li>\n<li>\n<p>✨</p>\n</li>\n<li>\n<p>👕</p>\n</li>\n<li>\n<p>👕</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fd809e71"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-16-aws-amazon-bedrock-guardrails-adds-automated-reasoning",
-      "date": "2026-06-16",
-      "name": "Amazon Bedrock Guardrails adds automated reasoning checks in Sydney",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Automated Reasoning checks in Amazon Bedrock Guardrails use formal verification techniques to validate AI model outputs with mathematical rigor, providing a fundamentally different approach from traditional sampling-b",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-guardrails-sydney/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-16-aws-announcing-web-search-on-amazon-bedrock-agentcore-",
-      "date": "2026-06-16",
-      "name": "Announcing Web Search on Amazon Bedrock AgentCore for Agentic Web Retrieval",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>As AI agents become more capable, they need access to information beyond a model's training data - to answer questions, retrieve latest facts, and take action grounded in current developments. Today, we're making that",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-web-search/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-16-aws-amazon-quick-expands-integrations-with-new-connect",
-      "date": "2026-06-16",
-      "name": "Amazon Quick expands integrations with new connectors for Adobe, Figma, WhatsApp, and more",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Quick now connects to 16 additional tools, allowing teams to act on insights from their data, analytics, design, and communication apps without switching context. New connectors include Adobe, Cisco Video Messa",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-adobe-figma-whatsapp/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-15-openai-fedramp-workspaces-and-api-orgs-have-degraded-perf",
-      "date": "2026-06-15",
-      "name": "FedRAMP workspaces and API orgs have degraded performance",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Investigating</b><br /><br />We are investigating the issue for the listed services.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>FedRAMP (Degraded performance)</li>\n          </ul>",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KV6NGBYE50GK3TRXHD2EMTXA"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-15-aws-aws-management-console-private-access-now-works-wi",
-      "date": "2026-06-15",
-      "name": "AWS Management Console Private Access now works without internet connectivity",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Management Console Private Access now enables customers to access the AWS Console from VPCs without internet connectivity, allowing enterprises to manage their AWS infrastructure through the console while maintain",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-management-console-private/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-15-aws-amazon-bedrock-agentcore-memory-now-supports-stric",
-      "date": "2026-06-15",
-      "name": "Amazon Bedrock AgentCore Memory now supports strictly consistent metadata for long-term memory",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock AgentCore Memory extracts useful information from short-term memory and stores it as long-term memory records. Metadata on these records helps organize, filter, and route them for retrieval. Previously,",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/agentcore-memory-scmetadata"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-15-aws-amazon-cloudwatch-introduces-log-analytics-for-uni",
-      "date": "2026-06-15",
-      "name": "Amazon CloudWatch introduces Log Analytics for unified log analysis",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon CloudWatch now offers Log Analytics, a unified console experience that brings together CloudWatch Logs Insights for querying and analyzing log data, Live Tail for real-time log streaming, and Contributor Insigh",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-log-analytics/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-15-aws-amazon-route-53-resolver-dns-firewall-now-supports",
-      "date": "2026-06-15",
-      "name": "Amazon Route 53 Resolver DNS Firewall now supports Palo Alto Networks Advanced DNS Security (Preview)",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Web Services announces the preview of Palo Alto Networks (PANW) Advanced DNS Security on Amazon Route 53 Resolver DNS Firewall. Security administrators can now enforce DNS threat protections from Palo Alto Netw",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-route-53-resolver-dns/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-15-aws-aws-launches-cost-explorer-historical-data-retenti",
-      "date": "2026-06-15",
-      "name": "AWS launches Cost Explorer historical data retention for accounts in billing groups",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS announces Cost Explorer historical data retention for accounts in billing groups. &nbsp;</p> \n<p>Customers can use AWS Billing Conductor and Billing Transfer to map accounts to billing groups, enabling them",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cost-explorer/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-15-aws-aws-lambda-managed-instances-now-supports-tag-prop",
-      "date": "2026-06-15",
-      "name": "AWS Lambda Managed Instances now supports Tag Propagation for Managed Resources",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Lambda Managed Instances (LMI) now supports tag propagation, enabling you to automatically apply tags to managed resources such as Amazon EC2 instances, Amazon EBS volumes, and Amazon ENIs. This helps you enforce ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lambda-managed-instances-tag-propagation/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-15-aws-aws-devops-agent-expands-with-custom-sre-agents-an",
-      "date": "2026-06-15",
-      "name": "AWS DevOps Agent expands with custom SRE agents and MCP/A2A protocols",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS DevOps Agent now supports custom SRE agents, bring-your-own sub-agents, and headless access via MCP and A2A protocols. These capabilities enable teams to automate recurring SRE workflows, extend DevOps Agent by co",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-devops-agent-custom-agents/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-15-aws-amazon-ec2-c8i-instances-are-now-available-in-euro",
-      "date": "2026-06-15",
-      "name": "Amazon EC2 C8i instances are now available in Europe (Stockholm) region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8i instances are available in the Europe (Stockholm) region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c8i-instances-europe-stockholm-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-15-aws-amazon-ec2-c7i-instances-are-now-available-in-the-",
-      "date": "2026-06-15",
-      "name": "Amazon EC2 C7i instances are now available in the Israel (Tel Aviv) region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C7i instances powered by custom 4th Gen Intel Xeon Scalable processors (code-named Sapphire Rapids) are available in the Israel (Tel Aviv) Region. C7i instance",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c7i-instances-israel-tel-aviv-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-15-aws-aws-waf-announces-ai-traffic-monetization",
-      "date": "2026-06-15",
-      "name": "AWS WAF announces AI traffic monetization",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS WAF announced AI traffic monetization, a new Bot Control capability that lets you price, meter, and collect payment from AI bots and agents accessing your content and APIs. As AI agents increasingly support",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-waf-ai-traffic-monetization/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-15-aws-amazon-cloudwatch-now-supports-cross-account-metri",
-      "date": "2026-06-15",
-      "name": "Amazon CloudWatch now supports cross-account metrics centralization",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, Amazon Web Services announces the general availability of Amazon CloudWatch Metrics Centralization, which enables you to replicate CloudWatch metrics cross-account and cross-region into a single destination acc",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cross-account-metrics-centralization"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-15-aws-amazon-cloudwatch-query-studio-is-now-generally-av",
-      "date": "2026-06-15",
-      "name": "Amazon CloudWatch Query Studio is now generally available",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, Amazon Web Services announces the general availability of Amazon CloudWatch Query Studio, a unified querying and visualization experience that enables you to explore metrics from a single interface within the C",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-query-studio-generally-available"
         }
       ],
       "impact": 5,
