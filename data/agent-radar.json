@@ -73,6 +73,78 @@
       "tags": []
     },
     {
+      "id": "2026-06-19-dust-spa-poke-232758c-front-refactor-usage-page-to-use-",
+      "date": "2026-06-19",
+      "name": "spa/poke/232758c: [front] Refactor Usage page to use Members/Settings tabs (#27624)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>[front] Refactor Usage page to use Members/Settings tabs</li>\n</ul>\n<p>Splits the previously stacked \"Settings\" and \"Members\" sections of the<br />\nworkspace Usage page into a Tabs component, matching the target",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F232758c"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-19-dust-spa-poke-64e09f3-feat-analytics-add-skills-metadat",
+      "date": "2026-06-19",
+      "name": "spa/poke/64e09f3: feat(analytics): add skills metadata export table (#27592)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>Adds a new \"skills\" analytics export table exposed via<br />\nGET /api/v1/w/{wId}/analytics/export. It complements the existing<br />\n\"skill_usage\" time-series table by providing per-skill metadata<br />\n(skillId, name",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F64e09f3"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-19-dust-spa-poke-9cb1fdb",
+      "date": "2026-06-19",
+      "name": "spa/poke/9cb1fdb",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Make Pods skill always auto equiped for all agents. (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/27610\">#27610</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9cb1fdb"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-19-dust-spa-poke-6a5b8e6-flav-defer-cold-tool-behind-anthr",
+      "date": "2026-06-19",
+      "name": "spa/poke/6a5b8e6: Flav/defer cold tool behind anthropic tool search (#27655)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>Defer cold MCP tools behind Anthropic's tool search to stop tool changes from busting the prompt cache</p>\n</li>\n<li>\n<p>✂️</p>\n</li>\n<li>\n<p>🐒</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6a5b8e6"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-06-18-openai-chatgpt-failing-to-load-or-save",
       "date": "2026-06-18",
       "name": "ChatGPT failing to load or save",
@@ -412,6 +484,24 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-06-18-aws-amazon-workspaces-personal-supports-ubuntu-24-04",
+      "date": "2026-06-18",
+      "name": "Amazon WorkSpaces Personal Supports Ubuntu 24.04",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS announces availability of Ubuntu 24.04 LTS bundles for Amazon WorkSpaces Personal in the AWS China (Ningxia) Region, operated by NWCD. With this bundle, customers in China can launch Ubuntu WorkSpaces and take adv",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ubuntu-china-zhy/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
       "tags": []
     },
     {
@@ -983,96 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-partner-central-foundational-technical-review/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-16-aws-amazon-rds-for-sql-server-now-supports-x2m-instanc",
-      "date": "2026-06-16",
-      "name": "Amazon RDS for SQL Server now supports X2m instances",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for SQL Server</a> launches memory-optimized X2m database instances. Based on the Amazon EC2 X2iedn insta",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/rds-sqlserver-supports-x2m/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-16-aws-amazon-s3-vectors-reduces-query-charges-by-up-to-8",
-      "date": "2026-06-16",
-      "name": "Amazon S3 Vectors reduces query charges by up to 80% for large vector indexes",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon S3 Vectors has reduced data processed charges for queries on vector indexes with over 10 million vectors by up to 80%. This reduction lowers costs for customers running similarity search across large-scale AI, ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/s3-vectors-reduces-query-charges-80-percent-large-indexes/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-16-aws-aws-marketplace-reduces-listing-fee-for-profession",
-      "date": "2026-06-16",
-      "name": "AWS Marketplace reduces listing fee for professional services to 0.5%",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Marketplace now offers a 0.5% listing fee for professional services private offers, reduced from 2.5%. This makes it more cost-effective for consulting partners, systems integrators, managed services providers and",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/reduce-listing-fee-professional-services-aws-marketplace"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-16-aws-aws-partners-can-now-accelerate-co-sell-deals-with",
-      "date": "2026-06-16",
-      "name": "AWS Partners can now accelerate co-sell deals with express private offers",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Partners co-selling with AWS can now use express private offers to automate pricing within co-sell workflows. Partners configure their pricing rules, discount boundaries, and eligible products once, and when AWS s",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-partners-express-private-offers"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-16-aws-aws-announces-amazon-connect-customer-services-com",
-      "date": "2026-06-16",
-      "name": "AWS announces Amazon Connect Customer Services Competency",
-      "vendor": "AWS",
-      "type": "deprecation",
-      "summary": "<p>AWS announces the Amazon Connect Customer Competency, a new AWS Specialization that helps customers identify Services Partners with proven expertise in transforming enterprise-wide customer experience on Amazon Connec",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-announces-amazon-connect-customer-services-competency"
         }
       ],
       "impact": 5,
