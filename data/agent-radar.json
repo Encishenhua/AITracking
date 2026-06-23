@@ -1,6 +1,114 @@
 {
   "items": [
     {
+      "id": "2026-06-22-openai-daybreak-tools-for-securing-every-organization-in-",
+      "date": "2026-06-22",
+      "name": "Daybreak: Tools for securing every organization in the world",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/daybreak-securing-the-world"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-22-aws-aws-healthomics-now-supports-nextflow-profiles",
+      "date": "2026-06-22",
+      "name": "AWS HealthOmics now supports Nextflow profiles",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS HealthOmics now supports Nextflow profiles, enabling customers to activate predefined execution settings at run time. Nextflow profiles allow customers to define reusable settings and select them at the point of e",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-nextflow-profiles/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-22-aws-aws-introduces-lambda-microvms-for-isolated-execut",
+      "date": "2026-06-22",
+      "name": "AWS introduces Lambda MicroVMs for isolated execution of user and AI-generated code",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS introduces Lambda MicroVMs, a new serverless compute primitive that provides VM-level isolation, near-instant launch and resume speeds, and state preservation for executing user or AI-generated code. You can now g",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lambda-microvms/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-22-aws-aws-iam-identity-center-now-supports-separate-quot",
+      "date": "2026-06-22",
+      "name": "AWS IAM Identity Center now supports separate quotas for AWS accounts and applications",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS IAM Identity Center now supports separate quotas for the number of AWS accounts and applications that can be configured in an IAM Identity Center instance. By default, you can configure up to 7,000 AWS accounts an",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-identity-center-separate-quotas/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-22-aws-amazon-msk-now-offers-ai-agent-skills-to-help-deve",
+      "date": "2026-06-22",
+      "name": "Amazon MSK now offers AI Agent Skills to help developers operate MSK efficiently and accelerate migrations to MSK",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon MSK now offers AI Agent Skills that give AI coding assistants expert, up-to-date guidance for operating Amazon MSK. The skills provide expert guidance for common operational tasks such as troubleshooting, sizin",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-msk-ai-agent-skills"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-22-dust-spa-poke-10f3ee5-workspace-default-agent-feature-2",
+      "date": "2026-06-22",
+      "name": "spa/poke/10f3ee5: Workspace default agent feature (#27587)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Workspace admin can select a default agent for all new conversations in the workspace. This includes conversations in pods if a pod default agent has not been selected. Will remain a feature flag that is only turned o",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F10f3ee5"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-06-19-openai-chatgpt-com-access-issues",
       "date": "2026-06-19",
       "name": "chatgpt.com access issues",
@@ -505,6 +613,24 @@
       "tags": []
     },
     {
+      "id": "2026-06-18-aws-aws-parallel-computing-service-supports-p6e-gb200-",
+      "date": "2026-06-18",
+      "name": "AWS Parallel Computing Service supports P6e-GB200 and P6e-GB300 UltraServers",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Parallel Computing Service (PCS) now supports Amazon EC2 P6e-GB200 and P6e-GB300 UltraServer instances, enabling customers to run large-scale GPU workloads using the NVIDIA Blackwell architecture within Slurm-mana",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-parallel-computing-service/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-06-17-openai-fedramp-workspaces-and-api-orgs-have-degraded-perf",
       "date": "2026-06-17",
       "name": "FedRAMP workspaces and API orgs have degraded performance",
@@ -947,132 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-sign-in/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-16-aws-amazon-redshift-rg-instances-powered-by-aws-gravit",
-      "date": "2026-06-16",
-      "name": "Amazon Redshift RG instances powered by AWS Graviton now available in additional regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Redshift is expanding the general availability of <a href=\"https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-redshift-rg-instances-powered-by-graviton/\">RG instances</a> — powered by AWS Graviton proces",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-redshift-rg-instances-3-additional-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-16-aws-aws-announces-aws-blocks-an-open-source-framework-",
-      "date": "2026-06-16",
-      "name": "AWS announces AWS Blocks, an open-source framework for composing application backends on AWS (Preview)",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Today, AWS announces the public preview of AWS Blocks, an open-source TypeScript framework for application developers who want backend capabilities on AWS removing the need to learn infrastructure tools. AWS Blocks ru",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-blocks-preview"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-16-aws-aws-partner-central-agents-now-accelerate-co-selli",
-      "date": "2026-06-16",
-      "name": "AWS Partner Central agents now accelerate co-selling on every deal",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, AWS Partner Central agents qualify every co-sell opportunity in real time and make recommendations that drive AWS engagement and accelerate deal progression. Building on the <a href=\"https://aws.amazon",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/accelerate-co-selling-with-agents/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-16-aws-amazon-cloudwatch-introduces-native-opentelemetry-",
-      "date": "2026-06-16",
-      "name": "Amazon CloudWatch introduces native OpenTelemetry metrics with PromQL querying and per-GB pricing",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon CloudWatch now natively supports OpenTelemetry metrics. You can send metrics via the OpenTelemetry Protocol (OTLP) and query them using Prometheus Query Language (PromQL), with per-GB ingestion pricing and 15 m",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-otel-metrics/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-16-aws-aws-marketplace-announces-ai-assisted-product-list",
-      "date": "2026-06-16",
-      "name": "AWS Marketplace announces AI-assisted product listing",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS Marketplace announces AI-assisted product listing in Partner Assistant chat, helping Independent Software Vendors (ISVs) and Consulting Partners create high-quality product listings on AWS Marketplace using",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ai-assisted-product-listing/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-16-aws-aws-partner-central-launches-new-funding-benefits-",
-      "date": "2026-06-16",
-      "name": "AWS Partner Central launches new funding benefits for Business Value Realization",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Partner Central now supports the Business Value Realization (BVR) motion, a new experience and funding motion for partners who drive customer adoption and business outcomes after deploying strategic AWS services. ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-partner-business-value-realization/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-16-aws-aws-partner-central-now-validates-foundational-tec",
-      "date": "2026-06-16",
-      "name": "AWS Partner Central now validates Foundational Technical Review in minutes",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Partner Central now accepts SOC 2 Type II audit reports or AWS Well-Architected Framework Reviews (WAFR) reports to complete Foundational Technical Review (FTR) in minutes. This streamlined process with AI-powered",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-partner-central-foundational-technical-review/"
         }
       ],
       "impact": 5,
