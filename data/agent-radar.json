@@ -1,6 +1,258 @@
 {
   "items": [
     {
+      "id": "2026-06-23-aws-amazon-cloudwatch-logs-supports-managed-syslog-ing",
+      "date": "2026-06-23",
+      "name": "Amazon CloudWatch Logs supports managed syslog ingestion",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon CloudWatch Logs supports managed syslog ingestion, enabling customers to send syslog messages from firewalls, routers, switches, and Linux servers directly into CloudWatch Logs.<br /> <br /> With today's launch",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-syslog-ingestion/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-23-aws-sagemaker-notebook-instances-now-support-g6e-insta",
+      "date": "2026-06-23",
+      "name": "SageMaker Notebook Instances now support G6e instance types",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>We are pleased to announce general availability of Amazon EC2 G6e instances on SageMaker notebook instances.</p> \n<p><a href=\"https://aws.amazon.com/ec2/instance-types/g6e/\"><u>Amazon EC2 G6e instances</u></a> are pow",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/03/g6e-new-launch-sagemaker-notebook-instances/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-23-aws-amazon-bedrock-agentcore-memory-now-supports-cross",
+      "date": "2026-06-23",
+      "name": "Amazon Bedrock AgentCore Memory now supports cross-account access",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock AgentCore Memory now enables cross-account access, allowing you to build multi-account architectures where memory resources and consuming agents span multiple AWS accounts. You can grant principals in o",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/agentcore-memory-cross-account-access"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-23-aws-aws-healthomics-now-supports-ephemeral-storage-for",
+      "date": "2026-06-23",
+      "name": "AWS HealthOmics now supports ephemeral storage for private workflows",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS HealthOmics adds ephemeral storage for private workflows, giving bioinformatics workloads dedicated scratch space that delivers more consistent run performance and lower costs. Each workflow task now receives a de",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/healthomics-scratch-storage/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-23-aws-amazon-cognito-now-supports-customer-managed-key-f",
+      "date": "2026-06-23",
+      "name": "Amazon Cognito now supports customer managed key for encryption at rest",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Cognito now supports customer managed keys in AWS Key Management Service (KMS) for encrypting user pool data at rest. While AWS owned keys are used by default to protect your data, customer managed keys give yo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-customer-managed-key"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-23-aws-automated-reasoning-checks-in-amazon-bedrock-guard",
+      "date": "2026-06-23",
+      "name": "Automated Reasoning checks in Amazon Bedrock Guardrails add new policy refinement workflows",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces new automated refinement workflows for Automated Reasoning checks in Amazon Bedrock Guardrails. Automated Reasoning checks use formal logic to mathematically validate the accuracy of generative AI",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-guardrails/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-23-aws-amazon-cloudwatch-launches-otel-container-insights",
+      "date": "2026-06-23",
+      "name": "Amazon CloudWatch launches OTel Container Insights for Amazon EKS",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>CloudWatch OTel Container Insights for Amazon EKS collects infrastructure metrics at 30-second granularity using open-source receivers including cAdvisor, Kube State Metrics, and NVIDIA DCGM. Each metric carries OpenT",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-otel-amazon-eks/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-23-aws-claude-tag-is-now-available-in-beta-via-claude-ent",
+      "date": "2026-06-23",
+      "name": "Claude Tag is now available in beta via Claude Enterprise in AWS Marketplace",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Anthropic is launching Claude Tag — bringing Claude directly into the channels where your team already works, starting with Slack. Claude Tag is available today in beta to AWS customers who access Claude Enterprise th",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/claude-tag-aws-marketplace/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-23-aws-amazon-opensearch-service-now-offers-ai-assisted-m",
+      "date": "2026-06-23",
+      "name": "Amazon OpenSearch Service now offers AI-assisted migrations",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Migration Assistant for&nbsp;Amazon OpenSearch Service now includes an <a href=\"https://docs.aws.amazon.com/solutions/latest/migration-assistant-for-amazon-opensearch-service/agent-assisted-migration.html\" rel=\"noopen",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-opensearch-service-ai-migrations"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-23-aws-amazon-sagemaker-studio-notebooks-now-support-g7e-",
+      "date": "2026-06-23",
+      "name": "Amazon SageMaker Studio notebooks now support G7e instance types",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/ec2/instance-types/g7e/\">Amazon G7e instances</a> feature up to 8 NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs, with 96 GB of memory per GPU, and 5th Generation Intel Xeon processo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/g7e-new-launch-sagemaker-studio-notebooks/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-23-dust-spa-poke-94312c2-builder-gate-admin-editing-on-age",
+      "date": "2026-06-23",
+      "name": "spa/poke/94312c2: [Builder] Gate admin editing on agents (#27820)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>\n<p>Gate agent builder edits for admin non-editors</p>\n</li>\n<li>\n<p>Handle agent editor load failures</p>\n</li>\n<li>\n<p>Address agent builder review comments</p>\n</li>\n<li>\n<p>Shrink agent editor gate to persis",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F94312c2"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-23-dust-spa-poke-515d4c7",
+      "date": "2026-06-23",
+      "name": "spa/poke/515d4c7",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Fix: do not completely ignore the AGENTS.md file if it's too big. (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/2\">#2</a>…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F515d4c7"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-23-dust-spa-poke-157cac7-feat-llm-add-xai-provider-scaffol",
+      "date": "2026-06-23",
+      "name": "spa/poke/157cac7: feat(llm): add xAI provider scaffolding to the new LLM router (#27797)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>Lays the groundwork for serving Grok models through the new<br />\nmodel_constructors router. xAI is OpenAI-Responses-compatible, so the<br />\nclient is a thin clone of the OpenAI Responses client (fixed api.x.ai<br />",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F157cac7"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-23-dust-spa-poke-81d7940-front-new-pricing-page-26343",
+      "date": "2026-06-23",
+      "name": "spa/poke/81d7940: [front] New pricing page (#26343)",
+      "vendor": "Dust",
+      "type": "pricing",
+      "summary": "<ul>\n<li>[marketing] Redesign pricing page and refresh partner hero</li>\n</ul>\n<p>Ports the pricing-page redesign and partner-hero refresh onto the<br />\nmarketing/ workspace (the landing site moved out of front/). Impor",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F81d7940"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-06-22-openai-daybreak-tools-for-securing-every-organization-in-",
       "date": "2026-06-22",
       "name": "Daybreak: Tools for securing every organization in the world",
@@ -104,6 +356,42 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-22-aws-aws-transform-for-migrations-now-supports-all-aws-",
+      "date": "2026-06-22",
+      "name": "AWS Transform for migrations now supports all AWS commercial regions as migration targets",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Transform for migrations now supports all AWS commercial regions as migration targets. A migration target region is the AWS region where migrated resources are deployed, including landing zones, network infrastruc",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-migrations-region-expansion/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-22-aws-msk-replicator-now-supports-mutual-tls-mtls-authen",
+      "date": "2026-06-22",
+      "name": "MSK Replicator now supports mutual TLS (mTLS) authentication for replication from external Apache Kafka clusters to MSK Express brokers",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon MSK Replicator now supports mutual TLS (mTLS) authentication for data replication from external Apache Kafka clusters - including on-premises, self-managed on AWS, or other cloud providers - to <a href=\"https:/",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-msk-replicator-mtls-support"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -785,294 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-new-optimization-capabilities"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-17-aws-agentcore-harness-in-now-generally-available",
-      "date": "2026-06-17",
-      "name": "AgentCore harness in now generally available",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the general availability of the managed agent harness in Amazon Bedrock AgentCore, taking teams from idea to working agents in minutes. An agent is more than a model. If the model is the brain, th",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-harness-generally-available"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-17-aws-amazon-bedrock-agentcore-now-supports-bedrock-guar",
-      "date": "2026-06-17",
-      "name": "Amazon Bedrock AgentCore now supports Bedrock Guardrails in policy",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS announces that Amazon Bedrock AgentCore now supports Bedrock Guardrails in policy, giving enterprises deeper safety and security controls as they scale AI agents in production. AgentCore policy is an author",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-policy-guardrails-generally-available"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-17-aws-aws-glue-data-catalog-now-supports-business-contex",
-      "date": "2026-06-17",
-      "name": "AWS Glue Data Catalog now supports business context and semantic search (Preview)",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Today, AWS announces the preview of business context and semantic search for AWS Glue Data Catalog, helping you discover and understand data by semantic meaning. You can now enrich your Glue Data Catalog tables, inclu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-glue-data-catalog/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-17-aws-introducing-aws-continuum-for-security-at-machine-",
-      "date": "2026-06-17",
-      "name": "Introducing AWS Continuum for security at machine speed",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces AWS Continuum, which&nbsp;discovers, prioritizes, validates, and remediates security risks at machine speed within guardrails you define. Frontier models have made finding software vulnerabilities",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-continuum/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-17-aws-aws-secrets-manager-introduces-safe-secrets-handli",
-      "date": "2026-06-17",
-      "name": "AWS Secrets Manager introduces safe secrets handling in the Agent Toolkit for AWS",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Secrets Manager now offers a secret safety skill as part of the aws-core plugin in the <a href=\"https://github.com/aws/agent-toolkit-for-aws\">Agent Toolkit for AWS</a>, an open-source repository that equips AI cod",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/safe-secrets-handling-in-agent-toolkit-for-aws/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-17-aws-amazon-bedrock-managed-knowledge-base-is-now-gener",
-      "date": "2026-06-17",
-      "name": "Amazon Bedrock Managed Knowledge Base is now generally available",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Bedrock Managed Knowledge Base, a fully managed retrieval-augmented generation (RAG) service, is now generally available. With Managed Knowledge Base, developers can build production-ready AI agents grounded in",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-managed-knowledge-base/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-17-aws-aws-security-agent-announces-support-for-threat-mo",
-      "date": "2026-06-17",
-      "name": "AWS Security Agent announces support for Threat Modeling",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Security Agent (now part of AWS Continuum) now includes threat modeling, an AI-powered agentic capability that automatically generates threat models for your applications. Available today in public preview, AWS Se",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-security-agent-threat-modeling/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-17-aws-aws-security-agent-adds-kiro-power-claude-code-sim",
-      "date": "2026-06-17",
-      "name": "AWS Security Agent adds Kiro Power, Claude Code, simulated validations and new integrations support",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS Security Agent (now part of AWS Continuum) adds support for Kiro and Claude Code, enabling developers to trigger security scans directly from their development environment. AWS Security Agent now also validates co",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-kiro-power-claude-code/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-17-dust-spa-poke-041d797-add-lemlist-remote-mcp-server-268",
-      "date": "2026-06-17",
-      "name": "spa/poke/041d797: Add Lemlist remote MCP server (#26814)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>Add Lemlist as a remote MCP server</li>\n</ul>\n<p>Adds the Lemlist sales engagement platform as a default remote MCP<br />\nserver (id: 10020, oauth-dynamic auth) so agents can create outreach<br />\ncampaigns and ",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F041d797"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-17-dust-spa-poke-8e76584-feat-credits-add-workspace-auto-s",
-      "date": "2026-06-17",
-      "name": "spa/poke/8e76584: feat(credits): add workspace auto-seat-upgrade setting (#27421)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>feat(credits): add workspace auto-seat-upgrade setting</p>\n</li>\n<li>\n<p>empty commit retrigger CI</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8e76584"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-17-aws-agentcore-harness-is-now-generally-available",
-      "date": "2026-06-17",
-      "name": "AgentCore harness is now generally available",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the general availability of the managed agent harness in Amazon Bedrock AgentCore, taking teams from idea to working agents in minutes. An agent is more than a model. If the model is the brain, th",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-harness-generally-available"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-16-aws-amazon-bedrock-guardrails-announces-a-new-api-targ",
-      "date": "2026-06-16",
-      "name": "Amazon Bedrock Guardrails announces a new API targeting agentic AI workflows",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/bedrock/guardrails/\">Amazon Bedrock Guardrails</a> now offers the InvokeGuardrailChecks API, a new resourceless API that lets you apply individual safeguards at any point in your agenti",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-guardrails-api-ai/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-16-aws-aws-transform-now-supports-model-to-model-migratio",
-      "date": "2026-06-16",
-      "name": "AWS Transform now supports model-to-model migration assessment for generative AI workloads",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Transform now offers a model-to-model migration custom transformation that assesses your generative AI workloads and produces a comprehensive migration plan for moving from third-party providers to Amazon Bedrock.",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-model-to-model-assessments"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-16-aws-amazon-s3-vectors-now-supports-up-to-10-000-simila",
-      "date": "2026-06-16",
-      "name": "Amazon S3 Vectors now supports up to 10,000 similarity search results per query",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon S3 Vectors can now return up to 10,000 similarity search results per query, a 100x increase from the previous limit.&nbsp;The higher result limit helps you retrieve a larger, more comprehensive set of candidate",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/s3-vectors-supports-10000-search-results-per-query"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-16-aws-aws-transform-for-mainframe-now-delivers-a-traceab",
-      "date": "2026-06-16",
-      "name": "AWS Transform for mainframe now delivers a traceable reimagine workflow",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Transform for mainframe now delivers a connected, traceable reimagine experience from assessment through code generation. Previously, modernizing mainframe applications required months of analysis across multiple ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-mainframe-traceable-reimagine-workflow/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-16-aws-aws-sign-in-now-supports-resource-based-policies-a",
-      "date": "2026-06-16",
-      "name": "AWS Sign-in now supports resource-based policies and resource control policies",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Sign-in now supports resource-based policies and resource control policies (RCPs) for the AWS Management Console. You can use these policies to restrict console sign-in to expected networks. Policies are evaluated",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-sign-in/"
         }
       ],
       "impact": 5,
