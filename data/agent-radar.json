@@ -1,6 +1,150 @@
 {
   "items": [
     {
+      "id": "2026-06-24-aws-amazon-ec2-announces-ami-watermarks-for-improved-a",
+      "date": "2026-06-24",
+      "name": "Amazon EC2 announces AMI Watermarks for improved AMI governance",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon EC2 introduces AMI watermarks, letting you embed custom identifiers in your private AMIs. Once applied, a watermark automatically carries forward to every AMI derived from the original, whether you copy it acro",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-image-watermarks-allowed-images"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-24-aws-amazon-cloudwatch-now-supports-tags-on-dashboards",
+      "date": "2026-06-24",
+      "name": "Amazon CloudWatch now supports tags on dashboards",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/cloudwatch\" rel=\"noopener noreferrer\" target=\"_blank\">A<i><b></b></i>mazon CloudWatch</a> now supports tagging for CloudWatch dashboards, enabling you to organize, categorize, and contr",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-tags-on-dashboards"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-24-aws-amazon-ec2-high-memory-u7in-24tb-instances-now-ava",
+      "date": "2026-06-24",
+      "name": "Amazon EC2 High Memory U7in-24TB instances now available in AWS Asia Pacific (Seoul) region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon EC2 High Memory U7in-24TB instances (u7in-24tb.224xlarge) are now available in AWS Asia Pacific (Seoul) region. U7i instances are part of the AWS 7th generation and are powered by custom fourth-generation Intel",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-u7in-24tb-aws-seoul/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-24-dust-spa-poke-8937bf9",
+      "date": "2026-06-24",
+      "name": "spa/poke/8937bf9",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>fix: agent builder preview infinite rendering (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/27934\">#27934</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8937bf9"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-24-dust-spa-poke-32f85df",
+      "date": "2026-06-24",
+      "name": "spa/poke/32f85df",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>Gate whitelabel frames behind a feature flag and drop the plan column…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F32f85df"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-24-dust-spa-poke-9d553e7-front-skip-phone-verification-if-",
+      "date": "2026-06-24",
+      "name": "spa/poke/9d553e7: [front] skip phone verification if already done for workspace (#27919)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>[front] VerifyPage: skip phone verification if already done for workspace</p>\n</li>\n<li>\n<p>update tests</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9d553e7"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-24-dust-spa-poke-6b056f2",
+      "date": "2026-06-24",
+      "name": "spa/poke/6b056f2",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Fix: do not alter inputs of remote mcp servers. (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/27838\">#27838</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6b056f2"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-24-dust-spa-poke-2d17a9f-skills-filter-discoverable-skills",
+      "date": "2026-06-24",
+      "name": "spa/poke/2d17a9f: [Skills] Filter discoverable skills with run context (#27807)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>\n<p>Fix skill enable allow-list</p>\n</li>\n<li>\n<p>Align skill enablement with run context</p>\n</li>\n<li>\n<p>Close skill enable context gaps</p>\n</li>\n<li>\n<p>Align skill prompt with enable allow-list</p>\n</li>\n<",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2d17a9f"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-06-23-aws-amazon-cloudwatch-logs-supports-managed-syslog-ing",
       "date": "2026-06-23",
       "name": "Amazon CloudWatch Logs supports managed syslog ingestion",
@@ -248,6 +392,24 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-23-aws-amazon-guardduty-ai-powered-investigations-acceler",
+      "date": "2026-06-23",
+      "name": "Amazon GuardDuty AI-powered investigations accelerate threat response (Preview)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS announces the preview of AI-powered investigations in Amazon GuardDuty, a new capability that automatically analyzes GuardDuty findings and accounts to help you quickly distinguish true threats from benign finding",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-guardduty/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -911,168 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-parallel-computing-service/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-17-openai-fedramp-workspaces-and-api-orgs-have-degraded-perf",
-      "date": "2026-06-17",
-      "name": "FedRAMP workspaces and API orgs have degraded performance",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Investigating</b><br /><br />We are still investigating the issue for the listed services.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>FedRAMP (Degraded performance)</li>\n          </ul>",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KV6NGBYE50GK3TRXHD2EMTXA"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-17-aws-aws-glue-interactive-sessions-now-support-spark-co",
-      "date": "2026-06-17",
-      "name": "AWS Glue Interactive Sessions now support Spark Connect for interactive workloads",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Glue Interactive Sessions now support Apache Spark Connect, using which you can now develop and run Apache Spark applications from your preferred environment, including managed notebooks in Amazon SageMaker Unifie",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-glue-interactive-sessions-spark-connect-smus-notebooks"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-17-aws-aws-healthomics-now-streams-workflow-engine-logs-t",
-      "date": "2026-06-17",
-      "name": "AWS HealthOmics now streams workflow engine logs to Amazon CloudWatch in real time",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS HealthOmics now streams workflow engine logs to Amazon CloudWatch in real time, enabling customers to monitor workflow execution progress as it happens. <a href=\"https://aws.amazon.com/healthomics/\">AWS HealthOmic",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-real-time-engine-log-streaming/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-17-aws-aws-devops-agent-adds-release-management-capabilit",
-      "date": "2026-06-17",
-      "name": "AWS DevOps Agent adds release management capability (preview)",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS DevOps Agent now offers a release management capability in preview, reviewing code changes for release readiness and running autonomous release testing to help you ship code to production safely and with confidenc",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-devops-agent-release-management/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-17-aws-amazon-rds-for-postgresql-mysql-and-mariadb-now-su",
-      "date": "2026-06-17",
-      "name": "Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports M9g database instances",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Graviton5-based M9g database (DB) instances are now generally available for <a href=\"https://aws.amazon.com/rds/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Relational Database Service (RDS)</a> for PostgreS",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-postgresql-mysql-mariadb-m9g-instances/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-17-aws-amazon-aurora-and-rds-for-mysql-expand-extended-su",
-      "date": "2026-06-17",
-      "name": "Amazon Aurora and RDS for MySQL expand Extended Support for MySQL 5.7 through June 2029",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Aurora MySQL-Compatible Edition and Amazon Relational Database Service (RDS) for MySQL now offer <a href=\"https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/extended-support.html\">Amazon RDS Extended Suppor",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/rds-mysql-es-extension/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-17-aws-aws-outposts-racks-now-support-bmn-cx3a-instances-",
-      "date": "2026-06-17",
-      "name": "AWS Outposts racks now support bmn-cx3a instances, the first AMD-based instances with accelerated networking on Outposts",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS announces the availability of bmn-cx3a instances on second-generation AWS Outposts racks. Bmn-cx3a instances feature 5th Gen AMD EPYC processors with a maximum frequency of 4.1 GHz and NVIDIA ConnectX-7 (CX7) netw",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-outposts-amd-bmn-cx3a/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-17-aws-amazon-quick-announces-autonomous-agents-multi-dat",
-      "date": "2026-06-17",
-      "name": "Amazon Quick announces autonomous agents, multi-dataset analytics, and redesigned activity feed",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces multiple new features for Amazon Quick, including autonomous agents, multi-dataset analytics capabilities, and a redesigned activity feed. Amazon Quick is the AI assistant that connects to popular",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-17-aws-amazon-bedrock-agentcore-introduces-new-optimizati",
-      "date": "2026-06-17",
-      "name": "Amazon Bedrock AgentCore introduces new optimization capabilities to continuously improve agents in production",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces new optimization capabilities in AgentCore that turn production traces into continuous improvement for agents. The most dangerous agent failures are not the ones that throw errors. They are the si",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-new-optimization-capabilities"
         }
       ],
       "impact": 5,
