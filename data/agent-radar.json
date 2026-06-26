@@ -1,6 +1,204 @@
 {
   "items": [
     {
+      "id": "2026-06-26-openai-small-number-of-users-have-incorrectly-cancelled-s",
+      "date": "2026-06-26",
+      "name": "Small Number of Users Have Incorrectly Cancelled Subscription",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>File uploads (Operational)</li>\n<li>Voice mode (Operational)</li>\n<li>",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KVZRA3Z551H993JHJ9P2TW9E"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-25-openai-how-agents-are-transforming-work",
+      "date": "2026-06-25",
+      "name": "How agents are transforming work",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/how-agents-are-transforming-work"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-25-aws-amazon-ec2-c7a-instances-are-now-available-in-the-",
+      "date": "2026-06-25",
+      "name": "Amazon EC2 C7a instances are now available in the Asia Pacific (Singapore) Region",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, the compute optimized Amazon EC2 C7a instances are now available in AWS Asia Pacific (Singapore) Region. C7a instances, powered by 4th Gen AMD EPYC processors (code-named Genoa) with a maximum frequenc",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c7a-instances-asia-pacific-singapore-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-25-aws-amazon-ec2-m8a-instances-now-available-in-the-asia",
+      "date": "2026-06-25",
+      "name": "Amazon EC2 M8a instances now available in the Asia Pacific (Mumbai) region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, the general-purpose Amazon EC2 M8a instances are available in AWS Asia Pacific (Mumbai) region. M8a instances are powered by 5th Gen AMD EPYC processors (formerly code named Turin) with a maximum frequ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-m8a-instances-asia-pacific-mumbai-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-25-aws-openai-gpt-openai-gpt-oss-and-nvidia-nemotron-mode",
+      "date": "2026-06-25",
+      "name": "OpenAI GPT, OpenAI GPT OSS, and NVIDIA Nemotron models on Amazon Bedrock receive FedRAMP High and DoD IL-4/5 approval in AWS GovCloud (US)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>OpenAI GPT, OpenAI GPT OSS, and NVIDIA Nemotron models are now FedRAMP High and Department of Defense Cloud Computing Security Requirements Guide (DoD CC SRG) Impact Level (IL) 4 and 5 approved within Amazon Bedrock i",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/addl-bedrock-model-fedramp-il-5-govcloud"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-25-aws-aws-network-firewall-now-supports-managed-threat-i",
+      "date": "2026-06-25",
+      "name": "AWS Network Firewall now supports managed threat intelligence rules from VisionHeight",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Network Firewall now supports two new managed rule groups from VisionHeight, available through AWS Marketplace: Zero-Day Threat Protection, and Noisy Scanners and Tor Protection. These rule groups expand the manag",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/network-firewall-visionheight-managed-rules"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-25-aws-kiro-achieves-fedramp-high-and-dod-il-4-5-authoriz",
+      "date": "2026-06-25",
+      "name": "Kiro achieves FedRAMP High and DoD IL-4/5 authorization in AWS GovCloud (US)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Kiro is now FedRAMP High and Department of Defense Cloud Computing Security Requirements Guide (DoD CC SRG) Impact Level (IL) 4 and 5 authorized in the AWS GovCloud (US) Regions.<br /> <br /> Federal agencies, public ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/kiro-fedramp-high-dod-il-4-5-govcloud-us/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-25-aws-amazon-redshift-adds-reserved-instance-upfront-pri",
+      "date": "2026-06-25",
+      "name": "Amazon Redshift adds Reserved Instance upfront pricing options for RG instances",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Redshift announces the availability of All Upfront and Partial Upfront payment options for 1-year and 3-year reserved instances for RG instances. Reserved instances allow customers to benefit from significant s",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-redshift-ri-upfront-pricing-rg-instances"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-25-aws-amazon-opensearch-ingestion-now-available-in-aws-e",
+      "date": "2026-06-25",
+      "name": "Amazon OpenSearch Ingestion now available in AWS Europe (Paris) Region",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, customers can use Amazon OpenSearch Ingestion in the Europe (Paris) Region (eu-west-3) for ingesting data into their Amazon OpenSearch Service managed clusters or serverless collections.<br /> <br /> A",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/opensearch-ingestion-europe-paris-region-availability"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-25-flowise-flowise-3-1-3",
+      "date": "2026-06-25",
+      "name": "flowise@3.1.3",
+      "vendor": "Flowise",
+      "type": "deprecation",
+      "summary": "<h2>What's Changed</h2>\n<ul>\n<li>Fix clickjacking by <a class=\"user-mention notranslate\" href=\"https://github.com/yau-wd\">@yau-wd</a> in <a class=\"issue-link js-issue-link\" href=\"https://github.com/FlowiseAI/Flowise/pull",
+      "sources": [
+        {
+          "title": "Flowise source",
+          "url": "https://github.com/FlowiseAI/Flowise/releases/tag/flowise%403.1.3"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-06-25-crewai-1-15-0",
+      "date": "2026-06-25",
+      "name": "1.15.0",
+      "vendor": "CrewAI",
+      "type": "launch",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Track conversational flow turn usage in telemetry</li>\n<li>Support conversational flows in the CLI TUI</li>\n<li>Add unified declarative flow loading</li>\n<li>Add declara",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.0"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-06-24-aws-amazon-ec2-announces-ami-watermarks-for-improved-a",
       "date": "2026-06-24",
       "name": "Amazon EC2 announces AMI Watermarks for improved AMI governance",
@@ -140,6 +338,24 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-24-aws-amazon-route-53-global-resolver-now-supports-shari",
+      "date": "2026-06-24",
+      "name": "Amazon Route 53 Global Resolver now supports sharing DNS Views between AWS Accounts",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Route 53 Global Resolver now enables you to share DNS views with other AWS accounts using AWS Resource Access Manager (AWS RAM). Consumer accounts can associate their own Route 53 private hosted zones with a sh",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-route-53-global-resolver/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -857,222 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ministral-3-14b-on-sagemaker-jumpstart/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-18-aws-amazon-eks-now-supports-customer-routed-control-pl",
-      "date": "2026-06-18",
-      "name": "Amazon EKS now supports customer-routed control plane egress",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, <a href=\"https://aws.amazon.com/eks/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Elastic Kubernetes Service</a> (Amazon EKS) introduces customer-routed control plane egress, a capability that lets you rou",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-eks-customer-routed-control-plane-egress"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-18-aws-amazon-sagemaker-ai-announces-new-observability-ca",
-      "date": "2026-06-18",
-      "name": "Amazon SageMaker AI Announces New observability capability For Inference Endpoints",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker AI's new observability capability allows customers to operate production generative AI inference workloads with confidence by providing comprehensive visibility into token performance, GPU health, inf",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-ai-inference/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-18-aws-amazon-gamelift-servers-adds-new-container-fleet-i",
-      "date": "2026-06-18",
-      "name": "Amazon GameLift Servers adds new container fleet improvements",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon GameLift Servers now supports two significant container fleet improvements that enhance flexibility and inter-container communication for game server deployments. These new capabilities address common challenge",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-gamelift-servers-container-fleet-improvements"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-18-aws-amazon-rds-for-sql-server-increases-the-maximum-si",
-      "date": "2026-06-18",
-      "name": "Amazon RDS for SQL Server increases the maximum size and provisioned performance of General Purpose (gp3) volumes",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for SQL Server</a> now supports higher volume-level limits for General Purpose (gp3) storage. With this u",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/rds-sqlserver-increases-gp3-limits/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-18-dust-spa-poke-6760143-count-seattype-none-users-for-leg",
-      "date": "2026-06-18",
-      "name": "spa/poke/6760143: Count seatType=none users for legacy plans (#27529)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>\n<p>Count seatType=none users for legacy plans</p>\n</li>\n<li>\n<p>fix test</p>\n</li>\n<li>\n<p>fix biome</p>\n</li>\n<li>\n<p>use getPlan</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6760143"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-18-dust-spa-poke-88da6e1",
-      "date": "2026-06-18",
-      "name": "spa/poke/88da6e1",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] Enable noop agent internally (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/27571\">#27571</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F88da6e1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-18-dust-spa-poke-85ea4cf-centralize-og-description-entitle",
-      "date": "2026-06-18",
-      "name": "spa/poke/85ea4cf: Centralize OG description entitlement logic in the API (#27602)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>Fix Open Graph previews for shared frames</p>\n</li>\n<li>\n<p>Fix Open Graph previews for shared frames</p>\n</li>\n<li>\n<p>Add comment explaining drift-prevention on share frame schema</p>\n</li>\n<li>\n<p>Hide vi",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F85ea4cf"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-18-dust-spa-poke-75dca1c-invite-modal-don-t-block-seat-req",
-      "date": "2026-06-18",
-      "name": "spa/poke/75dca1c: Invite modal: don't block seat requests on current availability (#27620)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>fix(front): invite modal lets admins request any offered seat type</li>\n</ul>\n<p>Seat cards in the invite modal no longer disable themselves based on<br />\ncurrent availability — every seat type present in seatP",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F75dca1c"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-18-crewai-1-14-8a2",
-      "date": "2026-06-18",
-      "name": "1.14.8a2",
-      "vendor": "CrewAI",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add single agent action to Flow definitions</li>\n<li>Validate flow CEL expressions at definition load time</li>\n</ul>\n<h3>Documentation</h3>\n<ul>\n<li>Add Datadog integra",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.8a2"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-06-18-crewai-1-14-8a",
-      "date": "2026-06-18",
-      "name": "1.14.8a",
-      "vendor": "CrewAI",
-      "type": "launch",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add script/code block action to FlowDefinition</li>\n<li>Add crew actions to FlowDefinition</li>\n<li>Add <code>each</code> composite action to FlowDefinition</li>\n<li>Imp",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.14.8a"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-06-18-aws-amazon-workspaces-personal-supports-ubuntu-24-04",
-      "date": "2026-06-18",
-      "name": "Amazon WorkSpaces Personal Supports Ubuntu 24.04",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS announces availability of Ubuntu 24.04 LTS bundles for Amazon WorkSpaces Personal in the AWS China (Ningxia) Region, operated by NWCD. With this bundle, customers in China can launch Ubuntu WorkSpaces and take adv",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ubuntu-china-zhy/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-18-aws-aws-parallel-computing-service-supports-p6e-gb200-",
-      "date": "2026-06-18",
-      "name": "AWS Parallel Computing Service supports P6e-GB200 and P6e-GB300 UltraServers",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Parallel Computing Service (PCS) now supports Amazon EC2 P6e-GB200 and P6e-GB300 UltraServer instances, enabling customers to run large-scale GPU workloads using the NVIDIA Blackwell architecture within Slurm-mana",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-parallel-computing-service/"
         }
       ],
       "impact": 5,
