@@ -19,6 +19,78 @@
       "tags": []
     },
     {
+      "id": "2026-06-26-aws-amazon-ec2-r8g-instances-now-available-in-addition",
+      "date": "2026-06-26",
+      "name": "Amazon EC2 R8g instances now available in additional regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8g instances are available in AWS Asia Pacific (Thailand, New Zealand), AWS Africa (Cape Town), AWS Europe (Milan), and AWS Canada West (Calgary) regions. The",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-r8g-instances-additional-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-26-dust-spa-poke-4194cac-remove-legacy-sandbox-owner-fallb",
+      "date": "2026-06-26",
+      "name": "spa/poke/4194cac: Remove legacy sandbox owner fallback (#28005)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>Co-authored-by: Henry Fontanier <a href=\"mailto:14199823+fontanierh@users.noreply.github.com\">14199823+fontanierh@users.noreply.github.com</a></p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F4194cac"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-26-dust-spa-poke-049f3e8",
+      "date": "2026-06-26",
+      "name": "spa/poke/049f3e8",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] chore: remove internal MCP server instructions field (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/28022\">#28022</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F049f3e8"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-26-crewai-1-15-1a1",
+      "date": "2026-06-26",
+      "name": "1.15.1a1",
+      "vendor": "CrewAI",
+      "type": "upgrade",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Track TUI button telemetry</li>\n<li>Require explicit CrewAI project definitions</li>\n<li>Open deployment page after CLI deploy</li>\n</ul>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Fix",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.1a1"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-06-25-openai-how-agents-are-transforming-work",
       "date": "2026-06-25",
       "name": "How agents are transforming work",
@@ -196,6 +268,24 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-06-25-aws-amazon-ec2-c8in-instances-are-now-available-in-add",
+      "date": "2026-06-25",
+      "name": "Amazon EC2 C8in instances are now available in additional regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8in instances are available in the AWS US East (Ohio) and Europe (Ireland) regions. C8in instances are powered by custom, sixth generation Intel Xeon Scalable",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c8in-ireland-ohio/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
       "tags": []
     },
     {
@@ -775,6 +865,24 @@
       "tags": []
     },
     {
+      "id": "2026-06-22-aws-amazon-connect-customer-launches-agentic-cx-design",
+      "date": "2026-06-22",
+      "name": "Amazon Connect Customer launches Agentic CX designer (NLX) in preview",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect Customer now offers Agentic CX designer (NLX) in preview, a no-code canvas for designing and deploying AI-powered self-service experiences. You can build and launch voice and digital experiences that br",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect-customer-agentic-cx-preview/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-06-19-openai-chatgpt-com-access-issues",
       "date": "2026-06-19",
       "name": "chatgpt.com access issues",
@@ -965,114 +1073,6 @@
         {
           "title": "OpenAI source",
           "url": "https://status.openai.com//incidents/01KV6NGBYE50GK3TRXHD2EMTXA"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-18-aws-amazon-ecs-announces-faster-service-auto-scaling",
-      "date": "2026-06-18",
-      "name": "Amazon ECS announces faster service auto scaling",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon ECS service auto scaling now detects and responds to load changes faster with support for high resolution (20-second) metrics and metric publishing optimizations. In AWS benchmarking tests, time to trigger scal",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-faster-autoscaling/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-18-aws-amazon-ec2-g7-instances-are-now-generally-availabl",
-      "date": "2026-06-18",
-      "name": "Amazon EC2 G7 instances are now generally available",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the general availability of Amazon Elastic Compute Cloud (Amazon EC2) G7 instances, accelerated by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs. G7 instances deliver up to 4.6x AI inference p",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-g7-generally-available"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-18-aws-amazon-mq-for-rabbitmq-now-supports-private-networ",
-      "date": "2026-06-18",
-      "name": "Amazon MQ for RabbitMQ now supports private networking connectivity",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon MQ for RabbitMQ now supports private networking, enabling your brokers to connect to private resources in your VPC without exposing those resources publicly.. This helps you meet your security and compliance re",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-mq-private-network-connectivity/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-18-aws-amazon-connect-customer-launches-the-ability-to-in",
-      "date": "2026-06-18",
-      "name": "Amazon Connect Customer launches the ability to interrupt an agent with an urgent contact",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect Customer now supports the ability to interrupt an agent with a contact, overriding their usual routing configuration in case of urgent or time-sensitive work. For example, an agent may be waiting for a ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect-interrupt-agent-with-urgent-contact/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-18-aws-all-minilm-l12-v2-for-semantic-search-and-sentence",
-      "date": "2026-06-18",
-      "name": "all-MiniLM-L12-v2 for semantic search and sentence similarity is now available in Amazon SageMaker JumpStart",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announced the availability of all-MiniLM-L12-v2 in Amazon SageMaker JumpStart, expanding the portfolio of models available to AWS customers. This model from Sentence Transformers maps sentences and paragrap",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/all-minilm-l12-v2-on-sagemaker-jumpstart/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-18-aws-ministral-3-14b-instruct-for-multimodal-reasoning-",
-      "date": "2026-06-18",
-      "name": "Ministral-3-14B-Instruct for multimodal reasoning and agentic AI is now available in Amazon SageMaker JumpStart",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announced the availability of Ministral-3-14B-Instruct-2512 in Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. This model from Mistral AI delivers fronti",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/ministral-3-14b-on-sagemaker-jumpstart/"
         }
       ],
       "impact": 5,
