@@ -1,6 +1,132 @@
 {
   "items": [
     {
+      "id": "2026-06-29-aws-aws-waf-adds-support-for-amazon-bedrock-agentcore-",
+      "date": "2026-06-29",
+      "name": "AWS WAF adds support for Amazon Bedrock AgentCore Gateway",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces general availability of AWS Web Application Firewall (AWS WAF) protection for Amazon Bedrock AgentCore Gateway, enabling you to protect your agentic AI workloads from common web exploits and abuse",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-waf-amazon-bedrock-agentcore/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-29-aws-amazon-mwaa-serverless-now-supports-shared-vpc-con",
+      "date": "2026-06-29",
+      "name": "Amazon MWAA Serverless now supports shared VPC configurations",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Managed Workflows for Apache Airflow (Amazon MWAA) Serverless now supports shared VPC subnets. Previously, customers using subnets shared via AWS Resource Access Manager (AWS RAM) received a validation error wh",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-mwaa-serverless-vpc/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-29-aws-amazon-s3-server-access-logs-now-deliver-to-amazon",
+      "date": "2026-06-29",
+      "name": "Amazon S3 server access logs now deliver to Amazon CloudWatch Logs and Amazon S3 Tables",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon S3 now supports delivering server access logs to Amazon CloudWatch Logs, giving you instant querying, alarms, cross-account and cross-Region aggregation, and AWS Key Management Service (KMS) encryption for your",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-s3-cloudwatch-logs-tables/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-29-dust-spa-poke-575d6f8-feat-front-add-models-picker-feat",
+      "date": "2026-06-29",
+      "name": "spa/poke/575d6f8: feat(front): add models_picker feature flag (#28105)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>feat(front): add input_bar_model_picker feature flag</li>\n</ul>\n<p>Registers the input_bar_model_picker feature flag (dust_only) in front's<br />\nconfig and the @dust-tt/client WhitelistableFeature union so fron",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F575d6f8"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-29-dust-spa-poke-76ab6e4-remove-mcp-actions-dashboard-expl",
+      "date": "2026-06-29",
+      "name": "spa/poke/76ab6e4: Remove MCP actions dashboard exploratory feature (#28166)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Co-authored-by: Claude Sonnet 4.6 <a href=\"mailto:noreply@anthropic.com\">noreply@anthropic.com</a></p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F76ab6e4"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-29-dust-spa-poke-62bfc62",
+      "date": "2026-06-29",
+      "name": "spa/poke/62bfc62",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] chore: add index to speedup agent message skill lookups (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/28042\">#28042</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F62bfc62"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-29-dust-spa-poke-9f0364a",
+      "date": "2026-06-29",
+      "name": "spa/poke/9f0364a",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>[front] Per-step credit gate: stop agent loop as retryable credits_ex…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9f0364a"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-06-27-crewai-1-15-1",
       "date": "2026-06-27",
       "name": "1.15.1",
@@ -739,6 +865,24 @@
       "tags": []
     },
     {
+      "id": "2026-06-23-aws-amazon-elasticache-now-supports-valkey-9-1",
+      "date": "2026-06-23",
+      "name": "Amazon ElastiCache now supports Valkey 9.1",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/elasticache\">Amazon ElastiCache</a> now supports Valkey 9.1 for node-based clusters, delivering higher throughput, improved memory efficiency, and stronger access control for multi-tena",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-elasticache-valkey-9-1/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-06-22-openai-daybreak-tools-for-securing-every-organization-in-",
       "date": "2026-06-22",
       "name": "Daybreak: Tools for securing every organization in the world",
@@ -929,150 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-local-zones-hanoi-vietnam/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-19-dust-spa-poke-29f28f0-fix-use-filled-star-icon-for-favo",
-      "date": "2026-06-19",
-      "name": "spa/poke/29f28f0: fix: use filled star icon for favorited agents (#27625)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>fix: use filled star icon for favorited agents</li>\n</ul>\n<p>Revert the variant-based approach from <a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/27408\">#27408</a> and restore th",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F29f28f0"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-19-dust-spa-app-29f28f0-fix-use-filled-star-icon-for-favor",
-      "date": "2026-06-19",
-      "name": "spa/app/29f28f0: fix: use filled star icon for favorited agents (#27625)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>fix: use filled star icon for favorited agents</li>\n</ul>\n<p>Revert the variant-based approach from <a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/27408\">#27408</a> and restore th",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F29f28f0"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-19-dust-spa-poke-232758c-front-refactor-usage-page-to-use-",
-      "date": "2026-06-19",
-      "name": "spa/poke/232758c: [front] Refactor Usage page to use Members/Settings tabs (#27624)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>[front] Refactor Usage page to use Members/Settings tabs</li>\n</ul>\n<p>Splits the previously stacked \"Settings\" and \"Members\" sections of the<br />\nworkspace Usage page into a Tabs component, matching the target",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F232758c"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-19-dust-spa-poke-64e09f3-feat-analytics-add-skills-metadat",
-      "date": "2026-06-19",
-      "name": "spa/poke/64e09f3: feat(analytics): add skills metadata export table (#27592)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>Adds a new \"skills\" analytics export table exposed via<br />\nGET /api/v1/w/{wId}/analytics/export. It complements the existing<br />\n\"skill_usage\" time-series table by providing per-skill metadata<br />\n(skillId, name",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F64e09f3"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-19-dust-spa-poke-9cb1fdb",
-      "date": "2026-06-19",
-      "name": "spa/poke/9cb1fdb",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Make Pods skill always auto equiped for all agents. (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/27610\">#27610</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9cb1fdb"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-19-dust-spa-poke-6a5b8e6-flav-defer-cold-tool-behind-anthr",
-      "date": "2026-06-19",
-      "name": "spa/poke/6a5b8e6: Flav/defer cold tool behind anthropic tool search (#27655)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>Defer cold MCP tools behind Anthropic's tool search to stop tool changes from busting the prompt cache</p>\n</li>\n<li>\n<p>✂️</p>\n</li>\n<li>\n<p>🐒</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6a5b8e6"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-18-openai-chatgpt-failing-to-load-or-save",
-      "date": "2026-06-18",
-      "name": "ChatGPT failing to load or save",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>File uploads (Operational)</li>\n<li>Voice mode (Operational)</li>\n<li>",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KVCC8P5XTCA7H7W7E6A2MYJS"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-18-openai-new-usage-analytics-and-updated-spend-controls-for",
-      "date": "2026-06-18",
-      "name": "New usage analytics and updated spend controls for enterprises",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/chatgpt-enterprise-spend-controls"
         }
       ],
       "impact": 5,
