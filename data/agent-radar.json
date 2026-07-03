@@ -1,6 +1,186 @@
 {
   "items": [
     {
+      "id": "2026-07-02-aws-amazon-sagemaker-unified-studio-now-supports-terra",
+      "date": "2026-07-02",
+      "name": "Amazon SageMaker Unified Studio now supports Terraform for provisioning",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker Unified Studio now supports Terraform for provisioning. Customers can use the open-source <a href=\"https://github.com/aws-ia/terraform-aws-sagemaker-unified-studio\">terraform-aws-sagemaker-unified-stu",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio-terraform/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-02-aws-amazon-ec2-x8i-instances-are-now-available-in-addi",
+      "date": "2026-07-02",
+      "name": "Amazon EC2 X8i instances are now available in additional regions",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) X8i instances are available in the Asia Pacific (Seoul), Asia Pacific (Malaysia) and Asia Pacific (Tokyo) regions. These instances are powered by custom Intel ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-ICN-KUL-NRT-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-02-aws-aws-config-now-supports-8-new-resource-types",
+      "date": "2026-07-02",
+      "name": "AWS Config now supports 8 new resource types",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Config now supports 8 additional AWS resource types across key services including Amazon API Gateway, Amazon EC2, and Amazon S3 Vectors. This expansion provides greater coverage over your AWS environment, enabling",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-config-new-resource-types"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-02-dust-spa-poke-0133630",
+      "date": "2026-07-02",
+      "name": "spa/poke/0133630",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>AgentLoopContextType -&gt; ToolContextType (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/28383\">#28383</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F0133630"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-02-dust-spa-poke-93277a5",
+      "date": "2026-07-02",
+      "name": "spa/poke/93277a5",
+      "vendor": "Dust",
+      "type": "pricing",
+      "summary": "<p>Pricing: cap per group 5: Display origin of limit on hover (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/28391\">#28391</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F93277a5"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-02-dust-spa-poke-38270b1-feat-skills-add-activation-global",
+      "date": "2026-07-02",
+      "name": "spa/poke/38270b1: feat(skills): add Activation global skill [S1-1] (#28353)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>feat(skills): add Activation global skill behind FF [S1-1]</li>\n</ul>\n<p>Introduces the <code>activation</code> global skill: surfaces the next best action for a user<br />\nto get more value from Dust, executes ",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F38270b1"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-02-dust-spa-poke-4121bb0",
+      "date": "2026-07-02",
+      "name": "spa/poke/4121bb0",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>No seat plan for non-cp workspaces (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/28347\">#28347</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F4121bb0"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-02-dust-spa-poke-861fe41",
+      "date": "2026-07-02",
+      "name": "spa/poke/861fe41",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>feat(agents): add dust-ant-sonnet-edge-light global agent (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/28360\">#28360</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F861fe41"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-02-dust-spa-poke-24a43fc",
+      "date": "2026-07-02",
+      "name": "spa/poke/24a43fc",
+      "vendor": "Dust",
+      "type": "pricing",
+      "summary": "<p>Pricing: cap per group 3: api to set the group cap as a limit on metr…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F24a43fc"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-02-dust-spa-poke-7b04305",
+      "date": "2026-07-02",
+      "name": "spa/poke/7b04305",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>feat(global-agents): fall back to Sonnet 4.6 for claude-sonnet in EU-…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F7b04305"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-07-01-aws-amazon-bedrock-agentcore-increases-default-runtime",
       "date": "2026-07-01",
       "name": "Amazon Bedrock AgentCore increases default runtime quota limits",
@@ -757,6 +937,42 @@
       "tags": []
     },
     {
+      "id": "2026-06-30-aws-amazon-connect-customer-now-supports-rule-based-re",
+      "date": "2026-06-30",
+      "name": "Amazon Connect Customer now supports rule based redaction for agent screen recording",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Connect Customer now lets you protect sensitive information in agent screen recordings by defining rules to redact specific applications or URLs. Agent screen recording helps supervisors identify coaching oppor",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/screen-recording-rule-based/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-06-30-aws-amazon-connect-customer-now-supports-assigning-up-",
+      "date": "2026-06-30",
+      "name": "Amazon Connect Customer now supports assigning up to 7 security profiles with granular access controls per user",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect Customer now supports assigning up to 7 security profiles with granular access controls per user, increased from the previous limit of 2. This means an agent who serves multiple lines of business can no",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/connect-7-security-profiles-user/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-06-29-aws-aws-waf-adds-support-for-amazon-bedrock-agentcore-",
       "date": "2026-06-29",
       "name": "AWS WAF adds support for Amazon Bedrock AgentCore Gateway",
@@ -860,222 +1076,6 @@
         }
       ],
       "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-29-dust-spa-poke-9f0364a",
-      "date": "2026-06-29",
-      "name": "spa/poke/9f0364a",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>[front] Per-step credit gate: stop agent loop as retryable credits_ex…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9f0364a"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-29-openai-codex-workspace-analytics-conversation-search-sear",
-      "date": "2026-06-29",
-      "name": "Codex, workspace analytics, conversation search, searching for custom GPTs, ChatGPT user invites, and Compliance Log Platform download endpoint not working in F",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Investigating</b><br /><br />Core functionality has been restored but we are aware of known and ongoing issues in FedRAMP workspaces with Codex, workspace analytics, conversation search, searching for custom G",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KWDW344V7XWEQERJSEW62W57"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-27-crewai-1-15-1",
-      "date": "2026-06-27",
-      "name": "1.15.1",
-      "vendor": "CrewAI",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Initialize Git repositories for generated projects (<a class=\"issue-link js-issue-link\" href=\"https://github.com/crewAIInc/crewAI/pull/6364\">#6364</a>)</li>\n<li>Require ",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-06-26-openai-small-number-of-users-have-incorrectly-cancelled-s",
-      "date": "2026-06-26",
-      "name": "Small Number of Users Have Incorrectly Cancelled Subscription",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>File uploads (Operational)</li>\n<li>Voice mode (Operational)</li>\n<li>",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KVZRA3Z551H993JHJ9P2TW9E"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-26-aws-amazon-ec2-r8g-instances-now-available-in-addition",
-      "date": "2026-06-26",
-      "name": "Amazon EC2 R8g instances now available in additional regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8g instances are available in AWS Asia Pacific (Thailand, New Zealand), AWS Africa (Cape Town), AWS Europe (Milan), and AWS Canada West (Calgary) regions. The",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-r8g-instances-additional-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-26-dust-spa-poke-4194cac-remove-legacy-sandbox-owner-fallb",
-      "date": "2026-06-26",
-      "name": "spa/poke/4194cac: Remove legacy sandbox owner fallback (#28005)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>Co-authored-by: Henry Fontanier <a href=\"mailto:14199823+fontanierh@users.noreply.github.com\">14199823+fontanierh@users.noreply.github.com</a></p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F4194cac"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-26-dust-spa-poke-049f3e8",
-      "date": "2026-06-26",
-      "name": "spa/poke/049f3e8",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] chore: remove internal MCP server instructions field (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/28022\">#28022</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F049f3e8"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-26-crewai-1-15-1a1",
-      "date": "2026-06-26",
-      "name": "1.15.1a1",
-      "vendor": "CrewAI",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Track TUI button telemetry</li>\n<li>Require explicit CrewAI project definitions</li>\n<li>Open deployment page after CLI deploy</li>\n</ul>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Fix",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.1a1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-06-25-openai-how-agents-are-transforming-work",
-      "date": "2026-06-25",
-      "name": "How agents are transforming work",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/how-agents-are-transforming-work"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-25-aws-amazon-ec2-c7a-instances-are-now-available-in-the-",
-      "date": "2026-06-25",
-      "name": "Amazon EC2 C7a instances are now available in the Asia Pacific (Singapore) Region",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, the compute optimized Amazon EC2 C7a instances are now available in AWS Asia Pacific (Singapore) Region. C7a instances, powered by 4th Gen AMD EPYC processors (code-named Genoa) with a maximum frequenc",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c7a-instances-asia-pacific-singapore-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-25-aws-amazon-ec2-m8a-instances-now-available-in-the-asia",
-      "date": "2026-06-25",
-      "name": "Amazon EC2 M8a instances now available in the Asia Pacific (Mumbai) region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, the general-purpose Amazon EC2 M8a instances are available in AWS Asia Pacific (Mumbai) region. M8a instances are powered by 5th Gen AMD EPYC processors (formerly code named Turin) with a maximum frequ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-m8a-instances-asia-pacific-mumbai-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-25-aws-openai-gpt-openai-gpt-oss-and-nvidia-nemotron-mode",
-      "date": "2026-06-25",
-      "name": "OpenAI GPT, OpenAI GPT OSS, and NVIDIA Nemotron models on Amazon Bedrock receive FedRAMP High and DoD IL-4/5 approval in AWS GovCloud (US)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>OpenAI GPT, OpenAI GPT OSS, and NVIDIA Nemotron models are now FedRAMP High and Department of Defense Cloud Computing Security Requirements Guide (DoD CC SRG) Impact Level (IL) 4 and 5 approved within Amazon Bedrock i",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/addl-bedrock-model-fedramp-il-5-govcloud"
-        }
-      ],
-      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
