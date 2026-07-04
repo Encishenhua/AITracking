@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "2026-07-03-dust-spa-poke-25b213d",
+      "date": "2026-07-03",
+      "name": "spa/poke/25b213d",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Analytics export: return all editors of the agent in analytics (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/28302\">#28302</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F25b213d"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-03-dust-spa-poke-015afeb-mcp-extract-enforce-configured-ex",
+      "date": "2026-07-03",
+      "name": "spa/poke/015afeb: [MCP Extract] Enforce configured extract schemas (#28350)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>Fix extract data configured schema injection</p>\n</li>\n<li>\n<p>Fix extract data configured schema validation</p>\n</li>\n<li>\n<p>Hide configured extract data time frame</p>\n</li>\n<li>\n<p>Handle non-object extr",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F015afeb"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-03-dust-spa-poke-ffbf6ab",
+      "date": "2026-07-03",
+      "name": "spa/poke/ffbf6ab",
+      "vendor": "Dust",
+      "type": "deprecation",
+      "summary": "<p>Revert \"chore(front-api): remove deprecated v1 workspace-usage endpoi…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fffbf6ab"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-03-dust-spa-poke-c540c48",
+      "date": "2026-07-03",
+      "name": "spa/poke/c540c48",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>[front] Migration script for legacy Pro plans to Business (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/28134\">#28134</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fc540c48"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-07-02-aws-amazon-sagemaker-unified-studio-now-supports-terra",
       "date": "2026-07-02",
       "name": "Amazon SageMaker Unified Studio now supports Terraform for provisioning",
@@ -1004,78 +1076,6 @@
         }
       ],
       "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-29-aws-amazon-s3-server-access-logs-now-deliver-to-amazon",
-      "date": "2026-06-29",
-      "name": "Amazon S3 server access logs now deliver to Amazon CloudWatch Logs and Amazon S3 Tables",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon S3 now supports delivering server access logs to Amazon CloudWatch Logs, giving you instant querying, alarms, cross-account and cross-Region aggregation, and AWS Key Management Service (KMS) encryption for your",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-s3-cloudwatch-logs-tables/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-29-dust-spa-poke-575d6f8-feat-front-add-models-picker-feat",
-      "date": "2026-06-29",
-      "name": "spa/poke/575d6f8: feat(front): add models_picker feature flag (#28105)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>feat(front): add input_bar_model_picker feature flag</li>\n</ul>\n<p>Registers the input_bar_model_picker feature flag (dust_only) in front's<br />\nconfig and the @dust-tt/client WhitelistableFeature union so fron",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F575d6f8"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-29-dust-spa-poke-76ab6e4-remove-mcp-actions-dashboard-expl",
-      "date": "2026-06-29",
-      "name": "spa/poke/76ab6e4: Remove MCP actions dashboard exploratory feature (#28166)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Co-authored-by: Claude Sonnet 4.6 <a href=\"mailto:noreply@anthropic.com\">noreply@anthropic.com</a></p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F76ab6e4"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-29-dust-spa-poke-62bfc62",
-      "date": "2026-06-29",
-      "name": "spa/poke/62bfc62",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] chore: add index to speedup agent message skill lookups (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/28042\">#28042</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F62bfc62"
-        }
-      ],
-      "impact": 3,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
