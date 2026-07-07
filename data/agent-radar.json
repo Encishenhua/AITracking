@@ -1,6 +1,168 @@
 {
   "items": [
     {
+      "id": "2026-07-06-aws-amazon-sagemaker-hyperpod-now-supports-disaggregat",
+      "date": "2026-07-06",
+      "name": "Amazon SageMaker HyperPod now supports disaggregated prefill and decode",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker HyperPod now supports Disaggregated Prefill and Decode (DPD), an inference optimization that separates the two phases of large language model (LLM) inference — prefill and decode — onto dedicated GPU ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/7/amazon-sagemaker-hyperpod-dpd/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-06-aws-amazon-cognito-now-supports-self-service-provision",
+      "date": "2026-07-06",
+      "name": "Amazon Cognito now supports self-service provisioned API rate limits",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Cognito now allows you to increase or decrease your provisioned API rate limits on demand. Cognito has default rate limits for the maximum number of operations per second that you can perform in your user pools",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/cognito-provisioned-limits"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-06-aws-amazon-sagemaker-studio-now-integrates-with-huggin",
+      "date": "2026-07-06",
+      "name": "Amazon SageMaker Studio now integrates with Hugging Face for one-click model deployment and customization",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker Studio now supports direct integration from Hugging Face, letting you go from discovering a model to working with it inside a fully configured Studio environment in a single click. Select any supporte",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/sagemaker-studio-hugging-face-integration/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-06-aws-aws-certificate-manager-now-supports-the-acme-prot",
+      "date": "2026-07-06",
+      "name": "AWS Certificate Manager now supports the ACME protocol for public certificates",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Certificate Manager (ACM) now allows you to provision a fully managed ACME server endpoint that issues public TLS certificates with a 45 day validity from <a href=\"https://www.amazontrust.com/repository\">Amazon Tr",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-certificate-manager-acme/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-06-aws-cloudwatch-application-signals-now-automatically-c",
+      "date": "2026-07-06",
+      "name": "CloudWatch Application Signals now automatically captures errors, performance anomalies, and deployment events",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS announces Service Events for Amazon CloudWatch Application Signals, which automatically captures exception and latency event snapshots, function-level performance data, and deployment events from instrument",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/cloudwatch-service-events/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-06-aws-aws-codepipeline-now-available-in-asia-pacific-new",
+      "date": "2026-07-06",
+      "name": "AWS CodePipeline now available in Asia Pacific (New Zealand) region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, AWS CodePipeline is now available in Asia Pacific (New Zealand) Region (ap-southeast-6). AWS CodePipeline is a continuous delivery service that enables you to model, visualize, and automate the steps r",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-codepipeline-new-zealand/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-06-dust-spa-poke-241aee1-front-enh-template-aware-pptx-ins",
+      "date": "2026-07-06",
+      "name": "spa/poke/241aee1: [front] enh: template-aware pptx_inspect (#28363)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>\n<p>[front] enh: make pptx_inspect better with templates</p>\n</li>\n<li>\n<p>[front] feat: Add pptx typography feedbackloop (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/28366\">#2",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F241aee1"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-06-dust-spa-poke-0bad761",
+      "date": "2026-07-06",
+      "name": "spa/poke/0bad761",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] Keep tools on the last agent step and force generation via to…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F0bad761"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-06-dust-spa-poke-d44db1c",
+      "date": "2026-07-06",
+      "name": "spa/poke/d44db1c",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>feat(activation): add user_analytics MCP server and data context [S1-…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fd44db1c"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-07-03-dust-spa-poke-25b213d",
       "date": "2026-07-03",
       "name": "spa/poke/25b213d",
@@ -914,168 +1076,6 @@
         }
       ],
       "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-30-dust-spa-poke-1b16ccb",
-      "date": "2026-06-30",
-      "name": "spa/poke/1b16ccb",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>feat(global-agents): add internal dust-goog-lite and dust-oai-nano-hi…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F1b16ccb"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-30-dust-spa-poke-ed8443a-feat-add-claude-sonnet-5-28274",
-      "date": "2026-06-30",
-      "name": "spa/poke/ed8443a: feat: add Claude Sonnet 5 (#28274)",
-      "vendor": "Dust",
-      "type": "pricing",
-      "summary": "<ul>\n<li>feat: add Claude Sonnet 5 and move the claude-sonnet global agent to it</li>\n</ul>\n<p>Register Claude Sonnet 5 (claude-sonnet-5) across both the legacy router<br />\n(use_new_llm_router off) and the new model_con",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fed8443a"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-30-crewai-1-15-2a1",
-      "date": "2026-06-30",
-      "name": "1.15.2a1",
-      "vendor": "CrewAI",
-      "type": "launch",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Repoint template commands to crewAIInc-fde org</li>\n<li>Support inline skill definitions</li>\n<li>Define stream frame protocol for flows</li>\n<li>Add type tool and app i",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.2a1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-06-30-aws-aws-network-firewall-now-supports-container-attrib",
-      "date": "2026-06-30",
-      "name": "AWS Network Firewall now supports container attribute-based inspection for Amazon EKS and Amazon ECS",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces container attribute-based rules for AWS Network Firewall, a capability that simplifies how you secure containerized workloads, including generative AI applications, running on Amazon Elastic Kuber",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-network-firewall-container-attributes-referencing"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-30-aws-aws-announces-aws-interconnect-last-mile-new-partn",
-      "date": "2026-06-30",
-      "name": "AWS announces AWS Interconnect - last mile new partner with AT&T in gated preview",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS launches AWS Interconnect - last mile, a fully managed connectivity offering that allows customers to connect their branch offices, data centers, and remote locations to AWS with just a few clicks, eliminating the",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-announces-AWS-interconnect-last-mile-ATT-gated-preview/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-30-aws-amazon-connect-customer-now-supports-rule-based-re",
-      "date": "2026-06-30",
-      "name": "Amazon Connect Customer now supports rule based redaction for agent screen recording",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Connect Customer now lets you protect sensitive information in agent screen recordings by defining rules to redact specific applications or URLs. Agent screen recording helps supervisors identify coaching oppor",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/screen-recording-rule-based/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-30-aws-amazon-connect-customer-now-supports-assigning-up-",
-      "date": "2026-06-30",
-      "name": "Amazon Connect Customer now supports assigning up to 7 security profiles with granular access controls per user",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect Customer now supports assigning up to 7 security profiles with granular access controls per user, increased from the previous limit of 2. This means an agent who serves multiple lines of business can no",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/connect-7-security-profiles-user/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-29-aws-aws-waf-adds-support-for-amazon-bedrock-agentcore-",
-      "date": "2026-06-29",
-      "name": "AWS WAF adds support for Amazon Bedrock AgentCore Gateway",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces general availability of AWS Web Application Firewall (AWS WAF) protection for Amazon Bedrock AgentCore Gateway, enabling you to protect your agentic AI workloads from common web exploits and abuse",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-waf-amazon-bedrock-agentcore/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-29-aws-amazon-mwaa-serverless-now-supports-shared-vpc-con",
-      "date": "2026-06-29",
-      "name": "Amazon MWAA Serverless now supports shared VPC configurations",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Managed Workflows for Apache Airflow (Amazon MWAA) Serverless now supports shared VPC subnets. Previously, customers using subnets shared via AWS Resource Access Manager (AWS RAM) received a validation error wh",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-mwaa-serverless-vpc/"
-        }
-      ],
-      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
