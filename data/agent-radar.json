@@ -19,6 +19,96 @@
       "tags": []
     },
     {
+      "id": "2026-07-08-aws-aws-builder-center-now-offers-free-sandbox-environ",
+      "date": "2026-07-08",
+      "name": "AWS Builder Center Now Offers Free Sandbox Environments",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Builder Center now lets builders request free, time-limited sandbox environments directly from eligible workshops, eliminating the need for a personal AWS account, credit card, or concerns about unexpected charges",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-builder-center-sandbox/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-08-aws-amazon-aurora-dsql-change-data-capture-cdc-is-now-",
+      "date": "2026-07-08",
+      "name": "Amazon Aurora DSQL change data capture (CDC) Is now generally available",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Aurora DSQL change data capture (CDC) is now generally available, enabling you to stream real-time database changes to Amazon Kinesis Data Streams for event-driven architectures and data integration workflows.<",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-aurora-dsql-cdc-ga/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-08-aws-amazon-connect-customer-now-supports-forecasting-p",
+      "date": "2026-07-08",
+      "name": "Amazon Connect Customer now supports forecasting, planning, and scheduling for Tasks and Emails",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Connect Customer now supports forecasting, capacity planning, and scheduling for Tasks and Emails, enabling you to plan and optimize your workforce across all workloads (Voice, Chat, Tasks, Emails). Connect Cus",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-connect-customer-agent-scheduling-tasks/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-08-dust-spa-poke-8072951",
+      "date": "2026-07-08",
+      "name": "spa/poke/8072951",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>feat(activation): agent_templates MCP server + action_card directive …</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8072951"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-08-dust-spa-poke-30f870b-agentic-user-activation-poke-prov",
+      "date": "2026-07-08",
+      "name": "spa/poke/30f870b: [Agentic User Activation] Poke provisioning plugin skeleton (#28638)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>The skeleton version of the poke provisioning tool to create activation pods. What this skeleton version does:</p>\n<ul>\n<li>Create a new pod for the user from poke (Join Activation Pod plugin) and invite them to the p",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F30f870b"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-07-07-openai-mufg-aims-to-become-ai-native-with-openai",
       "date": "2026-07-07",
       "name": "MUFG aims to become AI-native with OpenAI",
@@ -320,6 +410,42 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-07-aws-amazon-ec2-high-memory-u7i-instances-now-available",
+      "date": "2026-07-07",
+      "name": "Amazon EC2 High Memory U7i instances now available in AWS Europe (Zurich) region",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon EC2 High Memory U7i instances with 12TB of memory (u7i-12tb.224xlarge) are now available in the AWS&nbsp;Europe (Zurich) region. U7i instances are part of AWS 7th generation and are powered by custom fourth gen",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-u7i-aws-europe-zurich/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-07-aws-aws-systems-manager-simplifies-azure-vm-management",
+      "date": "2026-07-07",
+      "name": "AWS Systems Manager simplifies Azure VM management and hybrid node pricing",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>You can now connect and manage Azure Virtual Machines in AWS Systems Manager without manual agent installation or per-instance tier fees. Create a Cloud Connector and automatically deploy the SSM Agent to your Azure V",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-systems-manager-multicloud-vm/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -947,132 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-agent-asia-pacific/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-01-aws-amazon-rds-for-db2-now-supports-self-managed-activ",
-      "date": "2026-07-01",
-      "name": "Amazon RDS for Db2 now supports self-managed Active Directory",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/db2/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for Db2</a> now allows customers to directly join their RDS for Db2 DB instances to the domains of self-managed",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-db2-supports-self-managed-active-directory"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-01-aws-amazon-opensearch-service-optimized-for-log-analyt",
-      "date": "2026-07-01",
-      "name": "Amazon OpenSearch Service optimized for log analytics",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, Amazon OpenSearch Service introduces a new engine purpose-built for log analytics workloads, delivering up to 4x better price-performance on internal benchmarks. It combines this efficiency with the full-text s",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-opensearch-service-optimized-log-analytics"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-01-dust-spa-poke-70dbea5",
-      "date": "2026-07-01",
-      "name": "spa/poke/70dbea5",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>chore(mcp): improve data_sources_file_system tool descriptions for BM…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F70dbea5"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-01-dust-spa-poke-07c694e",
-      "date": "2026-07-01",
-      "name": "spa/poke/07c694e",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>feat(Slack MCP) add workspace toggle to allow Slack personal MCP foo…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F07c694e"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-01-crewai-1-15-2a2",
-      "date": "2026-07-01",
-      "name": "1.15.2a2",
-      "vendor": "CrewAI",
-      "type": "launch",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add aiobotocore to the bedrock extra</li>\n<li>Document flow agent options</li>\n<li>Add text helper to flow skill example</li>\n<li>Add text helper for flow CEL prompts</l",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.2a2"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-06-30-aws-amazon-cloudwatch-logs-enriches-log-events-with-aw",
-      "date": "2026-06-30",
-      "name": "Amazon CloudWatch Logs enriches log events with AWS resource tags",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon CloudWatch Logs now enriches log events with resource tags, making it easier to filter, search, and analyze logs by the metadata that matters most to your organization, such as&nbsp; team ownership, environment",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-logs-resource-tags/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-06-30-aws-aws-cloudformation-and-cdk-accelerate-development-",
-      "date": "2026-06-30",
-      "name": "AWS CloudFormation and CDK accelerate development feedback loops with pre-deployment validation on all stack operations",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://docs.aws.amazon.com/cloudformation/\">AWS CloudFormation</a> customers can now get immediate feedback on deployment errors in seconds, eliminating the need to wait through a full provision-and-rollback",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cloudformation/"
         }
       ],
       "impact": 5,
