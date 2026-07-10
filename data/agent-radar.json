@@ -1,6 +1,168 @@
 {
   "items": [
     {
+      "id": "2026-07-09-openai-chatgpt-is-now-a-partner-for-your-most-ambitious-w",
+      "date": "2026-07-09",
+      "name": "ChatGPT is now a partner for your most ambitious work",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-09-aws-oauth-support-for-the-aws-mcp-server",
+      "date": "2026-07-09",
+      "name": "OAuth support for the AWS MCP Server",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>You can now connect AI agents directly to the AWS MCP Server using AWS Sign-In. Agents connect using industry-standard OAuth without requiring additional authentication software. Existing AWS identities, sign-in metho",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/oauth-aws-mcp-server/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-09-aws-amazon-timestream-for-influxdb-now-publishes-datab",
+      "date": "2026-07-09",
+      "name": "Amazon Timestream for InfluxDB now publishes database state change events to Amazon EventBridge",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Timestream for InfluxDB now publishes events to Amazon EventBridge when your database instances or clusters undergo state changes. Events are emitted for lifecycle operations including creation, deletion, compu",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/timestream-influxdb-eventbridge/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-09-aws-aws-client-vpn-extends-availability-to-four-additi",
+      "date": "2026-07-09",
+      "name": "AWS Client VPN extends availability to four additional AWS Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Client VPN is now available in four new regions: Canada West (Calgary), Mexico (Central) and two in Asia Pacific - New Zealand and Taipei. This fully managed service enables customers to securely connect their rem",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-client-vpn-four-additional-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-09-aws-amazon-sagemaker-unified-studio-adds-custom-asset-",
+      "date": "2026-07-09",
+      "name": "Amazon SageMaker Unified Studio adds custom asset types to the catalog in IAM-based domains",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker Unified Studio now supports custom asset types for IAM-based domains. With custom asset types, domain administrators can catalog any format of asset within the SageMaker Unified Studio, such as medica",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/smus-custom-asset-types-iam/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-09-aws-amazon-msk-replicator-now-supports-replication-fro",
+      "date": "2026-07-09",
+      "name": "Amazon MSK Replicator now supports replication from external Apache Kafka clusters to MSK Standard brokers",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon MSK Replicator now supports data replication from external Apache Kafka clusters - including on-premises, self-managed on AWS, or other cloud providers to Amazon MSK Standard brokers. This capability extends re",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-msk-replicator-external-kafka-standard-broker-support"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-09-aws-aws-config-now-supports-191-additional-managed-rul",
+      "date": "2026-07-09",
+      "name": "AWS Config now supports 191 additional managed rules",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Config now supports 191 additional managed rules across key services including Amazon Bedrock, Amazon SageMaker, Amazon ECS, Amazon EKS, Amazon RDS, Amazon Redshift, Amazon S3, and Amazon CloudTrail. This expansio",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-config-additional-managed-rules"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-09-dust-spa-poke-1434cc0",
+      "date": "2026-07-09",
+      "name": "spa/poke/1434cc0",
+      "vendor": "Dust",
+      "type": "pricing",
+      "summary": "<p>Pricing bulk edit seat 3/3: usage page UI (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/28644\">#28644</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F1434cc0"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-09-dust-spa-poke-383ec49",
+      "date": "2026-07-09",
+      "name": "spa/poke/383ec49",
+      "vendor": "Dust",
+      "type": "pricing",
+      "summary": "<p>Pricing: usage page credits reset date from the workspace billing per…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F383ec49"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-07-08-crewai-1-15-2",
       "date": "2026-07-08",
       "name": "1.15.2",
@@ -104,6 +266,42 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-08-aws-amazon-sagemaker-unified-studio-workflows-now-supp",
+      "date": "2026-07-08",
+      "name": "Amazon SageMaker Unified Studio Workflows now supports operators for Amazon Bedrock, S3 Tables, S3 Vectors, and Glue Catalog",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker Unified Studio Workflows now supports 19 new operators for Amazon Bedrock, Amazon S3 Tables, Amazon S3 Vectors, AWS Glue Data Catalog, and Amazon MWAA Serverless. With these operators, customers can a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/apache-airflow-operators-amazon-sagemaker-unified-studio-workflows/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-08-aws-aws-neuron-2-31-0-now-available-with-nki-0-5-0-and",
+      "date": "2026-07-08",
+      "name": "AWS Neuron 2.31.0 now available with NKI 0.5.0 and UltraServer Operator",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Neuron 2.31.0 is now available, introducing NKI 0.5.0 with new MX FP8 scale dtype support, tensor indirection on compute operations for fewer instructions in indexed access patterns, and new NkiTensor view APIs fo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-announce-neuron-2-31-0"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -878,204 +1076,6 @@
         }
       ],
       "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-02-dust-spa-poke-7b04305",
-      "date": "2026-07-02",
-      "name": "spa/poke/7b04305",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>feat(global-agents): fall back to Sonnet 4.6 for claude-sonnet in EU-…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F7b04305"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-01-aws-amazon-bedrock-agentcore-increases-default-runtime",
-      "date": "2026-07-01",
-      "name": "Amazon Bedrock AgentCore increases default runtime quota limits",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Bedrock AgentCore has increased the default runtime quota limits, giving customers greater capacity to scale their agent-based workloads. AgentCore is the platform for developers to build, connect, and optimize",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-bedrock-agentcore-increases-default-runtime-quota-limits/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-01-aws-amazon-cloudwatch-supports-creating-alarms-from-lo",
-      "date": "2026-07-01",
-      "name": "Amazon CloudWatch supports creating alarms from log queries",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon CloudWatch allows you to create alarms on log data using log queries, and get alerted on anomalies without leaving your log analysis workflow.</p> \n<p>With today's launch, you can configure an alarm on log quer",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-log-alarms/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-01-aws-amazon-ecs-now-provides-real-time-deployment-obser",
-      "date": "2026-07-01",
-      "name": "Amazon ECS now provides real-time deployment observability in the AWS Management Console",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/ecs/\">Amazon Elastic Container Service</a>&nbsp;(Amazon ECS) now provides real-time deployment observability in the Amazon ECS Console. With this launch, customers can track deployment ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-aws-management-console/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-01-aws-aws-artifact-now-includes-assurance-assistant-for-",
-      "date": "2026-07-01",
-      "name": "AWS Artifact now includes Assurance Assistant for compliance inquiries",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Artifact now includes Assurance Assistant, an AI-powered capability that generates citation-backed responses to security and compliance questions about AWS services. AWS Artifact is the service through which AWS p",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-artifact-assurance-assistant/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-01-aws-amazon-rds-announces-cross-region-automated-backup",
-      "date": "2026-07-01",
-      "name": "Amazon RDS announces Cross-Region Automated Backups in four additional AWS Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Cross-Region Automated Backup replication for Amazon RDS is now available in four additional AWS Regions. This launch allows you to setup automated backup replication between Mexico (Central) and Europe (Ireland) or U",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-cross-region-automated-backups-additional-aws-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-01-aws-amazon-bedrock-agentcore-now-available-in-four-add",
-      "date": "2026-07-01",
-      "name": "Amazon Bedrock AgentCore now available in four additional AWS Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>&nbsp;Amazon Bedrock AgentCore is now available in four additional AWS Regions: Asia Pacific (Bangkok), Asia Pacific (Malaysia), Europe (Milan), and Europe (Spain).&nbsp;Amazon Bedrock AgentCore is the platform to bui",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-four-additional-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-01-aws-aws-appconfig-launches-managed-experimentation-too",
-      "date": "2026-07-01",
-      "name": "AWS AppConfig launches managed experimentation tools for A/B testing",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the general availability of experimentation tools in AWS AppConfig, a new capability that enables you to run A/B tests and feature experiments without building or managing separate experimentation",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/6/aws-appconfig-experimentation/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-01-aws-amazon-ecs-express-mode-now-supports-custom-task-d",
-      "date": "2026-07-01",
-      "name": "Amazon ECS Express Mode now supports custom task definitions",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p><a href=\"https://aws.amazon.com/ecs/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Elastic Container Service</a>&nbsp;(Amazon ECS) Express Mode now supports custom task definitions, giving you the flexibility to u",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-express-mode-custom-task-def/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-01-aws-amazon-managed-service-for-prometheus-achieves-fed",
-      "date": "2026-07-01",
-      "name": "Amazon Managed Service for Prometheus achieves FedRAMP High and DoD IL-4/5 authorization in AWS GovCloud (US)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Managed Service for Prometheus is now FedRAMP High and Department of Defense Cloud Computing Security Requirements Guide (DoD CC SRG) Impact Level (IL) 4 and 5 authorized in the AWS GovCloud (US) Regions.</p> \n",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-prometheus-fedramp-high/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-01-aws-aws-security-agent-now-available-in-asia-pacific-m",
-      "date": "2026-07-01",
-      "name": "AWS Security Agent now available in Asia Pacific (Mumbai), Asia Pacific (Singapore), and South America (São Paulo)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, AWS Security Agent (now part of <a href=\"https://aws.amazon.com/continuum/\">AWS Continuum</a>) is available in three additional AWS Regions: Asia Pacific (Mumbai), Asia Pacific (Singapore), and South A",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-agent-asia-pacific/"
-        }
-      ],
-      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
