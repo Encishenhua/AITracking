@@ -1,6 +1,258 @@
 {
   "items": [
     {
+      "id": "2026-07-10-aws-amazon-ec2-network-ebs-instances-now-available-in-",
+      "date": "2026-07-10",
+      "name": "Amazon EC2 network/EBS instances now available in additional regions",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8in, R8ib, R8idn, and R8idb instances are available in the AWS Asia Pacific (Tokyo) and Europe (Frankfurt, Ireland) regions.&nbsp;These instances are powered ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r8in-r8ib-r8idn-r8idb"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-10-aws-amazon-emr-on-eks-now-supports-apache-spark-troubl",
+      "date": "2026-07-10",
+      "name": "Amazon EMR on EKS now supports Apache Spark troubleshooting agent",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon EMR on EKS now supports the Apache Spark troubleshooting agent. Data engineers can now diagnose EMR on EKS job failures through natural language, receiving automated root cause analysis and PySpark code recomme",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-emr-eks-spark-troubleshooting/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-10-aws-amazon-location-service-enhances-places-apis-with-",
+      "date": "2026-07-10",
+      "name": "Amazon Location Service enhances Places APIs with new address and search options",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, Amazon Location Service announced new enhancements to its Places APIs that give developers greater control over address name formatting, multilingual address, travel-optimized POI search, and drive-through data",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-location-service-enhanced-address-search"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-10-aws-amazon-ec2-g7-instances-are-now-available-in-the-a",
+      "date": "2026-07-10",
+      "name": "Amazon EC2 G7 instances are now available in the AWS US East (N. Virginia) Region",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) G7 instances powered by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs are now available in US East (N. Virginia) Region.&nbsp;G7 instances deliver up to 4.",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-g7-available-North-Virginia"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-10-aws-aws-dms-schema-conversion-now-supports-offline-sql",
+      "date": "2026-07-10",
+      "name": "AWS DMS Schema Conversion now supports offline SQL Server conversion",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/dms/\" rel=\"noopener noreferrer\" target=\"_blank\">AWS Database Migration Service (DMS) Schema Conversion</a>&nbsp;now supports offline source conversion for Microsoft SQL Server, enabling",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-dms-schema-conversion-offline-source/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-10-aws-amazon-ec2-i7ie-instances-now-available-in-aws-asi",
+      "date": "2026-07-10",
+      "name": "Amazon EC2 I7ie instances now available in AWS Asia Pacific (Hyderabad) region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS is announcing starting today, Amazon EC2 I7ie instances are now available in AWS Asia Pacific (Hyderabad) region. Designed for large storage I/O intensive workloads, I7ie instances are powered by 5th Gen Intel Xeo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-i7ie-instances-aws-hyd-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-10-aws-amazon-documentdb-with-mongodb-compatibility-now-s",
+      "date": "2026-07-10",
+      "name": "Amazon DocumentDB (with MongoDB compatibility) now supports R8g.24xlarge and R8g.48xlarge instances",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon DocumentDB (with MongoDB compatibility) now supports R8g.24xlarge and R8g.48xlarge database instances. R8g instances are powered by AWS Graviton4 processors and feature DDR5 memory, enabling customers to achiev",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-documentdb-r8g-24xl-48xl/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-10-aws-aws-dms-schema-conversion-now-supports-ai-agent-au",
+      "date": "2026-07-10",
+      "name": "AWS DMS Schema Conversion now supports AI agent automation",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/dms/\" rel=\"noopener noreferrer\" target=\"_blank\">AWS Database Migration Service (DMS) Schema Conversion</a>&nbsp;now supports AI agent automation through the AWS MCP Server. You can conn",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-dms-sc-ai-agent-automation-mcp-server/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-10-aws-aws-organizations-now-applies-account-departure-se",
+      "date": "2026-07-10",
+      "name": "AWS Organizations now applies account departure security controls by default for new organizations created via AWS Organizations console",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Organizations now automatically applies security controls by default when you create a new organization via AWS Organizations console, simplifying initial security configuration by automatically applying core secu",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-organizations-security-controls-new-orgs-console"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-10-dust-spa-poke-246c761",
+      "date": "2026-07-10",
+      "name": "spa/poke/246c761",
+      "vendor": "Dust",
+      "type": "pricing",
+      "summary": "<p>Pricing: compute the billing period from the contract anniversary day…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F246c761"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-10-dust-spa-poke-16d234c-llm-add-openai-gpt-5-6-models-sol",
+      "date": "2026-07-10",
+      "name": "spa/poke/16d234c: [LLM] Add OpenAI GPT 5.6 models (Sol, Terra, Luna) (#28721)",
+      "vendor": "Dust",
+      "type": "pricing",
+      "summary": "<ul>\n<li>\n<p>feat(llm): add support for OpenAI gpt-5.6-sol</p>\n</li>\n<li>\n<p>feat(llm): add support for OpenAI gpt-5.6-terra</p>\n</li>\n<li>\n<p>chore(llm): mark gpt-5.4 mini and nano as no longer latest</p>\n</li>\n<li>\n<p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F16d234c"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-10-dust-spa-poke-12e01dc",
+      "date": "2026-07-10",
+      "name": "spa/poke/12e01dc",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>fix(front): show agent default model as \"Default\" in picker even when…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F12e01dc"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-10-dust-spa-poke-8acd2cd",
+      "date": "2026-07-10",
+      "name": "spa/poke/8acd2cd",
+      "vendor": "Dust",
+      "type": "pricing",
+      "summary": "<p>[front] Remove the pricing_groups feature flag (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/28722\">#28722</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8acd2cd"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-10-dust-spa-poke-5fdb429-front-feat-pod-functions-skill-v2",
+      "date": "2026-07-10",
+      "name": "spa/poke/5fdb429: [front] feat: pod_functions skill v2 (#28601)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>\n<p>[front] feat: pod_functions skill v2 (pod databases contract)</p>\n</li>\n<li>\n<p>[front] fix: pod_functions skill — UNIQUE constraints are rejected, uniqueIndex() is the form (review restack)</p>\n</li>\n</ul>\n",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5fdb429"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-07-09-openai-chatgpt-is-now-a-partner-for-your-most-ambitious-w",
       "date": "2026-07-09",
       "name": "ChatGPT is now a partner for your most ambitious work",
@@ -158,6 +410,24 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-09-aws-amazon-ec2-i8g-instances-now-available-in-aws-govc",
+      "date": "2026-07-09",
+      "name": "Amazon EC2 I8g instances now available in AWS GovCloud (US) regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS is announcing the general availability of Amazon EC2 Storage Optimized I8g instances in AWS GovCloud (US East, US West) regions. I8g instances offer the best performance in Amazon EC2 for storage-intensive workloa",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-i8g-instances-aws-govcloud-us-regions/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -803,276 +1073,6 @@
         {
           "title": "Dust source",
           "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fd44db1c"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-06-aws-aws-security-hub-adds-impact-analysis-for-exposure",
-      "date": "2026-07-06",
-      "name": "AWS Security Hub adds impact analysis for exposure findings",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS Security Hub adds impact analysis to exposure findings, helping security teams understand the full scope of what an attacker could reach if an exposure is exploited. Impact analysis extends exposure finding",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/impact-analysis-aws-security-hub/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-06-aws-aws-introduces-declarative-controls-for-vpc-encryp",
-      "date": "2026-07-06",
-      "name": "AWS introduces declarative controls for VPC Encryption Controls",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>You can now use declarative policies to turn on VPC Encryption Controls in monitor or enforce mode across all VPCs in your environment. This enhancement allows you to centrally define and manage your desired VPC Encry",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/vpc-encryption-controls-declarative-controls/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-03-dust-spa-poke-25b213d",
-      "date": "2026-07-03",
-      "name": "spa/poke/25b213d",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Analytics export: return all editors of the agent in analytics (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/28302\">#28302</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F25b213d"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-03-dust-spa-poke-015afeb-mcp-extract-enforce-configured-ex",
-      "date": "2026-07-03",
-      "name": "spa/poke/015afeb: [MCP Extract] Enforce configured extract schemas (#28350)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>Fix extract data configured schema injection</p>\n</li>\n<li>\n<p>Fix extract data configured schema validation</p>\n</li>\n<li>\n<p>Hide configured extract data time frame</p>\n</li>\n<li>\n<p>Handle non-object extr",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F015afeb"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-03-dust-spa-poke-ffbf6ab",
-      "date": "2026-07-03",
-      "name": "spa/poke/ffbf6ab",
-      "vendor": "Dust",
-      "type": "deprecation",
-      "summary": "<p>Revert \"chore(front-api): remove deprecated v1 workspace-usage endpoi…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fffbf6ab"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-03-dust-spa-poke-c540c48",
-      "date": "2026-07-03",
-      "name": "spa/poke/c540c48",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>[front] Migration script for legacy Pro plans to Business (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/28134\">#28134</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fc540c48"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-02-aws-amazon-sagemaker-unified-studio-now-supports-terra",
-      "date": "2026-07-02",
-      "name": "Amazon SageMaker Unified Studio now supports Terraform for provisioning",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker Unified Studio now supports Terraform for provisioning. Customers can use the open-source <a href=\"https://github.com/aws-ia/terraform-aws-sagemaker-unified-studio\">terraform-aws-sagemaker-unified-stu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio-terraform/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-02-aws-amazon-ec2-x8i-instances-are-now-available-in-addi",
-      "date": "2026-07-02",
-      "name": "Amazon EC2 X8i instances are now available in additional regions",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) X8i instances are available in the Asia Pacific (Seoul), Asia Pacific (Malaysia) and Asia Pacific (Tokyo) regions. These instances are powered by custom Intel ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-ICN-KUL-NRT-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-02-aws-aws-config-now-supports-8-new-resource-types",
-      "date": "2026-07-02",
-      "name": "AWS Config now supports 8 new resource types",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Config now supports 8 additional AWS resource types across key services including Amazon API Gateway, Amazon EC2, and Amazon S3 Vectors. This expansion provides greater coverage over your AWS environment, enabling",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-config-new-resource-types"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-02-dust-spa-poke-0133630",
-      "date": "2026-07-02",
-      "name": "spa/poke/0133630",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>AgentLoopContextType -&gt; ToolContextType (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/28383\">#28383</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F0133630"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-02-dust-spa-poke-93277a5",
-      "date": "2026-07-02",
-      "name": "spa/poke/93277a5",
-      "vendor": "Dust",
-      "type": "pricing",
-      "summary": "<p>Pricing: cap per group 5: Display origin of limit on hover (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/28391\">#28391</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F93277a5"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-02-dust-spa-poke-38270b1-feat-skills-add-activation-global",
-      "date": "2026-07-02",
-      "name": "spa/poke/38270b1: feat(skills): add Activation global skill [S1-1] (#28353)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>feat(skills): add Activation global skill behind FF [S1-1]</li>\n</ul>\n<p>Introduces the <code>activation</code> global skill: surfaces the next best action for a user<br />\nto get more value from Dust, executes ",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F38270b1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-02-dust-spa-poke-4121bb0",
-      "date": "2026-07-02",
-      "name": "spa/poke/4121bb0",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>No seat plan for non-cp workspaces (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/28347\">#28347</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F4121bb0"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-02-dust-spa-poke-861fe41",
-      "date": "2026-07-02",
-      "name": "spa/poke/861fe41",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>feat(agents): add dust-ant-sonnet-edge-light global agent (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/28360\">#28360</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F861fe41"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-02-dust-spa-poke-24a43fc",
-      "date": "2026-07-02",
-      "name": "spa/poke/24a43fc",
-      "vendor": "Dust",
-      "type": "pricing",
-      "summary": "<p>Pricing: cap per group 3: api to set the group cap as a limit on metr…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F24a43fc"
         }
       ],
       "impact": 3,
