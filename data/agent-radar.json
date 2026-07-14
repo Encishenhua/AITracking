@@ -1,6 +1,258 @@
 {
   "items": [
     {
+      "id": "2026-07-13-openai-users-may-experience-elevated-errors-uploading-del",
+      "date": "2026-07-13",
+      "name": "Users may experience elevated errors uploading, deleting, and navigating files in the ChatGPT Library",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>File uploads (Operational)</li>\n          </ul>",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KXDBYJ7BWBE2NRDAQTKPM5WK"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-13-aws-openai-gpt-5-6-sol-terra-and-luna-now-generally-av",
+      "date": "2026-07-13",
+      "name": "OpenAI GPT-5.6 Sol, Terra, and Luna now generally available on Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock, bringing the smartest family of models from OpenAI yet to Bedrock's next-generation inference engine built for high-performance, security and",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/openai-gpt-sol-terra/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-13-aws-amazon-managed-service-for-prometheus-is-now-avail",
+      "date": "2026-07-13",
+      "name": "Amazon Managed Service for Prometheus is now available in Asia Pacific (New Zealand) Region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/prometheus/\">Amazon Managed Service for Prometheus</a> is now available in Asia Pacific (New Zealand) Region. Amazon Managed Service for Prometheus is a fully managed, Prometheus-compat",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-prometheus-new-zealand/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-13-aws-amazon-documentdb-with-mongodb-compatibility-now-a",
+      "date": "2026-07-13",
+      "name": "Amazon DocumentDB (with MongoDB compatibility) now available as a skill in the Agent Toolkit for AWS",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon DocumentDB (with MongoDB compatibility) is now available as a specialized database skill in the <a href=\"https://aws.amazon.com/products/developer-tools/agent-toolkit-for-aws/\">Agent Toolkit for AWS</a>. With t",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-documentdb-agent-skill"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-13-aws-gemma-4-e2b-it-for-is-now-available-in-amazon-sage",
+      "date": "2026-07-13",
+      "name": "Gemma-4-E2B-it for is now available in Amazon SageMaker JumpStart",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announced the availability of gemma-4-E2B-it in Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. This model from Google DeepMind is a multimodal, instruct",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/gemma-4-e2b-on-sagemaker-jumpstart/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-13-aws-openai-privacy-filter-for-pii-detection-and-maskin",
+      "date": "2026-07-13",
+      "name": "OpenAI privacy-filter for PII detection and masking is now available in Amazon SageMaker JumpStart",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announced the availability of privacy-filter in Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. This model from OpenAI is a bidirectional token-classific",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/privacy-filter-on-sagemaker-jumpstart/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-13-aws-qwen3-embedding-and-reranking-models-for-retrieval",
+      "date": "2026-07-13",
+      "name": "Qwen3 embedding and reranking models for retrieval are now available in Amazon SageMaker JumpStart",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announced the availability of Qwen3-VL-Embedding-2B and Qwen3-Reranker-4B in Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. These models from Qwen are d",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/qwen3-search-retrieval-on-sagemaker-jumpstart/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-13-aws-voxtral-mini-4b-realtime-for-real-time-speech-tran",
+      "date": "2026-07-13",
+      "name": "Voxtral-Mini-4B-Realtime for real-time speech transcription is now available in Amazon SageMaker JumpStart",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announced the availability of Voxtral-Mini-4B-Realtime-2602 in Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. This model from Mistral AI is a multilingu",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/voxtral-mini-realtime-on-sagemaker-jumpstart/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-13-aws-amazon-sagemaker-hyperpod-now-supports-custom-amis",
+      "date": "2026-07-13",
+      "name": "Amazon SageMaker HyperPod now supports custom AMIs (Amazon Machine Images) for Slurm clusters",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker HyperPod now supports custom AMIs for Slurm-orchestrated clusters, enabling customers to deploy clusters with pre-configured, security-hardened environments that meet their specific organizational req",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/hyperpod-custom-ami-slurm/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-13-dust-spa-poke-611462b-feat-sandbox-pod-egress-allowlist",
+      "date": "2026-07-13",
+      "name": "spa/poke/611462b: feat(sandbox): pod egress allowlist on the owner policy file (#28655)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>feat(sandbox): pod egress allowlist on the owner policy file</li>\n</ul>\n<p>Admin-managed egress allowlist for Pods, stored in the pod's owner policy<br />\nfile (w/{wId}/sandboxes/{spaceSId}.json) — the same slot",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F611462b"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-13-dust-spa-poke-63fde0e-refactor-activation-skill-28871",
+      "date": "2026-07-13",
+      "name": "spa/poke/63fde0e: Refactor Activation Skill (#28871)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>[front] feat: rework Activation skill + wire in Exa people/company tool</li>\n</ul>\n<ul>\n<li>Rewrite ACTIVATION_BEHAVIOR: Overview Frame + Pod layer, first-session<br />\nopener (welcome + begin/scan quickReplies)",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F63fde0e"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-13-dust-spa-poke-f30454a",
+      "date": "2026-07-13",
+      "name": "spa/poke/f30454a",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] Cover Luna agent visibility</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Ff30454a"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-13-dust-spa-poke-e60ce58",
+      "date": "2026-07-13",
+      "name": "spa/poke/e60ce58",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>fix(sidekick): eagerly load client-side get_agent_config under Anthro…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fe60ce58"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-13-dust-spa-poke-dcdb386-fix-tier-resolution-for-generated",
+      "date": "2026-07-13",
+      "name": "spa/poke/dcdb386: Fix tier resolution for generated custom models (#28880)",
+      "vendor": "Dust",
+      "type": "pricing",
+      "summary": "<ul>\n<li>\n<p>Fix custom model tier resolution</p>\n</li>\n<li>\n<p>non safe as</p>\n</li>\n</ul>\n<p>Co-authored-by: dust-agent[bot] &lt;195764847+dust-agent[bot]@users.noreply.github.com&gt;</p>\n<ul>\n<li>\n<p>Update front/lib/",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fdcdb386"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-07-10-aws-amazon-ec2-network-ebs-instances-now-available-in-",
       "date": "2026-07-10",
       "name": "Amazon EC2 network/EBS instances now available in additional regions",
@@ -821,258 +1073,6 @@
         {
           "title": "Dust source",
           "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F63e5d66"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-07-dust-spa-poke-5e9670b",
-      "date": "2026-07-07",
-      "name": "spa/poke/5e9670b",
-      "vendor": "Dust",
-      "type": "pricing",
-      "summary": "<p>Analytics/pricing: Add API keys in the usage graph (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/28586\">#28586</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5e9670b"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-07-dust-spa-poke-de7559e-feat-activation-add-recommendatio",
-      "date": "2026-07-07",
-      "name": "spa/poke/de7559e: feat(activation): add recommendation decision tool [S1-6] (#28537)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>feat(activation): add recommendation decision tool [S1-6]</li>\n</ul>\n<p>Adds the activation_recommendations MCP server with three tools:</p>\n<ul>\n<li>create_recommendation: records a recommendation after surfaci",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fde7559e"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-07-dust-spa-poke-dda0541",
-      "date": "2026-07-07",
-      "name": "spa/poke/dda0541",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Add SandboxFunctionMCPAction model &amp; migration (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/28446\">#28446</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fdda0541"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-07-aws-amazon-ec2-high-memory-u7i-instances-now-available",
-      "date": "2026-07-07",
-      "name": "Amazon EC2 High Memory U7i instances now available in AWS Europe (Zurich) region",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon EC2 High Memory U7i instances with 12TB of memory (u7i-12tb.224xlarge) are now available in the AWS&nbsp;Europe (Zurich) region. U7i instances are part of AWS 7th generation and are powered by custom fourth gen",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-u7i-aws-europe-zurich/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-07-aws-aws-systems-manager-simplifies-azure-vm-management",
-      "date": "2026-07-07",
-      "name": "AWS Systems Manager simplifies Azure VM management and hybrid node pricing",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>You can now connect and manage Azure Virtual Machines in AWS Systems Manager without manual agent installation or per-instance tier fees. Create a Cloud Connector and automatically deploy the SSM Agent to your Azure V",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-systems-manager-multicloud-vm/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-06-aws-amazon-sagemaker-hyperpod-now-supports-disaggregat",
-      "date": "2026-07-06",
-      "name": "Amazon SageMaker HyperPod now supports disaggregated prefill and decode",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker HyperPod now supports Disaggregated Prefill and Decode (DPD), an inference optimization that separates the two phases of large language model (LLM) inference — prefill and decode — onto dedicated GPU ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/7/amazon-sagemaker-hyperpod-dpd/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-06-aws-amazon-cognito-now-supports-self-service-provision",
-      "date": "2026-07-06",
-      "name": "Amazon Cognito now supports self-service provisioned API rate limits",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Cognito now allows you to increase or decrease your provisioned API rate limits on demand. Cognito has default rate limits for the maximum number of operations per second that you can perform in your user pools",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/cognito-provisioned-limits"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-06-aws-amazon-sagemaker-studio-now-integrates-with-huggin",
-      "date": "2026-07-06",
-      "name": "Amazon SageMaker Studio now integrates with Hugging Face for one-click model deployment and customization",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker Studio now supports direct integration from Hugging Face, letting you go from discovering a model to working with it inside a fully configured Studio environment in a single click. Select any supporte",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/sagemaker-studio-hugging-face-integration/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-06-aws-aws-certificate-manager-now-supports-the-acme-prot",
-      "date": "2026-07-06",
-      "name": "AWS Certificate Manager now supports the ACME protocol for public certificates",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Certificate Manager (ACM) now allows you to provision a fully managed ACME server endpoint that issues public TLS certificates with a 45 day validity from <a href=\"https://www.amazontrust.com/repository\">Amazon Tr",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-certificate-manager-acme/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-06-aws-cloudwatch-application-signals-now-automatically-c",
-      "date": "2026-07-06",
-      "name": "CloudWatch Application Signals now automatically captures errors, performance anomalies, and deployment events",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS announces Service Events for Amazon CloudWatch Application Signals, which automatically captures exception and latency event snapshots, function-level performance data, and deployment events from instrument",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/cloudwatch-service-events/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-06-aws-aws-codepipeline-now-available-in-asia-pacific-new",
-      "date": "2026-07-06",
-      "name": "AWS CodePipeline now available in Asia Pacific (New Zealand) region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, AWS CodePipeline is now available in Asia Pacific (New Zealand) Region (ap-southeast-6). AWS CodePipeline is a continuous delivery service that enables you to model, visualize, and automate the steps r",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-codepipeline-new-zealand/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-06-dust-spa-poke-241aee1-front-enh-template-aware-pptx-ins",
-      "date": "2026-07-06",
-      "name": "spa/poke/241aee1: [front] enh: template-aware pptx_inspect (#28363)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>\n<p>[front] enh: make pptx_inspect better with templates</p>\n</li>\n<li>\n<p>[front] feat: Add pptx typography feedbackloop (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/28366\">#2",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F241aee1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-06-dust-spa-poke-0bad761",
-      "date": "2026-07-06",
-      "name": "spa/poke/0bad761",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] Keep tools on the last agent step and force generation via to…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F0bad761"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-06-dust-spa-poke-d44db1c",
-      "date": "2026-07-06",
-      "name": "spa/poke/d44db1c",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>feat(activation): add user_analytics MCP server and data context [S1-…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fd44db1c"
         }
       ],
       "impact": 3,
