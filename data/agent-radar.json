@@ -1,6 +1,258 @@
 {
   "items": [
     {
+      "id": "2026-07-15-openai-elevated-errors-affecting-chatgpt",
+      "date": "2026-07-15",
+      "name": "Elevated errors affecting ChatGPT",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Conversations (Operational)</li>\n<li>Image Generation (Operational)</l",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KXHH1BJ9BS0FVE2MGEJ9FZ5M"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-14-openai-how-to-manage-ai-investments-in-the-agentic-era",
+      "date": "2026-07-14",
+      "name": "How to manage AI investments in the agentic era",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/managing-ai-investments-in-agentic-era"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-14-aws-aws-elastic-disaster-recovery-now-supports-amazon-",
+      "date": "2026-07-14",
+      "name": "AWS Elastic Disaster Recovery now supports Amazon EBS volume initialization rate",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Elastic Disaster Recovery (AWS DRS) now supports the Amazon EBS volume initialization rate, helping recovered volumes reach full performance faster during drills and recoveries. When DRS restores EBS volumes from ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-drs-fast-hydration/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-14-aws-aws-lambda-console-provides-a-one-click-setup-prom",
+      "date": "2026-07-14",
+      "name": "AWS Lambda console provides a one-click setup prompt for coding agents",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Lambda console now provides a one-click setup prompt for coding agents that configures your agent with AWS Serverless skills and the Serverless Model Context Protocol (MCP) server, embedding serverless best practi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-prompt-coding-agents/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-14-aws-aws-iam-identity-center-achieves-fedramp-class-c-c",
+      "date": "2026-07-14",
+      "name": "AWS IAM Identity Center achieves FedRAMP Class C Certification",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p><a href=\"https://aws.amazon.com/iam/identity-center/\" rel=\"noopener noreferrer\" target=\"_blank\">AWS IAM Identity Center</a> is now in scope for FedRAMP Class C in the US East (Ohio), US East (N. Virginia), US West (N.",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-identity-center-fedramp/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-14-aws-introducing-amazon-guardduty-ai-protection-for-aws",
+      "date": "2026-07-14",
+      "name": "Introducing Amazon GuardDuty AI Protection for AWS AI workloads",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon GuardDuty now offers AI Protection, expanding threat detection to AWS AI services including Amazon Bedrock and Amazon SageMaker. As organizations rapidly adopt AI, security teams may lack visibility into threat",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-guardduty-ai-protection-aws/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-14-aws-amazon-managed-service-for-apache-flink-now-offers",
+      "date": "2026-07-14",
+      "name": "Amazon Managed Service for Apache Flink now offers AI Agent Skills to simplify building and operating Flink applications",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Managed Service for Apache Flink now offers AI Agent Skills that give AI coding assistants expert, up-to-date guidance for building and operating Flink applications. The skills provide expert guidance for commo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-flink-agent-skills/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-14-aws-aws-security-hub-now-provides-ai-inventory-for-org",
+      "date": "2026-07-14",
+      "name": "AWS Security Hub now provides AI inventory for organization-wide visibility of AI assets",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces that AWS Security Hub now provides an AI inventory, giving central security teams a continuously updated, organization-wide view of AI assets and their security posture. As organizations rapidly d",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-hub-ai/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-14-aws-amazon-workspaces-personal-simplifies-bulk-pcoip-t",
+      "date": "2026-07-14",
+      "name": "Amazon WorkSpaces Personal simplifies bulk PCoIP to DCV protocol migration",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon WorkSpaces Personal now provides automated rollback and support for PCoIP to DCV protocol migration of stopped WorkSpaces, building on the recently launched console-based migration workflow and checkpoint snaps",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-workspaces-personal-pcoip/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-14-aws-amazon-aurora-dsql-is-now-available-in-europe-spai",
+      "date": "2026-07-14",
+      "name": "Amazon Aurora DSQL is now available in Europe (Spain)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, Amazon Aurora DSQL is available for single-Region clusters in the Europe (Spain) Region. Aurora DSQL is the fastest serverless, distributed SQL database, with active-active high availability and multi-",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-aurora-dsql-available-in-spain/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-14-aws-aws-storage-gateway-adds-console-support-for-copyi",
+      "date": "2026-07-14",
+      "name": "AWS Storage Gateway adds console support for copying file shares across gateways",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Storage Gateway now allows you to copy file shares across gateways directly from the Storage Gateway console. When you initiate a copy, the console reads the configuration of your source share and creates a new fi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-storage-gateway-console-copy-file-shares/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-14-aws-amazon-cloudfront-functions-now-supports-logging-t",
+      "date": "2026-07-14",
+      "name": "Amazon CloudFront Functions now supports logging to CloudFront access logs",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>You can now write custom data directly into CloudFront access logs using a new helper method available from within CloudFront Functions. CloudFront Functions run lightweight JavaScript at the edge for tasks like URL r",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/cloudfront-functions-access-logs/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-14-dust-spa-poke-3164ad4",
+      "date": "2026-07-14",
+      "name": "spa/poke/3164ad4",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[Agentic User Activation] Poke plugin: create initial conversation (#…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F3164ad4"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-14-dust-spa-app-3164ad4",
+      "date": "2026-07-14",
+      "name": "spa/app/3164ad4",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[Agentic User Activation] Poke plugin: create initial conversation (#…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F3164ad4"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-07-13-openai-users-may-experience-elevated-errors-uploading-del",
       "date": "2026-07-13",
       "name": "Users may experience elevated errors uploading, deleting, and navigating files in the ChatGPT Library",
@@ -248,6 +500,42 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-13-aws-amazon-documentdb-with-mongodb-compatibility-adds-",
+      "date": "2026-07-13",
+      "name": "Amazon DocumentDB (with MongoDB compatibility) adds support for 46 new MongoDB operators in version 8.0.1",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon DocumentDB (with MongoDB compatibility) now supports 46 additional MongoDB aggregation operators and cursor methods starting from minor version 8.0.1. This release significantly expands query API compatibility,",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-documentdb-mongodb-8-0-1-mongo-api"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-13-aws-amazon-redshift-serverless-now-preserves-zero-etl-",
+      "date": "2026-07-13",
+      "name": "Amazon Redshift Serverless now preserves zero-ETL and Amazon S3 event integrations during snapshot restores",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/redshift/\">Amazon Redshift</a> Serverless now automatically preserves zero-ETL and Amazon S3 event integrations when restoring a namespace from a snapshot or recovery point to the same ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/redshift-serverless-zetl-autocopy-restore/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -505,6 +793,24 @@
       "tags": []
     },
     {
+      "id": "2026-07-10-aws-aws-partner-central-subsidiary-connections-now-sup",
+      "date": "2026-07-10",
+      "name": "AWS Partner Central subsidiary connections now support qualification sharing",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Partner Central subsidiary connections now enable partners to share qualifications across their connected partner and seller accounts. Partners connecting newly acquired partner's accounts or regional subsidiary a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/subsidiary-qualification-sharing/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-07-09-openai-chatgpt-is-now-a-partner-for-your-most-ambitious-w",
       "date": "2026-07-09",
       "name": "ChatGPT is now a partner for your most ambitious work",
@@ -685,6 +991,42 @@
       "tags": []
     },
     {
+      "id": "2026-07-09-aws-amazon-ec2-c8id-m8id-and-r8id-instances-are-now-av",
+      "date": "2026-07-09",
+      "name": "Amazon EC2 C8id, M8id, and R8id instances are now available in additional regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon EC2 C8id, M8id, and R8id instances are now available in additional regions. Amazon EC2 C8id instances are now available in Asia Pacific (Mumbai) and Europe (Stockholm), M8id instances are available in Europe (L",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c8id-m8id-r8id/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-09-aws-aws-partner-central-introduces-partner-lead-prospe",
+      "date": "2026-07-09",
+      "name": "AWS Partner Central introduces Partner Lead Prospecting",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Partner Central now offers Partner Lead Prospecting, an AI-powered capability that helps APN Customer Engagements (ACE)-eligible AWS Partners act on and convert their leads faster. Building on the lead enrichment ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-partner-central-prospecting/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-07-08-crewai-1-15-2",
       "date": "2026-07-08",
       "name": "1.15.2",
@@ -734,348 +1076,6 @@
         }
       ],
       "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-08-aws-amazon-connect-customer-now-supports-forecasting-p",
-      "date": "2026-07-08",
-      "name": "Amazon Connect Customer now supports forecasting, planning, and scheduling for Tasks and Emails",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Connect Customer now supports forecasting, capacity planning, and scheduling for Tasks and Emails, enabling you to plan and optimize your workforce across all workloads (Voice, Chat, Tasks, Emails). Connect Cus",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-connect-customer-agent-scheduling-tasks/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-08-dust-spa-poke-8072951",
-      "date": "2026-07-08",
-      "name": "spa/poke/8072951",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>feat(activation): agent_templates MCP server + action_card directive …</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8072951"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-08-dust-spa-poke-30f870b-agentic-user-activation-poke-prov",
-      "date": "2026-07-08",
-      "name": "spa/poke/30f870b: [Agentic User Activation] Poke provisioning plugin skeleton (#28638)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>The skeleton version of the poke provisioning tool to create activation pods. What this skeleton version does:</p>\n<ul>\n<li>Create a new pod for the user from poke (Join Activation Pod plugin) and invite them to the p",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F30f870b"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-08-aws-amazon-sagemaker-unified-studio-workflows-now-supp",
-      "date": "2026-07-08",
-      "name": "Amazon SageMaker Unified Studio Workflows now supports operators for Amazon Bedrock, S3 Tables, S3 Vectors, and Glue Catalog",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker Unified Studio Workflows now supports 19 new operators for Amazon Bedrock, Amazon S3 Tables, Amazon S3 Vectors, AWS Glue Data Catalog, and Amazon MWAA Serverless. With these operators, customers can a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/apache-airflow-operators-amazon-sagemaker-unified-studio-workflows/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-08-aws-aws-neuron-2-31-0-now-available-with-nki-0-5-0-and",
-      "date": "2026-07-08",
-      "name": "AWS Neuron 2.31.0 now available with NKI 0.5.0 and UltraServer Operator",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Neuron 2.31.0 is now available, introducing NKI 0.5.0 with new MX FP8 scale dtype support, tensor indirection on compute operations for fewer instructions in indexed access patterns, and new NkiTensor view APIs fo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-announce-neuron-2-31-0"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-07-openai-mufg-aims-to-become-ai-native-with-openai",
-      "date": "2026-07-07",
-      "name": "MUFG aims to become AI-native with OpenAI",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/mufg"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-07-aws-amazon-gamelift-streams-introduces-secure-terminal",
-      "date": "2026-07-07",
-      "name": "Amazon GameLift Streams introduces secure terminal access for stream sessions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon GameLift Streams now supports Stream Session Admin Shell, a secure terminal connection to the live runtime environment of a stream session for real-time troubleshooting. You can inspect logs, query running proc",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-gamelift-streams-terminal-access/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-07-aws-amazon-s3-vectors-is-now-available-in-aws-govcloud",
-      "date": "2026-07-07",
-      "name": "Amazon S3 Vectors is now available in AWS GovCloud (US) Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon S3 Vectors is now available in AWS GovCloud (US-East) and AWS GovCloud (US-West).</p> \n<p>Amazon S3 Vectors is purpose-built vector storage for AI agents, inference, Retrieval Augmented Generation (RAG), and se",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/s3-vectors-available-aws-govcloud-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-07-aws-aws-security-hub-extends-unified-security-manageme",
-      "date": "2026-07-07",
-      "name": "AWS Security Hub extends unified security management to Microsoft Azure",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS announces that AWS Security Hub now monitors Microsoft Azure resources, extending risk analytics, cloud security posture management, vulnerability management, and security response management across both cl",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-security-hub-supports-monitoring-microsoft-azure/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-07-aws-amazon-ecs-managed-instances-reduces-gpu-managemen",
-      "date": "2026-07-07",
-      "name": "Amazon ECS Managed Instances reduces GPU management fees by up to 60%",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Elastic Container Service (Amazon ECS) Managed Instances now offers significantly reduced management fees for GPU and accelerated instance types. Beginning July 1, 2026, G-series ECS management fees are reduced",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-managed-instances-gpu-price/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-07-aws-amazon-emr-serverless-now-supports-larger-worker-s",
-      "date": "2026-07-07",
-      "name": "Amazon EMR Serverless now supports larger worker sizes to run more compute and memory intensive workloads",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon EMR Serverless now offers larger worker configurations of 32 vCPUs with up to 244 GB of memory, allowing you to run more compute and memory-intensive workloads. Previously, the largest worker configuration avai",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-emr-serverless/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-07-aws-amazon-ec2-c8ine-instances-are-now-available-in-aw",
-      "date": "2026-07-07",
-      "name": "Amazon EC2 C8ine instances are now available in AWS Europe (Frankfurt) region",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8ine instances are available in the AWS Europe (Frankfurt) region. C8ine instances are powered by custom sixth generation Intel Xeon Scalable processors, avai",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c8ine-aws-frankfurt/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-07-aws-amazon-sagemaker-now-supports-data-lineage-in-iam-",
-      "date": "2026-07-07",
-      "name": "Amazon SageMaker now supports data lineage in IAM-based domains",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker Unified Studio now supports OpenLineage compatible data lineage in IAM-based domains, capturing lineage events from Apache Spark jobs run on Amazon EMR, AWS Glue, SageMaker Visual ETL, and notebooks. ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-data-lineage-iam-domain"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-07-aws-amazon-redshift-rg-instances-now-available-in-aws-",
-      "date": "2026-07-07",
-      "name": "Amazon Redshift RG instances now available in AWS GovCloud (US) Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Redshift RG instances, powered by AWS Graviton processors, are now available in the AWS GovCloud (US-West) and AWS GovCloud (US-East) Regions. RG instances deliver better performance, running data warehouse and",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-rg-instances-aws-govcloud"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-07-aws-amazon-rds-for-oracle-now-supports-oracle-database",
-      "date": "2026-07-07",
-      "name": "Amazon RDS for Oracle now supports Oracle Database 26ai",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p><a></a><a href=\"https://aws.amazon.com/rds/oracle/\">Amazon RDS for Oracle</a> now supports Oracle Database 26ai, Oracle's latest Long Term Support Release, with Amazon Bedrock integration which provides access to foun",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-oracle-database-26ai/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-07-aws-amazon-s3-express-one-zone-is-now-available-in-the",
-      "date": "2026-07-07",
-      "name": "Amazon S3 Express One Zone is now available in the AWS Europe (Frankfurt) Region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>The Amazon S3 Express One Zone storage class is now available in the AWS Europe (Frankfurt) Region.</p> \n<p>Amazon S3 Express One Zone is a high-performance, single-Availability Zone storage class purpose-built to del",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/s3-express-one-zone-europe-frankfurt/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-07-aws-amazon-eks-auto-mode-reduces-gpu-management-fees-b",
-      "date": "2026-07-07",
-      "name": "Amazon EKS Auto Mode reduces GPU management fees by up to 60%",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Elastic Kubernetes Service (Amazon EKS) Auto Mode now offers significantly reduced management fees for GPU and accelerated instance types. Beginning July 1, 2026, G-series Auto Mode management fees are reduced ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-auto-mode-gpu-price"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-07-dust-spa-poke-432c106-front-fix-deduplicate-go-deep-com",
-      "date": "2026-07-07",
-      "name": "spa/poke/432c106: [front] fix: deduplicate Go Deep company data tools (#28566)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>fix: align go deep company data tools</p>\n</li>\n<li>\n<p>test: cover go deep tool dedupe in agent loop</p>\n</li>\n<li>\n<p>chore: share company data skill prefix</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F432c106"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-07-dust-spa-poke-63e5d66",
-      "date": "2026-07-07",
-      "name": "spa/poke/63e5d66",
-      "vendor": "Dust",
-      "type": "pricing",
-      "summary": "<p>Pricing: Add a Coupons tab in billing to list redeemed coupons (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/28563\">#28563</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F63e5d66"
-        }
-      ],
-      "impact": 3,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
