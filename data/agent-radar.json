@@ -19,6 +19,204 @@
       "tags": []
     },
     {
+      "id": "2026-07-15-openai-the-us-is-advancing-ai-safety-through-state-and-fe",
+      "date": "2026-07-15",
+      "name": "The US is advancing AI safety through state and federal action",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-15-aws-amazon-cloudwatch-logs-announces-intelligent-tieri",
+      "date": "2026-07-15",
+      "name": "Amazon CloudWatch Logs announces intelligent tiering for storage",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon CloudWatch Logs now supports intelligent storage tiering, which automatically classifies your log data across three storage tiers - Standard (existing), Infrequent Access, and Archive Instant Access based on ac",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-intelligent-tiering/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-15-aws-amazon-mq-now-supports-configurable-storage-for-ra",
+      "date": "2026-07-15",
+      "name": "Amazon MQ now supports configurable storage for RabbitMQ brokers",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon MQ now allows you to configure the EBS Disk storage size for RabbitMQ brokers independently of instance type. When creating or updating a broker, you can define a custom storage size, allowing you to right-size",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-mq-rabbitmq-configurable-storage/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-15-aws-amazon-ec2-g7e-instances-now-available-in-addition",
+      "date": "2026-07-15",
+      "name": "Amazon EC2 G7e instances now available in additional regions",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Starting today, Amazon&nbsp;Elastic Compute Cloud (Amazon EC2) G7e instances accelerated by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs are now available in the AWS Europe (Frankfurt, Stockholm) and Asia Pacific",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-g7e-additional-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-15-aws-amazon-rds-and-aurora-now-support-r8g-and-m8g-data",
+      "date": "2026-07-15",
+      "name": "Amazon RDS and Aurora now support R8g and M8g database instances in additional AWS Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Graviton4-based R8g database instances are now generally available for Amazon Aurora (MySQL and PostgreSQL compatibility) and Amazon RDS for PostgreSQL, MySQL, and MariaDB in Asia Pacific (Hyderabad, Melbourne, Ma",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/7/amazon-rds-aurora-r8g-m8g-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-15-aws-amazon-rds-and-aurora-expand-r8gd-and-m8gd-to-addi",
+      "date": "2026-07-15",
+      "name": "Amazon RDS and Aurora expand R8gd and M8gd to additional Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Relational Database Service (RDS) now supports R8gd database instances in 12 additional regions and and M8gd database instances in 6 additional Regions with Optimized Reads for Amazon Aurora PostgreSQL, RDS for",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-aurora-r8gd-m8gd-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-15-aws-amazon-cognito-now-supports-importing-users-with-p",
+      "date": "2026-07-15",
+      "name": "Amazon Cognito now supports importing users with password hashes",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Cognito now supports importing users with password hashes in CSV user imports. Previously, users imported from a CSV file had to reset their passwords on first sign-in. Now, you can include password hashes in y",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cognito-password-hash-import/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-15-aws-aws-glue-sap-odata-connector-and-zero-etl-integrat",
+      "date": "2026-07-15",
+      "name": "AWS Glue SAP OData connector and zero-ETL integrations are now available in AWS GovCloud (US) regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Glue SAP OData connector and zero-ETL integrations are now available in AWS GovCloud (US-West) and AWS GovCloud (US-East) Regions, with support for Amazon DynamoDB, Salesforce, and SAP OData as sources. Customers ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-glue-sap-zero-etl-govcloud"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-15-aws-amazon-opensearch-service-now-supports-the-agent-t",
+      "date": "2026-07-15",
+      "name": "Amazon OpenSearch Service now supports the Agent Toolkit for AWS with a curated skill",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon OpenSearch Service now integrates with the <a href=\"https://aws.amazon.com/products/developer-tools/agent-toolkit-for-aws/\">Agent Toolkit for AWS</a>, enabling you to build, manage, and query OpenSearch Service",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-opensearch-service-agent/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-15-aws-amazon-rds-for-db2-is-now-available-in-additional-",
+      "date": "2026-07-15",
+      "name": "Amazon RDS for Db2 is now available in additional AWS Commercial regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/db2/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for Db2</a> is now available in the Asia Pacific (Thailand), Asia Pacific (Malaysia), Asia Pacific (Taipei), Me",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-db2-available-additional-aws-commercial-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-15-aws-aws-lambda-announces-self-managed-code-storage",
+      "date": "2026-07-15",
+      "name": "AWS Lambda announces self-managed code storage",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/lambda/\">AWS Lambda</a> now supports self-managed Amazon S3 buckets for code storage,&nbsp;enabling you to reference source code directly from your own S3 buckets without Lambda creatin",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/lambda-self-managed-code-storage/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-07-14-openai-how-to-manage-ai-investments-in-the-agentic-era",
       "date": "2026-07-14",
       "name": "How to manage AI investments in the agentic era",
@@ -248,6 +446,42 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-14-aws-amazon-cloudwatch-announces-lookup-processor-for-l",
+      "date": "2026-07-14",
+      "name": "Amazon CloudWatch announces lookup processor for log enrichment",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon CloudWatch now supports lookup processor, enabling you to enrich log events with additional context by matching fields in your logs against a lookup table directly within your&nbsp;CloudWatch Pipeline.</p> \n<p>",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-lookup-processor/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-14-aws-amazon-ec2-m8in-m8idn-m8ib-m8idb-instances-are-now",
+      "date": "2026-07-14",
+      "name": "Amazon EC2 M8in, M8idn, M8ib, M8idb instances are now available in additional regions",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M8in, M8idn network optimized, and M8ib, M8idb EBS optimized instances are available in the AWS US East (Ohio), Europe (Ireland), and Asia Pacific (Tokyo) regi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/m8in-m8idn-m8ib-m8idb-new-regions"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -839,240 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/oauth-aws-mcp-server/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-09-aws-amazon-timestream-for-influxdb-now-publishes-datab",
-      "date": "2026-07-09",
-      "name": "Amazon Timestream for InfluxDB now publishes database state change events to Amazon EventBridge",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Timestream for InfluxDB now publishes events to Amazon EventBridge when your database instances or clusters undergo state changes. Events are emitted for lifecycle operations including creation, deletion, compu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/timestream-influxdb-eventbridge/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-09-aws-aws-client-vpn-extends-availability-to-four-additi",
-      "date": "2026-07-09",
-      "name": "AWS Client VPN extends availability to four additional AWS Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Client VPN is now available in four new regions: Canada West (Calgary), Mexico (Central) and two in Asia Pacific - New Zealand and Taipei. This fully managed service enables customers to securely connect their rem",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-client-vpn-four-additional-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-09-aws-amazon-sagemaker-unified-studio-adds-custom-asset-",
-      "date": "2026-07-09",
-      "name": "Amazon SageMaker Unified Studio adds custom asset types to the catalog in IAM-based domains",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker Unified Studio now supports custom asset types for IAM-based domains. With custom asset types, domain administrators can catalog any format of asset within the SageMaker Unified Studio, such as medica",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/smus-custom-asset-types-iam/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-09-aws-amazon-msk-replicator-now-supports-replication-fro",
-      "date": "2026-07-09",
-      "name": "Amazon MSK Replicator now supports replication from external Apache Kafka clusters to MSK Standard brokers",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon MSK Replicator now supports data replication from external Apache Kafka clusters - including on-premises, self-managed on AWS, or other cloud providers to Amazon MSK Standard brokers. This capability extends re",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-msk-replicator-external-kafka-standard-broker-support"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-09-aws-aws-config-now-supports-191-additional-managed-rul",
-      "date": "2026-07-09",
-      "name": "AWS Config now supports 191 additional managed rules",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Config now supports 191 additional managed rules across key services including Amazon Bedrock, Amazon SageMaker, Amazon ECS, Amazon EKS, Amazon RDS, Amazon Redshift, Amazon S3, and Amazon CloudTrail. This expansio",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-config-additional-managed-rules"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-09-dust-spa-poke-1434cc0",
-      "date": "2026-07-09",
-      "name": "spa/poke/1434cc0",
-      "vendor": "Dust",
-      "type": "pricing",
-      "summary": "<p>Pricing bulk edit seat 3/3: usage page UI (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/28644\">#28644</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F1434cc0"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-09-dust-spa-poke-383ec49",
-      "date": "2026-07-09",
-      "name": "spa/poke/383ec49",
-      "vendor": "Dust",
-      "type": "pricing",
-      "summary": "<p>Pricing: usage page credits reset date from the workspace billing per…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F383ec49"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-09-aws-amazon-ec2-i8g-instances-now-available-in-aws-govc",
-      "date": "2026-07-09",
-      "name": "Amazon EC2 I8g instances now available in AWS GovCloud (US) regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS is announcing the general availability of Amazon EC2 Storage Optimized I8g instances in AWS GovCloud (US East, US West) regions. I8g instances offer the best performance in Amazon EC2 for storage-intensive workloa",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-i8g-instances-aws-govcloud-us-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-09-aws-amazon-ec2-c8id-m8id-and-r8id-instances-are-now-av",
-      "date": "2026-07-09",
-      "name": "Amazon EC2 C8id, M8id, and R8id instances are now available in additional regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon EC2 C8id, M8id, and R8id instances are now available in additional regions. Amazon EC2 C8id instances are now available in Asia Pacific (Mumbai) and Europe (Stockholm), M8id instances are available in Europe (L",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c8id-m8id-r8id/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-09-aws-aws-partner-central-introduces-partner-lead-prospe",
-      "date": "2026-07-09",
-      "name": "AWS Partner Central introduces Partner Lead Prospecting",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Partner Central now offers Partner Lead Prospecting, an AI-powered capability that helps APN Customer Engagements (ACE)-eligible AWS Partners act on and convert their leads faster. Building on the lead enrichment ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-partner-central-prospecting/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-08-crewai-1-15-2",
-      "date": "2026-07-08",
-      "name": "1.15.2",
-      "vendor": "CrewAI",
-      "type": "launch",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Pull latest LLM models dynamically in the crew wizard.</li>\n<li>Support inline skill definitions.</li>\n<li>Add generated Flow Definition authoring skill.</li>\n<li>Suppor",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.2"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-07-08-aws-aws-builder-center-now-offers-free-sandbox-environ",
-      "date": "2026-07-08",
-      "name": "AWS Builder Center Now Offers Free Sandbox Environments",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Builder Center now lets builders request free, time-limited sandbox environments directly from eligible workshops, eliminating the need for a personal AWS account, credit card, or concerns about unexpected charges",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-builder-center-sandbox/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-08-aws-amazon-aurora-dsql-change-data-capture-cdc-is-now-",
-      "date": "2026-07-08",
-      "name": "Amazon Aurora DSQL change data capture (CDC) Is now generally available",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Aurora DSQL change data capture (CDC) is now generally available, enabling you to stream real-time database changes to Amazon Kinesis Data Streams for event-driven architectures and data integration workflows.<",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-aurora-dsql-cdc-ga/"
         }
       ],
       "impact": 5,
