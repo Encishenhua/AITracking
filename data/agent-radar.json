@@ -37,6 +37,78 @@
       "tags": []
     },
     {
+      "id": "2026-07-17-openai-new-chatgpt-app-not-available-for-enterprise-users",
+      "date": "2026-07-17",
+      "name": "New ChatGPT App Not Available For Enterprise Users Without Codex Permissions",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Identified</b><br /><br />Enterprise users who do not have Codex RBAC enabled may see a \"codex_cli_workspace_disabled\" error when trying to log into the new ChatGPT app post-install.\n\nPlease use our ChatGPT Cl",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KXRBA8B98QHMMVP3M86NHFZ1"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-17-aws-amazon-gamelift-streams-now-supports-iam-role-cred",
+      "date": "2026-07-17",
+      "name": "Amazon GameLift Streams now supports IAM role credentials for stream sessions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon GameLift Streams now supports assigning an IAM role to a stream session, enabling your application to securely access resources in your AWS account, such as Amazon S3 buckets and DynamoDB tables. With this laun",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-gamelift-streams-iam/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-17-aws-amazon-opensearch-ui-now-supports-one-click-dashbo",
+      "date": "2026-07-17",
+      "name": "Amazon OpenSearch UI now supports one-click dashboard migration",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon OpenSearch Service now supports one-click migration from legacy OpenSearch Dashboards to OpenSearch UI, for both OpenSearch domains and serverless collections. OpenSearch UI is the new, zero-downtime, serverles",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-opensearch-ui-one-click-dashboard-migration"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-17-dust-spa-poke-c61b87b-admin-gov-store-role-names-as-gro",
+      "date": "2026-07-17",
+      "name": "spa/poke/c61b87b: [Admin Gov] Store role names as group_permissions grant types (#29073)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>[Admin Gov] Store role names as group_permissions grant types</li>\n</ul>\n<p>Grant types are now the registry-defined role names (space reader/member/admin, agent+skill<br />\neditor, and the singleton capabilitie",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fc61b87b"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-07-16-openai-how-cars24-scales-conversations-and-builds-faster-",
       "date": "2026-07-16",
       "name": "How Cars24 scales conversations and builds faster with OpenAI",
@@ -286,6 +358,24 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-07-16-aws-aws-backup-extends-restore-testing-support-to-seve",
+      "date": "2026-07-16",
+      "name": "AWS Backup extends restore testing support to seven additional AWS Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Backup restore testing is now available in seven additional AWS Regions: Asia Pacific (Taipei), Asia Pacific (Malaysia), Asia Pacific (New Zealand), Asia Pacific (Thailand), Israel (Tel Aviv), Mexico (Central), an",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-backup-restore-testing-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
       "tags": []
     },
     {
@@ -986,96 +1076,6 @@
         }
       ],
       "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-13-dust-spa-poke-63fde0e-refactor-activation-skill-28871",
-      "date": "2026-07-13",
-      "name": "spa/poke/63fde0e: Refactor Activation Skill (#28871)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>[front] feat: rework Activation skill + wire in Exa people/company tool</li>\n</ul>\n<ul>\n<li>Rewrite ACTIVATION_BEHAVIOR: Overview Frame + Pod layer, first-session<br />\nopener (welcome + begin/scan quickReplies)",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F63fde0e"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-13-dust-spa-poke-f30454a",
-      "date": "2026-07-13",
-      "name": "spa/poke/f30454a",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] Cover Luna agent visibility</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Ff30454a"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-13-dust-spa-poke-e60ce58",
-      "date": "2026-07-13",
-      "name": "spa/poke/e60ce58",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>fix(sidekick): eagerly load client-side get_agent_config under Anthro…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fe60ce58"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-13-dust-spa-poke-dcdb386-fix-tier-resolution-for-generated",
-      "date": "2026-07-13",
-      "name": "spa/poke/dcdb386: Fix tier resolution for generated custom models (#28880)",
-      "vendor": "Dust",
-      "type": "pricing",
-      "summary": "<ul>\n<li>\n<p>Fix custom model tier resolution</p>\n</li>\n<li>\n<p>non safe as</p>\n</li>\n</ul>\n<p>Co-authored-by: dust-agent[bot] &lt;195764847+dust-agent[bot]@users.noreply.github.com&gt;</p>\n<ul>\n<li>\n<p>Update front/lib/",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fdcdb386"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-13-aws-amazon-documentdb-with-mongodb-compatibility-adds-",
-      "date": "2026-07-13",
-      "name": "Amazon DocumentDB (with MongoDB compatibility) adds support for 46 new MongoDB operators in version 8.0.1",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon DocumentDB (with MongoDB compatibility) now supports 46 additional MongoDB aggregation operators and cursor methods starting from minor version 8.0.1. This release significantly expands query API compatibility,",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-documentdb-mongodb-8-0-1-mongo-api"
-        }
-      ],
-      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
