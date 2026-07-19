@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "2026-07-18-openai-some-users-are-unable-to-access-codex",
+      "date": "2026-07-18",
+      "name": "Some users are unable to access Codex",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>CLI (Operational)</li>\n<li>Codex in ChatGPT Desktop (Operational)</li>",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KXT44TAQQ2R0AZDDVSJGAC4H"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-18-dust-spa-poke-8c2dbe2",
+      "date": "2026-07-18",
+      "name": "spa/poke/8c2dbe2",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>[front] Fix sync for free seats on legacy plans (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/29124\">#29124</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8c2dbe2"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-18-dust-spa-app-8c2dbe2",
+      "date": "2026-07-18",
+      "name": "spa/app/8c2dbe2",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>[front] Fix sync for free seats on legacy plans (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/29124\">#29124</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F8c2dbe2"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-07-17-dust-spa-poke-e32982e-feat-schedules-scope-schedule-too",
       "date": "2026-07-17",
       "name": "spa/poke/e32982e: feat(schedules): scope schedule tool to the current Pod (#28991)",
@@ -1022,60 +1076,6 @@
         }
       ],
       "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-13-aws-voxtral-mini-4b-realtime-for-real-time-speech-tran",
-      "date": "2026-07-13",
-      "name": "Voxtral-Mini-4B-Realtime for real-time speech transcription is now available in Amazon SageMaker JumpStart",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announced the availability of Voxtral-Mini-4B-Realtime-2602 in Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. This model from Mistral AI is a multilingu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/voxtral-mini-realtime-on-sagemaker-jumpstart/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-13-aws-amazon-sagemaker-hyperpod-now-supports-custom-amis",
-      "date": "2026-07-13",
-      "name": "Amazon SageMaker HyperPod now supports custom AMIs (Amazon Machine Images) for Slurm clusters",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker HyperPod now supports custom AMIs for Slurm-orchestrated clusters, enabling customers to deploy clusters with pre-configured, security-hardened environments that meet their specific organizational req",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/hyperpod-custom-ami-slurm/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-13-dust-spa-poke-611462b-feat-sandbox-pod-egress-allowlist",
-      "date": "2026-07-13",
-      "name": "spa/poke/611462b: feat(sandbox): pod egress allowlist on the owner policy file (#28655)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>feat(sandbox): pod egress allowlist on the owner policy file</li>\n</ul>\n<p>Admin-managed egress allowlist for Pods, stored in the pod's owner policy<br />\nfile (w/{wId}/sandboxes/{spaceSId}.json) — the same slot",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F611462b"
-        }
-      ],
-      "impact": 3,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
