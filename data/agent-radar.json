@@ -1,6 +1,204 @@
 {
   "items": [
     {
+      "id": "2026-07-20-aws-aws-data-exports-now-provides-standardized-amazon-",
+      "date": "2026-07-20",
+      "name": "AWS Data Exports now provides standardized Amazon Bedrock product metadata",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS announces standardized product metadata for Amazon Bedrock in AWS Data Exports (Cost and Usage Report), giving FinOps teams and cloud administrators consistent, structured attributes to understand &nbsp;Bed",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-data-exports-amazon-bedrock-product-metadata/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-20-aws-amazon-ec2-r8i-and-r8i-flex-instances-are-now-avai",
+      "date": "2026-07-20",
+      "name": "Amazon EC2 R8i and R8i-flex instances are now available in additional regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8i and R8i-flex instances are available in the Europe (Stockholm, Zurich) regions. These instances are powered by custom Intel Xeon 6 processors, available on",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r8i-r8i-flex-instances-in-stockholm-zurich-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-20-aws-selectively-log-network-activity-events-by-identit",
+      "date": "2026-07-20",
+      "name": "Selectively log network activity events by identity in AWS CloudTrail",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS launches enhanced event filtering for network activity events for VPC end points, a CloudTrail event type that captures actions transmitted through a&nbsp;<a href=\"https://docs.aws.amazon.com/vpc/latest/pri",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-cloudtrail-filter-useridentity-advance-selectors/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-20-aws-amazon-connect-delivers-more-natural-agentic-voice",
+      "date": "2026-07-20",
+      "name": "Amazon Connect delivers more natural agentic voice experiences with expanded language support and speech controls",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect customers can now deliver more natural, human-sounding agentic voice experiences with expanded support across 50+ languages including Spanish, French, Italian, Japanese, Korean, Portuguese, and Thai, ov",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-connect-agentic-voice/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-20-aws-amazon-workspaces-applications-now-supports-micros",
+      "date": "2026-07-20",
+      "name": "Amazon WorkSpaces Applications now supports Microsoft OneDrive and Google Drive on Multi-Session fleets",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon WorkSpaces Applications now supports Microsoft OneDrive for Business and Google Drive as persistent storage options on multi-session fleets. Users streaming on multi-session fleets can now connect their OneDriv",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/storage-multi-session-fleets/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-20-aws-announcing-the-general-availability-of-a-new-aws-l",
+      "date": "2026-07-20",
+      "name": "Announcing the general availability of a new AWS Local Zone in Athens, Greece",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS announces the general availability of a new Local Zone in Athens, Greece. The Athens Local Zone is the second Local Zone in EMEA with support for Amazon Simple Storage Service (Amazon S3) and Amazon Elastic",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-local-zone-athens-greece/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-20-aws-amazon-cloudwatch-announces-coding-agent-insights",
+      "date": "2026-07-20",
+      "name": "Amazon CloudWatch announces coding agent insights",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon CloudWatch announces the launch of coding agent insights, giving engineering leaders visibility into how AI coding tools are driving value across their organization. Coding Agent Insights integrates with <a hre",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/cloudwatch-coding-agent-insights/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-20-aws-introducing-knfsd-file-cache-now-in-preview",
+      "date": "2026-07-20",
+      "name": "Introducing KNFSD File Cache - Now in Preview",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the availability of KNFSD File Cache, an open-source, Apache-2.0 licensed solution for deploying a scalable, high-speed Network File System (NFS) cache on AWS. KNFSD File Cache mounts exports from",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/knfsd-file-cache/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-20-dust-spa-poke-9571a94",
+      "date": "2026-07-20",
+      "name": "spa/poke/9571a94",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] refactor: simplify internal MCP tool metadata typing (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/29115\">#29115</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9571a94"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-20-dust-spa-poke-344c83a",
+      "date": "2026-07-20",
+      "name": "spa/poke/344c83a",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>UI: fix dark mode colors for agent/skill suggestions (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/29173\">#29173</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F344c83a"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-20-dust-spa-poke-4f829e3",
+      "date": "2026-07-20",
+      "name": "spa/poke/4f829e3",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Document effective agent Space scope</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F4f829e3"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-07-18-openai-some-users-are-unable-to-access-codex",
       "date": "2026-07-18",
       "name": "Some users are unable to access Codex",
@@ -433,6 +631,24 @@
       "tags": []
     },
     {
+      "id": "2026-07-16-aws-amazon-cloudwatch-synthetics-now-supports-customer",
+      "date": "2026-07-16",
+      "name": "Amazon CloudWatch Synthetics now supports customer managed encryption keys",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon CloudWatch Synthetics now supports customer managed AWS Key Management Service (KMS) keys for encrypting canary environment variables, giving you full control over the encryption of sensitive configuration data",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/synthetics-customer-managed-keys/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-07-15-openai-elevated-errors-affecting-chatgpt",
       "date": "2026-07-15",
       "name": "Elevated errors affecting ChatGPT",
@@ -857,222 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/cloudfront-functions-access-logs/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-14-dust-spa-poke-3164ad4",
-      "date": "2026-07-14",
-      "name": "spa/poke/3164ad4",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[Agentic User Activation] Poke plugin: create initial conversation (#…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F3164ad4"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-14-dust-spa-app-3164ad4",
-      "date": "2026-07-14",
-      "name": "spa/app/3164ad4",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[Agentic User Activation] Poke plugin: create initial conversation (#…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F3164ad4"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-14-aws-amazon-cloudwatch-announces-lookup-processor-for-l",
-      "date": "2026-07-14",
-      "name": "Amazon CloudWatch announces lookup processor for log enrichment",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon CloudWatch now supports lookup processor, enabling you to enrich log events with additional context by matching fields in your logs against a lookup table directly within your&nbsp;CloudWatch Pipeline.</p> \n<p>",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-lookup-processor/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-14-aws-amazon-ec2-m8in-m8idn-m8ib-m8idb-instances-are-now",
-      "date": "2026-07-14",
-      "name": "Amazon EC2 M8in, M8idn, M8ib, M8idb instances are now available in additional regions",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M8in, M8idn network optimized, and M8ib, M8idb EBS optimized instances are available in the AWS US East (Ohio), Europe (Ireland), and Asia Pacific (Tokyo) regi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/m8in-m8idn-m8ib-m8idb-new-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-14-aws-connect-customer-outbound-campaigns-now-in-cape-to",
-      "date": "2026-07-14",
-      "name": "Connect Customer Outbound Campaigns now in Cape Town Africa",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Connect Customer Outbound Campaigns digital channels (SMS, WhatsApp, and email) are now available in the Africa (Cape Town) Region. Businesses in the Region can now use Connect Customer's proactive outreach capabiliti",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/connect-africa-cape-town/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-13-openai-users-may-experience-elevated-errors-uploading-del",
-      "date": "2026-07-13",
-      "name": "Users may experience elevated errors uploading, deleting, and navigating files in the ChatGPT Library",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>File uploads (Operational)</li>\n          </ul>",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KXDBYJ7BWBE2NRDAQTKPM5WK"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-13-aws-openai-gpt-5-6-sol-terra-and-luna-now-generally-av",
-      "date": "2026-07-13",
-      "name": "OpenAI GPT-5.6 Sol, Terra, and Luna now generally available on Amazon Bedrock",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>GPT-5.6 Sol, Terra, and Luna are now generally available on Amazon Bedrock, bringing the smartest family of models from OpenAI yet to Bedrock's next-generation inference engine built for high-performance, security and",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/openai-gpt-sol-terra/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-13-aws-amazon-managed-service-for-prometheus-is-now-avail",
-      "date": "2026-07-13",
-      "name": "Amazon Managed Service for Prometheus is now available in Asia Pacific (New Zealand) Region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/prometheus/\">Amazon Managed Service for Prometheus</a> is now available in Asia Pacific (New Zealand) Region. Amazon Managed Service for Prometheus is a fully managed, Prometheus-compat",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-prometheus-new-zealand/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-13-aws-amazon-documentdb-with-mongodb-compatibility-now-a",
-      "date": "2026-07-13",
-      "name": "Amazon DocumentDB (with MongoDB compatibility) now available as a skill in the Agent Toolkit for AWS",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon DocumentDB (with MongoDB compatibility) is now available as a specialized database skill in the <a href=\"https://aws.amazon.com/products/developer-tools/agent-toolkit-for-aws/\">Agent Toolkit for AWS</a>. With t",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-documentdb-agent-skill"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-13-aws-gemma-4-e2b-it-for-is-now-available-in-amazon-sage",
-      "date": "2026-07-13",
-      "name": "Gemma-4-E2B-it for is now available in Amazon SageMaker JumpStart",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announced the availability of gemma-4-E2B-it in Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. This model from Google DeepMind is a multimodal, instruct",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/gemma-4-e2b-on-sagemaker-jumpstart/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-13-aws-openai-privacy-filter-for-pii-detection-and-maskin",
-      "date": "2026-07-13",
-      "name": "OpenAI privacy-filter for PII detection and masking is now available in Amazon SageMaker JumpStart",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announced the availability of privacy-filter in Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. This model from OpenAI is a bidirectional token-classific",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/privacy-filter-on-sagemaker-jumpstart/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-13-aws-qwen3-embedding-and-reranking-models-for-retrieval",
-      "date": "2026-07-13",
-      "name": "Qwen3 embedding and reranking models for retrieval are now available in Amazon SageMaker JumpStart",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announced the availability of Qwen3-VL-Embedding-2B and Qwen3-Reranker-4B in Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. These models from Qwen are d",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/qwen3-search-retrieval-on-sagemaker-jumpstart/"
         }
       ],
       "impact": 5,
