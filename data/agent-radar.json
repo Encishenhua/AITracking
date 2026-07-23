@@ -1,6 +1,240 @@
 {
   "items": [
     {
+      "id": "2026-07-22-openai-how-news-organizations-are-using-ai-to-advance-the",
+      "date": "2026-07-22",
+      "name": "How news organizations are using AI to advance their vital missions",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/how-news-organizations-are-using-ai"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-22-openai-introducing-openai-presence",
+      "date": "2026-07-22",
+      "name": "Introducing OpenAI Presence",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/introducing-openai-presence"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-22-openai-elevated-errors-for-workspace-agent",
+      "date": "2026-07-22",
+      "name": "Elevated errors for Workspace Agent",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Agent (Operational)</li>\n          </ul>",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KY54SWGRK806N6TJ495MYPDD"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-22-aws-amazon-ec2-c7a-instances-are-now-available-in-the-",
+      "date": "2026-07-22",
+      "name": "Amazon EC2 C7a instances are now available in the US West (N. California) Region",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, the compute optimized Amazon EC2 C7a instances are now available in AWS US West (N. California) Region. C7a instances, powered by 4th Gen AMD EPYC processors (code-named Genoa) with a maximum frequency",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c7a-instances-us-west-ncalifornia-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-22-aws-amazon-ec2-m8a-instances-now-available-in-the-asia",
+      "date": "2026-07-22",
+      "name": "Amazon EC2 M8a instances now available in the Asia Pacific (Hyderabad) region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, the general-purpose Amazon EC2 M8a instances are available in AWS Asia Pacific (Hyderabad) region. M8a instances are powered by 5th Gen AMD EPYC processors (formerly code named Turin) with a maximum fr",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-m8a-instances-asia-pacific-hyderabad-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-22-aws-aws-network-load-balancer-now-supports-listener-ru",
+      "date": "2026-07-22",
+      "name": "AWS Network Load Balancer now supports Listener Rules for custom traffic routing",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Network Load Balancer (NLB) now supports listener rules allowing you to route connections to different target groups based on the source IP address type. With listener rules, a single dual-stack NLB sends IPv6 client ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-network-load-balancer-supports-listener-rules/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-22-aws-aws-entity-resolution-now-supports-advanced-real-t",
+      "date": "2026-07-22",
+      "name": "AWS Entity Resolution now supports advanced real-time matching",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Entity Resolution now supports real-time matching with advanced matching workflows, enabling customers to match records in milliseconds using complex rulesets through the GenerateMatchId API. Previously, real-time",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-entity-resolution/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-22-aws-aws-lambda-durable-functions-now-supports-customer",
+      "date": "2026-07-22",
+      "name": "AWS Lambda durable functions now supports customer managed key encryption",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS Lambda durable functions now supports encryption of durable execution data with an AWS Key Management Service (AWS KMS) customer managed key. <a href=\"https://docs.aws.amazon.com/lambda/latest/dg/durable-functions",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/durablefunctions-cmk/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-22-aws-aws-organizations-increases-rcp-quota-to-2-000-per",
+      "date": "2026-07-22",
+      "name": "AWS Organizations increases RCP quota to 2,000 per organization",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Organizations now supports up to 2,000 resource control policies (RCPs) per organization, doubling the previous limit of 1,000. RCPs enable centralized management of the maximum permissions available to resources ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-organizations-resource-control-policy-limit-increase-2000"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-22-dust-spa-poke-346e15b-github-mcp-handle-inaccessible-te",
+      "date": "2026-07-22",
+      "name": "spa/poke/346e15b: [GitHub MCP] Handle inaccessible team reviewers (#29326)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>Fix GitHub team reviewer access errors</p>\n</li>\n<li>\n<p>Document GitHub reviewer fallback</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F346e15b"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-22-dust-spa-poke-58a117f",
+      "date": "2026-07-22",
+      "name": "spa/poke/58a117f",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[Workspace Deletion] Delete group permissions before groups (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/29332\">#29332</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F58a117f"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-22-dust-spa-poke-9e329da",
+      "date": "2026-07-22",
+      "name": "spa/poke/9e329da",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>feat(llms): add Claude Fable 5 EU agent-platform stream endpoint (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/29\">#29</a>…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9e329da"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-22-dust-spa-poke-8ae6c8f-front-perf-add-workspaceid-clause",
+      "date": "2026-07-22",
+      "name": "spa/poke/8ae6c8f: [front] perf: add workspaceId clause in group_vault (#29292)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>[front] perf: add workspaceId clause in group_vault</p>\n</li>\n<li>\n<p>[front] fix: scope poke sId search on the sId workspace</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8ae6c8f"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-07-21-openai-david-v-lez-and-robin-vince-join-the-boards-of-the",
       "date": "2026-07-21",
       "name": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
@@ -212,6 +446,42 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-21-aws-aws-elastic-disaster-recovery-is-now-available-in-",
+      "date": "2026-07-21",
+      "name": "AWS Elastic Disaster Recovery is now available in six additional AWS Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Elastic Disaster Recovery (AWS DRS) is now available in six additional AWS Regions: Asia Pacific (Bangkok), Asia Pacific (Malaysia), Asia Pacific (New Zealand), Asia Pacific (Taipei), Canada West (Calgary), and Me",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-drs-additional-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-21-aws-amazon-sagemaker-unified-studio-now-supports-amazo",
+      "date": "2026-07-21",
+      "name": "Amazon SageMaker Unified Studio now supports Amazon OpenSearch",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker Unified Studio now supports Amazon OpenSearch as a data source, enabling you to query and analyze your search and log analytics data directly alongside your other data assets. With this new connection",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -803,276 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-control-tower-account/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-16-dust-spa-poke-50f0240",
-      "date": "2026-07-16",
-      "name": "spa/poke/50f0240",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>fix(front): pass transaction to cancelled AgentMessage row in delete …</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F50f0240"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-16-dust-spa-poke-2e04aae-feat-poke-searchable-user-selecti",
-      "date": "2026-07-16",
-      "name": "spa/poke/2e04aae: feat(poke): searchable user selection for Join Activation Pod (#28989)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>feat(poke): searchable user selection for Join Activation Pod</li>\n</ul>\n<p>Replace the free-text comma-separated user-ID field with searchable<br />\nmember pickers: a required single-select Pod editor (which dr",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2e04aae"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-16-crewai-1-15-3",
-      "date": "2026-07-16",
-      "name": "1.15.3",
-      "vendor": "CrewAI",
-      "type": "launch",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add organization ID parameter to PlusAPI client</li>\n<li>Add step interception points and rework execution hooks documentation around <a class=\"user-mention notranslate\"",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.3"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-07-16-crewai-1-15-3a1",
-      "date": "2026-07-16",
-      "name": "1.15.3a1",
-      "vendor": "CrewAI",
-      "type": "launch",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add organization ID parameter to PlusAPI client.</li>\n<li>Add step interception points and rework execution hooks documentation around <code>@on</code>.</li>\n<li>Wire ex",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.3a1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-07-16-aws-aws-backup-extends-restore-testing-support-to-seve",
-      "date": "2026-07-16",
-      "name": "AWS Backup extends restore testing support to seven additional AWS Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Backup restore testing is now available in seven additional AWS Regions: Asia Pacific (Taipei), Asia Pacific (Malaysia), Asia Pacific (New Zealand), Asia Pacific (Thailand), Israel (Tel Aviv), Mexico (Central), an",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-backup-restore-testing-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-16-aws-amazon-cloudwatch-synthetics-now-supports-customer",
-      "date": "2026-07-16",
-      "name": "Amazon CloudWatch Synthetics now supports customer managed encryption keys",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon CloudWatch Synthetics now supports customer managed AWS Key Management Service (KMS) keys for encrypting canary environment variables, giving you full control over the encryption of sensitive configuration data",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/synthetics-customer-managed-keys/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-15-openai-elevated-errors-affecting-chatgpt",
-      "date": "2026-07-15",
-      "name": "Elevated errors affecting ChatGPT",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Conversations (Operational)</li>\n<li>Image Generation (Operational)</l",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KXHH1BJ9BS0FVE2MGEJ9FZ5M"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-15-openai-the-us-is-advancing-ai-safety-through-state-and-fe",
-      "date": "2026-07-15",
-      "name": "The US is advancing AI safety through state and federal action",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-15-aws-amazon-cloudwatch-logs-announces-intelligent-tieri",
-      "date": "2026-07-15",
-      "name": "Amazon CloudWatch Logs announces intelligent tiering for storage",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon CloudWatch Logs now supports intelligent storage tiering, which automatically classifies your log data across three storage tiers - Standard (existing), Infrequent Access, and Archive Instant Access based on ac",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-intelligent-tiering/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-15-aws-amazon-mq-now-supports-configurable-storage-for-ra",
-      "date": "2026-07-15",
-      "name": "Amazon MQ now supports configurable storage for RabbitMQ brokers",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon MQ now allows you to configure the EBS Disk storage size for RabbitMQ brokers independently of instance type. When creating or updating a broker, you can define a custom storage size, allowing you to right-size",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-mq-rabbitmq-configurable-storage/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-15-aws-amazon-ec2-g7e-instances-now-available-in-addition",
-      "date": "2026-07-15",
-      "name": "Amazon EC2 G7e instances now available in additional regions",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Starting today, Amazon&nbsp;Elastic Compute Cloud (Amazon EC2) G7e instances accelerated by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs are now available in the AWS Europe (Frankfurt, Stockholm) and Asia Pacific",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-g7e-additional-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-15-aws-amazon-rds-and-aurora-now-support-r8g-and-m8g-data",
-      "date": "2026-07-15",
-      "name": "Amazon RDS and Aurora now support R8g and M8g database instances in additional AWS Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Graviton4-based R8g database instances are now generally available for Amazon Aurora (MySQL and PostgreSQL compatibility) and Amazon RDS for PostgreSQL, MySQL, and MariaDB in Asia Pacific (Hyderabad, Melbourne, Ma",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/7/amazon-rds-aurora-r8g-m8g-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-15-aws-amazon-rds-and-aurora-expand-r8gd-and-m8gd-to-addi",
-      "date": "2026-07-15",
-      "name": "Amazon RDS and Aurora expand R8gd and M8gd to additional Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Relational Database Service (RDS) now supports R8gd database instances in 12 additional regions and and M8gd database instances in 6 additional Regions with Optimized Reads for Amazon Aurora PostgreSQL, RDS for",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-aurora-r8gd-m8gd-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-15-aws-amazon-cognito-now-supports-importing-users-with-p",
-      "date": "2026-07-15",
-      "name": "Amazon Cognito now supports importing users with password hashes",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Cognito now supports importing users with password hashes in CSV user imports. Previously, users imported from a CSV file had to reset their passwords on first sign-in. Now, you can include password hashes in y",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cognito-password-hash-import/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-15-aws-aws-glue-sap-odata-connector-and-zero-etl-integrat",
-      "date": "2026-07-15",
-      "name": "AWS Glue SAP OData connector and zero-ETL integrations are now available in AWS GovCloud (US) regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Glue SAP OData connector and zero-ETL integrations are now available in AWS GovCloud (US-West) and AWS GovCloud (US-East) Regions, with support for Amazon DynamoDB, Salesforce, and SAP OData as sources. Customers ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-glue-sap-zero-etl-govcloud"
         }
       ],
       "impact": 5,
