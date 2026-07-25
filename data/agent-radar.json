@@ -1,6 +1,240 @@
 {
   "items": [
     {
+      "id": "2026-07-24-openai-elevated-error-rates",
+      "date": "2026-07-24",
+      "name": "Elevated Error Rates",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Files (Operational)</li>\n<li>Responses (Operational)</li>\n<li>Connecto",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KY7SX5MYJ2BP51X5MXAPYX71"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-24-aws-amazon-connect-now-supports-audio-optimization-for",
+      "date": "2026-07-24",
+      "name": "Amazon Connect now supports audio optimization for Azure Virtual Desktop and Windows 365 Cloud PC",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Agents using Microsoft Azure Virtual Desktop (AVD) or Windows 365 Cloud PC can now take calls directly from their virtual desktop session with audio optimization enabled. To get started, IT administrators need to comp",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-24-aws-amazon-kinesis-data-streams-now-supports-scaling-d",
+      "date": "2026-07-24",
+      "name": "Amazon Kinesis Data Streams now supports scaling down ingest capacity with warm throughput",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Kinesis Data Streams is a serverless streaming data service that makes it easy to capture, process, and store data streams at any scale. On-demand streams automatically increase ingest capacity in response to r",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/kinesis/on-demand-scale-down"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-24-aws-aws-lambda-now-publishes-logs-for-lambda-managed-i",
+      "date": "2026-07-24",
+      "name": "AWS Lambda now publishes logs for Lambda Managed Instances capacity providers",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Lambda now publishes logs for Lambda Managed Instances (LMI) capacity providers to Amazon CloudWatch Logs, giving you visibility into scaling activity and instance lifecycle operations. LMI enables you to run Lamb",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-managed-instances-logs/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-24-aws-claude-opus-5-is-now-available-on-aws",
+      "date": "2026-07-24",
+      "name": "Claude Opus 5 is now available on AWS",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS now offers Claude Opus 5 — the most advanced Opus model yet, and compatible with zero data retention (ZDR) — bringing a step-change in coding, long-running agents, and complex professional work to teams building a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/claude-opus-5-aws/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-24-aws-opus-4-8-sonnet-5-and-user-activity-monitoring-now",
+      "date": "2026-07-24",
+      "name": "Opus 4.8, Sonnet 5, and User Activity Monitoring now available on Kiro in AWS GovCloud (US)",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Two new models are now available in the Kiro IDE and CLI for the AWS GovCloud (US) Regions.<br /> <br /> Claude Opus 4.8 is the most intelligent Opus model, delivering stronger self-verification, more efficient tool c",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/kiro-opus-sonnet-monitoring-launch-aws-govcloud-us/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-24-aws-aws-announces-aws-bench-an-open-source-benchmark-f",
+      "date": "2026-07-24",
+      "name": "AWS announces aws-bench, an open-source benchmark for AI agents on AWS",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces a research preview of aws-bench, an open-source benchmark that measures how accurately and efficiently AI agents complete real-world AWS tasks. Model providers and AI researchers building agents t",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-bench/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-24-dust-spa-poke-276457c",
+      "date": "2026-07-24",
+      "name": "spa/poke/276457c",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Admin governance: add endpoint to bulk edit skill availability (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/29471\">#29471</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F276457c"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-24-dust-spa-poke-7847de8",
+      "date": "2026-07-24",
+      "name": "spa/poke/7847de8",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[Conversations] Ignore deleted history when detecting active agents (…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F7847de8"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-24-dust-spa-poke-437cced",
+      "date": "2026-07-24",
+      "name": "spa/poke/437cced",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Admin governance: availability in v1/w/[wId]/skills endpoint (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/29430\">#29430</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F437cced"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-24-dust-spa-poke-27d7dd4-address-review-eu-fallback-dust-e",
+      "date": "2026-07-24",
+      "name": "spa/poke/27d7dd4: Address review: EU fallback, dust-edge/deep-dive, ordering",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>Keep Opus 4.8 as the second Auto Complex candidate. Opus 5 is<br />\nglobal-only, so without it regional-only workspaces fell all the way<br />\nthrough to OpenAI instead of staying on Anthropic.</li>\n<li>Move dus",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F27d7dd4"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-24-dust-spa-poke-10d5e4d-llm-remove-legacy-llm-router-and-",
+      "date": "2026-07-24",
+      "name": "spa/poke/10d5e4d: [LLM] Remove legacy LLM router and per-provider clients (#29462)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>\n<p>chore(llm): remove legacy LLM router</p>\n</li>\n<li>\n<p>test(llm): remove legacy router parity tests</p>\n</li>\n<li>\n<p>test(llm): remove legacy LLM tests</p>\n</li>\n<li>\n<p>chore(llm): remove legacy Fireworks ",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F10d5e4d"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-24-crewai-1-15-6",
+      "date": "2026-07-24",
+      "name": "1.15.6",
+      "vendor": "CrewAI",
+      "type": "upgrade",
+      "summary": "<h2>What's Changed</h2>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Fix detection of Anthropic preview tool-use blocks.</li>\n<li>Preserve strict tool schema property names.</li>\n<li>Dispatch execution_end hook on failed crew and flow ex",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.6"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-07-23-openai-some-users-may-experience-elevated-error-rates-in-",
       "date": "2026-07-23",
       "name": "Some users may experience elevated error rates in ChatGPT",
@@ -284,6 +518,24 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-23-aws-aws-lambda-durable-execution-sdk-for-net-is-now-ge",
+      "date": "2026-07-23",
+      "name": "AWS Lambda durable execution SDK for .NET is now generally available",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS announces the general availability of the AWS Lambda Durable Execution SDK for .NET, empowering C# developers to build resilient, long-running workflows using Lambda durable functions. With this SDK, develo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/lambdadf-dotnet/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -821,258 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-data-exports-amazon-bedrock-product-metadata/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-20-aws-amazon-ec2-r8i-and-r8i-flex-instances-are-now-avai",
-      "date": "2026-07-20",
-      "name": "Amazon EC2 R8i and R8i-flex instances are now available in additional regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8i and R8i-flex instances are available in the Europe (Stockholm, Zurich) regions. These instances are powered by custom Intel Xeon 6 processors, available on",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r8i-r8i-flex-instances-in-stockholm-zurich-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-20-aws-selectively-log-network-activity-events-by-identit",
-      "date": "2026-07-20",
-      "name": "Selectively log network activity events by identity in AWS CloudTrail",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS launches enhanced event filtering for network activity events for VPC end points, a CloudTrail event type that captures actions transmitted through a&nbsp;<a href=\"https://docs.aws.amazon.com/vpc/latest/pri",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-cloudtrail-filter-useridentity-advance-selectors/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-20-aws-amazon-connect-delivers-more-natural-agentic-voice",
-      "date": "2026-07-20",
-      "name": "Amazon Connect delivers more natural agentic voice experiences with expanded language support and speech controls",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect customers can now deliver more natural, human-sounding agentic voice experiences with expanded support across 50+ languages including Spanish, French, Italian, Japanese, Korean, Portuguese, and Thai, ov",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-connect-agentic-voice/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-20-aws-amazon-workspaces-applications-now-supports-micros",
-      "date": "2026-07-20",
-      "name": "Amazon WorkSpaces Applications now supports Microsoft OneDrive and Google Drive on Multi-Session fleets",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon WorkSpaces Applications now supports Microsoft OneDrive for Business and Google Drive as persistent storage options on multi-session fleets. Users streaming on multi-session fleets can now connect their OneDriv",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/storage-multi-session-fleets/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-20-aws-announcing-the-general-availability-of-a-new-aws-l",
-      "date": "2026-07-20",
-      "name": "Announcing the general availability of a new AWS Local Zone in Athens, Greece",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS announces the general availability of a new Local Zone in Athens, Greece. The Athens Local Zone is the second Local Zone in EMEA with support for Amazon Simple Storage Service (Amazon S3) and Amazon Elastic",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-local-zone-athens-greece/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-20-aws-amazon-cloudwatch-announces-coding-agent-insights",
-      "date": "2026-07-20",
-      "name": "Amazon CloudWatch announces coding agent insights",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon CloudWatch announces the launch of coding agent insights, giving engineering leaders visibility into how AI coding tools are driving value across their organization. Coding Agent Insights integrates with <a hre",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/cloudwatch-coding-agent-insights/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-20-aws-introducing-knfsd-file-cache-now-in-preview",
-      "date": "2026-07-20",
-      "name": "Introducing KNFSD File Cache - Now in Preview",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the availability of KNFSD File Cache, an open-source, Apache-2.0 licensed solution for deploying a scalable, high-speed Network File System (NFS) cache on AWS. KNFSD File Cache mounts exports from",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/knfsd-file-cache/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-20-dust-spa-poke-9571a94",
-      "date": "2026-07-20",
-      "name": "spa/poke/9571a94",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] refactor: simplify internal MCP tool metadata typing (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/29115\">#29115</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9571a94"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-20-dust-spa-poke-344c83a",
-      "date": "2026-07-20",
-      "name": "spa/poke/344c83a",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>UI: fix dark mode colors for agent/skill suggestions (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/29173\">#29173</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F344c83a"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-20-dust-spa-poke-4f829e3",
-      "date": "2026-07-20",
-      "name": "spa/poke/4f829e3",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Document effective agent Space scope</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F4f829e3"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-20-aws-aws-partner-central-agents-expand-funding-guidance",
-      "date": "2026-07-20",
-      "name": "AWS Partner Central agents expand funding guidance to all programs",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Partner Central agents now support all AWS Partner funding programs. AWS Partners can get guidance on eligibility requirements, application processes, and program details for any funding program and receive docume",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-partner-central/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-20-aws-amazon-connect-customer-launches-metrics-for-agent",
-      "date": "2026-07-20",
-      "name": "Amazon Connect Customer launches metrics for agent queues on analytics dashboards",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect Customer dashboards now display real-time and historical metrics for agent queues. Agent queues are used to directly route contacts to a specific agent. Now, supervisors can track how these agents perfo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-connect/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-20-aws-aws-healthomics-now-available-in-two-additional-aw",
-      "date": "2026-07-20",
-      "name": "AWS HealthOmics now available in two additional AWS Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS HealthOmics private workflows are now available in the&nbsp;Asia Pacific (Tokyo) and US East (Ohio) Regions, expanding access to fully-managed bioinformatics workflows&nbsp;for research, drug discovery, and agricu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/healthomics-tokyo-ohio/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-18-openai-some-users-are-unable-to-access-codex",
-      "date": "2026-07-18",
-      "name": "Some users are unable to access Codex",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>CLI (Operational)</li>\n<li>Codex in ChatGPT Desktop (Operational)</li>",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KXT44TAQQ2R0AZDDVSJGAC4H"
         }
       ],
       "impact": 5,
