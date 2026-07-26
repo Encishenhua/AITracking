@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "2026-07-25-openai-elevated-errors-affecting-chatgpt-conversations",
+      "date": "2026-07-25",
+      "name": "Elevated errors affecting ChatGPT conversations",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Monitoring</b><br /><br />Mitigation has been implemented, and we are monitoring the recovery of ChatGPT conversations.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Conversations (Operati",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KYDN6YPS6ARY1EC9089N089G"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-25-openai-elevated-error-rates",
+      "date": "2026-07-25",
+      "name": "Elevated error rates",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Batch (Operational)</li>\n<li>Login (Operational)</li>\n<li>File uploads",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KYCGY017EG43XZS6GFVXA8VH"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-07-24-openai-elevated-error-rates",
       "date": "2026-07-24",
       "name": "Elevated Error Rates",
@@ -1037,42 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-drs-additional-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-21-aws-amazon-sagemaker-unified-studio-now-supports-amazo",
-      "date": "2026-07-21",
-      "name": "Amazon SageMaker Unified Studio now supports Amazon OpenSearch",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker Unified Studio now supports Amazon OpenSearch as a data source, enabling you to query and analyze your search and log analytics data directly alongside your other data assets. With this new connection",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-20-aws-aws-data-exports-now-provides-standardized-amazon-",
-      "date": "2026-07-20",
-      "name": "AWS Data Exports now provides standardized Amazon Bedrock product metadata",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS announces standardized product metadata for Amazon Bedrock in AWS Data Exports (Cost and Usage Report), giving FinOps teams and cloud administrators consistent, structured attributes to understand &nbsp;Bed",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-data-exports-amazon-bedrock-product-metadata/"
         }
       ],
       "impact": 5,
