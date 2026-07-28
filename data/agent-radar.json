@@ -1,6 +1,150 @@
 {
   "items": [
     {
+      "id": "2026-07-27-aws-amazon-neptune-now-supports-tag-based-access-contr",
+      "date": "2026-07-27",
+      "name": "Amazon Neptune now supports tag-based access control for IAM",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/neptune/\" target=\"_blank\">Amazon Neptune</a> Database now supports tag-based access control (TBAC) for IAM, enabling customers to use AWS resource tags and IAM principal tags as conditi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-neptune-tbac/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-27-aws-aws-glue-data-quality-now-supports-anomaly-detecti",
+      "date": "2026-07-27",
+      "name": "AWS Glue Data Quality now supports anomaly detection and writing results to the AWS Glue Data Catalog",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Glue Data Quality now supports anomaly detection for Catalog-based data quality evaluations and the ability to write evaluation results to AWS Glue Data Catalog (GDC) tables. These capabilities work across both ET",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-glue-data-quality-catalog-anomaly-detection-write-results"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-27-aws-amazon-gamelift-streams-now-supports-custom-aspect",
+      "date": "2026-07-27",
+      "name": "Amazon GameLift Streams now supports Custom Aspect Ratio and Dynamic Resolution",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon GameLift Streams now supports Custom Aspect Ratio and Dynamic Resolution, giving you greater control over the streaming experience across diverse player devices and network conditions.</p> \n<p>With Custom Aspec",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-gamelift-streams/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-27-aws-aws-security-hub-mcp-app-brings-exposure-findings-",
+      "date": "2026-07-27",
+      "name": "AWS Security Hub MCP App brings exposure findings into your AI-assisted workflow (Preview)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS announces the preview of the AWS Security Hub MCP App, a local Model Context Protocol (MCP) server that brings your Security Hub exposure findings directly into Claude Desktop.&nbsp;&nbsp;This capability can help ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-hub-mcp-app/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-27-dust-spa-poke-94637b7",
+      "date": "2026-07-27",
+      "name": "spa/poke/94637b7",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] perf: batch agent tag updates (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/29537\">#29537</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F94637b7"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-27-dust-spa-poke-0297f26",
+      "date": "2026-07-27",
+      "name": "spa/poke/0297f26",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>refactor: move agent configuration context out of the YAML export mod…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F0297f26"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-27-dust-spa-poke-74b17f9",
+      "date": "2026-07-27",
+      "name": "spa/poke/74b17f9",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] fix: prevent Manage Agents table blink on selection (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/29549\">#29549</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F74b17f9"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-27-dust-spa-poke-6d4b5d4",
+      "date": "2026-07-27",
+      "name": "spa/poke/6d4b5d4",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>[LLM] Resolve LLM endpoints via ModelInfo instead of legacy modelId (…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6d4b5d4"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-07-26-crewai-1-15-7",
       "date": "2026-07-26",
       "name": "1.15.7",
@@ -304,6 +448,24 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-07-24-aws-aws-clean-rooms-supports-larger-worker-types-up-to",
+      "date": "2026-07-24",
+      "name": "AWS Clean Rooms supports larger worker types up to 32 vCPUs for SQL",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS Clean Rooms now supports <a href=\"https://docs.aws.amazon.com/clean-rooms/latest/userguide/use-sql-editor.html\" rel=\"noopener noreferrer\" target=\"_blank\">larger worker types</a> of 32 vCPUs with 244 GB of memory f",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-clean-rooms-32-vcpu-worker-types-sql"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
       "tags": []
     },
     {
@@ -914,168 +1076,6 @@
         }
       ],
       "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-21-aws-amazon-ec2-c6in-instances-are-now-available-in-asi",
-      "date": "2026-07-21",
-      "name": "Amazon EC2 C6in instances are now available in Asia Pacific (Taipei) Region",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C6in instances are available in AWS Asia Pacific (Taipei). These sixth-generation network optimized instances, powered by 3rd Generation Intel Xeon Scalable pr",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c6in/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-21-aws-amazon-ec2-m6in-and-m6idn-instances-are-now-availa",
-      "date": "2026-07-21",
-      "name": "Amazon EC2 M6in and M6idn instances are now available in additional regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M6in and M6idn instances are available in AWS Asia Pacific (Hyderabad) and South America (Sao Paulo) regions. These sixth-generation network optimized instance",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-m6in-m6idn/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-21-aws-amazon-ses-introduces-pricing-plans",
-      "date": "2026-07-21",
-      "name": "Amazon SES introduces pricing plans",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, Amazon Simple Email Service (SES) introduced pricing plans, making it easy to purchase and access SES capabilities without evaluating them individually. Amazon SES pricing plans include three hierarchical optio",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ses-pricing-plans/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-21-aws-amazon-ecs-now-provides-action-logs-for-deployment",
-      "date": "2026-07-21",
-      "name": "Amazon ECS now provides Action Logs for deployment and orchestration visibility",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, <a href=\"https://aws.amazon.com/ecs/\">Amazon Elastic Container Service</a> (Amazon ECS) introduces Action Logs, a new observability feature that delivers detailed, timestamped records of the actions Amazon ECS ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-action-logs/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-21-aws-amazon-managed-service-for-prometheus-supports-1-5",
-      "date": "2026-07-21",
-      "name": "Amazon Managed Service for Prometheus supports 1.5B active metrics and 200K rules per workspace",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Managed Service for Prometheus now supports up to 1.5 billion active metric time series and up to 200,000 total recording and alerting rules per workspace. Customers can also create many workspaces per account,",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-prometheus-1500m-metrics-workspace/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-21-aws-amazon-rds-for-sql-server-now-supports-microsoft-s",
-      "date": "2026-07-21",
-      "name": "Amazon RDS for SQL Server now supports Microsoft SQL Server 2025",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Relational Database Service (Amazon RDS) for SQL Server now supports Microsoft SQL Server 2025 for Enterprise, Standard, and Developer editions.<br /> <br /> SQL Server 2025 brings AI integration directly into ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/rds-sqlserver-supports-sqlserver-2025"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-21-dust-spa-poke-21988f9",
-      "date": "2026-07-21",
-      "name": "spa/poke/21988f9",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] governance: Seed capabilities + migration script (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/29224\">#29224</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F21988f9"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-21-dust-spa-poke-150c1c4-admin-gov-sync-a-manual-builders-",
-      "date": "2026-07-21",
-      "name": "spa/poke/150c1c4: [Admin Gov] Sync a manual Builders group from the builder role (#29192)",
-      "vendor": "Dust",
-      "type": "deprecation",
-      "summary": "<ul>\n<li>[Admin Gov] Sync a dust-builders group from the builder role</li>\n</ul>\n<p>Transitional step of the builder role deprecation (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/tasks/issues/945",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F150c1c4"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-21-dust-spa-poke-48e6f05-front-enh-show-system-prompt-in-p",
-      "date": "2026-07-21",
-      "name": "spa/poke/48e6f05: [front] enh: show system prompt in Poke conversation render (#29235)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>[front] enh: show system prompt in Poke conversation render</p>\n</li>\n<li>\n<p>[front] enh: make Poke render output collapsible</p>\n</li>\n<li>\n<p>[front] chore: reorder Poke conversation actions</p>\n</li>\n<li",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F48e6f05"
-        }
-      ],
-      "impact": 3,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
