@@ -1,6 +1,150 @@
 {
   "items": [
     {
+      "id": "2026-07-28-openai-scientific-computing-in-the-age-of-agentic-ai",
+      "date": "2026-07-28",
+      "name": "Scientific computing in the age of agentic AI",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/scientific-computing-agentic-ai"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-28-aws-second-generation-aws-outposts-racks-now-supported",
+      "date": "2026-07-28",
+      "name": "Second-generation AWS Outposts racks now supported in the AWS Asia Pacific (Mumbai) Region",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Second-generation AWS Outposts racks are now supported in the Asia Pacific (Mumbai) Region. Outposts racks extend AWS infrastructure, AWS services, APIs, and tools to virtually any on-premises data center or colocatio",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-outposts-asia-pacific-mumbai/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-28-aws-aws-datasync-enhanced-mode-now-supports-amazon-efs",
+      "date": "2026-07-28",
+      "name": "AWS DataSync Enhanced mode now supports Amazon EFS and Amazon FSx for Lustre",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS DataSync Enhanced mode now supports Amazon EFS and Amazon FSx for Lustre as source or destination locations.</p> \n<p>AWS DataSync is a secure, high-speed data transfer service that simplifies moving data over a ne",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-datasync-amazon-efs-fsx-lustre/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-28-aws-aws-datasync-enhanced-mode-adds-hdfs-azure-blob-an",
+      "date": "2026-07-28",
+      "name": "AWS DataSync Enhanced mode adds HDFS, Azure Blob, and object storage locations with Hyper-V agent support",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS DataSync Enhanced mode now supports agent-based data transfers with Hadoop Distributed File Systems (HDFS), Microsoft Azure Blob Storage, and self-managed object storage. Additionally, Enhanced mode agents can now",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-datasync-hdfs-azure-blob-hyper-v/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-28-aws-amazon-s3-tables-now-support-the-variant-data-type",
+      "date": "2026-07-28",
+      "name": "Amazon S3 Tables now support the Variant data type for Apache Iceberg V3",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon S3 Tables now support the Variant data type as defined in the Apache Iceberg Version 3 (V3) specification. You can now write semi-structured data like JSON directly to S3 Tables without defining a fixed schema ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-s3-tables-variant-iceberg-v3/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-28-dust-spa-poke-589a691",
+      "date": "2026-07-28",
+      "name": "spa/poke/589a691",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Admin governance: bulk edit UI for manage skills table (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/29527\">#29527</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F589a691"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-28-dust-spa-poke-7efda99-front-refresh-activation-pod-fram",
+      "date": "2026-07-28",
+      "name": "spa/poke/7efda99: [front] Refresh activation pod Frame template and prompt (#29563)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>[front] Refresh activation pod Frame template and prompt</li>\n</ul>\n<p>Rework the pinned activation Pod overview Frame to the new design:<br />\nnumbered \"Why this was chosen\" evidence with usage bars, an image-b",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F7efda99"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-28-dust-spa-poke-f9692c6-sparkle-form-contrast-improvement",
+      "date": "2026-07-28",
+      "name": "spa/poke/f9692c6: [Sparkle] Form contrast improvement (#29629)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>[sparkle] Accessible form borders and focus rings</li>\n</ul>\n<p>Form control boundaries and focus rings failed WCAG 1.4.11 (3:1<br />\nnon-text contrast) in both themes — the Input's resting border<br />\n(stone-1",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Ff9692c6"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-07-27-aws-amazon-neptune-now-supports-tag-based-access-contr",
       "date": "2026-07-27",
       "name": "Amazon Neptune now supports tag-based access control for IAM",
@@ -140,6 +284,24 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-27-aws-amazon-eks-now-supports-aws-privatelink-for-the-cl",
+      "date": "2026-07-27",
+      "name": "Amazon EKS now supports AWS PrivateLink for the cluster OIDC endpoint",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/eks/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Elastic Kubernetes Service</a> (Amazon EKS) now supports <a href=\"https://docs.aws.amazon.com/eks/latest/userguide/vpc-interface-e",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-oidc-endpoint-privatelink"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -461,6 +623,24 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-clean-rooms-32-vcpu-worker-types-sql"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-24-aws-amazon-redshift-serverless-now-offers-all-upfront-",
+      "date": "2026-07-24",
+      "name": "Amazon Redshift Serverless now offers All Upfront pricing for 3-year Serverless Reservations",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/redshift/\">Amazon Redshift</a> announces the availability of All Upfront payment option for 3-year Serverless Reservations, providing up to 50% savings over on-demand rates. With All Up",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/redshift-serverless-three-year-auri/"
         }
       ],
       "impact": 5,
@@ -893,186 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-entity-resolution/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-22-aws-aws-lambda-durable-functions-now-supports-customer",
-      "date": "2026-07-22",
-      "name": "AWS Lambda durable functions now supports customer managed key encryption",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS Lambda durable functions now supports encryption of durable execution data with an AWS Key Management Service (AWS KMS) customer managed key. <a href=\"https://docs.aws.amazon.com/lambda/latest/dg/durable-functions",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/durablefunctions-cmk/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-22-aws-aws-organizations-increases-rcp-quota-to-2-000-per",
-      "date": "2026-07-22",
-      "name": "AWS Organizations increases RCP quota to 2,000 per organization",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Organizations now supports up to 2,000 resource control policies (RCPs) per organization, doubling the previous limit of 1,000. RCPs enable centralized management of the maximum permissions available to resources ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-organizations-resource-control-policy-limit-increase-2000"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-22-dust-spa-poke-346e15b-github-mcp-handle-inaccessible-te",
-      "date": "2026-07-22",
-      "name": "spa/poke/346e15b: [GitHub MCP] Handle inaccessible team reviewers (#29326)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>Fix GitHub team reviewer access errors</p>\n</li>\n<li>\n<p>Document GitHub reviewer fallback</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F346e15b"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-22-dust-spa-poke-58a117f",
-      "date": "2026-07-22",
-      "name": "spa/poke/58a117f",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[Workspace Deletion] Delete group permissions before groups (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/29332\">#29332</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F58a117f"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-22-dust-spa-poke-9e329da",
-      "date": "2026-07-22",
-      "name": "spa/poke/9e329da",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>feat(llms): add Claude Fable 5 EU agent-platform stream endpoint (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/29\">#29</a>…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9e329da"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-22-dust-spa-poke-8ae6c8f-front-perf-add-workspaceid-clause",
-      "date": "2026-07-22",
-      "name": "spa/poke/8ae6c8f: [front] perf: add workspaceId clause in group_vault (#29292)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>[front] perf: add workspaceId clause in group_vault</p>\n</li>\n<li>\n<p>[front] fix: scope poke sId search on the sId workspace</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8ae6c8f"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-22-aws-amazon-ec2-m8id-instances-are-now-available-in-eur",
-      "date": "2026-07-22",
-      "name": "Amazon EC2 M8id instances are now available in Europe (Ireland) region",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon EC2 M8id instances are now available in (Ireland). These instances are powered by custom Intel Xeon 6 processors and deliver up to 43% higher performance and 3.3x more memory bandwidth compared to previous gene",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-m8id-europe-ireland/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-22-aws-amazon-sagemaker-ai-inference-now-supports-g7-inst",
-      "date": "2026-07-22",
-      "name": "Amazon SageMaker AI inference now supports G7 instances",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon SageMaker AI inference now supports <a href=\"https://aws.amazon.com/ec2/instance-types/g7/\">G7 instances</a> powered by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs, enabling you to deploy machine learning",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-ai-g7/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-21-openai-david-v-lez-and-robin-vince-join-the-boards-of-the",
-      "date": "2026-07-21",
-      "name": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-21-aws-amazon-ec2-r6in-and-r6idn-instances-are-now-availa",
-      "date": "2026-07-21",
-      "name": "Amazon EC2 R6in and R6idn instances are now available in additional regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R6in and R6idn instances are available in AWS Europe (Paris) and Canada (Central) regions. These sixth-generation network optimized instances, powered by 3rd G",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r6in-r6idn/"
         }
       ],
       "impact": 5,
