@@ -1,6 +1,150 @@
 {
   "items": [
     {
+      "id": "2026-07-29-openai-how-gpt-5-6-fuses-frontier-intelligence-with-front",
+      "date": "2026-07-29",
+      "name": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-29-aws-aws-waf-adds-pre-parse-text-transformations-and-ne",
+      "date": "2026-07-29",
+      "name": "AWS WAF adds pre-parse text transformations and new text transformations",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS WAF adds pre-parse text transformations for query arguments and ten new text transformations for use in any rule statement. Both help you normalize request content so that AWS WAF inspects requests the same",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-waf/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-29-aws-aws-announces-aws-interconnect-multicloud-connecti",
+      "date": "2026-07-29",
+      "name": "AWS announces AWS Interconnect - multicloud connectivity with Oracle Cloud Infrastructure in GA",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS announces the general availability (GA) of AWS Interconnect — multicloud with Oracle Cloud Infrastructure (OCI).</p> \n<p>Customers have been adopting multicloud strategies while migrating more applications to the ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-announces-AWS-interconnect-multicloud-OCI-GA/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-29-aws-amazon-connect-customer-now-automatically-finds-ex",
+      "date": "2026-07-29",
+      "name": "Amazon Connect Customer now automatically finds example agent evaluations for tailored coaching",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Connect Customer now automatically surfaces relevant examples of an agent's evaluations when managers are preparing coaching feedback, so they can deliver actionable, evidence-backed coaching to agents. When a ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-connect-customer-example-evaluations-for-agent-coaching/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-29-aws-aws-iam-identity-center-extends-multi-region-suppo",
+      "date": "2026-07-29",
+      "name": "AWS IAM Identity Center extends multi-Region support to Identity Center directory",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>IAM Identity Center helps you configure the single sign-on experience of your workforce to AWS accounts and applications. You can now replicate IAM Identity Center from the primary AWS Region where you first enabled i",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-iam-identity-center-extends-multi-region-support-to-identity-center-directory"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-29-flowise-flowise-3-1-4",
+      "date": "2026-07-29",
+      "name": "flowise@3.1.4",
+      "vendor": "Flowise",
+      "type": "launch",
+      "summary": "<h2>What's Changed</h2>\n<ul>\n<li>Fix Type Validation For Session ID by <a class=\"user-mention notranslate\" href=\"https://github.com/yau-wd\">@yau-wd</a> in <a class=\"issue-link js-issue-link\" href=\"https://github.com/Flow",
+      "sources": [
+        {
+          "title": "Flowise source",
+          "url": "https://github.com/FlowiseAI/Flowise/releases/tag/flowise%403.1.4"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-07-29-dust-spa-poke-5202303",
+      "date": "2026-07-29",
+      "name": "spa/poke/5202303",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Bind sandbox auth to agent version</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5202303"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-29-dust-spa-poke-3233991-admin-governance-fix-skill-attach",
+      "date": "2026-07-29",
+      "name": "spa/poke/3233991: [Admin Governance] Fix skill attachment file edit permissions (#29644)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<h2>Description</h2>\n<p>Fixes issue reported <a href=\"https://dust4ai.slack.com/archives/C05DP58UKR7/p1785309266382139\" rel=\"nofollow\">here</a> where skill attachment files couldn't be edited by skill editors due to a le",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F3233991"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-07-28-openai-scientific-computing-in-the-age-of-agentic-ai",
       "date": "2026-07-28",
       "name": "Scientific computing in the age of agentic AI",
@@ -932,150 +1076,6 @@
         }
       ],
       "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-23-aws-aws-lambda-durable-execution-sdk-for-net-is-now-ge",
-      "date": "2026-07-23",
-      "name": "AWS Lambda durable execution SDK for .NET is now generally available",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS announces the general availability of the AWS Lambda Durable Execution SDK for .NET, empowering C# developers to build resilient, long-running workflows using Lambda durable functions. With this SDK, develo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/lambdadf-dotnet/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-22-openai-how-news-organizations-are-using-ai-to-advance-the",
-      "date": "2026-07-22",
-      "name": "How news organizations are using AI to advance their vital missions",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/how-news-organizations-are-using-ai"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-22-openai-introducing-openai-presence",
-      "date": "2026-07-22",
-      "name": "Introducing OpenAI Presence",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/introducing-openai-presence"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-22-openai-elevated-errors-for-workspace-agent",
-      "date": "2026-07-22",
-      "name": "Elevated errors for Workspace Agent",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Agent (Operational)</li>\n          </ul>",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KY54SWGRK806N6TJ495MYPDD"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-22-aws-amazon-ec2-c7a-instances-are-now-available-in-the-",
-      "date": "2026-07-22",
-      "name": "Amazon EC2 C7a instances are now available in the US West (N. California) Region",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, the compute optimized Amazon EC2 C7a instances are now available in AWS US West (N. California) Region. C7a instances, powered by 4th Gen AMD EPYC processors (code-named Genoa) with a maximum frequency",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c7a-instances-us-west-ncalifornia-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-22-aws-amazon-ec2-m8a-instances-now-available-in-the-asia",
-      "date": "2026-07-22",
-      "name": "Amazon EC2 M8a instances now available in the Asia Pacific (Hyderabad) region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, the general-purpose Amazon EC2 M8a instances are available in AWS Asia Pacific (Hyderabad) region. M8a instances are powered by 5th Gen AMD EPYC processors (formerly code named Turin) with a maximum fr",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-m8a-instances-asia-pacific-hyderabad-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-22-aws-aws-network-load-balancer-now-supports-listener-ru",
-      "date": "2026-07-22",
-      "name": "AWS Network Load Balancer now supports Listener Rules for custom traffic routing",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Network Load Balancer (NLB) now supports listener rules allowing you to route connections to different target groups based on the source IP address type. With listener rules, a single dual-stack NLB sends IPv6 client ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-network-load-balancer-supports-listener-rules/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-22-aws-aws-entity-resolution-now-supports-advanced-real-t",
-      "date": "2026-07-22",
-      "name": "AWS Entity Resolution now supports advanced real-time matching",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Entity Resolution now supports real-time matching with advanced matching workflows, enabling customers to match records in milliseconds using complex rulesets through the GenerateMatchId API. Previously, real-time",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-entity-resolution/"
-        }
-      ],
-      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
