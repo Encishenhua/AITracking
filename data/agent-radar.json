@@ -1,6 +1,330 @@
 {
   "items": [
     {
+      "id": "2026-07-30-openai-advancing-the-price-performance-frontier-with-gpt-",
+      "date": "2026-07-30",
+      "name": "Advancing the price-performance frontier with GPT-5.6",
+      "vendor": "OpenAI",
+      "type": "pricing",
+      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-30-openai-how-avatarin-built-a-24-7-retail-agent-with-gpt-re",
+      "date": "2026-07-30",
+      "name": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/avatarin"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-30-aws-amazon-sagemaker-unified-studio-brings-richer-git-",
+      "date": "2026-07-30",
+      "name": "Amazon SageMaker Unified Studio brings richer Git version control to all project tools",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon SageMaker Unified Studio gives project members full Git version control directly within the tools you already use - Query Editor, Visual ETL, Workflows, and Notebooks. The enhanced <b>Repositories</b> experienc",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio-git/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-30-aws-aws-direct-connect-now-supports-bgp-route-visibili",
+      "date": "2026-07-30",
+      "name": "AWS Direct Connect now supports BGP route visibility on Virtual Interfaces",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><span style=\"margin: 0.0px; padding: 0.0px; border: 0.0px solid; white-space: pre-wrap;\">AWS Direct Connect now provides Border Gateway Protocol (BGP) route visibility, allowing you to view the routes exchanged betwee",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-direct-connect-bgp-visibility/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-30-aws-iam-policy-simulator-moves-to-the-iam-console-and-",
+      "date": "2026-07-30",
+      "name": "IAM Policy Simulator moves to the IAM console and adds additional capabilities",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/iam/\">AWS Identity and Access Management (IAM)</a> announces a major update to <a href=\"https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_testing-policies.html\">IAM Polic",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/iam-policy-simulator-iam-console/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-30-aws-amazon-bedrock-announces-up-to-80-lower-prices-for",
+      "date": "2026-07-30",
+      "name": "Amazon Bedrock announces up to 80% lower prices for OpenAI GPT‑5.6 models",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, OpenAI announced lower prices for GPT‑5.6 Luna and GPT‑5.6 Terra. Effective July 30, 2026, on-demand inference prices on Amazon Bedrock for GPT‑5.6 Luna are reduced by 80%, while prices for GPT‑5.6 Terra are re",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/openai-gpt-terra-luna-pricing-bedrock/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-30-aws-aws-announces-general-availability-of-policy-based",
+      "date": "2026-07-30",
+      "name": "AWS announces general availability of Policy-Based Routing on AWS Transit Gateway",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Transit Gateway now supports Policy-Based Routing (PBR), giving network administrators granular control over how traffic is forwarded across their AWS network. With PBR, forwarding decisions can be based on a comb",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-transit-gateway-policy-based-routing/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-30-aws-amazon-msk-express-brokers-now-delivers-apache-kaf",
+      "date": "2026-07-30",
+      "name": "Amazon MSK Express brokers now delivers Apache Kafka data to Amazon S3",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/msk/features/express-brokers-for-amazon-msk/\">Amazon MSK Express brokers</a> now delivers data to Amazon S3 general purpose buckets, providing a fully managed capability to deliver Apac",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-msk-express-brokers-delivers-to-amazon-s3"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-30-aws-amazon-msk-express-brokers-now-deliver-data-to-str",
+      "date": "2026-07-30",
+      "name": "Amazon MSK Express brokers now deliver data to streaming tables for Apache Iceberg",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/msk/features/express-brokers-for-amazon-msk/\">Amazon MSK Express brokers</a> now deliver data to streaming tables for Apache Iceberg, a new capability that continuously materializes Apa",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-msk-streaming-tables-for-apache-iceberg"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-30-aws-grok-4-3-from-xai-is-now-available-on-amazon-bedro",
+      "date": "2026-07-30",
+      "name": "Grok 4.3 from xAI is now available on Amazon Bedrock in AWS GovCloud (US-West)",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>xAI's Grok 4.3 model is now available on Amazon Bedrock in AWS GovCloud (US-West). With this launch, xAI joins Amazon Bedrock as a model provider in AWS GovCloud (US-West), giving you even more choice as you build gen",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/grok-4-3-bedrock-govcloud/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-30-aws-gemma-4-models-are-now-available-on-amazon-bedrock",
+      "date": "2026-07-30",
+      "name": "Gemma 4 models are now available on Amazon Bedrock in AWS GovCloud (US-West)",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>The Gemma 4 family of open-weight models from Google DeepMind on <a href=\"https://aws.amazon.com/bedrock/\">Amazon Bedrock</a> in AWS GovCloud (US-West). With Gemma 4, you can build generative AI applications across re",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/gemma-4-bedrock-govcloud/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-30-aws-aws-managed-microsoft-ad-now-supports-standard-to-",
+      "date": "2026-07-30",
+      "name": "AWS Managed Microsoft AD now supports Standard to Enterprise Edition upgrade",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Directory Service now allows you to upgrade your AWS Managed Microsoft AD directory from Standard Edition to Enterprise Edition directly through the AWS Management Console, AWS CLI, and API without migrating to a ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-microsoft-ad-edition-upgrade/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-30-aws-amazon-opensearch-service-now-supports-opensearch-",
+      "date": "2026-07-30",
+      "name": "Amazon OpenSearch Service now supports OpenSearch version 3.7",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>You can now run OpenSearch version 3.7 on Amazon OpenSearch Service. OpenSearch 3.7 introduces improvements in vector search performance, search relevance, and Query Insights.</p> \n<p>With this launch, <a href=\"https:",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-opensearch-service/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-30-dust-spa-poke-877b944",
+      "date": "2026-07-30",
+      "name": "spa/poke/877b944",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Opt: bulk insert agent_step_content for the same step.</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F877b944"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-30-dust-spa-poke-792d9c6-sync-5-6-endpoint-tokenpricing-de",
+      "date": "2026-07-30",
+      "name": "spa/poke/792d9c6: Sync 5.6 endpoint tokenPricing declarations with new prices",
+      "vendor": "Dust",
+      "type": "pricing",
+      "summary": "<p>Terra stream endpoints (global and EU +10%) get the new rates, and the<br />\nLuna stream/batch endpoints missed by the Luna pricing PR are updated too<br />\n(batch at 50% of standard, EU at +10%).</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F792d9c6"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-30-dust-spa-poke-673e5a3",
+      "date": "2026-07-30",
+      "name": "spa/poke/673e5a3",
+      "vendor": "Dust",
+      "type": "pricing",
+      "summary": "<p>Pricing: prevent using the origin: sidekick with non sidekick agent (…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F673e5a3"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-30-dust-spa-poke-423c830",
+      "date": "2026-07-30",
+      "name": "spa/poke/423c830",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[AGENT-LOOP] Don't fail the message when a step comes back empty (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/29\">#29</a>…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F423c830"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-30-dust-spa-poke-09e974d-front-enh-hide-skills-only-mcp-se",
+      "date": "2026-07-30",
+      "name": "spa/poke/09e974d: [front] enh: hide skills-only MCP servers from direct selection (#29595)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>[front] Hide skills-only MCP servers from direct selection</p>\n</li>\n<li>\n<p>[front-api] Separate awaited MCP view lookup</p>\n</li>\n<li>\n<p>[front] Build MCP view query with URLSearchParams</p>\n</li>\n<li>\n<p",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F09e974d"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-07-29-openai-how-gpt-5-6-fuses-frontier-intelligence-with-front",
       "date": "2026-07-29",
       "name": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
@@ -754,330 +1078,6 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-07-24-aws-aws-clean-rooms-supports-larger-worker-types-up-to",
-      "date": "2026-07-24",
-      "name": "AWS Clean Rooms supports larger worker types up to 32 vCPUs for SQL",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS Clean Rooms now supports <a href=\"https://docs.aws.amazon.com/clean-rooms/latest/userguide/use-sql-editor.html\" rel=\"noopener noreferrer\" target=\"_blank\">larger worker types</a> of 32 vCPUs with 244 GB of memory f",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-clean-rooms-32-vcpu-worker-types-sql"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-24-aws-amazon-redshift-serverless-now-offers-all-upfront-",
-      "date": "2026-07-24",
-      "name": "Amazon Redshift Serverless now offers All Upfront pricing for 3-year Serverless Reservations",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/redshift/\">Amazon Redshift</a> announces the availability of All Upfront payment option for 3-year Serverless Reservations, providing up to 50% savings over on-demand rates. With All Up",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/redshift-serverless-three-year-auri/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-23-openai-some-users-may-experience-elevated-error-rates-in-",
-      "date": "2026-07-23",
-      "name": "Some users may experience elevated error rates in ChatGPT",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Codex in ChatGPT Desktop (Operational)</li>\n<li>Login (Operational)</l",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KY81XMFAV8KXNJGVNEMKAK15"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-23-openai-elevated-error-rates",
-      "date": "2026-07-23",
-      "name": "Elevated Error Rates",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Batch (Operational)</li>\n<li>Chat Completions (Opera",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KY7SX5MYJ2BP51X5MXAPYX71"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-23-aws-amazon-rds-for-mysql-supports-mysql-9-7-in-amazon-",
-      "date": "2026-07-23",
-      "name": "Amazon RDS for MySQL supports MySQL 9.7 in Amazon RDS Database Preview Environment",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/mysql/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon RDS for MySQL</a>&nbsp;now supports version community MySQL 9.7 in the&nbsp;<a href=\"https://aws.amazon.com/rds/databaseprev",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-mysql-long-term-9-7-rds-database-preview/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-23-aws-amazon-bedrock-agentcore-now-delivers-unified-obse",
-      "date": "2026-07-23",
-      "name": "Amazon Bedrock AgentCore now delivers unified observability with traces and logs in a single log group",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock AgentCore now delivers agent traces and prompts to the same log group as your agent's logs, giving you unified observability for AI agents in a single Amazon CloudWatch log group.</p> \n<p>Previously, Ag",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-bedrock-agentcore-unified-observability-single-log-group/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-23-aws-amazon-cloudwatch-logs-now-supports-application-lo",
-      "date": "2026-07-23",
-      "name": "Amazon CloudWatch Logs now supports Application Load Balancer logs",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon CloudWatch Logs now supports Application Load Balancer (ALB) logs as vended logs, improving observability and simplifying debugging for network traffic patterns. You can now analyze ALB access, connection and h",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-logs/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-23-aws-amazon-evs-is-now-available-in-additional-regions",
-      "date": "2026-07-23",
-      "name": "Amazon EVS is now available in additional Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, we're announcing that Amazon Elastic VMware Service (Amazon EVS) is now available in the Asia Pacific (Seoul), Europe (Zurich), and Europe (Stockholm)&nbsp;Regions. This expansion provides more options to lever",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-evs-available-in-additional-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-23-aws-claude-sonnet-5-is-now-available-on-amazon-bedrock",
-      "date": "2026-07-23",
-      "name": "Claude Sonnet 5 is now available on Amazon Bedrock in AWS GovCloud (US)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS GovCloud (US) now offers Claude Sonnet 5 on Amazon Bedrock. Claude Sonnet 5 delivers strong performance across coding, professional work, and agentic tasks while maintaining the balance of capability, cost, and sp",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/claude-sonnet-5-govcloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-23-aws-announcing-region-expansion-of-g7e-instances-on-sa",
-      "date": "2026-07-23",
-      "name": "Announcing region expansion of G7e instances on SageMaker AI inference",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>We are pleased to announce the availability of <a href=\"https://aws.amazon.com/ec2/instance-types/g7e/\">Amazon EC2 G7e instances </a>in Asia Pacific (Seoul), Europe (London), and Asia Pacific (Tokyo) on Amazon SageMak",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/g7e-sagemaker-ai/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-23-aws-announcing-region-expansion-of-g6-instances-on-sag",
-      "date": "2026-07-23",
-      "name": "Announcing region expansion of G6 instances on SageMaker AI Inference",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>We are pleased to announce the availability of <a href=\"https://aws.amazon.com/ec2/instance-types/g6/\">Amazon EC2 G6 </a>instances in the AWS GovCloud (US-East) region on Amazon SageMaker AI inference. G6 instances ar",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/g6-sagemaker-ai-inference/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-23-aws-aws-wickr-announces-data-retention-service-feature",
-      "date": "2026-07-23",
-      "name": "AWS Wickr announces Data Retention Service feature",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Wickr now offers a managed Data Retention Service feature for Premium users, enabling organizations to retain conversations across their network for data archiving purposes. <a href=\"https://aws.amazon.com/wickr/\"",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-wickr-data/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-23-aws-amazon-ec2-high-memory-u7i-instances-now-available",
-      "date": "2026-07-23",
-      "name": "Amazon EC2 High Memory U7i instances now available in additional regions",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon EC2 High Memory U7in-16TB instances (u7in-16tb.224xlarge) are now available in AWS South America (São Paulo) region, and U7in-24TB instances (u7in-24tb.224xlarge) are now available in AWS Europe (Ireland) regio",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-high-memory-u7i/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-23-dust-spa-poke-7393ac0",
-      "date": "2026-07-23",
-      "name": "spa/poke/7393ac0",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>admin governance: expose availability in skill endpoints 3/3 (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/29383\">#29383</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F7393ac0"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-23-dust-spa-poke-05384ca",
-      "date": "2026-07-23",
-      "name": "spa/poke/05384ca",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] perf: Serve JIT-only light MCP server views to the conversati…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F05384ca"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-23-dust-spa-poke-911c55c",
-      "date": "2026-07-23",
-      "name": "spa/poke/911c55c",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>[front] enh: Add pause_upsert_queue kill switch gating the document u…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F911c55c"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-23-dust-spa-poke-95d1918",
-      "date": "2026-07-23",
-      "name": "spa/poke/95d1918",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] feat: add skill creation to Dust MCP (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/29340\">#29340</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F95d1918"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-23-dust-spa-poke-87a22f1-front-add-action-recommendations-",
-      "date": "2026-07-23",
-      "name": "spa/poke/87a22f1: [front] Add action-recommendations API endpoint (#29343)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>[front] Add action-recommendations API endpoint and MCP tool updates</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F87a22f1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
       "tags": []
     }
   ]
