@@ -1,6 +1,204 @@
 {
   "items": [
     {
+      "id": "2026-07-31-openai-advancing-responsible-ai-across-europe",
+      "date": "2026-07-31",
+      "name": "Advancing responsible AI across Europe",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/advancing-responsible-ai-across-europe"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-31-openai-univ-builds-an-ai-ready-workforce",
+      "date": "2026-07-31",
+      "name": "Univé builds an AI-ready workforce",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/unive"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-31-openai-disrupting-a-criminal-scam-operation",
+      "date": "2026-07-31",
+      "name": "Disrupting a Criminal Scam Operation",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-31-aws-amazon-aurora-dsql-adds-multi-region-cluster-suppo",
+      "date": "2026-07-31",
+      "name": "Amazon Aurora DSQL adds multi-Region cluster support in four more Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, Amazon Aurora DSQL supports multi-Region clusters in four additional AWS Regions: Europe (Stockholm), Europe (Spain), Asia Pacific (Mumbai), and&nbsp;Asia Pacific (Singapore). Aurora DSQL is the fastes",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-aurora-dsql-adds-multi-region-clusters-four-more-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-31-aws-amazon-rds-for-oracle-now-offers-reserved-instance",
+      "date": "2026-07-31",
+      "name": "Amazon RDS for Oracle now offers Reserved Instances for R8i and M8i instances",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/oracle/\">Amazon RDS for Oracle </a>now offers 1-year and 3-year Reserved Instances for R8i and M8i instances with up to 53% cost savings compared to On-Demand prices. These instance",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-oracle-r8i-m8i/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-31-aws-amazon-cloudwatch-announces-managed-prometheus-col",
+      "date": "2026-07-31",
+      "name": "Amazon CloudWatch announces managed Prometheus collectors",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon CloudWatch now supports collecting Prometheus metrics from your AWS infrastructure using fully managed collectors — enabling you to monitor Amazon EKS, Amazon EC2, Amazon ECS, Amazon MSK, and Amazon OpenSearch ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/cloudwatch-managed-collectors/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-31-aws-amazon-ec2-c7i-instances-now-available-in-addition",
+      "date": "2026-07-31",
+      "name": "Amazon EC2 C7i instances now available in additional regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C7i instances powered by custom 4th Gen Intel Xeon Scalable processors (code-named Sapphire Rapids) are available in Europe (Milan) and Canada West (Calgary) r",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c7i-instances-mxp-yyc-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-31-dust-spa-poke-652777d-disable-agents-picking-in-sidekic",
+      "date": "2026-07-31",
+      "name": "spa/poke/652777d: Disable agents picking in sidekick conversations (#29824)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>Disable agents picking in sidekick conversations</p>\n</li>\n<li>\n<p>format</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F652777d"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-31-dust-spa-poke-626349a",
+      "date": "2026-07-31",
+      "name": "spa/poke/626349a",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Remove the pod_default_agent and pod_default_skills feature flags (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/2\">#2</a>…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F626349a"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-31-dust-spa-poke-446510a",
+      "date": "2026-07-31",
+      "name": "spa/poke/446510a",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[AGENT BUILDER] Fix \"Add capabilities\" flash when closing a tool conf…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F446510a"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-31-dust-spa-poke-158c4c6",
+      "date": "2026-07-31",
+      "name": "spa/poke/158c4c6",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>feat: add banner when usage limit reached on legacy plans</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F158c4c6"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-07-30-openai-advancing-the-price-performance-frontier-with-gpt-",
       "date": "2026-07-30",
       "name": "Advancing the price-performance frontier with GPT-5.6",
@@ -880,204 +1078,6 @@
       "impact": 5,
       "risk": 3,
       "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-24-aws-amazon-kinesis-data-streams-now-supports-scaling-d",
-      "date": "2026-07-24",
-      "name": "Amazon Kinesis Data Streams now supports scaling down ingest capacity with warm throughput",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Kinesis Data Streams is a serverless streaming data service that makes it easy to capture, process, and store data streams at any scale. On-demand streams automatically increase ingest capacity in response to r",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/kinesis/on-demand-scale-down"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-24-aws-aws-lambda-now-publishes-logs-for-lambda-managed-i",
-      "date": "2026-07-24",
-      "name": "AWS Lambda now publishes logs for Lambda Managed Instances capacity providers",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Lambda now publishes logs for Lambda Managed Instances (LMI) capacity providers to Amazon CloudWatch Logs, giving you visibility into scaling activity and instance lifecycle operations. LMI enables you to run Lamb",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-managed-instances-logs/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-24-aws-claude-opus-5-is-now-available-on-aws",
-      "date": "2026-07-24",
-      "name": "Claude Opus 5 is now available on AWS",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS now offers Claude Opus 5 — the most advanced Opus model yet, and compatible with zero data retention (ZDR) — bringing a step-change in coding, long-running agents, and complex professional work to teams building a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/claude-opus-5-aws/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-24-aws-opus-4-8-sonnet-5-and-user-activity-monitoring-now",
-      "date": "2026-07-24",
-      "name": "Opus 4.8, Sonnet 5, and User Activity Monitoring now available on Kiro in AWS GovCloud (US)",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Two new models are now available in the Kiro IDE and CLI for the AWS GovCloud (US) Regions.<br /> <br /> Claude Opus 4.8 is the most intelligent Opus model, delivering stronger self-verification, more efficient tool c",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/kiro-opus-sonnet-monitoring-launch-aws-govcloud-us/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-24-aws-aws-announces-aws-bench-an-open-source-benchmark-f",
-      "date": "2026-07-24",
-      "name": "AWS announces aws-bench, an open-source benchmark for AI agents on AWS",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces a research preview of aws-bench, an open-source benchmark that measures how accurately and efficiently AI agents complete real-world AWS tasks. Model providers and AI researchers building agents t",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-bench/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-24-dust-spa-poke-276457c",
-      "date": "2026-07-24",
-      "name": "spa/poke/276457c",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Admin governance: add endpoint to bulk edit skill availability (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/29471\">#29471</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F276457c"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-24-dust-spa-poke-7847de8",
-      "date": "2026-07-24",
-      "name": "spa/poke/7847de8",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[Conversations] Ignore deleted history when detecting active agents (…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F7847de8"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-24-dust-spa-poke-437cced",
-      "date": "2026-07-24",
-      "name": "spa/poke/437cced",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Admin governance: availability in v1/w/[wId]/skills endpoint (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/29430\">#29430</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F437cced"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-24-dust-spa-poke-27d7dd4-address-review-eu-fallback-dust-e",
-      "date": "2026-07-24",
-      "name": "spa/poke/27d7dd4: Address review: EU fallback, dust-edge/deep-dive, ordering",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>Keep Opus 4.8 as the second Auto Complex candidate. Opus 5 is<br />\nglobal-only, so without it regional-only workspaces fell all the way<br />\nthrough to OpenAI instead of staying on Anthropic.</li>\n<li>Move dus",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F27d7dd4"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-24-dust-spa-poke-10d5e4d-llm-remove-legacy-llm-router-and-",
-      "date": "2026-07-24",
-      "name": "spa/poke/10d5e4d: [LLM] Remove legacy LLM router and per-provider clients (#29462)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>\n<p>chore(llm): remove legacy LLM router</p>\n</li>\n<li>\n<p>test(llm): remove legacy router parity tests</p>\n</li>\n<li>\n<p>test(llm): remove legacy LLM tests</p>\n</li>\n<li>\n<p>chore(llm): remove legacy Fireworks ",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F10d5e4d"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-24-crewai-1-15-6",
-      "date": "2026-07-24",
-      "name": "1.15.6",
-      "vendor": "CrewAI",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Fix detection of Anthropic preview tool-use blocks.</li>\n<li>Preserve strict tool schema property names.</li>\n<li>Dispatch execution_end hook on failed crew and flow ex",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.6"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
       "tags": []
     }
   ]
