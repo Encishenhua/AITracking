@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "id": "2026-08-01-dust-spa-poke-9dfe23c",
+      "date": "2026-08-01",
+      "name": "spa/poke/9dfe23c",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Fix display of the agent message covering user message (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/29887\">#29887</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9dfe23c"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-01-dust-spa-poke-f18a38a-remove-obsolete-branchid-args-fro",
+      "date": "2026-08-01",
+      "name": "spa/poke/f18a38a: Remove obsolete branchId args from front-api message routes.",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>edit/retry/delete APIs no longer accept branchId after conversation-branch<br />\nremoval; drop the leftover call-site arguments that broke front-api tsgo.</p>\n<p>Co-authored-by: Cursor <a href=\"mailto:cursoragent@curs",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Ff18a38a"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-01-dust-spa-app-9dfe23c",
+      "date": "2026-08-01",
+      "name": "spa/app/9dfe23c",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Fix display of the agent message covering user message (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/29887\">#29887</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F9dfe23c"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-01-dust-spa-app-f18a38a-remove-obsolete-branchid-args-from",
+      "date": "2026-08-01",
+      "name": "spa/app/f18a38a: Remove obsolete branchId args from front-api message routes.",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>edit/retry/delete APIs no longer accept branchId after conversation-branch<br />\nremoval; drop the leftover call-site arguments that broke front-api tsgo.</p>\n<p>Co-authored-by: Cursor <a href=\"mailto:cursoragent@curs",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2Ff18a38a"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-07-31-openai-advancing-responsible-ai-across-europe",
       "date": "2026-07-31",
       "name": "Advancing responsible AI across Europe",
@@ -194,6 +266,24 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-31-aws-amazon-location-service-adds-search-nearby-support",
+      "date": "2026-07-31",
+      "name": "Amazon Location Service adds Search Nearby support for GrabMaps in Southeast Asia",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Location Service now supports proximity-based point of interest discovery with GrabMaps data in the Asia Pacific (Singapore) and Asia Pacific (Malaysia) AWS Regions. Builders creating local discovery, delivery,",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-location-service-search-nearby-grabmaps"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -988,96 +1078,6 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-07-26-crewai-1-15-7a1",
-      "date": "2026-07-26",
-      "name": "1.15.7a1",
-      "vendor": "CrewAI",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Fix registry skills resolution through the runtime's CrewAI+ client.</li>\n<li>Recover from the GPT-5.6 tools and reasoning_effort 400 errors.</li>\n<li>Make tool calling",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.7a1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-07-25-openai-elevated-errors-affecting-chatgpt-conversations",
-      "date": "2026-07-25",
-      "name": "Elevated errors affecting ChatGPT conversations",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Monitoring</b><br /><br />Mitigation has been implemented, and we are monitoring the recovery of ChatGPT conversations.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Conversations (Operati",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KYDN6YPS6ARY1EC9089N089G"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-25-openai-elevated-error-rates",
-      "date": "2026-07-25",
-      "name": "Elevated error rates",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Batch (Operational)</li>\n<li>Login (Operational)</li>\n<li>File uploads",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KYCGY017EG43XZS6GFVXA8VH"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-24-openai-elevated-error-rates",
-      "date": "2026-07-24",
-      "name": "Elevated Error Rates",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Files (Operational)</li>\n<li>Responses (Operational)</li>\n<li>Connecto",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KY7SX5MYJ2BP51X5MXAPYX71"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-24-aws-amazon-connect-now-supports-audio-optimization-for",
-      "date": "2026-07-24",
-      "name": "Amazon Connect now supports audio optimization for Azure Virtual Desktop and Windows 365 Cloud PC",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Agents using Microsoft Azure Virtual Desktop (AVD) or Windows 365 Cloud PC can now take calls directly from their virtual desktop session with audio optimization enabled. To get started, IT administrators need to comp",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
       "tags": []
     }
   ]
