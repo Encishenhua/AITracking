@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "2026-08-02-dust-spa-poke-395b820",
+      "date": "2026-08-02",
+      "name": "spa/poke/395b820",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] enh: warn when a user message mentions multiple agents (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/29837\">#29837</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F395b820"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-02-dust-spa-app-395b820",
+      "date": "2026-08-02",
+      "name": "spa/app/395b820",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] enh: warn when a user message mentions multiple agents (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/29837\">#29837</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F395b820"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-08-01-dust-spa-poke-9dfe23c",
       "date": "2026-08-01",
       "name": "spa/poke/9dfe23c",
@@ -1042,42 +1078,6 @@
       "impact": 3,
       "risk": 3,
       "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-27-aws-amazon-eks-now-supports-aws-privatelink-for-the-cl",
-      "date": "2026-07-27",
-      "name": "Amazon EKS now supports AWS PrivateLink for the cluster OIDC endpoint",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/eks/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Elastic Kubernetes Service</a> (Amazon EKS) now supports <a href=\"https://docs.aws.amazon.com/eks/latest/userguide/vpc-interface-e",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-oidc-endpoint-privatelink"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-26-crewai-1-15-7",
-      "date": "2026-07-26",
-      "name": "1.15.7",
-      "vendor": "CrewAI",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Resolve registry skills through the runtime's CrewAI+ client</li>\n<li>Recover from the GPT-5.6 tools + reasoning_effort 400</li>\n<li>Make tool calling work on the Respo",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.7"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
       "tags": []
     }
   ]
