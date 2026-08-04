@@ -1,6 +1,240 @@
 {
   "items": [
     {
+      "id": "2026-08-03-aws-aws-transform-continuous-modernization-is-now-gene",
+      "date": "2026-08-03",
+      "name": "AWS Transform continuous modernization is now generally available",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/transform/continuous-modernization/\" rel=\"noopener noreferrer\" target=\"_blank\">AWS Transform continuous modernization</a> is now generally available in all <a href=\"https://docs.aws.ama",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/7/aws-transform-continuous-general-available"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-03-aws-openai-gpt-5-6-sol-terra-and-luna-now-support-1-mi",
+      "date": "2026-08-03",
+      "name": "OpenAI GPT-5.6 Sol, Terra, and Luna now support 1 million token context windows on Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>GPT-5.6 Sol, Terra, and Luna now support 1 million token context windows on Amazon Bedrock, enabling you to process full codebases, lengthy documents, and multi-turn agent histories in a single request. Models reason ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/gpt-sol-terra-luna-long-context-bedrock"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-03-aws-amazon-gamelift-streams-now-supports-sharing-strea",
+      "date": "2026-08-03",
+      "name": "Amazon GameLift Streams now supports sharing streams with stream URLs",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon GameLift Streams now offers stream URLs, which give end users temporary, unauthenticated access to a playable stream session in a supported web browser. Recipients need no AWS account, no credentials, and no so",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-gamelift-streams/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-03-aws-aws-resilience-hub-now-provides-recommended-resili",
+      "date": "2026-08-03",
+      "name": "AWS Resilience Hub now provides recommended resilience tests",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Resilience Hub now offers recommended resilience tests that help platform engineering and site reliability teams validate how their services respond to and recover from known failure scenarios.&nbsp;</p> \n<p>Resil",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-resilience-hub/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-03-aws-aws-organizations-now-provides-maximum-account-quo",
+      "date": "2026-08-03",
+      "name": "AWS Organizations now provides maximum account quota visibility in Service Quotas",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Organizations customers can now view their maximum number of accounts quota and its utilization directly through AWS Service Quotas instead of relying on AWS Support or AWS account teams to determine their current",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-organizations/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-03-aws-aws-lambda-provisioned-mode-for-amazon-sqs-event-s",
+      "date": "2026-08-03",
+      "name": "AWS Lambda Provisioned Mode for Amazon SQS event source mappings now supports up to 10,000 event pollers",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<div class=\"OutlineElement Ltr SCXW239223550 BCX2\" style=\"direction: ltr;\">\n <p>AWS Lambda now supports a maximum of 10,000 event pollers for Provisioned Mode for Amazon SQS event source mappings (ESMs), a 5x increase fr",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-Lambda-provisioned-sqs-esm-max-pollers/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-03-aws-amazon-sagemaker-ai-serverless-model-customization",
+      "date": "2026-08-03",
+      "name": "Amazon SageMaker AI serverless model customization now supports full fine-tuning",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker AI serverless model customization now supports full fine-tuning for over 25 open-source models. These include popular models from gpt-oss, Gemma, Llama, Nemotron, and Qwen model families. In addition ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker-fft"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-03-aws-aws-transform-for-full-stack-windows-modernization",
+      "date": "2026-08-03",
+      "name": "AWS Transform for full-stack Windows modernization now supports offline schema transformation to Aurora PostgreSQL",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS Transform for full-stack Windows modernization announced general availability of offline source transformation, enabling customers to modernize Microsoft SQL Server databases to Amazon Aurora PostgreSQL wit",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/7/aws-transform-windows-sql-schema-aurora"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-03-aws-aws-waf-now-supports-miggo-security-managed-rule-g",
+      "date": "2026-08-03",
+      "name": "AWS WAF now supports Miggo Security managed rule groups for emerging threats and AI/ML application protection",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS WAF now supports two new partner managed rule groups from Miggo Security, available through AWS Marketplace: <a href=\"https://aws.amazon.com/marketplace/pp/prodview-6zieu7lxn5vje\">Miggo Rules for AWS WAF – High Em",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-waf-miggo-managed-rule-groups"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-03-aws-amazon-ecr-now-supports-image-layers-up-to-200-gb",
+      "date": "2026-08-03",
+      "name": "Amazon ECR now supports image layers up to 200 GB",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Elastic Container Registry (Amazon ECR) has increased the maximum image layer size limit to 200 GB, for images pushed via Docker push.</p> \n<p>Previously, packaging assets required splitting data across multipl",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecr-image-layers/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-03-aws-aws-config-now-supports-15-new-resource-types",
+      "date": "2026-08-03",
+      "name": "AWS Config now supports 15 new resource types",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Config now supports 15 additional AWS resource types across key services including Amazon Bedrock,&nbsp; Amazon OpenSearch Serverless, and Amazon SageMaker. This expansion provides greater coverage over your AWS e",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-config-new-resource-types"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-03-dust-spa-poke-062244a",
+      "date": "2026-08-03",
+      "name": "spa/poke/062244a",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] refactor: collapse createAgentMessages to a single agent ment…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F062244a"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-03-dust-spa-poke-8944f61-front-mcp-show-conversation-inbox",
+      "date": "2026-08-03",
+      "name": "spa/poke/8944f61: [Front MCP] Show conversation inboxes (#29579)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>[Front MCP] Fix conversation inbox metadata</p>\n</li>\n<li>\n<p>[Front MCP] Bound inbox enrichment</p>\n</li>\n<li>\n<p>[Front MCP] Validate conversation responses</p>\n</li>\n<li>\n<p>[Front MCP] Isolate inbox enri",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8944f61"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-08-02-dust-spa-poke-395b820",
       "date": "2026-08-02",
       "name": "spa/poke/395b820",
@@ -317,6 +551,42 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-location-service-search-nearby-grabmaps"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-31-aws-amazon-sagemaker-unified-studio-now-supports-terad",
+      "date": "2026-07-31",
+      "name": "Amazon SageMaker Unified Studio now supports Teradata Vantage",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker Unified Studio now supports Teradata Vantage as a data source, enabling you to query and analyze your enterprise data warehouse data directly alongside your other data assets. With this new connection",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-teradata"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-07-31-aws-amazon-web-services-now-introduces-context-ontolog",
+      "date": "2026-07-31",
+      "name": "Amazon Web Services now introduces Context Ontology Accelerator",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces Context Ontology Accelerator, an open source accelerator that helps organizations build an ontology of their business — a machine-readable model of their products, customers, policies, and the rul",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-context--ontology-accelarator-generally-available"
         }
       ],
       "impact": 5,
@@ -806,276 +1076,6 @@
         }
       ],
       "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-28-aws-second-generation-aws-outposts-racks-now-supported",
-      "date": "2026-07-28",
-      "name": "Second-generation AWS Outposts racks now supported in the AWS Asia Pacific (Mumbai) Region",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Second-generation AWS Outposts racks are now supported in the Asia Pacific (Mumbai) Region. Outposts racks extend AWS infrastructure, AWS services, APIs, and tools to virtually any on-premises data center or colocatio",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-outposts-asia-pacific-mumbai/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-28-aws-aws-datasync-enhanced-mode-now-supports-amazon-efs",
-      "date": "2026-07-28",
-      "name": "AWS DataSync Enhanced mode now supports Amazon EFS and Amazon FSx for Lustre",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS DataSync Enhanced mode now supports Amazon EFS and Amazon FSx for Lustre as source or destination locations.</p> \n<p>AWS DataSync is a secure, high-speed data transfer service that simplifies moving data over a ne",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-datasync-amazon-efs-fsx-lustre/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-28-aws-aws-datasync-enhanced-mode-adds-hdfs-azure-blob-an",
-      "date": "2026-07-28",
-      "name": "AWS DataSync Enhanced mode adds HDFS, Azure Blob, and object storage locations with Hyper-V agent support",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS DataSync Enhanced mode now supports agent-based data transfers with Hadoop Distributed File Systems (HDFS), Microsoft Azure Blob Storage, and self-managed object storage. Additionally, Enhanced mode agents can now",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-datasync-hdfs-azure-blob-hyper-v/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-28-aws-amazon-s3-tables-now-support-the-variant-data-type",
-      "date": "2026-07-28",
-      "name": "Amazon S3 Tables now support the Variant data type for Apache Iceberg V3",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon S3 Tables now support the Variant data type as defined in the Apache Iceberg Version 3 (V3) specification. You can now write semi-structured data like JSON directly to S3 Tables without defining a fixed schema ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-s3-tables-variant-iceberg-v3/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-28-dust-spa-poke-589a691",
-      "date": "2026-07-28",
-      "name": "spa/poke/589a691",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Admin governance: bulk edit UI for manage skills table (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/29527\">#29527</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F589a691"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-28-dust-spa-poke-7efda99-front-refresh-activation-pod-fram",
-      "date": "2026-07-28",
-      "name": "spa/poke/7efda99: [front] Refresh activation pod Frame template and prompt (#29563)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>[front] Refresh activation pod Frame template and prompt</li>\n</ul>\n<p>Rework the pinned activation Pod overview Frame to the new design:<br />\nnumbered \"Why this was chosen\" evidence with usage bars, an image-b",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F7efda99"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-28-dust-spa-poke-f9692c6-sparkle-form-contrast-improvement",
-      "date": "2026-07-28",
-      "name": "spa/poke/f9692c6: [Sparkle] Form contrast improvement (#29629)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>[sparkle] Accessible form borders and focus rings</li>\n</ul>\n<p>Form control boundaries and focus rings failed WCAG 1.4.11 (3:1<br />\nnon-text contrast) in both themes — the Input's resting border<br />\n(stone-1",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Ff9692c6"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-27-aws-amazon-neptune-now-supports-tag-based-access-contr",
-      "date": "2026-07-27",
-      "name": "Amazon Neptune now supports tag-based access control for IAM",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/neptune/\" target=\"_blank\">Amazon Neptune</a> Database now supports tag-based access control (TBAC) for IAM, enabling customers to use AWS resource tags and IAM principal tags as conditi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-neptune-tbac/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-27-aws-aws-glue-data-quality-now-supports-anomaly-detecti",
-      "date": "2026-07-27",
-      "name": "AWS Glue Data Quality now supports anomaly detection and writing results to the AWS Glue Data Catalog",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Glue Data Quality now supports anomaly detection for Catalog-based data quality evaluations and the ability to write evaluation results to AWS Glue Data Catalog (GDC) tables. These capabilities work across both ET",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-glue-data-quality-catalog-anomaly-detection-write-results"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-27-aws-amazon-gamelift-streams-now-supports-custom-aspect",
-      "date": "2026-07-27",
-      "name": "Amazon GameLift Streams now supports Custom Aspect Ratio and Dynamic Resolution",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon GameLift Streams now supports Custom Aspect Ratio and Dynamic Resolution, giving you greater control over the streaming experience across diverse player devices and network conditions.</p> \n<p>With Custom Aspec",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-gamelift-streams/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-27-aws-aws-security-hub-mcp-app-brings-exposure-findings-",
-      "date": "2026-07-27",
-      "name": "AWS Security Hub MCP App brings exposure findings into your AI-assisted workflow (Preview)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS announces the preview of the AWS Security Hub MCP App, a local Model Context Protocol (MCP) server that brings your Security Hub exposure findings directly into Claude Desktop.&nbsp;&nbsp;This capability can help ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-hub-mcp-app/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-27-dust-spa-poke-94637b7",
-      "date": "2026-07-27",
-      "name": "spa/poke/94637b7",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] perf: batch agent tag updates (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/29537\">#29537</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F94637b7"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-27-dust-spa-poke-0297f26",
-      "date": "2026-07-27",
-      "name": "spa/poke/0297f26",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>refactor: move agent configuration context out of the YAML export mod…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F0297f26"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-27-dust-spa-poke-74b17f9",
-      "date": "2026-07-27",
-      "name": "spa/poke/74b17f9",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] fix: prevent Manage Agents table blink on selection (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/29549\">#29549</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F74b17f9"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-27-dust-spa-poke-6d4b5d4",
-      "date": "2026-07-27",
-      "name": "spa/poke/6d4b5d4",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>[LLM] Resolve LLM endpoints via ModelInfo instead of legacy modelId (…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6d4b5d4"
-        }
-      ],
-      "impact": 3,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
