@@ -1,6 +1,240 @@
 {
   "items": [
     {
+      "id": "2026-08-04-aws-preview-announcement-re-introducing-forward-proxy-",
+      "date": "2026-08-04",
+      "name": "[Preview Announcement] Re-introducing Forward Proxy as AWS Network Firewall Functionality",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>You can now use your Network Firewall with all its existing filtering capabilities and features as an explicit forward proxy.<br /> <br /> On Nov 25, 2025, AWS introduced Network Firewall <i>proxy </i>in public previe",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-network-firewall-forward-proxy-preview/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-04-aws-amazon-connect-customer-now-lets-you-export-cases-",
+      "date": "2026-08-04",
+      "name": "Amazon Connect Customer now lets you export cases to CSV from the agent workspace",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect Customer now supports exporting cases to a CSV file directly from the agent workspace, making it easier to share case data with internal teams and external stakeholders such as vendors, legal teams, or ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-export-cases/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-04-aws-amazon-bedrock-launches-web-search-for-openai-gpt-",
+      "date": "2026-08-04",
+      "name": "Amazon Bedrock launches Web Search for OpenAI GPT models",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, we are announcing the general availability of Web Search on Amazon Bedrock, a built-in server side tool that performs web search entirely within AWS, enabling OpenAI models (GPT-5.4, GPT-5.5, and GPT-5.6 Sol/Te",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-web/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-04-aws-run-interactive-workloads-on-amazon-emr-on-ec2-wit",
+      "date": "2026-08-04",
+      "name": "Run interactive workloads on Amazon EMR on EC2 with Spark Connect",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon EMR on EC2 now supports interactive Apache Spark sessions with Spark Connect. Data engineers and data scientists can develop and debug Apache Spark applications interactively from managed notebooks in Amazon Sa",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-emr-ec2-spark-connect/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-04-aws-aws-security-hub-extended-adds-supply-chain-securi",
+      "date": "2026-08-04",
+      "name": "AWS Security Hub Extended adds supply chain security as its 10th category",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>The AWS Security Hub Extended plan now includes Supply Chain Security as its 10th security category, with Chainguard and Socket as the curated partners. As developers adopt open-source libraries at scale, security tea",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-security-hub-extended-adds-supply-chain-security"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-04-aws-amazon-ec2-c8g-instances-now-available-in-addition",
+      "date": "2026-08-04",
+      "name": "Amazon EC2 C8g instances now available in additional regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8g instances are available in AWS Europe (Paris), AWS Africa (Cape Town), AWS Israel (Tel Aviv), and AWS Canada West (Calgary) regions. These instances are po",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8g-instances-additional-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-04-aws-amazon-s3-vectors-is-now-available-in-the-aws-euro",
+      "date": "2026-08-04",
+      "name": "Amazon S3 Vectors is now available in the AWS European Sovereign Cloud (Germany) Region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon S3 Vectors is now available in the AWS European Sovereign Cloud (Germany) Region. Amazon S3 Vectors is purpose-built vector storage for AI agents, inference, Retrieval Augmented Generation (RAG), and semantic s",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-s3-vectors-european-sovereign-cloud-germany/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-04-aws-amazon-connect-customer-now-supports-capacity-plan",
+      "date": "2026-08-04",
+      "name": "Amazon Connect Customer now supports capacity planning in 15 or 30 minute intervals",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Connect Customer now lets you generate capacity plans at the interval level (15-minute or 30-minute intervals), giving workforce planners visibility into more granular staffing requirements across Voice, Chat, ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-interval-capacity-plan"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-04-aws-amazon-ec2-i8g-instances-now-available-in-aws-euro",
+      "date": "2026-08-04",
+      "name": "Amazon EC2 I8g instances now available in AWS Europe (Paris), Asia Pacific (Jakarta) regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS announces the general availability of Amazon EC2 Storage Optimized I8g instances in AWS Europe (Paris) and Asia Pacific (Jakarta) regions.&nbsp;I8g instances are powered by AWS Graviton4 processors and offer the b",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-i8g-instances-aws-paris-jakarta-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-04-aws-amazon-rds-for-sql-server-now-support-byom-in-addi",
+      "date": "2026-08-04",
+      "name": "Amazon RDS for SQL Server now support BYOM in additional commercial regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for SQL Server</a> now supports Bring Your Own Media (BYOM) in 10 additional AWS Regions: Asia Pacific (T",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/rds-sql-server-supports-byom-in-additional-aws-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-04-aws-amazon-rds-for-sql-server-supports-developer-editi",
+      "date": "2026-08-04",
+      "name": "Amazon RDS for SQL Server supports Developer Edition in additional AWS regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for SQL Server</a> Developer Edition is now available in 13 additional AWS Regi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/rds-sql-server-supports-developer-edition-in-additional-aws-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-04-dust-spa-poke-93bf1c2",
+      "date": "2026-08-04",
+      "name": "spa/poke/93bf1c2",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] enh: Unify agent loop worker activity slots at 40 (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/29955\">#29955</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F93bf1c2"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-04-dust-spa-poke-79cdfa9-front-fix-hide-activation-opening",
+      "date": "2026-08-04",
+      "name": "spa/poke/79cdfa9: [front] fix: hide activation opening message (#30000)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Keep the system-generated activation trigger prompt out of user-visible conversation surfaces.</p>\n<p>Co-authored-by: Cursor <a href=\"mailto:cursoragent@cursor.com\">cursoragent@cursor.com</a></p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F79cdfa9"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-08-03-aws-aws-transform-continuous-modernization-is-now-gene",
       "date": "2026-08-03",
       "name": "AWS Transform continuous modernization is now generally available",
@@ -842,240 +1076,6 @@
         }
       ],
       "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-30-dust-spa-poke-792d9c6-sync-5-6-endpoint-tokenpricing-de",
-      "date": "2026-07-30",
-      "name": "spa/poke/792d9c6: Sync 5.6 endpoint tokenPricing declarations with new prices",
-      "vendor": "Dust",
-      "type": "pricing",
-      "summary": "<p>Terra stream endpoints (global and EU +10%) get the new rates, and the<br />\nLuna stream/batch endpoints missed by the Luna pricing PR are updated too<br />\n(batch at 50% of standard, EU at +10%).</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F792d9c6"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-30-dust-spa-poke-673e5a3",
-      "date": "2026-07-30",
-      "name": "spa/poke/673e5a3",
-      "vendor": "Dust",
-      "type": "pricing",
-      "summary": "<p>Pricing: prevent using the origin: sidekick with non sidekick agent (…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F673e5a3"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-30-dust-spa-poke-423c830",
-      "date": "2026-07-30",
-      "name": "spa/poke/423c830",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[AGENT-LOOP] Don't fail the message when a step comes back empty (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/29\">#29</a>…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F423c830"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-30-dust-spa-poke-09e974d-front-enh-hide-skills-only-mcp-se",
-      "date": "2026-07-30",
-      "name": "spa/poke/09e974d: [front] enh: hide skills-only MCP servers from direct selection (#29595)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>[front] Hide skills-only MCP servers from direct selection</p>\n</li>\n<li>\n<p>[front-api] Separate awaited MCP view lookup</p>\n</li>\n<li>\n<p>[front] Build MCP view query with URLSearchParams</p>\n</li>\n<li>\n<p",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F09e974d"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-29-openai-how-gpt-5-6-fuses-frontier-intelligence-with-front",
-      "date": "2026-07-29",
-      "name": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-29-aws-aws-waf-adds-pre-parse-text-transformations-and-ne",
-      "date": "2026-07-29",
-      "name": "AWS WAF adds pre-parse text transformations and new text transformations",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS WAF adds pre-parse text transformations for query arguments and ten new text transformations for use in any rule statement. Both help you normalize request content so that AWS WAF inspects requests the same",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-waf/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-29-aws-aws-announces-aws-interconnect-multicloud-connecti",
-      "date": "2026-07-29",
-      "name": "AWS announces AWS Interconnect - multicloud connectivity with Oracle Cloud Infrastructure in GA",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS announces the general availability (GA) of AWS Interconnect — multicloud with Oracle Cloud Infrastructure (OCI).</p> \n<p>Customers have been adopting multicloud strategies while migrating more applications to the ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-announces-AWS-interconnect-multicloud-OCI-GA/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-29-aws-amazon-connect-customer-now-automatically-finds-ex",
-      "date": "2026-07-29",
-      "name": "Amazon Connect Customer now automatically finds example agent evaluations for tailored coaching",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Connect Customer now automatically surfaces relevant examples of an agent's evaluations when managers are preparing coaching feedback, so they can deliver actionable, evidence-backed coaching to agents. When a ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-connect-customer-example-evaluations-for-agent-coaching/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-29-aws-aws-iam-identity-center-extends-multi-region-suppo",
-      "date": "2026-07-29",
-      "name": "AWS IAM Identity Center extends multi-Region support to Identity Center directory",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>IAM Identity Center helps you configure the single sign-on experience of your workforce to AWS accounts and applications. You can now replicate IAM Identity Center from the primary AWS Region where you first enabled i",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-iam-identity-center-extends-multi-region-support-to-identity-center-directory"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-29-flowise-flowise-3-1-4",
-      "date": "2026-07-29",
-      "name": "flowise@3.1.4",
-      "vendor": "Flowise",
-      "type": "launch",
-      "summary": "<h2>What's Changed</h2>\n<ul>\n<li>Fix Type Validation For Session ID by <a class=\"user-mention notranslate\" href=\"https://github.com/yau-wd\">@yau-wd</a> in <a class=\"issue-link js-issue-link\" href=\"https://github.com/Flow",
-      "sources": [
-        {
-          "title": "Flowise source",
-          "url": "https://github.com/FlowiseAI/Flowise/releases/tag/flowise%403.1.4"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-07-29-dust-spa-poke-5202303",
-      "date": "2026-07-29",
-      "name": "spa/poke/5202303",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Bind sandbox auth to agent version</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5202303"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-29-dust-spa-poke-3233991-admin-governance-fix-skill-attach",
-      "date": "2026-07-29",
-      "name": "spa/poke/3233991: [Admin Governance] Fix skill attachment file edit permissions (#29644)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<h2>Description</h2>\n<p>Fixes issue reported <a href=\"https://dust4ai.slack.com/archives/C05DP58UKR7/p1785309266382139\" rel=\"nofollow\">here</a> where skill attachment files couldn't be edited by skill editors due to a le",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F3233991"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-28-openai-scientific-computing-in-the-age-of-agentic-ai",
-      "date": "2026-07-28",
-      "name": "Scientific computing in the age of agentic AI",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/scientific-computing-agentic-ai"
-        }
-      ],
-      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
