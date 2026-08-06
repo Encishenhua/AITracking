@@ -1,6 +1,276 @@
 {
   "items": [
     {
+      "id": "2026-08-05-aws-aws-lambda-announces-scalable-network-bandwidth-up",
+      "date": "2026-08-05",
+      "name": "AWS Lambda announces scalable network bandwidth up to 3,000 Mbps for functions outside a VPC",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/lambda/\">AWS Lambda</a> now supports scalable network bandwidth for Lambda functions, enabling faster data transfer to and from your execution environment for latency-sensitive workload",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-network-bandwidth/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-05-aws-amazon-keyspaces-for-apache-cassandra-is-now-avail",
+      "date": "2026-08-05",
+      "name": "Amazon Keyspaces (for Apache Cassandra) is now available in the Canada West (Calgary) Region (ca-west-1)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/keyspaces/\">Amazon Keyspaces (for Apache Cassandra)</a> is now available in the Canada West (Calgary) Region (ca-west-1), allowing customers in the Canada West Region to build Cassandra",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-keyspaces-apache-cassandra-canada-west/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-05-aws-aws-glue-data-quality-makes-etl-anomaly-detection-",
+      "date": "2026-08-05",
+      "name": "AWS Glue Data Quality makes ETL anomaly detection free and improves anomaly predictions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Glue Data Quality now offers improved anomaly detection with a new observation mode that reduces detection of false anomalies and removes pricing for anomaly detection in ETL jobs.&nbsp;Customers using notebook-ba",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-data-quality-anomaly-detection-free"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-05-aws-aws-marketplace-adds-ai-insights-so-buyers-can-und",
+      "date": "2026-08-05",
+      "name": "AWS Marketplace adds AI Insights so buyers can understand pricing before they buy",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>You can now understand how a product's pricing works before you buy it. Available in the pricing section of the listing in AWS Marketplace, AI Insights explains each product's pricing in plain language: what a pricing",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace-ai-insights/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-05-aws-amazon-dynamodb-now-supports-real-time-vector-sear",
+      "date": "2026-08-05",
+      "name": "Amazon DynamoDB now supports real-time vector search",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the general availability of vector search for Amazon DynamoDB, a new feature to index and search vectors in real time. As vector datasets grow into the billions or trillions, vector search at scal",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-dynamodb-vector-search"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-05-aws-aws-iam-identity-center-makes-management-of-aws-ac",
+      "date": "2026-08-05",
+      "name": "AWS IAM Identity Center makes management of AWS account access optional for new organization instances",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS IAM Identity Center now lets you decide whether to enable management of AWS account access when you create a new organization instance. This allows you to use IAM Identity Center to manage access to AWS applicatio",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-identity-center-accounts-optional/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-05-aws-amazon-aurora-serverless-now-scales-faster-to-supp",
+      "date": "2026-08-05",
+      "name": "Amazon Aurora serverless now scales faster to support agentic AI and other bursty workloads",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/aurora/serverless/\">Amazon Aurora serverless</a> now delivers higher initial capacity during scale-up events, reaching up to 12 ACUs within a second and continuing to scale up to 25",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aurora-serverless-instant-12-acu-scaling"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-05-dust-spa-poke-3741364",
+      "date": "2026-08-05",
+      "name": "spa/poke/3741364",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] fix: clarify user memory read behavior</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F3741364"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-05-dust-spa-poke-72035e8",
+      "date": "2026-08-05",
+      "name": "spa/poke/72035e8",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Admin governance for skills: Add warning if any editor will lose acce…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F72035e8"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-05-dust-spa-poke-46732a1-db-add-usereditedinput-to-agent-m",
+      "date": "2026-08-05",
+      "name": "spa/poke/46732a1: db: add userEditedInput to agent_mcp_actions (#26899)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>db: add userEditedInput to agent_mcp_actions</p>\n</li>\n<li>\n<p>db: add migration</p>\n</li>\n<li>\n<p>db: migration</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F46732a1"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-05-dust-spa-poke-619be29",
+      "date": "2026-08-05",
+      "name": "spa/poke/619be29",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] fix: inherit message authorship in sub-agent runs (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/30024\">#30024</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F619be29"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-05-dust-spa-poke-97e6af8",
+      "date": "2026-08-05",
+      "name": "spa/poke/97e6af8",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Analytics: Add pod usage chart in agent analytics 3/3: pod usage char…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F97e6af8"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-05-dust-spa-poke-22d981d-sparkle-front-sidebar-section-tit",
+      "date": "2026-08-05",
+      "name": "spa/poke/22d981d: [sparkle,front] Sidebar section titles as list rows (#30026)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>[sparkle,front] Sidebar section titles as list rows, collapsible Conversations</li>\n</ul>\n<p>Section titles in the conversations sidebar used a one-off header row that<br />\ndidn't match the list items below the",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F22d981d"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-05-crewai-1-15-12",
+      "date": "2026-08-05",
+      "name": "1.15.12",
+      "vendor": "CrewAI",
+      "type": "upgrade",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Bump Flow canary on release</li>\n<li>Add URLReadTool for reading arbitrary URLs</li>\n<li>Add app metadata to platform action tools</li>\n<li>Unify scaffolding under <code",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.12"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-08-05-crewai-1-15-11",
+      "date": "2026-08-05",
+      "name": "1.15.11",
+      "vendor": "CrewAI",
+      "type": "launch",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Track interception-hook dispatches in telemetry</li>\n<li>Add project_id to link OSS usage to an enterprise account</li>\n<li>Surface AMP in AGENTS.md and detect coding ag",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.11"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-08-04-aws-preview-announcement-re-introducing-forward-proxy-",
       "date": "2026-08-04",
       "name": "[Preview Announcement] Re-introducing Forward Proxy as AWS Network Firewall Functionality",
@@ -469,6 +739,24 @@
       "tags": []
     },
     {
+      "id": "2026-08-03-aws-aws-healthomics-now-supports-task-level-timeout-fo",
+      "date": "2026-08-03",
+      "name": "AWS HealthOmics now supports task-level timeout for WDL workflows",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS HealthOmics now supports task-level timeout for Workflow Description Language (WDL) workflows, enabling you to set maximum execution duration for individual tasks. <a href=\"https://aws.amazon.com/healthomics/\">AWS",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-healthomics-wdl-task-level-timeout/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-08-02-dust-spa-poke-395b820",
       "date": "2026-08-02",
       "name": "spa/poke/395b820",
@@ -788,294 +1076,6 @@
         }
       ],
       "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-31-aws-amazon-sagemaker-unified-studio-now-supports-terad",
-      "date": "2026-07-31",
-      "name": "Amazon SageMaker Unified Studio now supports Teradata Vantage",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker Unified Studio now supports Teradata Vantage as a data source, enabling you to query and analyze your enterprise data warehouse data directly alongside your other data assets. With this new connection",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-teradata"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-31-aws-amazon-web-services-now-introduces-context-ontolog",
-      "date": "2026-07-31",
-      "name": "Amazon Web Services now introduces Context Ontology Accelerator",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces Context Ontology Accelerator, an open source accelerator that helps organizations build an ontology of their business — a machine-readable model of their products, customers, policies, and the rul",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-context--ontology-accelarator-generally-available"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-30-openai-advancing-the-price-performance-frontier-with-gpt-",
-      "date": "2026-07-30",
-      "name": "Advancing the price-performance frontier with GPT-5.6",
-      "vendor": "OpenAI",
-      "type": "pricing",
-      "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-30-openai-how-avatarin-built-a-24-7-retail-agent-with-gpt-re",
-      "date": "2026-07-30",
-      "name": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/avatarin"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-30-aws-amazon-sagemaker-unified-studio-brings-richer-git-",
-      "date": "2026-07-30",
-      "name": "Amazon SageMaker Unified Studio brings richer Git version control to all project tools",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon SageMaker Unified Studio gives project members full Git version control directly within the tools you already use - Query Editor, Visual ETL, Workflows, and Notebooks. The enhanced <b>Repositories</b> experienc",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio-git/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-30-aws-aws-direct-connect-now-supports-bgp-route-visibili",
-      "date": "2026-07-30",
-      "name": "AWS Direct Connect now supports BGP route visibility on Virtual Interfaces",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><span style=\"margin: 0.0px; padding: 0.0px; border: 0.0px solid; white-space: pre-wrap;\">AWS Direct Connect now provides Border Gateway Protocol (BGP) route visibility, allowing you to view the routes exchanged betwee",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-direct-connect-bgp-visibility/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-30-aws-iam-policy-simulator-moves-to-the-iam-console-and-",
-      "date": "2026-07-30",
-      "name": "IAM Policy Simulator moves to the IAM console and adds additional capabilities",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/iam/\">AWS Identity and Access Management (IAM)</a> announces a major update to <a href=\"https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_testing-policies.html\">IAM Polic",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/iam-policy-simulator-iam-console/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-30-aws-amazon-bedrock-announces-up-to-80-lower-prices-for",
-      "date": "2026-07-30",
-      "name": "Amazon Bedrock announces up to 80% lower prices for OpenAI GPT‑5.6 models",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, OpenAI announced lower prices for GPT‑5.6 Luna and GPT‑5.6 Terra. Effective July 30, 2026, on-demand inference prices on Amazon Bedrock for GPT‑5.6 Luna are reduced by 80%, while prices for GPT‑5.6 Terra are re",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/openai-gpt-terra-luna-pricing-bedrock/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-30-aws-aws-announces-general-availability-of-policy-based",
-      "date": "2026-07-30",
-      "name": "AWS announces general availability of Policy-Based Routing on AWS Transit Gateway",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Transit Gateway now supports Policy-Based Routing (PBR), giving network administrators granular control over how traffic is forwarded across their AWS network. With PBR, forwarding decisions can be based on a comb",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-transit-gateway-policy-based-routing/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-30-aws-amazon-msk-express-brokers-now-delivers-apache-kaf",
-      "date": "2026-07-30",
-      "name": "Amazon MSK Express brokers now delivers Apache Kafka data to Amazon S3",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/msk/features/express-brokers-for-amazon-msk/\">Amazon MSK Express brokers</a> now delivers data to Amazon S3 general purpose buckets, providing a fully managed capability to deliver Apac",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-msk-express-brokers-delivers-to-amazon-s3"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-30-aws-amazon-msk-express-brokers-now-deliver-data-to-str",
-      "date": "2026-07-30",
-      "name": "Amazon MSK Express brokers now deliver data to streaming tables for Apache Iceberg",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/msk/features/express-brokers-for-amazon-msk/\">Amazon MSK Express brokers</a> now deliver data to streaming tables for Apache Iceberg, a new capability that continuously materializes Apa",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-msk-streaming-tables-for-apache-iceberg"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-30-aws-grok-4-3-from-xai-is-now-available-on-amazon-bedro",
-      "date": "2026-07-30",
-      "name": "Grok 4.3 from xAI is now available on Amazon Bedrock in AWS GovCloud (US-West)",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>xAI's Grok 4.3 model is now available on Amazon Bedrock in AWS GovCloud (US-West). With this launch, xAI joins Amazon Bedrock as a model provider in AWS GovCloud (US-West), giving you even more choice as you build gen",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/grok-4-3-bedrock-govcloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-30-aws-gemma-4-models-are-now-available-on-amazon-bedrock",
-      "date": "2026-07-30",
-      "name": "Gemma 4 models are now available on Amazon Bedrock in AWS GovCloud (US-West)",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>The Gemma 4 family of open-weight models from Google DeepMind on <a href=\"https://aws.amazon.com/bedrock/\">Amazon Bedrock</a> in AWS GovCloud (US-West). With Gemma 4, you can build generative AI applications across re",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/gemma-4-bedrock-govcloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-30-aws-aws-managed-microsoft-ad-now-supports-standard-to-",
-      "date": "2026-07-30",
-      "name": "AWS Managed Microsoft AD now supports Standard to Enterprise Edition upgrade",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Directory Service now allows you to upgrade your AWS Managed Microsoft AD directory from Standard Edition to Enterprise Edition directly through the AWS Management Console, AWS CLI, and API without migrating to a ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-microsoft-ad-edition-upgrade/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-30-aws-amazon-opensearch-service-now-supports-opensearch-",
-      "date": "2026-07-30",
-      "name": "Amazon OpenSearch Service now supports OpenSearch version 3.7",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>You can now run OpenSearch version 3.7 on Amazon OpenSearch Service. OpenSearch 3.7 introduces improvements in vector search performance, search relevance, and Query Insights.</p> \n<p>With this launch, <a href=\"https:",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-opensearch-service/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-30-dust-spa-poke-877b944",
-      "date": "2026-07-30",
-      "name": "spa/poke/877b944",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Opt: bulk insert agent_step_content for the same step.</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F877b944"
-        }
-      ],
-      "impact": 3,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
