@@ -1,6 +1,348 @@
 {
   "items": [
     {
+      "id": "2026-08-06-aws-amazon-ecs-now-supports-fractional-gpu-scheduling-",
+      "date": "2026-08-06",
+      "name": "Amazon ECS now supports fractional GPU scheduling with Amazon EC2 G6f instances",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p><a href=\"https://aws.amazon.com/ecs/\" target=\"_blank\">Amazon Elastic Container Service</a> (Amazon ECS) now supports fractional GPU scheduling with Amazon EC2 G6f instances, enabling you to run your workloads on GPU p",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecs-fractional-gpu/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-06-aws-amazon-ec2-g7-instances-are-now-available-in-the-a",
+      "date": "2026-08-06",
+      "name": "Amazon EC2 G7 instances are now available in the AWS Europe (Spain) Region",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Elastic Compute Cloud (Amazon EC2) G7 instances powered by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs are now available in Europe (Spain) Region. G7 instances deliver up to 4.6x AI inference performance ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-g7-available-spain"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-06-aws-agentcore-runtime-instances-are-now-generally-avai",
+      "date": "2026-08-06",
+      "name": "AgentCore runtime instances are now generally available",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS announces runtime instances, a new feature in Amazon Bedrock AgentCore that lets you run agents on your own Amazon EC2 instances without managing infrastructure. AgentCore runtime provides purpose-built inf",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-bedrock-agentcore-runtime-instances-generally-available/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-06-aws-amazon-elasticache-now-supports-graviton4-based-m8",
+      "date": "2026-08-06",
+      "name": "Amazon ElastiCache now supports Graviton4-based M8g, R8g, and C8gn nodes",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon ElastiCache now supports Graviton4-based M8g, R8g, and C8gn node families for Valkey and Memcached. Graviton4-based nodes provide up to 47% higher throughput, up to 43% lower P99 latency, and up to 31% better p",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-elasticache-graviton4-m8g-r8g-c8gn/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-06-aws-aws-glue-schema-registry-is-now-available-in-ten-m",
+      "date": "2026-08-06",
+      "name": "AWS Glue Schema Registry is now available in ten more AWS regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>You can now use the <a href=\"https://docs.aws.amazon.com/glue/latest/dg/schema-registry.html\">AWS Glue Schema Registry</a>, a serverless and free feature of<a href=\"https://aws.amazon.com/glue/\"> AWS Glue</a>, in the ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-gsr-10-more-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-06-aws-aws-transform-for-migrations-automates-post-launch",
+      "date": "2026-08-06",
+      "name": "AWS Transform for migrations automates post-launch actions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Transform now automates the configuration and execution of post-launch actions through the migration workflow. Define actions at the account level and apply them automatically to each source server across your tar",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-transform-for-migrations-automates-post-launch-actions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-06-aws-aws-security-agent-now-supports-email-based-mfa-fo",
+      "date": "2026-08-06",
+      "name": "AWS Security Agent now supports email-based MFA for penetration testing",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Security Agent (now part of <a href=\"http://aws.amazon.com/continuum?refid=77f1fbea-4ad5-4c1d-b16e-e5634ca5086e\">AWS Continuum</a>) now enables penetration testing of applications that use email-based multi-factor",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-security-agent-mfa/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-06-aws-amazon-workspaces-now-publishes-enhanced-observabi",
+      "date": "2026-08-06",
+      "name": "Amazon WorkSpaces now publishes enhanced observability metrics",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon WorkSpaces now publishes additional performance and session health metrics to Amazon CloudWatch, enabling IT administrators to gain deeper visibility into their virtual desktop workloads. These new metrics span",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-workspaces-observability-metrics"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-06-aws-amazon-workspaces-applications-now-publishes-enhan",
+      "date": "2026-08-06",
+      "name": "Amazon WorkSpaces Applications now publishes enhanced observability metrics",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon WorkSpaces Applications now publishes additional performance and session health metrics to Amazon CloudWatch, enabling IT administrators to gain deeper visibility into their application streaming workloads. The",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-workspaces-applications-observability-metrics"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-06-aws-amazon-msk-now-delivers-kafka-authorizer-logs-to-c",
+      "date": "2026-08-06",
+      "name": "Amazon MSK now delivers Kafka Authorizer Logs to customers",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/msk/\">Amazon Managed Streaming for Apache Kafka (MSK)</a> now supports Authorizer Log Delivery for Provisioned clusters, including both Standard and Express brokers, at no additional co",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-msk-kafka-authorizer-logs/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-06-aws-aws-backup-for-amazon-s3-now-supports-direct-acces",
+      "date": "2026-08-06",
+      "name": "AWS Backup for Amazon S3 now supports direct access to backup data",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Backup for Amazon S3 now supports creating S3 Access Points, providing immediate read-only access to backup data using standard S3 APIs without initiating a restore. This enables targeted file recovery, data valid",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-backup-amazon-s3-direct-access/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-06-aws-amazon-ses-now-helps-identify-automated-open-and-c",
+      "date": "2026-08-06",
+      "name": "Amazon SES now helps identify automated open and click events in event notifications",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Simple Email Service (SES) now helps you identify automated email interactions. Open and Click event notifications now include an isBotEvent field that indicates whether the event was likely triggered by an aut",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ses-automated-email-interactions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-06-aws-aws-backup-extends-logically-air-gapped-vault-supp",
+      "date": "2026-08-06",
+      "name": "AWS Backup extends logically air-gapped vault support for Amazon Neptune to three additional AWS Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Backup logically air-gapped vault support for Amazon Neptune is now available in three additional AWS Regions: Asia Pacific (Melbourne), Europe (Spain), and Europe (Zurich).</p> \n<p>With this expansion, you can st",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-backup-logically-air-gapped-vault-neptune-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-06-aws-amazon-quick-supports-multi-dataset-analytical-cap",
+      "date": "2026-08-06",
+      "name": "Amazon Quick supports multi-dataset analytical capabiity",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Today, Amazon Quick announces supporting multi-dataset topics, enabling users to model relationships across multiple datasets in a single topic and use that model to build dashboards and answer questions in natural la",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-06-aws-announcing-temporal-policies-and-rate-limiting-in-",
+      "date": "2026-08-06",
+      "name": "Announcing temporal policies and rate limiting in Amazon Bedrock AgentCore",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock AgentCore announces two new controls: temporal policies for stateful agent authorization and rate limiting for AI traffic.</p> \n<p>Temporal policies let you define stateful authorization rules that eval",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/temporal-policies-agentcore/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-06-aws-amazon-ec2-m8g-instances-now-available-in-addition",
+      "date": "2026-08-06",
+      "name": "Amazon EC2 M8g instances now available in additional regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M8g instances are available in AWS Asia Pacific (Taipei), and AWS Mexico (Central) regions. These instances are powered by AWS Graviton4 processors and deliver",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-m8g-instances-additional-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-06-dust-spa-poke-551ef00-record-a-pod-function-as-durable-",
+      "date": "2026-08-06",
+      "name": "spa/poke/551ef00: Record a Pod function as durable when it calls a Dust tool as fast",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>A fast function is published on the promise that it does not call Dust tools, and the refusal that<br />\nenforces it is also the only evidence the promise was wrong. Today that evidence goes nowhere: the<br />\ninvocat",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F551ef00"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-06-dust-spa-poke-220d760-run-fast-pod-function-invocations",
+      "date": "2026-08-06",
+      "name": "spa/poke/220d760: Run fast Pod function invocations without the invocation workflow",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>A fast function only reads and writes pod state, so its invocation has nothing to survive: it<br />\ncannot block on a tool approval, and it settles in well under a second. Routing it through a<br />\nTemporal workflow ",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F220d760"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-06-dust-spa-poke-5c3db9a-describe-the-pod-mount-instead-of",
+      "date": "2026-08-06",
+      "name": "spa/poke/5c3db9a: Describe the Pod mount instead of prescribing where to write",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Per review: telling the agent to read from /files/pod and write to<br />\n/files/conversation unless asked otherwise is too directive. State what each<br />\nmount is for and let the agent decide.</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5c3db9a"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-08-05-aws-aws-lambda-announces-scalable-network-bandwidth-up",
       "date": "2026-08-05",
       "name": "AWS Lambda announces scalable network bandwidth up to 3,000 Mbps for functions outside a VPC",
@@ -268,6 +610,24 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-08-05-aws-aws-glue-data-catalog-now-supports-metadata-export",
+      "date": "2026-08-05",
+      "name": "AWS Glue Data Catalog now supports  metadata exports to S3 Tables (Preview)",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Glue Data Catalog is a centralized metadata repository that helps you discover and understand data, with semantic search and support for adding business context to datasets currently in preview. Today, we are addi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-data-catalog-s3-tables/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
       "tags": []
     },
     {
@@ -716,366 +1076,6 @@
         }
       ],
       "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-03-dust-spa-poke-8944f61-front-mcp-show-conversation-inbox",
-      "date": "2026-08-03",
-      "name": "spa/poke/8944f61: [Front MCP] Show conversation inboxes (#29579)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>[Front MCP] Fix conversation inbox metadata</p>\n</li>\n<li>\n<p>[Front MCP] Bound inbox enrichment</p>\n</li>\n<li>\n<p>[Front MCP] Validate conversation responses</p>\n</li>\n<li>\n<p>[Front MCP] Isolate inbox enri",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8944f61"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-03-aws-aws-healthomics-now-supports-task-level-timeout-fo",
-      "date": "2026-08-03",
-      "name": "AWS HealthOmics now supports task-level timeout for WDL workflows",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS HealthOmics now supports task-level timeout for Workflow Description Language (WDL) workflows, enabling you to set maximum execution duration for individual tasks. <a href=\"https://aws.amazon.com/healthomics/\">AWS",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-healthomics-wdl-task-level-timeout/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-02-dust-spa-poke-395b820",
-      "date": "2026-08-02",
-      "name": "spa/poke/395b820",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] enh: warn when a user message mentions multiple agents (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/29837\">#29837</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F395b820"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-02-dust-spa-app-395b820",
-      "date": "2026-08-02",
-      "name": "spa/app/395b820",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] enh: warn when a user message mentions multiple agents (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/29837\">#29837</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F395b820"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-01-dust-spa-poke-9dfe23c",
-      "date": "2026-08-01",
-      "name": "spa/poke/9dfe23c",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Fix display of the agent message covering user message (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/29887\">#29887</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9dfe23c"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-01-dust-spa-poke-f18a38a-remove-obsolete-branchid-args-fro",
-      "date": "2026-08-01",
-      "name": "spa/poke/f18a38a: Remove obsolete branchId args from front-api message routes.",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>edit/retry/delete APIs no longer accept branchId after conversation-branch<br />\nremoval; drop the leftover call-site arguments that broke front-api tsgo.</p>\n<p>Co-authored-by: Cursor <a href=\"mailto:cursoragent@curs",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Ff18a38a"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-01-dust-spa-app-9dfe23c",
-      "date": "2026-08-01",
-      "name": "spa/app/9dfe23c",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Fix display of the agent message covering user message (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/29887\">#29887</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F9dfe23c"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-01-dust-spa-app-f18a38a-remove-obsolete-branchid-args-from",
-      "date": "2026-08-01",
-      "name": "spa/app/f18a38a: Remove obsolete branchId args from front-api message routes.",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>edit/retry/delete APIs no longer accept branchId after conversation-branch<br />\nremoval; drop the leftover call-site arguments that broke front-api tsgo.</p>\n<p>Co-authored-by: Cursor <a href=\"mailto:cursoragent@curs",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2Ff18a38a"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-31-openai-advancing-responsible-ai-across-europe",
-      "date": "2026-07-31",
-      "name": "Advancing responsible AI across Europe",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as the EU AI Act advances.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/advancing-responsible-ai-across-europe"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-31-openai-univ-builds-an-ai-ready-workforce",
-      "date": "2026-07-31",
-      "name": "Univé builds an AI-ready workforce",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/unive"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-31-openai-disrupting-a-criminal-scam-operation",
-      "date": "2026-07-31",
-      "name": "Disrupting a Criminal Scam Operation",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-31-aws-amazon-aurora-dsql-adds-multi-region-cluster-suppo",
-      "date": "2026-07-31",
-      "name": "Amazon Aurora DSQL adds multi-Region cluster support in four more Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, Amazon Aurora DSQL supports multi-Region clusters in four additional AWS Regions: Europe (Stockholm), Europe (Spain), Asia Pacific (Mumbai), and&nbsp;Asia Pacific (Singapore). Aurora DSQL is the fastes",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-aurora-dsql-adds-multi-region-clusters-four-more-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-31-aws-amazon-rds-for-oracle-now-offers-reserved-instance",
-      "date": "2026-07-31",
-      "name": "Amazon RDS for Oracle now offers Reserved Instances for R8i and M8i instances",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/oracle/\">Amazon RDS for Oracle </a>now offers 1-year and 3-year Reserved Instances for R8i and M8i instances with up to 53% cost savings compared to On-Demand prices. These instance",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-oracle-r8i-m8i/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-31-aws-amazon-cloudwatch-announces-managed-prometheus-col",
-      "date": "2026-07-31",
-      "name": "Amazon CloudWatch announces managed Prometheus collectors",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon CloudWatch now supports collecting Prometheus metrics from your AWS infrastructure using fully managed collectors — enabling you to monitor Amazon EKS, Amazon EC2, Amazon ECS, Amazon MSK, and Amazon OpenSearch ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/cloudwatch-managed-collectors/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-31-aws-amazon-ec2-c7i-instances-now-available-in-addition",
-      "date": "2026-07-31",
-      "name": "Amazon EC2 C7i instances now available in additional regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C7i instances powered by custom 4th Gen Intel Xeon Scalable processors (code-named Sapphire Rapids) are available in Europe (Milan) and Canada West (Calgary) r",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c7i-instances-mxp-yyc-region/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-31-dust-spa-poke-652777d-disable-agents-picking-in-sidekic",
-      "date": "2026-07-31",
-      "name": "spa/poke/652777d: Disable agents picking in sidekick conversations (#29824)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>Disable agents picking in sidekick conversations</p>\n</li>\n<li>\n<p>format</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F652777d"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-31-dust-spa-poke-626349a",
-      "date": "2026-07-31",
-      "name": "spa/poke/626349a",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Remove the pod_default_agent and pod_default_skills feature flags (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/2\">#2</a>…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F626349a"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-31-dust-spa-poke-446510a",
-      "date": "2026-07-31",
-      "name": "spa/poke/446510a",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[AGENT BUILDER] Fix \"Add capabilities\" flash when closing a tool conf…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F446510a"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-31-dust-spa-poke-158c4c6",
-      "date": "2026-07-31",
-      "name": "spa/poke/158c4c6",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>feat: add banner when usage limit reached on legacy plans</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F158c4c6"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-07-31-aws-amazon-location-service-adds-search-nearby-support",
-      "date": "2026-07-31",
-      "name": "Amazon Location Service adds Search Nearby support for GrabMaps in Southeast Asia",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Location Service now supports proximity-based point of interest discovery with GrabMaps data in the Asia Pacific (Singapore) and Asia Pacific (Malaysia) AWS Regions. Builders creating local discovery, delivery,",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-location-service-search-nearby-grabmaps"
-        }
-      ],
-      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
