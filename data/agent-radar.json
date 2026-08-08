@@ -1,6 +1,276 @@
 {
   "items": [
     {
+      "id": "2026-08-07-aws-amazon-ec2-r8i-and-r8i-flex-instances-are-now-avai",
+      "date": "2026-08-07",
+      "name": "Amazon EC2 R8i and R8i-Flex instances are now available in Europe (Milan) region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8i and R8i-flex instances are available in the Europe (Milan) region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, de",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-r8i-flex/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-07-aws-amazon-timestream-for-influxdb-now-supports-backup",
+      "date": "2026-08-07",
+      "name": "Amazon Timestream for InfluxDB now supports backup and restore",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Timestream for InfluxDB now lets you create and manage your own backups and restore your data on demand. You can trigger one-time, on-demand backups, schedule automated recurring backups at the frequency and re",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/timestream-influxdb-backup-restore/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-07-aws-amazon-cognito-now-available-as-a-skill-in-the-age",
+      "date": "2026-08-07",
+      "name": "Amazon Cognito now available as a skill in the Agent Toolkit for AWS",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Cognito is now available as a core skill (aws-auth) in the <a href=\"https://aws.amazon.com/products/developer-tools/agent-toolkit-for-aws/\">Agent Toolkit for AWS</a>. AI coding agents using the toolkit can now ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-auth-agent-skill/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-07-aws-aws-iam-identity-center-supports-one-click-multi-r",
+      "date": "2026-08-07",
+      "name": "AWS IAM Identity Center supports one-click multi-Region option for new organization instances",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS IAM Identity Center now makes it easier to enable multi-Region support when creating a new organization instance. Previously, enabling multi-Region support required multiple steps including creating a customer man",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-identity-center-supports-one-click-multi-region-option-new-organization-instances"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-07-aws-amazon-bedrock-agentcore-adds-memory-policy-and-ha",
+      "date": "2026-08-07",
+      "name": "Amazon Bedrock AgentCore adds memory, policy, and harness in AWS GovCloud (US-West)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, Amazon Bedrock AgentCore introduces new capabilities in AWS GovCloud (US-West). AgentCore is the platform to build, connect, and optimize agents. With these capabilities, teams operating in regulated environmen",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcore-memory-policy-harness-govcloud/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-07-aws-amazon-gamelift-servers-now-supports-21-new-ec2-in",
+      "date": "2026-08-07",
+      "name": "Amazon GameLift Servers now supports 21 new EC2 instance types",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon GameLift Servers now supports 21 additional Amazon EC2 instance types for managed EC2 fleets and managed container fleets. Amazon GameLift Servers is a fully managed service that enables game developers and stu",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/gamelift-ec2-instance-expansion/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-07-aws-amazon-opensearch-service-announces-additional-upg",
+      "date": "2026-08-07",
+      "name": "Amazon OpenSearch Service announces additional upgrade runway for existing domains and support dates for additional versions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>In November 2024, Amazon OpenSearch Service <a href=\"https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-service-support-engine-versions/\">announced Extended Support for legacy Elasticsearch and OpenS",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-opensearch-service-additional-upgrade-runway-support-dates"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-07-aws-amazon-ses-now-helps-identify-automated-open-and-c",
+      "date": "2026-08-07",
+      "name": "Amazon SES now helps identify automated open and click events in event notifications",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Simple Email Service (SES) now helps you identify automated email interactions. Open and Click event notifications now include an isBotEvent field that indicates whether the event was likely triggered by an aut",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ses-automated-email-interactions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-07-aws-aws-parallel-computing-service-is-now-in-scope-for",
+      "date": "2026-08-07",
+      "name": "AWS Parallel Computing Service is now in scope for FedRAMP, SOC, ISO, CSA STAR, and PCI",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Parallel Computing Service (PCS), a managed service that simplifies running and scaling high performance computing (HPC) workloads on AWS using Slurm, has expanded its security and compliance coverage. Federal age",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-pcs-august/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-07-dust-spa-poke-3505bad",
+      "date": "2026-08-07",
+      "name": "spa/poke/3505bad",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Admin governance: Allow to filter by role in admin people page (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/30162\">#30162</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F3505bad"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-07-dust-spa-poke-025e136",
+      "date": "2026-08-07",
+      "name": "spa/poke/025e136",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>feat(sandbox): shared env vars UI for workspace and pod scopes (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/29349\">#29349</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F025e136"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-07-dust-spa-poke-9f0ee03",
+      "date": "2026-08-07",
+      "name": "spa/poke/9f0ee03",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] enh: move agent and skill actions to sidebar (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/30070\">#30070</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9f0ee03"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-07-dust-spa-poke-7d4d8ff-activation-add-work-areas-to-for-",
+      "date": "2026-08-07",
+      "name": "spa/poke/7d4d8ff: [Activation] add work areas to For you page (#30222)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>[Activation] add work areas to For you page</li>\n</ul>\n<p>Surface agent-discovered work areas alongside activation ideas without reintroducing the prior Learning Space implementation.</p>\n<p>Co-authored-by: Curs",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F7d4d8ff"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-07-dust-spa-poke-6fb5ee0",
+      "date": "2026-08-07",
+      "name": "spa/poke/6fb5ee0",
+      "vendor": "Dust",
+      "type": "pricing",
+      "summary": "<p>Pricing: clean typing around poolLimitAwuCredits (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/30184\">#30184</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6fb5ee0"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-07-dust-spa-poke-2f7a174",
+      "date": "2026-08-07",
+      "name": "spa/poke/2f7a174",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Admin governance: Add group picker to user side panel for managers (#…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2f7a174"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-08-06-aws-amazon-ecs-now-supports-fractional-gpu-scheduling-",
       "date": "2026-08-06",
       "name": "Amazon ECS now supports fractional GPU scheduling with Amazon EC2 G6f instances",
@@ -338,6 +608,60 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-06-aws-aws-waf-now-supports-a-salt-security-managed-rule-",
+      "date": "2026-08-06",
+      "name": "AWS WAF now supports a Salt Security managed rule group for API and MCP threat detection",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS WAF now supports the Salt Security managed rule group, available through AWS Marketplace: <a href=\"https://aws.amazon.com/marketplace/pp/prodview-yaljl5tu6bkye\">Salt Managed Rules for AWS WAF - AI Agent &amp; API ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-waf-salt-security-managed-rules/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-06-aws-amazon-opensearch-ui-now-supports-network-access-c",
+      "date": "2026-08-06",
+      "name": "Amazon OpenSearch UI now supports Network Access Control",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon OpenSearch Service now supports network access controls for OpenSearch UI applications. OpenSearch UI is the fully managed web service for search, analytics, and unified observability across multiple AWS data s",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/opensearch-ui-network-access-control"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-06-aws-amazon-connect-customer-adds-one-click-drill-down-",
+      "date": "2026-08-06",
+      "name": "Amazon Connect Customer adds one-click drill-down on real-time metrics dashboards",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Connect Customer dashboards now support drilling down into real-time queue and routing profile performance. With a single click, supervisors can drill from a summary view into pre-filtered routing profile, queu",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-drill-down-metrics/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -752,330 +1076,6 @@
         }
       ],
       "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-04-aws-amazon-connect-customer-now-supports-capacity-plan",
-      "date": "2026-08-04",
-      "name": "Amazon Connect Customer now supports capacity planning in 15 or 30 minute intervals",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Connect Customer now lets you generate capacity plans at the interval level (15-minute or 30-minute intervals), giving workforce planners visibility into more granular staffing requirements across Voice, Chat, ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-interval-capacity-plan"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-04-aws-amazon-ec2-i8g-instances-now-available-in-aws-euro",
-      "date": "2026-08-04",
-      "name": "Amazon EC2 I8g instances now available in AWS Europe (Paris), Asia Pacific (Jakarta) regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS announces the general availability of Amazon EC2 Storage Optimized I8g instances in AWS Europe (Paris) and Asia Pacific (Jakarta) regions.&nbsp;I8g instances are powered by AWS Graviton4 processors and offer the b",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-i8g-instances-aws-paris-jakarta-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-04-aws-amazon-rds-for-sql-server-now-support-byom-in-addi",
-      "date": "2026-08-04",
-      "name": "Amazon RDS for SQL Server now support BYOM in additional commercial regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for SQL Server</a> now supports Bring Your Own Media (BYOM) in 10 additional AWS Regions: Asia Pacific (T",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/rds-sql-server-supports-byom-in-additional-aws-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-04-aws-amazon-rds-for-sql-server-supports-developer-editi",
-      "date": "2026-08-04",
-      "name": "Amazon RDS for SQL Server supports Developer Edition in additional AWS regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for SQL Server</a> Developer Edition is now available in 13 additional AWS Regi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/rds-sql-server-supports-developer-edition-in-additional-aws-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-04-dust-spa-poke-93bf1c2",
-      "date": "2026-08-04",
-      "name": "spa/poke/93bf1c2",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] enh: Unify agent loop worker activity slots at 40 (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/29955\">#29955</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F93bf1c2"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-04-dust-spa-poke-79cdfa9-front-fix-hide-activation-opening",
-      "date": "2026-08-04",
-      "name": "spa/poke/79cdfa9: [front] fix: hide activation opening message (#30000)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Keep the system-generated activation trigger prompt out of user-visible conversation surfaces.</p>\n<p>Co-authored-by: Cursor <a href=\"mailto:cursoragent@cursor.com\">cursoragent@cursor.com</a></p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F79cdfa9"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-03-aws-aws-transform-continuous-modernization-is-now-gene",
-      "date": "2026-08-03",
-      "name": "AWS Transform continuous modernization is now generally available",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/transform/continuous-modernization/\" rel=\"noopener noreferrer\" target=\"_blank\">AWS Transform continuous modernization</a> is now generally available in all <a href=\"https://docs.aws.ama",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/7/aws-transform-continuous-general-available"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-03-aws-openai-gpt-5-6-sol-terra-and-luna-now-support-1-mi",
-      "date": "2026-08-03",
-      "name": "OpenAI GPT-5.6 Sol, Terra, and Luna now support 1 million token context windows on Amazon Bedrock",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>GPT-5.6 Sol, Terra, and Luna now support 1 million token context windows on Amazon Bedrock, enabling you to process full codebases, lengthy documents, and multi-turn agent histories in a single request. Models reason ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/gpt-sol-terra-luna-long-context-bedrock"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-03-aws-amazon-gamelift-streams-now-supports-sharing-strea",
-      "date": "2026-08-03",
-      "name": "Amazon GameLift Streams now supports sharing streams with stream URLs",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon GameLift Streams now offers stream URLs, which give end users temporary, unauthenticated access to a playable stream session in a supported web browser. Recipients need no AWS account, no credentials, and no so",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-gamelift-streams/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-03-aws-aws-resilience-hub-now-provides-recommended-resili",
-      "date": "2026-08-03",
-      "name": "AWS Resilience Hub now provides recommended resilience tests",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Resilience Hub now offers recommended resilience tests that help platform engineering and site reliability teams validate how their services respond to and recover from known failure scenarios.&nbsp;</p> \n<p>Resil",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-resilience-hub/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-03-aws-aws-organizations-now-provides-maximum-account-quo",
-      "date": "2026-08-03",
-      "name": "AWS Organizations now provides maximum account quota visibility in Service Quotas",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Organizations customers can now view their maximum number of accounts quota and its utilization directly through AWS Service Quotas instead of relying on AWS Support or AWS account teams to determine their current",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-organizations/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-03-aws-aws-lambda-provisioned-mode-for-amazon-sqs-event-s",
-      "date": "2026-08-03",
-      "name": "AWS Lambda Provisioned Mode for Amazon SQS event source mappings now supports up to 10,000 event pollers",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<div class=\"OutlineElement Ltr SCXW239223550 BCX2\" style=\"direction: ltr;\">\n <p>AWS Lambda now supports a maximum of 10,000 event pollers for Provisioned Mode for Amazon SQS event source mappings (ESMs), a 5x increase fr",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-Lambda-provisioned-sqs-esm-max-pollers/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-03-aws-amazon-sagemaker-ai-serverless-model-customization",
-      "date": "2026-08-03",
-      "name": "Amazon SageMaker AI serverless model customization now supports full fine-tuning",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker AI serverless model customization now supports full fine-tuning for over 25 open-source models. These include popular models from gpt-oss, Gemma, Llama, Nemotron, and Qwen model families. In addition ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker-fft"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-03-aws-aws-transform-for-full-stack-windows-modernization",
-      "date": "2026-08-03",
-      "name": "AWS Transform for full-stack Windows modernization now supports offline schema transformation to Aurora PostgreSQL",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS Transform for full-stack Windows modernization announced general availability of offline source transformation, enabling customers to modernize Microsoft SQL Server databases to Amazon Aurora PostgreSQL wit",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/7/aws-transform-windows-sql-schema-aurora"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-03-aws-aws-waf-now-supports-miggo-security-managed-rule-g",
-      "date": "2026-08-03",
-      "name": "AWS WAF now supports Miggo Security managed rule groups for emerging threats and AI/ML application protection",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS WAF now supports two new partner managed rule groups from Miggo Security, available through AWS Marketplace: <a href=\"https://aws.amazon.com/marketplace/pp/prodview-6zieu7lxn5vje\">Miggo Rules for AWS WAF – High Em",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-waf-miggo-managed-rule-groups"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-03-aws-amazon-ecr-now-supports-image-layers-up-to-200-gb",
-      "date": "2026-08-03",
-      "name": "Amazon ECR now supports image layers up to 200 GB",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Elastic Container Registry (Amazon ECR) has increased the maximum image layer size limit to 200 GB, for images pushed via Docker push.</p> \n<p>Previously, packaging assets required splitting data across multipl",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecr-image-layers/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-03-aws-aws-config-now-supports-15-new-resource-types",
-      "date": "2026-08-03",
-      "name": "AWS Config now supports 15 new resource types",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Config now supports 15 additional AWS resource types across key services including Amazon Bedrock,&nbsp; Amazon OpenSearch Serverless, and Amazon SageMaker. This expansion provides greater coverage over your AWS e",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-config-new-resource-types"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-03-dust-spa-poke-062244a",
-      "date": "2026-08-03",
-      "name": "spa/poke/062244a",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] refactor: collapse createAgentMessages to a single agent ment…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F062244a"
-        }
-      ],
-      "impact": 3,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
