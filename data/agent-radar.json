@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "2026-08-08-crewai-1-15-14",
+      "date": "2026-08-08",
+      "name": "1.15.14",
+      "vendor": "CrewAI",
+      "type": "upgrade",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Split runtime context from coding agent and add project ID</li>\n</ul>\n<h3>Documentation</h3>\n<ul>\n<li>Update snapshot and changelog for v1.15.13</li>\n</ul>\n<h2>Contribut",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.14"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-08-07-aws-amazon-ec2-r8i-and-r8i-flex-instances-are-now-avai",
       "date": "2026-08-07",
       "name": "Amazon EC2 R8i and R8i-Flex instances are now available in Europe (Milan) region",
@@ -266,6 +284,24 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-07-aws-amazon-vpc-ipam-now-supports-bgp-route-protection-",
+      "date": "2026-08-07",
+      "name": "Amazon VPC IPAM now supports BGP route protection monitoring and delegated RPKI for BYOIP prefixes",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Virtual Private Cloud (VPC) IP Address Manager (IPAM) now supports BGP route protection monitoring and delegated Resource Public Key Infrastructure (RPKI) management for Bring Your Own IP (BYOIP) prefixes. Netw",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-vpc-ipam-bgp-rpki-byoip/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -1037,42 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-security-hub-extended-adds-supply-chain-security"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-04-aws-amazon-ec2-c8g-instances-now-available-in-addition",
-      "date": "2026-08-04",
-      "name": "Amazon EC2 C8g instances now available in additional regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8g instances are available in AWS Europe (Paris), AWS Africa (Cape Town), AWS Israel (Tel Aviv), and AWS Canada West (Calgary) regions. These instances are po",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8g-instances-additional-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-04-aws-amazon-s3-vectors-is-now-available-in-the-aws-euro",
-      "date": "2026-08-04",
-      "name": "Amazon S3 Vectors is now available in the AWS European Sovereign Cloud (Germany) Region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon S3 Vectors is now available in the AWS European Sovereign Cloud (Germany) Region. Amazon S3 Vectors is purpose-built vector storage for AI agents, inference, Retrieval Augmented Generation (RAG), and semantic s",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-s3-vectors-european-sovereign-cloud-germany/"
         }
       ],
       "impact": 5,
