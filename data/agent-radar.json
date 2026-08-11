@@ -1,6 +1,276 @@
 {
   "items": [
     {
+      "id": "2026-08-10-openai-increased-error-rates",
+      "date": "2026-08-10",
+      "name": "Increased error rates",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Conversations (Degraded performance)</li>\n          ",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KZNZTPWMV06Z6TQNMY1R1QDR"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-10-aws-flux-2-small-decoder-and-gemma-4-12b-it-models-now",
+      "date": "2026-08-10",
+      "name": "FLUX.2-small-decoder and gemma-4-12B-it models now available on Amazon SageMaker JumpStart",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Black Forest Labs' FLUX.2-small-decoder and Google's gemma-4-12B-it models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. These two models bri",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/flux.2-small-decoder-gemma-4-12B-it-on-sagemaker-jumpstart/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-10-aws-langcache-embed-v3-small-mellum2-12b-a2-5b-thinkin",
+      "date": "2026-08-10",
+      "name": "langcache-embed-v3-small, Mellum2-12B-A2.5B-Thinking, and LightOnOCR-2-1B models now available on Amazon SageMaker JumpStart",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Redis's langcache-embed-v3-small, JetBrains' Mellum2-12B-A2.5B-Thinking, and LightOn's LightOnOCR-2-1B models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/langcache-embed-v3-small-mellum2-12B-A2.5B-thinking-lightOnOCR-2-1B-on-sagemaker-jumpstart/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-10-aws-amazon-ec2-high-memory-u7i-instances-now-available",
+      "date": "2026-08-10",
+      "name": "Amazon EC2 High Memory U7i instances now available in AWS South America (São Paulo) region",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon EC2 High Memory U7in-24TB instances (u7in-24tb.224xlarge) are now available in AWS South America (São Paulo) region. U7i instances are part of the AWS 7th generation and are powered by custom fourth-generation ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-high-memory-u7i-south-america"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-10-aws-glm-5-2-fp8-nvidia-nemotron-nano-12b-v2-and-glm-oc",
+      "date": "2026-08-10",
+      "name": "GLM-5.2 FP8, NVIDIA-Nemotron-Nano-12B-v2 and GLM-OCR models now available on Amazon SageMaker JumpStart",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Z.ai's GLM-5.2 FP8, NVIDIA's Nemotron-Nano-12B-v2, and Z.ai's GLM-OCR models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. These three models",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/glm-5.2-fp8-nemotron-nano-12b-v2-glm-ocr-on-sagemaker-jumpstart/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-10-aws-amazon-gamelift-streams-now-offers-service-managed",
+      "date": "2026-08-10",
+      "name": "Amazon GameLift Streams Now Offers Service-managed Shader Caching",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon GameLift Streams now manages shader cache capture and distribution for your applications. You capture a shader cache from a stream session, and the service automatically makes it available for future sessions a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/Amazon-GameLift-Streams-Shader-Caching/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-10-aws-amazon-ec2-introduces-application-status-checks",
+      "date": "2026-08-10",
+      "name": "Amazon EC2 introduces application status checks",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon EC2 introduces application status checks, a new status check that helps customers detect and respond to application-level issues on their EC2 instances. With application status checks, EC2 monitors applications",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-application-status-checks"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-10-aws-amazon-opensearch-serverless-now-supports-up-to-10",
+      "date": "2026-08-10",
+      "name": "Amazon OpenSearch Serverless now supports up to 10,000 collections per collection group",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>The next generation of Amazon OpenSearch Serverless now supports up to 10,000 collections within a single collection group, increased from the previous limit of 1,500. Collection groups organize multiple collections a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-opensearch-serverless-supports-10000-collections-per-collection-group/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-10-aws-aws-elastic-disaster-recovery-now-preserves-uefi-b",
+      "date": "2026-08-10",
+      "name": "AWS Elastic Disaster Recovery now preserves UEFI boot mode for Linux servers",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Elastic Disaster Recovery (AWS DRS) now preserves UEFI boot mode when recovering Linux source servers that boot with UEFI firmware. Previously, DRS launched these Linux servers in legacy BIOS mode, which could req",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-drs-linux-uefi"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-10-dust-spa-poke-6184db2",
+      "date": "2026-08-10",
+      "name": "spa/poke/6184db2",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Backfill agent message consumption analytics (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/30244\">#30244</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6184db2"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-10-dust-spa-poke-492a625-fix-agent-delegation-server-regis",
+      "date": "2026-08-10",
+      "name": "spa/poke/492a625: Fix agent delegation server registration (#30294)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>Fix delegation server registration</li>\n</ul>\n<p>Assign a unique internal server ID and record the new auto-hidden server in the availability snapshot.</p>\n<p>Co-authored-by: Cursor <a href=\"mailto:cursoragent@c",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F492a625"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-10-dust-spa-poke-293cb2c",
+      "date": "2026-08-10",
+      "name": "spa/poke/293cb2c",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>feat(agents): run <a class=\"user-mention notranslate\" href=\"https://github.com/dust\">@dust</a> on Auto and lead Standard stream with Luna hi…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F293cb2c"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-10-dust-spa-poke-59b9b8c-front-polish-activation-get-start",
+      "date": "2026-08-10",
+      "name": "spa/poke/59b9b8c: [front] Polish activation get-started UX (#30273)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>\n<p>[front] refactor: post activation nudges directly instead of firing a webhook trigger</p>\n</li>\n<li>\n<p>[front] fix: update act-nudge-post tests after rebase</p>\n</li>\n</ul>\n<p>Expand ActivationNudgeContext ",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F59b9b8c"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-10-dust-spa-poke-11c78aa-add-runtime-agent-delegation-tool",
+      "date": "2026-08-10",
+      "name": "spa/poke/11c78aa: Add runtime agent delegation tool (#30281)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>Add runtime agent delegation tool</li>\n</ul>\n<p>Allow skills without a configured child agent to delegate through the existing run-agent lifecycle while preserving configured-child behavior.</p>\n<p>Co-authored-b",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F11c78aa"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-10-dust-spa-poke-3a0caa8-activation-seed-work-areas-in-nud",
+      "date": "2026-08-10",
+      "name": "spa/poke/3a0caa8: [Activation] seed work areas in nudges (#30231)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>[Activation] seed work areas in nudges</li>\n</ul>\n<p>Scope work areas to the active Pod and carry Poke-provided context into the activation run so first recommendations are grounded in the user’s actual responsi",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F3a0caa8"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-08-08-crewai-1-15-14",
       "date": "2026-08-08",
       "name": "1.15.14",
@@ -803,276 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-identity-center-accounts-optional/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-05-aws-amazon-aurora-serverless-now-scales-faster-to-supp",
-      "date": "2026-08-05",
-      "name": "Amazon Aurora serverless now scales faster to support agentic AI and other bursty workloads",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/aurora/serverless/\">Amazon Aurora serverless</a> now delivers higher initial capacity during scale-up events, reaching up to 12 ACUs within a second and continuing to scale up to 25",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aurora-serverless-instant-12-acu-scaling"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-05-dust-spa-poke-3741364",
-      "date": "2026-08-05",
-      "name": "spa/poke/3741364",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] fix: clarify user memory read behavior</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F3741364"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-05-dust-spa-poke-72035e8",
-      "date": "2026-08-05",
-      "name": "spa/poke/72035e8",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Admin governance for skills: Add warning if any editor will lose acce…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F72035e8"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-05-dust-spa-poke-46732a1-db-add-usereditedinput-to-agent-m",
-      "date": "2026-08-05",
-      "name": "spa/poke/46732a1: db: add userEditedInput to agent_mcp_actions (#26899)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>db: add userEditedInput to agent_mcp_actions</p>\n</li>\n<li>\n<p>db: add migration</p>\n</li>\n<li>\n<p>db: migration</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F46732a1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-05-dust-spa-poke-619be29",
-      "date": "2026-08-05",
-      "name": "spa/poke/619be29",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] fix: inherit message authorship in sub-agent runs (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/30024\">#30024</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F619be29"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-05-dust-spa-poke-97e6af8",
-      "date": "2026-08-05",
-      "name": "spa/poke/97e6af8",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Analytics: Add pod usage chart in agent analytics 3/3: pod usage char…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F97e6af8"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-05-dust-spa-poke-22d981d-sparkle-front-sidebar-section-tit",
-      "date": "2026-08-05",
-      "name": "spa/poke/22d981d: [sparkle,front] Sidebar section titles as list rows (#30026)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>[sparkle,front] Sidebar section titles as list rows, collapsible Conversations</li>\n</ul>\n<p>Section titles in the conversations sidebar used a one-off header row that<br />\ndidn't match the list items below the",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F22d981d"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-05-crewai-1-15-12",
-      "date": "2026-08-05",
-      "name": "1.15.12",
-      "vendor": "CrewAI",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Bump Flow canary on release</li>\n<li>Add URLReadTool for reading arbitrary URLs</li>\n<li>Add app metadata to platform action tools</li>\n<li>Unify scaffolding under <code",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.12"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-08-05-crewai-1-15-11",
-      "date": "2026-08-05",
-      "name": "1.15.11",
-      "vendor": "CrewAI",
-      "type": "launch",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Track interception-hook dispatches in telemetry</li>\n<li>Add project_id to link OSS usage to an enterprise account</li>\n<li>Surface AMP in AGENTS.md and detect coding ag",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.11"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-08-05-aws-aws-glue-data-catalog-now-supports-metadata-export",
-      "date": "2026-08-05",
-      "name": "AWS Glue Data Catalog now supports  metadata exports to S3 Tables (Preview)",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Glue Data Catalog is a centralized metadata repository that helps you discover and understand data, with semantic search and support for adding business context to datasets currently in preview. Today, we are addi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-data-catalog-s3-tables/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-04-aws-preview-announcement-re-introducing-forward-proxy-",
-      "date": "2026-08-04",
-      "name": "[Preview Announcement] Re-introducing Forward Proxy as AWS Network Firewall Functionality",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>You can now use your Network Firewall with all its existing filtering capabilities and features as an explicit forward proxy.<br /> <br /> On Nov 25, 2025, AWS introduced Network Firewall <i>proxy </i>in public previe",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-network-firewall-forward-proxy-preview/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-04-aws-amazon-connect-customer-now-lets-you-export-cases-",
-      "date": "2026-08-04",
-      "name": "Amazon Connect Customer now lets you export cases to CSV from the agent workspace",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect Customer now supports exporting cases to a CSV file directly from the agent workspace, making it easier to share case data with internal teams and external stakeholders such as vendors, legal teams, or ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-export-cases/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-04-aws-amazon-bedrock-launches-web-search-for-openai-gpt-",
-      "date": "2026-08-04",
-      "name": "Amazon Bedrock launches Web Search for OpenAI GPT models",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, we are announcing the general availability of Web Search on Amazon Bedrock, a built-in server side tool that performs web search entirely within AWS, enabling OpenAI models (GPT-5.4, GPT-5.5, and GPT-5.6 Sol/Te",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-web/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-04-aws-run-interactive-workloads-on-amazon-emr-on-ec2-wit",
-      "date": "2026-08-04",
-      "name": "Run interactive workloads on Amazon EMR on EC2 with Spark Connect",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon EMR on EC2 now supports interactive Apache Spark sessions with Spark Connect. Data engineers and data scientists can develop and debug Apache Spark applications interactively from managed notebooks in Amazon Sa",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-emr-ec2-spark-connect/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-04-aws-aws-security-hub-extended-adds-supply-chain-securi",
-      "date": "2026-08-04",
-      "name": "AWS Security Hub Extended adds supply chain security as its 10th category",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>The AWS Security Hub Extended plan now includes Supply Chain Security as its 10th security category, with Chainguard and Socket as the curated partners. As developers adopt open-source libraries at scale, security tea",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-security-hub-extended-adds-supply-chain-security"
         }
       ],
       "impact": 5,
