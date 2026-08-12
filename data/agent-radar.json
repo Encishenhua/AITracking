@@ -1,6 +1,186 @@
 {
   "items": [
     {
+      "id": "2026-08-12-crewai-1-15-15",
+      "date": "2026-08-12",
+      "name": "1.15.15",
+      "vendor": "CrewAI",
+      "type": "upgrade",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Report flow outcome, duration, and human-in-the-loop signals.</li>\n</ul>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Emit FlowStartedEvent when a boundary hook aborts the flow.</li>\n<li",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.15"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-08-11-aws-amazon-ec2-r8a-instances-are-now-available-in-cana",
+      "date": "2026-08-11",
+      "name": "Amazon EC2 R8a instances are now available in Canada (Central) region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon EC2 R8a instances are now available in&nbsp;Canada (Central)&nbsp;Region. These instances, feature 5th Gen AMD EPYC processors (formerly code named Turin) with a maximum frequency of 4.5 GHz, de",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8a-instances-canada-central/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-11-aws-amazon-bedrock-expands-iam-principal-cost-allocati",
+      "date": "2026-08-11",
+      "name": "Amazon Bedrock expands IAM principal cost allocation to the bedrock-mantle endpoint",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Bedrock is a fully managed service that provides secure, enterprise-grade access to high-performing foundation models from leading AI companies, enabling you to build and scale generative AI applications. Amazo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-expands-iam-principal-cost-allocation-bedrock-mantle/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-11-aws-locateanything-3b-qwen-agentworld-35b-a3b-and-qwen",
+      "date": "2026-08-11",
+      "name": "LocateAnything-3B, Qwen-AgentWorld-35B-A3B, and Qwen3.5-122B-A10B models now available on Amazon SageMaker JumpStart",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>NVIDIA's LocateAnything-3B, Qwen's Qwen-AgentWorld-35B-A3B, and Qwen's Qwen3.5-122B-A10B models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers.",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/locateAnything-3B-qwen-agentworld-35B-A3B-qwen3.5-122B-A10B-on-sagemaker-jumpstart/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-11-aws-nvidia-nemotron-3-5-lightning-model-is-now-availab",
+      "date": "2026-08-11",
+      "name": "NVIDIA Nemotron 3.5 Lightning model is now available on Amazon SageMaker JumpStart",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>NVIDIA's Nemotron 3.5 Lightning is now available on Amazon SageMaker JumpStart, giving AWS customers access to the fastest open model in its class for persistent agent workloads and rapid task execution.</p> \n<p>Nemot",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/nvidia-nemotron-3.5-lightning-on-sagemaker-jumpstart/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-11-aws-aws-glue-adds-one-click-access-to-sagemaker-unifie",
+      "date": "2026-08-11",
+      "name": "AWS Glue adds one-click access to SageMaker Unified Studio from the AWS console",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Glue now provides direct access to Amazon SageMaker Unified Studio, helping data engineers and analysts move from viewing the catalog in the Glue console to querying their data, running data quality checks, and bu",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/smus-glue-access"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-11-aws-amazon-connect-customer-launches-performance-dashb",
+      "date": "2026-08-11",
+      "name": "Amazon Connect Customer launches performance dashboard for Cases",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect Customer now provides a performance dashboard for cases that helps managers monitor case volume, resolution trends, and performance against service level agreement (SLA) targets. Managers can compare cu",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-cases-dashboard/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-11-aws-amazon-rds-for-mariadb-now-supports-mariadb-12-3",
+      "date": "2026-08-11",
+      "name": "Amazon RDS for MariaDB now supports MariaDB 12.3",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon RDS for MariaDB supports MariaDB major version 12.3, the latest Long-Term Support release from the MariaDB community. This release supports MariaDB 12.3.2 minor version. &nbsp;<br /> <br /> Mari",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-mariadb-1232-available/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-11-dust-spa-poke-93722a6",
+      "date": "2026-08-11",
+      "name": "spa/poke/93722a6",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] fix: add missing step to scrub workspace (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/30317\">#30317</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F93722a6"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-11-dust-spa-poke-1cd4b9e-improve-activation-recommendation",
+      "date": "2026-08-11",
+      "name": "spa/poke/1cd4b9e: Improve activation recommendation source labels and icons (#30298)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>Improve activation recommendation source labels and icons</li>\n</ul>\n<p>Guide create_recommendation toward evidence-based relevance lines and icons so Get Started cards explain why a suggestion fits the user ins",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F1cd4b9e"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-08-10-openai-increased-error-rates",
       "date": "2026-08-10",
       "name": "Increased error rates",
@@ -266,6 +446,24 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-10-aws-aws-identity-and-access-management-streamlines-ass",
+      "date": "2026-08-10",
+      "name": "AWS Identity and Access Management streamlines assignment of IAM roles to workforce users with account access manager",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Identity and Access Management (IAM) launched account access manager, a feature that streamlines assignment of IAM roles to workforce users. Administrators use account access manager to assign the IAM roles in the",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-aam/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -878,204 +1076,6 @@
         }
       ],
       "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-06-dust-spa-poke-220d760-run-fast-pod-function-invocations",
-      "date": "2026-08-06",
-      "name": "spa/poke/220d760: Run fast Pod function invocations without the invocation workflow",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>A fast function only reads and writes pod state, so its invocation has nothing to survive: it<br />\ncannot block on a tool approval, and it settles in well under a second. Routing it through a<br />\nTemporal workflow ",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F220d760"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-06-dust-spa-poke-5c3db9a-describe-the-pod-mount-instead-of",
-      "date": "2026-08-06",
-      "name": "spa/poke/5c3db9a: Describe the Pod mount instead of prescribing where to write",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Per review: telling the agent to read from /files/pod and write to<br />\n/files/conversation unless asked otherwise is too directive. State what each<br />\nmount is for and let the agent decide.</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5c3db9a"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-06-aws-aws-waf-now-supports-a-salt-security-managed-rule-",
-      "date": "2026-08-06",
-      "name": "AWS WAF now supports a Salt Security managed rule group for API and MCP threat detection",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS WAF now supports the Salt Security managed rule group, available through AWS Marketplace: <a href=\"https://aws.amazon.com/marketplace/pp/prodview-yaljl5tu6bkye\">Salt Managed Rules for AWS WAF - AI Agent &amp; API ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-waf-salt-security-managed-rules/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-06-aws-amazon-opensearch-ui-now-supports-network-access-c",
-      "date": "2026-08-06",
-      "name": "Amazon OpenSearch UI now supports Network Access Control",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon OpenSearch Service now supports network access controls for OpenSearch UI applications. OpenSearch UI is the fully managed web service for search, analytics, and unified observability across multiple AWS data s",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/opensearch-ui-network-access-control"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-06-aws-amazon-connect-customer-adds-one-click-drill-down-",
-      "date": "2026-08-06",
-      "name": "Amazon Connect Customer adds one-click drill-down on real-time metrics dashboards",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Connect Customer dashboards now support drilling down into real-time queue and routing profile performance. With a single click, supervisors can drill from a summary view into pre-filtered routing profile, queu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-drill-down-metrics/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-05-aws-aws-lambda-announces-scalable-network-bandwidth-up",
-      "date": "2026-08-05",
-      "name": "AWS Lambda announces scalable network bandwidth up to 3,000 Mbps for functions outside a VPC",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/lambda/\">AWS Lambda</a> now supports scalable network bandwidth for Lambda functions, enabling faster data transfer to and from your execution environment for latency-sensitive workload",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-network-bandwidth/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-05-aws-amazon-keyspaces-for-apache-cassandra-is-now-avail",
-      "date": "2026-08-05",
-      "name": "Amazon Keyspaces (for Apache Cassandra) is now available in the Canada West (Calgary) Region (ca-west-1)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/keyspaces/\">Amazon Keyspaces (for Apache Cassandra)</a> is now available in the Canada West (Calgary) Region (ca-west-1), allowing customers in the Canada West Region to build Cassandra",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-keyspaces-apache-cassandra-canada-west/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-05-aws-aws-glue-data-quality-makes-etl-anomaly-detection-",
-      "date": "2026-08-05",
-      "name": "AWS Glue Data Quality makes ETL anomaly detection free and improves anomaly predictions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Glue Data Quality now offers improved anomaly detection with a new observation mode that reduces detection of false anomalies and removes pricing for anomaly detection in ETL jobs.&nbsp;Customers using notebook-ba",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-data-quality-anomaly-detection-free"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-05-aws-aws-marketplace-adds-ai-insights-so-buyers-can-und",
-      "date": "2026-08-05",
-      "name": "AWS Marketplace adds AI Insights so buyers can understand pricing before they buy",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>You can now understand how a product's pricing works before you buy it. Available in the pricing section of the listing in AWS Marketplace, AI Insights explains each product's pricing in plain language: what a pricing",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace-ai-insights/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-05-aws-amazon-dynamodb-now-supports-real-time-vector-sear",
-      "date": "2026-08-05",
-      "name": "Amazon DynamoDB now supports real-time vector search",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the general availability of vector search for Amazon DynamoDB, a new feature to index and search vectors in real time. As vector datasets grow into the billions or trillions, vector search at scal",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-dynamodb-vector-search"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-05-aws-aws-iam-identity-center-makes-management-of-aws-ac",
-      "date": "2026-08-05",
-      "name": "AWS IAM Identity Center makes management of AWS account access optional for new organization instances",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS IAM Identity Center now lets you decide whether to enable management of AWS account access when you create a new organization instance. This allows you to use IAM Identity Center to manage access to AWS applicatio",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-identity-center-accounts-optional/"
-        }
-      ],
-      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
