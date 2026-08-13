@@ -19,6 +19,132 @@
       "tags": []
     },
     {
+      "id": "2026-08-12-openai-from-assistance-to-execution-how-enterprises-put-a",
+      "date": "2026-08-12",
+      "name": "From assistance to execution: How enterprises put AI to work",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/how-enterprises-put-ai-to-work"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-12-aws-aws-global-view-now-offers-an-interactive-map-view",
+      "date": "2026-08-12",
+      "name": "AWS Global View now offers an interactive map view for AWS Regions and AWS Local Zones",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the addition of an interactive map view to AWS Global View in the AWS Management Console, providing a visual way to explore AWS Global Infrastructure.</p> \n<p>Previously, customers had to scan thr",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-global-view-map-view/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-12-aws-aws-iam-now-provides-role-manager-to-set-up-iam-ro",
+      "date": "2026-08-12",
+      "name": "AWS IAM now provides role manager to set up IAM roles automatically",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the general availability of role manager, a capability in AWS Identity and Access Management (IAM) that automatically sets up the IAM roles your AWS services need. When you set up a supported serv",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-role-manager"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-12-aws-amazon-quick-adds-deny-by-default-for-custom-permi",
+      "date": "2026-08-12",
+      "name": "Amazon Quick adds deny by default for custom permissions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Quick custom permissions now include deny by default, a governance setting that automatically restricts new AI capabilities before they reach users.<br /> <br /> Previously, new AI capabilities were available t",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/whats-new/2026/08/amazon-quick-deny-by-default-permissions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-12-aws-amazon-connect-customer-supports-manual-assignment",
+      "date": "2026-08-12",
+      "name": "Amazon Connect Customer supports manual assignment of queued agent-first callbacks",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Connect Customer now lets agents view and self-assign queued agent-first callbacks alongside emails, tasks, and chats. This gives agents the option to prioritize work that needs immediate follow-up or for which",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-agent-callbacks/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-12-aws-amazon-quick-now-supports-data-loss-prevention-wit",
+      "date": "2026-08-12",
+      "name": "Amazon Quick now supports data loss prevention with Microsoft Purview",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Quick now integrates with Microsoft Purview to enforce data loss prevention (DLP) policies across your Quick environment. Organizations need to ensure that sensitive files aren't shared outside approved channel",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/whats-new/2026/08/amazon-quick-dlp-purview/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-12-dust-spa-poke-406ed48",
+      "date": "2026-08-12",
+      "name": "spa/poke/406ed48",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] Load workspace permissions as a resourceId-aware set in the A…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F406ed48"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-08-11-aws-amazon-ec2-r8a-instances-are-now-available-in-cana",
       "date": "2026-08-11",
       "name": "Amazon EC2 R8a instances are now available in Canada (Central) region",
@@ -176,6 +302,24 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-11-aws-amazon-quick-agentic-ai-capabilities-are-now-avail",
+      "date": "2026-08-11",
+      "name": "Amazon Quick agentic AI capabilities are now available in AWS GovCloud (US-West)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces that Amazon Quick's agentic AI capabilities are now available in AWS GovCloud (US-West), bringing an agentic AI teammate to government and regulated-industry teams within an isolated, FedRAMP Clas",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-aws-govcloud-us-west/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -461,6 +605,24 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-aam/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-10-aws-aws-marketplace-now-supports-category-based-notifi",
+      "date": "2026-08-10",
+      "name": "AWS Marketplace now supports category-based notification subscriptions and multi-channel delivery for buyers",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Marketplace buyers can now configure category-based notifications and multi-channel delivery through AWS User Notifications. Previously, buyer email notifications were limited to the AWS account root email with no",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace-managed-buyer-notifications/"
         }
       ],
       "impact": 5,
@@ -914,168 +1076,6 @@
         }
       ],
       "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-06-aws-amazon-workspaces-applications-now-publishes-enhan",
-      "date": "2026-08-06",
-      "name": "Amazon WorkSpaces Applications now publishes enhanced observability metrics",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon WorkSpaces Applications now publishes additional performance and session health metrics to Amazon CloudWatch, enabling IT administrators to gain deeper visibility into their application streaming workloads. The",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-workspaces-applications-observability-metrics"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-06-aws-amazon-msk-now-delivers-kafka-authorizer-logs-to-c",
-      "date": "2026-08-06",
-      "name": "Amazon MSK now delivers Kafka Authorizer Logs to customers",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/msk/\">Amazon Managed Streaming for Apache Kafka (MSK)</a> now supports Authorizer Log Delivery for Provisioned clusters, including both Standard and Express brokers, at no additional co",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-msk-kafka-authorizer-logs/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-06-aws-aws-backup-for-amazon-s3-now-supports-direct-acces",
-      "date": "2026-08-06",
-      "name": "AWS Backup for Amazon S3 now supports direct access to backup data",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Backup for Amazon S3 now supports creating S3 Access Points, providing immediate read-only access to backup data using standard S3 APIs without initiating a restore. This enables targeted file recovery, data valid",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-backup-amazon-s3-direct-access/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-06-aws-amazon-ses-now-helps-identify-automated-open-and-c",
-      "date": "2026-08-06",
-      "name": "Amazon SES now helps identify automated open and click events in event notifications",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Simple Email Service (SES) now helps you identify automated email interactions. Open and Click event notifications now include an isBotEvent field that indicates whether the event was likely triggered by an aut",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ses-automated-email-interactions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-06-aws-aws-backup-extends-logically-air-gapped-vault-supp",
-      "date": "2026-08-06",
-      "name": "AWS Backup extends logically air-gapped vault support for Amazon Neptune to three additional AWS Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Backup logically air-gapped vault support for Amazon Neptune is now available in three additional AWS Regions: Asia Pacific (Melbourne), Europe (Spain), and Europe (Zurich).</p> \n<p>With this expansion, you can st",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-backup-logically-air-gapped-vault-neptune-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-06-aws-amazon-quick-supports-multi-dataset-analytical-cap",
-      "date": "2026-08-06",
-      "name": "Amazon Quick supports multi-dataset analytical capabiity",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Today, Amazon Quick announces supporting multi-dataset topics, enabling users to model relationships across multiple datasets in a single topic and use that model to build dashboards and answer questions in natural la",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-06-aws-announcing-temporal-policies-and-rate-limiting-in-",
-      "date": "2026-08-06",
-      "name": "Announcing temporal policies and rate limiting in Amazon Bedrock AgentCore",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock AgentCore announces two new controls: temporal policies for stateful agent authorization and rate limiting for AI traffic.</p> \n<p>Temporal policies let you define stateful authorization rules that eval",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/temporal-policies-agentcore/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-06-aws-amazon-ec2-m8g-instances-now-available-in-addition",
-      "date": "2026-08-06",
-      "name": "Amazon EC2 M8g instances now available in additional regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M8g instances are available in AWS Asia Pacific (Taipei), and AWS Mexico (Central) regions. These instances are powered by AWS Graviton4 processors and deliver",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-m8g-instances-additional-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-06-dust-spa-poke-551ef00-record-a-pod-function-as-durable-",
-      "date": "2026-08-06",
-      "name": "spa/poke/551ef00: Record a Pod function as durable when it calls a Dust tool as fast",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>A fast function is published on the promise that it does not call Dust tools, and the refusal that<br />\nenforces it is also the only evidence the promise was wrong. Today that evidence goes nowhere: the<br />\ninvocat",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F551ef00"
-        }
-      ],
-      "impact": 3,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
