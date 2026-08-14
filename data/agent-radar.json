@@ -1,6 +1,294 @@
 {
   "items": [
     {
+      "id": "2026-08-13-openai-the-builder-s-guide-to-gpt-5-6",
+      "date": "2026-08-13",
+      "name": "The builder’s guide to GPT‑5.6",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/builders-guide-to-gpt-5-6"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-13-openai-openai-appoints-dali-rajic-as-chief-revenue-office",
+      "date": "2026-08-13",
+      "name": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/dali-rajic-chief-revenue-officer"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-13-openai-error-while-creating-custom-rbac-roles-for-enterpr",
+      "date": "2026-08-13",
+      "name": "Error while creating custom RBAC roles for Enterprise users",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01KZXPZD4KHMQQFF09PSNNEZT8"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-13-aws-aws-client-vpn-now-supports-cli-administration-con",
+      "date": "2026-08-13",
+      "name": "AWS Client VPN now supports CLI, administration controls, and faster connections",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Client VPN introduces a rebuilt AWS VPN Client v6.0.x which offers new features like command-line interface (CLI) support, enterprise administrative controls, and faster connection establishment time, making it ea",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-client-vpn-cli/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-13-aws-claude-opus-5-is-now-available-in-aws-govcloud-us",
+      "date": "2026-08-13",
+      "name": "Claude Opus 5 is now available in AWS GovCloud (US)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS GovCloud (US) now offers Claude Opus 5 — the most advanced Opus model yet, and compatible with zero data retention (ZDR) — bringing a step-change in coding, long-running agents, and complex professional work to te",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/claude-opus-5-aws-govcloud/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-13-aws-amazon-quick-microsoft-365-extensions-are-now-gene",
+      "date": "2026-08-13",
+      "name": "Amazon Quick Microsoft 365 extensions are now generally available",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, Amazon Quick announces the general availability of Microsoft 365 extensions for Excel, PowerPoint, Word, and Outlook. These extensions enable Quick to perform tasks directly within users' M365 environments, usi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/amazon-quick-microsoft-365-extensions-generally-available"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-13-aws-daybreak-red-and-daybreak-blue-from-openai-are-now",
+      "date": "2026-08-13",
+      "name": "Daybreak Red and Daybreak Blue from OpenAI are now available to eligible customers on Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Security teams can now access Daybreak Red and Daybreak Blue from OpenAI on Amazon Bedrock. Both are part of Daybreak, the cyber defense initiative from OpenAI that gives defenders governed access to frontier AI for c",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/openai-daybreak-red-and-blue-on-amazon-bedrock/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-13-aws-aws-certificate-manager-supports-switching-from-e-",
+      "date": "2026-08-13",
+      "name": "AWS Certificate Manager supports switching from e-mail to DNS validation",
+      "vendor": "AWS",
+      "type": "deprecation",
+      "summary": "<p>AWS Certificate Manager (ACM) now enables you to change the domain validation method on your existing ACM issued public TLS certificates from e-mail to DNS, without reissuing the certificate or changing its existing A",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/AWS-Certificate-Manager-Email-DNS-Switch"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-13-aws-amazon-s3-adds-additional-policy-details-to-access",
+      "date": "2026-08-13",
+      "name": "Amazon S3 adds additional policy details to access denied error messages",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon S3 now includes the specific AWS Identity and Access Management (IAM) and AWS Organizations policy Amazon Resource Name (ARN) in HTTP 403 Access Denied error messages for same-account and same-organization requ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/s3-additional-policy-details-access-denied-error-messages/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-13-aws-aws-clean-rooms-supports-minimum-aggregation-thres",
+      "date": "2026-08-13",
+      "name": "AWS Clean Rooms supports minimum aggregation thresholds in custom analysis rules",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Clean Rooms now supports <a href=\"https://docs.aws.amazon.com/clean-rooms/latest/userguide/analysis-rules-custom.html\" rel=\"noopener noreferrer\" target=\"_blank\">minimum aggregation thresholds for the Custom analys",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-clean-rooms-minimum-aggregation-custom-analysis-rules"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-13-dust-spa-poke-741e0fb-activation-slack-auto-responder-s",
+      "date": "2026-08-13",
+      "name": "spa/poke/741e0fb: [Activation] Slack auto-responder skip thread replies option (#30465)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>[Activation] Slack auto-responder skip thread replies option</li>\n</ul>\n<p>Adds a configurable option for the Slack auto-responder that lets admins<br />\nchoose whether to respond only to top-level channel posts",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F741e0fb"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-13-dust-spa-poke-92e0b9a",
+      "date": "2026-08-13",
+      "name": "spa/poke/92e0b9a",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Analytics: give the <a class=\"user-mention notranslate\" href=\"https://github.com/analyst\">@analyst</a> agent to managers (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/30495\">#30495</a",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F92e0b9a"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-13-dust-spa-poke-14b340d",
+      "date": "2026-08-13",
+      "name": "spa/poke/14b340d",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] chore: cleanup agent qos switch (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/30421\">#30421</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F14b340d"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-13-dust-spa-poke-3e654ae",
+      "date": "2026-08-13",
+      "name": "spa/poke/3e654ae",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Optimize latest agent configuration lookup</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F3e654ae"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-13-dust-spa-poke-bf9c83d",
+      "date": "2026-08-13",
+      "name": "spa/poke/bf9c83d",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Admin governance: shadow compare skill permissions (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/30462\">#30462</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fbf9c83d"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-13-dust-spa-poke-b02f2e3",
+      "date": "2026-08-13",
+      "name": "spa/poke/b02f2e3",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[Activation] Batch evaluation when a workspace exceeds the ES user ca…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fb02f2e3"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-08-12-crewai-1-15-15",
       "date": "2026-08-12",
       "name": "1.15.15",
@@ -140,6 +428,60 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-12-aws-amazon-quick-now-supports-approval-policies-for-sh",
+      "date": "2026-08-12",
+      "name": "Amazon Quick now supports approval policies for sharing",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Quick now offers approval policies, giving administrators governance controls over how assets are shared within their organization. With approval policies, administrators can require designated approvers to rev",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/whats-new/2026/08/amazon-quick-approval-policies-sharing/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-12-aws-amazon-quick-now-supports-per-user-resource-limits",
+      "date": "2026-08-12",
+      "name": "Amazon Quick now supports per-user resource limits",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Quick now enables administrators to set per-user limits on index storage and agent hours, giving them direct control over subscription costs. With limits management, administrators can create limit profiles tha",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/whats-new/2026/08/amazon-quick-per-user-resource-limits/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-12-aws-amazon-nova-multimodal-embeddings-is-now-available",
+      "date": "2026-08-12",
+      "name": "Amazon Nova Multimodal Embeddings is now available in AWS GovCloud (US-West)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>We are excited to announce the general availability of Amazon Nova Multimodal Embeddings, a state-of-the-art embedding model for agentic RAG and semantic search, in AWS GovCloud (US-West). It is the first unified embe",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-nova-mme-govcloud/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -731,348 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcore-memory-policy-harness-govcloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-07-aws-amazon-gamelift-servers-now-supports-21-new-ec2-in",
-      "date": "2026-08-07",
-      "name": "Amazon GameLift Servers now supports 21 new EC2 instance types",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon GameLift Servers now supports 21 additional Amazon EC2 instance types for managed EC2 fleets and managed container fleets. Amazon GameLift Servers is a fully managed service that enables game developers and stu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/gamelift-ec2-instance-expansion/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-07-aws-amazon-opensearch-service-announces-additional-upg",
-      "date": "2026-08-07",
-      "name": "Amazon OpenSearch Service announces additional upgrade runway for existing domains and support dates for additional versions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>In November 2024, Amazon OpenSearch Service <a href=\"https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-service-support-engine-versions/\">announced Extended Support for legacy Elasticsearch and OpenS",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-opensearch-service-additional-upgrade-runway-support-dates"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-07-aws-amazon-ses-now-helps-identify-automated-open-and-c",
-      "date": "2026-08-07",
-      "name": "Amazon SES now helps identify automated open and click events in event notifications",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Simple Email Service (SES) now helps you identify automated email interactions. Open and Click event notifications now include an isBotEvent field that indicates whether the event was likely triggered by an aut",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ses-automated-email-interactions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-07-aws-aws-parallel-computing-service-is-now-in-scope-for",
-      "date": "2026-08-07",
-      "name": "AWS Parallel Computing Service is now in scope for FedRAMP, SOC, ISO, CSA STAR, and PCI",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Parallel Computing Service (PCS), a managed service that simplifies running and scaling high performance computing (HPC) workloads on AWS using Slurm, has expanded its security and compliance coverage. Federal age",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-pcs-august/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-07-dust-spa-poke-3505bad",
-      "date": "2026-08-07",
-      "name": "spa/poke/3505bad",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Admin governance: Allow to filter by role in admin people page (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/30162\">#30162</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F3505bad"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-07-dust-spa-poke-025e136",
-      "date": "2026-08-07",
-      "name": "spa/poke/025e136",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>feat(sandbox): shared env vars UI for workspace and pod scopes (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/29349\">#29349</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F025e136"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-07-dust-spa-poke-9f0ee03",
-      "date": "2026-08-07",
-      "name": "spa/poke/9f0ee03",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] enh: move agent and skill actions to sidebar (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/30070\">#30070</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9f0ee03"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-07-dust-spa-poke-7d4d8ff-activation-add-work-areas-to-for-",
-      "date": "2026-08-07",
-      "name": "spa/poke/7d4d8ff: [Activation] add work areas to For you page (#30222)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>[Activation] add work areas to For you page</li>\n</ul>\n<p>Surface agent-discovered work areas alongside activation ideas without reintroducing the prior Learning Space implementation.</p>\n<p>Co-authored-by: Curs",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F7d4d8ff"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-07-dust-spa-poke-6fb5ee0",
-      "date": "2026-08-07",
-      "name": "spa/poke/6fb5ee0",
-      "vendor": "Dust",
-      "type": "pricing",
-      "summary": "<p>Pricing: clean typing around poolLimitAwuCredits (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/30184\">#30184</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6fb5ee0"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-07-dust-spa-poke-2f7a174",
-      "date": "2026-08-07",
-      "name": "spa/poke/2f7a174",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Admin governance: Add group picker to user side panel for managers (#…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2f7a174"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-07-aws-amazon-vpc-ipam-now-supports-bgp-route-protection-",
-      "date": "2026-08-07",
-      "name": "Amazon VPC IPAM now supports BGP route protection monitoring and delegated RPKI for BYOIP prefixes",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Virtual Private Cloud (VPC) IP Address Manager (IPAM) now supports BGP route protection monitoring and delegated Resource Public Key Infrastructure (RPKI) management for Bring Your Own IP (BYOIP) prefixes. Netw",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-vpc-ipam-bgp-rpki-byoip/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-06-aws-amazon-ecs-now-supports-fractional-gpu-scheduling-",
-      "date": "2026-08-06",
-      "name": "Amazon ECS now supports fractional GPU scheduling with Amazon EC2 G6f instances",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p><a href=\"https://aws.amazon.com/ecs/\" target=\"_blank\">Amazon Elastic Container Service</a> (Amazon ECS) now supports fractional GPU scheduling with Amazon EC2 G6f instances, enabling you to run your workloads on GPU p",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecs-fractional-gpu/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-06-aws-amazon-ec2-g7-instances-are-now-available-in-the-a",
-      "date": "2026-08-06",
-      "name": "Amazon EC2 G7 instances are now available in the AWS Europe (Spain) Region",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Elastic Compute Cloud (Amazon EC2) G7 instances powered by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs are now available in Europe (Spain) Region. G7 instances deliver up to 4.6x AI inference performance ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-g7-available-spain"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-06-aws-agentcore-runtime-instances-are-now-generally-avai",
-      "date": "2026-08-06",
-      "name": "AgentCore runtime instances are now generally available",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS announces runtime instances, a new feature in Amazon Bedrock AgentCore that lets you run agents on your own Amazon EC2 instances without managing infrastructure. AgentCore runtime provides purpose-built inf",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-bedrock-agentcore-runtime-instances-generally-available/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-06-aws-amazon-elasticache-now-supports-graviton4-based-m8",
-      "date": "2026-08-06",
-      "name": "Amazon ElastiCache now supports Graviton4-based M8g, R8g, and C8gn nodes",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon ElastiCache now supports Graviton4-based M8g, R8g, and C8gn node families for Valkey and Memcached. Graviton4-based nodes provide up to 47% higher throughput, up to 43% lower P99 latency, and up to 31% better p",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-elasticache-graviton4-m8g-r8g-c8gn/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-06-aws-aws-glue-schema-registry-is-now-available-in-ten-m",
-      "date": "2026-08-06",
-      "name": "AWS Glue Schema Registry is now available in ten more AWS regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>You can now use the <a href=\"https://docs.aws.amazon.com/glue/latest/dg/schema-registry.html\">AWS Glue Schema Registry</a>, a serverless and free feature of<a href=\"https://aws.amazon.com/glue/\"> AWS Glue</a>, in the ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-gsr-10-more-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-06-aws-aws-transform-for-migrations-automates-post-launch",
-      "date": "2026-08-06",
-      "name": "AWS Transform for migrations automates post-launch actions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Transform now automates the configuration and execution of post-launch actions through the migration workflow. Define actions at the account level and apply them automatically to each source server across your tar",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-transform-for-migrations-automates-post-launch-actions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-06-aws-aws-security-agent-now-supports-email-based-mfa-fo",
-      "date": "2026-08-06",
-      "name": "AWS Security Agent now supports email-based MFA for penetration testing",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Security Agent (now part of <a href=\"http://aws.amazon.com/continuum?refid=77f1fbea-4ad5-4c1d-b16e-e5634ca5086e\">AWS Continuum</a>) now enables penetration testing of applications that use email-based multi-factor",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-security-agent-mfa/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-06-aws-amazon-workspaces-now-publishes-enhanced-observabi",
-      "date": "2026-08-06",
-      "name": "Amazon WorkSpaces now publishes enhanced observability metrics",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon WorkSpaces now publishes additional performance and session health metrics to Amazon CloudWatch, enabling IT administrators to gain deeper visibility into their virtual desktop workloads. These new metrics span",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-workspaces-observability-metrics"
         }
       ],
       "impact": 5,
