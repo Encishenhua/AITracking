@@ -1,6 +1,114 @@
 {
   "items": [
     {
+      "id": "2026-08-14-openai-unexpected-gpt-5-6-terra-responses",
+      "date": "2026-08-14",
+      "name": "Unexpected GPT-5.6 Terra responses",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Identified</b><br /><br />We are investigating an issue affecting some customers using GPT-5.6 Terra. Affected requests may intermittently return incomplete or malformed responses, or include unexpected conten",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M015X5NF9D6C4MYR6NGR8HAR"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-14-aws-amazon-rds-for-oracle-now-supports-oracle-applicat",
+      "date": "2026-08-14",
+      "name": "Amazon RDS for Oracle now supports Oracle Application Express (APEX) version 26.1",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/oracle/\">Amazon Relational Database Service (Amazon RDS) for Oracle</a> now supports Oracle Application Express (APEX) version 26.1. Amazon RDS for Oracle is a managed database serv",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-oracle-apex-26-1/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-14-aws-amazon-ses-click-tracking-now-supports-custom-url-",
+      "date": "2026-08-14",
+      "name": "Amazon SES click tracking now supports custom URL paths for mobile app deep linking",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/ses/\">Amazon Simple Email Service (SES)</a>&nbsp;now makes it easier to support mobile deep linking with the new ses:custom-path HTML attribute. When you add this attribute to an &lt;a&",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ses-supports-customurl-deeplinking"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-14-aws-aws-billing-and-cost-management-introduces-managed",
+      "date": "2026-08-14",
+      "name": "AWS Billing and Cost Management introduces Managed Dashboards",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Billing and Cost Management (BCM) Dashboards now include Managed Dashboards. These are a collection of preconfigured and read-only dashboards located in your dashboard list. They deliver actionable cost insights w",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-billing-and-cost-management-managed-dashboards/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-14-dust-spa-poke-72bcb9b-ungate-slack-auto-respond-without",
+      "date": "2026-08-14",
+      "name": "spa/poke/72bcb9b: Ungate Slack auto-respond without mention for all workspaces. (#30588)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>Admins can enable channel-wide auto-respond in agent Slack settings without the slack_enhanced_default_agent feature flag.</p>\n<p>Co-authored-by: Cursor <a href=\"mailto:cursoragent@cursor.com\">cursoragent@cursor.com</",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F72bcb9b"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-14-dust-spa-poke-fa7d0ad",
+      "date": "2026-08-14",
+      "name": "spa/poke/fa7d0ad",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>feat(models): unify model tier vocabulary and gate streams on their t…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Ffa7d0ad"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-08-13-openai-the-builder-s-guide-to-gpt-5-6",
       "date": "2026-08-13",
       "name": "The builder’s guide to GPT‑5.6",
@@ -284,6 +392,24 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-13-aws-amazon-redshift-adds-rg-large-and-rg-12xlarge-inst",
+      "date": "2026-08-13",
+      "name": "Amazon Redshift adds rg.large and rg.12xlarge instance sizes in AWS GovCloud (US) Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Redshift now offers rg.large and rg.12xlarge instance sizes for RG instances in the AWS GovCloud (US-West) and AWS GovCloud (US-East) Regions. RG instances deliver better performance, running data warehouse and",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-redshift-adds-rg-large-12xlarge-aws-govcloud-regions/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -947,132 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-aam/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-10-aws-aws-marketplace-now-supports-category-based-notifi",
-      "date": "2026-08-10",
-      "name": "AWS Marketplace now supports category-based notification subscriptions and multi-channel delivery for buyers",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Marketplace buyers can now configure category-based notifications and multi-channel delivery through AWS User Notifications. Previously, buyer email notifications were limited to the AWS account root email with no",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace-managed-buyer-notifications/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-08-crewai-1-15-14",
-      "date": "2026-08-08",
-      "name": "1.15.14",
-      "vendor": "CrewAI",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Split runtime context from coding agent and add project ID</li>\n</ul>\n<h3>Documentation</h3>\n<ul>\n<li>Update snapshot and changelog for v1.15.13</li>\n</ul>\n<h2>Contribut",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.14"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-08-07-aws-amazon-ec2-r8i-and-r8i-flex-instances-are-now-avai",
-      "date": "2026-08-07",
-      "name": "Amazon EC2 R8i and R8i-Flex instances are now available in Europe (Milan) region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8i and R8i-flex instances are available in the Europe (Milan) region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, de",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-r8i-flex/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-07-aws-amazon-timestream-for-influxdb-now-supports-backup",
-      "date": "2026-08-07",
-      "name": "Amazon Timestream for InfluxDB now supports backup and restore",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Timestream for InfluxDB now lets you create and manage your own backups and restore your data on demand. You can trigger one-time, on-demand backups, schedule automated recurring backups at the frequency and re",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/timestream-influxdb-backup-restore/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-07-aws-amazon-cognito-now-available-as-a-skill-in-the-age",
-      "date": "2026-08-07",
-      "name": "Amazon Cognito now available as a skill in the Agent Toolkit for AWS",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Cognito is now available as a core skill (aws-auth) in the <a href=\"https://aws.amazon.com/products/developer-tools/agent-toolkit-for-aws/\">Agent Toolkit for AWS</a>. AI coding agents using the toolkit can now ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-auth-agent-skill/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-07-aws-aws-iam-identity-center-supports-one-click-multi-r",
-      "date": "2026-08-07",
-      "name": "AWS IAM Identity Center supports one-click multi-Region option for new organization instances",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS IAM Identity Center now makes it easier to enable multi-Region support when creating a new organization instance. Previously, enabling multi-Region support required multiple steps including creating a customer man",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-identity-center-supports-one-click-multi-region-option-new-organization-instances"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-07-aws-amazon-bedrock-agentcore-adds-memory-policy-and-ha",
-      "date": "2026-08-07",
-      "name": "Amazon Bedrock AgentCore adds memory, policy, and harness in AWS GovCloud (US-West)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, Amazon Bedrock AgentCore introduces new capabilities in AWS GovCloud (US-West). AgentCore is the platform to build, connect, and optimize agents. With these capabilities, teams operating in regulated environmen",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcore-memory-policy-harness-govcloud/"
         }
       ],
       "impact": 5,
