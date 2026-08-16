@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "2026-08-15-dust-spa-poke-961d098-front-feat-change-pod-editor-requ",
+      "date": "2026-08-15",
+      "name": "spa/poke/961d098: [front] feat: change pod_editor_required to pod_member_required (#30583)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>\n<p>[dsbx] feat: accept the pod_member_required user identity policy in the functions-runner</p>\n</li>\n<li>\n<p>[front] feat: pod_member_required identity policy for Pod Functions</p>\n</li>\n</ul>\n<p>New Pod Funct",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F961d098"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-15-dust-spa-app-961d098-front-feat-change-pod-editor-requi",
+      "date": "2026-08-15",
+      "name": "spa/app/961d098: [front] feat: change pod_editor_required to pod_member_required (#30583)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>\n<p>[dsbx] feat: accept the pod_member_required user identity policy in the functions-runner</p>\n</li>\n<li>\n<p>[front] feat: pod_member_required identity policy for Pod Functions</p>\n</li>\n</ul>\n<p>New Pod Funct",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F961d098"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-08-14-openai-unexpected-gpt-5-6-terra-responses",
       "date": "2026-08-14",
       "name": "Unexpected GPT-5.6 Terra responses",
@@ -1040,42 +1076,6 @@
         }
       ],
       "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-10-dust-spa-poke-3a0caa8-activation-seed-work-areas-in-nud",
-      "date": "2026-08-10",
-      "name": "spa/poke/3a0caa8: [Activation] seed work areas in nudges (#30231)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>[Activation] seed work areas in nudges</li>\n</ul>\n<p>Scope work areas to the active Pod and carry Poke-provided context into the activation run so first recommendations are grounded in the user’s actual responsi",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F3a0caa8"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-10-aws-aws-identity-and-access-management-streamlines-ass",
-      "date": "2026-08-10",
-      "name": "AWS Identity and Access Management streamlines assignment of IAM roles to workforce users with account access manager",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Identity and Access Management (IAM) launched account access manager, a feature that streamlines assignment of IAM roles to workforce users. Administrators use account access manager to assign the IAM roles in the",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-aam/"
-        }
-      ],
-      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
