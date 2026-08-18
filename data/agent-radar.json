@@ -1,6 +1,240 @@
 {
   "items": [
     {
+      "id": "2026-08-17-aws-amazon-bedrock-expands-api-support-and-introduces-",
+      "date": "2026-08-17",
+      "name": "Amazon Bedrock expands API support and introduces Cross Region Inferencing for OpenAI models",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Bedrock now supports the OpenAI GPT-5.6 models (Sol, Terra, and Luna) on the bedrock-runtime endpoint, with support for the Responses, Converse, and Chat Completions APIs. It also adds support for cross-Region ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-cross-region-openai-v2/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-17-aws-amazon-msk-now-supports-configuring-custom-domain-",
+      "date": "2026-08-17",
+      "name": "Amazon MSK now supports configuring custom domain names for MSK Provisioned clusters",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>You can now easily configure custom domain names on <a href=\"https://aws.amazon.com/msk/\">Amazon MSK Provisioned </a>clusters, on either ZooKeeper or KRaft mode for metadata management. This capability helps client ap",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/17/amazon-msk-custom-domain-names/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-17-aws-amazon-ec2-r8i-and-r8i-flex-instances-are-now-avai",
+      "date": "2026-08-17",
+      "name": "Amazon EC2 R8i and R8i-Flex instances are now available in Canada West (Calgary) region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8i and R8i-flex instances are available in the Canada West (Calgary) region. These instances are powered by custom Intel Xeon 6 processors, available only on ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-r8i-flex-calgary/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-17-aws-amazon-connect-customer-dashboards-now-support-rep",
+      "date": "2026-08-17",
+      "name": "Amazon Connect Customer dashboards now support reporting on routing steps and agent proficiencies",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Connect Customer dashboards now support reporting on routing steps and agent proficiencies enabling supervisors to monitor and optimize how contacts are matched to agents based on agent proficiencies. Managers ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-routing-steps/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-17-aws-amazon-quick-microsoft-365-extensions-are-now-gene",
+      "date": "2026-08-17",
+      "name": "Amazon Quick Microsoft 365 extensions are now generally available",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Quick announces the general availability of Microsoft 365 extensions for Excel, PowerPoint, Word, and Outlook. These extensions enable Quick to perform tasks directly within users' M365 environments, using AI t",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-microsoft-365-extensions-generally-available"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-17-aws-amazon-opensearch-service-now-supports-automatic-s",
+      "date": "2026-08-17",
+      "name": "Amazon OpenSearch Service now supports automatic semantic enrichment for VPC domains",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon OpenSearch Service now extends automatic semantic enrichment to VPC-enabled domains, allowing customers with private network configurations to leverage AI-powered semantic search without exposing their domains ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-opensearch-service-vpc/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-17-aws-aws-cloudshell-now-includes-a-built-in-visual-file",
+      "date": "2026-08-17",
+      "name": "AWS CloudShell now includes a built-in visual file editor",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS CloudShell now includes a built-in visual file editor that you can launch directly from your shell session using a single 'edit' command, no setup required. CloudShell provides a browser-based shell environment th",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-cloudshell-visual-file-editor/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-17-dust-spa-poke-99d8cc3-add-vs-prev-growth-column-to-cons",
+      "date": "2026-08-17",
+      "name": "spa/poke/99d8cc3: Add \"vs prev\" growth column to consumption attribution table (#30581)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>feat(front): add \"vs prev\" growth column to consumption attribution table</li>\n</ul>\n<p>Each row now shows period-over-period growth against an equal-length prior<br />\nwindow, highlighting growth over 100% and ",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F99d8cc3"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-17-dust-spa-poke-01aa410-feat-triggers-table-on-the-automa",
+      "date": "2026-08-17",
+      "name": "spa/poke/01aa410: feat: triggers table on the automations analytics page (#30618)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>feat: triggers table on the automations analytics page</li>\n</ul>\n<p>Lists the workspace's triggers with the agent, editor, type, run count and<br />\ncredits spent over the selected period. Rows come from Postgr",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F01aa410"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-17-dust-spa-poke-0bdb5ee",
+      "date": "2026-08-17",
+      "name": "spa/poke/0bdb5ee",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] perf: speed up MCP server facet loading in new analytics (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/issues/30\">#30</a>…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F0bdb5ee"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-17-dust-spa-poke-000a548-activation-exclude-archived-learn",
+      "date": "2026-08-17",
+      "name": "spa/poke/000a548: [Activation] Exclude archived learning spaces (#30635)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>[Activation] Exclude archived learning spaces</li>\n</ul>\n<p>Treat archived Pods as inactive so For You, nudges, and activation scheduling never route users into read-only conversations.</p>\n<p>Co-authored-by: Cu",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F000a548"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-17-dust-spa-poke-d9e2210",
+      "date": "2026-08-17",
+      "name": "spa/poke/d9e2210",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Admin governance: switch skills to new permissions (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/30615\">#30615</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fd9e2210"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-17-dust-spa-poke-cbbc214-activation-personalize-recommenda",
+      "date": "2026-08-17",
+      "name": "spa/poke/cbbc214: [Activation] Personalize recommendation email delivery (#30659)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Use recommendation metadata for customer-facing email copy and deduplicate retryable notification triggers.</p>\n<p>Co-authored-by: Cursor <a href=\"mailto:cursoragent@cursor.com\">cursoragent@cursor.com</a></p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fcbbc214"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-08-15-dust-spa-poke-961d098-front-feat-change-pod-editor-requ",
       "date": "2026-08-15",
       "name": "spa/poke/961d098: [front] feat: change pod_editor_required to pod_member_required (#30583)",
@@ -140,6 +374,78 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-14-aws-amazon-quick-now-supports-per-user-resource-limits",
+      "date": "2026-08-14",
+      "name": "Amazon Quick now supports per-user resource limits",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Quick now enables administrators to set per-user limits on index storage and agent hours, giving them direct control over subscription costs. With limits management, administrators can create limit profiles tha",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-per-user-resource-limits/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-14-aws-amazon-quick-now-supports-data-loss-prevention-wit",
+      "date": "2026-08-14",
+      "name": "Amazon Quick now supports data loss prevention with Microsoft Purview",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Quick now integrates with Microsoft Purview to enforce data loss prevention (DLP) policies across your Quick environment. Organizations need to ensure that sensitive files aren't shared outside approved channel",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-dlp-purview/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-14-aws-amazon-quick-now-supports-approval-policies-for-sh",
+      "date": "2026-08-14",
+      "name": "Amazon Quick now supports approval policies for sharing",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Quick now offers approval policies, giving administrators governance controls over how assets are shared within their organization. With approval policies, administrators can require designated approvers to rev",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-approval-policies-sharing/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-14-aws-amazon-rds-for-oracle-now-supports-oracle-apex-ver",
+      "date": "2026-08-14",
+      "name": "Amazon RDS for Oracle now supports Oracle APEX version 26.1",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/oracle/\">Amazon Relational Database Service (Amazon RDS) for Oracle</a> now supports Oracle APEX version 26.1. Amazon RDS for Oracle is a managed database service that makes it simp",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-oracle-apex-26-1/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -649,6 +955,24 @@
       "tags": []
     },
     {
+      "id": "2026-08-12-aws-aws-deadline-cloud-now-supports-ebs-persistent-vol",
+      "date": "2026-08-12",
+      "name": "AWS Deadline Cloud Now Supports EBS Persistent Volume Cost Tracking",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Deadline Cloud now surfaces costs related to Amazon Elastic Block Store (Amazon EBS) persistent volumes in the Usage Explorer in the Deadline Cloud Monitor app. AWS Deadline Cloud is a fully managed service that h",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-deadline-cloud-now-supports-ebs-persistent-volume-cost-tracking/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-08-11-aws-amazon-ec2-r8a-instances-are-now-available-in-cana",
       "date": "2026-08-11",
       "name": "Amazon EC2 R8a instances are now available in Canada (Central) region",
@@ -752,330 +1076,6 @@
         }
       ],
       "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-11-aws-amazon-rds-for-mariadb-now-supports-mariadb-12-3",
-      "date": "2026-08-11",
-      "name": "Amazon RDS for MariaDB now supports MariaDB 12.3",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon RDS for MariaDB supports MariaDB major version 12.3, the latest Long-Term Support release from the MariaDB community. This release supports MariaDB 12.3.2 minor version. &nbsp;<br /> <br /> Mari",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-mariadb-1232-available/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-11-dust-spa-poke-93722a6",
-      "date": "2026-08-11",
-      "name": "spa/poke/93722a6",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] fix: add missing step to scrub workspace (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/30317\">#30317</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F93722a6"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-11-dust-spa-poke-1cd4b9e-improve-activation-recommendation",
-      "date": "2026-08-11",
-      "name": "spa/poke/1cd4b9e: Improve activation recommendation source labels and icons (#30298)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>Improve activation recommendation source labels and icons</li>\n</ul>\n<p>Guide create_recommendation toward evidence-based relevance lines and icons so Get Started cards explain why a suggestion fits the user ins",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F1cd4b9e"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-11-aws-amazon-quick-agentic-ai-capabilities-are-now-avail",
-      "date": "2026-08-11",
-      "name": "Amazon Quick agentic AI capabilities are now available in AWS GovCloud (US-West)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces that Amazon Quick's agentic AI capabilities are now available in AWS GovCloud (US-West), bringing an agentic AI teammate to government and regulated-industry teams within an isolated, FedRAMP Clas",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-aws-govcloud-us-west/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-10-openai-increased-error-rates",
-      "date": "2026-08-10",
-      "name": "Increased error rates",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Conversations (Degraded performance)</li>\n          ",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KZNZTPWMV06Z6TQNMY1R1QDR"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-10-aws-flux-2-small-decoder-and-gemma-4-12b-it-models-now",
-      "date": "2026-08-10",
-      "name": "FLUX.2-small-decoder and gemma-4-12B-it models now available on Amazon SageMaker JumpStart",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Black Forest Labs' FLUX.2-small-decoder and Google's gemma-4-12B-it models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. These two models bri",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/flux.2-small-decoder-gemma-4-12B-it-on-sagemaker-jumpstart/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-10-aws-langcache-embed-v3-small-mellum2-12b-a2-5b-thinkin",
-      "date": "2026-08-10",
-      "name": "langcache-embed-v3-small, Mellum2-12B-A2.5B-Thinking, and LightOnOCR-2-1B models now available on Amazon SageMaker JumpStart",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Redis's langcache-embed-v3-small, JetBrains' Mellum2-12B-A2.5B-Thinking, and LightOn's LightOnOCR-2-1B models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/langcache-embed-v3-small-mellum2-12B-A2.5B-thinking-lightOnOCR-2-1B-on-sagemaker-jumpstart/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-10-aws-amazon-ec2-high-memory-u7i-instances-now-available",
-      "date": "2026-08-10",
-      "name": "Amazon EC2 High Memory U7i instances now available in AWS South America (São Paulo) region",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon EC2 High Memory U7in-24TB instances (u7in-24tb.224xlarge) are now available in AWS South America (São Paulo) region. U7i instances are part of the AWS 7th generation and are powered by custom fourth-generation ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-high-memory-u7i-south-america"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-10-aws-glm-5-2-fp8-nvidia-nemotron-nano-12b-v2-and-glm-oc",
-      "date": "2026-08-10",
-      "name": "GLM-5.2 FP8, NVIDIA-Nemotron-Nano-12B-v2 and GLM-OCR models now available on Amazon SageMaker JumpStart",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Z.ai's GLM-5.2 FP8, NVIDIA's Nemotron-Nano-12B-v2, and Z.ai's GLM-OCR models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. These three models",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/glm-5.2-fp8-nemotron-nano-12b-v2-glm-ocr-on-sagemaker-jumpstart/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-10-aws-amazon-gamelift-streams-now-offers-service-managed",
-      "date": "2026-08-10",
-      "name": "Amazon GameLift Streams Now Offers Service-managed Shader Caching",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon GameLift Streams now manages shader cache capture and distribution for your applications. You capture a shader cache from a stream session, and the service automatically makes it available for future sessions a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/Amazon-GameLift-Streams-Shader-Caching/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-10-aws-amazon-ec2-introduces-application-status-checks",
-      "date": "2026-08-10",
-      "name": "Amazon EC2 introduces application status checks",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon EC2 introduces application status checks, a new status check that helps customers detect and respond to application-level issues on their EC2 instances. With application status checks, EC2 monitors applications",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-application-status-checks"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-10-aws-amazon-opensearch-serverless-now-supports-up-to-10",
-      "date": "2026-08-10",
-      "name": "Amazon OpenSearch Serverless now supports up to 10,000 collections per collection group",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>The next generation of Amazon OpenSearch Serverless now supports up to 10,000 collections within a single collection group, increased from the previous limit of 1,500. Collection groups organize multiple collections a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-opensearch-serverless-supports-10000-collections-per-collection-group/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-10-aws-aws-elastic-disaster-recovery-now-preserves-uefi-b",
-      "date": "2026-08-10",
-      "name": "AWS Elastic Disaster Recovery now preserves UEFI boot mode for Linux servers",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Elastic Disaster Recovery (AWS DRS) now preserves UEFI boot mode when recovering Linux source servers that boot with UEFI firmware. Previously, DRS launched these Linux servers in legacy BIOS mode, which could req",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-drs-linux-uefi"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-10-dust-spa-poke-6184db2",
-      "date": "2026-08-10",
-      "name": "spa/poke/6184db2",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Backfill agent message consumption analytics (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/30244\">#30244</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6184db2"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-10-dust-spa-poke-492a625-fix-agent-delegation-server-regis",
-      "date": "2026-08-10",
-      "name": "spa/poke/492a625: Fix agent delegation server registration (#30294)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>Fix delegation server registration</li>\n</ul>\n<p>Assign a unique internal server ID and record the new auto-hidden server in the availability snapshot.</p>\n<p>Co-authored-by: Cursor <a href=\"mailto:cursoragent@c",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F492a625"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-10-dust-spa-poke-293cb2c",
-      "date": "2026-08-10",
-      "name": "spa/poke/293cb2c",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>feat(agents): run <a class=\"user-mention notranslate\" href=\"https://github.com/dust\">@dust</a> on Auto and lead Standard stream with Luna hi…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F293cb2c"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-10-dust-spa-poke-59b9b8c-front-polish-activation-get-start",
-      "date": "2026-08-10",
-      "name": "spa/poke/59b9b8c: [front] Polish activation get-started UX (#30273)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>\n<p>[front] refactor: post activation nudges directly instead of firing a webhook trigger</p>\n</li>\n<li>\n<p>[front] fix: update act-nudge-post tests after rebase</p>\n</li>\n</ul>\n<p>Expand ActivationNudgeContext ",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F59b9b8c"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-10-dust-spa-poke-11c78aa-add-runtime-agent-delegation-tool",
-      "date": "2026-08-10",
-      "name": "spa/poke/11c78aa: Add runtime agent delegation tool (#30281)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>Add runtime agent delegation tool</li>\n</ul>\n<p>Allow skills without a configured child agent to delegate through the existing run-agent lifecycle while preserving configured-child behavior.</p>\n<p>Co-authored-b",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F11c78aa"
-        }
-      ],
-      "impact": 3,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
