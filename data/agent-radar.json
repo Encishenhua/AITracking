@@ -1,6 +1,240 @@
 {
   "items": [
     {
+      "id": "2026-08-18-aws-amazon-bedrock-now-supports-openai-models-in-india",
+      "date": "2026-08-18",
+      "name": "Amazon Bedrock now supports OpenAI models in India",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Bedrock now supports the OpenAI GPT-5.6 models (Terra and Luna) in India, with India Geo cross-Region inference. Customers with regulatory requirements of in-country inferencing can now use OpenAI models at sca",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-openai-india-v1/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-18-aws-aws-iam-identity-federation-to-external-services-i",
+      "date": "2026-08-18",
+      "name": "AWS IAM identity federation to external services is now available in AWS European Sovereign Cloud Region",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Identity and Access Management (IAM) now enables AWS workloads in the AWS European Sovereign Cloud (Germany) Region to securely authenticate with external services using short-lived JSON Web Tokens (JWTs). The AWS",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-european-sovereign-cloud/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-18-aws-agentcore-payments-is-now-generally-available-in-a",
+      "date": "2026-08-18",
+      "name": "AgentCore payments is now generally available in Amazon Bedrock AgentCore",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS announces the general availability of AgentCore payments, a capability within Amazon Bedrock AgentCore that enables AI agents to autonomously discover, access, and pay for paid APIs, MCPs, and content with ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-agentcore-payments-ga/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-18-aws-amazon-ec2-r8i-instances-are-now-available-in-isra",
+      "date": "2026-08-18",
+      "name": "Amazon EC2 R8i instances are now available in Israel (Tel Aviv) region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8i instances are available in the Israel (Tel Aviv) region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering t",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-israel-tel-aviv/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-18-aws-postgresql-19-beta-3-is-now-available-in-amazon-rd",
+      "date": "2026-08-18",
+      "name": "PostgreSQL 19 Beta 3 is now available in Amazon RDS Database Preview Environment",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, <a href=\"https://aws.amazon.com/rds/postgresql/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon RDS for PostgreSQL</a> 19 Beta 3 is available in the <a href=\"https://docs.aws.amazon.com/AmazonRDS/lat",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/postgresql-19-beta-3-amazon-rds-database-preview-environment/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-18-aws-amazon-workspaces-now-supports-nested-virtualizati",
+      "date": "2026-08-18",
+      "name": "Amazon WorkSpaces now supports Nested Virtualization",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon WorkSpaces now supports nested virtualization for Amazon WorkSpaces Personal and Amazon WorkSpaces Core Managed Bundles. With nested virtualization enabled, developers can run Docker Desktop, Windows Subsystem ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/nested-virtualization-workspaces/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-18-aws-amazon-s3-metadata-and-annotations-are-now-availab",
+      "date": "2026-08-18",
+      "name": "Amazon S3 Metadata and annotations are now available in AWS GovCloud (US) Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon S3 Metadata and annotations are now available in AWS GovCloud (US-East) and AWS GovCloud (US-West) Regions, giving you the easiest and fastest way to discover, understand, and enrich your S3 data. S3 Metadata a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-s3-metadata-annotations-govcloud-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-18-dust-spa-poke-938bcea",
+      "date": "2026-08-18",
+      "name": "spa/poke/938bcea",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Admin governance: Dual write skill editor permissions in regular auto…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F938bcea"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-18-dust-spa-poke-782d3b4-feat-search-automations-by-name-i",
+      "date": "2026-08-18",
+      "name": "spa/poke/782d3b4: feat: search automations by name in the analytics table (#30692)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>[front] feat: search automations by name in the analytics table</li>\n</ul>\n<p>The filter panel covers agent, editor and type, but finding one automation<br />\namong hundreds still means paging through the table.",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F782d3b4"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-18-dust-spa-poke-315f179-front-feat-default-stake-on-publi",
+      "date": "2026-08-18",
+      "name": "spa/poke/315f179: [front] feat: default stake on published pod functions (#30626)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>[front] feat: default stake on published pod functions</li>\n</ul>\n<p>Sharing a pod function as an MCP tool will need to know how much approval it<br />\nshould require. Record that at publish time, while the mode",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F315f179"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-18-dust-spa-poke-53dcab0-feat-summary-cards-on-the-automat",
+      "date": "2026-08-18",
+      "name": "spa/poke/53dcab0: feat: summary cards on the automations analytics page (#30657)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>feat: summary cards on the automations analytics page</li>\n</ul>\n<p>The triggers table shows per-trigger detail but nothing tells an admin how<br />\nmuch of the workspace's spend automations account for, or how ",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F53dcab0"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-18-dust-spa-poke-47fe2fa",
+      "date": "2026-08-18",
+      "name": "spa/poke/47fe2fa",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] perf: add (workspaceId, groupId) index on group_permissions (…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F47fe2fa"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-18-dust-spa-poke-8b89925",
+      "date": "2026-08-18",
+      "name": "spa/poke/8b89925",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Admin governance: add method findRegularAutoGroupsForGrants in group_…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8b89925"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-08-17-aws-amazon-bedrock-expands-api-support-and-introduces-",
       "date": "2026-08-17",
       "name": "Amazon Bedrock expands API support and introduces Cross Region Inferencing for OpenAI models",
@@ -839,240 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/whats-new/2026/08/amazon-quick-deny-by-default-permissions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-12-aws-amazon-connect-customer-supports-manual-assignment",
-      "date": "2026-08-12",
-      "name": "Amazon Connect Customer supports manual assignment of queued agent-first callbacks",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Connect Customer now lets agents view and self-assign queued agent-first callbacks alongside emails, tasks, and chats. This gives agents the option to prioritize work that needs immediate follow-up or for which",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-agent-callbacks/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-12-aws-amazon-quick-now-supports-data-loss-prevention-wit",
-      "date": "2026-08-12",
-      "name": "Amazon Quick now supports data loss prevention with Microsoft Purview",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Quick now integrates with Microsoft Purview to enforce data loss prevention (DLP) policies across your Quick environment. Organizations need to ensure that sensitive files aren't shared outside approved channel",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/whats-new/2026/08/amazon-quick-dlp-purview/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-12-dust-spa-poke-406ed48",
-      "date": "2026-08-12",
-      "name": "spa/poke/406ed48",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] Load workspace permissions as a resourceId-aware set in the A…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F406ed48"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-12-aws-amazon-quick-now-supports-approval-policies-for-sh",
-      "date": "2026-08-12",
-      "name": "Amazon Quick now supports approval policies for sharing",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Quick now offers approval policies, giving administrators governance controls over how assets are shared within their organization. With approval policies, administrators can require designated approvers to rev",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/whats-new/2026/08/amazon-quick-approval-policies-sharing/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-12-aws-amazon-quick-now-supports-per-user-resource-limits",
-      "date": "2026-08-12",
-      "name": "Amazon Quick now supports per-user resource limits",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Quick now enables administrators to set per-user limits on index storage and agent hours, giving them direct control over subscription costs. With limits management, administrators can create limit profiles tha",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/whats-new/2026/08/amazon-quick-per-user-resource-limits/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-12-aws-amazon-nova-multimodal-embeddings-is-now-available",
-      "date": "2026-08-12",
-      "name": "Amazon Nova Multimodal Embeddings is now available in AWS GovCloud (US-West)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>We are excited to announce the general availability of Amazon Nova Multimodal Embeddings, a state-of-the-art embedding model for agentic RAG and semantic search, in AWS GovCloud (US-West). It is the first unified embe",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-nova-mme-govcloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-12-aws-aws-deadline-cloud-now-supports-ebs-persistent-vol",
-      "date": "2026-08-12",
-      "name": "AWS Deadline Cloud Now Supports EBS Persistent Volume Cost Tracking",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Deadline Cloud now surfaces costs related to Amazon Elastic Block Store (Amazon EBS) persistent volumes in the Usage Explorer in the Deadline Cloud Monitor app. AWS Deadline Cloud is a fully managed service that h",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-deadline-cloud-now-supports-ebs-persistent-volume-cost-tracking/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-11-aws-amazon-ec2-r8a-instances-are-now-available-in-cana",
-      "date": "2026-08-11",
-      "name": "Amazon EC2 R8a instances are now available in Canada (Central) region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon EC2 R8a instances are now available in&nbsp;Canada (Central)&nbsp;Region. These instances, feature 5th Gen AMD EPYC processors (formerly code named Turin) with a maximum frequency of 4.5 GHz, de",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8a-instances-canada-central/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-11-aws-amazon-bedrock-expands-iam-principal-cost-allocati",
-      "date": "2026-08-11",
-      "name": "Amazon Bedrock expands IAM principal cost allocation to the bedrock-mantle endpoint",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Bedrock is a fully managed service that provides secure, enterprise-grade access to high-performing foundation models from leading AI companies, enabling you to build and scale generative AI applications. Amazo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-expands-iam-principal-cost-allocation-bedrock-mantle/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-11-aws-locateanything-3b-qwen-agentworld-35b-a3b-and-qwen",
-      "date": "2026-08-11",
-      "name": "LocateAnything-3B, Qwen-AgentWorld-35B-A3B, and Qwen3.5-122B-A10B models now available on Amazon SageMaker JumpStart",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>NVIDIA's LocateAnything-3B, Qwen's Qwen-AgentWorld-35B-A3B, and Qwen's Qwen3.5-122B-A10B models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers.",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/locateAnything-3B-qwen-agentworld-35B-A3B-qwen3.5-122B-A10B-on-sagemaker-jumpstart/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-11-aws-nvidia-nemotron-3-5-lightning-model-is-now-availab",
-      "date": "2026-08-11",
-      "name": "NVIDIA Nemotron 3.5 Lightning model is now available on Amazon SageMaker JumpStart",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>NVIDIA's Nemotron 3.5 Lightning is now available on Amazon SageMaker JumpStart, giving AWS customers access to the fastest open model in its class for persistent agent workloads and rapid task execution.</p> \n<p>Nemot",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/nvidia-nemotron-3.5-lightning-on-sagemaker-jumpstart/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-11-aws-aws-glue-adds-one-click-access-to-sagemaker-unifie",
-      "date": "2026-08-11",
-      "name": "AWS Glue adds one-click access to SageMaker Unified Studio from the AWS console",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Glue now provides direct access to Amazon SageMaker Unified Studio, helping data engineers and analysts move from viewing the catalog in the Glue console to querying their data, running data quality checks, and bu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/smus-glue-access"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-11-aws-amazon-connect-customer-launches-performance-dashb",
-      "date": "2026-08-11",
-      "name": "Amazon Connect Customer launches performance dashboard for Cases",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect Customer now provides a performance dashboard for cases that helps managers monitor case volume, resolution trends, and performance against service level agreement (SLA) targets. Managers can compare cu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-cases-dashboard/"
         }
       ],
       "impact": 5,
