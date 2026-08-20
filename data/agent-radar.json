@@ -1,6 +1,384 @@
 {
   "items": [
     {
+      "id": "2026-08-20-crewai-1-15-17",
+      "date": "2026-08-20",
+      "name": "1.15.17",
+      "vendor": "CrewAI",
+      "type": "upgrade",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add declarative conversational flows documentation</li>\n<li>Synthesize built-in conversational methods for declarations</li>\n<li>Enable declarations to drive conversatio",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.17"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-08-19-aws-launching-external-web-access-for-web-search-on-am",
+      "date": "2026-08-19",
+      "name": "Launching External Web Access for Web Search on Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Earlier this month, we announced <a href=\"https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-web/\" style=\"background-color: rgb(255,255,255);\">Web Search on Amazon Bedrock</a>, a built-in server-side to",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-web-access-web-search/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-19-aws-web-search-in-amazon-bedrock-agentcore-adds-domain",
+      "date": "2026-08-19",
+      "name": "Web Search in Amazon Bedrock AgentCore adds domain and published date filtering, expands to Europe and Asia Pacific",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Web Search in Amazon Bedrock AgentCore now supports domain filtering and published-date filtering, giving agents per-request control over which web sources and time windows they search. Amazon Bedrock AgentCore provid",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/web-search-amazon-bedrock/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-19-aws-amazon-cloudwatch-log-centralization-now-supports-",
+      "date": "2026-08-19",
+      "name": "Amazon CloudWatch log Centralization now supports log group tag propagation",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon CloudWatch Centralization now copies log group tags from source accounts to the destination log groups created by centralization rules. CloudWatch Centralization aggregates log data from multiple accounts and R",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-centralization-tag-propogation/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-19-aws-amazon-sagemaker-notebooks-now-support-trusted-ide",
+      "date": "2026-08-19",
+      "name": "Amazon SageMaker notebooks now support trusted identity propagation",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker Notebooks now support Trusted Identity Propagation (TIP) with Amazon Athena, Amazon Redshift, and Amazon EMR Serverless, enabling per-user access control for data analytics.</p> \n<p>When connected to ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-19-aws-aws-cost-anomaly-detection-supports-third-party-mo",
+      "date": "2026-08-19",
+      "name": "AWS Cost Anomaly Detection supports third-party models on Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/aws-cost-management/aws-cost-anomaly-detection/\">AWS Cost Anomaly Detection</a> now monitors spend on third-party foundation models running on Amazon Bedrock, such as Anthropic Claude a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-cost-anomaly-detection-bedrock-3P/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-19-aws-amazon-opensearch-ingestion-is-now-available-in-go",
+      "date": "2026-08-19",
+      "name": "Amazon OpenSearch Ingestion is now available in GovCloud Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, customers can use Amazon OpenSearch Ingestion in AWS GovCloud (US-East) and AWS GovCloud (US-West), for ingesting data into their Amazon OpenSearch Service managed clusters or serverless collections.<b",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/opensearch-ingestion-available-govcloud-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-19-aws-aws-marketplace-launches-support-for-amazon-lights",
+      "date": "2026-08-19",
+      "name": "AWS Marketplace launches support for Amazon Lightsail",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS Marketplace announces support for launching select Amazon Machine Images (AMIs) on Amazon Lightsail. Customers who want simple, predictable pricing and a streamlined instance-creation experience can now eas",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace-launch-ami-amazon-lightsail"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-19-aws-aws-announces-a-new-availability-zone-in-the-europ",
+      "date": "2026-08-19",
+      "name": "AWS announces a new Availability Zone in the Europe (London) Region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS has added a fourth Availability Zone to the Europe (London) Region (eu-west-2), expanding infrastructure capacity to meet growing demand for cloud compute in the Region. The new Availability Zone delivers next-gen",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-new-availability-zone-europe/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-19-aws-aws-lambda-microvms-is-now-available-in-5-addition",
+      "date": "2026-08-19",
+      "name": "AWS Lambda MicroVMs is now available in 5 additional AWS regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Lambda MicroVMs is now available in 5 additional AWS Regions: Asia Pacific (Mumbai), Asia Pacific (Singapore), Asia Pacific (Sydney), Europe (Frankfurt), and Europe (Stockholm). With this launch, you can use Lambd",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-microvms-5-additional-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-19-aws-amazon-quick-adds-deny-by-default-for-custom-permi",
+      "date": "2026-08-19",
+      "name": "Amazon Quick adds deny by default for custom permissions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Quick custom permissions now include deny by default, a governance setting that automatically restricts new AI capabilities before they reach users.<br /> <br /> Previously, new AI capabilities were available t",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-deny-by-default/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-19-aws-amazon-workspaces-applications-now-offers-in-conso",
+      "date": "2026-08-19",
+      "name": "Amazon WorkSpaces Applications now offers in-console monitoring capabilities",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon WorkSpaces Applications now offers a native monitoring experience embedded directly in the service console. Administrators can now access real-time session-level metrics, instance-level resource data, and netwo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-workspaces-applications-console-monitoring"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-19-aws-aws-iam-now-supports-20-managed-policies-per-role-",
+      "date": "2026-08-19",
+      "name": "AWS IAM now supports 20 managed policies per role by default",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p><a href=\"https://aws.amazon.com/iam/\">AWS Identity and Access Management (IAM)</a> has increased the default quota for managed policies per role from 10 to 20.</p> \n<p>This higher default quota reduces the need to mak",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-quota-increase/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-19-aws-aws-storage-gateway-now-supports-fips-compliant-pr",
+      "date": "2026-08-19",
+      "name": "AWS Storage Gateway now supports FIPS-compliant private connectivity for Tape and Volume Gateway",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Storage Gateway now supports FIPS 140-3 validated endpoints over AWS PrivateLink for Tape Gateway and Volume Gateway. Previously, FIPS endpoints were available only over the public internet. Now you can keep FIPS-",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/storage-gateway-fips-privatelink/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-19-aws-amazon-ec2-r8a-instances-are-now-available-in-asia",
+      "date": "2026-08-19",
+      "name": "Amazon EC2 R8a instances are now available in Asia Pacific (Taipei) region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon EC2 R8a instances are now available in Asia Pacific (Taipei) Region. These instances, feature 5th Gen AMD EPYC processors (formerly code named Turin) with a maximum frequency of 4.5 GHz, deliver",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8a-asia-pacific-taipei/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-19-aws-amazon-bedrock-now-supports-spacexai-grok-4-6-with",
+      "date": "2026-08-19",
+      "name": "Amazon Bedrock now supports SpaceXAI Grok 4.6 with Cross Region Inferencing",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Bedrock now supports SpaceXAI Grok 4.6, a frontier model built for coding, agentic tasks, and knowledge work, with US Geo and Global cross-Region inference. Customers can now access Grok 4.6 at scale with cross",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-grok-4-6/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-19-dust-spa-poke-9470655-front-enh-collapse-multi-agent-cr",
+      "date": "2026-08-19",
+      "name": "spa/poke/9470655: [front] enh: collapse multi-agent credit details (#30789)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>[front] enh: collapse multi-agent credit details</p>\n</li>\n<li>\n<p>[front] polish: move agent credit trigger to left</p>\n</li>\n<li>\n<p>[front] polish: increase agent header spacing</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9470655"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-19-dust-spa-poke-7276c61-front-perf-cache-group-permission",
+      "date": "2026-08-19",
+      "name": "spa/poke/7276c61: [front] perf: Cache group permissions per workspace in Redis (#30743)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>[front] perf: Cache group permissions per workspace in Redis</p>\n</li>\n<li>\n<p>[front] refactor: Decode cached grants with type guards, key in the resource</p>\n</li>\n<li>\n<p>[front] refactor: Pass auth to th",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F7276c61"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-19-dust-spa-poke-77e828b",
+      "date": "2026-08-19",
+      "name": "spa/poke/77e828b",
+      "vendor": "Dust",
+      "type": "pricing",
+      "summary": "<p>Pricing: display how long the credits are valid (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/30803\">#30803</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F77e828b"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-19-dust-spa-poke-43cea8e",
+      "date": "2026-08-19",
+      "name": "spa/poke/43cea8e",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] enh: rework workspace usage page (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/30721\">#30721</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F43cea8e"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-19-dust-spa-poke-8cca4ef-chore-drop-the-legacy-trigger-exe",
+      "date": "2026-08-19",
+      "name": "spa/poke/8cca4ef: chore: drop the legacy trigger execution mode vocabulary (#30784)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>Removes fair_use/programmatic and the getTriggerExecutionMode shim now that<br />\nthe data is migrated, and makes executionMode NOT NULL. The field moves onto<br />\nthe shared trigger base schema since it applies to s",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8cca4ef"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-08-18-aws-amazon-bedrock-now-supports-openai-models-in-india",
       "date": "2026-08-18",
       "name": "Amazon Bedrock now supports OpenAI models in India",
@@ -230,6 +608,24 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-18-aws-amazon-ec2-high-memory-u7i-instances-now-available",
+      "date": "2026-08-18",
+      "name": "Amazon EC2 High Memory U7i instances now available in AWS Europe (Zurich) region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon EC2 High Memory U7i-6TB instances (u7i-6tb.112xlarge) are now available in AWS Europe (Zurich) region. U7i instances are part of the AWS 7th generation and are powered by custom fourth-generation Intel Xeon Sca",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-high-memory-u7i-aws-europe/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -677,402 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-oracle-apex-26-1/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-13-openai-the-builder-s-guide-to-gpt-5-6",
-      "date": "2026-08-13",
-      "name": "The builder’s guide to GPT‑5.6",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/builders-guide-to-gpt-5-6"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-13-openai-openai-appoints-dali-rajic-as-chief-revenue-office",
-      "date": "2026-08-13",
-      "name": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/dali-rajic-chief-revenue-officer"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-13-openai-error-while-creating-custom-rbac-roles-for-enterpr",
-      "date": "2026-08-13",
-      "name": "Error while creating custom RBAC roles for Enterprise users",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01KZXPZD4KHMQQFF09PSNNEZT8"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-13-aws-aws-client-vpn-now-supports-cli-administration-con",
-      "date": "2026-08-13",
-      "name": "AWS Client VPN now supports CLI, administration controls, and faster connections",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Client VPN introduces a rebuilt AWS VPN Client v6.0.x which offers new features like command-line interface (CLI) support, enterprise administrative controls, and faster connection establishment time, making it ea",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-client-vpn-cli/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-13-aws-claude-opus-5-is-now-available-in-aws-govcloud-us",
-      "date": "2026-08-13",
-      "name": "Claude Opus 5 is now available in AWS GovCloud (US)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS GovCloud (US) now offers Claude Opus 5 — the most advanced Opus model yet, and compatible with zero data retention (ZDR) — bringing a step-change in coding, long-running agents, and complex professional work to te",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/claude-opus-5-aws-govcloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-13-aws-amazon-quick-microsoft-365-extensions-are-now-gene",
-      "date": "2026-08-13",
-      "name": "Amazon Quick Microsoft 365 extensions are now generally available",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, Amazon Quick announces the general availability of Microsoft 365 extensions for Excel, PowerPoint, Word, and Outlook. These extensions enable Quick to perform tasks directly within users' M365 environments, usi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/amazon-quick-microsoft-365-extensions-generally-available"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-13-aws-daybreak-red-and-daybreak-blue-from-openai-are-now",
-      "date": "2026-08-13",
-      "name": "Daybreak Red and Daybreak Blue from OpenAI are now available to eligible customers on Amazon Bedrock",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Security teams can now access Daybreak Red and Daybreak Blue from OpenAI on Amazon Bedrock. Both are part of Daybreak, the cyber defense initiative from OpenAI that gives defenders governed access to frontier AI for c",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/openai-daybreak-red-and-blue-on-amazon-bedrock/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-13-aws-aws-certificate-manager-supports-switching-from-e-",
-      "date": "2026-08-13",
-      "name": "AWS Certificate Manager supports switching from e-mail to DNS validation",
-      "vendor": "AWS",
-      "type": "deprecation",
-      "summary": "<p>AWS Certificate Manager (ACM) now enables you to change the domain validation method on your existing ACM issued public TLS certificates from e-mail to DNS, without reissuing the certificate or changing its existing A",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/AWS-Certificate-Manager-Email-DNS-Switch"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-13-aws-amazon-s3-adds-additional-policy-details-to-access",
-      "date": "2026-08-13",
-      "name": "Amazon S3 adds additional policy details to access denied error messages",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon S3 now includes the specific AWS Identity and Access Management (IAM) and AWS Organizations policy Amazon Resource Name (ARN) in HTTP 403 Access Denied error messages for same-account and same-organization requ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/s3-additional-policy-details-access-denied-error-messages/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-13-aws-aws-clean-rooms-supports-minimum-aggregation-thres",
-      "date": "2026-08-13",
-      "name": "AWS Clean Rooms supports minimum aggregation thresholds in custom analysis rules",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Clean Rooms now supports <a href=\"https://docs.aws.amazon.com/clean-rooms/latest/userguide/analysis-rules-custom.html\" rel=\"noopener noreferrer\" target=\"_blank\">minimum aggregation thresholds for the Custom analys",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-clean-rooms-minimum-aggregation-custom-analysis-rules"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-13-dust-spa-poke-741e0fb-activation-slack-auto-responder-s",
-      "date": "2026-08-13",
-      "name": "spa/poke/741e0fb: [Activation] Slack auto-responder skip thread replies option (#30465)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>[Activation] Slack auto-responder skip thread replies option</li>\n</ul>\n<p>Adds a configurable option for the Slack auto-responder that lets admins<br />\nchoose whether to respond only to top-level channel posts",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F741e0fb"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-13-dust-spa-poke-92e0b9a",
-      "date": "2026-08-13",
-      "name": "spa/poke/92e0b9a",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Analytics: give the <a class=\"user-mention notranslate\" href=\"https://github.com/analyst\">@analyst</a> agent to managers (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/30495\">#30495</a",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F92e0b9a"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-13-dust-spa-poke-14b340d",
-      "date": "2026-08-13",
-      "name": "spa/poke/14b340d",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] chore: cleanup agent qos switch (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/30421\">#30421</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F14b340d"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-13-dust-spa-poke-3e654ae",
-      "date": "2026-08-13",
-      "name": "spa/poke/3e654ae",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Optimize latest agent configuration lookup</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F3e654ae"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-13-dust-spa-poke-bf9c83d",
-      "date": "2026-08-13",
-      "name": "spa/poke/bf9c83d",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Admin governance: shadow compare skill permissions (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/30462\">#30462</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fbf9c83d"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-13-dust-spa-poke-b02f2e3",
-      "date": "2026-08-13",
-      "name": "spa/poke/b02f2e3",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[Activation] Batch evaluation when a workspace exceeds the ES user ca…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fb02f2e3"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-13-aws-amazon-redshift-adds-rg-large-and-rg-12xlarge-inst",
-      "date": "2026-08-13",
-      "name": "Amazon Redshift adds rg.large and rg.12xlarge instance sizes in AWS GovCloud (US) Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Redshift now offers rg.large and rg.12xlarge instance sizes for RG instances in the AWS GovCloud (US-West) and AWS GovCloud (US-East) Regions. RG instances deliver better performance, running data warehouse and",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-redshift-adds-rg-large-12xlarge-aws-govcloud-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-12-crewai-1-15-15",
-      "date": "2026-08-12",
-      "name": "1.15.15",
-      "vendor": "CrewAI",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Report flow outcome, duration, and human-in-the-loop signals.</li>\n</ul>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Emit FlowStartedEvent when a boundary hook aborts the flow.</li>\n<li",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.15"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-08-12-openai-from-assistance-to-execution-how-enterprises-put-a",
-      "date": "2026-08-12",
-      "name": "From assistance to execution: How enterprises put AI to work",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/how-enterprises-put-ai-to-work"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-12-aws-aws-global-view-now-offers-an-interactive-map-view",
-      "date": "2026-08-12",
-      "name": "AWS Global View now offers an interactive map view for AWS Regions and AWS Local Zones",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the addition of an interactive map view to AWS Global View in the AWS Management Console, providing a visual way to explore AWS Global Infrastructure.</p> \n<p>Previously, customers had to scan thr",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-global-view-map-view/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-12-aws-aws-iam-now-provides-role-manager-to-set-up-iam-ro",
-      "date": "2026-08-12",
-      "name": "AWS IAM now provides role manager to set up IAM roles automatically",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the general availability of role manager, a capability in AWS Identity and Access Management (IAM) that automatically sets up the IAM roles your AWS services need. When you set up a supported serv",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-role-manager"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-12-aws-amazon-quick-adds-deny-by-default-for-custom-permi",
-      "date": "2026-08-12",
-      "name": "Amazon Quick adds deny by default for custom permissions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Quick custom permissions now include deny by default, a governance setting that automatically restricts new AI capabilities before they reach users.<br /> <br /> Previously, new AI capabilities were available t",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/whats-new/2026/08/amazon-quick-deny-by-default-permissions/"
         }
       ],
       "impact": 5,
