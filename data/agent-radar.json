@@ -19,6 +19,240 @@
       "tags": []
     },
     {
+      "id": "2026-08-20-openai-introducing-ai-futures",
+      "date": "2026-08-20",
+      "name": "Introducing AI Futures",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/introducing-ai-futures"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-20-aws-aws-announces-the-general-availability-of-a-new-aw",
+      "date": "2026-08-20",
+      "name": "AWS announces the general availability of a new AWS Local Zone in Las Vegas, Nevada",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Local Zone in Las Vegas, Nevada is now generally available. The new AWS Local Zone supports Amazon Elastic Compute Cloud (Amazon EC2) C7i, M7i, R7i, and C8gn instances, Amazon Elastic Block Store (Amazon EBS) volu",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-local-zones-las-vegas-nevada/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-20-aws-amazon-timestream-for-influxdb-now-supports-custom",
+      "date": "2026-08-20",
+      "name": "Amazon Timestream for InfluxDB now supports customer managed keys",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Timestream for InfluxDB now supports AWS Key Management Service (AWS KMS) customer managed keys for encrypting data at rest in InfluxDB 2 database instances, InfluxDB 2 Read Replicas, and InfluxDB 3 clusters. C",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-timestream-influxdb-cmk/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-20-aws-amazon-ec2-p6-b300-instances-are-now-available-in-",
+      "date": "2026-08-20",
+      "name": "Amazon EC2 P6-B300 instances are now available in the Asia Pacific (Seoul) Region",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Starting today, Amazon Elastic Cloud Compute (Amazon EC2) P6-B300 instances are available in the Asia Pacific (Seoul) Region. P6-B300 instances provide 8xNVIDIA Blackwell Ultra GPUs with 2.1 TB high bandwidth GPU memo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-p6-b300/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-20-aws-amazon-eks-now-supports-certificate-authority-ca-r",
+      "date": "2026-08-20",
+      "name": "Amazon EKS now supports certificate authority (CA) rotation with automated lifecycle management",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, Amazon Elastic Kubernetes Service (Amazon EKS) announced certificate authority (CA) rotation, enabling customers to rotate their cluster's CA through a managed lifecycle with automated safeguards. Each Amazon E",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-certificate-authority-ca-rotation-automated-lifecycle-management"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-20-aws-aws-partner-central-agents-mcp-server-now-supports",
+      "date": "2026-08-20",
+      "name": "AWS Partner Central agents MCP Server now supports OAuth with AWS Sign-In",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS partners can now access AWS Partner Central agents from tools they already use, such as Amazon Quick and Kiro, using OAuth through AWS Sign-In. Partners can authorize agent access with their existing AWS identitie",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/8/aws-partner-central-mcp/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-20-aws-arc-region-switch-adds-amazon-rds-switchover-read-",
+      "date": "2026-08-20",
+      "name": "ARC Region switch adds Amazon RDS Switchover Read Replica execution block",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, we are launching the <b>Amazon RDS Switchover Read Replica execution block</b> in <b>ARC Region switch</b>, which automates recovery orchestration for Amazon RDS databases running Oracle Data Guard in multi-Reg",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/region-switch-rds-switchover-execution-block/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-20-aws-generative-ai-inference-recommendation-for-amazon-",
+      "date": "2026-08-20",
+      "name": "Generative AI Inference Recommendation for Amazon SageMaker now available in the SageMaker AI Studio",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker AI now offers Generative AI Inference Recommendations in SageMaker AI Studio, giving customers a guided, low-code, no-code path to find the best inference configuration for their workload. This builds",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/generative-ai-inference-recommendation-for-amazon-sagemaker-now-available-in-the-sagemaker-ai-studio"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-20-aws-aws-direct-connect-introduces-inbound-prefix-contr",
+      "date": "2026-08-20",
+      "name": "AWS Direct Connect introduces inbound prefix controls and higher prefix scale",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS Direct Connect announced inbound prefix controls, a new capability that lets you allocate and manage inbound route-prefix allocations for your private and transit virtual interfaces (VIFs) based on your wor",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-direct-connect-new-prefix-controls"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-20-aws-amazon-redshift-introduces-long-term-system-table-",
+      "date": "2026-08-20",
+      "name": "Amazon Redshift introduces long-term system table retention with Amazon S3 Tables integration",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/redshift/\">Amazon Redshift</a> now supports long-term retention for system table data through native integration with <a href=\"https://aws.amazon.com/s3/features/tables/?trk=a0cfbe47-91",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-long-term-system-table-retention/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-20-dust-spa-poke-8956b7d",
+      "date": "2026-08-20",
+      "name": "spa/poke/8956b7d",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] enh: reuse Composer UI for Manage Agents model filter (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/30821\">#30821</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8956b7d"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-20-dust-spa-poke-59f73a4",
+      "date": "2026-08-20",
+      "name": "spa/poke/59f73a4",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] fix: include isManager on MCP metadata snapshot mock auth (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/3\">#3</a>…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F59f73a4"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-20-dust-spa-poke-55f81e5",
+      "date": "2026-08-20",
+      "name": "spa/poke/55f81e5",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Public API: allow admin to retrieve all agents including unpublished …</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F55f81e5"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-08-19-aws-launching-external-web-access-for-web-search-on-am",
       "date": "2026-08-19",
       "name": "Launching External Web Access for Web Search on Amazon Bedrock",
@@ -374,6 +608,24 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-19-aws-amazon-dynamodb-streams-now-supports-attribute-bas",
+      "date": "2026-08-19",
+      "name": "Amazon DynamoDB Streams now supports attribute-based access control",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon DynamoDB Streams now supports attribute-based access control (ABAC), enabling you to use tag-based conditions in your Identity and Access Management (IAM) policies to control access to your data streams. ABAC i",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-dynamodb-streams-abac/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -824,258 +1076,6 @@
         }
       ],
       "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-17-dust-spa-poke-d9e2210",
-      "date": "2026-08-17",
-      "name": "spa/poke/d9e2210",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Admin governance: switch skills to new permissions (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/30615\">#30615</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fd9e2210"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-17-dust-spa-poke-cbbc214-activation-personalize-recommenda",
-      "date": "2026-08-17",
-      "name": "spa/poke/cbbc214: [Activation] Personalize recommendation email delivery (#30659)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Use recommendation metadata for customer-facing email copy and deduplicate retryable notification triggers.</p>\n<p>Co-authored-by: Cursor <a href=\"mailto:cursoragent@cursor.com\">cursoragent@cursor.com</a></p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fcbbc214"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-15-dust-spa-poke-961d098-front-feat-change-pod-editor-requ",
-      "date": "2026-08-15",
-      "name": "spa/poke/961d098: [front] feat: change pod_editor_required to pod_member_required (#30583)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>\n<p>[dsbx] feat: accept the pod_member_required user identity policy in the functions-runner</p>\n</li>\n<li>\n<p>[front] feat: pod_member_required identity policy for Pod Functions</p>\n</li>\n</ul>\n<p>New Pod Funct",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F961d098"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-15-dust-spa-app-961d098-front-feat-change-pod-editor-requi",
-      "date": "2026-08-15",
-      "name": "spa/app/961d098: [front] feat: change pod_editor_required to pod_member_required (#30583)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>\n<p>[dsbx] feat: accept the pod_member_required user identity policy in the functions-runner</p>\n</li>\n<li>\n<p>[front] feat: pod_member_required identity policy for Pod Functions</p>\n</li>\n</ul>\n<p>New Pod Funct",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F961d098"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-14-openai-unexpected-gpt-5-6-terra-responses",
-      "date": "2026-08-14",
-      "name": "Unexpected GPT-5.6 Terra responses",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Identified</b><br /><br />We are investigating an issue affecting some customers using GPT-5.6 Terra. Affected requests may intermittently return incomplete or malformed responses, or include unexpected conten",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01M015X5NF9D6C4MYR6NGR8HAR"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-14-aws-amazon-rds-for-oracle-now-supports-oracle-applicat",
-      "date": "2026-08-14",
-      "name": "Amazon RDS for Oracle now supports Oracle Application Express (APEX) version 26.1",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/oracle/\">Amazon Relational Database Service (Amazon RDS) for Oracle</a> now supports Oracle Application Express (APEX) version 26.1. Amazon RDS for Oracle is a managed database serv",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-oracle-apex-26-1/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-14-aws-amazon-ses-click-tracking-now-supports-custom-url-",
-      "date": "2026-08-14",
-      "name": "Amazon SES click tracking now supports custom URL paths for mobile app deep linking",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/ses/\">Amazon Simple Email Service (SES)</a>&nbsp;now makes it easier to support mobile deep linking with the new ses:custom-path HTML attribute. When you add this attribute to an &lt;a&",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ses-supports-customurl-deeplinking"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-14-aws-aws-billing-and-cost-management-introduces-managed",
-      "date": "2026-08-14",
-      "name": "AWS Billing and Cost Management introduces Managed Dashboards",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Billing and Cost Management (BCM) Dashboards now include Managed Dashboards. These are a collection of preconfigured and read-only dashboards located in your dashboard list. They deliver actionable cost insights w",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-billing-and-cost-management-managed-dashboards/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-14-dust-spa-poke-72bcb9b-ungate-slack-auto-respond-without",
-      "date": "2026-08-14",
-      "name": "spa/poke/72bcb9b: Ungate Slack auto-respond without mention for all workspaces. (#30588)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>Admins can enable channel-wide auto-respond in agent Slack settings without the slack_enhanced_default_agent feature flag.</p>\n<p>Co-authored-by: Cursor <a href=\"mailto:cursoragent@cursor.com\">cursoragent@cursor.com</",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F72bcb9b"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-14-dust-spa-poke-fa7d0ad",
-      "date": "2026-08-14",
-      "name": "spa/poke/fa7d0ad",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>feat(models): unify model tier vocabulary and gate streams on their t…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Ffa7d0ad"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-14-aws-amazon-quick-now-supports-per-user-resource-limits",
-      "date": "2026-08-14",
-      "name": "Amazon Quick now supports per-user resource limits",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Quick now enables administrators to set per-user limits on index storage and agent hours, giving them direct control over subscription costs. With limits management, administrators can create limit profiles tha",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-per-user-resource-limits/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-14-aws-amazon-quick-now-supports-data-loss-prevention-wit",
-      "date": "2026-08-14",
-      "name": "Amazon Quick now supports data loss prevention with Microsoft Purview",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Quick now integrates with Microsoft Purview to enforce data loss prevention (DLP) policies across your Quick environment. Organizations need to ensure that sensitive files aren't shared outside approved channel",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-dlp-purview/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-14-aws-amazon-quick-now-supports-approval-policies-for-sh",
-      "date": "2026-08-14",
-      "name": "Amazon Quick now supports approval policies for sharing",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Quick now offers approval policies, giving administrators governance controls over how assets are shared within their organization. With approval policies, administrators can require designated approvers to rev",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-approval-policies-sharing/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-14-aws-amazon-rds-for-oracle-now-supports-oracle-apex-ver",
-      "date": "2026-08-14",
-      "name": "Amazon RDS for Oracle now supports Oracle APEX version 26.1",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/oracle/\">Amazon Relational Database Service (Amazon RDS) for Oracle</a> now supports Oracle APEX version 26.1. Amazon RDS for Oracle is a managed database service that makes it simp",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-oracle-apex-26-1/"
-        }
-      ],
-      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
