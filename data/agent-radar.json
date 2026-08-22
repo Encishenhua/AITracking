@@ -1,6 +1,132 @@
 {
   "items": [
     {
+      "id": "2026-08-21-aws-amazon-connect-customer-now-lets-managers-chat-wit",
+      "date": "2026-08-21",
+      "name": "Amazon Connect Customer now lets managers chat with their data",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect Customer now lets managers chat with their data in plain language and get back the answer, the evidence behind it, and the fix, in seconds. Managers have always had the data. What they haven’t had is th",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-ai-data-analytics"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-21-aws-aws-deadline-cloud-now-tracks-automatic-download-s",
+      "date": "2026-08-21",
+      "name": "AWS Deadline Cloud now tracks automatic download status in the Deadline Cloud Monitor",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>The AWS Deadline Cloud monitor now shows the progress, status, and health of your automatic file downlaods from jobs running in the cloud. Deadline Cloud is a fully managed service that helps teams run compute-intensi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-deadline-cloud-auto-download-status-tracking/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-21-aws-aws-glue-6-0-delivers-30-price-reduction-and-icebe",
+      "date": "2026-08-21",
+      "name": "AWS Glue 6.0 delivers 30% price reduction and Iceberg v3 support",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Glue 6.0 is now generally available, delivering a 30% price reduction and introducing full support for Apache Iceberg v3, newer versions of Apache Hudi and Delta Lake, and new capabilities to improve developer pro",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-6-0-price-reduction-iceberg-v3"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-21-dust-spa-poke-9267ced",
+      "date": "2026-08-21",
+      "name": "spa/poke/9267ced",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>[front] feat: route activation poke through Temporal eligibility gate…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9267ced"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-21-dust-spa-poke-735a252-activation-add-explicit-pod-kind-",
+      "date": "2026-08-21",
+      "name": "spa/poke/735a252: [Activation] Add explicit pod kind (#30709)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Distinguish learning and goal pods without inferring behavior from mutable metadata.</p>\n<p>Co-authored-by: Cursor <a href=\"mailto:cursoragent@cursor.com\">cursoragent@cursor.com</a></p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F735a252"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-21-dust-spa-poke-45a0270",
+      "date": "2026-08-21",
+      "name": "spa/poke/45a0270",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Manage agents page: add a button for admin to access ALL agents (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/30904\">#30904</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F45a0270"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-21-dust-spa-poke-19b9b61",
+      "date": "2026-08-21",
+      "name": "spa/poke/19b9b61",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Workspace management MCP: Add a new MCP to list agents/skills and get…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F19b9b61"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-08-20-crewai-1-15-17",
       "date": "2026-08-20",
       "name": "1.15.17",
@@ -248,6 +374,42 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-20-aws-amazon-ec2-c8gd-m8gd-and-r8gd-instances-are-now-av",
+      "date": "2026-08-20",
+      "name": "Amazon EC2 C8gd, M8gd and R8gd instances are now available in additional AWS Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Elastic Compute Cloud (Amazon EC2) C8gd, M8gd, and R8gd instances with up to 11.4 TB of local NVMe-based SSD block-level storage are now available in additional regions. C8gd instances are now available in Asia",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8gd-m8gd/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-20-aws-amazon-aurora-dsql-now-supports-amazon-cloudwatch-",
+      "date": "2026-08-20",
+      "name": "Amazon Aurora DSQL now supports Amazon CloudWatch Database Insights",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/aurora/dsql/\">Amazon Aurora DSQL</a> now features a new Amazon CloudWatch Database Insights metric that delivers per-statement, cluster-level performance monitoring details. Aurora ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aurora-dsql-cloudwatch-database-insights/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -631,6 +793,24 @@
       "tags": []
     },
     {
+      "id": "2026-08-19-aws-aws-security-agent-now-part-of-aws-continuum-now-s",
+      "date": "2026-08-19",
+      "name": "AWS Security Agent (now part of AWS Continuum) now supports budget controls and finding revalidation",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Security Agent (now part of AWS Continuum) has a on-demand penetration testing service that uses an AI agent to autonomously test web applications for vulnerabilities, billing based on cumulative task hours consum",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-security-agent/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-08-18-aws-amazon-bedrock-now-supports-openai-models-in-india",
       "date": "2026-08-18",
       "name": "Amazon Bedrock now supports OpenAI models in India",
@@ -896,186 +1076,6 @@
         }
       ],
       "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-17-aws-amazon-msk-now-supports-configuring-custom-domain-",
-      "date": "2026-08-17",
-      "name": "Amazon MSK now supports configuring custom domain names for MSK Provisioned clusters",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>You can now easily configure custom domain names on <a href=\"https://aws.amazon.com/msk/\">Amazon MSK Provisioned </a>clusters, on either ZooKeeper or KRaft mode for metadata management. This capability helps client ap",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/17/amazon-msk-custom-domain-names/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-17-aws-amazon-ec2-r8i-and-r8i-flex-instances-are-now-avai",
-      "date": "2026-08-17",
-      "name": "Amazon EC2 R8i and R8i-Flex instances are now available in Canada West (Calgary) region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8i and R8i-flex instances are available in the Canada West (Calgary) region. These instances are powered by custom Intel Xeon 6 processors, available only on ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-r8i-flex-calgary/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-17-aws-amazon-connect-customer-dashboards-now-support-rep",
-      "date": "2026-08-17",
-      "name": "Amazon Connect Customer dashboards now support reporting on routing steps and agent proficiencies",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Connect Customer dashboards now support reporting on routing steps and agent proficiencies enabling supervisors to monitor and optimize how contacts are matched to agents based on agent proficiencies. Managers ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-routing-steps/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-17-aws-amazon-quick-microsoft-365-extensions-are-now-gene",
-      "date": "2026-08-17",
-      "name": "Amazon Quick Microsoft 365 extensions are now generally available",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Quick announces the general availability of Microsoft 365 extensions for Excel, PowerPoint, Word, and Outlook. These extensions enable Quick to perform tasks directly within users' M365 environments, using AI t",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-microsoft-365-extensions-generally-available"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-17-aws-amazon-opensearch-service-now-supports-automatic-s",
-      "date": "2026-08-17",
-      "name": "Amazon OpenSearch Service now supports automatic semantic enrichment for VPC domains",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon OpenSearch Service now extends automatic semantic enrichment to VPC-enabled domains, allowing customers with private network configurations to leverage AI-powered semantic search without exposing their domains ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-opensearch-service-vpc/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-17-aws-aws-cloudshell-now-includes-a-built-in-visual-file",
-      "date": "2026-08-17",
-      "name": "AWS CloudShell now includes a built-in visual file editor",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS CloudShell now includes a built-in visual file editor that you can launch directly from your shell session using a single 'edit' command, no setup required. CloudShell provides a browser-based shell environment th",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-cloudshell-visual-file-editor/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-17-dust-spa-poke-99d8cc3-add-vs-prev-growth-column-to-cons",
-      "date": "2026-08-17",
-      "name": "spa/poke/99d8cc3: Add \"vs prev\" growth column to consumption attribution table (#30581)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>feat(front): add \"vs prev\" growth column to consumption attribution table</li>\n</ul>\n<p>Each row now shows period-over-period growth against an equal-length prior<br />\nwindow, highlighting growth over 100% and ",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F99d8cc3"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-17-dust-spa-poke-01aa410-feat-triggers-table-on-the-automa",
-      "date": "2026-08-17",
-      "name": "spa/poke/01aa410: feat: triggers table on the automations analytics page (#30618)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>feat: triggers table on the automations analytics page</li>\n</ul>\n<p>Lists the workspace's triggers with the agent, editor, type, run count and<br />\ncredits spent over the selected period. Rows come from Postgr",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F01aa410"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-17-dust-spa-poke-0bdb5ee",
-      "date": "2026-08-17",
-      "name": "spa/poke/0bdb5ee",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] perf: speed up MCP server facet loading in new analytics (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/issues/30\">#30</a>…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F0bdb5ee"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-17-dust-spa-poke-000a548-activation-exclude-archived-learn",
-      "date": "2026-08-17",
-      "name": "spa/poke/000a548: [Activation] Exclude archived learning spaces (#30635)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>[Activation] Exclude archived learning spaces</li>\n</ul>\n<p>Treat archived Pods as inactive so For You, nudges, and activation scheduling never route users into read-only conversations.</p>\n<p>Co-authored-by: Cu",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F000a548"
-        }
-      ],
-      "impact": 3,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
