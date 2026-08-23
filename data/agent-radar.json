@@ -127,6 +127,24 @@
       "tags": []
     },
     {
+      "id": "2026-08-21-aws-amazon-bedrock-announces-reduced-pricing-for-opena",
+      "date": "2026-08-21",
+      "name": "Amazon Bedrock announces reduced pricing for OpenAI GPT-5.6 Sol",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, OpenAI announced that they are lowering API prices for GPT-5.6 Sol. Following the recent Terra and Luna price reductions, Sol now costs $4 per million input tokens and $20 per million output tokens—20% lower in",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-openai-gpt-56-sol-reduced-pricing/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-08-20-crewai-1-15-17",
       "date": "2026-08-20",
       "name": "1.15.17",
@@ -1055,24 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-high-memory-u7i-aws-europe/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-17-aws-amazon-bedrock-expands-api-support-and-introduces-",
-      "date": "2026-08-17",
-      "name": "Amazon Bedrock expands API support and introduces Cross Region Inferencing for OpenAI models",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Bedrock now supports the OpenAI GPT-5.6 models (Sol, Terra, and Luna) on the bedrock-runtime endpoint, with support for the Responses, Converse, and Chat Completions APIs. It also adds support for cross-Region ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-cross-region-openai-v2/"
         }
       ],
       "impact": 5,
