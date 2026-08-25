@@ -1,6 +1,186 @@
 {
   "items": [
     {
+      "id": "2026-08-24-aws-amazon-ecs-now-automatically-detects-and-repairs-c",
+      "date": "2026-08-24",
+      "name": "Amazon ECS now automatically detects and repairs container instances with impaired agent connectivity",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html\">Amazon Elastic Container Service</a> (Amazon ECS) now&nbsp;automatically detects and repairs container instances, enabling customers t",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecs-agent-connectivity-health"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-24-aws-sagemaker-mlflow-now-supports-customer-managed-key",
+      "date": "2026-08-24",
+      "name": "SageMaker MLflow now supports customer managed keys",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>SageMaker MLflow now enables customers to encrypt their data using customer-managed keys (CMK) through AWS Key Management Service (KMS).</p> \n<p>This enhancement allows organizations with strict security and complianc",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/sagemaker-mlflow-custom-keys"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-24-aws-amazon-eks-now-supports-multiple-external-oidc-ide",
+      "date": "2026-08-24",
+      "name": "Amazon EKS now supports multiple external OIDC identity providers per cluster",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Elastic Kubernetes Service (Amazon EKS) now supports multiple external OpenID Connect (OIDC) identity providers per cluster. You can associate up to 10 OIDC identity providers with a single cluster, giving you ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-multiple-oidc-providers"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-24-aws-amazon-aurora-now-supports-postgresql-18-4-17-10-1",
+      "date": "2026-08-24",
+      "name": "Amazon Aurora now supports PostgreSQL 18.4, 17.10, 16.14, 15.18, and 14.23",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Aurora PostgreSQL-Compatible Edition now supports PostgreSQL versions 18.4, 17.10, 16.14, 15.18, and 14.23 which include bug fixes from the PostgreSQL community and Aurora-specific enhancements. We recommend up",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-postgresql-18-4-17-10-16-14-15-18-14-23/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-24-aws-amazon-sagemaker-hyperpod-enhances-support-for-ray",
+      "date": "2026-08-24",
+      "name": "Amazon SageMaker HyperPod enhances support for Ray",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker HyperPod now enhances support for Ray with built-in observability, resilient training, accelerated inference and managed development environments. Ray is a popular open-source framework for scaling AI",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker-hyperpod-ray"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-24-aws-amazon-connect-customer-now-supports-information-e",
+      "date": "2026-08-24",
+      "name": "Amazon Connect Customer now supports information extraction for agent voice and chat conversations",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Connect Customer now supports information extraction, which automatically captures key data from voice and chat interactions, reducing manual data capture and improving agent and supervisor productivity. Inform",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-information/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-24-aws-openai-gpt-5-6-terra-and-luna-now-available-on-ama",
+      "date": "2026-08-24",
+      "name": "OpenAI GPT-5.6 Terra and Luna now available on Amazon Bedrock in AWS GovCloud (US)",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>GPT-5.6 Terra and Luna are now generally available on Amazon Bedrock in AWS GovCloud (US-West) and AWS GovCloud (US-East), bringing the smartest family of models from OpenAI yet to Bedrock's next-generation inference ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/openai-gpt-terra-luna-govcloud/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-24-aws-amazon-rds-for-mysql-now-supports-new-minor-versio",
+      "date": "2026-08-24",
+      "name": "Amazon RDS for MySQL now supports new minor version 8.4.11",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, <a href=\"https://aws.amazon.com/rds/mysql/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for MySQL</a> supports MySQL minor version 8.4.11, the latest minor",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-mysql-8411-available/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-24-dust-spa-poke-8524c48",
+      "date": "2026-08-24",
+      "name": "spa/poke/8524c48",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Prefer native tools over Dust agent proxying</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8524c48"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-24-dust-spa-poke-290e8cc",
+      "date": "2026-08-24",
+      "name": "spa/poke/290e8cc",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[sparkle] Bump Storybook to 10.5.8 and enable AI manifests + MCP (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/issues/31\">#31</a>…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F290e8cc"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-08-21-aws-amazon-connect-customer-now-lets-managers-chat-wit",
       "date": "2026-08-21",
       "name": "Amazon Connect Customer now lets managers chat with their data",
@@ -137,6 +317,24 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-openai-gpt-56-sol-reduced-pricing/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-21-aws-aws-neuron-2-32-introduces-expanded-nki-programmin",
+      "date": "2026-08-21",
+      "name": "AWS Neuron 2.32 introduces expanded NKI programming, MXFP8 training kernels, and variable-size collectives for Trn2 and Trn",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Neuron 2.32.0 is now available, introducing NKI 0.6.0 with an on-device top-K instruction, a variable-length `all-gather `for kernels whose ranks hold differently sized tensors, and new loop constructs for data-de",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-announce-neuron-2-32-0"
         }
       ],
       "impact": 5,
@@ -425,6 +623,42 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aurora-dsql-cloudwatch-database-insights/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-20-aws-amazon-redshift-now-supports-concurrency-scaling-o",
+      "date": "2026-08-20",
+      "name": "Amazon Redshift now supports concurrency scaling of streaming ingestion workloads from Amazon Kinesis data streams",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/redshift/\">Amazon Redshift</a>, starting with <a href=\"https://docs.aws.amazon.com/redshift/latest/mgmt/cluster-versions.html#cluster-version-203\">patch P203</a>, supports concurrency s",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-concurrencyscaling-for-kds-streams/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-20-aws-amazon-bedrock-agentcore-memory-now-supports-extra",
+      "date": "2026-08-20",
+      "name": "Amazon Bedrock AgentCore Memory now supports extracting memories from non-conversational JSON payloads",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Bedrock AgentCore memory now accepts a JSON payload type on the CreateEvent API, so agents can extract and consolidate long-term memories from structured data as well as from multi-turn conversations. Developer",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcore-memory-json-payloads"
         }
       ],
       "impact": 5,
@@ -839,240 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-openai-india-v1/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-18-aws-aws-iam-identity-federation-to-external-services-i",
-      "date": "2026-08-18",
-      "name": "AWS IAM identity federation to external services is now available in AWS European Sovereign Cloud Region",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Identity and Access Management (IAM) now enables AWS workloads in the AWS European Sovereign Cloud (Germany) Region to securely authenticate with external services using short-lived JSON Web Tokens (JWTs). The AWS",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-european-sovereign-cloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-18-aws-agentcore-payments-is-now-generally-available-in-a",
-      "date": "2026-08-18",
-      "name": "AgentCore payments is now generally available in Amazon Bedrock AgentCore",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS announces the general availability of AgentCore payments, a capability within Amazon Bedrock AgentCore that enables AI agents to autonomously discover, access, and pay for paid APIs, MCPs, and content with ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-agentcore-payments-ga/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-18-aws-amazon-ec2-r8i-instances-are-now-available-in-isra",
-      "date": "2026-08-18",
-      "name": "Amazon EC2 R8i instances are now available in Israel (Tel Aviv) region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8i instances are available in the Israel (Tel Aviv) region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering t",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-israel-tel-aviv/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-18-aws-postgresql-19-beta-3-is-now-available-in-amazon-rd",
-      "date": "2026-08-18",
-      "name": "PostgreSQL 19 Beta 3 is now available in Amazon RDS Database Preview Environment",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, <a href=\"https://aws.amazon.com/rds/postgresql/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon RDS for PostgreSQL</a> 19 Beta 3 is available in the <a href=\"https://docs.aws.amazon.com/AmazonRDS/lat",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/postgresql-19-beta-3-amazon-rds-database-preview-environment/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-18-aws-amazon-workspaces-now-supports-nested-virtualizati",
-      "date": "2026-08-18",
-      "name": "Amazon WorkSpaces now supports Nested Virtualization",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon WorkSpaces now supports nested virtualization for Amazon WorkSpaces Personal and Amazon WorkSpaces Core Managed Bundles. With nested virtualization enabled, developers can run Docker Desktop, Windows Subsystem ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/nested-virtualization-workspaces/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-18-aws-amazon-s3-metadata-and-annotations-are-now-availab",
-      "date": "2026-08-18",
-      "name": "Amazon S3 Metadata and annotations are now available in AWS GovCloud (US) Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon S3 Metadata and annotations are now available in AWS GovCloud (US-East) and AWS GovCloud (US-West) Regions, giving you the easiest and fastest way to discover, understand, and enrich your S3 data. S3 Metadata a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-s3-metadata-annotations-govcloud-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-18-dust-spa-poke-938bcea",
-      "date": "2026-08-18",
-      "name": "spa/poke/938bcea",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Admin governance: Dual write skill editor permissions in regular auto…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F938bcea"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-18-dust-spa-poke-782d3b4-feat-search-automations-by-name-i",
-      "date": "2026-08-18",
-      "name": "spa/poke/782d3b4: feat: search automations by name in the analytics table (#30692)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>[front] feat: search automations by name in the analytics table</li>\n</ul>\n<p>The filter panel covers agent, editor and type, but finding one automation<br />\namong hundreds still means paging through the table.",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F782d3b4"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-18-dust-spa-poke-315f179-front-feat-default-stake-on-publi",
-      "date": "2026-08-18",
-      "name": "spa/poke/315f179: [front] feat: default stake on published pod functions (#30626)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>[front] feat: default stake on published pod functions</li>\n</ul>\n<p>Sharing a pod function as an MCP tool will need to know how much approval it<br />\nshould require. Record that at publish time, while the mode",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F315f179"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-18-dust-spa-poke-53dcab0-feat-summary-cards-on-the-automat",
-      "date": "2026-08-18",
-      "name": "spa/poke/53dcab0: feat: summary cards on the automations analytics page (#30657)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>feat: summary cards on the automations analytics page</li>\n</ul>\n<p>The triggers table shows per-trigger detail but nothing tells an admin how<br />\nmuch of the workspace's spend automations account for, or how ",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F53dcab0"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-18-dust-spa-poke-47fe2fa",
-      "date": "2026-08-18",
-      "name": "spa/poke/47fe2fa",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] perf: add (workspaceId, groupId) index on group_permissions (…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F47fe2fa"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-18-dust-spa-poke-8b89925",
-      "date": "2026-08-18",
-      "name": "spa/poke/8b89925",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Admin governance: add method findRegularAutoGroupsForGrants in group_…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8b89925"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-18-aws-amazon-ec2-high-memory-u7i-instances-now-available",
-      "date": "2026-08-18",
-      "name": "Amazon EC2 High Memory U7i instances now available in AWS Europe (Zurich) region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon EC2 High Memory U7i-6TB instances (u7i-6tb.112xlarge) are now available in AWS Europe (Zurich) region. U7i instances are part of the AWS 7th generation and are powered by custom fourth-generation Intel Xeon Sca",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-high-memory-u7i-aws-europe/"
         }
       ],
       "impact": 5,
