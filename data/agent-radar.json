@@ -1,6 +1,186 @@
 {
   "items": [
     {
+      "id": "2026-08-25-aws-aws-iot-core-now-supports-native-influxdb-routing-",
+      "date": "2026-08-25",
+      "name": "AWS IoT Core now supports native InfluxDB routing for time-series data",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/iot-core/\">AWS IoT Core</a> now supports <a href=\"https://docs.aws.amazon.com/iot/latest/developerguide/influxdb-rule-action.html\">InfluxDB rule action</a> that routes time-series data ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iot-core-influxdb/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-25-aws-aws-lambda-microvms-now-supports-aws-privatelink",
+      "date": "2026-08-25",
+      "name": "AWS Lambda MicroVMs now supports AWS PrivateLink",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Lambda MicroVMs now supports AWS PrivateLink, enabling private connectivity to Lambda MicroVMs directly from Amazon Virtual Private Cloud (VPC) resources without exposing traffic to the public internet. This launc",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-microvms-supports-privatelink"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-25-aws-amazon-connect-customer-now-lets-you-update-the-cu",
+      "date": "2026-08-25",
+      "name": "Amazon Connect Customer now lets you update the customer profile on a case or add a profile after a case is opened",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><span style=\"font-weight: normal;\">Amazon Connect Customer now lets agents change the profile on a case or choose a profile after the case is opened. If a case is linked to the wrong customer, agents can update the pr",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-cases-flexible-profiles/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-25-aws-amazon-rds-for-postgresql-supports-minor-versions-",
+      "date": "2026-08-25",
+      "name": "Amazon RDS for PostgreSQL supports minor versions 18.6, 17.11, 16.15, 15.19, and 14.24",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/postgresql/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Relational Database Service (RDS) for PostgreSQL</a> now supports the latest minor versions 18.6, 17.11, 16.15, 15.19, ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-postgresql-18-6-17-11-16-15-15-19-14-24/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-25-aws-iam-roles-anywhere-now-provides-a-java-plugin-for-",
+      "date": "2026-08-25",
+      "name": "IAM Roles Anywhere now provides a Java plugin for the AWS SDK",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p><a href=\"https://aws.amazon.com/iam/roles-anywhere/\">AWS Identity and Access Management (IAM) Roles Anywhere</a> now provides a plugin for the <a href=\"https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/h",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/iam-roles-anywhere-java/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-25-aws-aws-lambda-introduces-managed-runtimes-in-public-p",
+      "date": "2026-08-25",
+      "name": "AWS Lambda introduces managed runtimes in public preview for Node.js 26 and Python 3.15",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS Lambda introduces managed runtimes in public preview, starting with Node.js 26 and Python 3.15. This gives customers, partners and upstream language communities the opportunity to try upcoming managed runti",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-node-js-python-public-preview/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-25-aws-amazon-rds-for-oracle-now-supports-july-2026-relea",
+      "date": "2026-08-25",
+      "name": "Amazon RDS for Oracle now supports July 2026 Release Update",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/oracle/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for Oracle</a> now supports the <a href=\"https://www.oracle.com/security-alerts/cpujul2026.html#AppendixDB\" ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-oracle-july-2026-release-update"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-25-aws-aws-secrets-manager-adds-managed-external-secrets-",
+      "date": "2026-08-25",
+      "name": "AWS Secrets Manager adds managed external secrets support for Cisco Security Platform and Netskope",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS Secrets Manager now extends its managed external secrets capability to include Cisco Security Platform API keys and Netskope API tokens, enabling you to automatically rotate these third-party credentials directly ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/secrets-manager-cisco-netskope/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-25-aws-aws-lambda-functions-now-support-full-iam-resource",
+      "date": "2026-08-25",
+      "name": "AWS Lambda functions now support full IAM resource-based policies",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS Lambda functions now support full Identity and Access Management (IAM) <a href=\"https://docs.aws.amazon.com/IAM/latest/UserGuide/access_controlling.html#access_controlling-resources\" rel=\"noopener noreferrer\" targ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-full-iam-resource-based-policies/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-25-dust-spa-poke-2e55185-activation-show-the-goal-overview",
+      "date": "2026-08-25",
+      "name": "spa/poke/2e55185: [Activation] Show the Goal overview only to Pod editors (#31066)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>[Activation] Show the Goal overview only to Pod editors.</li>\n</ul>\n<p>Co-authored-by: Cursor <a href=\"mailto:cursoragent@cursor.com\">cursoragent@cursor.com</a></p>\n<ul>\n<li>[Activation] Authorize rec dismiss vi",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2e55185"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-08-24-aws-amazon-ecs-now-automatically-detects-and-repairs-c",
       "date": "2026-08-24",
       "name": "Amazon ECS now automatically detects and repairs container instances with impaired agent connectivity",
@@ -176,6 +356,24 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-24-aws-msk-replicator-now-supports-oauth-2-0-sasl-oauthbe",
+      "date": "2026-08-24",
+      "name": "MSK Replicator now supports OAuth 2.0 (SASL/OAUTHBEARER) authentication for replication from external Apache Kafka clusters to Amazon MSK",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon MSK Replicator now supports OAuth 2.0 (SASL/OAUTHBEARER) authentication for data replication from external Apache Kafka clusters - including on-premises, self-managed on AWS, or other cloud providers - to <a hr",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-msk-replicator-OAuth-support"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -875,204 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-quota-increase/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-19-aws-aws-storage-gateway-now-supports-fips-compliant-pr",
-      "date": "2026-08-19",
-      "name": "AWS Storage Gateway now supports FIPS-compliant private connectivity for Tape and Volume Gateway",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Storage Gateway now supports FIPS 140-3 validated endpoints over AWS PrivateLink for Tape Gateway and Volume Gateway. Previously, FIPS endpoints were available only over the public internet. Now you can keep FIPS-",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/storage-gateway-fips-privatelink/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-19-aws-amazon-ec2-r8a-instances-are-now-available-in-asia",
-      "date": "2026-08-19",
-      "name": "Amazon EC2 R8a instances are now available in Asia Pacific (Taipei) region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon EC2 R8a instances are now available in Asia Pacific (Taipei) Region. These instances, feature 5th Gen AMD EPYC processors (formerly code named Turin) with a maximum frequency of 4.5 GHz, deliver",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8a-asia-pacific-taipei/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-19-aws-amazon-bedrock-now-supports-spacexai-grok-4-6-with",
-      "date": "2026-08-19",
-      "name": "Amazon Bedrock now supports SpaceXAI Grok 4.6 with Cross Region Inferencing",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Bedrock now supports SpaceXAI Grok 4.6, a frontier model built for coding, agentic tasks, and knowledge work, with US Geo and Global cross-Region inference. Customers can now access Grok 4.6 at scale with cross",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-grok-4-6/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-19-dust-spa-poke-9470655-front-enh-collapse-multi-agent-cr",
-      "date": "2026-08-19",
-      "name": "spa/poke/9470655: [front] enh: collapse multi-agent credit details (#30789)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>[front] enh: collapse multi-agent credit details</p>\n</li>\n<li>\n<p>[front] polish: move agent credit trigger to left</p>\n</li>\n<li>\n<p>[front] polish: increase agent header spacing</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9470655"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-19-dust-spa-poke-7276c61-front-perf-cache-group-permission",
-      "date": "2026-08-19",
-      "name": "spa/poke/7276c61: [front] perf: Cache group permissions per workspace in Redis (#30743)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>[front] perf: Cache group permissions per workspace in Redis</p>\n</li>\n<li>\n<p>[front] refactor: Decode cached grants with type guards, key in the resource</p>\n</li>\n<li>\n<p>[front] refactor: Pass auth to th",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F7276c61"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-19-dust-spa-poke-77e828b",
-      "date": "2026-08-19",
-      "name": "spa/poke/77e828b",
-      "vendor": "Dust",
-      "type": "pricing",
-      "summary": "<p>Pricing: display how long the credits are valid (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/30803\">#30803</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F77e828b"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-19-dust-spa-poke-43cea8e",
-      "date": "2026-08-19",
-      "name": "spa/poke/43cea8e",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] enh: rework workspace usage page (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/30721\">#30721</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F43cea8e"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-19-dust-spa-poke-8cca4ef-chore-drop-the-legacy-trigger-exe",
-      "date": "2026-08-19",
-      "name": "spa/poke/8cca4ef: chore: drop the legacy trigger execution mode vocabulary (#30784)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>Removes fair_use/programmatic and the getTriggerExecutionMode shim now that<br />\nthe data is migrated, and makes executionMode NOT NULL. The field moves onto<br />\nthe shared trigger base schema since it applies to s",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8cca4ef"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-19-aws-amazon-dynamodb-streams-now-supports-attribute-bas",
-      "date": "2026-08-19",
-      "name": "Amazon DynamoDB Streams now supports attribute-based access control",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon DynamoDB Streams now supports attribute-based access control (ABAC), enabling you to use tag-based conditions in your Identity and Access Management (IAM) policies to control access to your data streams. ABAC i",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-dynamodb-streams-abac/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-19-aws-aws-security-agent-now-part-of-aws-continuum-now-s",
-      "date": "2026-08-19",
-      "name": "AWS Security Agent (now part of AWS Continuum) now supports budget controls and finding revalidation",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Security Agent (now part of AWS Continuum) has a on-demand penetration testing service that uses an AI agent to autonomously test web applications for vulnerabilities, billing based on cumulative task hours consum",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-security-agent/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-18-aws-amazon-bedrock-now-supports-openai-models-in-india",
-      "date": "2026-08-18",
-      "name": "Amazon Bedrock now supports OpenAI models in India",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Bedrock now supports the OpenAI GPT-5.6 models (Terra and Luna) in India, with India Geo cross-Region inference. Customers with regulatory requirements of in-country inferencing can now use OpenAI models at sca",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-openai-india-v1/"
         }
       ],
       "impact": 5,
