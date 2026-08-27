@@ -1,6 +1,150 @@
 {
   "items": [
     {
+      "id": "2026-08-27-dust-spa-poke-8d925eb",
+      "date": "2026-08-27",
+      "name": "spa/poke/8d925eb",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] fix: hide agent analytics tab for non-editors (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/31222\">#31222</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8d925eb"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-27-dust-spa-app-8d925eb",
+      "date": "2026-08-27",
+      "name": "spa/app/8d925eb",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] fix: hide agent analytics tab for non-editors (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/31222\">#31222</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F8d925eb"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-26-aws-amazon-cognito-adds-admin-api-operation-to-reset-u",
+      "date": "2026-08-26",
+      "name": "Amazon Cognito adds admin API operation to reset user TOTP configurations",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Cognito now provides a new admin API operation to reset a user's time-based one-time Password (TOTP) multi-factor authentication (MFA) configuration. When users lose access to their TOTP device, administrators ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cognito-totp-reset/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-26-aws-amazon-connect-customer-now-supports-unplanned-shr",
+      "date": "2026-08-26",
+      "name": "Amazon Connect Customer now supports unplanned shrinkage in agent schedules",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect Customer now enables managers to input unplanned shrinkage in agent schedules, providing a more accurate picture of staffing due to unscheduled agent absences such as late logins or unplanned sick leave",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-unplanned-shrinkage/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-26-aws-mountpoint-for-amazon-s3-adds-memory-usage-control",
+      "date": "2026-08-26",
+      "name": "Mountpoint for Amazon S3 adds memory usage controls",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Mountpoint for Amazon S3 can now limit memory usage, either automatically based on the environment it runs in or with a limit that you define. This lets you run Mountpoint alongside memory-intensive applications, for ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/mountpoint-for-S3-adds-memory-usage-controls"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-26-aws-amazon-connect-customer-now-supports-points-based-",
+      "date": "2026-08-26",
+      "name": "Amazon Connect Customer now supports points-based scoring in performance evaluations",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Connect Customer now supports points-based scoring to evaluate human and AI agent performance, giving managers more flexibility in configuring evaluation scores. With points-based scoring, managers assign point",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-points-based-scoring-evaluations/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-26-aws-aws-backup-adds-cross-region-backup-copy-and-logic",
+      "date": "2026-08-26",
+      "name": "AWS Backup adds cross-Region backup copy and logically air-gapped vault support for Amazon DocumentDB in nine additional AWS Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Backup now supports copying Amazon DocumentDB backups across AWS Regions and storing them in logically air-gapped vaults in nine additional AWS Regions: Asia Pacific (Hong Kong, Jakarta, Melbourne, Osaka), Europe ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-backup-cross-region-air-gapped-docdb/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-26-dust-spa-poke-7306678",
+      "date": "2026-08-26",
+      "name": "spa/poke/7306678",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] Stop fetching all admin spaces to invalidate MCP views (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/31162\">#31162</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F7306678"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-08-25-aws-aws-iot-core-now-supports-native-influxdb-routing-",
       "date": "2026-08-25",
       "name": "AWS IoT Core now supports native InfluxDB routing for time-series data",
@@ -176,6 +320,78 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-25-aws-amazon-ec2-r8id-instances-are-now-available-in-add",
+      "date": "2026-08-25",
+      "name": "Amazon EC2 R8id instances are now available in additional AWS Regions",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Elastic Compute Cloud (Amazon EC2) R8id instances are now available in additional regions. R8id instances are now available in Asia Pacific (Mumbai, Malaysia, Sydney), Canada (Central), and Europe (Ireland, Sto",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8id/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-25-aws-amazon-ec2-c8id-and-m8id-instances-are-now-availab",
+      "date": "2026-08-25",
+      "name": "Amazon EC2 C8id and M8id instances are now available in additional AWS Regions",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Elastic Compute Cloud (Amazon EC2) C8id and M8id instances with up to 22.8 TB of local NVMe-based SSD block-level storage are now available in additional regions. C8id instances are now available in Asia Pacifi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8id-m8id-aws-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-25-aws-amazon-ec2-m8i-and-m8i-flex-instances-are-now-avai",
+      "date": "2026-08-25",
+      "name": "Amazon EC2 M8i and M8i-flex instances are now available in Canada West (Calgary) region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon EC2 M8i and M8i-flex instances are now available in Canada West (Calgary) region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the highest per",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/ec2-m8i-m8i-flex-canada-west/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-25-aws-amazon-gamelift-servers-enhanced-ddos-protection-n",
+      "date": "2026-08-25",
+      "name": "Amazon GameLift Servers enhanced DDoS Protection now available",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon GameLift Servers now offers Enhanced DDoS Protection, a new layer of protection that defends game servers from common network and transport layer DDoS attacks with no configuration required.</p> \n<p>Enhanced DD",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-gamelift-servers-enhanced-ddos-protection"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -371,6 +587,24 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-msk-replicator-OAuth-support"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-24-aws-aws-glue-now-supports-catalog-federation-for-remot",
+      "date": "2026-08-24",
+      "name": "AWS Glue now supports catalog federation for remote Apache Iceberg catalogs in AWS GovCloud (US) regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Glue now supports catalog federation for remote Iceberg REST catalogs in AWS GovCloud (US) Regions. This capability provides direct and secure access to Iceberg tables, stored in Amazon S3 and cataloged in remote ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-catalog-federation-iceberg-govcloud/"
         }
       ],
       "impact": 5,
@@ -839,240 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-concurrencyscaling-for-kds-streams/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-20-aws-amazon-bedrock-agentcore-memory-now-supports-extra",
-      "date": "2026-08-20",
-      "name": "Amazon Bedrock AgentCore Memory now supports extracting memories from non-conversational JSON payloads",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Bedrock AgentCore memory now accepts a JSON payload type on the CreateEvent API, so agents can extract and consolidate long-term memories from structured data as well as from multi-turn conversations. Developer",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcore-memory-json-payloads"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-19-aws-launching-external-web-access-for-web-search-on-am",
-      "date": "2026-08-19",
-      "name": "Launching External Web Access for Web Search on Amazon Bedrock",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Earlier this month, we announced <a href=\"https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-web/\" style=\"background-color: rgb(255,255,255);\">Web Search on Amazon Bedrock</a>, a built-in server-side to",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-web-access-web-search/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-19-aws-web-search-in-amazon-bedrock-agentcore-adds-domain",
-      "date": "2026-08-19",
-      "name": "Web Search in Amazon Bedrock AgentCore adds domain and published date filtering, expands to Europe and Asia Pacific",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Web Search in Amazon Bedrock AgentCore now supports domain filtering and published-date filtering, giving agents per-request control over which web sources and time windows they search. Amazon Bedrock AgentCore provid",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/web-search-amazon-bedrock/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-19-aws-amazon-cloudwatch-log-centralization-now-supports-",
-      "date": "2026-08-19",
-      "name": "Amazon CloudWatch log Centralization now supports log group tag propagation",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon CloudWatch Centralization now copies log group tags from source accounts to the destination log groups created by centralization rules. CloudWatch Centralization aggregates log data from multiple accounts and R",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-centralization-tag-propogation/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-19-aws-amazon-sagemaker-notebooks-now-support-trusted-ide",
-      "date": "2026-08-19",
-      "name": "Amazon SageMaker notebooks now support trusted identity propagation",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker Notebooks now support Trusted Identity Propagation (TIP) with Amazon Athena, Amazon Redshift, and Amazon EMR Serverless, enabling per-user access control for data analytics.</p> \n<p>When connected to ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-19-aws-aws-cost-anomaly-detection-supports-third-party-mo",
-      "date": "2026-08-19",
-      "name": "AWS Cost Anomaly Detection supports third-party models on Amazon Bedrock",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/aws-cost-management/aws-cost-anomaly-detection/\">AWS Cost Anomaly Detection</a> now monitors spend on third-party foundation models running on Amazon Bedrock, such as Anthropic Claude a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-cost-anomaly-detection-bedrock-3P/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-19-aws-amazon-opensearch-ingestion-is-now-available-in-go",
-      "date": "2026-08-19",
-      "name": "Amazon OpenSearch Ingestion is now available in GovCloud Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, customers can use Amazon OpenSearch Ingestion in AWS GovCloud (US-East) and AWS GovCloud (US-West), for ingesting data into their Amazon OpenSearch Service managed clusters or serverless collections.<b",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/opensearch-ingestion-available-govcloud-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-19-aws-aws-marketplace-launches-support-for-amazon-lights",
-      "date": "2026-08-19",
-      "name": "AWS Marketplace launches support for Amazon Lightsail",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS Marketplace announces support for launching select Amazon Machine Images (AMIs) on Amazon Lightsail. Customers who want simple, predictable pricing and a streamlined instance-creation experience can now eas",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace-launch-ami-amazon-lightsail"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-19-aws-aws-announces-a-new-availability-zone-in-the-europ",
-      "date": "2026-08-19",
-      "name": "AWS announces a new Availability Zone in the Europe (London) Region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS has added a fourth Availability Zone to the Europe (London) Region (eu-west-2), expanding infrastructure capacity to meet growing demand for cloud compute in the Region. The new Availability Zone delivers next-gen",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-new-availability-zone-europe/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-19-aws-aws-lambda-microvms-is-now-available-in-5-addition",
-      "date": "2026-08-19",
-      "name": "AWS Lambda MicroVMs is now available in 5 additional AWS regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Lambda MicroVMs is now available in 5 additional AWS Regions: Asia Pacific (Mumbai), Asia Pacific (Singapore), Asia Pacific (Sydney), Europe (Frankfurt), and Europe (Stockholm). With this launch, you can use Lambd",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-microvms-5-additional-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-19-aws-amazon-quick-adds-deny-by-default-for-custom-permi",
-      "date": "2026-08-19",
-      "name": "Amazon Quick adds deny by default for custom permissions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Quick custom permissions now include deny by default, a governance setting that automatically restricts new AI capabilities before they reach users.<br /> <br /> Previously, new AI capabilities were available t",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-deny-by-default/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-19-aws-amazon-workspaces-applications-now-offers-in-conso",
-      "date": "2026-08-19",
-      "name": "Amazon WorkSpaces Applications now offers in-console monitoring capabilities",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon WorkSpaces Applications now offers a native monitoring experience embedded directly in the service console. Administrators can now access real-time session-level metrics, instance-level resource data, and netwo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-workspaces-applications-console-monitoring"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-19-aws-aws-iam-now-supports-20-managed-policies-per-role-",
-      "date": "2026-08-19",
-      "name": "AWS IAM now supports 20 managed policies per role by default",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p><a href=\"https://aws.amazon.com/iam/\">AWS Identity and Access Management (IAM)</a> has increased the default quota for managed policies per role from 10 to 20.</p> \n<p>This higher default quota reduces the need to mak",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-quota-increase/"
         }
       ],
       "impact": 5,
