@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "2026-08-28-dust-spa-poke-42c9186-admin-governance-add-agent-permis",
+      "date": "2026-08-28",
+      "name": "spa/poke/42c9186: [Admin Governance] Add agent permissions migration plan (#31318)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>docs: plan agent governance migration</p>\n</li>\n<li>\n<p>docs: split agent migration into focused PRs</p>\n</li>\n<li>\n<p>docs: consolidate agent migration PR sequence</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F42c9186"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-28-dust-spa-app-42c9186-admin-governance-add-agent-permiss",
+      "date": "2026-08-28",
+      "name": "spa/app/42c9186: [Admin Governance] Add agent permissions migration plan (#31318)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>docs: plan agent governance migration</p>\n</li>\n<li>\n<p>docs: split agent migration into focused PRs</p>\n</li>\n<li>\n<p>docs: consolidate agent migration PR sequence</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F42c9186"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-08-27-dust-spa-poke-8d925eb",
       "date": "2026-08-27",
       "name": "spa/poke/8d925eb",
@@ -34,6 +70,312 @@
       "impact": 3,
       "risk": 3,
       "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-27-openai-better-answers-broader-thinking-what-students-gain",
+      "date": "2026-08-27",
+      "name": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-27-openai-expanding-openai-s-presence-in-brazil",
+      "date": "2026-08-27",
+      "name": "Expanding OpenAI’s presence in Brazil",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/expanding-our-presence-in-brazil"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-27-openai-users-may-experience-an-increase-in-error-rates-in",
+      "date": "2026-08-27",
+      "name": "Users may experience an increase in error rates in Workspace Agents and ChatGPT Work on Web and Mobile",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Agent (Operational)</li>\n<li>ChatGPT Work (Operational)</li>\n         ",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M1263309PD7VYV8EF95W2M2P"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-27-aws-cosmos3-edge-cosmos3-nano-and-cosmos3-super-models",
+      "date": "2026-08-27",
+      "name": "Cosmos3-Edge, Cosmos3-Nano, and Cosmos3-Super models now available on Amazon SageMaker JumpStart",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>NVIDIA's Cosmos3-Edge, Cosmos3-Nano, and Cosmos3-Super models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. These three models form the Cosmo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/cosmos3-edge-cosmos3-nano-cosmos3-super-on-sagemaker-jumpstart/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-27-aws-muse-glimmer-30b-and-qwen-3-8-27b-models-now-avail",
+      "date": "2026-08-27",
+      "name": "Muse-Glimmer-30B and Qwen 3.8-27B models now available on Amazon SageMaker JumpStart",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Meta's Muse-Glimmer-30B and Alibaba's Qwen 3.8-27B models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. These two models bring specialized ca",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/muse-glimmer-30b-qwen-3.8-27b-on-sagemaker-jumpstart/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-27-aws-amazon-redshift-integrates-with-agent-toolkit-for-",
+      "date": "2026-08-27",
+      "name": "Amazon Redshift integrates with Agent Toolkit for AWS for AI-assisted data warehouse management",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p><a href=\"https://aws.amazon.com/redshift/\">Amazon Redshift</a> now integrates with the <a href=\"https://aws.amazon.com/products/developer-tools/agent-toolkit-for-aws/\">Agent Toolkit for AWS</a>, enabling you to build,",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-agenttoolkit-for-ai-assisted-datawarehouse-mgmt"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-27-aws-amazon-ec2-x8i-instances-are-now-available-in-addi",
+      "date": "2026-08-27",
+      "name": "Amazon EC2 X8i instances are now available in additional regions",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) X8i instances are available in the Europe (Milan) and Europe (Spain) regions. These instances are powered by custom Intel Xeon 6 processors available only on A",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-x8i-europe-milan-spain/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-27-aws-amazon-bedrock-agentcore-expands-to-two-new-region",
+      "date": "2026-08-27",
+      "name": "Amazon Bedrock AgentCore expands to two new regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Bedrock AgentCore is now available in two additional AWS Regions: US West (N. California) and Asia Pacific (Hyderabad). Amazon Bedrock AgentCore is the platform to build, connect, and optimize agents. It helps ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-agentcore-two-new-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-27-aws-amazon-connect-customer-expands-conversational-ana",
+      "date": "2026-08-27",
+      "name": "Amazon Connect Customer expands conversational analytics capabilities in the Africa (Cape Town) Region",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Connect Customer now supports generative AI-powered summaries, real-time call analytics, and real-time rules in the Africa (Cape Town) Region. These capabilities extend the post-contact conversational analytics",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/connect-customer-analytics-cape-town/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-27-aws-amazon-connect-customer-now-automatically-refreshe",
+      "date": "2026-08-27",
+      "name": "Amazon Connect Customer now automatically refreshes scheduling metrics",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Connect Customer now automatically refreshes schedule metrics on the scheduling page, giving managers immediate visibility into the impact of schedule updates. For example, when a new team meeting is added for ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-scheduling-metrics/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-27-aws-amazon-fsx-for-netapp-ontap-now-supports-copying-b",
+      "date": "2026-08-27",
+      "name": "Amazon FSx for NetApp ONTAP now supports copying backups across AWS Regions and accounts",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon FSx for NetApp ONTAP, a fully managed shared storage service built on NetApp's popular ONTAP file system, now supports copying backups within and across AWS Regions, and across trusted accounts in your AWS orga",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/fsx-ontap-cross-region-backup-copy/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-27-aws-aws-backup-adds-cross-region-and-cross-account-bac",
+      "date": "2026-08-27",
+      "name": "AWS Backup adds cross-Region and cross-account backup support for Amazon FSx for NetApp ONTAP",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Backup now supports copying Amazon FSx for NetApp ONTAP backups across AWS Regions and accounts. You can copy your FSx for NetApp ONTAP backups to another AWS Region, another AWS account, or both, using policy-bas",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-backup-amazon-fsx-netapp-cross-account-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-27-aws-amazon-evs-now-supports-i7i-metal-48xl-amazon-ec2-",
+      "date": "2026-08-27",
+      "name": "Amazon EVS now supports i7i.metal-48xl Amazon EC2 instance type",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, we're announcing that Amazon Elastic VMware Service (Amazon EVS) now supports the i7i.metal-48xl Amazon Elastic Cloud Compute (Amazon EC2) bare-metal instance type, offering a higher core-count option with a ne",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-evs-i7i-48xl"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-27-dust-spa-poke-283e4d2",
+      "date": "2026-08-27",
+      "name": "spa/poke/283e4d2",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>[front] cleanup: remove legacy agent observability components (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/31158\">#31158</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F283e4d2"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-27-dust-spa-poke-44e30a9",
+      "date": "2026-08-27",
+      "name": "spa/poke/44e30a9",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Admin governance: drop role based read permission from skills (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/31215\">#31215</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F44e30a9"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-27-dust-spa-poke-13d8e52",
+      "date": "2026-08-27",
+      "name": "spa/poke/13d8e52",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] enh: add Agent/Skill info pages from analytics page (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/31261\">#31261</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F13d8e52"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-27-crewai-1-15-18",
+      "date": "2026-08-27",
+      "name": "1.15.18",
+      "vendor": "CrewAI",
+      "type": "upgrade",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Promote conversational flows to stable</li>\n<li>Record a created deployment with the given UUID</li>\n<li>Enhance conversational flow documentation and APIs</li>\n<li>Let ",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.18"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
       "tags": []
     },
     {
@@ -734,348 +1076,6 @@
         }
       ],
       "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-21-aws-amazon-bedrock-announces-reduced-pricing-for-opena",
-      "date": "2026-08-21",
-      "name": "Amazon Bedrock announces reduced pricing for OpenAI GPT-5.6 Sol",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, OpenAI announced that they are lowering API prices for GPT-5.6 Sol. Following the recent Terra and Luna price reductions, Sol now costs $4 per million input tokens and $20 per million output tokens—20% lower in",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-openai-gpt-56-sol-reduced-pricing/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-21-aws-aws-neuron-2-32-introduces-expanded-nki-programmin",
-      "date": "2026-08-21",
-      "name": "AWS Neuron 2.32 introduces expanded NKI programming, MXFP8 training kernels, and variable-size collectives for Trn2 and Trn",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Neuron 2.32.0 is now available, introducing NKI 0.6.0 with an on-device top-K instruction, a variable-length `all-gather `for kernels whose ranks hold differently sized tensors, and new loop constructs for data-de",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-announce-neuron-2-32-0"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-20-crewai-1-15-17",
-      "date": "2026-08-20",
-      "name": "1.15.17",
-      "vendor": "CrewAI",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add declarative conversational flows documentation</li>\n<li>Synthesize built-in conversational methods for declarations</li>\n<li>Enable declarations to drive conversatio",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.17"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-08-20-openai-introducing-ai-futures",
-      "date": "2026-08-20",
-      "name": "Introducing AI Futures",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/introducing-ai-futures"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-20-aws-aws-announces-the-general-availability-of-a-new-aw",
-      "date": "2026-08-20",
-      "name": "AWS announces the general availability of a new AWS Local Zone in Las Vegas, Nevada",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Local Zone in Las Vegas, Nevada is now generally available. The new AWS Local Zone supports Amazon Elastic Compute Cloud (Amazon EC2) C7i, M7i, R7i, and C8gn instances, Amazon Elastic Block Store (Amazon EBS) volu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-local-zones-las-vegas-nevada/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-20-aws-amazon-timestream-for-influxdb-now-supports-custom",
-      "date": "2026-08-20",
-      "name": "Amazon Timestream for InfluxDB now supports customer managed keys",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Timestream for InfluxDB now supports AWS Key Management Service (AWS KMS) customer managed keys for encrypting data at rest in InfluxDB 2 database instances, InfluxDB 2 Read Replicas, and InfluxDB 3 clusters. C",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-timestream-influxdb-cmk/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-20-aws-amazon-ec2-p6-b300-instances-are-now-available-in-",
-      "date": "2026-08-20",
-      "name": "Amazon EC2 P6-B300 instances are now available in the Asia Pacific (Seoul) Region",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Starting today, Amazon Elastic Cloud Compute (Amazon EC2) P6-B300 instances are available in the Asia Pacific (Seoul) Region. P6-B300 instances provide 8xNVIDIA Blackwell Ultra GPUs with 2.1 TB high bandwidth GPU memo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-p6-b300/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-20-aws-amazon-eks-now-supports-certificate-authority-ca-r",
-      "date": "2026-08-20",
-      "name": "Amazon EKS now supports certificate authority (CA) rotation with automated lifecycle management",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, Amazon Elastic Kubernetes Service (Amazon EKS) announced certificate authority (CA) rotation, enabling customers to rotate their cluster's CA through a managed lifecycle with automated safeguards. Each Amazon E",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-certificate-authority-ca-rotation-automated-lifecycle-management"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-20-aws-aws-partner-central-agents-mcp-server-now-supports",
-      "date": "2026-08-20",
-      "name": "AWS Partner Central agents MCP Server now supports OAuth with AWS Sign-In",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS partners can now access AWS Partner Central agents from tools they already use, such as Amazon Quick and Kiro, using OAuth through AWS Sign-In. Partners can authorize agent access with their existing AWS identitie",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/8/aws-partner-central-mcp/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-20-aws-arc-region-switch-adds-amazon-rds-switchover-read-",
-      "date": "2026-08-20",
-      "name": "ARC Region switch adds Amazon RDS Switchover Read Replica execution block",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, we are launching the <b>Amazon RDS Switchover Read Replica execution block</b> in <b>ARC Region switch</b>, which automates recovery orchestration for Amazon RDS databases running Oracle Data Guard in multi-Reg",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/region-switch-rds-switchover-execution-block/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-20-aws-generative-ai-inference-recommendation-for-amazon-",
-      "date": "2026-08-20",
-      "name": "Generative AI Inference Recommendation for Amazon SageMaker now available in the SageMaker AI Studio",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker AI now offers Generative AI Inference Recommendations in SageMaker AI Studio, giving customers a guided, low-code, no-code path to find the best inference configuration for their workload. This builds",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/generative-ai-inference-recommendation-for-amazon-sagemaker-now-available-in-the-sagemaker-ai-studio"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-20-aws-aws-direct-connect-introduces-inbound-prefix-contr",
-      "date": "2026-08-20",
-      "name": "AWS Direct Connect introduces inbound prefix controls and higher prefix scale",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS Direct Connect announced inbound prefix controls, a new capability that lets you allocate and manage inbound route-prefix allocations for your private and transit virtual interfaces (VIFs) based on your wor",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-direct-connect-new-prefix-controls"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-20-aws-amazon-redshift-introduces-long-term-system-table-",
-      "date": "2026-08-20",
-      "name": "Amazon Redshift introduces long-term system table retention with Amazon S3 Tables integration",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/redshift/\">Amazon Redshift</a> now supports long-term retention for system table data through native integration with <a href=\"https://aws.amazon.com/s3/features/tables/?trk=a0cfbe47-91",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-long-term-system-table-retention/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-20-dust-spa-poke-8956b7d",
-      "date": "2026-08-20",
-      "name": "spa/poke/8956b7d",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] enh: reuse Composer UI for Manage Agents model filter (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/30821\">#30821</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8956b7d"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-20-dust-spa-poke-59f73a4",
-      "date": "2026-08-20",
-      "name": "spa/poke/59f73a4",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] fix: include isManager on MCP metadata snapshot mock auth (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/3\">#3</a>…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F59f73a4"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-20-dust-spa-poke-55f81e5",
-      "date": "2026-08-20",
-      "name": "spa/poke/55f81e5",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Public API: allow admin to retrieve all agents including unpublished …</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F55f81e5"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-20-aws-amazon-ec2-c8gd-m8gd-and-r8gd-instances-are-now-av",
-      "date": "2026-08-20",
-      "name": "Amazon EC2 C8gd, M8gd and R8gd instances are now available in additional AWS Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Elastic Compute Cloud (Amazon EC2) C8gd, M8gd, and R8gd instances with up to 11.4 TB of local NVMe-based SSD block-level storage are now available in additional regions. C8gd instances are now available in Asia",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8gd-m8gd/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-20-aws-amazon-aurora-dsql-now-supports-amazon-cloudwatch-",
-      "date": "2026-08-20",
-      "name": "Amazon Aurora DSQL now supports Amazon CloudWatch Database Insights",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/aurora/dsql/\">Amazon Aurora DSQL</a> now features a new Amazon CloudWatch Database Insights metric that delivers per-statement, cluster-level performance monitoring details. Aurora ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aurora-dsql-cloudwatch-database-insights/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-20-aws-amazon-redshift-now-supports-concurrency-scaling-o",
-      "date": "2026-08-20",
-      "name": "Amazon Redshift now supports concurrency scaling of streaming ingestion workloads from Amazon Kinesis data streams",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/redshift/\">Amazon Redshift</a>, starting with <a href=\"https://docs.aws.amazon.com/redshift/latest/mgmt/cluster-versions.html#cluster-version-203\">patch P203</a>, supports concurrency s",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-concurrencyscaling-for-kds-streams/"
-        }
-      ],
-      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
