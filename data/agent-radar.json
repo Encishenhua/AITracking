@@ -37,6 +37,222 @@
       "tags": []
     },
     {
+      "id": "2026-08-28-aws-amazon-ec2-c8gn-instances-are-now-available-in-aws",
+      "date": "2026-08-28",
+      "name": "Amazon EC2 C8gn instances are now available in AWS Europe (Paris) region",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8gn instances, powered by the latest-generation AWS Graviton4 processors, are available in the AWS Europe (Paris) region. The C8gn instances provide up to 30%",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8gn-europe-paris/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-28-aws-amazon-bedrock-agentcore-memory-now-supports-fine-",
+      "date": "2026-08-28",
+      "name": "Amazon Bedrock AgentCore Memory now supports fine-grained access control",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock AgentCore Memory now supports fine-grained access control (FGAC), enabling you to enforce per-user and per-tenant memory isolation through AgentCore Gateway without building custom authorization logic.<",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-fine-grained-access-control"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-28-aws-amazon-bedrock-agentcore-memory-now-supports-flexi",
+      "date": "2026-08-28",
+      "name": "Amazon Bedrock AgentCore Memory now supports flexible namespace variables",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock AgentCore Memory now lets developers define flexible namespace variables to scope long-term memories along any application-specific dimension - such as organization, tenant, team, or environment - witho",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-flexible-namespaces"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-28-aws-aws-transform-now-in-scope-for-fedramp-class-c",
+      "date": "2026-08-28",
+      "name": "AWS Transform now in scope for FedRAMP Class C",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS Transform is now in scope for FedRAMP Class C (formerly Moderate baseline) in the US East (Ohio) Region. You can now use AWS Transform to build applications and run workloads that are subject to FedRAMP Class C co",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-transform-fedramp-class-c/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-28-aws-amazon-ec2-p6-b300-instances-are-now-available-in-",
+      "date": "2026-08-28",
+      "name": "Amazon EC2 P6-B300 instances are now available in additional AWS Regions",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Starting today, Amazon Elastic Cloud Compute (Amazon EC2) P6-B300 instances are available in Asia Pacific (Hyderabad) and South America (Sao Paulo) Regions. P6-B300 instances provide 8xNVIDIA Blackwell Ultra GPUs with",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-p6-b300-instances-available-additional-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-28-aws-amazon-cloudwatch-agent-adds-support-for-journald-",
+      "date": "2026-08-28",
+      "name": "Amazon CloudWatch agent adds support for journald logs",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS announces support for collecting systemd journal (journald) logs with the Amazon CloudWatch agent. You can now configure the CloudWatch agent to read log entries directly from the systemd journal on Linux instance",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-agent-journald/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-28-aws-amazon-aurora-mysql-3-13-compatible-with-mysql-8-0",
+      "date": "2026-08-28",
+      "name": "Amazon Aurora MySQL 3.13 (compatible with MySQL 8.0.45) is generally available",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Aurora MySQL-Compatible Edition 3 (compatible with MySQL 8.0) supports MySQL 8.0.45, which includes community MySQL fixes and Aurora-specific improvements. For detailed information on this relea",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-mysql-313-available/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-28-aws-spacexai-grok-4-6-now-available-on-amazon-bedrock-",
+      "date": "2026-08-28",
+      "name": "SpaceXAI Grok 4.6 now available on Amazon Bedrock in AWS GovCloud (US)",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Bedrock in AWS GovCloud (US) now supports SpaceXAI Grok 4.6, a frontier model built for coding, agentic tasks, and knowledge work. Grok 4.6 is SpaceXAI’s latest flagship model, built for long-running agents and",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/spacexai-grok-4-6-govcloud/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-28-dust-spa-poke-2905605-render-active-frames-v2-publicati",
+      "date": "2026-08-28",
+      "name": "spa/poke/2905605: Render active Frames v2 publications (#31379)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>Render active Frames v2 publications</p>\n</li>\n<li>\n<p>Update generated file API documentation</p>\n</li>\n<li>\n<p>Update workspace analytics billing snapshot</p>\n</li>\n</ul>\n<hr />\n<p>Co-authored-by: Henry Fo",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2905605"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-28-dust-spa-poke-461678c",
+      "date": "2026-08-28",
+      "name": "spa/poke/461678c",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Refacto: remove the WorkspacePlanLimitOverrideResource and move metho…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F461678c"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-28-dust-spa-poke-209a3cf-front-fix-remove-dead-slack-searc",
+      "date": "2026-08-28",
+      "name": "spa/poke/209a3cf: [front] fix: remove dead Slack search.messages fallback (#31375)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>slackSearch fell back to Slack's search.messages whenever assistant.search.context<br />\nthrew. That fallback could never succeed: search.messages requires the search:read<br />\nscope, which our Slack app is not allow",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F209a3cf"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-28-dust-spa-poke-73c5779-publish-frames-v2-from-dsbx-31316",
+      "date": "2026-08-28",
+      "name": "spa/poke/73c5779: Publish Frames v2 from dsbx (#31316)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>\n<p>Add dsbx Frames v2 lifecycle</p>\n</li>\n<li>\n<p>Fix Frame registration typing</p>\n</li>\n<li>\n<p>Use a Frame publication error guard</p>\n</li>\n<li>\n<p>Prepare dsbx 0.1.52</p>\n</li>\n<li>\n<p>Split Frame registra",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F73c5779"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-08-27-dust-spa-poke-8d925eb",
       "date": "2026-08-27",
       "name": "spa/poke/8d925eb",
@@ -860,222 +1076,6 @@
         }
       ],
       "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-24-aws-amazon-rds-for-mysql-now-supports-new-minor-versio",
-      "date": "2026-08-24",
-      "name": "Amazon RDS for MySQL now supports new minor version 8.4.11",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, <a href=\"https://aws.amazon.com/rds/mysql/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for MySQL</a> supports MySQL minor version 8.4.11, the latest minor",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-mysql-8411-available/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-24-dust-spa-poke-8524c48",
-      "date": "2026-08-24",
-      "name": "spa/poke/8524c48",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Prefer native tools over Dust agent proxying</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8524c48"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-24-dust-spa-poke-290e8cc",
-      "date": "2026-08-24",
-      "name": "spa/poke/290e8cc",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[sparkle] Bump Storybook to 10.5.8 and enable AI manifests + MCP (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/issues/31\">#31</a>…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F290e8cc"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-24-aws-msk-replicator-now-supports-oauth-2-0-sasl-oauthbe",
-      "date": "2026-08-24",
-      "name": "MSK Replicator now supports OAuth 2.0 (SASL/OAUTHBEARER) authentication for replication from external Apache Kafka clusters to Amazon MSK",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon MSK Replicator now supports OAuth 2.0 (SASL/OAUTHBEARER) authentication for data replication from external Apache Kafka clusters - including on-premises, self-managed on AWS, or other cloud providers - to <a hr",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-msk-replicator-OAuth-support"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-24-aws-aws-glue-now-supports-catalog-federation-for-remot",
-      "date": "2026-08-24",
-      "name": "AWS Glue now supports catalog federation for remote Apache Iceberg catalogs in AWS GovCloud (US) regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Glue now supports catalog federation for remote Iceberg REST catalogs in AWS GovCloud (US) Regions. This capability provides direct and secure access to Iceberg tables, stored in Amazon S3 and cataloged in remote ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-catalog-federation-iceberg-govcloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-21-aws-amazon-connect-customer-now-lets-managers-chat-wit",
-      "date": "2026-08-21",
-      "name": "Amazon Connect Customer now lets managers chat with their data",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect Customer now lets managers chat with their data in plain language and get back the answer, the evidence behind it, and the fix, in seconds. Managers have always had the data. What they haven’t had is th",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-ai-data-analytics"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-21-aws-aws-deadline-cloud-now-tracks-automatic-download-s",
-      "date": "2026-08-21",
-      "name": "AWS Deadline Cloud now tracks automatic download status in the Deadline Cloud Monitor",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>The AWS Deadline Cloud monitor now shows the progress, status, and health of your automatic file downlaods from jobs running in the cloud. Deadline Cloud is a fully managed service that helps teams run compute-intensi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-deadline-cloud-auto-download-status-tracking/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-21-aws-aws-glue-6-0-delivers-30-price-reduction-and-icebe",
-      "date": "2026-08-21",
-      "name": "AWS Glue 6.0 delivers 30% price reduction and Iceberg v3 support",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Glue 6.0 is now generally available, delivering a 30% price reduction and introducing full support for Apache Iceberg v3, newer versions of Apache Hudi and Delta Lake, and new capabilities to improve developer pro",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-6-0-price-reduction-iceberg-v3"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-21-dust-spa-poke-9267ced",
-      "date": "2026-08-21",
-      "name": "spa/poke/9267ced",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>[front] feat: route activation poke through Temporal eligibility gate…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9267ced"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-21-dust-spa-poke-735a252-activation-add-explicit-pod-kind-",
-      "date": "2026-08-21",
-      "name": "spa/poke/735a252: [Activation] Add explicit pod kind (#30709)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Distinguish learning and goal pods without inferring behavior from mutable metadata.</p>\n<p>Co-authored-by: Cursor <a href=\"mailto:cursoragent@cursor.com\">cursoragent@cursor.com</a></p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F735a252"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-21-dust-spa-poke-45a0270",
-      "date": "2026-08-21",
-      "name": "spa/poke/45a0270",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Manage agents page: add a button for admin to access ALL agents (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/30904\">#30904</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F45a0270"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-21-dust-spa-poke-19b9b61",
-      "date": "2026-08-21",
-      "name": "spa/poke/19b9b61",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Workspace management MCP: Add a new MCP to list agents/skills and get…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F19b9b61"
-        }
-      ],
-      "impact": 3,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
