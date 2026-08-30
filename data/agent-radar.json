@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "2026-08-29-dust-spa-poke-84aa9c2",
+      "date": "2026-08-29",
+      "name": "spa/poke/84aa9c2",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>[front] canRead-gated group fetchers; API key scoping to restricted s…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F84aa9c2"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-29-dust-spa-app-84aa9c2",
+      "date": "2026-08-29",
+      "name": "spa/app/84aa9c2",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>[front] canRead-gated group fetchers; API key scoping to restricted s…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F84aa9c2"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-08-28-dust-spa-poke-42c9186-admin-governance-add-agent-permis",
       "date": "2026-08-28",
       "name": "spa/poke/42c9186: [Admin Governance] Add agent permissions migration plan (#31318)",
@@ -1037,42 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker-hyperpod-ray"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-24-aws-amazon-connect-customer-now-supports-information-e",
-      "date": "2026-08-24",
-      "name": "Amazon Connect Customer now supports information extraction for agent voice and chat conversations",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Connect Customer now supports information extraction, which automatically captures key data from voice and chat interactions, reducing manual data capture and improving agent and supervisor productivity. Inform",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-information/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-24-aws-openai-gpt-5-6-terra-and-luna-now-available-on-ama",
-      "date": "2026-08-24",
-      "name": "OpenAI GPT-5.6 Terra and Luna now available on Amazon Bedrock in AWS GovCloud (US)",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>GPT-5.6 Terra and Luna are now generally available on Amazon Bedrock in AWS GovCloud (US-West) and AWS GovCloud (US-East), bringing the smartest family of models from OpenAI yet to Bedrock's next-generation inference ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/openai-gpt-terra-luna-govcloud/"
         }
       ],
       "impact": 5,
