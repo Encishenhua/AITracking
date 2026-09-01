@@ -1,6 +1,330 @@
 {
   "items": [
     {
+      "id": "2026-09-01-openai-elevated-latency-in-the-responses-api",
+      "date": "2026-09-01",
+      "name": "Elevated latency in the Responses API",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Responses (Degraded performance)</li>\n          </ul",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M1CYZDD84XD0H56XNEV2PT98"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-31-aws-partner-revenue-measurement-expands-service-covera",
+      "date": "2026-08-31",
+      "name": "Partner Revenue Measurement expands service coverage for User Agent string capability",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Partner Revenue Measurement <a href=\"https://docs.aws.amazon.com/PRM/latest/aws-prm-onboarding-guide/user-agent-string.html\">User Agent string</a> now supports additional AWS services. Partner Revenue Measurement allo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/partner-revenue-measurement-user-agent-expansion/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-31-aws-aws-agent-registry-agents-and-mcp-servers-now-avai",
+      "date": "2026-08-31",
+      "name": "AWS Agent Registry agents and MCP servers now available in Amazon Quick",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, Amazon Quick announces integration with AWS Agent Registry, enabling users to discover and use resources from their organization's AWS Agent Registry directly within Amazon Quick. AWS Agent Registry supports MC",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-agent-registry-agents-mcp-servers-quick/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-31-aws-amazon-redshift-now-supports-aws-iam-identity-cent",
+      "date": "2026-08-31",
+      "name": "Amazon Redshift now supports AWS IAM Identity Center authentication with enhanced VPC routing",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Redshift now supports AWS IAM Identity Center authentication for provisioned clusters and serverless workgroups configured with enhanced VPC routing (EVR). You can access Amazon Redshift with single sign-on wit",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-redshift-supports-idc-evr"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-31-aws-amazon-timestream-for-influxdb-is-now-available-in",
+      "date": "2026-08-31",
+      "name": "Amazon Timestream for InfluxDB is now available in 8 additional AWS Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>You can now use Amazon Timestream for InfluxDB in the Africa (Cape Town), Asia Pacific (Bangkok), Asia Pacific (Hong Kong), Asia Pacific (Hyderabad), Asia Pacific (Melbourne), Asia Pacific (Seoul), Europe (Zurich), an",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-timestream-influxdb-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-31-aws-amazon-redshift-now-supports-apache-iceberg-v3-tab",
+      "date": "2026-08-31",
+      "name": "Amazon Redshift now supports Apache Iceberg v3 tables",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Redshift now supports reading from and writing to Apache Iceberg v3 tables in your data lake. Apache Iceberg is an open table format, and its v3 release adds several new features.&nbsp;With this launch, Amazon ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-redshift-supports-apache-iceberg-v3"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-31-aws-amazon-ec2-r9g-and-r9gd-memory-optimized-instances",
+      "date": "2026-08-31",
+      "name": "Amazon EC2 R9g and R9gd memory optimized instances are now available",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R9g and R9gd instances, powered by AWS Graviton5 processors, are generally available. AWS Graviton5 processors are the fifth generation of custom-designed CPUs",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-31-aws-amazon-cognito-now-supports-machine-to-machine-aut",
+      "date": "2026-08-31",
+      "name": "Amazon Cognito now supports machine-to-machine authorization without a user pool domain",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Cognito now supports the GetClientToken API operation, enabling app clients to obtain access tokens for machine-to-machine (M2M) authorization directly through the AWS SDK, CLI, or API — without configuring a u",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cognito-get-client-token/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-31-aws-amazon-aurora-serverless-is-now-available-with-30-",
+      "date": "2026-08-31",
+      "name": "Amazon Aurora serverless is now available with 30% better performance and smarter scaling in additional AWS Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/aurora/serverless/\">Amazon Aurora serverless</a>&nbsp; now delivers up to 30% better performance and enhanced scaling in additional AWS Regions: Asia Pacific (New Zealand), Asia Pac",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-serverless-performance-improvement-additional-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-31-aws-amazon-opensearch-service-adds-new-cluster-insight",
+      "date": "2026-08-31",
+      "name": "Amazon OpenSearch Service adds new Cluster Insights for faster diagnosis of cluster status",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p><a href=\"https://aws.amazon.com/opensearch-service/\">Amazon OpenSearch Service</a> has expanded Cluster Insights with 17 new insights that identify the root causes behind Red and Yellow cluster status and provide acti",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/opensearch-cluster-status-insight/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-31-aws-aws-agent-registry-for-centralized-agent-discovery",
+      "date": "2026-08-31",
+      "name": "AWS Agent Registry for centralized agent discovery and governance is now generally available",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Agent Registry is now generally available. It provides a private, governed catalog and discovery layer for agents, tools, skills, MCP servers, and custom resources within your organization. Teams get complete visi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-agent-registry-generally-available"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-31-aws-amazon-workspaces-applications-is-now-available-in",
+      "date": "2026-08-31",
+      "name": "Amazon WorkSpaces Applications is now available in three new AWS Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Web Services (AWS) has expanded the regional availability for Amazon WorkSpaces Applications. Starting today, AWS customers can deploy their applications and desktops in the Europe (Zurich), Asia Pacific (Osaka",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-workspaces-applications-region-expansion"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-31-aws-aws-workload-credentials-provider-is-now-available",
+      "date": "2026-08-31",
+      "name": "AWS Workload Credentials Provider is now available as a one-click install for Linux and Windows",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS Secrets Manager announces one-click installation for the AWS Workload Credentials Provider (AWCP) on Amazon Linux and Windows, reducing setup from a multi-step build-from-source process to a single command.",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/workload-credentials-provider-install/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-31-aws-aws-elastic-beanstalk-now-supports-active-director",
+      "date": "2026-08-31",
+      "name": "AWS Elastic Beanstalk now supports Active Directory domain join for Windows Server environments",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Elastic Beanstalk now automatically joins the Windows Server instances in your environment to an Active Directory domain that you manage with AWS Directory Service. Previously, running domain-joined Windows worklo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/elastic-beanstalk-active-directory-domain-join/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-31-dust-spa-poke-54100cc",
+      "date": "2026-08-31",
+      "name": "spa/poke/54100cc",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>feat(servicenow-mcp): turn into a generic Table API connector (v2) (#…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F54100cc"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-31-dust-spa-poke-8139ed4",
+      "date": "2026-08-31",
+      "name": "spa/poke/8139ed4",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Admin governance: drop the builder role from tests (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/31430\">#31430</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8139ed4"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-31-dust-spa-app-54100cc",
+      "date": "2026-08-31",
+      "name": "spa/app/54100cc",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>feat(servicenow-mcp): turn into a generic Table API connector (v2) (#…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F54100cc"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-31-dust-spa-app-8139ed4",
+      "date": "2026-08-31",
+      "name": "spa/app/8139ed4",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Admin governance: drop the builder role from tests (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/31430\">#31430</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F8139ed4"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-08-29-dust-spa-poke-84aa9c2",
       "date": "2026-08-29",
       "name": "spa/poke/84aa9c2",
@@ -32,6 +356,24 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-29-aws-amazon-kinesis-data-streams-announces-data-deliver",
+      "date": "2026-08-29",
+      "name": "Amazon Kinesis Data Streams announces data delivery to general purpose Amazon S3 buckets",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Kinesis Data Streams now delivers streaming data directly to general purpose Amazon S3 buckets, providing the easiest way to ingest and deliver streaming data to S3 without building or managing delivery pipelin",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/kinesis/data-delivery-general-purpose-s3-buckets"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -284,6 +626,24 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-08-28-aws-amazon-kinesis-data-streams-announces-streaming-ta",
+      "date": "2026-08-28",
+      "name": "Amazon Kinesis Data Streams announces streaming tables, delivering data to Apache Iceberg tables on Amazon S3 Tables",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Kinesis Data Streams introduces streaming tables, a new fully serverless capability that continuously delivers data from Kinesis streams to Amazon S3 Tables in Apache Iceberg format. Streaming tables eliminate ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/kinesis/data-delivery-s3-tables"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -713,366 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-backup-cross-region-air-gapped-docdb/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-26-dust-spa-poke-7306678",
-      "date": "2026-08-26",
-      "name": "spa/poke/7306678",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] Stop fetching all admin spaces to invalidate MCP views (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/31162\">#31162</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F7306678"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-25-aws-aws-iot-core-now-supports-native-influxdb-routing-",
-      "date": "2026-08-25",
-      "name": "AWS IoT Core now supports native InfluxDB routing for time-series data",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/iot-core/\">AWS IoT Core</a> now supports <a href=\"https://docs.aws.amazon.com/iot/latest/developerguide/influxdb-rule-action.html\">InfluxDB rule action</a> that routes time-series data ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iot-core-influxdb/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-25-aws-aws-lambda-microvms-now-supports-aws-privatelink",
-      "date": "2026-08-25",
-      "name": "AWS Lambda MicroVMs now supports AWS PrivateLink",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Lambda MicroVMs now supports AWS PrivateLink, enabling private connectivity to Lambda MicroVMs directly from Amazon Virtual Private Cloud (VPC) resources without exposing traffic to the public internet. This launc",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-microvms-supports-privatelink"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-25-aws-amazon-connect-customer-now-lets-you-update-the-cu",
-      "date": "2026-08-25",
-      "name": "Amazon Connect Customer now lets you update the customer profile on a case or add a profile after a case is opened",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><span style=\"font-weight: normal;\">Amazon Connect Customer now lets agents change the profile on a case or choose a profile after the case is opened. If a case is linked to the wrong customer, agents can update the pr",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-cases-flexible-profiles/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-25-aws-amazon-rds-for-postgresql-supports-minor-versions-",
-      "date": "2026-08-25",
-      "name": "Amazon RDS for PostgreSQL supports minor versions 18.6, 17.11, 16.15, 15.19, and 14.24",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/postgresql/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Relational Database Service (RDS) for PostgreSQL</a> now supports the latest minor versions 18.6, 17.11, 16.15, 15.19, ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-postgresql-18-6-17-11-16-15-15-19-14-24/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-25-aws-iam-roles-anywhere-now-provides-a-java-plugin-for-",
-      "date": "2026-08-25",
-      "name": "IAM Roles Anywhere now provides a Java plugin for the AWS SDK",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p><a href=\"https://aws.amazon.com/iam/roles-anywhere/\">AWS Identity and Access Management (IAM) Roles Anywhere</a> now provides a plugin for the <a href=\"https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/h",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/iam-roles-anywhere-java/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-25-aws-aws-lambda-introduces-managed-runtimes-in-public-p",
-      "date": "2026-08-25",
-      "name": "AWS Lambda introduces managed runtimes in public preview for Node.js 26 and Python 3.15",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS Lambda introduces managed runtimes in public preview, starting with Node.js 26 and Python 3.15. This gives customers, partners and upstream language communities the opportunity to try upcoming managed runti",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-node-js-python-public-preview/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-25-aws-amazon-rds-for-oracle-now-supports-july-2026-relea",
-      "date": "2026-08-25",
-      "name": "Amazon RDS for Oracle now supports July 2026 Release Update",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/oracle/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for Oracle</a> now supports the <a href=\"https://www.oracle.com/security-alerts/cpujul2026.html#AppendixDB\" ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-oracle-july-2026-release-update"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-25-aws-aws-secrets-manager-adds-managed-external-secrets-",
-      "date": "2026-08-25",
-      "name": "AWS Secrets Manager adds managed external secrets support for Cisco Security Platform and Netskope",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS Secrets Manager now extends its managed external secrets capability to include Cisco Security Platform API keys and Netskope API tokens, enabling you to automatically rotate these third-party credentials directly ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/secrets-manager-cisco-netskope/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-25-aws-aws-lambda-functions-now-support-full-iam-resource",
-      "date": "2026-08-25",
-      "name": "AWS Lambda functions now support full IAM resource-based policies",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS Lambda functions now support full Identity and Access Management (IAM) <a href=\"https://docs.aws.amazon.com/IAM/latest/UserGuide/access_controlling.html#access_controlling-resources\" rel=\"noopener noreferrer\" targ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-full-iam-resource-based-policies/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-25-dust-spa-poke-2e55185-activation-show-the-goal-overview",
-      "date": "2026-08-25",
-      "name": "spa/poke/2e55185: [Activation] Show the Goal overview only to Pod editors (#31066)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>[Activation] Show the Goal overview only to Pod editors.</li>\n</ul>\n<p>Co-authored-by: Cursor <a href=\"mailto:cursoragent@cursor.com\">cursoragent@cursor.com</a></p>\n<ul>\n<li>[Activation] Authorize rec dismiss vi",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2e55185"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-25-aws-amazon-ec2-r8id-instances-are-now-available-in-add",
-      "date": "2026-08-25",
-      "name": "Amazon EC2 R8id instances are now available in additional AWS Regions",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Elastic Compute Cloud (Amazon EC2) R8id instances are now available in additional regions. R8id instances are now available in Asia Pacific (Mumbai, Malaysia, Sydney), Canada (Central), and Europe (Ireland, Sto",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8id/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-25-aws-amazon-ec2-c8id-and-m8id-instances-are-now-availab",
-      "date": "2026-08-25",
-      "name": "Amazon EC2 C8id and M8id instances are now available in additional AWS Regions",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Elastic Compute Cloud (Amazon EC2) C8id and M8id instances with up to 22.8 TB of local NVMe-based SSD block-level storage are now available in additional regions. C8id instances are now available in Asia Pacifi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8id-m8id-aws-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-25-aws-amazon-ec2-m8i-and-m8i-flex-instances-are-now-avai",
-      "date": "2026-08-25",
-      "name": "Amazon EC2 M8i and M8i-flex instances are now available in Canada West (Calgary) region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon EC2 M8i and M8i-flex instances are now available in Canada West (Calgary) region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, delivering the highest per",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/ec2-m8i-m8i-flex-canada-west/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-25-aws-amazon-gamelift-servers-enhanced-ddos-protection-n",
-      "date": "2026-08-25",
-      "name": "Amazon GameLift Servers enhanced DDoS Protection now available",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon GameLift Servers now offers Enhanced DDoS Protection, a new layer of protection that defends game servers from common network and transport layer DDoS attacks with no configuration required.</p> \n<p>Enhanced DD",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-gamelift-servers-enhanced-ddos-protection"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-24-aws-amazon-ecs-now-automatically-detects-and-repairs-c",
-      "date": "2026-08-24",
-      "name": "Amazon ECS now automatically detects and repairs container instances with impaired agent connectivity",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html\">Amazon Elastic Container Service</a> (Amazon ECS) now&nbsp;automatically detects and repairs container instances, enabling customers t",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecs-agent-connectivity-health"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-24-aws-sagemaker-mlflow-now-supports-customer-managed-key",
-      "date": "2026-08-24",
-      "name": "SageMaker MLflow now supports customer managed keys",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>SageMaker MLflow now enables customers to encrypt their data using customer-managed keys (CMK) through AWS Key Management Service (KMS).</p> \n<p>This enhancement allows organizations with strict security and complianc",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/sagemaker-mlflow-custom-keys"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-24-aws-amazon-eks-now-supports-multiple-external-oidc-ide",
-      "date": "2026-08-24",
-      "name": "Amazon EKS now supports multiple external OIDC identity providers per cluster",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Elastic Kubernetes Service (Amazon EKS) now supports multiple external OpenID Connect (OIDC) identity providers per cluster. You can associate up to 10 OIDC identity providers with a single cluster, giving you ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-multiple-oidc-providers"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-24-aws-amazon-aurora-now-supports-postgresql-18-4-17-10-1",
-      "date": "2026-08-24",
-      "name": "Amazon Aurora now supports PostgreSQL 18.4, 17.10, 16.14, 15.18, and 14.23",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Aurora PostgreSQL-Compatible Edition now supports PostgreSQL versions 18.4, 17.10, 16.14, 15.18, and 14.23 which include bug fixes from the PostgreSQL community and Aurora-specific enhancements. We recommend up",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-postgresql-18-4-17-10-16-14-15-18-14-23/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-24-aws-amazon-sagemaker-hyperpod-enhances-support-for-ray",
-      "date": "2026-08-24",
-      "name": "Amazon SageMaker HyperPod enhances support for Ray",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker HyperPod now enhances support for Ray with built-in observability, resilient training, accelerated inference and managed development environments. Ray is a popular open-source framework for scaling AI",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker-hyperpod-ray"
         }
       ],
       "impact": 5,
