@@ -1,6 +1,294 @@
 {
   "items": [
     {
+      "id": "2026-09-03-openai-chatgpt-work-mode-high-error-rates",
+      "date": "2026-09-03",
+      "name": "ChatGPT Work Mode High Error Rates",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Agent (Operational)</li>\n<li>Deep Research (Operational)</li>\n<li>Conn",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M1J99EDCYED5GP2W8GZ3N2NA"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-03-dust-spa-poke-c3e39aa-posthog-session-persistence-pagev",
+      "date": "2026-09-03",
+      "name": "spa/poke/c3e39aa: PostHog session persistence + pageviews fix (#31385)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>\n<p>✂️ remove tracking around server pageviews</p>\n</li>\n<li>\n<p>🔧 keep the posthog session id across page loads</p>\n</li>\n<li>\n<p>🔧 only bootstrap distinct_id pre-consent</p>\n</li>\n<li>\n<p>🔧 filter excluded pat",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fc3e39aa"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-03-dust-spa-app-c3e39aa-posthog-session-persistence-pagevi",
+      "date": "2026-09-03",
+      "name": "spa/app/c3e39aa: PostHog session persistence + pageviews fix (#31385)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>\n<p>✂️ remove tracking around server pageviews</p>\n</li>\n<li>\n<p>🔧 keep the posthog session id across page loads</p>\n</li>\n<li>\n<p>🔧 only bootstrap distinct_id pre-consent</p>\n</li>\n<li>\n<p>🔧 filter excluded pat",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2Fc3e39aa"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-02-aws-web-search-on-amazon-bedrock-is-now-available-in-a",
+      "date": "2026-09-02",
+      "name": "Web Search on Amazon Bedrock is now available in AWS GovCloud (US-West)",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>The Web Search built-in server-side tool on Amazon Bedrock is now available in AWS GovCloud (US-West), helping bring grounded web results to compliance-sensitive government and public-sector workloads. Web Search help",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-web-aws-govcloud/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-02-aws-amazon-connect-customer-expands-automated-performa",
+      "date": "2026-09-02",
+      "name": "Amazon Connect Customer expands automated performance evaluations to Malay",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Connect Customer now automates evaluations of human and AI agents in Malay using generative AI. Managers define custom evaluation criteria in natural language and receive AI-generated evaluations with justifica",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-customer-automated-evaluations-malay/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-02-aws-amazon-quick-adds-new-tool-settings-and-model-cont",
+      "date": "2026-09-02",
+      "name": "Amazon Quick adds new tool settings and Model Context Protocol (MCP) sync support for connectors",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Quick connectors let users leverage tools and services such as Outlook, Slack, Salesforce, Jira, and homegrown MCP servers directly into their workflows across chat, agents, apps, flows, and deep research. Toda",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-adds-tool-settings-mcp-sync/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-02-aws-amazon-connect-customer-announces-general-availabi",
+      "date": "2026-09-02",
+      "name": "Amazon Connect Customer announces general availability of agentic CX designer",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect Customer announces the general availability of agentic CX designer, a no-code canvas for designing and deploying AI-powered self-service experiences. You can now build and launch voice and digital exper",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/agentic-cx-designer/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-02-aws-second-generation-aws-outposts-racks-now-in-the-aw",
+      "date": "2026-09-02",
+      "name": "Second-generation AWS Outposts racks now in the AWS GovCloud (US) Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Second-generation AWS Outposts racks are now supported in the AWS GovCloud (US-East) and AWS GovCloud (US-West) Regions. Outposts racks extend AWS infrastructure, AWS services, APIs, and tools to virtually any on-prem",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-outposts-govcloud-us-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-02-aws-aws-config-now-supports-60-new-resource-types",
+      "date": "2026-09-02",
+      "name": "AWS Config now supports 60 new resource types",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Config now supports 60 additional AWS resource types across key services including Amazon Bedrock,&nbsp; Amazon EC2, Amazon SageMaker, and AWS Organizations. This expansion provides greater coverage over your AWS ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-config-new-resource-types/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-02-aws-aws-lambda-now-supports-snapstart-for-container-im",
+      "date": "2026-09-02",
+      "name": "AWS Lambda now supports SnapStart for container image functions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, AWS Lambda supports SnapStart for functions packaged as <a href=\"https://docs.aws.amazon.com/lambda/latest/dg/images-create.html\" rel=\"noopener noreferrer\" target=\"_blank\">container images</a>, reducin",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-snapstart-container/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-02-aws-amazon-sagemaker-unified-studio-ci-cd-adds-noteboo",
+      "date": "2026-09-02",
+      "name": "Amazon SageMaker Unified Studio CI/CD adds notebook promotion and AI-assisted manifest generation",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon SageMaker Unified Studio CI/CD expands its open-source deployment toolkit with two new capabilities: (1) an AI agent skill that automates manifest authoring, and (2) native notebook promotion across environment",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-cicd-notebook-ai-manifest/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-02-aws-amazon-rds-for-sql-server-supports-additional-sql-",
+      "date": "2026-09-02",
+      "name": "Amazon RDS for SQL Server supports additional SQL trace flags",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon RDS for SQL Server</a>&nbsp;supports 18 additional SQL trace flags that you can enable through database parameter groups",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/rds-sqlserver-supports-additional-trace-flags/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-02-dust-spa-poke-0193fc5",
+      "date": "2026-09-02",
+      "name": "spa/poke/0193fc5",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>Introduce cached resource store and refit WorkspaceResource onto it (…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F0193fc5"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-02-dust-spa-poke-0126aa6-email-agents-retry-transient-regi",
+      "date": "2026-09-02",
+      "name": "spa/poke/0126aa6: [Email Agents] Retry transient regional relays (#31657)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>[Email Agents] Retry transient regional relay failures</p>\n</li>\n<li>\n<p>[Email Agents] Make relay retries recoverable</p>\n</li>\n<li>\n<p>[Email Agents] Fail closed after relay receipt</p>\n</li>\n<li>\n<p>[Emai",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F0126aa6"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-02-dust-spa-poke-60c61a8",
+      "date": "2026-09-02",
+      "name": "spa/poke/60c61a8",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>Add: log to investigate poke access issues. (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/31743\">#31743</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F60c61a8"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-02-dust-spa-poke-36c6f7a",
+      "date": "2026-09-02",
+      "name": "spa/poke/36c6f7a",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Admin governance: add poke tab to list all admin governance and setti…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F36c6f7a"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-09-01-openai-elevated-latency-in-the-responses-api",
       "date": "2026-09-01",
       "name": "Elevated latency in the Responses API",
@@ -266,6 +554,42 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-01-aws-aws-marketplace-reduces-listing-fee-for-profession",
+      "date": "2026-09-01",
+      "name": "AWS Marketplace reduces listing fee for professional services in multi-product solutions",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS Marketplace now offers a 0% listing fee for professional services purchased as part of a qualifying multi-product solution. This builds on the recent reduction of professional services listing fee to 0.5%. It furt",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-marketplace-fee-professional-services/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-01-aws-aws-marketplace-now-supports-auto-renewals-for-pri",
+      "date": "2026-09-01",
+      "name": "AWS Marketplace now supports auto-renewals for private offers",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Marketplace now supports auto-renewals for private offers. This capability helps sellers and buyers maintain active software and service subscriptions without re-negotiation or re-purchasing at the end of the term",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-marketplace-auto-renewals-for-private-offers"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -749,330 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-flexible-namespaces"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-28-aws-aws-transform-now-in-scope-for-fedramp-class-c",
-      "date": "2026-08-28",
-      "name": "AWS Transform now in scope for FedRAMP Class C",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS Transform is now in scope for FedRAMP Class C (formerly Moderate baseline) in the US East (Ohio) Region. You can now use AWS Transform to build applications and run workloads that are subject to FedRAMP Class C co",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-transform-fedramp-class-c/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-28-aws-amazon-ec2-p6-b300-instances-are-now-available-in-",
-      "date": "2026-08-28",
-      "name": "Amazon EC2 P6-B300 instances are now available in additional AWS Regions",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Starting today, Amazon Elastic Cloud Compute (Amazon EC2) P6-B300 instances are available in Asia Pacific (Hyderabad) and South America (Sao Paulo) Regions. P6-B300 instances provide 8xNVIDIA Blackwell Ultra GPUs with",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-p6-b300-instances-available-additional-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-28-aws-amazon-cloudwatch-agent-adds-support-for-journald-",
-      "date": "2026-08-28",
-      "name": "Amazon CloudWatch agent adds support for journald logs",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS announces support for collecting systemd journal (journald) logs with the Amazon CloudWatch agent. You can now configure the CloudWatch agent to read log entries directly from the systemd journal on Linux instance",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-agent-journald/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-28-aws-amazon-aurora-mysql-3-13-compatible-with-mysql-8-0",
-      "date": "2026-08-28",
-      "name": "Amazon Aurora MySQL 3.13 (compatible with MySQL 8.0.45) is generally available",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon Aurora MySQL-Compatible Edition 3 (compatible with MySQL 8.0) supports MySQL 8.0.45, which includes community MySQL fixes and Aurora-specific improvements. For detailed information on this relea",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-mysql-313-available/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-28-aws-spacexai-grok-4-6-now-available-on-amazon-bedrock-",
-      "date": "2026-08-28",
-      "name": "SpaceXAI Grok 4.6 now available on Amazon Bedrock in AWS GovCloud (US)",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Bedrock in AWS GovCloud (US) now supports SpaceXAI Grok 4.6, a frontier model built for coding, agentic tasks, and knowledge work. Grok 4.6 is SpaceXAI’s latest flagship model, built for long-running agents and",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/spacexai-grok-4-6-govcloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-28-dust-spa-poke-2905605-render-active-frames-v2-publicati",
-      "date": "2026-08-28",
-      "name": "spa/poke/2905605: Render active Frames v2 publications (#31379)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>Render active Frames v2 publications</p>\n</li>\n<li>\n<p>Update generated file API documentation</p>\n</li>\n<li>\n<p>Update workspace analytics billing snapshot</p>\n</li>\n</ul>\n<hr />\n<p>Co-authored-by: Henry Fo",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2905605"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-28-dust-spa-poke-461678c",
-      "date": "2026-08-28",
-      "name": "spa/poke/461678c",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Refacto: remove the WorkspacePlanLimitOverrideResource and move metho…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F461678c"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-28-dust-spa-poke-209a3cf-front-fix-remove-dead-slack-searc",
-      "date": "2026-08-28",
-      "name": "spa/poke/209a3cf: [front] fix: remove dead Slack search.messages fallback (#31375)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>slackSearch fell back to Slack's search.messages whenever assistant.search.context<br />\nthrew. That fallback could never succeed: search.messages requires the search:read<br />\nscope, which our Slack app is not allow",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F209a3cf"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-28-dust-spa-poke-73c5779-publish-frames-v2-from-dsbx-31316",
-      "date": "2026-08-28",
-      "name": "spa/poke/73c5779: Publish Frames v2 from dsbx (#31316)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>\n<p>Add dsbx Frames v2 lifecycle</p>\n</li>\n<li>\n<p>Fix Frame registration typing</p>\n</li>\n<li>\n<p>Use a Frame publication error guard</p>\n</li>\n<li>\n<p>Prepare dsbx 0.1.52</p>\n</li>\n<li>\n<p>Split Frame registra",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F73c5779"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-28-aws-amazon-kinesis-data-streams-announces-streaming-ta",
-      "date": "2026-08-28",
-      "name": "Amazon Kinesis Data Streams announces streaming tables, delivering data to Apache Iceberg tables on Amazon S3 Tables",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Kinesis Data Streams introduces streaming tables, a new fully serverless capability that continuously delivers data from Kinesis streams to Amazon S3 Tables in Apache Iceberg format. Streaming tables eliminate ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/kinesis/data-delivery-s3-tables"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-27-dust-spa-poke-8d925eb",
-      "date": "2026-08-27",
-      "name": "spa/poke/8d925eb",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] fix: hide agent analytics tab for non-editors (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/31222\">#31222</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8d925eb"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-27-dust-spa-app-8d925eb",
-      "date": "2026-08-27",
-      "name": "spa/app/8d925eb",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] fix: hide agent analytics tab for non-editors (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/31222\">#31222</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F8d925eb"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-27-openai-better-answers-broader-thinking-what-students-gain",
-      "date": "2026-08-27",
-      "name": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-27-openai-expanding-openai-s-presence-in-brazil",
-      "date": "2026-08-27",
-      "name": "Expanding OpenAI’s presence in Brazil",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/expanding-our-presence-in-brazil"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-27-openai-users-may-experience-an-increase-in-error-rates-in",
-      "date": "2026-08-27",
-      "name": "Users may experience an increase in error rates in Workspace Agents and ChatGPT Work on Web and Mobile",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Agent (Operational)</li>\n<li>ChatGPT Work (Operational)</li>\n         ",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01M1263309PD7VYV8EF95W2M2P"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-27-aws-cosmos3-edge-cosmos3-nano-and-cosmos3-super-models",
-      "date": "2026-08-27",
-      "name": "Cosmos3-Edge, Cosmos3-Nano, and Cosmos3-Super models now available on Amazon SageMaker JumpStart",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>NVIDIA's Cosmos3-Edge, Cosmos3-Nano, and Cosmos3-Super models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. These three models form the Cosmo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/cosmos3-edge-cosmos3-nano-cosmos3-super-on-sagemaker-jumpstart/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-27-aws-muse-glimmer-30b-and-qwen-3-8-27b-models-now-avail",
-      "date": "2026-08-27",
-      "name": "Muse-Glimmer-30B and Qwen 3.8-27B models now available on Amazon SageMaker JumpStart",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Meta's Muse-Glimmer-30B and Alibaba's Qwen 3.8-27B models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. These two models bring specialized ca",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/muse-glimmer-30b-qwen-3.8-27b-on-sagemaker-jumpstart/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-27-aws-amazon-redshift-integrates-with-agent-toolkit-for-",
-      "date": "2026-08-27",
-      "name": "Amazon Redshift integrates with Agent Toolkit for AWS for AI-assisted data warehouse management",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p><a href=\"https://aws.amazon.com/redshift/\">Amazon Redshift</a> now integrates with the <a href=\"https://aws.amazon.com/products/developer-tools/agent-toolkit-for-aws/\">Agent Toolkit for AWS</a>, enabling you to build,",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-agenttoolkit-for-ai-assisted-datawarehouse-mgmt"
         }
       ],
       "impact": 5,
