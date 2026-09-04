@@ -55,6 +55,420 @@
       "tags": []
     },
     {
+      "id": "2026-09-03-openai-playco-cut-manual-fixes-50-prototyping-games-with-",
+      "date": "2026-09-03",
+      "name": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/playco-game-prototyping-with-astra"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-03-openai-elevated-errors-across-chatgpt-and-codex",
+      "date": "2026-09-03",
+      "name": "Elevated errors across ChatGPT and Codex",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Resolved</b><br /><br />The issue causing elevated errors across ChatGPT and Codex has been resolved.\n\nSome Codex remote control users may need to pair their mobile device again following this incident.<br /><",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M1KWEDH417T2CF44YYHZDFCR"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-03-aws-amazon-ecs-managed-daemons-now-support-non-critica",
+      "date": "2026-09-03",
+      "name": "Amazon ECS Managed Daemons now support non-critical daemons",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://docs.aws.amazon.com/AmazonECS/latest/developerguide/Welcome.html\">Amazon Elastic Container Service</a> (Amazon ECS) now support non-critical Managed Daemons for <a href=\"https://aws.amazon.com/ecs/man",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/ecs-managed-daemons-non-critical/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-03-aws-amazon-ec2-p6-b200-instances-are-now-available-in-",
+      "date": "2026-09-03",
+      "name": "Amazon EC2 P6-B200 instances are now available in the AWS Asia Pacific (Hyderabad) Region",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) P6-B200 instances accelerated by NVIDIA Blackwell GPUs are available in the AWS Asia Pacific (Hyderabad) Region. These instances offer up to 2x performance com",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-p6-b200-instances-available-asia-pacific-hyderabad"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-03-aws-amazon-ec2-p6-b300-instances-are-now-available-in-",
+      "date": "2026-09-03",
+      "name": "Amazon EC2 P6-B300 instances are now available in the AWS Asia Pacific (Jakarta) Region",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Starting today, Amazon Elastic Cloud Compute (Amazon EC2) P6-B300 instances are available in the AWS Asia Pacific (Jakarta) Region. P6-B300 instances provide 8xNVIDIA Blackwell Ultra GPUs with 2.1 TB high bandwidth GP",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-p6-b300-instances-available-asia-pacific-jakarta"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-03-aws-amazon-cloudfront-announces-api-support-for-flat-r",
+      "date": "2026-09-03",
+      "name": "Amazon CloudFront announces API support for flat-rate pricing plans",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, customers can subscribe and manage flat-rate pricing plans programmatically using the AWS CLI, AWS SDKs, CloudFormation, CDK, or the PricingPlanManager API.</p> \n<p>CloudFront flat-rate plans give you ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/cloudfront-flat-rate-pricing-plans-api/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-03-aws-introducing-amazon-quick-max-5x-the-usage-for-powe",
+      "date": "2026-09-03",
+      "name": "Introducing Amazon Quick Max: 5x the usage for power users who want the most out of Quick",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.com/quick\" target=\"_blank\"><u>Amazon Quick</u></a> now offers Quick Max, a new plan for power users who want to get the absolute most out of Quick. With 5x the usage and 5x the storage of Plus, Ma",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-max-5x-usage-power-users/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-03-aws-aws-gateway-load-balancer-now-supports-tcp-reset-f",
+      "date": "2026-09-03",
+      "name": "AWS Gateway Load Balancer now supports TCP Reset for faster failure recovery",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>A<b></b>WS Gateway Load Balancer (GWLB) now supports sending TCP Reset (RST) packets when a target becomes unhealthy, is deregistered, or when a flow's idle timeout expires. This feature helps reduce traffic interrupt",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-gateway-load-balancer-tcp-reset/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-03-aws-amazon-workspaces-applications-adds-support-for-nv",
+      "date": "2026-09-03",
+      "name": "Amazon WorkSpaces Applications adds support for NVIDIA Blackwell GPU instances",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon WorkSpaces Applications now supports Graphics G7 instances, powered by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs and Intel Xeon Scalable (6th Gen) processors. G7 instances deliver up to 2.1× better perf",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-applications-nvidia-blackwell-gpu-instances/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-03-aws-amazon-redshift-rg-large-instances-now-support-sin",
+      "date": "2026-09-03",
+      "name": "Amazon Redshift rg.large instances now support single-node clusters",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Redshift rg.large instances, powered by AWS Graviton processors, now support single-node clusters. Single-node support for rg.large clusters is available on P204 or later patch versions. Customers can now creat",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/redshift-rg-large-single-node"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-03-aws-amazon-aurora-mysql-8-4-8-compatible-with-mysql-8-",
+      "date": "2026-09-03",
+      "name": "Amazon Aurora MySQL 8.4.8 (compatible with MySQL 8.4.8) is now generally available",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Aurora MySQL-Compatible Edition 8.4 will support MySQL 8.4.8. In addition to several security enhancements and bug fixes, Aurora MySQL 8.4.8 includes several improvements, such as support for po",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-aurora-mysql-848-available/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-03-aws-amazon-aurora-mysql-now-supports-multi-source-repl",
+      "date": "2026-09-03",
+      "name": "Amazon Aurora MySQL now supports multi-source replication and delayed replication",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Aurora MySQL supports two new replication capabilities: multi-source replication and delayed replication. Multi-source replication lets a single Aurora MySQL cluster replicate from multiple sour",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-aurora-mysql-multisourcerep-delayedrep/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-03-aws-amazon-mwaa-adds-built-in-monitoring-with-amazon-c",
+      "date": "2026-09-03",
+      "name": "Amazon MWAA adds built-in monitoring with Amazon CloudWatch",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Managed Workflows for Apache Airflow (MWAA) now includes a built-in monitoring experience on the environment detail page in the <a href=\"https://console.aws.amazon.com/mwaa/home\">AWS Management Console</a>. A n",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mwaa-cloudwatch-monitoring/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-03-aws-amazon-linux-2027-is-now-available-in-public-previ",
+      "date": "2026-09-03",
+      "name": "Amazon Linux 2027 is now available in public preview",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the public preview of Amazon Linux 2027 (AL2027), the next version of the Amazon Linux operating system, purpose-built for cloud-native workloads on AWS with performance, scale, and security in mi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/announcing-amazon-linux-2027/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-03-aws-amazon-ses-now-supports-s-mime-email-signing",
+      "date": "2026-09-03",
+      "name": "Amazon SES now supports S/MIME email signing",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p><a href=\"https://aws.amazon.com/ses/\">Amazon Simple Email Service (SES)</a> now supports Secure/Multipurpose Internet Mail Extensions (S/MIME) signing, giving you a way to help recipients verify your emails are authen",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ses-supports-smime-signing"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-03-aws-amazon-s3-now-supports-privatelink-for-fips-endpoi",
+      "date": "2026-09-03",
+      "name": "Amazon S3 now supports PrivateLink for FIPS endpoints",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon S3 now supports AWS PrivateLink for endpoints that have been validated under the Federal Information Processing Standard (FIPS) 140-3 program.<br /> <br /> Customers with security and compliance requirements ca",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-s3-privatelink-fips-endpoints"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-03-aws-aws-transform-announces-general-availability-of-am",
+      "date": "2026-09-03",
+      "name": "AWS Transform announces general availability of Amazon FSx for NetApp ONTAP support",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Transform for migrations adds Amazon FSx for NetApp ONTAP as a generally available storage target for block storage workloads, alongside Amazon EBS. With AWS Transform, you can now migrate block storage directly t",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-fsx-netapp-ontap-support/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-03-dust-spa-poke-152bf0e",
+      "date": "2026-09-03",
+      "name": "spa/poke/152bf0e",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>dust-hive: use auto models in dust-hive seeds + upgrade agents icons …</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F152bf0e"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-03-dust-spa-poke-9cf0a45-admin-governance-mirror-agent-edi",
+      "date": "2026-09-03",
+      "name": "spa/poke/9cf0a45: [Admin Governance] Mirror agent editor additions to grants (#31730)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>[Admin Governance] Dual-write agent editor additions</p>\n</li>\n<li>\n<p>[Admin Governance] Batch agent editor grants</p>\n</li>\n<li>\n<p>[Admin Governance] Align agent identifier names</p>\n</li>\n<li>\n<p>[Admin ",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9cf0a45"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-03-dust-spa-poke-7d6e96f-refactor-poke-remove-poke-support",
+      "date": "2026-09-03",
+      "name": "spa/poke/7d6e96f: refactor(poke): remove Poke support for Pod functions (#31747)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>Pods are being retired and Frames v2 now has its own Poke surface, so the Pod<br />\nfunction pages, routes, hooks and types go. Nothing product-side depended on<br />\nany of it: every consumer of the removed symbols w",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F7d6e96f"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-03-dust-spa-poke-5f09b90-front-create-workos-organization-",
+      "date": "2026-09-03",
+      "name": "spa/poke/5f09b90: [front] Create WorkOS organization for every workspace (#31715)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>[front] Create WorkOS organization for every workspace</li>\n</ul>\n<p>Always provision a WorkOS organization at workspace creation time instead of<br />\nonly for upgraded plans, and add a backfill for workspaces ",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5f09b90"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-03-dust-spa-poke-05aba8e-feat-key-the-slack-workflow-summo",
+      "date": "2026-09-03",
+      "name": "spa/poke/05aba8e: feat: key the Slack workflow summoning whitelist on spaces (#31667)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>feat: key the Slack workflow summoning whitelist on spaces</li>\n</ul>\n<p>The whitelist keyed on group ids, which forced front to resolve spaces to their member groups at<br />\nwrite time and let the slack CLI na",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F05aba8e"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-03-dust-spa-poke-e6129e1",
+      "date": "2026-09-03",
+      "name": "spa/poke/e6129e1",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] fix: hide workspace seat availability in invite modal (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/31786\">#31786</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fe6129e1"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-09-02-aws-web-search-on-amazon-bedrock-is-now-available-in-a",
       "date": "2026-09-02",
       "name": "Web Search on Amazon Bedrock is now available in AWS GovCloud (US-West)",
@@ -284,6 +698,24 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-02-aws-amazon-memorydb-now-supports-aws-privatelink-in-th",
+      "date": "2026-09-02",
+      "name": "Amazon MemoryDB now supports AWS PrivateLink in the AWS GovCloud (US) Regions",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>You can now use <a href=\"https://aws.amazon.com/privatelink/\">AWS PrivateLink</a> to privately access <a href=\"https://aws.amazon.com/memorydb/\">Amazon MemoryDB</a> from your Amazon Virtual Private Cloud (Amazon VPC) ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-memorydb-privatelink/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -595,6 +1027,24 @@
       "tags": []
     },
     {
+      "id": "2026-09-01-aws-amazon-bedrock-agentcore-identity-now-offers-a-man",
+      "date": "2026-09-01",
+      "name": "Amazon Bedrock AgentCore Identity now offers a managed consent portal",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/identity-overview.html\">Amazon Bedrock AgentCore Identity</a> now offers a managed consent portal that eliminates the need for custom OAuth callba",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-agentcore/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-08-31-aws-partner-revenue-measurement-expands-service-covera",
       "date": "2026-08-31",
       "name": "Partner Revenue Measurement expands service coverage for User Agent string capability",
@@ -623,456 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-agent-registry-agents-mcp-servers-quick/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-31-aws-amazon-redshift-now-supports-aws-iam-identity-cent",
-      "date": "2026-08-31",
-      "name": "Amazon Redshift now supports AWS IAM Identity Center authentication with enhanced VPC routing",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Redshift now supports AWS IAM Identity Center authentication for provisioned clusters and serverless workgroups configured with enhanced VPC routing (EVR). You can access Amazon Redshift with single sign-on wit",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-redshift-supports-idc-evr"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-31-aws-amazon-timestream-for-influxdb-is-now-available-in",
-      "date": "2026-08-31",
-      "name": "Amazon Timestream for InfluxDB is now available in 8 additional AWS Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>You can now use Amazon Timestream for InfluxDB in the Africa (Cape Town), Asia Pacific (Bangkok), Asia Pacific (Hong Kong), Asia Pacific (Hyderabad), Asia Pacific (Melbourne), Asia Pacific (Seoul), Europe (Zurich), an",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-timestream-influxdb-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-31-aws-amazon-redshift-now-supports-apache-iceberg-v3-tab",
-      "date": "2026-08-31",
-      "name": "Amazon Redshift now supports Apache Iceberg v3 tables",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Redshift now supports reading from and writing to Apache Iceberg v3 tables in your data lake. Apache Iceberg is an open table format, and its v3 release adds several new features.&nbsp;With this launch, Amazon ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-redshift-supports-apache-iceberg-v3"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-31-aws-amazon-ec2-r9g-and-r9gd-memory-optimized-instances",
-      "date": "2026-08-31",
-      "name": "Amazon EC2 R9g and R9gd memory optimized instances are now available",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R9g and R9gd instances, powered by AWS Graviton5 processors, are generally available. AWS Graviton5 processors are the fifth generation of custom-designed CPUs",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-31-aws-amazon-cognito-now-supports-machine-to-machine-aut",
-      "date": "2026-08-31",
-      "name": "Amazon Cognito now supports machine-to-machine authorization without a user pool domain",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Cognito now supports the GetClientToken API operation, enabling app clients to obtain access tokens for machine-to-machine (M2M) authorization directly through the AWS SDK, CLI, or API — without configuring a u",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cognito-get-client-token/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-31-aws-amazon-aurora-serverless-is-now-available-with-30-",
-      "date": "2026-08-31",
-      "name": "Amazon Aurora serverless is now available with 30% better performance and smarter scaling in additional AWS Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/aurora/serverless/\">Amazon Aurora serverless</a>&nbsp; now delivers up to 30% better performance and enhanced scaling in additional AWS Regions: Asia Pacific (New Zealand), Asia Pac",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-serverless-performance-improvement-additional-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-31-aws-amazon-opensearch-service-adds-new-cluster-insight",
-      "date": "2026-08-31",
-      "name": "Amazon OpenSearch Service adds new Cluster Insights for faster diagnosis of cluster status",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p><a href=\"https://aws.amazon.com/opensearch-service/\">Amazon OpenSearch Service</a> has expanded Cluster Insights with 17 new insights that identify the root causes behind Red and Yellow cluster status and provide acti",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/opensearch-cluster-status-insight/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-31-aws-aws-agent-registry-for-centralized-agent-discovery",
-      "date": "2026-08-31",
-      "name": "AWS Agent Registry for centralized agent discovery and governance is now generally available",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Agent Registry is now generally available. It provides a private, governed catalog and discovery layer for agents, tools, skills, MCP servers, and custom resources within your organization. Teams get complete visi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-agent-registry-generally-available"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-31-aws-amazon-workspaces-applications-is-now-available-in",
-      "date": "2026-08-31",
-      "name": "Amazon WorkSpaces Applications is now available in three new AWS Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Web Services (AWS) has expanded the regional availability for Amazon WorkSpaces Applications. Starting today, AWS customers can deploy their applications and desktops in the Europe (Zurich), Asia Pacific (Osaka",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-workspaces-applications-region-expansion"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-31-aws-aws-workload-credentials-provider-is-now-available",
-      "date": "2026-08-31",
-      "name": "AWS Workload Credentials Provider is now available as a one-click install for Linux and Windows",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS Secrets Manager announces one-click installation for the AWS Workload Credentials Provider (AWCP) on Amazon Linux and Windows, reducing setup from a multi-step build-from-source process to a single command.",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/workload-credentials-provider-install/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-31-aws-aws-elastic-beanstalk-now-supports-active-director",
-      "date": "2026-08-31",
-      "name": "AWS Elastic Beanstalk now supports Active Directory domain join for Windows Server environments",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Elastic Beanstalk now automatically joins the Windows Server instances in your environment to an Active Directory domain that you manage with AWS Directory Service. Previously, running domain-joined Windows worklo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/elastic-beanstalk-active-directory-domain-join/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-31-dust-spa-poke-54100cc",
-      "date": "2026-08-31",
-      "name": "spa/poke/54100cc",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>feat(servicenow-mcp): turn into a generic Table API connector (v2) (#…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F54100cc"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-31-dust-spa-poke-8139ed4",
-      "date": "2026-08-31",
-      "name": "spa/poke/8139ed4",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Admin governance: drop the builder role from tests (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/31430\">#31430</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8139ed4"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-31-dust-spa-app-54100cc",
-      "date": "2026-08-31",
-      "name": "spa/app/54100cc",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>feat(servicenow-mcp): turn into a generic Table API connector (v2) (#…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F54100cc"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-31-dust-spa-app-8139ed4",
-      "date": "2026-08-31",
-      "name": "spa/app/8139ed4",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Admin governance: drop the builder role from tests (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/31430\">#31430</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F8139ed4"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-31-aws-aws-elemental-mediatailor-introduces-in-console-an",
-      "date": "2026-08-31",
-      "name": "AWS Elemental MediaTailor introduces in-console analytics dashboard for ad monetization and streaming performance",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Elemental MediaTailor now includes an analytics dashboard built directly into the AWS Management Console, giving publishers a global and multi-region view of ad monetization and streaming performance — with the ab",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/mediatailor-analytics-dashboard"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-31-aws-amazon-connect-global-resiliency-now-supports-cros",
-      "date": "2026-08-31",
-      "name": "Amazon Connect Global Resiliency now supports cross-region routing of contacts across two active AWS regions",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Connect Global Resiliency now supports cross-region routing of contacts to agents across two linked AWS regions. For example, a contact arriving in US East (N. Virginia) is offered to the longest-available matc",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-global-resiliency-cross-region-routing/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-29-dust-spa-poke-84aa9c2",
-      "date": "2026-08-29",
-      "name": "spa/poke/84aa9c2",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>[front] canRead-gated group fetchers; API key scoping to restricted s…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F84aa9c2"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-29-dust-spa-app-84aa9c2",
-      "date": "2026-08-29",
-      "name": "spa/app/84aa9c2",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>[front] canRead-gated group fetchers; API key scoping to restricted s…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F84aa9c2"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-29-aws-amazon-kinesis-data-streams-announces-data-deliver",
-      "date": "2026-08-29",
-      "name": "Amazon Kinesis Data Streams announces data delivery to general purpose Amazon S3 buckets",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Kinesis Data Streams now delivers streaming data directly to general purpose Amazon S3 buckets, providing the easiest way to ingest and deliver streaming data to S3 without building or managing delivery pipelin",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/kinesis/data-delivery-general-purpose-s3-buckets"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-28-dust-spa-poke-42c9186-admin-governance-add-agent-permis",
-      "date": "2026-08-28",
-      "name": "spa/poke/42c9186: [Admin Governance] Add agent permissions migration plan (#31318)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>docs: plan agent governance migration</p>\n</li>\n<li>\n<p>docs: split agent migration into focused PRs</p>\n</li>\n<li>\n<p>docs: consolidate agent migration PR sequence</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F42c9186"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-28-dust-spa-app-42c9186-admin-governance-add-agent-permiss",
-      "date": "2026-08-28",
-      "name": "spa/app/42c9186: [Admin Governance] Add agent permissions migration plan (#31318)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>docs: plan agent governance migration</p>\n</li>\n<li>\n<p>docs: split agent migration into focused PRs</p>\n</li>\n<li>\n<p>docs: consolidate agent migration PR sequence</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F42c9186"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-28-aws-amazon-ec2-c8gn-instances-are-now-available-in-aws",
-      "date": "2026-08-28",
-      "name": "Amazon EC2 C8gn instances are now available in AWS Europe (Paris) region",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8gn instances, powered by the latest-generation AWS Graviton4 processors, are available in the AWS Europe (Paris) region. The C8gn instances provide up to 30%",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8gn-europe-paris/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-28-aws-amazon-bedrock-agentcore-memory-now-supports-fine-",
-      "date": "2026-08-28",
-      "name": "Amazon Bedrock AgentCore Memory now supports fine-grained access control",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock AgentCore Memory now supports fine-grained access control (FGAC), enabling you to enforce per-user and per-tenant memory isolation through AgentCore Gateway without building custom authorization logic.<",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-fine-grained-access-control"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-28-aws-amazon-bedrock-agentcore-memory-now-supports-flexi",
-      "date": "2026-08-28",
-      "name": "Amazon Bedrock AgentCore Memory now supports flexible namespace variables",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock AgentCore Memory now lets developers define flexible namespace variables to scope long-term memories along any application-specific dimension - such as organization, tenant, team, or environment - witho",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-flexible-namespaces"
         }
       ],
       "impact": 5,
