@@ -1,6 +1,204 @@
 {
   "items": [
     {
+      "id": "2026-09-04-aws-amazon-bedrock-managed-knowledge-base-introduces-u",
+      "date": "2026-09-04",
+      "name": "Amazon Bedrock Managed Knowledge Base introduces user-managed setup for SharePoint, OneDrive, and Confluence data sources",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS announces user-managed setup (3LO) for SharePoint, OneDrive, and Confluence data sources in Amazon Bedrock Managed Knowledge Base. Previously, configuring these data sources required generating 2LO credentials on ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-user-managed-setup-sharepoint-onedrive-confluence/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-04-aws-amazon-bedrock-managed-knowledge-base-now-supports",
+      "date": "2026-09-04",
+      "name": "Amazon Bedrock Managed Knowledge Base now supports ServiceNow as a native data source connector",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS announces the ServiceNow data source connector for Amazon Bedrock Managed Knowledge Base, a fully managed retrieval-augmented generation (RAG) service. Customers can now connect their ServiceNow instance to crawl ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-servicenow-native-data-source-connector/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-04-aws-aws-mcp-server-adds-a-serverless-capability-for-aw",
+      "date": "2026-09-04",
+      "name": "AWS MCP Server adds a serverless capability for AWS Lambda functions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, <a href=\"https://docs.aws.amazon.com/agent-toolkit/latest/userguide/mcp-server.html\" rel=\"noopener noreferrer\" target=\"_blank\">AWS Model Context Protocol Server</a> (AWS MCP Server) added a serverless capabilit",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-mcp-server-serverless/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-04-aws-amazon-ec2-c8g-instances-now-available-in-addition",
+      "date": "2026-09-04",
+      "name": "Amazon EC2 C8g instances now available in additional regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8g instances are available in AWS Asia Pacific (Taipei, New Zealand), and&nbsp;AWS GovCloud (US-East) regions. These instances are powered by AWS Graviton4 pr",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-c8g-instances-additional-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-04-aws-amazon-sagemaker-ai-batch-transform-now-supports-g",
+      "date": "2026-09-04",
+      "name": "Amazon SageMaker AI Batch Transform now supports G6e instances",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon SageMaker AI now supports <a href=\"https://aws.amazon.com/ec2/instance-types/g6e/\">Amazon EC2 G6e instances</a> for batch transform. Batch Transform enables you to run predictions on datasets stored in Amazon S",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-batch-transform-g6e-instances/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-04-dust-spa-poke-636b537-deduplicate-generated-frame-cards",
+      "date": "2026-09-04",
+      "name": "spa/poke/636b537: Deduplicate generated Frame cards (#31883)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>Deduplicate completed Frame files before rendering their conversation cards. This prevents a legacy Frame from appearing twice when both create_interactive_content_file and conversation_side_panel.open_frame return th",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F636b537"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-04-dust-spa-poke-37f9587",
+      "date": "2026-09-04",
+      "name": "spa/poke/37f9587",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>audit log: emit agent.editors_updated when an agent's editors change …</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F37f9587"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-04-dust-spa-poke-2e26fb5",
+      "date": "2026-09-04",
+      "name": "spa/poke/2e26fb5",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>[front] chore: remove legacy workspace analytics endpoints (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/31687\">#31687</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2e26fb5"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-04-dust-spa-poke-ff13287",
+      "date": "2026-09-04",
+      "name": "spa/poke/ff13287",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>feat(core): support GCS Workload Identity authentication (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/31859\">#31859</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fff13287"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-04-crewai-1-15-20",
+      "date": "2026-09-04",
+      "name": "1.15.20",
+      "vendor": "CrewAI",
+      "type": "launch",
+      "summary": "<h2>What's Changed</h2>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Fix legacy platform tool alias discovery</li>\n</ul>\n<h3>Documentation</h3>\n<ul>\n<li>Update snapshot and changelog for v1.15.19</li>\n</ul>\n<h2>Contributors</h2>\n<p><a cl",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.20"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-09-04-crewai-1-15-19",
+      "date": "2026-09-04",
+      "name": "1.15.19",
+      "vendor": "CrewAI",
+      "type": "launch",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add Clipper integrations client</li>\n<li>Add <code>now()</code> to the CEL expression environment</li>\n<li>Record how a crew run ended for every user</li>\n<li>Report mac",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.19"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-09-03-openai-chatgpt-work-mode-high-error-rates",
       "date": "2026-09-03",
       "name": "ChatGPT Work Mode High Error Rates",
@@ -469,6 +667,42 @@
       "tags": []
     },
     {
+      "id": "2026-09-03-aws-amazon-ec2-c9g-and-c9gd-instances-are-now-availabl",
+      "date": "2026-09-03",
+      "name": "Amazon EC2 C9g and C9gd instances are now available in Asia Pacific (Tokyo) region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C9g and C9gd instances, powered by AWS Graviton5 processors, are available in the Asia Pacific (Tokyo) region. AWS Graviton5 processors are the fifth generatio",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-c9g-c9gd-asia-pacific-tokyo/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-03-aws-amazon-ec2-m9g-and-m9gd-instances-are-now-availabl",
+      "date": "2026-09-03",
+      "name": "Amazon EC2 M9g and M9gd instances are now available in four additional regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M9g and M9gd instances, powered by AWS Graviton5 processors, are available in Europe (Ireland) and Asia Pacific (Singapore, Sydney, Tokyo) regions. AWS Gravito",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-m9g-m9gd-four-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-09-02-aws-web-search-on-amazon-bedrock-is-now-available-in-a",
       "date": "2026-09-02",
       "name": "Web Search on Amazon Bedrock is now available in AWS GovCloud (US-West)",
@@ -839,240 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/database-insights-self-managed-postgresql/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-01-aws-amazon-connect-customer-dashboards-now-support-com",
-      "date": "2026-09-01",
-      "name": "Amazon Connect Customer dashboards now support compact mode",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Connect Customer now offers compact mode on the analytics dashboards, increasing data density so supervisors can see more of their operational data without scrolling. Compact mode reduces widget size, font, and",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/connect-dashboards-compact-mode/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-01-aws-amazon-mwaa-supports-apache-airflow-version-3-3-1",
-      "date": "2026-09-01",
-      "name": "Amazon MWAA supports Apache Airflow version 3.3.1",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Managed Workflows for Apache Airflow (MWAA) now supports Apache Airflow version 3.3.1, the latest release of the popular open-source workflow orchestration framework. Amazon MWAA is a managed orchestration serv",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mwaa-apache-airflow-3-3-1/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-01-aws-claude-fable-5-1-anthropic-s-new-frontier-model-is",
-      "date": "2026-09-01",
-      "name": "Claude Fable 5.1, Anthropic's new frontier model is now available on AWS",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Claude Fable 5.1 is generally available on AWS and brings Anthropic's most capable frontier model to all customers. Fable 5.1 delivers frontier intelligence for ambitious tasks across coding, scientific research, and ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-fable-5-1-aws/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-01-aws-amazon-cloudwatch-now-supports-warm-up-periods-for",
-      "date": "2026-09-01",
-      "name": "Amazon CloudWatch now supports warm-up periods for alarms",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon CloudWatch now lets you configure a warm-up period for metric alarms and log alarms, delaying alarm evaluation for a set time after the alarm is created. This reduces noise from missing data while a new resourc",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-alarms-warmup-period"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-01-dust-spa-poke-592c96d",
-      "date": "2026-09-01",
-      "name": "spa/poke/592c96d",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] fix: delete agent identities during workspace cleanup (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/31558\">#31558</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F592c96d"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-01-dust-spa-poke-323ab07-prevent-legacy-frames-from-using-",
-      "date": "2026-09-01",
-      "name": "spa/poke/323ab07: Prevent legacy Frames from using the v2 CLI (#31607)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>\n<p>Prevent legacy Frames from using the v2 CLI</p>\n</li>\n<li>\n<p>Clarify legacy Frame tooling</p>\n</li>\n</ul>\n<hr />\n<p>Co-authored-by: Henry Fontanier <a href=\"mailto:14199823+fontanierh@users.noreply.github.c",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F323ab07"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-01-dust-spa-poke-66c41f1",
-      "date": "2026-09-01",
-      "name": "spa/poke/66c41f1",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] Stop retrying cancelled agent loops when the selected model i…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F66c41f1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-01-dust-spa-poke-26b2bc3",
-      "date": "2026-09-01",
-      "name": "spa/poke/26b2bc3",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] fix: show configured model in agent builder picker (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/31469\">#31469</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F26b2bc3"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-01-aws-aws-marketplace-reduces-listing-fee-for-profession",
-      "date": "2026-09-01",
-      "name": "AWS Marketplace reduces listing fee for professional services in multi-product solutions",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS Marketplace now offers a 0% listing fee for professional services purchased as part of a qualifying multi-product solution. This builds on the recent reduction of professional services listing fee to 0.5%. It furt",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-marketplace-fee-professional-services/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-01-aws-aws-marketplace-now-supports-auto-renewals-for-pri",
-      "date": "2026-09-01",
-      "name": "AWS Marketplace now supports auto-renewals for private offers",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Marketplace now supports auto-renewals for private offers. This capability helps sellers and buyers maintain active software and service subscriptions without re-negotiation or re-purchasing at the end of the term",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-marketplace-auto-renewals-for-private-offers"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-01-aws-amazon-bedrock-agentcore-identity-now-offers-a-man",
-      "date": "2026-09-01",
-      "name": "Amazon Bedrock AgentCore Identity now offers a managed consent portal",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/identity-overview.html\">Amazon Bedrock AgentCore Identity</a> now offers a managed consent portal that eliminates the need for custom OAuth callba",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-agentcore/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-31-aws-partner-revenue-measurement-expands-service-covera",
-      "date": "2026-08-31",
-      "name": "Partner Revenue Measurement expands service coverage for User Agent string capability",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Partner Revenue Measurement <a href=\"https://docs.aws.amazon.com/PRM/latest/aws-prm-onboarding-guide/user-agent-string.html\">User Agent string</a> now supports additional AWS services. Partner Revenue Measurement allo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/partner-revenue-measurement-user-agent-expansion/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-08-31-aws-aws-agent-registry-agents-and-mcp-servers-now-avai",
-      "date": "2026-08-31",
-      "name": "AWS Agent Registry agents and MCP servers now available in Amazon Quick",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, Amazon Quick announces integration with AWS Agent Registry, enabling users to discover and use resources from their organization's AWS Agent Registry directly within Amazon Quick. AWS Agent Registry supports MC",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-agent-registry-agents-mcp-servers-quick/"
         }
       ],
       "impact": 5,
