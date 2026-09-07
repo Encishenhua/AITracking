@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "2026-09-06-openai-research-acceleration-the-view-inside-openai",
+      "date": "2026-09-06",
+      "name": "Research acceleration: The view inside OpenAI",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/research-acceleration-view-inside-openai"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-06-dust-spa-poke-6eca94d",
+      "date": "2026-09-06",
+      "name": "spa/poke/6eca94d",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>agent permissions: require read access on skills, suggestions and YAM…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6eca94d"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-06-dust-spa-app-6eca94d",
+      "date": "2026-09-06",
+      "name": "spa/app/6eca94d",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>agent permissions: require read access on skills, suggestions and YAM…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F6eca94d"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-09-04-aws-amazon-bedrock-managed-knowledge-base-introduces-u",
       "date": "2026-09-04",
       "name": "Amazon Bedrock Managed Knowledge Base introduces user-managed setup for SharePoint, OneDrive, and Confluence data sources",
@@ -1019,60 +1073,6 @@
         {
           "title": "OpenAI source",
           "url": "https://openai.com/index/gilbert-tobin"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-01-aws-amazon-quick-now-lets-you-build-custom-apps-with-n",
-      "date": "2026-09-01",
-      "name": "Amazon Quick now lets you build custom apps with natural language  -",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Now generally available, Amazon Quick lets you build custom applications by simply describing them in natural language. Create project trackers, customer dashboards, and training portals in minutes instead of months. ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-custom-apps-natural-language/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-01-aws-aws-deadline-cloud-now-supports-sharing-job-bundle",
-      "date": "2026-09-01",
-      "name": "AWS Deadline Cloud now supports sharing job bundles",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Deadline Cloud now supports sharing job bundles, giving teams a simple way to distribute and reuse render job templates without manual file distribution. Deadline Cloud is a fully managed service that helps teams ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/deadline-cloud/job-bundle-sharing"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-01-aws-amazon-cloudwatch-database-insights-now-supports-s",
-      "date": "2026-09-01",
-      "name": "Amazon CloudWatch Database Insights now supports self-managed PostgreSQL",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS announces support for self-managed PostgreSQL databases in Amazon CloudWatch Database Insights. Using CloudWatch Database Insights, you can now monitor your self-managed PostgreSQL instances running on Amaz",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/database-insights-self-managed-postgresql/"
         }
       ],
       "impact": 5,
