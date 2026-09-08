@@ -1,6 +1,114 @@
 {
   "items": [
     {
+      "id": "2026-09-07-openai-supporting-independent-journalism-in-ukraine",
+      "date": "2026-09-07",
+      "name": "Supporting independent journalism in Ukraine",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-07-dust-spa-poke-938ef08",
+      "date": "2026-09-07",
+      "name": "spa/poke/938ef08",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>[front] fix: hide API key credits for legacy plans (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/31958\">#31958</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F938ef08"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-07-dust-spa-poke-589a534",
+      "date": "2026-09-07",
+      "name": "spa/poke/589a534",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>refact: consumption: propagate and log error when no documents are cr…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F589a534"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-07-dust-spa-poke-190e4dc",
+      "date": "2026-09-07",
+      "name": "spa/poke/190e4dc",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>Add enable_new_usage_page flag and gate the usage page revamp behind …</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F190e4dc"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-07-dust-spa-poke-07b2e9f",
+      "date": "2026-09-07",
+      "name": "spa/poke/07b2e9f",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>Gate Poke pool-usage premium-message columns by feature flag (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/31965\">#31965</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F07b2e9f"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-07-dust-spa-poke-7a09763",
+      "date": "2026-09-07",
+      "name": "spa/poke/7a09763",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[Admin Governance] Fix editor backfill connection pool starvation (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/3\">#3</a>…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F7a09763"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-09-06-openai-research-acceleration-the-view-inside-openai",
       "date": "2026-09-06",
       "name": "Research acceleration: The view inside OpenAI",
@@ -968,114 +1076,6 @@
         }
       ],
       "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-02-dust-spa-poke-36c6f7a",
-      "date": "2026-09-02",
-      "name": "spa/poke/36c6f7a",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Admin governance: add poke tab to list all admin governance and setti…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F36c6f7a"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-02-aws-amazon-memorydb-now-supports-aws-privatelink-in-th",
-      "date": "2026-09-02",
-      "name": "Amazon MemoryDB now supports AWS PrivateLink in the AWS GovCloud (US) Regions",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>You can now use <a href=\"https://aws.amazon.com/privatelink/\">AWS PrivateLink</a> to privately access <a href=\"https://aws.amazon.com/memorydb/\">Amazon MemoryDB</a> from your Amazon Virtual Private Cloud (Amazon VPC) ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-memorydb-privatelink/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-01-openai-elevated-latency-in-the-responses-api",
-      "date": "2026-09-01",
-      "name": "Elevated latency in the Responses API",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Responses (Degraded performance)</li>\n          </ul",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01M1CYZDD84XD0H56XNEV2PT98"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-01-openai-how-ai-native-companies-turn-workflows-into-operat",
-      "date": "2026-09-01",
-      "name": "How AI-native companies turn workflows into operating capability",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/ai-native-company-workflows"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-01-openai-healthcare-organizations-can-now-connect-ehr-and-a",
-      "date": "2026-09-01",
-      "name": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-01-openai-how-law-firm-gilbert-tobin-governs-and-scales-ai-w",
-      "date": "2026-09-01",
-      "name": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/gilbert-tobin"
-        }
-      ],
-      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
