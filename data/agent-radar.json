@@ -1,6 +1,276 @@
 {
   "items": [
     {
+      "id": "2026-09-08-openai-openai-expands-initiatives-to-support-journalism-f",
+      "date": "2026-09-08",
+      "name": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-08-aws-openai-gpt-6-astra-is-now-generally-available-on-a",
+      "date": "2026-09-08",
+      "name": "OpenAI GPT-6 Astra is now generally available on Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS announces the general availability of GPT-6 Astra from OpenAI on Amazon Bedrock. The latest and most capable model from OpenAI to date, GPT-6 Astra brings deeper reasoning and judgment, professional-quality",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-astra-on-amazon-bedrock/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-08-aws-amazon-timestream-for-influxdb-3-now-supports-cust",
+      "date": "2026-09-08",
+      "name": "Amazon Timestream for InfluxDB 3 now supports custom plugins",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Timestream for InfluxDB now lets you run your own custom Python plugins on the managed versions of InfluxDB 3 Core and Enterprise editions. You host your plugin code in public or private repositories you contro",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/timestream-influxdb-custom-plugins/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-08-aws-aws-transform-is-now-available-in-aws-govcloud-us-",
+      "date": "2026-09-08",
+      "name": "AWS Transform is now available in AWS GovCloud (US-West)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Transform is now available in the AWS GovCloud (US-West) Region, enabling government agencies and regulated organizations to plan and execute large-scale migrations to AWS. With this launch, customers operating in",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-govcloud-us-west/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-08-aws-amazon-api-gateway-now-supports-mutual-tls-for-bac",
+      "date": "2026-09-08",
+      "name": "Amazon API Gateway now supports mutual TLS for backend integrations",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>You can now configure Amazon API Gateway REST APIs to present an AWS Certificate Manager (ACM) certificate to your backend during the TLS handshake, enabling mutual TLS (mTLS). Previously, API Gateway could present on",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-api-gateway-mutual-tls-backend/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-08-aws-amazon-rds-for-mariadb-now-supports-community-mari",
+      "date": "2026-09-08",
+      "name": "Amazon RDS for MariaDB now supports community MariaDB minor versions 10.6.28, 10.11.19, 11.4.13, 11.8.9, and 12.3.3",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, <a href=\"https://aws.amazon.com/rds/mariadb/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for MariaDB</a> now supports MariaDB minor versions 10.6.28, 10.1",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-mariadb-community-versions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-08-aws-amazon-bedrock-agentcore-memory-now-supports-direc",
+      "date": "2026-09-08",
+      "name": "Amazon Bedrock AgentCore Memory now supports direct ingestion to long-term memory",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Bedrock AgentCore Memory now lets developers submit content directly for long-term memory extraction without persisting it as a short-term memory event. The new IngestData API accepts content, fans it out to th",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/agentcore-memory-direct-ingest"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-08-aws-aws-healthomics-introduces-resource-fallback-order",
+      "date": "2026-09-08",
+      "name": "AWS HealthOmics introduces resource fallback order for WDL workflows",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS HealthOmics introduces the resource fallback directive, enabling you to define an ordered list of preferred accelerator types, including an option to fallback to CPU instances, for tasks in your Workflow De",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-healthomics-resourcefallback-wdl/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-08-aws-dynamic-image-transformation-for-amazon-cloudfront",
+      "date": "2026-09-08",
+      "name": "Dynamic Image Transformation for Amazon CloudFront adds four new features",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announced four new features for Dynamic Image Transformation for Amazon CloudFront (DIT). Customers can now use enhanced smart cropping with custom label detection and advanced composition controls that pre",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/dynamic-image-transfromation-adds-new-features/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-08-aws-aws-builder-id-adds-recovery-options-and-multi-fac",
+      "date": "2026-09-08",
+      "name": "AWS Builder ID adds recovery options and multi-factor authentication for third-party logins",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Builder ID, your personal profile for accessing AWS applications including AWS Builder Center, AWS Training and Certification, Amazon Quick and Kiro, now offers new ways to protect and recover your profile. You ca",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-builder-id-recovery-mfa-third-party/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-08-aws-aws-announces-nx-plugin-for-aws-for-scaffolding-fu",
+      "date": "2026-09-08",
+      "name": "AWS announces Nx Plugin for AWS for scaffolding full-stack applications",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Version 1.0 of the Nx Plugin for AWS, an open source toolkit for scaffolding full-stack applications on AWS, is now available. AI assistants can stand up an application on AWS in minutes, but rarely get security, obse",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/nx-plugin-for-aws/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-08-aws-amazon-s3-object-lock-now-supports-variable-retent",
+      "date": "2026-09-08",
+      "name": "Amazon S3 Object Lock now supports variable retention with event holds",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon S3 Object Lock now supports variable retention, allowing you to apply write-once-read-many (WORM) protection to objects whose required retention period starts with a future event, such as a contract closing or ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-s3-object-lock-variable-retention/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-08-dust-spa-poke-465a3d2",
+      "date": "2026-09-08",
+      "name": "spa/poke/465a3d2",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>admin governance: end space memberships instead of suspending them (#…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F465a3d2"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-08-dust-spa-poke-54cb63f",
+      "date": "2026-09-08",
+      "name": "spa/poke/54cb63f",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>admin governance: space settings send members and groups together (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/3\">#3</a>…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F54cb63f"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-08-dust-spa-poke-07e373d",
+      "date": "2026-09-08",
+      "name": "spa/poke/07e373d",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>admin governance: space access copy and member search spacing (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/32030\">#32030</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F07e373d"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-09-07-openai-supporting-independent-journalism-in-ukraine",
       "date": "2026-09-07",
       "name": "Supporting independent journalism in Ukraine",
@@ -803,276 +1073,6 @@
         {
           "title": "Dust source",
           "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F05aba8e"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-03-dust-spa-poke-e6129e1",
-      "date": "2026-09-03",
-      "name": "spa/poke/e6129e1",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] fix: hide workspace seat availability in invite modal (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/31786\">#31786</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fe6129e1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-03-aws-amazon-ec2-c9g-and-c9gd-instances-are-now-availabl",
-      "date": "2026-09-03",
-      "name": "Amazon EC2 C9g and C9gd instances are now available in Asia Pacific (Tokyo) region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C9g and C9gd instances, powered by AWS Graviton5 processors, are available in the Asia Pacific (Tokyo) region. AWS Graviton5 processors are the fifth generatio",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-c9g-c9gd-asia-pacific-tokyo/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-03-aws-amazon-ec2-m9g-and-m9gd-instances-are-now-availabl",
-      "date": "2026-09-03",
-      "name": "Amazon EC2 M9g and M9gd instances are now available in four additional regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M9g and M9gd instances, powered by AWS Graviton5 processors, are available in Europe (Ireland) and Asia Pacific (Singapore, Sydney, Tokyo) regions. AWS Gravito",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-m9g-m9gd-four-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-02-aws-web-search-on-amazon-bedrock-is-now-available-in-a",
-      "date": "2026-09-02",
-      "name": "Web Search on Amazon Bedrock is now available in AWS GovCloud (US-West)",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>The Web Search built-in server-side tool on Amazon Bedrock is now available in AWS GovCloud (US-West), helping bring grounded web results to compliance-sensitive government and public-sector workloads. Web Search help",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-web-aws-govcloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-02-aws-amazon-connect-customer-expands-automated-performa",
-      "date": "2026-09-02",
-      "name": "Amazon Connect Customer expands automated performance evaluations to Malay",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Connect Customer now automates evaluations of human and AI agents in Malay using generative AI. Managers define custom evaluation criteria in natural language and receive AI-generated evaluations with justifica",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-customer-automated-evaluations-malay/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-02-aws-amazon-quick-adds-new-tool-settings-and-model-cont",
-      "date": "2026-09-02",
-      "name": "Amazon Quick adds new tool settings and Model Context Protocol (MCP) sync support for connectors",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Quick connectors let users leverage tools and services such as Outlook, Slack, Salesforce, Jira, and homegrown MCP servers directly into their workflows across chat, agents, apps, flows, and deep research. Toda",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-adds-tool-settings-mcp-sync/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-02-aws-amazon-connect-customer-announces-general-availabi",
-      "date": "2026-09-02",
-      "name": "Amazon Connect Customer announces general availability of agentic CX designer",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect Customer announces the general availability of agentic CX designer, a no-code canvas for designing and deploying AI-powered self-service experiences. You can now build and launch voice and digital exper",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/agentic-cx-designer/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-02-aws-second-generation-aws-outposts-racks-now-in-the-aw",
-      "date": "2026-09-02",
-      "name": "Second-generation AWS Outposts racks now in the AWS GovCloud (US) Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Second-generation AWS Outposts racks are now supported in the AWS GovCloud (US-East) and AWS GovCloud (US-West) Regions. Outposts racks extend AWS infrastructure, AWS services, APIs, and tools to virtually any on-prem",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-outposts-govcloud-us-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-02-aws-aws-config-now-supports-60-new-resource-types",
-      "date": "2026-09-02",
-      "name": "AWS Config now supports 60 new resource types",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Config now supports 60 additional AWS resource types across key services including Amazon Bedrock,&nbsp; Amazon EC2, Amazon SageMaker, and AWS Organizations. This expansion provides greater coverage over your AWS ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-config-new-resource-types/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-02-aws-aws-lambda-now-supports-snapstart-for-container-im",
-      "date": "2026-09-02",
-      "name": "AWS Lambda now supports SnapStart for container image functions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, AWS Lambda supports SnapStart for functions packaged as <a href=\"https://docs.aws.amazon.com/lambda/latest/dg/images-create.html\" rel=\"noopener noreferrer\" target=\"_blank\">container images</a>, reducin",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-snapstart-container/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-02-aws-amazon-sagemaker-unified-studio-ci-cd-adds-noteboo",
-      "date": "2026-09-02",
-      "name": "Amazon SageMaker Unified Studio CI/CD adds notebook promotion and AI-assisted manifest generation",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon SageMaker Unified Studio CI/CD expands its open-source deployment toolkit with two new capabilities: (1) an AI agent skill that automates manifest authoring, and (2) native notebook promotion across environment",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-cicd-notebook-ai-manifest/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-02-aws-amazon-rds-for-sql-server-supports-additional-sql-",
-      "date": "2026-09-02",
-      "name": "Amazon RDS for SQL Server supports additional SQL trace flags",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon RDS for SQL Server</a>&nbsp;supports 18 additional SQL trace flags that you can enable through database parameter groups",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/rds-sqlserver-supports-additional-trace-flags/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-02-dust-spa-poke-0193fc5",
-      "date": "2026-09-02",
-      "name": "spa/poke/0193fc5",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>Introduce cached resource store and refit WorkspaceResource onto it (…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F0193fc5"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-02-dust-spa-poke-0126aa6-email-agents-retry-transient-regi",
-      "date": "2026-09-02",
-      "name": "spa/poke/0126aa6: [Email Agents] Retry transient regional relays (#31657)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>[Email Agents] Retry transient regional relay failures</p>\n</li>\n<li>\n<p>[Email Agents] Make relay retries recoverable</p>\n</li>\n<li>\n<p>[Email Agents] Fail closed after relay receipt</p>\n</li>\n<li>\n<p>[Emai",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F0126aa6"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-02-dust-spa-poke-60c61a8",
-      "date": "2026-09-02",
-      "name": "spa/poke/60c61a8",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>Add: log to investigate poke access issues. (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/31743\">#31743</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F60c61a8"
         }
       ],
       "impact": 3,
