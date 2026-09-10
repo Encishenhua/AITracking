@@ -1,6 +1,258 @@
 {
   "items": [
     {
+      "id": "2026-09-10-openai-unable-to-open-shared-chatgpt-project-using-direct",
+      "date": "2026-09-10",
+      "name": "Unable to open shared ChatGPT Project using direct link",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Investigating</b><br /><br />We are investigating the issue for the listed services.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Conversations (Degraded performance)</li>\n          </ul>",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M24HYC9SX2Q4471EVMY6EXQE"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-09-openai-investigating-unexpected-usage-limit-resets",
+      "date": "2026-09-09",
+      "name": "Investigating unexpected usage limit resets",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M23KG62KKK448RN434CQ64Z8"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-09-aws-amazon-connect-customer-now-lets-you-set-specific-",
+      "date": "2026-09-09",
+      "name": "Amazon Connect Customer now lets you set specific capacity limits for different types of Tasks and Emails",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect Customer now gives contact center managers the ability to set specific capacity limits for different kinds of work. Previously, concurrency settings were applied at the channel level so all contacts wit",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-capacity-limits/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-09-aws-aws-transform-for-net-modernization-is-now-general",
+      "date": "2026-09-09",
+      "name": "AWS Transform for .NET modernization is now generally available via CLI",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS announced the general availability of an AWS-managed transformation for .NET modernization in AWS Transform custom that you can trigger with a single one-line CLI command. You can run this transformation in",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-dotnet-cli"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-09-aws-aws-lambda-now-supports-90-minute-function-timeout",
+      "date": "2026-09-09",
+      "name": "AWS Lambda now supports 90-minute function timeout on Lambda Managed Instances",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Lambda now supports a 90-minute function timeout for <a href=\"https://docs.aws.amazon.com/lambda/latest/dg/invocation-async.html\">asynchronous</a> and <a href=\"https://docs.aws.amazon.com/lambda/latest/dg/invocati",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-90-minute-function/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-09-aws-aws-lambda-now-supports-graviton5-powered-ec2-inst",
+      "date": "2026-09-09",
+      "name": "AWS Lambda now supports Graviton5-powered EC2 instances on Lambda Managed Instances",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Lambda now supports AWS Graviton5-powered C9g, C9gd, M9g, and M9gd instances on <a href=\"https://docs.aws.amazon.com/lambda/latest/dg/lambda-managed-instances.html\">Lambda Managed Instances</a>. You can now run yo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-graviton5-ec2/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-09-aws-amazon-bedrock-managed-knowledge-base-adds-apis-an",
+      "date": "2026-09-09",
+      "name": "Amazon Bedrock Managed Knowledge Base adds APIs and console support for debugging document-level access control",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS announces the CheckIngestedDocumentAcl and GetIngestedDocumentAcl APIs for Amazon Bedrock Managed Knowledge Base, giving customers a self-service way to debug document access issues and audit document-level permis",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-knowledge-base-debugging-document-access-control/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-09-aws-amazon-bedrock-managed-knowledge-base-now-supports",
+      "date": "2026-09-09",
+      "name": "Amazon Bedrock Managed Knowledge Base now supports Confluence Data Center as a native data source connector",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS announces the Confluence Data Center data source connector for Amazon Bedrock Managed Knowledge Base, a fully managed retrieval-augmented generation (RAG) service. Customers running self-hosted Confluence Data Cen",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-confluence-data-center-native-data-source-connector/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-09-aws-amazon-ebs-volume-clones-now-supports-copying-volu",
+      "date": "2026-09-09",
+      "name": "Amazon EBS Volume Clones now supports copying volumes across accounts",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Elastic Block Store (Amazon EBS) Volume Clones now supports copying EBS volumes across AWS accounts with re-encryption. You can copy EBS volumes to any AWS account, re-encrypting with an AWS Key Management Serv",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/ebs-volume-clones-cross-account-copy/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-09-aws-aws-systems-manager-now-diagnoses-more-issues-that",
+      "date": "2026-09-09",
+      "name": "AWS Systems Manager now diagnoses more issues that cause EC2 instances to be unmanaged",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS Systems Manager extends its diagnosis capability to identify six additional categories of issues that can prevent Amazon EC2 instances and hybrid-activated nodes from becoming managed by Systems Manager. An",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/systems-manager-diagnoses-ec2-unmanaged/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-09-dust-spa-poke-282190b-disable-triggers-targeting-a-pod-",
+      "date": "2026-09-09",
+      "name": "spa/poke/282190b: Disable triggers targeting a Pod when it is archived. (#32172)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Archived pods should not keep creating conversations via automations; leave those triggers attached and off so editors can retarget or re-enable after unarchive.</p>\n<p>Co-authored-by: Cursor <a href=\"mailto:cursorage",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F282190b"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-09-dust-spa-poke-85a5f8f",
+      "date": "2026-09-09",
+      "name": "spa/poke/85a5f8f",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] Databricks: official managed MCP servers as remote presets (#…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F85a5f8f"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-09-dust-spa-poke-34b867c",
+      "date": "2026-09-09",
+      "name": "spa/poke/34b867c",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>fix(useAgentFromSearchParam): remove param stripping on new conversat…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F34b867c"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-09-crewai-1-15-21",
+      "date": "2026-09-09",
+      "name": "1.15.21",
+      "vendor": "CrewAI",
+      "type": "pricing",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add telemetry to track checkpoint runtime and CLI usage.</li>\n</ul>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Fix gateway errors reported inside an HTTP 200 response.</li>\n<li>Keep de",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.21"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-09-08-openai-openai-expands-initiatives-to-support-journalism-f",
       "date": "2026-09-08",
       "name": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
@@ -266,6 +518,24 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-08-aws-amazon-emr-extends-support-at-no-additional-cost-f",
+      "date": "2026-09-08",
+      "name": "Amazon EMR extends support at no additional cost for customers migrating off older releases",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon EMR now gives you more time, at no additional cost, to migrate off older releases before they reach end of support. If you are actively migrating, your workloads on eligible releases keep receiving support whil",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/emr-extended-support-migration/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -806,276 +1076,6 @@
         }
       ],
       "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-03-aws-aws-gateway-load-balancer-now-supports-tcp-reset-f",
-      "date": "2026-09-03",
-      "name": "AWS Gateway Load Balancer now supports TCP Reset for faster failure recovery",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>A<b></b>WS Gateway Load Balancer (GWLB) now supports sending TCP Reset (RST) packets when a target becomes unhealthy, is deregistered, or when a flow's idle timeout expires. This feature helps reduce traffic interrupt",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-gateway-load-balancer-tcp-reset/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-03-aws-amazon-workspaces-applications-adds-support-for-nv",
-      "date": "2026-09-03",
-      "name": "Amazon WorkSpaces Applications adds support for NVIDIA Blackwell GPU instances",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon WorkSpaces Applications now supports Graphics G7 instances, powered by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs and Intel Xeon Scalable (6th Gen) processors. G7 instances deliver up to 2.1× better perf",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-applications-nvidia-blackwell-gpu-instances/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-03-aws-amazon-redshift-rg-large-instances-now-support-sin",
-      "date": "2026-09-03",
-      "name": "Amazon Redshift rg.large instances now support single-node clusters",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Redshift rg.large instances, powered by AWS Graviton processors, now support single-node clusters. Single-node support for rg.large clusters is available on P204 or later patch versions. Customers can now creat",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/redshift-rg-large-single-node"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-03-aws-amazon-aurora-mysql-8-4-8-compatible-with-mysql-8-",
-      "date": "2026-09-03",
-      "name": "Amazon Aurora MySQL 8.4.8 (compatible with MySQL 8.4.8) is now generally available",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon Aurora MySQL-Compatible Edition 8.4 will support MySQL 8.4.8. In addition to several security enhancements and bug fixes, Aurora MySQL 8.4.8 includes several improvements, such as support for po",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-aurora-mysql-848-available/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-03-aws-amazon-aurora-mysql-now-supports-multi-source-repl",
-      "date": "2026-09-03",
-      "name": "Amazon Aurora MySQL now supports multi-source replication and delayed replication",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon Aurora MySQL supports two new replication capabilities: multi-source replication and delayed replication. Multi-source replication lets a single Aurora MySQL cluster replicate from multiple sour",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-aurora-mysql-multisourcerep-delayedrep/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-03-aws-amazon-mwaa-adds-built-in-monitoring-with-amazon-c",
-      "date": "2026-09-03",
-      "name": "Amazon MWAA adds built-in monitoring with Amazon CloudWatch",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Managed Workflows for Apache Airflow (MWAA) now includes a built-in monitoring experience on the environment detail page in the <a href=\"https://console.aws.amazon.com/mwaa/home\">AWS Management Console</a>. A n",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mwaa-cloudwatch-monitoring/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-03-aws-amazon-linux-2027-is-now-available-in-public-previ",
-      "date": "2026-09-03",
-      "name": "Amazon Linux 2027 is now available in public preview",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the public preview of Amazon Linux 2027 (AL2027), the next version of the Amazon Linux operating system, purpose-built for cloud-native workloads on AWS with performance, scale, and security in mi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/announcing-amazon-linux-2027/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-03-aws-amazon-ses-now-supports-s-mime-email-signing",
-      "date": "2026-09-03",
-      "name": "Amazon SES now supports S/MIME email signing",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p><a href=\"https://aws.amazon.com/ses/\">Amazon Simple Email Service (SES)</a> now supports Secure/Multipurpose Internet Mail Extensions (S/MIME) signing, giving you a way to help recipients verify your emails are authen",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ses-supports-smime-signing"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-03-aws-amazon-s3-now-supports-privatelink-for-fips-endpoi",
-      "date": "2026-09-03",
-      "name": "Amazon S3 now supports PrivateLink for FIPS endpoints",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon S3 now supports AWS PrivateLink for endpoints that have been validated under the Federal Information Processing Standard (FIPS) 140-3 program.<br /> <br /> Customers with security and compliance requirements ca",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-s3-privatelink-fips-endpoints"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-03-aws-aws-transform-announces-general-availability-of-am",
-      "date": "2026-09-03",
-      "name": "AWS Transform announces general availability of Amazon FSx for NetApp ONTAP support",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Transform for migrations adds Amazon FSx for NetApp ONTAP as a generally available storage target for block storage workloads, alongside Amazon EBS. With AWS Transform, you can now migrate block storage directly t",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-fsx-netapp-ontap-support/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-03-dust-spa-poke-152bf0e",
-      "date": "2026-09-03",
-      "name": "spa/poke/152bf0e",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>dust-hive: use auto models in dust-hive seeds + upgrade agents icons …</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F152bf0e"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-03-dust-spa-poke-9cf0a45-admin-governance-mirror-agent-edi",
-      "date": "2026-09-03",
-      "name": "spa/poke/9cf0a45: [Admin Governance] Mirror agent editor additions to grants (#31730)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>[Admin Governance] Dual-write agent editor additions</p>\n</li>\n<li>\n<p>[Admin Governance] Batch agent editor grants</p>\n</li>\n<li>\n<p>[Admin Governance] Align agent identifier names</p>\n</li>\n<li>\n<p>[Admin ",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9cf0a45"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-03-dust-spa-poke-7d6e96f-refactor-poke-remove-poke-support",
-      "date": "2026-09-03",
-      "name": "spa/poke/7d6e96f: refactor(poke): remove Poke support for Pod functions (#31747)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>Pods are being retired and Frames v2 now has its own Poke surface, so the Pod<br />\nfunction pages, routes, hooks and types go. Nothing product-side depended on<br />\nany of it: every consumer of the removed symbols w",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F7d6e96f"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-03-dust-spa-poke-5f09b90-front-create-workos-organization-",
-      "date": "2026-09-03",
-      "name": "spa/poke/5f09b90: [front] Create WorkOS organization for every workspace (#31715)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>[front] Create WorkOS organization for every workspace</li>\n</ul>\n<p>Always provision a WorkOS organization at workspace creation time instead of<br />\nonly for upgraded plans, and add a backfill for workspaces ",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5f09b90"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-03-dust-spa-poke-05aba8e-feat-key-the-slack-workflow-summo",
-      "date": "2026-09-03",
-      "name": "spa/poke/05aba8e: feat: key the Slack workflow summoning whitelist on spaces (#31667)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>feat: key the Slack workflow summoning whitelist on spaces</li>\n</ul>\n<p>The whitelist keyed on group ids, which forced front to resolve spaces to their member groups at<br />\nwrite time and let the slack CLI na",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F05aba8e"
-        }
-      ],
-      "impact": 3,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
