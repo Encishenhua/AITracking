@@ -1,6 +1,186 @@
 {
   "items": [
     {
+      "id": "2026-09-11-aws-amazon-ec2-x2idn-instances-are-now-available-in-as",
+      "date": "2026-09-11",
+      "name": "Amazon EC2 X2idn instances are now available in Asia Pacific (Hong Kong)",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Memory-optimized Amazon Elastic Compute Cloud (Amazon EC2) X2idn instances are now available in Asia Pacific (Hong Kong) Region. These instances, powered by 3rd generation Intel Xeon Scalable Processors and built with",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-x2idn-asia-pacific-hong-kong/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-11-aws-amazon-sagemaker-hyperpod-now-supports-model-cachi",
+      "date": "2026-09-11",
+      "name": "Amazon SageMaker HyperPod now supports model caching for faster inference autoscaling and reduced cold starts",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon SageMaker HyperPod now supports model caching, an inference optimization that pre-loads model weights and container images onto cluster nodes so pods start in seconds instead of minutes.</p> \n<p>When running LL",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/sgm-hyperpod-model-caching-inf/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-11-aws-aws-lambda-now-supports-direct-read-configuration-",
+      "date": "2026-09-11",
+      "name": "AWS Lambda now supports direct read configuration for Amazon S3 Files",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Lambda now supports <a href=\"https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-files-performance.html#s3-files-performance-how\">direct read</a>&nbsp;configuration for Amazon S3 Files, letting you configure ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-direct-read-s3files/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-11-aws-amazon-bedrock-managed-knowledge-base-now-supports",
+      "date": "2026-09-11",
+      "name": "Amazon Bedrock Managed Knowledge Base now supports multimodal embeddings for video, audio, and image content with TwelveLabs Marengo 3.0",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS announces the availability of TwelveLabs Marengo 3.0 as an embedding model in Amazon Bedrock Managed Knowledge Base, enabling customers to create multimodal embeddings for video, audio, and image content. Amazon B",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-multimodal-embeddings-twelvelabs-marengo/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-11-aws-aws-healthomics-now-publishes-real-time-run-metric",
+      "date": "2026-09-11",
+      "name": "AWS HealthOmics now publishes real-time run metrics to Amazon CloudWatch",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS HealthOmics now publishes real-time run metrics to Amazon CloudWatch, giving you visibility into workflow resource utilization as runs execute. The 14 new run metrics span CPU and GPU usage, memory usage, file sys",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-healthomics-realtime-run-metrics/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-11-aws-aws-devops-agent-adds-support-for-bidirectional-sl",
+      "date": "2026-09-11",
+      "name": "AWS DevOps Agent adds support for bidirectional Slack communication",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS DevOps Agent now enables engineers to manage&nbsp;production operations&nbsp;across AWS, multicloud, and on-premises environments with the complete investigation lifecycle directly within Slack. Previously, on-cal",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-devops-agent-bidirectional-slack-communication"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-11-aws-amazon-rds-for-oracle-now-supports-supplemental-pa",
+      "date": "2026-09-11",
+      "name": "Amazon RDS for Oracle now supports Supplemental Patch Bundle for July 2026 Release Update",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/oracle/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for Oracle</a> now supports the Supplemental Patch Bundle (SPB) for the July 2026 ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-oracle-supports-spatial-patch-bundle-jul-2026-ru/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-11-dust-spa-poke-4129a20-front-record-publishing-agent-on-",
+      "date": "2026-09-11",
+      "name": "spa/poke/4129a20: [front] Record publishing agent on Frames v2 publications (#32284)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>Frames v2 publish/activation never threaded publishedByAgentConfigurationId<br />\nthrough to useCaseMetadata.lastEditedByAgentConfigurationId, unlike the legacy<br />\nFrame publish path. Since the conversation UI's \"A",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F4129a20"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-11-dust-spa-poke-433be62",
+      "date": "2026-09-11",
+      "name": "spa/poke/433be62",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>LLM models: revert flag gating for Kimi 3 (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/32357\">#32357</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F433be62"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-11-dust-spa-poke-19a43cc-fix-oauth-preserve-static-mcp-cal",
+      "date": "2026-09-11",
+      "name": "spa/poke/19a43cc: fix(oauth): preserve static MCP callback provider (#32360)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>fix(oauth): preserve static MCP provider in callback URI</p>\n</li>\n<li>\n<p>fix(oauth): format mcp setupUri tests</p>\n</li>\n</ul>\n<p>Co-authored-by: Cursor <a href=\"mailto:cursoragent@cursor.com\">cursoragent@",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F19a43cc"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-09-10-openai-unable-to-open-shared-chatgpt-project-using-direct",
       "date": "2026-09-10",
       "name": "Unable to open shared ChatGPT Project using direct link",
@@ -649,6 +829,24 @@
       "tags": []
     },
     {
+      "id": "2026-09-09-aws-aws-marketplace-sellers-now-receive-qualified-demo",
+      "date": "2026-09-09",
+      "name": "AWS Marketplace sellers now receive qualified demo and private offer requests in minutes",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS Marketplace sellers that activated the request demo or request private offer call-to-action buttons on their listings can now act on customer requests within minutes of submission, while customers are still active",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-marketplace-demo-private-offer-requests-qualification"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-09-08-openai-openai-expands-initiatives-to-support-journalism-f",
       "date": "2026-09-08",
       "name": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
@@ -875,204 +1073,6 @@
         {
           "title": "Dust source",
           "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F465a3d2"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-08-dust-spa-poke-54cb63f",
-      "date": "2026-09-08",
-      "name": "spa/poke/54cb63f",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>admin governance: space settings send members and groups together (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/3\">#3</a>…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F54cb63f"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-08-dust-spa-poke-07e373d",
-      "date": "2026-09-08",
-      "name": "spa/poke/07e373d",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>admin governance: space access copy and member search spacing (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/32030\">#32030</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F07e373d"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-08-aws-amazon-emr-extends-support-at-no-additional-cost-f",
-      "date": "2026-09-08",
-      "name": "Amazon EMR extends support at no additional cost for customers migrating off older releases",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon EMR now gives you more time, at no additional cost, to migrate off older releases before they reach end of support. If you are actively migrating, your workloads on eligible releases keep receiving support whil",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/emr-extended-support-migration/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-07-openai-supporting-independent-journalism-in-ukraine",
-      "date": "2026-09-07",
-      "name": "Supporting independent journalism in Ukraine",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-07-dust-spa-poke-938ef08",
-      "date": "2026-09-07",
-      "name": "spa/poke/938ef08",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>[front] fix: hide API key credits for legacy plans (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/31958\">#31958</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F938ef08"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-07-dust-spa-poke-589a534",
-      "date": "2026-09-07",
-      "name": "spa/poke/589a534",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>refact: consumption: propagate and log error when no documents are cr…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F589a534"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-07-dust-spa-poke-190e4dc",
-      "date": "2026-09-07",
-      "name": "spa/poke/190e4dc",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>Add enable_new_usage_page flag and gate the usage page revamp behind …</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F190e4dc"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-07-dust-spa-poke-07b2e9f",
-      "date": "2026-09-07",
-      "name": "spa/poke/07b2e9f",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>Gate Poke pool-usage premium-message columns by feature flag (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/31965\">#31965</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F07b2e9f"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-07-dust-spa-poke-7a09763",
-      "date": "2026-09-07",
-      "name": "spa/poke/7a09763",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[Admin Governance] Fix editor backfill connection pool starvation (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/3\">#3</a>…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F7a09763"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-06-openai-research-acceleration-the-view-inside-openai",
-      "date": "2026-09-06",
-      "name": "Research acceleration: The view inside OpenAI",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-06-dust-spa-poke-6eca94d",
-      "date": "2026-09-06",
-      "name": "spa/poke/6eca94d",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>agent permissions: require read access on skills, suggestions and YAM…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6eca94d"
         }
       ],
       "impact": 3,
