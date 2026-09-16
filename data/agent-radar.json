@@ -19,6 +19,204 @@
       "tags": []
     },
     {
+      "id": "2026-09-15-aws-monitor-cost-anomalies-directly-in-billing-and-cos",
+      "date": "2026-09-15",
+      "name": "Monitor cost anomalies directly in Billing and Cost Management Dashboards with the new Detected Anomalies widget",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS Billing and Cost Management (BCM) announces support for the Detected Anomalies widget in BCM Dashboards. You can now review cost anomalies alongside cost and usage, budgets, cost efficiency, and reports for",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/monitor-detected-anomalies-using-dashboards"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-15-aws-aws-direct-connect-announces-flat-rate-pricing-for",
+      "date": "2026-09-15",
+      "name": "AWS Direct Connect announces flat-rate pricing for dedicated connections",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><b>AWS Direct Connect announces flat-rate pricing for 10G and 100G dedicated connections</b></p> \n<p>AWS Direct Connect provides dedicated network connectivity from on-premises environments to AWS. Customers value the",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-direct-connect-announces-flat-rate-pricing/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-15-aws-aws-billing-conductor-now-supports-custom-rates-an",
+      "date": "2026-09-15",
+      "name": "AWS Billing Conductor now supports custom rates and usage tier pricing configurations",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Billing Conductor now lets you define custom rate pricing for AWS services, including defining custom usage tiers to configure rates by the desired usage volume.&nbsp;</p> \n<p>Customers and Partners using AWS Bill",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/AWS-Billing-Conductor-custom-rates-usage-tier"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-15-aws-analyze-your-cloudtrail-events-using-natural-langu",
+      "date": "2026-09-15",
+      "name": "Analyze your CloudTrail events using natural language in Amazon Q Console",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS CloudTrail, a service that records API activity across your AWS account for security auditing, compliance, and operational troubleshooting, now integrates with Amazon Q Console to help you investigate your AWS acc",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/cloudtrail-amazon-q-console/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-15-aws-amazon-connect-customer-now-enables-agents-to-bid-",
+      "date": "2026-09-15",
+      "name": "Amazon Connect Customer now enables agents to bid on preferred shifts",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Connect Customer now enables agents to bid on preferred shifts, giving them more control over their work schedules. Schedulers first establish agent ranking either by uploading a CSV file or generating a random",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-customer-shift-bidding/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-15-dust-spa-poke-8443076-let-dsbx-query-frame-databases-fr",
+      "date": "2026-09-15",
+      "name": "spa/poke/8443076: Let dsbx query Frame databases from a conversation sandbox (#32348)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>Let dsbx query Frame databases from a conversation sandbox</li>\n</ul>\n<p>Adds --frame  to dsbx db list and dsbx db query. In a<br />\nconversation sandbox the command is forwarded through Front's internal<br />\nF",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8443076"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-15-dust-spa-poke-54753d7-keep-conversation-cat-available-f",
+      "date": "2026-09-15",
+      "name": "spa/poke/54753d7: Keep conversation cat available for files that have no snippet. (#32437)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>JIT upsert no longer runs, so new uploads often have snippet: null. Bundling that with isIncludable hid conversation_files__cat even though original bytes are still readable.</p>\n<p>Co-authored-by: Cursor <a href=\"mai",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F54753d7"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-15-dust-spa-poke-0547bb4-admin-governance-remove-builder-c",
+      "date": "2026-09-15",
+      "name": "spa/poke/0547bb4: [admin governance] remove builder check from public api (#30806)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>remove builder check from public api</p>\n</li>\n<li>\n<p>fix tests</p>\n</li>\n<li>\n<p>use manager</p>\n</li>\n<li>\n<p>update test</p>\n</li>\n<li>\n<p>hide unpublished agents for non admin key</p>\n</li>\n<li>\n<p>upda",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F0547bb4"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-15-dust-spa-poke-433cd1a",
+      "date": "2026-09-15",
+      "name": "spa/poke/433cd1a",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>workspace management MCP: add functions to manage groups (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/32442\">#32442</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F433cd1a"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-15-dust-spa-poke-44f3aa1-front-personal-information-settin",
+      "date": "2026-09-15",
+      "name": "spa/poke/44f3aa1: [front] Personal Information settings: improve layout (#32494)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>[front] Personal Information settings: same row layout as the other sections</li>\n</ul>\n<p>The first page of the user settings was a free-form form (large avatar with a<br />\nhover-only edit button, two side-by-",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F44f3aa1"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-15-dust-spa-poke-9e8204f",
+      "date": "2026-09-15",
+      "name": "spa/poke/9e8204f",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] enh: use light views in MCP server listings (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/32401\">#32401</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9e8204f"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-09-14-openai-how-fyxer-built-an-ai-executive-assistant-people-t",
       "date": "2026-09-14",
       "name": "How Fyxer built an AI executive assistant people trust",
@@ -428,6 +626,24 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-11-aws-amazon-sagemaker-unified-studio-now-supports-odbc-",
+      "date": "2026-09-11",
+      "name": "Amazon SageMaker Unified Studio now supports ODBC connections for Microsoft Power BI and other analytics tools",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon SageMaker Unified Studio now supports ODBC connections, so data users can connect Microsoft Power BI and other ODBC-compatible tools directly to governed data in SageMaker Unified Studio projects using the Amaz",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-unified-studio-odbc-power-bi/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -857,222 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-graviton5-ec2/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-09-aws-amazon-bedrock-managed-knowledge-base-adds-apis-an",
-      "date": "2026-09-09",
-      "name": "Amazon Bedrock Managed Knowledge Base adds APIs and console support for debugging document-level access control",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS announces the CheckIngestedDocumentAcl and GetIngestedDocumentAcl APIs for Amazon Bedrock Managed Knowledge Base, giving customers a self-service way to debug document access issues and audit document-level permis",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-knowledge-base-debugging-document-access-control/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-09-aws-amazon-bedrock-managed-knowledge-base-now-supports",
-      "date": "2026-09-09",
-      "name": "Amazon Bedrock Managed Knowledge Base now supports Confluence Data Center as a native data source connector",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS announces the Confluence Data Center data source connector for Amazon Bedrock Managed Knowledge Base, a fully managed retrieval-augmented generation (RAG) service. Customers running self-hosted Confluence Data Cen",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-confluence-data-center-native-data-source-connector/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-09-aws-amazon-ebs-volume-clones-now-supports-copying-volu",
-      "date": "2026-09-09",
-      "name": "Amazon EBS Volume Clones now supports copying volumes across accounts",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Elastic Block Store (Amazon EBS) Volume Clones now supports copying EBS volumes across AWS accounts with re-encryption. You can copy EBS volumes to any AWS account, re-encrypting with an AWS Key Management Serv",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/ebs-volume-clones-cross-account-copy/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-09-aws-aws-systems-manager-now-diagnoses-more-issues-that",
-      "date": "2026-09-09",
-      "name": "AWS Systems Manager now diagnoses more issues that cause EC2 instances to be unmanaged",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS Systems Manager extends its diagnosis capability to identify six additional categories of issues that can prevent Amazon EC2 instances and hybrid-activated nodes from becoming managed by Systems Manager. An",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/systems-manager-diagnoses-ec2-unmanaged/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-09-dust-spa-poke-282190b-disable-triggers-targeting-a-pod-",
-      "date": "2026-09-09",
-      "name": "spa/poke/282190b: Disable triggers targeting a Pod when it is archived. (#32172)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Archived pods should not keep creating conversations via automations; leave those triggers attached and off so editors can retarget or re-enable after unarchive.</p>\n<p>Co-authored-by: Cursor <a href=\"mailto:cursorage",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F282190b"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-09-dust-spa-poke-85a5f8f",
-      "date": "2026-09-09",
-      "name": "spa/poke/85a5f8f",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] Databricks: official managed MCP servers as remote presets (#…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F85a5f8f"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-09-dust-spa-poke-34b867c",
-      "date": "2026-09-09",
-      "name": "spa/poke/34b867c",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>fix(useAgentFromSearchParam): remove param stripping on new conversat…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F34b867c"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-09-crewai-1-15-21",
-      "date": "2026-09-09",
-      "name": "1.15.21",
-      "vendor": "CrewAI",
-      "type": "pricing",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add telemetry to track checkpoint runtime and CLI usage.</li>\n</ul>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Fix gateway errors reported inside an HTTP 200 response.</li>\n<li>Keep de",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.21"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-09-09-aws-amazon-quick-adds-always-on-agents-a-sharper-feed-",
-      "date": "2026-09-09",
-      "name": "Amazon Quick adds always-on agents, a sharper feed, and enterprise controls",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, Amazon Quick offers new capabilities that make it easier to organize your work, govern it across an organization, and trust the answers it produces. These capabilities build on Amazon Quick across desktop and m",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-always-on-agents-sharper-feed-enterprise-controls/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-09-aws-amazon-quick-activity-feed-now-available-on-ios-an",
-      "date": "2026-09-09",
-      "name": "Amazon Quick activity feed now available on iOS and Android mobile devices",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>The Amazon Quick activity feed is now available on the Amazon Quick mobile app for iOS and Android, keeping you connected to your most important work from anywhere.&nbsp;</p> \n<p>The activity feed is your single, prio",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-activity-feed-available-ios-android-mobile-devices/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-09-aws-amazon-quick-desktop-app-is-now-generally-availabl",
-      "date": "2026-09-09",
-      "name": "Amazon Quick desktop app is now generally available on macOS and Windows",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>The Amazon Quick desktop app is now generally available on macOS and Windows. The desktop app brings the full power of Amazon Quick to your computer, working directly with your local files and staying connected to you",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-desktop-app-generally-available-macos-windows/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-09-aws-aws-entity-resolution-adds-record-level-confidence",
-      "date": "2026-09-09",
-      "name": "AWS Entity Resolution adds record-level confidence scores for ML matching",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Entity Resolution now provides record-level confidence scores for Machine Learning (ML) based matching workflows, giving you a per-record signal of how confident the model is in each individual identity match. Pre",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/entity-resolution-record-confidence/"
         }
       ],
       "impact": 5,
