@@ -1,6 +1,312 @@
 {
   "items": [
     {
+      "id": "2026-09-17-aws-amazon-corretto-27-is-now-generally-available",
+      "date": "2026-09-17",
+      "name": "Amazon Corretto 27 is now generally available",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Corretto 27, a Feature Release (FR) version, is now available for download. <a href=\"https://aws.amazon.com/corretto/\">Amazon Corretto</a> is a no-cost, multi-platform, production-ready distribution of <a href=",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-27-generally-available/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-16-openai-reimagining-advertising-with-ai",
+      "date": "2026-09-16",
+      "name": "Reimagining advertising with AI",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/reimagining-advertising-with-ai"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-16-openai-our-framework-for-reporting-model-misalignment",
+      "date": "2026-09-16",
+      "name": "Our framework for reporting model misalignment",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/model-misalignment-reporting-framework"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-16-aws-amazon-sagemaker-ai-now-supports-serverless-model-",
+      "date": "2026-09-16",
+      "name": "Amazon SageMaker AI now supports serverless model customization for NVIDIA Nemotron 3.5 Lightning",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker AI now supports serverless model customization for the NVIDIA Nemotron 3.5 Lightning model using supervised fine-tuning (SFT), Direct Preference Optimization (DPO), and reinforcement fine-tuning (RFT)",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-sagemaker-ft-nemotron-3-5-lightning/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-16-aws-aws-client-vpn-is-now-supporting-macos-27-golden-g",
+      "date": "2026-09-16",
+      "name": "AWS Client VPN is now supporting MacOS 27 Golden Gate",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Client VPN now supports MacOS 27 Golden Gate client with versions 6.0+ You can now run the AWS supplied VPN client on the latest MacOS versions. AWS Client VPN desktop clients are available free of charge, and can",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-client-vpn-macos-golden-gate/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-16-aws-new-aws-experience-helps-builders-get-started-and-",
+      "date": "2026-09-16",
+      "name": "New AWS experience helps builders get started and ship faster",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Builders can now sign up for a new simplified experience that makes it faster to turn ideas into running code on AWS. AWS services provide an array of configuration options so that the largest enterprises can customiz",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/New-AWS-Builder-Experience"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-16-aws-amazon-workspaces-adds-support-for-nvidia-blackwel",
+      "date": "2026-09-16",
+      "name": "Amazon WorkSpaces adds support for NVIDIA Blackwell GPU instances",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon WorkSpaces Personal and Amazon WorkSpaces Core now support Graphics G7 bundles, built on NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs and Intel Xeon 6 processors. Graphics G7 delivers up to 2.1x better per",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-nvidia-blackwell-gpu-instances/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-16-aws-amazon-connect-customer-custom-metrics-now-support",
+      "date": "2026-09-16",
+      "name": "Amazon Connect Customer custom metrics now supports tag-based access control",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect Customer now supports tag-based access control for custom metrics, so you can govern which users and roles can view, create, or modify each custom metric.</p> \n<p>As more teams across your organization ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/connect-customer-custom-metrics-tag/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-16-aws-amazon-connect-customer-can-now-import-evaluation-",
+      "date": "2026-09-16",
+      "name": "Amazon Connect Customer can now import evaluation form PDFs using AI",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Connect Customer now lets managers import a PDF of an evaluation form from a third-party quality management application, and automatically recreates it in Connect using AI, making it easier to migrate an existi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-customer-import-evaluation-form-PDF/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-16-aws-aws-elemental-mediatailor-monetization-functions-a",
+      "date": "2026-09-16",
+      "name": "AWS Elemental MediaTailor Monetization Functions adds ad response hooks",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Elemental MediaTailor now supports two additional lifecycle hooks for monetization functions: post ad decision server (ADS) response, and pre manifest insertion. MediaTailor is a video service that personalizes an",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-elemental-mediatailor-functions-ad-response-hooks"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-16-aws-amazon-ecs-extends-amazon-s3-files-support-to-the-",
+      "date": "2026-09-16",
+      "name": "Amazon ECS extends Amazon S3 Files support to the Amazon EC2 compute type",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/ecs/\">Amazon Elastic Container Service</a> (Amazon ECS) now supports Amazon S3 Files for tasks running on the Amazon EC2 launch type, enabling customers to connect their containerized a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-s3-files-ec2/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-16-aws-amazon-connect-customer-now-lets-you-create-manage",
+      "date": "2026-09-16",
+      "name": "Amazon Connect Customer now lets you create, manage, and search custom metrics through APIs",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Connect Customer provides a library of standard metrics. Custom metrics let you go further; defining the measurements unique to your business. But managing them across various instances manually means definitio",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/connect-customer-custom-metrics-apis/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-16-dust-spa-poke-257875e-add-page-up-and-page-down-slidesh",
+      "date": "2026-09-16",
+      "name": "spa/poke/257875e: Add Page Up and Page Down slideshow navigation (#32578)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>\n<p>Add Page Up and Page Down slideshow navigation</p>\n</li>\n<li>\n<p>Generalize slideshow keyboard navigation contracts</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F257875e"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-16-dust-spa-poke-556b28a",
+      "date": "2026-09-16",
+      "name": "spa/poke/556b28a",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[auth] Sync workspace admins as WorkOS IT contacts (debounced workflo…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F556b28a"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-16-dust-spa-poke-0124d56",
+      "date": "2026-09-16",
+      "name": "spa/poke/0124d56",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[Admin Governance] Flip agent views and verify the rollout (12d) (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/issues/32\">#32</a>…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F0124d56"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-16-dust-spa-poke-74f4885-enh-no-preview-affordance-without",
+      "date": "2026-09-16",
+      "name": "spa/poke/74f4885: enh: no preview affordance without a conversation (#32265)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Some surfaces render citations without a conversation to host the side panel:<br />\nthe activation composer, an empty agent builder preview. Clicking there did<br />\nnothing. Those surfaces now register whether they h",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F74f4885"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-16-crewai-1-15-22",
+      "date": "2026-09-16",
+      "name": "1.15.22",
+      "vendor": "CrewAI",
+      "type": "launch",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Support aliases as connection identifiers</li>\n<li>Record reasons for deployment creation failures</li>\n<li>Collect human feedback and pause events in tracing</li>\n<li>A",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.22"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-09-15-openai-elevated-errors-affecting-work-mode-in-chatgpt",
       "date": "2026-09-15",
       "name": "Elevated errors affecting Work Mode in ChatGPT",
@@ -212,6 +518,24 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-15-aws-aws-step-functions-adds-new-aws-service-integratio",
+      "date": "2026-09-15",
+      "name": "AWS Step Functions adds new AWS service integrations automatically, starting with AWS Lambda MicroVMs",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/step-functions/\">AWS Step Functions</a> now automatically adds AWS SDK integrations for new AWS services and capabilities within weeks of their release, starting with AWS Lambda MicroVM",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-step-functions-integrations/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -649,6 +973,24 @@
       "tags": []
     },
     {
+      "id": "2026-09-11-aws-aws-pcs-now-supports-custom-gres-hardware-topology",
+      "date": "2026-09-11",
+      "name": "AWS PCS now supports custom GRES, hardware topology, and MIG",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p><a href=\"https://aws.amazon.com/pcs/\">AWS Parallel Computing Service (AWS PCS)</a> now supports custom Generic Resource (GRES) settings and hardware topology, and adds support for Slurm version 26.05. These capabiliti",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-pcs-gres-hardware-topology-mig/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-09-10-openai-unable-to-open-shared-chatgpt-project-using-direct",
       "date": "2026-09-10",
       "name": "Unable to open shared ChatGPT Project using direct link",
@@ -731,348 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-durable-pydantic-ai/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-10-aws-amazon-mq-now-supports-rabbitmq-4-3",
-      "date": "2026-09-10",
-      "name": "Amazon MQ now supports RabbitMQ 4.3",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon MQ now supports RabbitMQ version 4.3 which adds quorum queue feature enhancements such as compaction, increased priority levels, native delayed retries, and graceful consumer timeouts.&nbsp;RabbitMQ 4.3 also in",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mq-rabbitmq-43/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-10-aws-announcing-second-generation-single-rack-aws-outpo",
-      "date": "2026-09-10",
-      "name": "Announcing second-generation single-rack AWS Outposts",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the general availability of second-generation single-rack AWS Outposts, a self-contained 42U rack that integrates compute, storage and networking into a single compact unit purpose-built for workl",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/single-rack-aws-outposts/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-10-aws-amazon-opensearch-serverless-is-now-available-on-v",
-      "date": "2026-09-10",
-      "name": "Amazon OpenSearch Serverless is now available on v0 by Vercel",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>You can now build full-stack search and AI applications in minutes using Amazon OpenSearch Serverless on v0 by Vercel, an AI-powered platform that transforms your ideas into production-ready web applications. OpenSear",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-opensearch-serverless-available-V0-vercel/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-10-aws-amazon-ecs-expands-iam-condition-key-support-for-r",
-      "date": "2026-09-10",
-      "name": "Amazon ECS expands IAM condition key support for RunTask and StartTask APIs",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><br /> <a href=\"https://aws.amazon.com/ecs/\">Amazon Elastic Container Service</a> (Amazon ECS) now supports the IAM condition keys for CPU and memory resources on the RunTask and StartTask APIs. Administrators can use",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-expands-condition-key-support/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-10-aws-amazon-redshift-rg-instances-now-available-in-euro",
-      "date": "2026-09-10",
-      "name": "Amazon Redshift RG instances now available in Europe (Zurich) Region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Redshift RG instances, powered by AWS Graviton processors, are now available in the AWS Europe (Zurich) Region. RG instances deliver better performance, running data warehouse and data lake workloads up to 2.4x",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-redshift-rg-available-zurich"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-10-aws-amazon-cloudwatch-now-supports-network-health-indi",
-      "date": "2026-09-10",
-      "name": "Amazon CloudWatch now supports network health indicator for TGW inter-Region peering using synthetic monitors",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>With synthetic monitors in Amazon CloudWatch Network Monitoring, you can now determine whether a network performance issue on a path that crosses an AWS Transit Gateway inter-Region peering connection is caused by the",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/cloudwatch-network-monitoring-tgw-support/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-10-aws-aws-elemental-inference-now-generates-contextual-m",
-      "date": "2026-09-10",
-      "name": "AWS Elemental Inference now generates contextual metadata from live video in real time",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/elemental-inference/\">AWS Elemental Inference</a> now generates contextual metadata from live video streams in real time, using AI to produce scene-level intelligence without custom mac",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/elemental-inference-contextual-metadata/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-10-aws-aws-elemental-mediatailor-now-offers-yield-optimiz",
-      "date": "2026-09-10",
-      "name": "AWS Elemental MediaTailor now offers Yield Optimization to automatically fill ad breaks with Amazon Ads demand",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Elemental MediaTailor now offers Yield Optimization, a new capability that automatically monetizes unused ad inventory with Amazon Ads demand during server-side ad insertion (SSAI) for livestreams. Available exclu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/mediatailor-yield-optimization/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-10-aws-aws-elemental-introduces-dynamic-multiview-for-liv",
-      "date": "2026-09-10",
-      "name": "AWS Elemental introduces Dynamic Multiview for live video",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Elemental MediaPackage now offers Dynamic Multiview, a server-side capability that composes multiple live video sources into viewer-selected tiled layouts on demand. Content providers can deliver multi-angle, mult",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-elemental-dynamic-multiview-video/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-10-aws-aws-storage-gateway-now-supports-fips-compliant-pr",
-      "date": "2026-09-10",
-      "name": "AWS Storage Gateway now supports FIPS-compliant private connectivity for Amazon S3 File Gateway",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Storage Gateway now supports FIPS 140-3 validated endpoints over AWS PrivateLink for Amazon S3 File Gateway. Previously, FIPS endpoints for File Gateway were available only over the public internet. Now you can ke",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/storage-gateway-fips-privatelink-s3/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-10-aws-amazon-evs-is-now-available-in-more-regions",
-      "date": "2026-09-10",
-      "name": "Amazon EVS is now available in more regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, we're announcing that Amazon Elastic VMware Service (Amazon EVS) is now available in the Asia Pacific (Osaka), Asia Pacific (Taipei),&nbsp;Europe (Spain), and Israel (Tel Aviv)&nbsp;Regions. This expansion prov",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-evs-available-in-additional-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-10-dust-spa-poke-1678848-the-card-mentions-people-again-32",
-      "date": "2026-09-10",
-      "name": "spa/poke/1678848: The card mentions people again (#32200)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>\n<p>The card mentions people again, Slack lookups go as query strings</p>\n</li>\n<li>\n<p>The changelog names people the same way as the card</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F1678848"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-10-dust-spa-poke-77cd011-front-include-nested-agent-time-i",
-      "date": "2026-09-10",
-      "name": "spa/poke/77cd011: [front] Include nested-agent time in completion duration (#32186)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>[front] Include nested-agent time in completion duration</li>\n</ul>\n<p>run_agent pauses across the 10-minute tool timeout, so executionDurationMs<br />\nonly covers the last attempt. Counting that gap as wait mad",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F77cd011"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-10-dust-spa-poke-02b988a",
-      "date": "2026-09-10",
-      "name": "spa/poke/02b988a",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>public API: serialize an agent's skills on the agent endpoints (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/32157\">#32157</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F02b988a"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-09-openai-investigating-unexpected-usage-limit-resets",
-      "date": "2026-09-09",
-      "name": "Investigating unexpected usage limit resets",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01M23KG62KKK448RN434CQ64Z8"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-09-aws-amazon-connect-customer-now-lets-you-set-specific-",
-      "date": "2026-09-09",
-      "name": "Amazon Connect Customer now lets you set specific capacity limits for different types of Tasks and Emails",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect Customer now gives contact center managers the ability to set specific capacity limits for different kinds of work. Previously, concurrency settings were applied at the channel level so all contacts wit",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-capacity-limits/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-09-aws-aws-transform-for-net-modernization-is-now-general",
-      "date": "2026-09-09",
-      "name": "AWS Transform for .NET modernization is now generally available via CLI",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS announced the general availability of an AWS-managed transformation for .NET modernization in AWS Transform custom that you can trigger with a single one-line CLI command. You can run this transformation in",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-dotnet-cli"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-09-aws-aws-lambda-now-supports-90-minute-function-timeout",
-      "date": "2026-09-09",
-      "name": "AWS Lambda now supports 90-minute function timeout on Lambda Managed Instances",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Lambda now supports a 90-minute function timeout for <a href=\"https://docs.aws.amazon.com/lambda/latest/dg/invocation-async.html\">asynchronous</a> and <a href=\"https://docs.aws.amazon.com/lambda/latest/dg/invocati",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-90-minute-function/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-09-aws-aws-lambda-now-supports-graviton5-powered-ec2-inst",
-      "date": "2026-09-09",
-      "name": "AWS Lambda now supports Graviton5-powered EC2 instances on Lambda Managed Instances",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Lambda now supports AWS Graviton5-powered C9g, C9gd, M9g, and M9gd instances on <a href=\"https://docs.aws.amazon.com/lambda/latest/dg/lambda-managed-instances.html\">Lambda Managed Instances</a>. You can now run yo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-graviton5-ec2/"
         }
       ],
       "impact": 5,
