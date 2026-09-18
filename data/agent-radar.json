@@ -19,6 +19,150 @@
       "tags": []
     },
     {
+      "id": "2026-09-17-openai-introducing-astra-for-law",
+      "date": "2026-09-17",
+      "name": "Introducing Astra for Law",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/astra-for-law"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-17-aws-aws-transfer-family-now-supports-source-ip-preserv",
+      "date": "2026-09-17",
+      "name": "AWS Transfer Family now supports source IP preservation for SFTP servers behind a Network Load Balancer (NLB)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Transfer Family now preserves the client's source IP address using Proxy Protocol v2 (PPv2) when you place a Network Load Balancer (NLB) in front of your SFTP server that uses a VPC-hosted endpoint. You can now re",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/transfer-family-sftp-source-ip-nlb/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-17-aws-aws-healthomics-now-supports-iam-session-policies",
+      "date": "2026-09-17",
+      "name": "AWS HealthOmics now supports IAM session policies",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS HealthOmics now supports IAM session policies, enabling you to restrict permissions for individual runs without creating and managing multiple IAM roles. Until now, there was no way to dynamically scope down permi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/omics-iam-session-policy/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-17-aws-introducing-amazon-ec2-t8i-instances",
+      "date": "2026-09-17",
+      "name": "Introducing Amazon EC2 T8i instances",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS is announcing the general availability of new low-cost burstable Amazon EC2 T8i instances. These instances are powered by custom sixth generation Intel Xeon 6 processors, available exclusively on AWS, and built on",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-t8i-instances-ga/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-17-aws-aws-elastic-beanstalk-introduces-cluster-mode-to-r",
+      "date": "2026-09-17",
+      "name": "AWS Elastic Beanstalk introduces Cluster Mode to run multiple applications on shared infrastructure",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Elastic Beanstalk introduces Cluster Mode, a new deployment mode that lets you run and manage multiple applications on shared infrastructure in your account. Provide your source code, a Dockerfile, or a container ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/elastic-beanstalk-cluster-mode/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-17-aws-amazon-s3-express-one-zone-is-now-available-in-7-a",
+      "date": "2026-09-17",
+      "name": "Amazon S3 Express One Zone is now available in 7 additional AWS Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>The Amazon S3 Express One Zone storage class is now available in 7 additional AWS Regions: Asia Pacific (Singapore), South America (Sao Paulo), US West (N. California), Canada (Central), Europe (Paris), Asia Pacific (",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/s3-express-one-zone-7-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-17-aws-aws-builder-center-now-available-as-mobile-app-on-",
+      "date": "2026-09-17",
+      "name": "AWS Builder Center now available as mobile app on iOS and Android",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Builder Center is a platform that brings together the global builder community, offering articles, workshops, sandbox environments, events, and learning resources in one place. Previously limited to desktop and we",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-builder-center-now-available-as-mobile-app/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-17-aws-amazon-quick-now-generates-individual-sheets-and-b",
+      "date": "2026-09-17",
+      "name": "Amazon Quick now generates individual sheets and builds analyses from an image",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Quick now expands Generate Analysis with two new ways to create dashboards faster. You can generate a single sheet inside an existing analysis by describing it in natural language, and you can generate a new an",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/generate-sheet-and-generate-analysis-from-an-image/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-09-16-openai-reimagining-advertising-with-ai",
       "date": "2026-09-16",
       "name": "Reimagining advertising with AI",
@@ -304,6 +448,42 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-09-16-aws-amazon-ecs-deployment-observability-for-amazon-ecs",
+      "date": "2026-09-16",
+      "name": "Amazon ECS deployment observability for Amazon ECS Managed Daemons in AWS Management Console",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p><a href=\"https://aws.amazon.com/ecs/\">Amazon Elastic Container Service</a> (Amazon ECS) now provides a consolidated deployment view for Amazon ECS Managed Daemons, giving you a single place to see how far a deployment",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-daemon-deployment-console/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-16-aws-amazon-connect-talent-is-now-generally-available",
+      "date": "2026-09-16",
+      "name": "Amazon Connect Talent is now generally available",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect Talent is now generally available, giving talent acquisition leaders an AI-powered hiring solution that accelerates candidate selection at scale. Informed by decades of Amazon's hiring science, Amazon C",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-talent/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
       "tags": []
     },
     {
@@ -893,186 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-oracle-supports-spatial-patch-bundle-jul-2026-ru/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-11-dust-spa-poke-4129a20-front-record-publishing-agent-on-",
-      "date": "2026-09-11",
-      "name": "spa/poke/4129a20: [front] Record publishing agent on Frames v2 publications (#32284)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>Frames v2 publish/activation never threaded publishedByAgentConfigurationId<br />\nthrough to useCaseMetadata.lastEditedByAgentConfigurationId, unlike the legacy<br />\nFrame publish path. Since the conversation UI's \"A",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F4129a20"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-11-dust-spa-poke-433be62",
-      "date": "2026-09-11",
-      "name": "spa/poke/433be62",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>LLM models: revert flag gating for Kimi 3 (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/32357\">#32357</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F433be62"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-11-dust-spa-poke-19a43cc-fix-oauth-preserve-static-mcp-cal",
-      "date": "2026-09-11",
-      "name": "spa/poke/19a43cc: fix(oauth): preserve static MCP callback provider (#32360)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>fix(oauth): preserve static MCP provider in callback URI</p>\n</li>\n<li>\n<p>fix(oauth): format mcp setupUri tests</p>\n</li>\n</ul>\n<p>Co-authored-by: Cursor <a href=\"mailto:cursoragent@cursor.com\">cursoragent@",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F19a43cc"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-11-aws-amazon-sagemaker-unified-studio-now-supports-odbc-",
-      "date": "2026-09-11",
-      "name": "Amazon SageMaker Unified Studio now supports ODBC connections for Microsoft Power BI and other analytics tools",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon SageMaker Unified Studio now supports ODBC connections, so data users can connect Microsoft Power BI and other ODBC-compatible tools directly to governed data in SageMaker Unified Studio projects using the Amaz",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-unified-studio-odbc-power-bi/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-11-aws-aws-pcs-now-supports-custom-gres-hardware-topology",
-      "date": "2026-09-11",
-      "name": "AWS PCS now supports custom GRES, hardware topology, and MIG",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p><a href=\"https://aws.amazon.com/pcs/\">AWS Parallel Computing Service (AWS PCS)</a> now supports custom Generic Resource (GRES) settings and hardware topology, and adds support for Slurm version 26.05. These capabiliti",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-pcs-gres-hardware-topology-mig/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-10-openai-unable-to-open-shared-chatgpt-project-using-direct",
-      "date": "2026-09-10",
-      "name": "Unable to open shared ChatGPT Project using direct link",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Investigating</b><br /><br />We are investigating the issue for the listed services.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Conversations (Degraded performance)</li>\n          </ul>",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01M24HYC9SX2Q4471EVMY6EXQE"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-10-openai-now-everyone-can-put-data-to-work",
-      "date": "2026-09-10",
-      "name": "Now everyone can put data to work",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/put-data-to-work"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-10-openai-introducing-the-agents-api",
-      "date": "2026-09-10",
-      "name": "Introducing the Agents API",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/introducing-the-agents-api"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-10-aws-amazon-api-gateway-now-supports-1-mb-execution-log",
-      "date": "2026-09-10",
-      "name": "Amazon API Gateway now supports 1 MB execution logs with configurable delivery destinations",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon API Gateway now supports configurable delivery destinations and larger log events for REST API execution logs. Previously, execution logs were delivered to a single API Gateway-managed CloudWatch Logs log group",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-api-gateway-1-mb-execution-logs/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-10-aws-aws-lambda-durable-functions-integrates-with-pydan",
-      "date": "2026-09-10",
-      "name": "AWS Lambda durable functions integrates with Pydantic AI",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS Lambda durable functions announces an integration with <a href=\"https://pydantic.dev/docs/ai/overview/\">Pydantic AI</a>, an open source framework for building AI agents in Python. AWS Lambda durable functio",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-durable-pydantic-ai/"
         }
       ],
       "impact": 5,
