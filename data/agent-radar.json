@@ -1,6 +1,222 @@
 {
   "items": [
     {
+      "id": "2026-09-19-openai-overbilling-for-openai-hosted-containers-in-the-ag",
+      "date": "2026-09-19",
+      "name": "Overbilling for OpenAI-hosted containers in the Agent API",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Identified</b><br /><br />We are still implementing the mitigation.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M2VA7X37P1ASADSNZ1CG4N4D"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-18-aws-aws-continuum-now-supports-credential-testing-and-",
+      "date": "2026-09-18",
+      "name": "AWS Continuum now supports credential testing and accessible domain suggestions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Continuum for penetration testing is a frontier agent that proactively secures applications throughout the development lifecycle by offering on-demand, customized penetration testing with real exploitability testi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-security-agent/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-18-aws-aws-resilience-hub-adds-three-new-capabilities",
+      "date": "2026-09-18",
+      "name": "AWS Resilience Hub adds three new capabilities",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>The next generation of AWS Resilience Hub is a central location in the AWS that helps platform engineering and site reliability teams assess and strengthen the resilience of their workloads running on AWS. It provides",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/resilience-hub-eks-dependency-policy/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-18-aws-aws-rtb-fabric-now-supports-configurable-availabil",
+      "date": "2026-09-18",
+      "name": "AWS RTB Fabric now supports configurable Availability Zone affinity",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS RTB Fabric now supports <a href=\"https://docs.aws.amazon.com/rtb-fabric/latest/userguide/working-with-responder-gateways.html#configuring-availability-zone-affinity\" rel=\"noopener noreferrer\" target=\"_blank\">confi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-rtb-fabric-configurable-availability-zone-affinity/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-18-aws-kimi-k3-by-moonshot-ai-is-now-generally-available-",
+      "date": "2026-09-18",
+      "name": "Kimi K3 by Moonshot AI is now generally available on Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock continues to expand its open weight model portfolio with the same security and governance that customers rely on.&nbsp;Today, Kimi K3 from Moonshot AI is generally available on Amazon Bedrock, giving yo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/moonshot-ai-kimi-k3-on-amazon-bedrock/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-18-aws-the-new-agentcore-runtime-is-now-available-in-amaz",
+      "date": "2026-09-18",
+      "name": "The new AgentCore Runtime is now available in Amazon Bedrock AgentCore",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS announces the availability of&nbsp;the next generation of <a href=\"https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/agents-tools-runtime.html\">AgentCore Runtime</a>, the serverless microVM comp",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/new-agentcore-runtime-generally-available"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-18-aws-aws-privatelink-announces-tunnel-endpoints-to-acce",
+      "date": "2026-09-18",
+      "name": "AWS PrivateLink announces Tunnel Endpoints to access network segments",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS PrivateLink customers can now use VPC endpoint to privately and securely access network segments in another VPC/account. They can use a ‘tunnel’ endpoint, a new type of VPC endpoint, to tunnel into the network seg",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/9/privatelink-tunnel-endpoint/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-18-dust-spa-poke-50766d8-admin-governance-clarify-agent-an",
+      "date": "2026-09-18",
+      "name": "spa/poke/50766d8: [Admin Governance] Clarify agent and skill read contracts (#32744)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>[Admin Governance] Clarify agent and skill read contracts</p>\n</li>\n<li>\n<p>Document private entity admin override</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F50766d8"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-18-dust-spa-poke-9001f6d",
+      "date": "2026-09-18",
+      "name": "spa/poke/9001f6d",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>[Admin Governance] Remove legacy agent editor reads (13a) (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/32618\">#32618</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9001f6d"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-18-dust-spa-poke-6242b41",
+      "date": "2026-09-18",
+      "name": "spa/poke/6242b41",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>[front] Remove legacy Pro→Business migration code, keep Stripe cancel…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6242b41"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-18-dust-spa-poke-4074b20",
+      "date": "2026-09-18",
+      "name": "spa/poke/4074b20",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[x] feat: workspace skill embedding exploration (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/32623\">#32623</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F4074b20"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-18-dust-spa-poke-74ea001-agent-loop-cancel-unavailable-mes",
+      "date": "2026-09-18",
+      "name": "spa/poke/74ea001: [Agent Loop] Cancel unavailable messages before launch (#32650)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>\n<p>fix(front): cancel unavailable agent before launch</p>\n</li>\n<li>\n<p>fix(front): return cancelled messages to callers</p>\n</li>\n<li>\n<p>fix(front): serialize cancellation completion time</p>\n</li>\n<li>\n<p>fi",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F74ea001"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-09-17-aws-amazon-corretto-27-is-now-generally-available",
       "date": "2026-09-17",
       "name": "Amazon Corretto 27 is now generally available",
@@ -155,6 +371,24 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/generate-sheet-and-generate-analysis-from-an-image/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-17-aws-amazon-ses-now-supports-tenant-level-deliverabilit",
+      "date": "2026-09-17",
+      "name": "Amazon SES now supports tenant-level deliverability insights",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p><a href=\"https://aws.amazon.com/ses/\">Amazon Simple Email Service (SES)</a> now supports tenant-level deliverability insights in Virtual Deliverability Manager (VDM). <a href=\"https://docs.aws.amazon.com/ses/latest/dg",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ses-vdm-tenants/"
         }
       ],
       "impact": 5,
@@ -479,6 +713,24 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-talent/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-16-openai-hex-turns-complex-analysis-into-visual-reports-wit",
+      "date": "2026-09-16",
+      "name": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/hex-gpt-6-astra"
         }
       ],
       "impact": 5,
@@ -821,258 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/granite-speech-4.1-2b-edge-kanana-2-30b-a3b-instruct-openfold3-jumpstart/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-14-aws-aws-glue-zero-etl-adds-target-table-property-owner",
-      "date": "2026-09-14",
-      "name": "AWS Glue zero-ETL adds target table property ownership and conflict detection",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Glue zero-ETL integrations now detect table property conflicts and track integration ownership. When you configure a source table and target catalog, Glue associates the resulting table properties with the owning ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/glue-zero-etl-ownership-conflicts/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-14-dust-spa-poke-297126a-email-show-agent-email-address-in",
-      "date": "2026-09-14",
-      "name": "spa/poke/297126a: [Email] Show agent email address in details footer (#32037)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>[Email] Show agent email address in details footer</p>\n</li>\n<li>\n<p>[Email] Respect blocked agents and refresh footer on rename</p>\n</li>\n<li>\n<p>[Email] Show enablement guidance in agent details footer</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F297126a"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-14-dust-spa-poke-52a787a",
-      "date": "2026-09-14",
-      "name": "spa/poke/52a787a",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Preserve registered callbacks when reusing workspace OAuth clients (#…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F52a787a"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-14-dust-spa-poke-39dec8f",
-      "date": "2026-09-14",
-      "name": "spa/poke/39dec8f",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] chore: cleanup global agent system prompt (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/32363\">#32363</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F39dec8f"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-14-dust-spa-poke-8e7e416-fix-skip-user-removal-after-worko",
-      "date": "2026-09-14",
-      "name": "spa/poke/8e7e416: fix: skip user removal after WorkOS group deletion (#32434)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>\n<p>fix: skip removed users from deleted WorkOS groups</p>\n</li>\n<li>\n<p>fix(workos): use a type guard for NotFoundException and test the group-removal race</p>\n</li>\n</ul>\n<p>Replace the inline instanceof NotFo",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8e7e416"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-14-dust-spa-poke-6c56ab4",
-      "date": "2026-09-14",
-      "name": "spa/poke/6c56ab4",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>Recheck legacy agent views before logging shadow mismatches (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/32382\">#32382</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6c56ab4"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-14-dust-spa-poke-0b47074-sandbox-compute-step-context-for-",
-      "date": "2026-09-14",
-      "name": "spa/poke/0b47074: [SANDBOX] Compute step context for sandbox child actions (#32187)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>[SANDBOX] Compute step context for sandbox child actions</li>\n</ul>\n<p>Sandbox child actions copied the parent bash action's step context, whose<br />\nper-step counts were computed for the sandbox tool alone. A ",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F0b47074"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-11-aws-amazon-ec2-x2idn-instances-are-now-available-in-as",
-      "date": "2026-09-11",
-      "name": "Amazon EC2 X2idn instances are now available in Asia Pacific (Hong Kong)",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Memory-optimized Amazon Elastic Compute Cloud (Amazon EC2) X2idn instances are now available in Asia Pacific (Hong Kong) Region. These instances, powered by 3rd generation Intel Xeon Scalable Processors and built with",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-x2idn-asia-pacific-hong-kong/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-11-aws-amazon-sagemaker-hyperpod-now-supports-model-cachi",
-      "date": "2026-09-11",
-      "name": "Amazon SageMaker HyperPod now supports model caching for faster inference autoscaling and reduced cold starts",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon SageMaker HyperPod now supports model caching, an inference optimization that pre-loads model weights and container images onto cluster nodes so pods start in seconds instead of minutes.</p> \n<p>When running LL",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/sgm-hyperpod-model-caching-inf/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-11-aws-aws-lambda-now-supports-direct-read-configuration-",
-      "date": "2026-09-11",
-      "name": "AWS Lambda now supports direct read configuration for Amazon S3 Files",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Lambda now supports <a href=\"https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-files-performance.html#s3-files-performance-how\">direct read</a>&nbsp;configuration for Amazon S3 Files, letting you configure ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-direct-read-s3files/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-11-aws-amazon-bedrock-managed-knowledge-base-now-supports",
-      "date": "2026-09-11",
-      "name": "Amazon Bedrock Managed Knowledge Base now supports multimodal embeddings for video, audio, and image content with TwelveLabs Marengo 3.0",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS announces the availability of TwelveLabs Marengo 3.0 as an embedding model in Amazon Bedrock Managed Knowledge Base, enabling customers to create multimodal embeddings for video, audio, and image content. Amazon B",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-multimodal-embeddings-twelvelabs-marengo/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-11-aws-aws-healthomics-now-publishes-real-time-run-metric",
-      "date": "2026-09-11",
-      "name": "AWS HealthOmics now publishes real-time run metrics to Amazon CloudWatch",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS HealthOmics now publishes real-time run metrics to Amazon CloudWatch, giving you visibility into workflow resource utilization as runs execute. The 14 new run metrics span CPU and GPU usage, memory usage, file sys",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-healthomics-realtime-run-metrics/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-11-aws-aws-devops-agent-adds-support-for-bidirectional-sl",
-      "date": "2026-09-11",
-      "name": "AWS DevOps Agent adds support for bidirectional Slack communication",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS DevOps Agent now enables engineers to manage&nbsp;production operations&nbsp;across AWS, multicloud, and on-premises environments with the complete investigation lifecycle directly within Slack. Previously, on-cal",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-devops-agent-bidirectional-slack-communication"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-11-aws-amazon-rds-for-oracle-now-supports-supplemental-pa",
-      "date": "2026-09-11",
-      "name": "Amazon RDS for Oracle now supports Supplemental Patch Bundle for July 2026 Release Update",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/oracle/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for Oracle</a> now supports the Supplemental Patch Bundle (SPB) for the July 2026 ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-oracle-supports-spatial-patch-bundle-jul-2026-ru/"
         }
       ],
       "impact": 5,
