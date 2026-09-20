@@ -19,6 +19,114 @@
       "tags": []
     },
     {
+      "id": "2026-09-19-dust-spa-poke-2875174",
+      "date": "2026-09-19",
+      "name": "spa/poke/2875174",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] Cache AgentResource full variant, filter content on read (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/issues/32\">#32</a>…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2875174"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-19-dust-spa-poke-93d03af",
+      "date": "2026-09-19",
+      "name": "spa/poke/93d03af",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>refactor(front): fold action + skill creation into atomic agent save …</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F93d03af"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-19-dust-spa-poke-c3dd786-speed-up-relocation-of-mcp-action",
+      "date": "2026-09-19",
+      "name": "spa/poke/c3dd786: Speed up relocation of MCP action outputs (#32782)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>Speed up relocation of MCP action outputs</p>\n</li>\n<li>\n<p>Shorten MCP output cleanup comments</p>\n</li>\n<li>\n<p>Use makeScript directly for MCP output cleanup</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fc3dd786"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-19-dust-spa-app-2875174",
+      "date": "2026-09-19",
+      "name": "spa/app/2875174",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] Cache AgentResource full variant, filter content on read (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/issues/32\">#32</a>…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F2875174"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-19-dust-spa-app-93d03af",
+      "date": "2026-09-19",
+      "name": "spa/app/93d03af",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>refactor(front): fold action + skill creation into atomic agent save …</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F93d03af"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-19-dust-spa-app-c3dd786-speed-up-relocation-of-mcp-action-",
+      "date": "2026-09-19",
+      "name": "spa/app/c3dd786: Speed up relocation of MCP action outputs (#32782)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>Speed up relocation of MCP action outputs</p>\n</li>\n<li>\n<p>Shorten MCP output cleanup comments</p>\n</li>\n<li>\n<p>Use makeScript directly for MCP output cleanup</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2Fc3dd786"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-09-18-aws-aws-continuum-now-supports-credential-testing-and-",
       "date": "2026-09-18",
       "name": "AWS Continuum now supports credential testing and accessible domain suggestions",
@@ -965,114 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-step-functions-integrations/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-14-openai-how-fyxer-built-an-ai-executive-assistant-people-t",
-      "date": "2026-09-14",
-      "name": "How Fyxer built an AI executive assistant people trust",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/fyxer"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-14-openai-degraded-performance-affecting-agents-api",
-      "date": "2026-09-14",
-      "name": "Degraded Performance affecting Agents API",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />The issue affecting the Agents API has been resolved. Managed sessions are now processing turns normally.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01M2H3J1D6Y7RHAP49GRWGJAY0"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-14-aws-qwen3-6-35b-a3b-nvfp4-and-wan2-1-t2v-1-3b-diffuser",
-      "date": "2026-09-14",
-      "name": "Qwen3.6-35B-A3B-NVFP4 and Wan2.1-T2V-1.3B-Diffusers models now available on Amazon SageMaker JumpStart",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>NVIDIA's Qwen3.6-35B-A3B-NVFP4 and Alibaba's Wan2.1-T2V-1.3B-Diffusers models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. These two models ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/qwen3.6-35b-a3b-nvfp4-wan2.1-t2v-1.3B-diffusers-jumpstart/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-14-aws-ministral-3-3b-instruct-2512-and-ministral-3-8b-in",
-      "date": "2026-09-14",
-      "name": "Ministral-3-3B-Instruct-2512 and Ministral-3-8B-Instruct-2512 models now available on Amazon SageMaker JumpStart",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Mistral AI's Ministral-3-3B-Instruct-2512 and Ministral-3-8B-Instruct-2512 models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. These two mod",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/ministral-3-3b-instruct-2512-ministral-3-8B-Instruct-2512-jumpstart/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-14-aws-gemma-4-31b-it-assistant-and-gemma-4-31b-it-nvfp4-",
-      "date": "2026-09-14",
-      "name": "Gemma-4-31B-it-assistant and Gemma-4-31B-IT-NVFP4 models now available on Amazon SageMaker JumpStart",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Google DeepMind's Gemma-4-31B-it-assistant and NVIDIA's Gemma-4-31B-IT-NVFP4 models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. These two m",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/gemma-4-31b-it-assistant-gemma-4-31b-it-nvfp4-jumpstart/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-14-aws-granite-speech-4-1-2b-kanana-2-30b-a3b-instruct-an",
-      "date": "2026-09-14",
-      "name": "granite-speech-4.1-2b, kanana-2-30b-a3b-instruct, and OpenFold3 models now available on Amazon SageMaker JumpStart",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>BM's granite-speech-4.1-2b, Kakao's kanana-2-30b-a3b-instruct, and the OpenFold Consortium's OpenFold3 models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/granite-speech-4.1-2b-edge-kanana-2-30b-a3b-instruct-openfold3-jumpstart/"
         }
       ],
       "impact": 5,
