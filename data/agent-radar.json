@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "2026-09-20-dust-spa-poke-5ab6513-keep-relocations-within-the-trans",
+      "date": "2026-09-20",
+      "name": "spa/poke/5ab6513: Keep relocations within the transfer job quota (#32793)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>Reuse transfer jobs during workspace relocation</p>\n</li>\n<li>\n<p>Reject stale relocation transfer pool writes</p>\n</li>\n<li>\n<p>Reconcile ambiguous relocation transfer starts</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5ab6513"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-20-dust-spa-app-5ab6513-keep-relocations-within-the-transf",
+      "date": "2026-09-20",
+      "name": "spa/app/5ab6513: Keep relocations within the transfer job quota (#32793)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>Reuse transfer jobs during workspace relocation</p>\n</li>\n<li>\n<p>Reject stale relocation transfer pool writes</p>\n</li>\n<li>\n<p>Reconcile ambiguous relocation transfer starts</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F5ab6513"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-09-19-openai-overbilling-for-openai-hosted-containers-in-the-ag",
       "date": "2026-09-19",
       "name": "Overbilling for OpenAI-hosted containers in the Agent API",
@@ -1040,42 +1076,6 @@
         }
       ],
       "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-15-dust-spa-poke-9e8204f",
-      "date": "2026-09-15",
-      "name": "spa/poke/9e8204f",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] enh: use light views in MCP server listings (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/32401\">#32401</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9e8204f"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-15-aws-aws-step-functions-adds-new-aws-service-integratio",
-      "date": "2026-09-15",
-      "name": "AWS Step Functions adds new AWS service integrations automatically, starting with AWS Lambda MicroVMs",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/step-functions/\">AWS Step Functions</a> now automatically adds AWS SDK integrations for new AWS services and capabilities within weeks of their release, starting with AWS Lambda MicroVM",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-step-functions-integrations/"
-        }
-      ],
-      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
