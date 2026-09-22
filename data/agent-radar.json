@@ -1,6 +1,168 @@
 {
   "items": [
     {
+      "id": "2026-09-21-openai-building-standards-for-the-next-phase-of-ai",
+      "date": "2026-09-21",
+      "name": "Building standards for the next phase of AI",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/building-standards-next-phase-ai"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-21-openai-how-v7-gives-ai-agents-institutional-memory",
+      "date": "2026-09-21",
+      "name": "How V7 gives AI agents institutional memory",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/v7"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-21-aws-amazon-ecs-now-provides-real-time-deployment-obser",
+      "date": "2026-09-21",
+      "name": "Amazon ECS now provides real-time deployment observability in the AWS Management Console",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/ecs/\">Amazon Elastic Container Service</a> (Amazon ECS) now provides real-time service deployment observability in the Amazon ECS Console for native Linear, Canary, and Blue/Green deplo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-console-deployment-observability/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-21-dust-spa-poke-812831f-admin-governance-remove-builder-f",
+      "date": "2026-09-21",
+      "name": "spa/poke/812831f: [Admin Governance] Remove builder from workspace role contracts (#32895)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>\n<p>Remove builder from workspace role contracts</p>\n</li>\n<li>\n<p>Format builder role removal</p>\n</li>\n<li>\n<p>Enforce supported persisted roles</p>\n</li>\n<li>\n<p>Keep regular API key fixtures unprivileged</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F812831f"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-21-dust-spa-poke-7239fbb-prevent-inaccessible-locations-fr",
+      "date": "2026-09-21",
+      "name": "spa/poke/7239fbb: Prevent inaccessible locations from breaking Select All (#32573)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>[front] Continue Select All past inaccessible branches</li>\n</ul>\n<p>Treat resource-scoped permission failures as partial results so one stale or inaccessible location does not block selecting every accessible b",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F7239fbb"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-21-dust-spa-poke-6040dcf-front-feat-sse-handshake-32730",
+      "date": "2026-09-21",
+      "name": "spa/poke/6040dcf: [front] feat: SSE handshake (#32730)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>[front] feat: add message event fallback protocol</p>\n</li>\n<li>\n<p>[front-api] fix: end polling after terminal agent messages</p>\n</li>\n<li>\n<p>[front] fix: mark final deferred approval as blocking</p>\n</li",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6040dcf"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-21-dust-spa-poke-3641f20-add-create-run-phase-server-timin",
+      "date": "2026-09-21",
+      "name": "spa/poke/3641f20: Add create/run phase server timings for sandbox MCP tool calls. (#32772)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>Add create/run phase server timings for sandbox MCP tool calls.</li>\n</ul>\n<p>Surfaces connect, call, persist, and related phases so remaining latency is measurable after the Redis stage-write opts.</p>\n<ul>\n<li",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F3641f20"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-21-dust-spa-poke-68e9018-front-feat-global-frontend-sse-st",
+      "date": "2026-09-21",
+      "name": "spa/poke/68e9018: [front] feat: global frontend SSE state machine (#32755)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>[front] feat: global frontend SSE state machine</p>\n</li>\n<li>\n<p>[front] fix: bound SSE wake recovery and ongoing loop activity retries</p>\n</li>\n<li>\n<p>[front] test: emit complete SSE events in manager fi",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F68e9018"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-21-dust-spa-poke-50a2f95-admin-governance-stop-legacy-agen",
+      "date": "2026-09-21",
+      "name": "spa/poke/50a2f95: [Admin Governance] Stop legacy agent editor writes (#32760)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>\n<p>[Admin Governance] Stop legacy agent editor writes</p>\n</li>\n<li>\n<p>Preserve non-member editor errors</p>\n</li>\n<li>\n<p>Seed legacy groups in migration tests</p>\n</li>\n<li>\n<p>Remove unused legacy agent edi",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F50a2f95"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-09-20-dust-spa-poke-5ab6513-keep-relocations-within-the-trans",
       "date": "2026-09-20",
       "name": "spa/poke/5ab6513: Keep relocations within the transfer job quota (#32793)",
@@ -361,6 +523,42 @@
       "tags": []
     },
     {
+      "id": "2026-09-18-aws-amazon-ec2-x8i-instances-are-now-available-in-the-",
+      "date": "2026-09-18",
+      "name": "Amazon EC2 X8i instances are now available in the South America (São Paulo) Region",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) X8i instances are available in the South America (São Paulo) region. These instances are powered by custom Intel Xeon 6 processors available only on AWS. X8i i",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-x8i-south-america-sao-paulo/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-18-aws-amazon-ec2-i7ie-instances-now-available-in-aws-isr",
+      "date": "2026-09-18",
+      "name": "Amazon EC2 I7ie instances now available in AWS Israel region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS is announcing starting today, Amazon EC2 I7ie instances are now available in AWS Israel (Tel Aviv) region. Designed for large storage I/O intensive workloads, I7ie instances are powered by 5th Gen Intel Xeon Proce",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-i7ie-instances-israel-telaviv-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-09-17-aws-amazon-corretto-27-is-now-generally-available",
       "date": "2026-09-17",
       "name": "Amazon Corretto 27 is now generally available",
@@ -533,6 +731,24 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ses-vdm-tenants/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-17-aws-amazon-quick-adds-generate-sheet-and-image-based-a",
+      "date": "2026-09-17",
+      "name": "Amazon Quick adds Generate Sheet and image-based analysis creation",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Quick now expands Generate Analysis with two new ways to create dashboards faster. You can generate a single sheet inside an existing analysis by describing it in natural language, and you can generate a new an",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/generate-sheet-and-generate-analysis-from-an-image/"
         }
       ],
       "impact": 5,
@@ -860,222 +1076,6 @@
         }
       ],
       "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-16-openai-hex-turns-complex-analysis-into-visual-reports-wit",
-      "date": "2026-09-16",
-      "name": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/hex-gpt-6-astra"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-15-openai-elevated-errors-affecting-work-mode-in-chatgpt",
-      "date": "2026-09-15",
-      "name": "Elevated errors affecting Work Mode in ChatGPT",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>ChatGPT Work (Operational)</li>\n          </ul>",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01M2GA8XTS6VB3QCDEGZ0HNAQ5"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-15-aws-monitor-cost-anomalies-directly-in-billing-and-cos",
-      "date": "2026-09-15",
-      "name": "Monitor cost anomalies directly in Billing and Cost Management Dashboards with the new Detected Anomalies widget",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS Billing and Cost Management (BCM) announces support for the Detected Anomalies widget in BCM Dashboards. You can now review cost anomalies alongside cost and usage, budgets, cost efficiency, and reports for",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/monitor-detected-anomalies-using-dashboards"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-15-aws-aws-direct-connect-announces-flat-rate-pricing-for",
-      "date": "2026-09-15",
-      "name": "AWS Direct Connect announces flat-rate pricing for dedicated connections",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><b>AWS Direct Connect announces flat-rate pricing for 10G and 100G dedicated connections</b></p> \n<p>AWS Direct Connect provides dedicated network connectivity from on-premises environments to AWS. Customers value the",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-direct-connect-announces-flat-rate-pricing/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-15-aws-aws-billing-conductor-now-supports-custom-rates-an",
-      "date": "2026-09-15",
-      "name": "AWS Billing Conductor now supports custom rates and usage tier pricing configurations",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Billing Conductor now lets you define custom rate pricing for AWS services, including defining custom usage tiers to configure rates by the desired usage volume.&nbsp;</p> \n<p>Customers and Partners using AWS Bill",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/AWS-Billing-Conductor-custom-rates-usage-tier"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-15-aws-analyze-your-cloudtrail-events-using-natural-langu",
-      "date": "2026-09-15",
-      "name": "Analyze your CloudTrail events using natural language in Amazon Q Console",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS CloudTrail, a service that records API activity across your AWS account for security auditing, compliance, and operational troubleshooting, now integrates with Amazon Q Console to help you investigate your AWS acc",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/cloudtrail-amazon-q-console/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-15-aws-amazon-connect-customer-now-enables-agents-to-bid-",
-      "date": "2026-09-15",
-      "name": "Amazon Connect Customer now enables agents to bid on preferred shifts",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Connect Customer now enables agents to bid on preferred shifts, giving them more control over their work schedules. Schedulers first establish agent ranking either by uploading a CSV file or generating a random",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-customer-shift-bidding/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-15-dust-spa-poke-8443076-let-dsbx-query-frame-databases-fr",
-      "date": "2026-09-15",
-      "name": "spa/poke/8443076: Let dsbx query Frame databases from a conversation sandbox (#32348)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>Let dsbx query Frame databases from a conversation sandbox</li>\n</ul>\n<p>Adds --frame  to dsbx db list and dsbx db query. In a<br />\nconversation sandbox the command is forwarded through Front's internal<br />\nF",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8443076"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-15-dust-spa-poke-54753d7-keep-conversation-cat-available-f",
-      "date": "2026-09-15",
-      "name": "spa/poke/54753d7: Keep conversation cat available for files that have no snippet. (#32437)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>JIT upsert no longer runs, so new uploads often have snippet: null. Bundling that with isIncludable hid conversation_files__cat even though original bytes are still readable.</p>\n<p>Co-authored-by: Cursor <a href=\"mai",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F54753d7"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-15-dust-spa-poke-0547bb4-admin-governance-remove-builder-c",
-      "date": "2026-09-15",
-      "name": "spa/poke/0547bb4: [admin governance] remove builder check from public api (#30806)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>remove builder check from public api</p>\n</li>\n<li>\n<p>fix tests</p>\n</li>\n<li>\n<p>use manager</p>\n</li>\n<li>\n<p>update test</p>\n</li>\n<li>\n<p>hide unpublished agents for non admin key</p>\n</li>\n<li>\n<p>upda",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F0547bb4"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-15-dust-spa-poke-433cd1a",
-      "date": "2026-09-15",
-      "name": "spa/poke/433cd1a",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>workspace management MCP: add functions to manage groups (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/32442\">#32442</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F433cd1a"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-15-dust-spa-poke-44f3aa1-front-personal-information-settin",
-      "date": "2026-09-15",
-      "name": "spa/poke/44f3aa1: [front] Personal Information settings: improve layout (#32494)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>[front] Personal Information settings: same row layout as the other sections</li>\n</ul>\n<p>The first page of the user settings was a free-form form (large avatar with a<br />\nhover-only edit button, two side-by-",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F44f3aa1"
-        }
-      ],
-      "impact": 3,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
