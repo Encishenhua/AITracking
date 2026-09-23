@@ -1,6 +1,240 @@
 {
   "items": [
     {
+      "id": "2026-09-23-aws-amazon-cloudwatch-omni-ai-first-observability-for-",
+      "date": "2026-09-23",
+      "name": "Amazon CloudWatch Omni: AI-first observability for agents and applications",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS announces the general availability of Amazon CloudWatch Omni, an evolution of Amazon CloudWatch. Omni is an AI-powered observability experience organized around your teams and the applications they run, so that yo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-cloudwatch-omni-ai/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-22-openai-parallel-cut-research-time-and-cost-in-half-with-g",
+      "date": "2026-09-22",
+      "name": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-22-aws-billing-transfer-now-supports-automatic-billing-gr",
+      "date": "2026-09-22",
+      "name": "Billing Transfer now supports automatic billing group creation for two-level transfers",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Billing Transfer users can now enable the Auto-Billing Transfer Billing Group Creation, a new AWS Billing Conductor preference that eliminates the manual billing group configuration in two-level billing transfer a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-billing-transfer-supports-automatic-billing-group-creation/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-22-aws-openai-gpt-6-sol-and-gpt-6-luna-are-now-generally-",
+      "date": "2026-09-22",
+      "name": "OpenAI GPT-6 Sol and GPT-6 Luna are now generally available on Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS announces the general availability of GPT-6 Sol and GPT-6 Luna from OpenAI on Amazon Bedrock. Expanding the GPT-6 family alongside Astra, these two models give teams more ways to balance intelligence, speed",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-sol-luna-on-amazon-bedrock/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-22-aws-claude-opus-5-5-is-now-available-on-aws-govcloud-u",
+      "date": "2026-09-22",
+      "name": "Claude Opus 5.5 is now available on AWS GovCloud (US)",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS GovCloud (US) now offers Claude Opus 5.5, Anthropic’s most capable Opus model yet and, the first of the Claude 5.5 model family, a better collaborator that handles long-running coding and knowledge work, reporting",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-opus-5-5-aws-govcloud/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-22-aws-claude-opus-5-5-is-now-available-on-aws",
+      "date": "2026-09-22",
+      "name": "Claude Opus 5.5 is now available on AWS",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS now offers Claude Opus 5.5, Anthropic’s most capable Opus model yet and, the first of the Claude 5.5 model family, a better collaborator that handles long-running coding and knowledge work, reporting back clearly ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-opus-5-5-aws/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-22-aws-aws-security-hub-ai-inventory-adds-azure-self-host",
+      "date": "2026-09-22",
+      "name": "AWS Security Hub AI Inventory adds Azure self-hosted instance support",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Security Hub AI Inventory now supports discovering and cataloging AI assets running on self-hosted instances in Microsoft Azure. This expansion extends Security Hub's existing self-hosted discovery capabilities be",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/security-hub-ai-inventory-azure-support/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-22-aws-amazon-route-53-resolver-is-now-generally-availabl",
+      "date": "2026-09-22",
+      "name": "Amazon Route 53 Resolver is now generally available on second-generation AWS Outposts racks",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Route 53 Resolver is now generally available on second-generation AWS Outposts, providing local, managed recursive DNS resolution directly on your Outpost. DNS queries from workloads running on your Outpost are",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/route-53-resolver-gen2-outposts/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-22-aws-amazon-emr-introduces-long-term-support-with-apach",
+      "date": "2026-09-22",
+      "name": "Amazon EMR introduces Long Term Support with Apache Spark 4.1",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon EMR introduces Long Term Support (LTS) releases, starting with emr-spark-8.1.0 and Apache Spark 4.1. With LTS, designated versions of the AWS runtime for Apache Spark receive 36 months of support. Amazon EMR pr",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-emr-long-term-support-spark-4-1/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-22-dust-spa-poke-59447f9",
+      "date": "2026-09-22",
+      "name": "spa/poke/59447f9",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>[front] skill builder: guard suggestions effect against destroyed edi…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F59447f9"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-22-dust-spa-poke-81f45d2",
+      "date": "2026-09-22",
+      "name": "spa/poke/81f45d2",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>fix(front): keep non-active agent scopes private (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/32939\">#32939</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F81f45d2"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-22-dust-spa-poke-28aa6f5",
+      "date": "2026-09-22",
+      "name": "spa/poke/28aa6f5",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] fix: Throttle ongoing-agent-loop GET frequency (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/32997\">#32997</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F28aa6f5"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-22-dust-spa-poke-24c8686",
+      "date": "2026-09-22",
+      "name": "spa/poke/24c8686",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>feat: create suggestion to rename agent (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/32888\">#32888</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F24c8686"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-09-21-openai-building-standards-for-the-next-phase-of-ai",
       "date": "2026-09-21",
       "name": "Building standards for the next phase of AI",
@@ -839,240 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/New-AWS-Builder-Experience"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-16-aws-amazon-workspaces-adds-support-for-nvidia-blackwel",
-      "date": "2026-09-16",
-      "name": "Amazon WorkSpaces adds support for NVIDIA Blackwell GPU instances",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon WorkSpaces Personal and Amazon WorkSpaces Core now support Graphics G7 bundles, built on NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs and Intel Xeon 6 processors. Graphics G7 delivers up to 2.1x better per",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-nvidia-blackwell-gpu-instances/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-16-aws-amazon-connect-customer-custom-metrics-now-support",
-      "date": "2026-09-16",
-      "name": "Amazon Connect Customer custom metrics now supports tag-based access control",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect Customer now supports tag-based access control for custom metrics, so you can govern which users and roles can view, create, or modify each custom metric.</p> \n<p>As more teams across your organization ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/connect-customer-custom-metrics-tag/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-16-aws-amazon-connect-customer-can-now-import-evaluation-",
-      "date": "2026-09-16",
-      "name": "Amazon Connect Customer can now import evaluation form PDFs using AI",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Connect Customer now lets managers import a PDF of an evaluation form from a third-party quality management application, and automatically recreates it in Connect using AI, making it easier to migrate an existi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-customer-import-evaluation-form-PDF/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-16-aws-aws-elemental-mediatailor-monetization-functions-a",
-      "date": "2026-09-16",
-      "name": "AWS Elemental MediaTailor Monetization Functions adds ad response hooks",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Elemental MediaTailor now supports two additional lifecycle hooks for monetization functions: post ad decision server (ADS) response, and pre manifest insertion. MediaTailor is a video service that personalizes an",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-elemental-mediatailor-functions-ad-response-hooks"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-16-aws-amazon-ecs-extends-amazon-s3-files-support-to-the-",
-      "date": "2026-09-16",
-      "name": "Amazon ECS extends Amazon S3 Files support to the Amazon EC2 compute type",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/ecs/\">Amazon Elastic Container Service</a> (Amazon ECS) now supports Amazon S3 Files for tasks running on the Amazon EC2 launch type, enabling customers to connect their containerized a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-s3-files-ec2/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-16-aws-amazon-connect-customer-now-lets-you-create-manage",
-      "date": "2026-09-16",
-      "name": "Amazon Connect Customer now lets you create, manage, and search custom metrics through APIs",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Connect Customer provides a library of standard metrics. Custom metrics let you go further; defining the measurements unique to your business. But managing them across various instances manually means definitio",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/connect-customer-custom-metrics-apis/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-16-dust-spa-poke-257875e-add-page-up-and-page-down-slidesh",
-      "date": "2026-09-16",
-      "name": "spa/poke/257875e: Add Page Up and Page Down slideshow navigation (#32578)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>\n<p>Add Page Up and Page Down slideshow navigation</p>\n</li>\n<li>\n<p>Generalize slideshow keyboard navigation contracts</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F257875e"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-16-dust-spa-poke-556b28a",
-      "date": "2026-09-16",
-      "name": "spa/poke/556b28a",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[auth] Sync workspace admins as WorkOS IT contacts (debounced workflo…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F556b28a"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-16-dust-spa-poke-0124d56",
-      "date": "2026-09-16",
-      "name": "spa/poke/0124d56",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[Admin Governance] Flip agent views and verify the rollout (12d) (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/issues/32\">#32</a>…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F0124d56"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-16-dust-spa-poke-74f4885-enh-no-preview-affordance-without",
-      "date": "2026-09-16",
-      "name": "spa/poke/74f4885: enh: no preview affordance without a conversation (#32265)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Some surfaces render citations without a conversation to host the side panel:<br />\nthe activation composer, an empty agent builder preview. Clicking there did<br />\nnothing. Those surfaces now register whether they h",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F74f4885"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-16-crewai-1-15-22",
-      "date": "2026-09-16",
-      "name": "1.15.22",
-      "vendor": "CrewAI",
-      "type": "launch",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Support aliases as connection identifiers</li>\n<li>Record reasons for deployment creation failures</li>\n<li>Collect human feedback and pause events in tracing</li>\n<li>A",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.22"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-09-16-aws-amazon-ecs-deployment-observability-for-amazon-ecs",
-      "date": "2026-09-16",
-      "name": "Amazon ECS deployment observability for Amazon ECS Managed Daemons in AWS Management Console",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p><a href=\"https://aws.amazon.com/ecs/\">Amazon Elastic Container Service</a> (Amazon ECS) now provides a consolidated deployment view for Amazon ECS Managed Daemons, giving you a single place to see how far a deployment",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-daemon-deployment-console/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-16-aws-amazon-connect-talent-is-now-generally-available",
-      "date": "2026-09-16",
-      "name": "Amazon Connect Talent is now generally available",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect Talent is now generally available, giving talent acquisition leaders an AI-powered hiring solution that accelerates candidate selection at scale. Informed by decades of Amazon's hiring science, Amazon C",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-talent/"
         }
       ],
       "impact": 5,
