@@ -19,6 +19,222 @@
       "tags": []
     },
     {
+      "id": "2026-09-23-openai-harvey-turns-legal-context-into-stronger-drafts-wi",
+      "date": "2026-09-23",
+      "name": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-23-openai-ringg-s-ai-agents-resolve-up-to-65-of-customer-cal",
+      "date": "2026-09-23",
+      "name": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/ringg"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-23-openai-mobile-users-unable-to-see-work-mode-and-the-model",
+      "date": "2026-09-23",
+      "name": "Mobile users unable to see Work Mode and the Model Picker",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>ChatGPT Atlas (Operational)</li>\n<li>Codex in ChatGPT Desktop (Operati",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M389CDQ97B11QPMSRAAYSE5S"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-23-aws-amazon-kinesis-data-streams-announces-service-mana",
+      "date": "2026-09-23",
+      "name": "Amazon Kinesis Data Streams announces Service-Managed Partition Keys for simplified data ingestion",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Kinesis Data Streams now supports service-managed partition keys for On-Demand Standard and On-Demand Advantage streams, automatically distributing records across shards without requiring customers to specify p",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/kinesis/service-managed-partition-keys"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-23-aws-amazon-bedrock-managed-knowledge-base-now-supports",
+      "date": "2026-09-23",
+      "name": "Amazon Bedrock Managed Knowledge Base now supports Salesforce and Zendesk as native data source connectors",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS announces Salesforce and Zendesk data source connectors for Amazon Bedrock Managed Knowledge Base, a fully managed retrieval-augmented generation (RAG) service. Customers can now sync Salesforce knowledge articles",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-salesforce-zendesk-native-data-source-connectors/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-23-aws-amazon-connect-customer-now-provides-routing-step-",
+      "date": "2026-09-23",
+      "name": "Amazon Connect Customer now provides routing step data in the analytics data lake",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Connect Customer now provides routing step data in the analytics data lake, making it easier for customers to generate insights from routing decisions. Using the data lake, customers can leverage Amazon Athena ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-routing-step-data/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-23-aws-amazon-emr-on-eks-now-supports-ipv6-amazon-eks-clu",
+      "date": "2026-09-23",
+      "name": "Amazon EMR on EKS now supports IPv6 Amazon EKS clusters",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces that Amazon EMR on EKS now supports running workloads on IPv6 Amazon Elastic Kubernetes Service (Amazon EKS) clusters. Amazon EMR on EKS enables data platform and analytics teams to run open-sourc",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-emr-eks-ipv6-support"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-23-aws-amazon-dynamodb-global-tables-with-multi-region-st",
+      "date": "2026-09-23",
+      "name": "Amazon DynamoDB global tables with multi-Region strong consistency now supports additional AWS Regions and cross-continent configurations",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, Amazon DynamoDB global tables with multi-Region strong consistency (MRSC) is available in five additional AWS Regions: Canada (Central), Europe (Stockholm), Europe (Spain), Asia Pacific (Mumbai), and A",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/dynamodb-mrsc-additional-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-23-dust-spa-poke-41619e8-front-add-group-discovery-pins-33",
+      "date": "2026-09-23",
+      "name": "spa/poke/41619e8: [front] Add group discovery pins (#33007)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>[front] Add group discovery pins</li>\n</ul>\n<p>Persist ordered agent and skill pins per group, expose safe slot-level resource operations, and clean up pins when their owning group or item is hard-deleted.</p>\n<",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F41619e8"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-23-dust-spa-poke-6dbf1ef",
+      "date": "2026-09-23",
+      "name": "spa/poke/6dbf1ef",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] Fetch agent resources directly in editor/action endpoints (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/3\">#3</a>…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6dbf1ef"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-23-dust-spa-poke-0f10ac0",
+      "date": "2026-09-23",
+      "name": "spa/poke/0f10ac0",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] Align conversational skill/agent suggestion cards with Figma …</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F0f10ac0"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-23-dust-spa-poke-d0867c9-feat-offer-the-homepage-use-cases",
+      "date": "2026-09-23",
+      "name": "spa/poke/d0867c9: feat: offer the homepage use cases under the composer (#33058)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>feat: offer the homepage use cases under the composer</li>\n</ul>\n<p>Picking a row drops its skill and tool chips into the composer, then types the<br />\nprompt in after them so the input bar reads as if it were ",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fd0867c9"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-09-22-openai-parallel-cut-research-time-and-cost-in-half-with-g",
       "date": "2026-09-22",
       "name": "Parallel cut research time and cost in half with GPT‑6 Astra",
@@ -230,6 +446,24 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-22-aws-amazon-connect-customer-launches-agent-to-agent-co",
+      "date": "2026-09-22",
+      "name": "Amazon Connect Customer launches agent-to-agent collaboration",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Connect Customer now supports agent-to-agent collaboration, giving customers the choice to bring in specialized AI agents during a live interaction to resolve a customer request. With this launch, Connect Custo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/Amazon-Connect-Customer-A2A"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -839,240 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/transfer-family-sftp-source-ip-nlb/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-17-aws-aws-healthomics-now-supports-iam-session-policies",
-      "date": "2026-09-17",
-      "name": "AWS HealthOmics now supports IAM session policies",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS HealthOmics now supports IAM session policies, enabling you to restrict permissions for individual runs without creating and managing multiple IAM roles. Until now, there was no way to dynamically scope down permi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/omics-iam-session-policy/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-17-aws-introducing-amazon-ec2-t8i-instances",
-      "date": "2026-09-17",
-      "name": "Introducing Amazon EC2 T8i instances",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS is announcing the general availability of new low-cost burstable Amazon EC2 T8i instances. These instances are powered by custom sixth generation Intel Xeon 6 processors, available exclusively on AWS, and built on",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-t8i-instances-ga/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-17-aws-aws-elastic-beanstalk-introduces-cluster-mode-to-r",
-      "date": "2026-09-17",
-      "name": "AWS Elastic Beanstalk introduces Cluster Mode to run multiple applications on shared infrastructure",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Elastic Beanstalk introduces Cluster Mode, a new deployment mode that lets you run and manage multiple applications on shared infrastructure in your account. Provide your source code, a Dockerfile, or a container ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/elastic-beanstalk-cluster-mode/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-17-aws-amazon-s3-express-one-zone-is-now-available-in-7-a",
-      "date": "2026-09-17",
-      "name": "Amazon S3 Express One Zone is now available in 7 additional AWS Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>The Amazon S3 Express One Zone storage class is now available in 7 additional AWS Regions: Asia Pacific (Singapore), South America (Sao Paulo), US West (N. California), Canada (Central), Europe (Paris), Asia Pacific (",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/s3-express-one-zone-7-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-17-aws-aws-builder-center-now-available-as-mobile-app-on-",
-      "date": "2026-09-17",
-      "name": "AWS Builder Center now available as mobile app on iOS and Android",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Builder Center is a platform that brings together the global builder community, offering articles, workshops, sandbox environments, events, and learning resources in one place. Previously limited to desktop and we",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-builder-center-now-available-as-mobile-app/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-17-aws-amazon-quick-now-generates-individual-sheets-and-b",
-      "date": "2026-09-17",
-      "name": "Amazon Quick now generates individual sheets and builds analyses from an image",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Quick now expands Generate Analysis with two new ways to create dashboards faster. You can generate a single sheet inside an existing analysis by describing it in natural language, and you can generate a new an",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/generate-sheet-and-generate-analysis-from-an-image/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-17-aws-amazon-ses-now-supports-tenant-level-deliverabilit",
-      "date": "2026-09-17",
-      "name": "Amazon SES now supports tenant-level deliverability insights",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p><a href=\"https://aws.amazon.com/ses/\">Amazon Simple Email Service (SES)</a> now supports tenant-level deliverability insights in Virtual Deliverability Manager (VDM). <a href=\"https://docs.aws.amazon.com/ses/latest/dg",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ses-vdm-tenants/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-17-aws-amazon-quick-adds-generate-sheet-and-image-based-a",
-      "date": "2026-09-17",
-      "name": "Amazon Quick adds Generate Sheet and image-based analysis creation",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Quick now expands Generate Analysis with two new ways to create dashboards faster. You can generate a single sheet inside an existing analysis by describing it in natural language, and you can generate a new an",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/generate-sheet-and-generate-analysis-from-an-image/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-16-openai-reimagining-advertising-with-ai",
-      "date": "2026-09-16",
-      "name": "Reimagining advertising with AI",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/reimagining-advertising-with-ai"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-16-openai-our-framework-for-reporting-model-misalignment",
-      "date": "2026-09-16",
-      "name": "Our framework for reporting model misalignment",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/model-misalignment-reporting-framework"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-16-aws-amazon-sagemaker-ai-now-supports-serverless-model-",
-      "date": "2026-09-16",
-      "name": "Amazon SageMaker AI now supports serverless model customization for NVIDIA Nemotron 3.5 Lightning",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker AI now supports serverless model customization for the NVIDIA Nemotron 3.5 Lightning model using supervised fine-tuning (SFT), Direct Preference Optimization (DPO), and reinforcement fine-tuning (RFT)",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-sagemaker-ft-nemotron-3-5-lightning/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-16-aws-aws-client-vpn-is-now-supporting-macos-27-golden-g",
-      "date": "2026-09-16",
-      "name": "AWS Client VPN is now supporting MacOS 27 Golden Gate",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Client VPN now supports MacOS 27 Golden Gate client with versions 6.0+ You can now run the AWS supplied VPN client on the latest MacOS versions. AWS Client VPN desktop clients are available free of charge, and can",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-client-vpn-macos-golden-gate/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-16-aws-new-aws-experience-helps-builders-get-started-and-",
-      "date": "2026-09-16",
-      "name": "New AWS experience helps builders get started and ship faster",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Builders can now sign up for a new simplified experience that makes it faster to turn ideas into running code on AWS. AWS services provide an array of configuration options so that the largest enterprises can customiz",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/New-AWS-Builder-Experience"
         }
       ],
       "impact": 5,
