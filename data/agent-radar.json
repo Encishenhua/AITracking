@@ -19,6 +19,186 @@
       "tags": []
     },
     {
+      "id": "2026-09-25-aws-amazon-ec2-m8i-and-m8i-flex-instances-are-now-avai",
+      "date": "2026-09-25",
+      "name": "Amazon EC2 M8i and M8i-flex instances are now available in additional regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon EC2 M8i and M8i-flex instances are now available in the AWS European Sovereign Cloud (Germany) region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, deliv",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-m8i-m8i-flex-thf/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-25-aws-amazon-ec2-r8i-and-r8i-flex-instances-are-now-avai",
+      "date": "2026-09-25",
+      "name": "Amazon EC2 R8i and R8i-flex instances are now available in additional regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8i and R8i-flex instances are available in the AWS European Sovereign Cloud (Germany) region. These instances are powered by custom Intel Xeon 6 processors, a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-r8i-r8i-flex-thf/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-25-aws-amazon-ec2-c8i-and-c8i-flex-instances-are-now-avai",
+      "date": "2026-09-25",
+      "name": "Amazon EC2 C8i and C8i-flex instances are now available in additional regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8i and C8i-flex instances are available in the AWS European Sovereign Cloud (Germany) region. These instances are powered by custom Intel Xeon 6 processors, a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/c8i-c8i-flex-thf-september-2026/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-25-aws-aws-iam-outbound-identity-federation-now-supports-",
+      "date": "2026-09-25",
+      "name": "AWS IAM outbound identity federation now supports interface VPC endpoints for OIDC discovery",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/identity/federation/outbound-federation/\">AWS Identity and Access Management (IAM) outbound identity federation</a> now supports Amazon Virtual Private Cloud (VPC) endpoints for the Ope",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-sts-vpc-oidc/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-25-aws-aws-datasync-launches-a-monitoring-dashboard-for-t",
+      "date": "2026-09-25",
+      "name": "AWS DataSync launches a monitoring dashboard for tracking task executions across your account",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS DataSync now provides a monitoring dashboard in the DataSync console that gives you visibility into your data transfers across your account. For each task execution, you can see its status, data and file transfer ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/datasync-monitoring-dashboard"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-25-aws-aws-end-user-messaging-now-supports-voice-calling-",
+      "date": "2026-09-25",
+      "name": "AWS End User Messaging now supports voice calling on WhatsApp",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p><a href=\"https://aws.amazon.com/end-user-messaging/\">AWS End User Messaging</a> now lets businesses place and receive voice calls with their customers directly inside WhatsApp, using the same verified business identit",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-end-user-messaging-voice-calling-whatsapp"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-25-aws-aws-end-user-messaging-and-amazon-ses-now-offer-ai",
+      "date": "2026-09-25",
+      "name": "AWS End User Messaging and Amazon SES now offer AI agent skills for the AWS MCP Server",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS End User Messaging and Amazon SES now publish AI agent skills for the AWS MCP Server, enabling developers to build and send messages by asking their AI coding agent in plain language. Previously, developers had to",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-messaging-ses-ai-skills-mcp-server/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-25-dust-spa-poke-80df33e-front-search-groups-in-the-featur",
+      "date": "2026-09-25",
+      "name": "spa/poke/80df33e: [front] Search groups in the Featured pin menu. (#33299)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Admins can type a group name instead of scrolling the audience list, and the menu stays inside the dialog so the search field can take focus.</p>\n<p>Co-authored-by: Cursor <a href=\"mailto:cursoragent@cursor.com\">curso",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F80df33e"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-25-dust-spa-poke-2a4ba9d",
+      "date": "2026-09-25",
+      "name": "spa/poke/2a4ba9d",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Show the credit spend checkpoint setting to every workspace (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/33279\">#33279</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2a4ba9d"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-25-dust-spa-poke-a54519b",
+      "date": "2026-09-25",
+      "name": "spa/poke/a54519b",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front-api] Guard agent endpoints with AgentResource.fetchById (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/33194\">#33194</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fa54519b"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-09-24-aws-amazon-eventbridge-relaunches-event-buses-for-ente",
       "date": "2026-09-24",
       "name": "Amazon EventBridge relaunches event buses for enterprise scale",
@@ -893,186 +1073,6 @@
         {
           "title": "Dust source",
           "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F7239fbb"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-21-dust-spa-poke-6040dcf-front-feat-sse-handshake-32730",
-      "date": "2026-09-21",
-      "name": "spa/poke/6040dcf: [front] feat: SSE handshake (#32730)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>[front] feat: add message event fallback protocol</p>\n</li>\n<li>\n<p>[front-api] fix: end polling after terminal agent messages</p>\n</li>\n<li>\n<p>[front] fix: mark final deferred approval as blocking</p>\n</li",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6040dcf"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-21-dust-spa-poke-3641f20-add-create-run-phase-server-timin",
-      "date": "2026-09-21",
-      "name": "spa/poke/3641f20: Add create/run phase server timings for sandbox MCP tool calls. (#32772)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>Add create/run phase server timings for sandbox MCP tool calls.</li>\n</ul>\n<p>Surfaces connect, call, persist, and related phases so remaining latency is measurable after the Redis stage-write opts.</p>\n<ul>\n<li",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F3641f20"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-21-dust-spa-poke-68e9018-front-feat-global-frontend-sse-st",
-      "date": "2026-09-21",
-      "name": "spa/poke/68e9018: [front] feat: global frontend SSE state machine (#32755)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>[front] feat: global frontend SSE state machine</p>\n</li>\n<li>\n<p>[front] fix: bound SSE wake recovery and ongoing loop activity retries</p>\n</li>\n<li>\n<p>[front] test: emit complete SSE events in manager fi",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F68e9018"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-21-dust-spa-poke-50a2f95-admin-governance-stop-legacy-agen",
-      "date": "2026-09-21",
-      "name": "spa/poke/50a2f95: [Admin Governance] Stop legacy agent editor writes (#32760)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>\n<p>[Admin Governance] Stop legacy agent editor writes</p>\n</li>\n<li>\n<p>Preserve non-member editor errors</p>\n</li>\n<li>\n<p>Seed legacy groups in migration tests</p>\n</li>\n<li>\n<p>Remove unused legacy agent edi",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F50a2f95"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-20-dust-spa-poke-5ab6513-keep-relocations-within-the-trans",
-      "date": "2026-09-20",
-      "name": "spa/poke/5ab6513: Keep relocations within the transfer job quota (#32793)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>Reuse transfer jobs during workspace relocation</p>\n</li>\n<li>\n<p>Reject stale relocation transfer pool writes</p>\n</li>\n<li>\n<p>Reconcile ambiguous relocation transfer starts</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5ab6513"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-20-dust-spa-app-5ab6513-keep-relocations-within-the-transf",
-      "date": "2026-09-20",
-      "name": "spa/app/5ab6513: Keep relocations within the transfer job quota (#32793)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>Reuse transfer jobs during workspace relocation</p>\n</li>\n<li>\n<p>Reject stale relocation transfer pool writes</p>\n</li>\n<li>\n<p>Reconcile ambiguous relocation transfer starts</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F5ab6513"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-19-openai-overbilling-for-openai-hosted-containers-in-the-ag",
-      "date": "2026-09-19",
-      "name": "Overbilling for OpenAI-hosted containers in the Agent API",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Identified</b><br /><br />We are still implementing the mitigation.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01M2VA7X37P1ASADSNZ1CG4N4D"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-19-dust-spa-poke-2875174",
-      "date": "2026-09-19",
-      "name": "spa/poke/2875174",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] Cache AgentResource full variant, filter content on read (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/issues/32\">#32</a>…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2875174"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-19-dust-spa-poke-93d03af",
-      "date": "2026-09-19",
-      "name": "spa/poke/93d03af",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>refactor(front): fold action + skill creation into atomic agent save …</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F93d03af"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-19-dust-spa-poke-c3dd786-speed-up-relocation-of-mcp-action",
-      "date": "2026-09-19",
-      "name": "spa/poke/c3dd786: Speed up relocation of MCP action outputs (#32782)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>Speed up relocation of MCP action outputs</p>\n</li>\n<li>\n<p>Shorten MCP output cleanup comments</p>\n</li>\n<li>\n<p>Use makeScript directly for MCP output cleanup</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fc3dd786"
         }
       ],
       "impact": 3,
