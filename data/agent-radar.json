@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "2026-09-27-dust-spa-poke-c62c1b8",
+      "date": "2026-09-27",
+      "name": "spa/poke/c62c1b8",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Enable agent resource cache (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/33307\">#33307</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fc62c1b8"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-27-dust-spa-app-c62c1b8",
+      "date": "2026-09-27",
+      "name": "spa/app/c62c1b8",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Enable agent resource cache (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/33307\">#33307</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2Fc62c1b8"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-09-25-aws-aws-billing-and-cost-management-now-provides-billi",
       "date": "2026-09-25",
       "name": "AWS Billing and Cost Management now provides billing context for your account through a new API",
@@ -1040,42 +1076,6 @@
         }
       ],
       "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-21-dust-spa-poke-812831f-admin-governance-remove-builder-f",
-      "date": "2026-09-21",
-      "name": "spa/poke/812831f: [Admin Governance] Remove builder from workspace role contracts (#32895)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>\n<p>Remove builder from workspace role contracts</p>\n</li>\n<li>\n<p>Format builder role removal</p>\n</li>\n<li>\n<p>Enforce supported persisted roles</p>\n</li>\n<li>\n<p>Keep regular API key fixtures unprivileged</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F812831f"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-21-dust-spa-poke-7239fbb-prevent-inaccessible-locations-fr",
-      "date": "2026-09-21",
-      "name": "spa/poke/7239fbb: Prevent inaccessible locations from breaking Select All (#32573)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>[front] Continue Select All past inaccessible branches</li>\n</ul>\n<p>Treat resource-scoped permission failures as partial results so one stale or inaccessible location does not block selecting every accessible b",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F7239fbb"
-        }
-      ],
-      "impact": 3,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
