@@ -1,6 +1,222 @@
 {
   "items": [
     {
+      "id": "2026-09-28-aws-amazon-rekognition-face-liveness-now-returns-feedb",
+      "date": "2026-09-28",
+      "name": "Amazon Rekognition Face Liveness now returns Feedback Codes",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Rekognition Face Liveness now returns Feedback Codes that help customers understand why a liveness check&nbsp;received a low score and how users could retry successfully. The codes are returned in the GetFaceLi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/rekognition-liveness-feedback-codes/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-28-aws-grok-4-7-is-now-available-on-amazon-bedrock",
+      "date": "2026-09-28",
+      "name": "Grok 4.7 is now available on Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Bedrock now supports SpaceXAI Grok 4.7, a frontier model built for coding, agentic tasks, and knowledge work, with US Geo and Global cross-Region inference. &nbsp;</p>\n<p>Grok 4.7 builds on Grok 4.6 with better",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-grok-4-7/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-28-aws-claude-sonnet-5-5-now-available-on-aws",
+      "date": "2026-09-28",
+      "name": "Claude Sonnet 5.5 now available on AWS",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS now offers Claude Sonnet 5.5, a smarter and more efficient Sonnet that delivers a clear leap forward on coding and knowledge work with at a lower cost per task for most work at faster speed.</p>\n<p>Claude Sonnet 5",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-28-aws-claude-sonnet-5-5-now-available-on-aws-govcloud-us",
+      "date": "2026-09-28",
+      "name": "Claude Sonnet 5.5 now available on AWS GovCloud (US)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS GovCloud (US) now offers Claude Sonnet 5.5, a smarter and more efficient Sonnet that delivers a clear leap forward on coding and knowledge work with at a lower cost per task for most work ag faster speed.</p>\n<p>C",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws-govcloud-us/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-28-aws-amazon-documentdb-with-mongodb-compatibility-adds-",
+      "date": "2026-09-28",
+      "name": "Amazon DocumentDB (with MongoDB compatibility) adds support for 5 MongoDB aggregation stages and change stream capabilities in version 8.0.2",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon DocumentDB (with MongoDB compatibility) now supports&nbsp;retryable writes, 5 new aggregation stages, and change stream enhancements starting from minor version 8.0.2. This release expands MongoDB API compatibi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-documentdb-8-0-2/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-28-aws-aws-backup-adds-logically-air-gapped-vault-support",
+      "date": "2026-09-28",
+      "name": "AWS Backup adds logically air-gapped vault support for Amazon FSx for NetApp ONTAP",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Backup logically air-gapped vault now supports Amazon FSx for NetApp ONTAP. Logically air-gapped vaults are a type of AWS Backup vault that allows secure sharing of backups across accounts and AWS Organizations, s",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-backup-air-gapped-vault-fsx-ontap/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-28-dust-spa-poke-7025a66",
+      "date": "2026-09-28",
+      "name": "spa/poke/7025a66",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] enh: add description tooltips to skills and agents search (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/3\">#3</a>…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F7025a66"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-28-dust-spa-poke-270d9c6",
+      "date": "2026-09-28",
+      "name": "spa/poke/270d9c6",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] feat: move \"Hidden agents\" into the Manage Agents filter pane…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F270d9c6"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-28-dust-spa-poke-48af58f",
+      "date": "2026-09-28",
+      "name": "spa/poke/48af58f",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Conversational building: skills and tools when creating agents (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/33350\">#33350</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F48af58f"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-28-dust-spa-poke-5b56865",
+      "date": "2026-09-28",
+      "name": "spa/poke/5b56865",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] Page the Discover catalog through agent and skill search (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/issues/33\">#33</a>…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5b56865"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-28-dust-spa-poke-4af3077",
+      "date": "2026-09-28",
+      "name": "spa/poke/4af3077",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] Fix main build: tool suggestion helpers take AgentResource (#…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F4af3077"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-28-crewai-1-15-23",
+      "date": "2026-09-28",
+      "name": "1.15.23",
+      "vendor": "CrewAI",
+      "type": "launch",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add support for native Gemini 3.8 Flash</li>\n<li>Implement evaluation of the last traced run through AMP in crewai eval</li>\n<li>Record the last traced run for crewai ev",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.23"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-09-27-dust-spa-poke-c62c1b8",
       "date": "2026-09-27",
       "name": "spa/poke/c62c1b8",
@@ -857,222 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-opus-5-5-aws-govcloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-22-aws-claude-opus-5-5-is-now-available-on-aws",
-      "date": "2026-09-22",
-      "name": "Claude Opus 5.5 is now available on AWS",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS now offers Claude Opus 5.5, Anthropic’s most capable Opus model yet and, the first of the Claude 5.5 model family, a better collaborator that handles long-running coding and knowledge work, reporting back clearly ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-opus-5-5-aws/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-22-aws-aws-security-hub-ai-inventory-adds-azure-self-host",
-      "date": "2026-09-22",
-      "name": "AWS Security Hub AI Inventory adds Azure self-hosted instance support",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Security Hub AI Inventory now supports discovering and cataloging AI assets running on self-hosted instances in Microsoft Azure. This expansion extends Security Hub's existing self-hosted discovery capabilities be",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/security-hub-ai-inventory-azure-support/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-22-aws-amazon-route-53-resolver-is-now-generally-availabl",
-      "date": "2026-09-22",
-      "name": "Amazon Route 53 Resolver is now generally available on second-generation AWS Outposts racks",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Route 53 Resolver is now generally available on second-generation AWS Outposts, providing local, managed recursive DNS resolution directly on your Outpost. DNS queries from workloads running on your Outpost are",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/route-53-resolver-gen2-outposts/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-22-aws-amazon-emr-introduces-long-term-support-with-apach",
-      "date": "2026-09-22",
-      "name": "Amazon EMR introduces Long Term Support with Apache Spark 4.1",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon EMR introduces Long Term Support (LTS) releases, starting with emr-spark-8.1.0 and Apache Spark 4.1. With LTS, designated versions of the AWS runtime for Apache Spark receive 36 months of support. Amazon EMR pr",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-emr-long-term-support-spark-4-1/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-22-dust-spa-poke-59447f9",
-      "date": "2026-09-22",
-      "name": "spa/poke/59447f9",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>[front] skill builder: guard suggestions effect against destroyed edi…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F59447f9"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-22-dust-spa-poke-81f45d2",
-      "date": "2026-09-22",
-      "name": "spa/poke/81f45d2",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>fix(front): keep non-active agent scopes private (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/32939\">#32939</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F81f45d2"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-22-dust-spa-poke-28aa6f5",
-      "date": "2026-09-22",
-      "name": "spa/poke/28aa6f5",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] fix: Throttle ongoing-agent-loop GET frequency (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/32997\">#32997</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F28aa6f5"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-22-dust-spa-poke-24c8686",
-      "date": "2026-09-22",
-      "name": "spa/poke/24c8686",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>feat: create suggestion to rename agent (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/32888\">#32888</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F24c8686"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-22-aws-amazon-connect-customer-launches-agent-to-agent-co",
-      "date": "2026-09-22",
-      "name": "Amazon Connect Customer launches agent-to-agent collaboration",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Connect Customer now supports agent-to-agent collaboration, giving customers the choice to bring in specialized AI agents during a live interaction to resolve a customer request. With this launch, Connect Custo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/Amazon-Connect-Customer-A2A"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-21-openai-building-standards-for-the-next-phase-of-ai",
-      "date": "2026-09-21",
-      "name": "Building standards for the next phase of AI",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/building-standards-next-phase-ai"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-21-openai-how-v7-gives-ai-agents-institutional-memory",
-      "date": "2026-09-21",
-      "name": "How V7 gives AI agents institutional memory",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/v7"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-21-aws-amazon-ecs-now-provides-real-time-deployment-obser",
-      "date": "2026-09-21",
-      "name": "Amazon ECS now provides real-time deployment observability in the AWS Management Console",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/ecs/\">Amazon Elastic Container Service</a> (Amazon ECS) now provides real-time service deployment observability in the Amazon ECS Console for native Linear, Canary, and Blue/Green deplo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-console-deployment-observability/"
         }
       ],
       "impact": 5,
