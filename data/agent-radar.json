@@ -1,6 +1,420 @@
 {
   "items": [
     {
+      "id": "2026-09-30-openai-elevated-errors-in-chatgpt-space-pages",
+      "date": "2026-09-30",
+      "name": "Elevated errors in ChatGPT Space Pages",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Identified</b><br /><br />We have identified that users may experience errors creating or interacting with Pages, including failures when using Page tools or connecting to live Page sessions.\n\nWe are working o",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M3R1T4FCR1337FBBYY9K2RPB"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-29-openai-elevated-errors-across-chatgpt-codex-and-the-api-i",
+      "date": "2026-09-29",
+      "name": "Elevated errors across ChatGPT, Codex, and the API including the Agents API",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />The issue causing elevated errors across ChatGPT, Codex, and the API has been resolved, and all affected services have recovered.\n\nThank you for your patience while we worked to restore",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M3Q4RK1SM4EMK445GGPG7C0N"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-29-aws-amazon-bedrock-managed-agents-powered-by-openai-is",
+      "date": "2026-09-29",
+      "name": "Amazon Bedrock Managed Agents, powered by OpenAI, is now available in preview",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Developed jointly by AWS and OpenAI, Bedrock Managed Agents (BMA) is built on a customized version of&nbsp;OpenAI's Agents API engineered to be AWS-native and integrated with AWS resources.&nbsp;You can now build agen",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/bedrock-managed-agents-preview/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-29-aws-amazon-rds-now-adds-full-snapshot-size-information",
+      "date": "2026-09-29",
+      "name": "Amazon RDS now adds full snapshot size information to the Console and API",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon RDS now displays the full snapshot size for RDS Snapshots. With this enhancement, customers can now retrieve full snapshot sizes programmatically through the DescribeDBSnapshots API using the new field, ‘FullSn",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-full-snapshot-size-available/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-29-aws-openai-gpt-6-1-sol-is-now-generally-available-on-a",
+      "date": "2026-09-29",
+      "name": "OpenAI GPT-6.1 Sol is now generally available on Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS announces the general availability of GPT-6.1 Sol from OpenAI on Amazon Bedrock. An upgrade to GPT-6 Sol, GPT-6.1 Sol delivers exceptionally strong performance on agentic coding, computer use, and professio",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-1-sol-on-amazon-bedrock/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-29-aws-amazon-connect-customer-now-lets-business-users-ma",
+      "date": "2026-09-29",
+      "name": "Amazon Connect Customer now lets business users manage more reference data to adjust contact center configurations in real time",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Connect Customer now lets administrators store more of the reference data that drives their contact center configurations. Administrators can now use data tables to hold up to 20,000 values per table for defini",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-manage-data-tables/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-29-aws-aws-service-availability-updates",
+      "date": "2026-09-29",
+      "name": "AWS Service Availability Updates",
+      "vendor": "AWS",
+      "type": "deprecation",
+      "summary": "<p>We're announcing availability changes to the following AWS services and features.</p>\n<p><b>Services moving to Maintenance</b></p>\n<p>Services moving to maintenance will no longer be accessible to new customers starti",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-service-availability/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-29-aws-amazon-aurora-now-supports-postgresql-18-6-17-11-1",
+      "date": "2026-09-29",
+      "name": "Amazon Aurora now supports PostgreSQL 18.6, 17.11, 16.15, 15.19, 14.24",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/aurora/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Aurora PostgreSQL-Compatible Edition</a> now supports PostgreSQL versions 18.6, 17.11, 16.15, 15.19, and 14.24, which inclu",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-aurora-postgresql-18-6-17-11-16-15-15-19-14-24/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-29-aws-amazon-bedrock-expands-claude-model-availability-t",
+      "date": "2026-09-29",
+      "name": "Amazon Bedrock expands Claude model availability to India, South Korea, and Singapore",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>We're excited to announce the availability of Anthropic's <a href=\"https://docs.aws.amazon.com/bedrock/latest/userguide/model-card-anthropic-claude-opus-5.html\" rel=\"noopener noreferrer\" target=\"_blank\">Claude Opus 5,",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-region-expansion-in-sk/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-29-aws-aws-transform-now-supports-apache-kafka-migration-",
+      "date": "2026-09-29",
+      "name": "AWS Transform now supports Apache Kafka migration assessments for Amazon MSK",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>You can now use <a href=\"https://aws.amazon.com/transform/\">AWS Transform</a> agentic migration assessments to evaluate the migration of on-premises Apache Kafka clusters to <a href=\"https://aws.amazon.com/msk/\">Amazo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-msk-migration-assessment-with-aws-transform"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-29-aws-aws-systems-manager-now-supports-sharing-documents",
+      "date": "2026-09-29",
+      "name": "AWS Systems Manager now supports sharing documents through AWS Resource Access Manager",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Systems Manager now lets you share your Systems Manager Documents (SSM Documents) with an entire AWS organization or with specific organizational units (OUs) using AWS Resource Access Manager (AWS RAM). Previously",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/systems-manager-sharing-documents-ram/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-29-aws-aws-datasync-now-supports-shared-vpcs",
+      "date": "2026-09-29",
+      "name": "AWS DataSync now supports shared VPCs",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS DataSync now supports shared Virtual Private Clouds (VPCs). You can create DataSync agents and run transfer tasks using subnets shared across AWS accounts with AWS Resource Access Manager (RAM). It allows you to t",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-datasync-shared-vpcs/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-29-aws-amazon-elasticache-serverless-for-valkey-now-suppo",
+      "date": "2026-09-29",
+      "name": "Amazon ElastiCache Serverless for Valkey now supports public endpoints",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon ElastiCache Serverless for Valkey now supports public endpoints, letting you connect to your cache directly from a laptop, a serverless function, or any application running outside AWS, without setting up a VPN",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-elasticache-serverless-public-endpoints/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-29-aws-amazon-route-53-resolver-dns-firewall-support-for-",
+      "date": "2026-09-29",
+      "name": "Amazon Route 53 Resolver DNS Firewall support for Palo Alto Networks Advanced DNS Security is now Generally Available (GA)",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>​​Amazon Route 53 Resolver DNS Firewall support for Palo Alto Networks (PANW) Advanced DNS Security is now generally available across 32 AWS Regions, allowing security teams to detect and block malicious DNS traffic d",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/route-53-dns-firewall-panw-dns-security-generally-available"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-29-dust-spa-poke-935299a",
+      "date": "2026-09-29",
+      "name": "spa/poke/935299a",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] enh: reorder manage agents columns (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/33497\">#33497</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F935299a"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-29-dust-spa-poke-8451be1",
+      "date": "2026-09-29",
+      "name": "spa/poke/8451be1",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] enh: increase readability in new Manage Agents/Skills tables …</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8451be1"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-29-dust-spa-poke-07555b3",
+      "date": "2026-09-29",
+      "name": "spa/poke/07555b3",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] chore: remove Editable tabs from agent and skill search (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/33418\">#33418</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F07555b3"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-29-dust-spa-poke-814fc5b-front-show-validation-from-child-",
+      "date": "2026-09-29",
+      "name": "spa/poke/814fc5b: [front] show validation from child agent (#33449)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>show validation from child agent</p>\n</li>\n<li>\n<p>cleanup</p>\n</li>\n<li>\n<p>fix</p>\n</li>\n<li>\n<p>format</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F814fc5b"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-29-dust-spa-poke-735debd",
+      "date": "2026-09-29",
+      "name": "spa/poke/735debd",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Conversational building: Allow to update an agent's editor via conver…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F735debd"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-29-dust-spa-poke-353b3ed-front-remove-zendesk-and-linear-s",
+      "date": "2026-09-29",
+      "name": "spa/poke/353b3ed: [front] Remove Zendesk and Linear static homepage use cases. (#33412)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Those recommendations only show up when a third-party tool is connected, which is the wrong default for the homepage list.</p>\n<p>Co-authored-by: Cursor <a href=\"mailto:cursoragent@cursor.com\">cursoragent@cursor.com</",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F353b3ed"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-29-dust-spa-poke-232a179",
+      "date": "2026-09-29",
+      "name": "spa/poke/232a179",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] Fetch AgentResource where access is unchanged: retry, child a…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F232a179"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-29-dust-spa-poke-41e4d09",
+      "date": "2026-09-29",
+      "name": "spa/poke/41e4d09",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] AgentResource.fetchVersion/listVersions; history, sidekick st…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F41e4d09"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-29-dust-spa-poke-30ea007",
+      "date": "2026-09-29",
+      "name": "spa/poke/30ea007",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Revert \"[front] Global agent content and admin private-entities view …</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F30ea007"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-09-28-aws-amazon-rekognition-face-liveness-now-returns-feedb",
       "date": "2026-09-28",
       "name": "Amazon Rekognition Face Liveness now returns Feedback Codes",
@@ -214,6 +628,24 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-09-28-openai-towards-safety-cases-for-frontier-ai-training",
+      "date": "2026-09-28",
+      "name": "Towards safety cases for frontier AI training",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
       "tags": []
     },
     {
@@ -641,438 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-sql-server-multi-az-developer-edition/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-24-dust-spa-poke-5764042-record-frames-v2-publications-in-",
-      "date": "2026-09-24",
-      "name": "spa/poke/5764042: Record Frames v2 publications in a frame_publications table (#33119)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>Record Frames v2 publications in a frame_publications table</li>\n</ul>\n<p>Publications only existed as GCS prefixes, so listing a Frame's publications<br />\nmeant listing GCS and reading each publication.json. A",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5764042"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-24-dust-spa-poke-5277f4f",
-      "date": "2026-09-24",
-      "name": "spa/poke/5277f4f",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>feat(suggestions): compute the agent suggestion preview client side (…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5277f4f"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-24-dust-spa-poke-4264e60",
-      "date": "2026-09-24",
-      "name": "spa/poke/4264e60",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] Route user merge agent writes through the agent domain (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/33180\">#33180</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F4264e60"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-24-dust-spa-poke-501b79b",
-      "date": "2026-09-24",
-      "name": "spa/poke/501b79b",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>feat: enforce ignoreCreditSpendThresholdAlert in the agent loop (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/32898\">#32898</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F501b79b"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-24-dust-spa-poke-6e783b5-tools-detail-sheet-general-tools-",
-      "date": "2026-09-24",
-      "name": "spa/poke/6e783b5: Tools detail sheet: General, Tools & Stakes, Availability (#32643)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>feat(front): add searchable Tools &amp; Stakes list with per-tool batch selection</li>\n</ul>\n<p>The operation list was a collapsible buried in the tool sheet's Info tab, with<br />\nbatch controls that acted on e",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6e783b5"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-24-dust-spa-poke-d08f12e",
-      "date": "2026-09-24",
-      "name": "spa/poke/d08f12e",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] Skip soft-deleted tags in TagResource.listForAgents (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/33159\">#33159</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fd08f12e"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-24-dust-spa-poke-ca068e4-keep-the-editor-focused-when-a-sl",
-      "date": "2026-09-24",
-      "name": "spa/poke/ca068e4: Keep the editor focused when a slash menu row is clicked (#33218)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>Rows already prevented Radix's hover-time focus; the browser's own<br />\nmouse-down focus on the focusable row still trapped focus in the modal<br />\nmenu once rows that navigate (and their Add action) existed, so typ",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fca068e4"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-23-aws-amazon-cloudwatch-omni-ai-first-observability-for-",
-      "date": "2026-09-23",
-      "name": "Amazon CloudWatch Omni: AI-first observability for agents and applications",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS announces the general availability of Amazon CloudWatch Omni, an evolution of Amazon CloudWatch. Omni is an AI-powered observability experience organized around your teams and the applications they run, so that yo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-cloudwatch-omni-ai/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-23-openai-harvey-turns-legal-context-into-stronger-drafts-wi",
-      "date": "2026-09-23",
-      "name": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-23-openai-ringg-s-ai-agents-resolve-up-to-65-of-customer-cal",
-      "date": "2026-09-23",
-      "name": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/ringg"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-23-openai-mobile-users-unable-to-see-work-mode-and-the-model",
-      "date": "2026-09-23",
-      "name": "Mobile users unable to see Work Mode and the Model Picker",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>ChatGPT Atlas (Operational)</li>\n<li>Codex in ChatGPT Desktop (Operati",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01M389CDQ97B11QPMSRAAYSE5S"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-23-aws-amazon-kinesis-data-streams-announces-service-mana",
-      "date": "2026-09-23",
-      "name": "Amazon Kinesis Data Streams announces Service-Managed Partition Keys for simplified data ingestion",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Kinesis Data Streams now supports service-managed partition keys for On-Demand Standard and On-Demand Advantage streams, automatically distributing records across shards without requiring customers to specify p",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/kinesis/service-managed-partition-keys"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-23-aws-amazon-bedrock-managed-knowledge-base-now-supports",
-      "date": "2026-09-23",
-      "name": "Amazon Bedrock Managed Knowledge Base now supports Salesforce and Zendesk as native data source connectors",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS announces Salesforce and Zendesk data source connectors for Amazon Bedrock Managed Knowledge Base, a fully managed retrieval-augmented generation (RAG) service. Customers can now sync Salesforce knowledge articles",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-salesforce-zendesk-native-data-source-connectors/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-23-aws-amazon-connect-customer-now-provides-routing-step-",
-      "date": "2026-09-23",
-      "name": "Amazon Connect Customer now provides routing step data in the analytics data lake",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Connect Customer now provides routing step data in the analytics data lake, making it easier for customers to generate insights from routing decisions. Using the data lake, customers can leverage Amazon Athena ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-routing-step-data/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-23-aws-amazon-emr-on-eks-now-supports-ipv6-amazon-eks-clu",
-      "date": "2026-09-23",
-      "name": "Amazon EMR on EKS now supports IPv6 Amazon EKS clusters",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces that Amazon EMR on EKS now supports running workloads on IPv6 Amazon Elastic Kubernetes Service (Amazon EKS) clusters. Amazon EMR on EKS enables data platform and analytics teams to run open-sourc",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-emr-eks-ipv6-support"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-23-aws-amazon-dynamodb-global-tables-with-multi-region-st",
-      "date": "2026-09-23",
-      "name": "Amazon DynamoDB global tables with multi-Region strong consistency now supports additional AWS Regions and cross-continent configurations",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, Amazon DynamoDB global tables with multi-Region strong consistency (MRSC) is available in five additional AWS Regions: Canada (Central), Europe (Stockholm), Europe (Spain), Asia Pacific (Mumbai), and A",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/dynamodb-mrsc-additional-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-23-dust-spa-poke-41619e8-front-add-group-discovery-pins-33",
-      "date": "2026-09-23",
-      "name": "spa/poke/41619e8: [front] Add group discovery pins (#33007)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>[front] Add group discovery pins</li>\n</ul>\n<p>Persist ordered agent and skill pins per group, expose safe slot-level resource operations, and clean up pins when their owning group or item is hard-deleted.</p>\n<",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F41619e8"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-23-dust-spa-poke-6dbf1ef",
-      "date": "2026-09-23",
-      "name": "spa/poke/6dbf1ef",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] Fetch agent resources directly in editor/action endpoints (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/3\">#3</a>…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6dbf1ef"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-23-dust-spa-poke-0f10ac0",
-      "date": "2026-09-23",
-      "name": "spa/poke/0f10ac0",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] Align conversational skill/agent suggestion cards with Figma …</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F0f10ac0"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-23-dust-spa-poke-d0867c9-feat-offer-the-homepage-use-cases",
-      "date": "2026-09-23",
-      "name": "spa/poke/d0867c9: feat: offer the homepage use cases under the composer (#33058)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>feat: offer the homepage use cases under the composer</li>\n</ul>\n<p>Picking a row drops its skill and tool chips into the composer, then types the<br />\nprompt in after them so the input bar reads as if it were ",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fd0867c9"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-22-openai-parallel-cut-research-time-and-cost-in-half-with-g",
-      "date": "2026-09-22",
-      "name": "Parallel cut research time and cost in half with GPT‑6 Astra",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-22-aws-billing-transfer-now-supports-automatic-billing-gr",
-      "date": "2026-09-22",
-      "name": "Billing Transfer now supports automatic billing group creation for two-level transfers",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Billing Transfer users can now enable the Auto-Billing Transfer Billing Group Creation, a new AWS Billing Conductor preference that eliminates the manual billing group configuration in two-level billing transfer a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-billing-transfer-supports-automatic-billing-group-creation/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-22-aws-openai-gpt-6-sol-and-gpt-6-luna-are-now-generally-",
-      "date": "2026-09-22",
-      "name": "OpenAI GPT-6 Sol and GPT-6 Luna are now generally available on Amazon Bedrock",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS announces the general availability of GPT-6 Sol and GPT-6 Luna from OpenAI on Amazon Bedrock. Expanding the GPT-6 family alongside Astra, these two models give teams more ways to balance intelligence, speed",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-sol-luna-on-amazon-bedrock/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-22-aws-claude-opus-5-5-is-now-available-on-aws-govcloud-u",
-      "date": "2026-09-22",
-      "name": "Claude Opus 5.5 is now available on AWS GovCloud (US)",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS GovCloud (US) now offers Claude Opus 5.5, Anthropic’s most capable Opus model yet and, the first of the Claude 5.5 model family, a better collaborator that handles long-running coding and knowledge work, reporting",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-opus-5-5-aws-govcloud/"
         }
       ],
       "impact": 5,
