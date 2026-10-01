@@ -19,6 +19,312 @@
       "tags": []
     },
     {
+      "id": "2026-09-30-openai-disrupting-a-coordinated-model-distillation-campai",
+      "date": "2026-09-30",
+      "name": "Disrupting a coordinated model-distillation campaign",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-30-aws-amazon-workspaces-core-managed-instances-adds-supp",
+      "date": "2026-09-30",
+      "name": "Amazon WorkSpaces Core Managed Instances adds support for NVIDIA Blackwell GPU",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon WorkSpaces Core Managed Instances now supports Graphics G7 instances, powered by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs and Intel Xeon 6 processors. G7 instances deliver up to 2.1X better performance",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-cmi-g7/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-30-aws-aws-cli-now-supports-bulk-skill-updates-and-versio",
+      "date": "2026-09-30",
+      "name": "AWS CLI now supports bulk skill updates and version checks for the Agent Toolkit for AWS",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS expanded the AWS Command Line Interface (CLI) commands for the <a href=\"https://docs.aws.amazon.com/agent-toolkit/latest/userguide/what-is-agent-toolkit.html\" rel=\"noopener noreferrer\" target=\"_blank\">Agent",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-cli-agent-toolkit-update-skill/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-30-aws-amazon-s3-vectors-introduces-metadata-pre-filterin",
+      "date": "2026-09-30",
+      "name": "Amazon S3 Vectors introduces metadata pre-filtering for up to 5x higher recall on filtered search",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon S3 Vectors now supports pre-filtering, which evaluates metadata filters before running similarity search, returning up to 5x more of the matching vectors when your filter is selective. S3 Vectors also adds a pr",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/s3-vectors-introduces-metadata-pre-filtering/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-30-aws-amazon-managed-grafana-now-supports-creating-grafa",
+      "date": "2026-09-30",
+      "name": "Amazon Managed Grafana now supports creating Grafana 13.2 workspaces",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Managed Grafana now supports creating new workspaces with Grafana version 13.2. This release brings features from open-source Grafana versions 13.0 to 13.2, including Git Sync for dashboards, dynamic dashboards",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-managed-grafana-now-supports-creating-grafana-13-2-workspaces"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-30-aws-openai-gpt-6-astra-now-supports-ultrafast-mode-on-",
+      "date": "2026-09-30",
+      "name": "OpenAI GPT-6 Astra now supports UltraFast mode on Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>&nbsp;Today, AWS announces the availability of UltraFast mode for GPT-6 Astra from OpenAI on Amazon Bedrock. Ultrafast is a premium speed tier for GPT-6 Astra built for workloads where speed matters most. According to",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-astra-ultrafast-on-amazon-bedrock/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-30-aws-aws-parallel-computing-service-now-supports-scalin",
+      "date": "2026-09-30",
+      "name": "AWS Parallel Computing Service now supports scaling logs",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Parallel Computing Service (AWS PCS) now supports scaling logs, which record how AWS PCS scales the compute node groups in your cluster. Each log entry records one state transition for one compute node—for example",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-pcs-scaling-logs/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-30-aws-amazon-aurora-serverless-now-scales-faster-to-supp",
+      "date": "2026-09-30",
+      "name": "Amazon Aurora serverless now scales faster to support agentic AI and other bursty workloads",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/aurora/serverless/\">Amazon Aurora serverless</a> now scales in even larger steps, adding up to 16 ACUs to its current capacity within a second and continuing to scale up to 256 ACUs",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aurora-serverless-instant-16-acu-scaling/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-30-aws-amazon-aurora-and-rds-now-support-amd-based-r8a-in",
+      "date": "2026-09-30",
+      "name": "Amazon Aurora and RDS now support AMD-based R8a instances",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Aurora and Amazon RDS now support R8a database instances powered by 5th generation AMD EPYC processors, expanding the choice available for your database workloads. Each vCPU in R8a database instances correspond",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aurora-rds-amd-r8a/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-30-aws-amazon-rds-now-supports-amd-based-m8a-instances",
+      "date": "2026-09-30",
+      "name": "Amazon RDS now supports AMD-based M8a instances",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon RDS for PostgreSQL, MySQL, and MariaDB now support M8a database instances powered by 5th generation AMD EPYC processors, expanding the choice available for your database workloads. Each vCPU in M8a database ins",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aurora-rds-amd-m8a/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-30-aws-aurora-postgresql-now-supports-querying-of-apache-",
+      "date": "2026-09-30",
+      "name": "Aurora PostgreSQL now supports querying of Apache Iceberg and Parquet data",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, you can directly query operational data together with data stored in data lakes in Apache Iceberg and Parquet formats using your existing PostgreSQL applications and tools, without extract, transform, ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aurora-postgresql-query-apache-iceberg-and-parquet/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-30-aws-amazon-rds-for-mysql-supports-mysql-26-7-in-amazon",
+      "date": "2026-09-30",
+      "name": "Amazon RDS for MySQL supports MySQL 26.7 in Amazon RDS Database Preview Environment",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, <a href=\"https://aws.amazon.com/rds/mysql/\" target=\"_blank\">Amazon RDS for MySQL</a> 26.7 is available in the <a href=\"https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/create-db-instance-in-previ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/rds-mysql-26-7-preview-environment/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-30-aws-uncover-blind-spots-in-aws-data-plane-operations-w",
+      "date": "2026-09-30",
+      "name": "Uncover blind spots in AWS data plane operations with CloudTrail Event Coverage",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS CloudTrail introduces Event Coverage, a new console experience that gives customers visibility into their data plane operations coverage at the account and organization level. You can now see which AWS services an",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-cloudtrail-event-coverage/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-30-aws-aws-accounts-now-support-phone-number-verification",
+      "date": "2026-09-30",
+      "name": "AWS accounts now support phone number verification",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Accounts now support phone number verification for primary contact phone numbers. Previously, phone numbers in AWS account contact information were validated for format but never verified through an out-of-band me",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-accounts-phone-number-verification/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-30-aws-aws-iam-identity-center-identity-store-apis-now-ac",
+      "date": "2026-09-30",
+      "name": "AWS IAM Identity Center Identity Store APIs now accept resource ARNs in addition to resource IDs",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS IAM Identity Center's Identity Store APIs now accept the Amazon Resource Name (ARN) for a user, group, group membership, or identity store anywhere the APIs previously accepted the resource ID. ARN support is addi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/iam-identity-center-apis-arns/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-30-aws-aws-marketplace-launches-an-ai-agent-skill-for-usa",
+      "date": "2026-09-30",
+      "name": "AWS Marketplace launches an AI agent skill for usage-based metering integration",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS announces the general availability of the AWS Marketplace metering agent skill, an AI-guided experience that helps sellers build, deploy, and validate a usage-based (pay-as-you-go) SaaS metering integration from w",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/marketplace-ai-agent-metering/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-30-dust-spa-poke-90e98fc",
+      "date": "2026-09-30",
+      "name": "spa/poke/90e98fc",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] Message rendering loads agents through AgentResource (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/33647\">#33647</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F90e98fc"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-09-29-openai-elevated-errors-across-chatgpt-codex-and-the-api-i",
       "date": "2026-09-29",
       "name": "Elevated errors across ChatGPT, Codex, and the API including the Agents API",
@@ -415,6 +721,42 @@
       "tags": []
     },
     {
+      "id": "2026-09-29-aws-aws-deadline-cloud-now-supports-expressions-in-job",
+      "date": "2026-09-29",
+      "name": "AWS Deadline Cloud now supports expressions in job templates",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Deadline Cloud now supports flexible expressions and rich parameter types in job templates, giving customers a cleaner, more powerful way to fit the service to existing production pipelines. Deadline Cloud is a fu",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-deadline-cloud-expressions-job-templates/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-29-aws-aws-deadline-cloud-now-supports-ecs-containers-on-",
+      "date": "2026-09-29",
+      "name": "AWS Deadline Cloud now supports ECS containers on Linux Service-Managed Fleets",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Deadline Cloud now supports running jobs using Docker containers from Amazon Elastic Container Service (ECS) on Linux-based service-managed fleets. Deadline Cloud is a fully managed service that helps teams run co",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-deadline-cloud-ecs-containers-linux-smf/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-09-28-aws-amazon-rekognition-face-liveness-now-returns-feedb",
       "date": "2026-09-28",
       "name": "Amazon Rekognition Face Liveness now returns Feedback Codes",
@@ -731,348 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-r8i-r8i-flex-thf/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-25-aws-amazon-ec2-c8i-and-c8i-flex-instances-are-now-avai",
-      "date": "2026-09-25",
-      "name": "Amazon EC2 C8i and C8i-flex instances are now available in additional regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8i and C8i-flex instances are available in the AWS European Sovereign Cloud (Germany) region. These instances are powered by custom Intel Xeon 6 processors, a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/c8i-c8i-flex-thf-september-2026/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-25-aws-aws-iam-outbound-identity-federation-now-supports-",
-      "date": "2026-09-25",
-      "name": "AWS IAM outbound identity federation now supports interface VPC endpoints for OIDC discovery",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/identity/federation/outbound-federation/\">AWS Identity and Access Management (IAM) outbound identity federation</a> now supports Amazon Virtual Private Cloud (VPC) endpoints for the Ope",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-sts-vpc-oidc/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-25-aws-aws-datasync-launches-a-monitoring-dashboard-for-t",
-      "date": "2026-09-25",
-      "name": "AWS DataSync launches a monitoring dashboard for tracking task executions across your account",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS DataSync now provides a monitoring dashboard in the DataSync console that gives you visibility into your data transfers across your account. For each task execution, you can see its status, data and file transfer ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/datasync-monitoring-dashboard"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-25-aws-aws-end-user-messaging-now-supports-voice-calling-",
-      "date": "2026-09-25",
-      "name": "AWS End User Messaging now supports voice calling on WhatsApp",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p><a href=\"https://aws.amazon.com/end-user-messaging/\">AWS End User Messaging</a> now lets businesses place and receive voice calls with their customers directly inside WhatsApp, using the same verified business identit",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-end-user-messaging-voice-calling-whatsapp"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-25-aws-aws-end-user-messaging-and-amazon-ses-now-offer-ai",
-      "date": "2026-09-25",
-      "name": "AWS End User Messaging and Amazon SES now offer AI agent skills for the AWS MCP Server",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS End User Messaging and Amazon SES now publish AI agent skills for the AWS MCP Server, enabling developers to build and send messages by asking their AI coding agent in plain language. Previously, developers had to",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-messaging-ses-ai-skills-mcp-server/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-25-dust-spa-poke-80df33e-front-search-groups-in-the-featur",
-      "date": "2026-09-25",
-      "name": "spa/poke/80df33e: [front] Search groups in the Featured pin menu. (#33299)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Admins can type a group name instead of scrolling the audience list, and the menu stays inside the dialog so the search field can take focus.</p>\n<p>Co-authored-by: Cursor <a href=\"mailto:cursoragent@cursor.com\">curso",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F80df33e"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-25-dust-spa-poke-2a4ba9d",
-      "date": "2026-09-25",
-      "name": "spa/poke/2a4ba9d",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Show the credit spend checkpoint setting to every workspace (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/33279\">#33279</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2a4ba9d"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-25-dust-spa-poke-a54519b",
-      "date": "2026-09-25",
-      "name": "spa/poke/a54519b",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front-api] Guard agent endpoints with AgentResource.fetchById (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/33194\">#33194</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fa54519b"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-24-aws-amazon-eventbridge-relaunches-event-buses-for-ente",
-      "date": "2026-09-24",
-      "name": "Amazon EventBridge relaunches event buses for enterprise scale",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon EventBridge relaunches event buses with a new enhanced Custom event bus that lets you build event-driven applications that decouple teams and can scale with your organization. Create a custom event bus, share i",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/eventbridge-relaunches-custom-event-buses/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-24-aws-aws-lambda-durable-functions-are-now-available-in-",
-      "date": "2026-09-24",
-      "name": "AWS Lambda durable functions are now available in AWS European Sovereign Cloud region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Lambda durable functions are now available in the AWS European Sovereign Cloud. Lambda durable functions enable developers to build reliable multi-step applications and AI workflows within the Lambda developer exp",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/durablefunctions-european-sovereign-cloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-24-aws-amazon-rds-for-mysql-announces-extended-support-mi",
-      "date": "2026-09-24",
-      "name": "Amazon RDS for MySQL announces Extended Support minor versions 5.7.44-rds.20260902 and 8.0.46-rds.20260908",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/mysql/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Relational Database Service (RDS) for MySQL</a> announces Amazon RDS Extended Support minor versions 5.7.44-rds.20260902 and",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-mysql-extended-support-minor-5744-8046-rds/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-24-aws-amazon-rds-for-postgresql-now-supports-postgresql-",
-      "date": "2026-09-24",
-      "name": "Amazon RDS for PostgreSQL now supports PostgreSQL 19 Beta 4 in the Amazon RDS Database Preview Environment",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, <a href=\"https://aws.amazon.com/rds/postgresql/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon RDS for PostgreSQL</a> 19 Beta 4 is available in the <a href=\"https://docs.aws.amazon.com/AmazonRDS/lat",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/postgresql-19-beta-4-amazon-rds-database-preview-environment/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-24-aws-amazon-rds-for-postgresql-now-supports-post-quantu",
-      "date": "2026-09-24",
-      "name": "Amazon RDS for PostgreSQL now supports post-quantum TLS key exchange",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, <a href=\"https://aws.amazon.com/rds/postgresql/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon RDS for PostgreSQL</a> introduces support for post-quantum TLS (PQ-TLS) key exchange, providing you wit",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/postgresql-post-quantum-tls-key-exchange/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-24-aws-aws-network-security-manager-is-now-generally-avai",
-      "date": "2026-09-24",
-      "name": "AWS Network Security Manager is now generally available in US East (N. Virginia) Region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS announces the general availability of AWS Network Security Manager, a comprehensive network security management solution designed to simplify security policy deployment and enforcement at scale. Network Sec",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/network-security-manager-us-east-va/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-24-aws-amazon-sagemaker-hyperpod-inference-gateway-for-sc",
-      "date": "2026-09-24",
-      "name": "Amazon SageMaker HyperPod Inference Gateway for scalable LLM inference",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker HyperPod Inference Gateway is a Kubernetes-native, GPU-aware routing system that deploys as a single EKS managed add-on on existing SageMaker HyperPod infrastructure with zero application changes. By ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-hyperpod-inference-gateway/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-24-aws-run-interactive-workloads-on-amazon-emr-on-eks-wit",
-      "date": "2026-09-24",
-      "name": "Run interactive workloads on Amazon EMR on EKS with Spark Connect",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon EMR on EKS now supports interactive Apache Spark sessions with Spark Connect. Data engineers and data scientists can develop and debug Apache Spark applications interactively from managed notebooks in Amazon Sa",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/emr-eks-spark-connect-interactive/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-24-aws-amazon-gamelift-servers-now-available-in-5-new-reg",
-      "date": "2026-09-24",
-      "name": "Amazon GameLift Servers now available in 5 new regions and 8 Local Zones",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon GameLift Servers is a fully managed service for deploying, operating, and scaling dedicated game servers for multiplayer games. High latency caused by geographic distance between players and servers remains one",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-gamelift-servers-region-expansion-2026"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-24-aws-amazon-elasticache-global-datastore-now-supports-t",
-      "date": "2026-09-24",
-      "name": "Amazon ElastiCache Global Datastore now supports tagging and tag-based access control",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon ElastiCache now supports resource tagging and tag-based access control (TBAC) for Global Datastore. Previously, ElastiCache supported tagging on all resources except Global Datastore, which prevented customers ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-elasticache-global-datastore-tagging/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-24-aws-amazon-rds-supports-multi-az-for-sql-server-develo",
-      "date": "2026-09-24",
-      "name": "Amazon RDS supports Multi-AZ for SQL Server Developer Edition",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for SQL Server</a> now supports Multi-AZ deployments using Always On Availability Groups for SQL Server D",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-sql-server-multi-az-developer-edition/"
         }
       ],
       "impact": 5,
