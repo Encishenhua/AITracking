@@ -1,6 +1,294 @@
 {
   "items": [
     {
+      "id": "2026-10-02-aws-guardduty-runtime-monitoring-is-now-included-in-th",
+      "date": "2026-10-02",
+      "name": "GuardDuty Runtime Monitoring is now included in the AWS Security Hub Threat Analytics plan",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS announces that Amazon GuardDuty Runtime Monitoring is now included in the AWS Security Hub Threat Analytics plan. Runtime Monitoring inspects operating system, network, and file activity to surface threats ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-security-hub-runtime-monitoring/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-01-aws-aws-well-architected-agent-is-now-available-in-pre",
+      "date": "2026-10-01",
+      "name": "AWS Well-Architected Agent is now available in preview",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS announces the preview of AWS Well-Architected Agent, a AI-powered service that is the next-gen evolution of AWS Trusted Advisor and the AWS Well-Architected Tool. The agent analyzes and optimizes AWS infrastructur",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-well-architected-agent/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-01-aws-amazon-dynamodb-accelerator-dax-is-now-available-i",
+      "date": "2026-10-01",
+      "name": "Amazon DynamoDB Accelerator (DAX) is now available in additional Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the availability of Amazon DynamoDB Accelerator (DAX) in 17 additional AWS Regions: Asia Pacific (Hong Kong), Asia Pacific (Hyderabad), Asia Pacific (Jakarta), Asia Pacific (Malaysia), Asia Pacifi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-dynamodb-accelerator/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-01-aws-amazon-guardduty-now-supports-centralized-manageme",
+      "date": "2026-10-01",
+      "name": "Amazon GuardDuty now supports centralized management using AWS Organizations declarative policies",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon GuardDuty now supports AWS Organizations declarative policies, enabling you to centrally enable GuardDuty threat detection across every account and Region in your AWS organization. Using an organization policy,",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-org-enablement-policies/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-01-aws-amazon-s3-object-lock-variable-retention-with-even",
+      "date": "2026-10-01",
+      "name": "Amazon S3 Object Lock variable retention with event holds is now available in AWS GovCloud (US) Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon S3 Object Lock support for variable retention with event holds is now available in AWS GovCloud (US-East) and AWS GovCloud (US-West).</p>\n<p>Amazon S3 Object Lock variable retention allows you to apply write-on",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/s3-object-lock-variable-retention-event-holds-aws-govcloud/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-01-aws-aws-security-hub-introduces-remediation-plans-to-p",
+      "date": "2026-10-01",
+      "name": "AWS Security Hub introduces remediation plans to prioritize and fix security exposures",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Security Hub now offers remediation plans that group related exposure findings sharing a root cause. Instead of addressing each exposure individually, you can now fix a single underlying resource, such as a miscon",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-security-hub-remediation-plans/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-01-aws-aws-transfer-family-now-supports-custom-cloudwatch",
+      "date": "2026-10-01",
+      "name": "AWS Transfer Family now supports custom CloudWatch log groups for managed workflows",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Transfer Family now lets you choose a custom log group in Amazon CloudWatch Logs for managed workflow execution logs. You can organize workflow logs to monitor individual workflows separately or bring logs from re",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/transfer-family-custom-cloudwatch-log-groups/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-01-aws-serverless-storage-on-amazon-emr-serverless-now-su",
+      "date": "2026-10-01",
+      "name": "Serverless Storage on Amazon EMR Serverless now supports terabyte-scale shuffle",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon EMR Serverless now offers enhanced serverless storage capabilities with support for up to 1TB shuffle operations, raising the previous 200 GB per-job limit. Amazon EMR Serverless makes it simple for data engine",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/emr-serverless-terabyte-scale-shuffle/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-01-aws-announcing-dns-analytics-and-insights-for-route-53",
+      "date": "2026-10-01",
+      "name": "Announcing DNS analytics and insights for Route 53 Global Resolver and DNS Firewall",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Route 53 Global Resolver and DNS Firewall now provide DNS analytics and insights through native Amazon CloudWatch integration. These new capabilities enable network administrators and security teams to gain full obser",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/route-53-dns-analytics-insights/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-01-aws-aws-iam-identity-center-extends-multi-region-suppo",
+      "date": "2026-10-01",
+      "name": "AWS IAM Identity Center extends multi-Region support to more AWS Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>IAM Identity Center helps you connect your workforce identities to AWS once and streamline access management to AWS accounts and applications. You can now replicate IAM Identity Center to opt-in AWS Regions, and betwe",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-iam-identity-center-extends-multi-region-support-to-more-aws-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-01-dust-spa-poke-800416b",
+      "date": "2026-10-01",
+      "name": "spa/poke/800416b",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] Agent loop loads its pinned configuration through AgentResour…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F800416b"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-01-dust-spa-poke-28186cf",
+      "date": "2026-10-01",
+      "name": "spa/poke/28186cf",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>Ungate Pod egress/env-var admin and request_egress_domain from the Fr…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F28186cf"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-01-dust-spa-poke-8180e28",
+      "date": "2026-10-01",
+      "name": "spa/poke/8180e28",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] enh: add Poke agent and skill search endpoints (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/33798\">#33798</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8180e28"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-01-dust-spa-poke-95f3c0e",
+      "date": "2026-10-01",
+      "name": "spa/poke/95f3c0e",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] Mention helpers take the AgentResource (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/33725\">#33725</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F95f3c0e"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-01-dust-spa-poke-70ccbf8",
+      "date": "2026-10-01",
+      "name": "spa/poke/70ccbf8",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] feat: add disable_frames_v2 flag to opt a workspace out of Fr…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F70ccbf8"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-01-dust-spa-poke-42b7623",
+      "date": "2026-10-01",
+      "name": "spa/poke/42b7623",
+      "vendor": "Dust",
+      "type": "deprecation",
+      "summary": "<p>Conversational building: deprecate the old 'Author Skills' (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/33723\">#33723</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F42b7623"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-09-30-openai-elevated-errors-in-chatgpt-space-pages",
       "date": "2026-09-30",
       "name": "Elevated errors in ChatGPT Space Pages",
@@ -320,6 +608,114 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-30-aws-apache-iceberg-materialized-views-now-support-syst",
+      "date": "2026-09-30",
+      "name": "Apache Iceberg materialized views now support system-managed write protection",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces system-managed materialized views for Apache Iceberg. Materialized views let you precompute an expensive query once and reuse the result across engines. Because this result is an open Iceberg tabl",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/system-managed-iceberg-materialized-views"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-30-aws-amazon-bedrock-expands-claude-models-in-region-sup",
+      "date": "2026-09-30",
+      "name": "Amazon Bedrock expands Claude models in-region support in the UK (London)",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>We're excited to announce in-region support for Anthropic's <a href=\"https://docs.aws.amazon.com/bedrock/latest/userguide/model-card-anthropic-claude-opus-5-5.html\" target=\"_blank\">Claude Opus 5.5</a> and <a href=\"htt",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-region-expansion-lhr/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-30-aws-aws-continuum-for-penetration-testing-now-availabl",
+      "date": "2026-09-30",
+      "name": "AWS Continuum for Penetration Testing now available in 6 additional Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Continuum for Penetration Testing now available in 6 additional Regions\n <br />\n AWS Continuum for Penetration Testing (AWS Security Agent) is a managed security service that enables AWS customers to conduct&nbsp;",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-continuum-penetration/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-30-aws-amazon-quick-now-supports-live-data-from-your-data",
+      "date": "2026-09-30",
+      "name": "Amazon Quick now supports live data from your datasets in apps",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Today, Amazon Quick adds support for building applications that use live data directly from your Quick datasets, so the KPIs, charts, tables, and insights in your application always reflect the latest data. These appl",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/live-data-in-apps"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-30-aws-amazon-redshift-simplifies-access-to-secure-loggin",
+      "date": "2026-09-30",
+      "name": "Amazon Redshift simplifies access to secure logging with federated permissions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Redshift now makes it easier to troubleshoot and audit queries on data protected by federated permissions with fine-grained access control (FGAC). Using the new DEBUG permission, data owners can let specific id",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/redshift-secure-logging-permissions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-09-30-aws-amazon-kinesis-video-streams-now-supports-vpc-endp",
+      "date": "2026-09-30",
+      "name": "Amazon Kinesis Video Streams now supports VPC endpoints with AWS PrivateLink",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/kinesis/video-streams/\">Amazon Kinesis Video Streams</a> now supports interface VPC endpoints powered by <a href=\"https://docs.aws.amazon.com/vpc/latest/privatelink/what-is-privatelink.",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/kinesis-video-streams-vpc-privatelink/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -680,402 +1076,6 @@
         }
       ],
       "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-29-dust-spa-poke-41e4d09",
-      "date": "2026-09-29",
-      "name": "spa/poke/41e4d09",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] AgentResource.fetchVersion/listVersions; history, sidekick st…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F41e4d09"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-29-dust-spa-poke-30ea007",
-      "date": "2026-09-29",
-      "name": "spa/poke/30ea007",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Revert \"[front] Global agent content and admin private-entities view …</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F30ea007"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-29-aws-aws-deadline-cloud-now-supports-expressions-in-job",
-      "date": "2026-09-29",
-      "name": "AWS Deadline Cloud now supports expressions in job templates",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Deadline Cloud now supports flexible expressions and rich parameter types in job templates, giving customers a cleaner, more powerful way to fit the service to existing production pipelines. Deadline Cloud is a fu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-deadline-cloud-expressions-job-templates/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-29-aws-aws-deadline-cloud-now-supports-ecs-containers-on-",
-      "date": "2026-09-29",
-      "name": "AWS Deadline Cloud now supports ECS containers on Linux Service-Managed Fleets",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Deadline Cloud now supports running jobs using Docker containers from Amazon Elastic Container Service (ECS) on Linux-based service-managed fleets. Deadline Cloud is a fully managed service that helps teams run co",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aws-deadline-cloud-ecs-containers-linux-smf/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-28-aws-amazon-rekognition-face-liveness-now-returns-feedb",
-      "date": "2026-09-28",
-      "name": "Amazon Rekognition Face Liveness now returns Feedback Codes",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Rekognition Face Liveness now returns Feedback Codes that help customers understand why a liveness check&nbsp;received a low score and how users could retry successfully. The codes are returned in the GetFaceLi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/rekognition-liveness-feedback-codes/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-28-aws-grok-4-7-is-now-available-on-amazon-bedrock",
-      "date": "2026-09-28",
-      "name": "Grok 4.7 is now available on Amazon Bedrock",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Bedrock now supports SpaceXAI Grok 4.7, a frontier model built for coding, agentic tasks, and knowledge work, with US Geo and Global cross-Region inference. &nbsp;</p>\n<p>Grok 4.7 builds on Grok 4.6 with better",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-grok-4-7/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-28-aws-claude-sonnet-5-5-now-available-on-aws",
-      "date": "2026-09-28",
-      "name": "Claude Sonnet 5.5 now available on AWS",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS now offers Claude Sonnet 5.5, a smarter and more efficient Sonnet that delivers a clear leap forward on coding and knowledge work with at a lower cost per task for most work at faster speed.</p>\n<p>Claude Sonnet 5",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-28-aws-claude-sonnet-5-5-now-available-on-aws-govcloud-us",
-      "date": "2026-09-28",
-      "name": "Claude Sonnet 5.5 now available on AWS GovCloud (US)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS GovCloud (US) now offers Claude Sonnet 5.5, a smarter and more efficient Sonnet that delivers a clear leap forward on coding and knowledge work with at a lower cost per task for most work ag faster speed.</p>\n<p>C",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws-govcloud-us/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-28-aws-amazon-documentdb-with-mongodb-compatibility-adds-",
-      "date": "2026-09-28",
-      "name": "Amazon DocumentDB (with MongoDB compatibility) adds support for 5 MongoDB aggregation stages and change stream capabilities in version 8.0.2",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon DocumentDB (with MongoDB compatibility) now supports&nbsp;retryable writes, 5 new aggregation stages, and change stream enhancements starting from minor version 8.0.2. This release expands MongoDB API compatibi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-documentdb-8-0-2/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-28-aws-aws-backup-adds-logically-air-gapped-vault-support",
-      "date": "2026-09-28",
-      "name": "AWS Backup adds logically air-gapped vault support for Amazon FSx for NetApp ONTAP",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Backup logically air-gapped vault now supports Amazon FSx for NetApp ONTAP. Logically air-gapped vaults are a type of AWS Backup vault that allows secure sharing of backups across accounts and AWS Organizations, s",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-backup-air-gapped-vault-fsx-ontap/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-28-dust-spa-poke-7025a66",
-      "date": "2026-09-28",
-      "name": "spa/poke/7025a66",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] enh: add description tooltips to skills and agents search (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/3\">#3</a>…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F7025a66"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-28-dust-spa-poke-270d9c6",
-      "date": "2026-09-28",
-      "name": "spa/poke/270d9c6",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] feat: move \"Hidden agents\" into the Manage Agents filter pane…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F270d9c6"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-28-dust-spa-poke-48af58f",
-      "date": "2026-09-28",
-      "name": "spa/poke/48af58f",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Conversational building: skills and tools when creating agents (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/33350\">#33350</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F48af58f"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-28-dust-spa-poke-5b56865",
-      "date": "2026-09-28",
-      "name": "spa/poke/5b56865",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] Page the Discover catalog through agent and skill search (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/issues/33\">#33</a>…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5b56865"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-28-dust-spa-poke-4af3077",
-      "date": "2026-09-28",
-      "name": "spa/poke/4af3077",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] Fix main build: tool suggestion helpers take AgentResource (#…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F4af3077"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-28-crewai-1-15-23",
-      "date": "2026-09-28",
-      "name": "1.15.23",
-      "vendor": "CrewAI",
-      "type": "launch",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add support for native Gemini 3.8 Flash</li>\n<li>Implement evaluation of the last traced run through AMP in crewai eval</li>\n<li>Record the last traced run for crewai ev",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.23"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-09-28-openai-towards-safety-cases-for-frontier-ai-training",
-      "date": "2026-09-28",
-      "name": "Towards safety cases for frontier AI training",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-27-dust-spa-poke-c62c1b8",
-      "date": "2026-09-27",
-      "name": "spa/poke/c62c1b8",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Enable agent resource cache (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/33307\">#33307</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fc62c1b8"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-27-dust-spa-app-c62c1b8",
-      "date": "2026-09-27",
-      "name": "spa/app/c62c1b8",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Enable agent resource cache (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/33307\">#33307</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2Fc62c1b8"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-25-aws-aws-billing-and-cost-management-now-provides-billi",
-      "date": "2026-09-25",
-      "name": "AWS Billing and Cost Management now provides billing context for your account through a new API",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Billing and Cost Management now offers the ListBillingViewSegments API, which returns the billing context of your account over a time period you specify.</p>\n<p>You can use the API to retrieve information about ho",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-billing-and-cost-management-billing-context-api/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-25-aws-amazon-ec2-m8i-and-m8i-flex-instances-are-now-avai",
-      "date": "2026-09-25",
-      "name": "Amazon EC2 M8i and M8i-flex instances are now available in additional regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon EC2 M8i and M8i-flex instances are now available in the AWS European Sovereign Cloud (Germany) region. These instances are powered by custom Intel Xeon 6 processors, available only on AWS, deliv",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-m8i-m8i-flex-thf/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-25-aws-amazon-ec2-r8i-and-r8i-flex-instances-are-now-avai",
-      "date": "2026-09-25",
-      "name": "Amazon EC2 R8i and R8i-flex instances are now available in additional regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8i and R8i-flex instances are available in the AWS European Sovereign Cloud (Germany) region. These instances are powered by custom Intel Xeon 6 processors, a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-r8i-r8i-flex-thf/"
-        }
-      ],
-      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
