@@ -19,6 +19,150 @@
       "tags": []
     },
     {
+      "id": "2026-10-02-aws-aws-health-introduces-the-version-catalog-for-soft",
+      "date": "2026-10-02",
+      "name": "AWS Health introduces the version catalog for software lifecycle management",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS Health introduces the version catalog which provides a centralized source of lifecycle information for software versions across AWS services. The version catalog helps customers move from reactive to proact",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-health-introduces-version-catalog-software-lifecycle-management"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-02-aws-amazon-eks-and-amazon-eks-distro-now-support-kuber",
+      "date": "2026-10-02",
+      "name": "Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.37",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Kubernetes version 1.37 introduced several new features and bug fixes, and AWS is excited to announce that you can now use <a href=\"https://aws.amazon.com/eks/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Elastic",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-distro-kubernetes-version-1-37"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-02-aws-the-aws-mcp-server-is-now-available-in-six-additio",
+      "date": "2026-10-02",
+      "name": "The AWS MCP Server is now available in six additional AWS Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>The AWS MCP Server is now available in six additional AWS Regions: Asia Pacific (Singapore), Asia Pacific (Sydney), Asia Pacific (Tokyo), Europe (Ireland), Europe (London), and US West (Oregon). The AWS MCP Server, pa",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-mcp-server-six-additional-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-02-aws-agentcore-gateway-supports-private-tls-certificate",
+      "date": "2026-10-02",
+      "name": "AgentCore Gateway supports private TLS certificates for VPC endpoints",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock AgentCore Gateway now supports TLS certificates signed by private certificate authorities (CAs) on MCP, OpenAPI, and HTTP proxy targets. This feature enables you to connect securely to gateway targets t",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-gateway-private-tls-vpc/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-02-aws-amazon-elasticache-for-valkey-now-supports-opentel",
+      "date": "2026-10-02",
+      "name": "Amazon ElastiCache for Valkey now supports OpenTelemetry metrics and detailed monitoring",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/elasticache/\">Amazon ElastiCache</a> for Valkey now publishes OpenTelemetry metrics to Amazon CloudWatch for your node-based clusters, and each metric carries attributes you can filter ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-valkey-opentelemetry-metrics-detailed-monitoring"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-02-dust-spa-poke-903c99f-front-api-prevent-workos-organiza",
+      "date": "2026-10-02",
+      "name": "spa/poke/903c99f: [front-api] Prevent WorkOS organization rebinding (#33900)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<ul>\n<li>security(front-api): prevent WorkOS organization rebinding</li>\n</ul>\n<p>Remove the tenant-controlled organization binding so workspace admins cannot target another workspace's SSO and SCIM configuration.</p>\n<p",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F903c99f"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-02-dust-spa-poke-58b4343-front-add-skillresource-batchdele",
+      "date": "2026-10-02",
+      "name": "spa/poke/58b4343: [front] Add SkillResource.batchDelete (#33757)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>Delete a batch of skills with one query per related table instead of one set of<br />\nqueries per skill. SkillResource.delete now delegates to it. Pending skills are<br />\nnever indexed, so their deletion launches no ",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F58b4343"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-02-dust-spa-poke-49bc280",
+      "date": "2026-10-02",
+      "name": "spa/poke/49bc280",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[AGENT BUILDER] Prevent dropping existing editors when adding one on …</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F49bc280"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-10-01-aws-aws-well-architected-agent-is-now-available-in-pre",
       "date": "2026-10-01",
       "name": "AWS Well-Architected Agent is now available in preview",
@@ -932,150 +1076,6 @@
         }
       ],
       "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-29-aws-amazon-route-53-resolver-dns-firewall-support-for-",
-      "date": "2026-09-29",
-      "name": "Amazon Route 53 Resolver DNS Firewall support for Palo Alto Networks Advanced DNS Security is now Generally Available (GA)",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>​​Amazon Route 53 Resolver DNS Firewall support for Palo Alto Networks (PANW) Advanced DNS Security is now generally available across 32 AWS Regions, allowing security teams to detect and block malicious DNS traffic d",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/route-53-dns-firewall-panw-dns-security-generally-available"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-29-dust-spa-poke-935299a",
-      "date": "2026-09-29",
-      "name": "spa/poke/935299a",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] enh: reorder manage agents columns (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/33497\">#33497</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F935299a"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-29-dust-spa-poke-8451be1",
-      "date": "2026-09-29",
-      "name": "spa/poke/8451be1",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] enh: increase readability in new Manage Agents/Skills tables …</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8451be1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-29-dust-spa-poke-07555b3",
-      "date": "2026-09-29",
-      "name": "spa/poke/07555b3",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] chore: remove Editable tabs from agent and skill search (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/33418\">#33418</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F07555b3"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-29-dust-spa-poke-814fc5b-front-show-validation-from-child-",
-      "date": "2026-09-29",
-      "name": "spa/poke/814fc5b: [front] show validation from child agent (#33449)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>show validation from child agent</p>\n</li>\n<li>\n<p>cleanup</p>\n</li>\n<li>\n<p>fix</p>\n</li>\n<li>\n<p>format</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F814fc5b"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-29-dust-spa-poke-735debd",
-      "date": "2026-09-29",
-      "name": "spa/poke/735debd",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Conversational building: Allow to update an agent's editor via conver…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F735debd"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-29-dust-spa-poke-353b3ed-front-remove-zendesk-and-linear-s",
-      "date": "2026-09-29",
-      "name": "spa/poke/353b3ed: [front] Remove Zendesk and Linear static homepage use cases. (#33412)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Those recommendations only show up when a third-party tool is connected, which is the wrong default for the homepage list.</p>\n<p>Co-authored-by: Cursor <a href=\"mailto:cursoragent@cursor.com\">cursoragent@cursor.com</",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F353b3ed"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-29-dust-spa-poke-232a179",
-      "date": "2026-09-29",
-      "name": "spa/poke/232a179",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] Fetch AgentResource where access is unchanged: retry, child a…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F232a179"
-        }
-      ],
-      "impact": 3,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
