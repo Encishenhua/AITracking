@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "2026-10-03-dust-spa-poke-30b26f9",
+      "date": "2026-10-03",
+      "name": "spa/poke/30b26f9",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] fix: Manage browser MCP streams with polling fallback (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/34046\">#34046</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F30b26f9"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-03-dust-spa-app-30b26f9",
+      "date": "2026-10-03",
+      "name": "spa/app/30b26f9",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] fix: Manage browser MCP streams with polling fallback (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/34046\">#34046</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F30b26f9"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-10-02-aws-guardduty-runtime-monitoring-is-now-included-in-th",
       "date": "2026-10-02",
       "name": "GuardDuty Runtime Monitoring is now included in the AWS Security Hub Threat Analytics plan",
@@ -1037,42 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/systems-manager-sharing-documents-ram/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-29-aws-aws-datasync-now-supports-shared-vpcs",
-      "date": "2026-09-29",
-      "name": "AWS DataSync now supports shared VPCs",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS DataSync now supports shared Virtual Private Clouds (VPCs). You can create DataSync agents and run transfer tasks using subnets shared across AWS accounts with AWS Resource Access Manager (RAM). It allows you to t",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-datasync-shared-vpcs/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-29-aws-amazon-elasticache-serverless-for-valkey-now-suppo",
-      "date": "2026-09-29",
-      "name": "Amazon ElastiCache Serverless for Valkey now supports public endpoints",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon ElastiCache Serverless for Valkey now supports public endpoints, letting you connect to your cache directly from a laptop, a serverless function, or any application running outside AWS, without setting up a VPN",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-elasticache-serverless-public-endpoints/"
         }
       ],
       "impact": 5,
