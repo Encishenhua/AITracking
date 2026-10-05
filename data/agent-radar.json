@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "2026-10-04-dust-spa-poke-402191c-front-fix-reset-child-streams-and",
+      "date": "2026-10-04",
+      "name": "spa/poke/402191c: [front] fix: Reset child streams and stop on completion (#34048)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>[front] fix: Reset child streams and stop on completion</p>\n</li>\n<li>\n<p>[front] refactor: Name child stream identity conditions</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F402191c"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-04-dust-spa-app-402191c-front-fix-reset-child-streams-and-",
+      "date": "2026-10-04",
+      "name": "spa/app/402191c: [front] fix: Reset child streams and stop on completion (#34048)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>[front] fix: Reset child streams and stop on completion</p>\n</li>\n<li>\n<p>[front] refactor: Name child stream identity conditions</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F402191c"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-10-03-dust-spa-poke-30b26f9",
       "date": "2026-10-03",
       "name": "spa/poke/30b26f9",
@@ -1037,42 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-region-expansion-in-sk/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-29-aws-aws-transform-now-supports-apache-kafka-migration-",
-      "date": "2026-09-29",
-      "name": "AWS Transform now supports Apache Kafka migration assessments for Amazon MSK",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>You can now use <a href=\"https://aws.amazon.com/transform/\">AWS Transform</a> agentic migration assessments to evaluate the migration of on-premises Apache Kafka clusters to <a href=\"https://aws.amazon.com/msk/\">Amazo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-msk-migration-assessment-with-aws-transform"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-29-aws-aws-systems-manager-now-supports-sharing-documents",
-      "date": "2026-09-29",
-      "name": "AWS Systems Manager now supports sharing documents through AWS Resource Access Manager",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Systems Manager now lets you share your Systems Manager Documents (SSM Documents) with an entire AWS organization or with specific organizational units (OUs) using AWS Resource Access Manager (AWS RAM). Previously",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/systems-manager-sharing-documents-ram/"
         }
       ],
       "impact": 5,
