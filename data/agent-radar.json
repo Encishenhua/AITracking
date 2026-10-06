@@ -1,6 +1,240 @@
 {
   "items": [
     {
+      "id": "2026-10-05-openai-elevated-error-rates-in-codex-cloud",
+      "date": "2026-10-05",
+      "name": "Elevated error rates in Codex Cloud",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M46KED6KQ6PR195KZYYVNY8W"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-05-openai-elevated-work-mode-errors",
+      "date": "2026-10-05",
+      "name": "Elevated Work Mode errors",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Monitoring</b><br /><br />We have mitigated the issue, and are monitoring recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Codex in ChatGPT Desktop (Degraded performance)</li>\n<li>C",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M45E0JFFJZ6EQ3BWYPW74R2Z"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-05-aws-amazon-redshift-adds-support-for-creating-and-refr",
+      "date": "2026-10-05",
+      "name": "Amazon Redshift adds support for creating and refreshing Apache Iceberg materialized views",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Redshift now supports the creation and refresh of Apache Iceberg materialized views. Materialized views pre-compute expensive joins and aggregations once and store the results in an Apache Iceberg table in Amaz",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-iceberg-materialized-views"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-05-aws-glm-5-3-by-z-ai-is-now-generally-available-on-amaz",
+      "date": "2026-10-05",
+      "name": "GLM 5.3 by Z.ai is now generally available on Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Bedrock now supports GLM 5.3 from Z.ai, giving you a powerful new option for agentic coding and long-horizon software engineering work. Customers using GLM 5.3 on Amazon Bedrock have access to the latest open w",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-glm-5-3/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-05-aws-aws-iam-identity-center-now-supports-network-acces",
+      "date": "2026-10-05",
+      "name": "AWS IAM Identity Center now supports network access controls for Identity Store",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS IAM Identity Center helps you configure the single sign-on experience for your workforce to AWS accounts and applications. IAM Identity Center now supports network access controls for Identity Store, which stores ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-identity-store-network-controls/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-05-aws-aws-continuum-for-penetration-testing-now-supports",
+      "date": "2026-10-05",
+      "name": "AWS Continuum for Penetration Testing now supports continuous penetration testing integrated directly into your CI/CD pipeline",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Continuum for Penetration Testing now integrates continuous penetration testing directly into your CI/CD pipeline (public preview)</p>\n<p>AWS Continuum for Penetration Testing (formerly AWS Security Agent) already",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-penetration-testing/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-05-aws-aws-advanced-ruby-driver-wrapper-is-generally-avai",
+      "date": "2026-10-05",
+      "name": "AWS Advanced Ruby Driver Wrapper is generally available",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>The Amazon Web Services (AWS) Advanced Ruby Driver Wrapper is now generally available for use with <a href=\"https://aws.amazon.com/rds/\" target=\"_blank\">Amazon RDS</a> and <a href=\"https://aws.amazon.com/rds/aurora/\" ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-ruby-driver-wrapper-available/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-05-aws-aws-private-ca-now-provides-detailed-certificate-i",
+      "date": "2026-10-05",
+      "name": "AWS Private CA now provides detailed certificate issuance logs",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Private CA announces detailed certificate issuance logs, a new AWS CloudTrail service event that records the complete certificate content, issuing CA information, requester identity, and signing status for every i",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-private-ca-certificate-issuance-logs/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-05-aws-announcing-amazon-nova-2-5-sonic-with-improved-rea",
+      "date": "2026-10-05",
+      "name": "Announcing Amazon Nova 2.5 Sonic with improved reasoning for voice agents",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, we announce the general availability of Amazon Nova 2.5 Sonic, our latest speech-to-speech model for natural, real-time voice agents. This release brings improved reasoning, instruction following, and tool-call",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-nova-2.5-sonic/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-05-dust-spa-poke-29011f2",
+      "date": "2026-10-05",
+      "name": "spa/poke/29011f2",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Conversational building: allow empty query string to list all agents/…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F29011f2"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-05-dust-spa-poke-5397ccf",
+      "date": "2026-10-05",
+      "name": "spa/poke/5397ccf",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[MCP] Use a regional CIMD so EU remote MCP OAuth passes same-origin c…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5397ccf"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-05-dust-spa-poke-1435f6f",
+      "date": "2026-10-05",
+      "name": "spa/poke/1435f6f",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] fix: add back default-agent enable/disable toggle (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/33970\">#33970</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F1435f6f"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-05-dust-spa-poke-f24a5c8-observe-v2-show-non-member-badges",
+      "date": "2026-10-05",
+      "name": "spa/poke/f24a5c8: [Observe v2] Show non-member badges in manager search results (#34113)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>[Observe v2] Show group members before group managers</p>\n</li>\n<li>\n<p>[Observe v2] Show all workspace members to group managers</p>\n</li>\n<li>\n<p>[Observe v2] Clarify People and Usage visibility in QA note",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Ff24a5c8"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-10-04-dust-spa-poke-402191c-front-fix-reset-child-streams-and",
       "date": "2026-10-04",
       "name": "spa/poke/402191c: [front] fix: Reset child streams and stop on completion (#34048)",
@@ -505,6 +739,42 @@
       "tags": []
     },
     {
+      "id": "2026-10-01-aws-amazon-q-developer-now-delivers-enhanced-visualiza",
+      "date": "2026-10-01",
+      "name": "Amazon Q Developer now delivers enhanced visualizations in the AWS Management Console",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces enhanced visualization for Amazon Q Developer in the AWS Management Console. Amazon Q now reasons across hundreds of AWS APIs to answer complex questions and deliver complete answers about your en",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-q-developer-enhanced-visualizations-aws-management-console"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-01-aws-amazon-eks-auto-mode-now-supports-advanced-compute",
+      "date": "2026-10-01",
+      "name": "Amazon EKS Auto Mode now supports advanced compute configuration",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Elastic Kubernetes Service (EKS) Auto Mode now lets you tune kubelet settings, Linux kernel sysctls, and hugepages directly in the NodeClass Kubernetes resource. You can now run workloads that require specific ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/eks-auto-mode-advanced-compute-config/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-09-30-openai-elevated-errors-in-chatgpt-space-pages",
       "date": "2026-09-30",
       "name": "Elevated errors in ChatGPT Space Pages",
@@ -803,276 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/marketplace-ai-agent-metering/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-30-dust-spa-poke-90e98fc",
-      "date": "2026-09-30",
-      "name": "spa/poke/90e98fc",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] Message rendering loads agents through AgentResource (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/33647\">#33647</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F90e98fc"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-30-aws-apache-iceberg-materialized-views-now-support-syst",
-      "date": "2026-09-30",
-      "name": "Apache Iceberg materialized views now support system-managed write protection",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces system-managed materialized views for Apache Iceberg. Materialized views let you precompute an expensive query once and reuse the result across engines. Because this result is an open Iceberg tabl",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/system-managed-iceberg-materialized-views"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-30-aws-amazon-bedrock-expands-claude-models-in-region-sup",
-      "date": "2026-09-30",
-      "name": "Amazon Bedrock expands Claude models in-region support in the UK (London)",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>We're excited to announce in-region support for Anthropic's <a href=\"https://docs.aws.amazon.com/bedrock/latest/userguide/model-card-anthropic-claude-opus-5-5.html\" target=\"_blank\">Claude Opus 5.5</a> and <a href=\"htt",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-region-expansion-lhr/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-30-aws-aws-continuum-for-penetration-testing-now-availabl",
-      "date": "2026-09-30",
-      "name": "AWS Continuum for Penetration Testing now available in 6 additional Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Continuum for Penetration Testing now available in 6 additional Regions\n <br />\n AWS Continuum for Penetration Testing (AWS Security Agent) is a managed security service that enables AWS customers to conduct&nbsp;",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-continuum-penetration/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-30-aws-amazon-quick-now-supports-live-data-from-your-data",
-      "date": "2026-09-30",
-      "name": "Amazon Quick now supports live data from your datasets in apps",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Today, Amazon Quick adds support for building applications that use live data directly from your Quick datasets, so the KPIs, charts, tables, and insights in your application always reflect the latest data. These appl",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/live-data-in-apps"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-30-aws-amazon-redshift-simplifies-access-to-secure-loggin",
-      "date": "2026-09-30",
-      "name": "Amazon Redshift simplifies access to secure logging with federated permissions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Redshift now makes it easier to troubleshoot and audit queries on data protected by federated permissions with fine-grained access control (FGAC). Using the new DEBUG permission, data owners can let specific id",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/redshift-secure-logging-permissions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-30-aws-amazon-kinesis-video-streams-now-supports-vpc-endp",
-      "date": "2026-09-30",
-      "name": "Amazon Kinesis Video Streams now supports VPC endpoints with AWS PrivateLink",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/kinesis/video-streams/\">Amazon Kinesis Video Streams</a> now supports interface VPC endpoints powered by <a href=\"https://docs.aws.amazon.com/vpc/latest/privatelink/what-is-privatelink.",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/kinesis-video-streams-vpc-privatelink/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-29-openai-elevated-errors-across-chatgpt-codex-and-the-api-i",
-      "date": "2026-09-29",
-      "name": "Elevated errors across ChatGPT, Codex, and the API including the Agents API",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />The issue causing elevated errors across ChatGPT, Codex, and the API has been resolved, and all affected services have recovered.\n\nThank you for your patience while we worked to restore",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01M3Q4RK1SM4EMK445GGPG7C0N"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-29-aws-amazon-bedrock-managed-agents-powered-by-openai-is",
-      "date": "2026-09-29",
-      "name": "Amazon Bedrock Managed Agents, powered by OpenAI, is now available in preview",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Developed jointly by AWS and OpenAI, Bedrock Managed Agents (BMA) is built on a customized version of&nbsp;OpenAI's Agents API engineered to be AWS-native and integrated with AWS resources.&nbsp;You can now build agen",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/bedrock-managed-agents-preview/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-29-aws-amazon-rds-now-adds-full-snapshot-size-information",
-      "date": "2026-09-29",
-      "name": "Amazon RDS now adds full snapshot size information to the Console and API",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon RDS now displays the full snapshot size for RDS Snapshots. With this enhancement, customers can now retrieve full snapshot sizes programmatically through the DescribeDBSnapshots API using the new field, ‘FullSn",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-full-snapshot-size-available/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-29-aws-openai-gpt-6-1-sol-is-now-generally-available-on-a",
-      "date": "2026-09-29",
-      "name": "OpenAI GPT-6.1 Sol is now generally available on Amazon Bedrock",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS announces the general availability of GPT-6.1 Sol from OpenAI on Amazon Bedrock. An upgrade to GPT-6 Sol, GPT-6.1 Sol delivers exceptionally strong performance on agentic coding, computer use, and professio",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-1-sol-on-amazon-bedrock/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-29-aws-amazon-connect-customer-now-lets-business-users-ma",
-      "date": "2026-09-29",
-      "name": "Amazon Connect Customer now lets business users manage more reference data to adjust contact center configurations in real time",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Connect Customer now lets administrators store more of the reference data that drives their contact center configurations. Administrators can now use data tables to hold up to 20,000 values per table for defini",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-manage-data-tables/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-29-aws-aws-service-availability-updates",
-      "date": "2026-09-29",
-      "name": "AWS Service Availability Updates",
-      "vendor": "AWS",
-      "type": "deprecation",
-      "summary": "<p>We're announcing availability changes to the following AWS services and features.</p>\n<p><b>Services moving to Maintenance</b></p>\n<p>Services moving to maintenance will no longer be accessible to new customers starti",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-service-availability/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-29-aws-amazon-aurora-now-supports-postgresql-18-6-17-11-1",
-      "date": "2026-09-29",
-      "name": "Amazon Aurora now supports PostgreSQL 18.6, 17.11, 16.15, 15.19, 14.24",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/aurora/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Aurora PostgreSQL-Compatible Edition</a> now supports PostgreSQL versions 18.6, 17.11, 16.15, 15.19, and 14.24, which inclu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-aurora-postgresql-18-6-17-11-16-15-15-19-14-24/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-29-aws-amazon-bedrock-expands-claude-model-availability-t",
-      "date": "2026-09-29",
-      "name": "Amazon Bedrock expands Claude model availability to India, South Korea, and Singapore",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>We're excited to announce the availability of Anthropic's <a href=\"https://docs.aws.amazon.com/bedrock/latest/userguide/model-card-anthropic-claude-opus-5.html\" rel=\"noopener noreferrer\" target=\"_blank\">Claude Opus 5,",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/claude-region-expansion-in-sk/"
         }
       ],
       "impact": 5,
