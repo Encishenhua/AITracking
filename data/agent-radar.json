@@ -1,6 +1,276 @@
 {
   "items": [
     {
+      "id": "2026-10-07-openai-workspace-agents-degraded-and-responses-impacted",
+      "date": "2026-10-07",
+      "name": "Workspace Agents Degraded and Responses Impacted",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Agent (Operational)</li>\n          </ul>",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M49YQE6WZT02WYF0KBXVMQ5G"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-06-openai-advancing-computer-use-with-ironclad",
+      "date": "2026-10-06",
+      "name": "Advancing computer use with Ironclad",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/advancing-computer-use-with-ironclad"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-06-openai-computer-use-is-experiencing-issues",
+      "date": "2026-10-06",
+      "name": "Computer Use Is Experiencing Issues",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Agents (Operational)</li>\n          </ul>",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M493CZ0CB14KPC0EER83MNVB"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-06-openai-errors-processing-large-pdfs-in-the-responses-api",
+      "date": "2026-10-06",
+      "name": "Errors processing large PDFs in the Responses API",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Responses (Operational)</li>\n          </ul>",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M48Y8E81QAFF9XKVGE118E6X"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-06-openai-elevated-errors-across-chatgpt-codex-and-the-api-i",
+      "date": "2026-10-06",
+      "name": "Elevated errors across ChatGPT, Codex, and the API including the Agents API",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Embeddings (Operational)</li>\n<li>Image Generation (Operational)</li>\n",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M3Q4RK1SM4EMK445GGPG7C0N"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-06-aws-aws-batch-now-publishes-job-metrics-to-amazon-clou",
+      "date": "2026-10-06",
+      "name": "AWS Batch now publishes job metrics to Amazon CloudWatch",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS Batch now publishes job metrics to Amazon CloudWatch, providing native observability for batch workloads. AWS Batch emits metrics throughout the job lifecycle, giving you visibility into job queue health, failure ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-batch-job-cloudwatch-metrics/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-06-aws-aws-certificate-manager-now-supports-acme-issuance",
+      "date": "2026-10-06",
+      "name": "AWS Certificate Manager now supports ACME issuance through AWS PrivateLink",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Certificate Manager (ACM) now supports AWS PrivateLink for ACME public certificate issuance, allowing you to request and renew public TLS certificates over a private network path that stays within the AWS network.",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/AWS-Certificate-Manager-ACME-Privatelink"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-06-dust-spa-poke-2796737",
+      "date": "2026-10-06",
+      "name": "spa/poke/2796737",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Security: prevent path injection with notion workspace id (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/34279\">#34279</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2796737"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-06-dust-spa-poke-470719c-front-feat-peek-agents-and-skills",
+      "date": "2026-10-06",
+      "name": "spa/poke/470719c: [front] feat: peek agents and skills out of the Discover button (#34255)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>feat(front): tease agents and skills from the Discover button</li>\n</ul>\n<p>Favorite agents hide behind the Discover button and peek out in a wave on<br />\nhover, sweep once on load, and pop out one by one while",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F470719c"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-06-dust-spa-poke-5139ea7",
+      "date": "2026-10-06",
+      "name": "spa/poke/5139ea7",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] fix: Snowflake admin connect fails before a workspace connect…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5139ea7"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-06-dust-spa-poke-87ec18f-feat-add-paddle-remote-mcp-integr",
+      "date": "2026-10-06",
+      "name": "spa/poke/87ec18f: feat: add Paddle remote MCP integration (#34229)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>feat: add Paddle remote MCP integration</p>\n</li>\n<li>\n<p>fix: use Paddle square mark instead of wordmark for platform logo</p>\n</li>\n<li>\n<p>Update server ID for Paddle integration</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F87ec18f"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-06-dust-spa-poke-9d91d60",
+      "date": "2026-10-06",
+      "name": "spa/poke/9d91d60",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[connectors] fix: allow Snowflake Cortex agent server usage grant (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/3\">#3</a>…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9d91d60"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-06-dust-spa-poke-6b46dd6-front-add-superhuman-docs-coda-re",
+      "date": "2026-10-06",
+      "name": "spa/poke/6b46dd6: [front] add Superhuman Docs (Coda) remote MCP server (#34276)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>[front] add Superhuman Docs (Coda) remote MCP server</p>\n</li>\n<li>\n<p>edited mcp name to remove coda from the title</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6b46dd6"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-06-dust-spa-poke-3bc1ec3-front-feat-add-pandadoc-remote-mc",
+      "date": "2026-10-06",
+      "name": "spa/poke/3bc1ec3: [front] feat: add PandaDoc remote MCP servers (Global and EU) (#34305)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>[front] feat: add PandaDoc remote MCP servers (Global and EU)</li>\n</ul>\n<p>Co-Authored-By: Claude Sonnet 5.5 <a href=\"mailto:noreply@anthropic.com\">noreply@anthropic.com</a></p>\n<ul>\n<li>[front] chore: order re",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F3bc1ec3"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-06-dust-spa-poke-0f1a6dd-front-feat-add-fullenrich-remote-",
+      "date": "2026-10-06",
+      "name": "spa/poke/0f1a6dd: [front] feat: add FullEnrich remote MCP server (#34093)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<ul>\n<li>\n<p>[front] feat: add FullEnrich remote MCP server</p>\n</li>\n<li>\n<p>Update server ID from 10041 to 10043</p>\n</li>\n</ul>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F0f1a6dd"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-10-05-openai-elevated-error-rates-in-codex-cloud",
       "date": "2026-10-05",
       "name": "Elevated error rates in Codex Cloud",
@@ -230,6 +500,42 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-05-aws-amazon-ec2-hpc8a-instances-are-now-available-in-as",
+      "date": "2026-10-05",
+      "name": "Amazon EC2 Hpc8a instances are now available in Asia Pacific (Singapore)",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon EC2 Hpc8a instances are available in&nbsp;Asia Pacific (Singapore) region. These instances are powered by 5th Gen AMD EPYC processors (formerly code named Turin). With a maximum frequency of 4.5",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ec2-hpc8a-asia-pacific/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-05-aws-amazon-ec2-introduces-shared-tags-for-amazon-machi",
+      "date": "2026-10-05",
+      "name": "Amazon EC2 introduces shared tags for Amazon Machine Images",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon EC2 now supports AMI tag sharing, a new feature that lets AMI owners make selected tags visible to all AWS accounts an AMI is shared with. Whether an AMI is shared with an account, across an organization, or ma",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-ami-shared-tags"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -767,312 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/eks-auto-mode-advanced-compute-config/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-30-openai-elevated-errors-in-chatgpt-space-pages",
-      "date": "2026-09-30",
-      "name": "Elevated errors in ChatGPT Space Pages",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Identified</b><br /><br />We have identified that users may experience errors creating or interacting with Pages, including failures when using Page tools or connecting to live Page sessions.\n\nWe are working o",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01M3R1T4FCR1337FBBYY9K2RPB"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-30-openai-disrupting-a-coordinated-model-distillation-campai",
-      "date": "2026-09-30",
-      "name": "Disrupting a coordinated model-distillation campaign",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-30-aws-amazon-workspaces-core-managed-instances-adds-supp",
-      "date": "2026-09-30",
-      "name": "Amazon WorkSpaces Core Managed Instances adds support for NVIDIA Blackwell GPU",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon WorkSpaces Core Managed Instances now supports Graphics G7 instances, powered by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs and Intel Xeon 6 processors. G7 instances deliver up to 2.1X better performance",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-cmi-g7/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-30-aws-aws-cli-now-supports-bulk-skill-updates-and-versio",
-      "date": "2026-09-30",
-      "name": "AWS CLI now supports bulk skill updates and version checks for the Agent Toolkit for AWS",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS expanded the AWS Command Line Interface (CLI) commands for the <a href=\"https://docs.aws.amazon.com/agent-toolkit/latest/userguide/what-is-agent-toolkit.html\" rel=\"noopener noreferrer\" target=\"_blank\">Agent",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-cli-agent-toolkit-update-skill/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-30-aws-amazon-s3-vectors-introduces-metadata-pre-filterin",
-      "date": "2026-09-30",
-      "name": "Amazon S3 Vectors introduces metadata pre-filtering for up to 5x higher recall on filtered search",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon S3 Vectors now supports pre-filtering, which evaluates metadata filters before running similarity search, returning up to 5x more of the matching vectors when your filter is selective. S3 Vectors also adds a pr",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/s3-vectors-introduces-metadata-pre-filtering/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-30-aws-amazon-managed-grafana-now-supports-creating-grafa",
-      "date": "2026-09-30",
-      "name": "Amazon Managed Grafana now supports creating Grafana 13.2 workspaces",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Managed Grafana now supports creating new workspaces with Grafana version 13.2. This release brings features from open-source Grafana versions 13.0 to 13.2, including Git Sync for dashboards, dynamic dashboards",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-managed-grafana-now-supports-creating-grafana-13-2-workspaces"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-30-aws-openai-gpt-6-astra-now-supports-ultrafast-mode-on-",
-      "date": "2026-09-30",
-      "name": "OpenAI GPT-6 Astra now supports UltraFast mode on Amazon Bedrock",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>&nbsp;Today, AWS announces the availability of UltraFast mode for GPT-6 Astra from OpenAI on Amazon Bedrock. Ultrafast is a premium speed tier for GPT-6 Astra built for workloads where speed matters most. According to",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-astra-ultrafast-on-amazon-bedrock/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-30-aws-aws-parallel-computing-service-now-supports-scalin",
-      "date": "2026-09-30",
-      "name": "AWS Parallel Computing Service now supports scaling logs",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Parallel Computing Service (AWS PCS) now supports scaling logs, which record how AWS PCS scales the compute node groups in your cluster. Each log entry records one state transition for one compute node—for example",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-pcs-scaling-logs/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-30-aws-amazon-aurora-serverless-now-scales-faster-to-supp",
-      "date": "2026-09-30",
-      "name": "Amazon Aurora serverless now scales faster to support agentic AI and other bursty workloads",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/aurora/serverless/\">Amazon Aurora serverless</a> now scales in even larger steps, adding up to 16 ACUs to its current capacity within a second and continuing to scale up to 256 ACUs",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/aurora-serverless-instant-16-acu-scaling/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-30-aws-amazon-aurora-and-rds-now-support-amd-based-r8a-in",
-      "date": "2026-09-30",
-      "name": "Amazon Aurora and RDS now support AMD-based R8a instances",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Aurora and Amazon RDS now support R8a database instances powered by 5th generation AMD EPYC processors, expanding the choice available for your database workloads. Each vCPU in R8a database instances correspond",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aurora-rds-amd-r8a/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-30-aws-amazon-rds-now-supports-amd-based-m8a-instances",
-      "date": "2026-09-30",
-      "name": "Amazon RDS now supports AMD-based M8a instances",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon RDS for PostgreSQL, MySQL, and MariaDB now support M8a database instances powered by 5th generation AMD EPYC processors, expanding the choice available for your database workloads. Each vCPU in M8a database ins",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aurora-rds-amd-m8a/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-30-aws-aurora-postgresql-now-supports-querying-of-apache-",
-      "date": "2026-09-30",
-      "name": "Aurora PostgreSQL now supports querying of Apache Iceberg and Parquet data",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, you can directly query operational data together with data stored in data lakes in Apache Iceberg and Parquet formats using your existing PostgreSQL applications and tools, without extract, transform, ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aurora-postgresql-query-apache-iceberg-and-parquet/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-30-aws-amazon-rds-for-mysql-supports-mysql-26-7-in-amazon",
-      "date": "2026-09-30",
-      "name": "Amazon RDS for MySQL supports MySQL 26.7 in Amazon RDS Database Preview Environment",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, <a href=\"https://aws.amazon.com/rds/mysql/\" target=\"_blank\">Amazon RDS for MySQL</a> 26.7 is available in the <a href=\"https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/create-db-instance-in-previ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/rds-mysql-26-7-preview-environment/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-30-aws-uncover-blind-spots-in-aws-data-plane-operations-w",
-      "date": "2026-09-30",
-      "name": "Uncover blind spots in AWS data plane operations with CloudTrail Event Coverage",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS CloudTrail introduces Event Coverage, a new console experience that gives customers visibility into their data plane operations coverage at the account and organization level. You can now see which AWS services an",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-cloudtrail-event-coverage/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-30-aws-aws-accounts-now-support-phone-number-verification",
-      "date": "2026-09-30",
-      "name": "AWS accounts now support phone number verification",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Accounts now support phone number verification for primary contact phone numbers. Previously, phone numbers in AWS account contact information were validated for format but never verified through an out-of-band me",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/aws-accounts-phone-number-verification/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-30-aws-aws-iam-identity-center-identity-store-apis-now-ac",
-      "date": "2026-09-30",
-      "name": "AWS IAM Identity Center Identity Store APIs now accept resource ARNs in addition to resource IDs",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS IAM Identity Center's Identity Store APIs now accept the Amazon Resource Name (ARN) for a user, group, group membership, or identity store anywhere the APIs previously accepted the resource ID. ARN support is addi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/iam-identity-center-apis-arns/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-09-30-aws-aws-marketplace-launches-an-ai-agent-skill-for-usa",
-      "date": "2026-09-30",
-      "name": "AWS Marketplace launches an AI agent skill for usage-based metering integration",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS announces the general availability of the AWS Marketplace metering agent skill, an AI-guided experience that helps sellers build, deploy, and validate a usage-based (pay-as-you-go) SaaS metering integration from w",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/marketplace-ai-agent-metering/"
         }
       ],
       "impact": 5,
