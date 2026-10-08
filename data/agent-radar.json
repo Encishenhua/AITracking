@@ -19,6 +19,150 @@
       "tags": []
     },
     {
+      "id": "2026-10-07-aws-aws-config-now-supports-77-new-resource-types",
+      "date": "2026-10-07",
+      "name": "AWS Config now supports 77 new resource types",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Config now supports 77 additional AWS resource types across key services including Amazon EC2, Amazon S3 Files, and Amazon Q Business. This expansion provides greater coverage over your AWS environment, enabling y",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-config-new-resource-types"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-07-aws-claude-haiku-5-5-is-now-available-on-aws",
+      "date": "2026-10-07",
+      "name": "Claude Haiku 5.5 is now available on AWS",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS now offers Claude Haiku 5.5, the fastest and most efficient model in the Claude 5.5 family, built for subagents and high-volume, cost-sensitive work. According to Anthropic, it costs around 75% less than Claude Ha",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/claude-haiku-5-5-aws/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-07-aws-claude-haiku-5-5-is-now-available-on-aws-govcloud-",
+      "date": "2026-10-07",
+      "name": "Claude Haiku 5.5 is now available on AWS GovCloud (US)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS GovCloud (US) now offers Claude Haiku 5.5, the fastest and most efficient model in the Claude 5.5 family, built for subagents and high-volume, cost-sensitive work. According to Anthropic, it costs around 75% less ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/claude-haiku-5-5-aws-govcloud/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-07-dust-spa-poke-32a23f5",
+      "date": "2026-10-07",
+      "name": "spa/poke/32a23f5",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] perf: remove unused skill list from agent capabilities (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/34371\">#34371</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F32a23f5"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-07-dust-spa-poke-22c1e14-front-feat-plan-condition-on-glob",
+      "date": "2026-10-07",
+      "name": "spa/poke/22c1e14: [front] feat: plan condition on global feature flags (#34384)",
+      "vendor": "Dust",
+      "type": "pricing",
+      "summary": "<h2>Description</h2>\n<p>Global feature flags get an optional <code>condition</code>: a code-defined<br />\ncondition a workspace must meet before the rollout percentage applies.<br />\nThis lets us roll a flag out to e.g. ",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F22c1e14"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-07-dust-spa-poke-9ee24d5-google-drive-resume-moved-folder-",
+      "date": "2026-10-07",
+      "name": "spa/poke/9ee24d5: [Google Drive] Resume moved folder parent updates on retry (#34494)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<h2>Description</h2>\n<p>Related to <a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/34433\">#34433</a></p>\n<p>When a Google Drive folder moves, <code>incrementalSync</code> must update the da",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9ee24d5"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-07-dust-spa-poke-4fd8614-sparkle-lingui-setup-34361",
+      "date": "2026-10-07",
+      "name": "spa/poke/4fd8614: [sparkle] lingui setup  (#34361)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<h2>Description</h2>\n<p>This PR is to add lingui in Sparkle. It has its own catalog and locale<br />\nwill be passed from the consumer. Passing the locale from front will be<br />\ndone in another PR. Also skills and contr",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F4fd8614"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-07-crewai-1-15-24",
+      "date": "2026-10-07",
+      "name": "1.15.24",
+      "vendor": "CrewAI",
+      "type": "launch",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add crewai eval to print a markdown brief when run by an agent</li>\n<li>Queue relevant background replies</li>\n<li>Add experimental turn and reply identities</li>\n<li>Ad",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.24"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-10-06-openai-advancing-computer-use-with-ironclad",
       "date": "2026-10-06",
       "name": "Advancing computer use with Ironclad",
@@ -929,150 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-iam-identity-center-extends-multi-region-support-to-more-aws-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-01-dust-spa-poke-800416b",
-      "date": "2026-10-01",
-      "name": "spa/poke/800416b",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] Agent loop loads its pinned configuration through AgentResour…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F800416b"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-01-dust-spa-poke-28186cf",
-      "date": "2026-10-01",
-      "name": "spa/poke/28186cf",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>Ungate Pod egress/env-var admin and request_egress_domain from the Fr…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F28186cf"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-01-dust-spa-poke-8180e28",
-      "date": "2026-10-01",
-      "name": "spa/poke/8180e28",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] enh: add Poke agent and skill search endpoints (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/33798\">#33798</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8180e28"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-01-dust-spa-poke-95f3c0e",
-      "date": "2026-10-01",
-      "name": "spa/poke/95f3c0e",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] Mention helpers take the AgentResource (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/33725\">#33725</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F95f3c0e"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-01-dust-spa-poke-70ccbf8",
-      "date": "2026-10-01",
-      "name": "spa/poke/70ccbf8",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] feat: add disable_frames_v2 flag to opt a workspace out of Fr…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F70ccbf8"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-01-dust-spa-poke-42b7623",
-      "date": "2026-10-01",
-      "name": "spa/poke/42b7623",
-      "vendor": "Dust",
-      "type": "deprecation",
-      "summary": "<p>Conversational building: deprecate the old 'Author Skills' (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/33723\">#33723</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F42b7623"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-01-aws-amazon-q-developer-now-delivers-enhanced-visualiza",
-      "date": "2026-10-01",
-      "name": "Amazon Q Developer now delivers enhanced visualizations in the AWS Management Console",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces enhanced visualization for Amazon Q Developer in the AWS Management Console. Amazon Q now reasons across hundreds of AWS APIs to answer complex questions and deliver complete answers about your en",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-q-developer-enhanced-visualizations-aws-management-console"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-01-aws-amazon-eks-auto-mode-now-supports-advanced-compute",
-      "date": "2026-10-01",
-      "name": "Amazon EKS Auto Mode now supports advanced compute configuration",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Elastic Kubernetes Service (EKS) Auto Mode now lets you tune kubelet settings, Linux kernel sysctls, and hugepages directly in the NodeClass Kubernetes resource. You can now run workloads that require specific ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/eks-auto-mode-advanced-compute-config/"
         }
       ],
       "impact": 5,
