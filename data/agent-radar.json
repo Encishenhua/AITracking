@@ -1,6 +1,204 @@
 {
   "items": [
     {
+      "id": "2026-10-08-openai-legalon-halves-codex-costs-while-maintaining-devel",
+      "date": "2026-10-08",
+      "name": "LegalOn halves Codex costs while maintaining development speed",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/legalon-halves-codex-costs"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-08-aws-openai-gpt-6-1-sol-now-supports-ultrafast-mode-on-",
+      "date": "2026-10-08",
+      "name": "OpenAI GPT-6.1 Sol now supports Ultrafast mode on Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS announces the availability of Ultrafast mode for GPT-6.1 Sol from OpenAI on Amazon Bedrock.&nbsp;Ultrafast mode provides faster inference for workloads where speed matters most. The Amazon Bedrock inference",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-sol-ultrafast-amazon/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-08-aws-aws-cost-explorer-budgets-and-dashboards-now-suppo",
+      "date": "2026-10-08",
+      "name": "AWS Cost Explorer, Budgets, and Dashboards now support Amazon Bedrock product attributes",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Cost Explorer, AWS Budgets, and AWS Cost Management Dashboards now let you analyze Amazon Bedrock costs by product attributes, a new dimension that breaks down Bedrock cost by model, model provider, inference type",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-bedrock-attributes-in-cost-explorer/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-08-aws-amazon-rds-for-oracle-now-supports-minor-version-u",
+      "date": "2026-10-08",
+      "name": "Amazon RDS for Oracle now supports minor version upgrade prechecks and a new RDS event to help reduce patching downtime",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/oracle/\">Amazon Relational Database Service (Amazon RDS) for Oracle</a> now lets you run a minor version upgrade precheck yourself, before you start an upgrade or before your schedu",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-minor-version-upgrade-precheck-new-patching-rds-event/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-08-aws-amazon-gamelift-servers-adds-cpu-burstability-for-",
+      "date": "2026-10-08",
+      "name": "Amazon GameLift Servers adds CPU burstability for container fleets",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon GameLift Servers now supports CPU burstability for container fleets, giving game developers greater flexibility in how compute resources are allocated and consumed at runtime. Previously, container fleets relie",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-gamelift-servers-cpu-burstability"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-08-dust-spa-poke-1200760",
+      "date": "2026-10-08",
+      "name": "spa/poke/1200760",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] enh: infinite scroll in the agent picker (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/34627\">#34627</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F1200760"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-08-dust-spa-poke-47d86a2-files-stop-spreadsheet-conversion",
+      "date": "2026-10-08",
+      "name": "spa/poke/47d86a2: [Files] Stop spreadsheet conversion beyond 50 MB of CSV (#34671)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<h2>Description</h2>\n<p>When a user uploads an <code>.xlsx</code>/<code>.xls</code> file (table import, project files,<br />\nconversation files without sandbox tools), front-api sends it to Tika<br />\nand converts Tika's",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F47d86a2"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-08-dust-spa-poke-4c10533-x-henry-dfs-bench-jd-corpus-netwo",
+      "date": "2026-10-08",
+      "name": "spa/poke/4c10533: [x/henry] dfs-bench: jd corpus, network floor and FDB sampling (#34662)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<h2>Description</h2>\n<p>Makes the <code>basic</code> round comparable with the numbers in<br />\n<code>x/henry/dfs/DESIGN.md</code> and splits network cost from server cost.</p>\n<ul>\n<li>Untar uses jd's corpus (10k files ",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F4c10533"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-08-dust-spa-poke-f9ffec1-localization-sparkle-translation-",
+      "date": "2026-10-08",
+      "name": "spa/poke/f9ffec1: [localization] sparkle translation (#34515)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<h2>Description</h2>\n<p>This PR is to translate sparkle components &amp; add skills and contract.<br />\nAll of them are small so I added everything (at least everything agent<br />\ncould find) except Documents components",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Ff9ffec1"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-08-dust-spa-poke-f5d8ec6",
+      "date": "2026-10-08",
+      "name": "spa/poke/f5d8ec6",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front-api] Public agent search returns global agents and hides unrea…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Ff5d8ec6"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-08-dust-spa-poke-f4cbaca",
+      "date": "2026-10-08",
+      "name": "spa/poke/f4cbaca",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] enh: remove exhaustive agent listing in Discover Favorites (#…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Ff4cbaca"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-10-07-openai-workspace-agents-degraded-and-responses-impacted",
       "date": "2026-10-07",
       "name": "Workspace Agents Degraded and Responses Impacted",
@@ -160,6 +358,24 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-10-07-aws-amazon-ec2-c8gb-instances-now-generally-available-",
+      "date": "2026-10-07",
+      "name": "Amazon EC2 C8gb instances now generally available in additional regions",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p style=\"text-align: left;\">Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8gb instances, powered by the latest-generation AWS Graviton4 processors, are available in the US East (Ohio), US West (N. Californi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ec2-c8gb/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
       "tags": []
     },
     {
@@ -857,222 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-valkey-opentelemetry-metrics-detailed-monitoring"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-02-dust-spa-poke-903c99f-front-api-prevent-workos-organiza",
-      "date": "2026-10-02",
-      "name": "spa/poke/903c99f: [front-api] Prevent WorkOS organization rebinding (#33900)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<ul>\n<li>security(front-api): prevent WorkOS organization rebinding</li>\n</ul>\n<p>Remove the tenant-controlled organization binding so workspace admins cannot target another workspace's SSO and SCIM configuration.</p>\n<p",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F903c99f"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-02-dust-spa-poke-58b4343-front-add-skillresource-batchdele",
-      "date": "2026-10-02",
-      "name": "spa/poke/58b4343: [front] Add SkillResource.batchDelete (#33757)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>Delete a batch of skills with one query per related table instead of one set of<br />\nqueries per skill. SkillResource.delete now delegates to it. Pending skills are<br />\nnever indexed, so their deletion launches no ",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F58b4343"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-02-dust-spa-poke-49bc280",
-      "date": "2026-10-02",
-      "name": "spa/poke/49bc280",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[AGENT BUILDER] Prevent dropping existing editors when adding one on …</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F49bc280"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-01-aws-aws-well-architected-agent-is-now-available-in-pre",
-      "date": "2026-10-01",
-      "name": "AWS Well-Architected Agent is now available in preview",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS announces the preview of AWS Well-Architected Agent, a AI-powered service that is the next-gen evolution of AWS Trusted Advisor and the AWS Well-Architected Tool. The agent analyzes and optimizes AWS infrastructur",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-well-architected-agent/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-01-aws-amazon-dynamodb-accelerator-dax-is-now-available-i",
-      "date": "2026-10-01",
-      "name": "Amazon DynamoDB Accelerator (DAX) is now available in additional Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the availability of Amazon DynamoDB Accelerator (DAX) in 17 additional AWS Regions: Asia Pacific (Hong Kong), Asia Pacific (Hyderabad), Asia Pacific (Jakarta), Asia Pacific (Malaysia), Asia Pacifi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-dynamodb-accelerator/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-01-aws-amazon-guardduty-now-supports-centralized-manageme",
-      "date": "2026-10-01",
-      "name": "Amazon GuardDuty now supports centralized management using AWS Organizations declarative policies",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon GuardDuty now supports AWS Organizations declarative policies, enabling you to centrally enable GuardDuty threat detection across every account and Region in your AWS organization. Using an organization policy,",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-org-enablement-policies/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-01-aws-amazon-s3-object-lock-variable-retention-with-even",
-      "date": "2026-10-01",
-      "name": "Amazon S3 Object Lock variable retention with event holds is now available in AWS GovCloud (US) Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon S3 Object Lock support for variable retention with event holds is now available in AWS GovCloud (US-East) and AWS GovCloud (US-West).</p>\n<p>Amazon S3 Object Lock variable retention allows you to apply write-on",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/s3-object-lock-variable-retention-event-holds-aws-govcloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-01-aws-aws-security-hub-introduces-remediation-plans-to-p",
-      "date": "2026-10-01",
-      "name": "AWS Security Hub introduces remediation plans to prioritize and fix security exposures",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Security Hub now offers remediation plans that group related exposure findings sharing a root cause. Instead of addressing each exposure individually, you can now fix a single underlying resource, such as a miscon",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-security-hub-remediation-plans/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-01-aws-aws-transfer-family-now-supports-custom-cloudwatch",
-      "date": "2026-10-01",
-      "name": "AWS Transfer Family now supports custom CloudWatch log groups for managed workflows",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Transfer Family now lets you choose a custom log group in Amazon CloudWatch Logs for managed workflow execution logs. You can organize workflow logs to monitor individual workflows separately or bring logs from re",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/transfer-family-custom-cloudwatch-log-groups/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-01-aws-serverless-storage-on-amazon-emr-serverless-now-su",
-      "date": "2026-10-01",
-      "name": "Serverless Storage on Amazon EMR Serverless now supports terabyte-scale shuffle",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon EMR Serverless now offers enhanced serverless storage capabilities with support for up to 1TB shuffle operations, raising the previous 200 GB per-job limit. Amazon EMR Serverless makes it simple for data engine",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/emr-serverless-terabyte-scale-shuffle/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-01-aws-announcing-dns-analytics-and-insights-for-route-53",
-      "date": "2026-10-01",
-      "name": "Announcing DNS analytics and insights for Route 53 Global Resolver and DNS Firewall",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Route 53 Global Resolver and DNS Firewall now provide DNS analytics and insights through native Amazon CloudWatch integration. These new capabilities enable network administrators and security teams to gain full obser",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/route-53-dns-analytics-insights/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-01-aws-aws-iam-identity-center-extends-multi-region-suppo",
-      "date": "2026-10-01",
-      "name": "AWS IAM Identity Center extends multi-Region support to more AWS Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>IAM Identity Center helps you connect your workforce identities to AWS once and streamline access management to AWS accounts and applications. You can now replicate IAM Identity Center to opt-in AWS Regions, and betwe",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-iam-identity-center-extends-multi-region-support-to-more-aws-regions"
         }
       ],
       "impact": 5,
