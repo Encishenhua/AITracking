@@ -1,6 +1,258 @@
 {
   "items": [
     {
+      "id": "2026-10-09-openai-sophos-cuts-threat-investigation-time-by-96-with-o",
+      "date": "2026-10-09",
+      "name": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/sophos"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-09-openai-asana-cuts-model-costs-76x-in-browser-tests-with-g",
+      "date": "2026-10-09",
+      "name": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/asana-browser-agent"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-09-openai-delayed-costs-data-in-the-compliance-api",
+      "date": "2026-10-09",
+      "name": "Delayed Costs data in the Compliance API",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Monitoring</b><br /><br />We have implemented a mitigation, and delayed Costs data is now processing through the Compliance API. Some customers may continue to see incomplete Costs data while the backlog catch",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M4GV1M2A3K38T73JCVCD9G0R"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-09-aws-amazon-ec2-r8g-instances-now-available-in-addition",
+      "date": "2026-10-09",
+      "name": "Amazon EC2 R8g instances now available in additional regions",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) R8g instances are available in the AWS European Sovereign Cloud (Germany) region. These instances are powered by AWS Graviton4 processors and deliver up to 30%",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ec2-r8g-instances-thf/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-09-aws-amazon-bedrock-now-supports-reasoning-summaries-fo",
+      "date": "2026-10-09",
+      "name": "Amazon Bedrock now supports reasoning summaries for OpenAI models",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Bedrock now supports the reasoning.summary parameter for OpenAI models through the Responses API. This capability lets you request a human-readable summary of a model’s reasoning alongside its response, helping",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-reasoning-summaries-openai/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-09-aws-anthropic-claude-sonnet-5-5-and-claude-opus-5-5-ar",
+      "date": "2026-10-09",
+      "name": "Anthropic Claude Sonnet 5.5 and Claude Opus 5.5 are now available on Kiro in AWS GovCloud (US)",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Two new Anthropic models are now available in the Kiro IDE and CLI for the AWS GovCloud (US) Regions.</p>\n<p>Claude Opus 5.5 is Anthropic's most capable Opus model yet and a step up from Opus 5 on long-running agentic",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/kiro-claude-5-5-aws-govcloud-us/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-09-aws-amazon-connect-customer-now-provides-automated-che",
+      "date": "2026-10-09",
+      "name": "Amazon Connect Customer now provides automated checks to improve performance evaluation forms",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Connect Customer now suggests changes to performance evaluation forms that improve the accuracy of evaluations automatically filled by AI. While setting up an evaluation form, managers can run an automated chec",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-customer-automated-checks-evaluation-forms/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-09-aws-amazon-s3-vectors-metadata-pre-filtering-is-now-av",
+      "date": "2026-10-09",
+      "name": "Amazon S3 Vectors metadata pre-filtering is now available in AWS GovCloud (US) Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon S3 Vectors metadata pre-filtering is now available in the AWS GovCloud (US-East) and AWS GovCloud (US-West) Regions. Pre-filtering evaluates metadata filters before running similarity search, returning up to 5x",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/s3-vectors-metadata-pre-filtering-in-govcloud-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-09-aws-aws-lambda-supports-oauth-authentication-for-self-",
+      "date": "2026-10-09",
+      "name": "AWS Lambda supports OAuth authentication for self-managed Apache Kafka event sources",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Lambda now supports OAuth authentication for <a href=\"https://docs.aws.amazon.com/lambda/latest/dg/with-kafka.html\">self-managed Apache Kafka event source mappings</a> (ESM), including&nbsp;Kafka clusters that cus",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-Lambda-supports-oauth-kafka-esm/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-09-aws-amazon-quick-now-supports-brand-templates-for-on-b",
+      "date": "2026-10-09",
+      "name": "Amazon Quick now supports brand templates for on-brand presentations and documents",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, you can upload brand templates in Amazon Quick, allowing you to create presentations and documents that match your approved visual identity. Brand managers set up a template once and everyone gets on-b",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-quick-brand-templates-on-brand-presentations-documents/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-09-aws-amazon-sagemaker-unified-studio-now-supports-custo",
+      "date": "2026-10-09",
+      "name": "Amazon SageMaker Unified Studio now supports custom Tooling blueprints",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker Unified Studio now supports custom Tooling blueprints, giving domain administrators the ability to define the foundation of every project by using their own AWS CloudFormation templates. Administrator",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-custom-tooling-blueprints/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-09-aws-twelvelabs-pegasus-1-5-model-now-available-on-amaz",
+      "date": "2026-10-09",
+      "name": "TwelveLabs Pegasus 1.5 model now available on Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Bedrock now supports TwelveLabs Pegasus 1.5, a video-to-text model that generates structured, time-coded metadata from video. Until now, finding a moment in a large video library meant knowing where to look bef",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/twelve-labs-pegasus-1-5-aws/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-09-dust-spa-poke-6508df8-front-i18n-translate-notification",
+      "date": "2026-10-09",
+      "name": "spa/poke/6508df8: [front] i18n: translate notifications and errors in lib/swr (#34679)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<h2>Description</h2>\n<p>None of the <code>front/lib/swr</code> files used Lingui, so most create, update<br />\nand delete actions showed English toasts to fr-FR users. Error toasts<br />\nhad an English title above a Fren",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6508df8"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-09-dust-spa-poke-f787633-show-usage-reached-message-in-all",
+      "date": "2026-10-09",
+      "name": "spa/poke/f787633: Show usage reached message in all appropriate cases. (#34754)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<h2>Description</h2>\n<p><code>InputBarUsageBanner</code> now shows distinct messages for exhausted<br />\nworkspace credits and group shared-usage limits, in addition to existing<br />\nseat, user-cap, and near-limit state",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Ff787633"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-10-08-openai-legalon-halves-codex-costs-while-maintaining-devel",
       "date": "2026-10-08",
       "name": "LegalOn halves Codex costs while maintaining development speed",
@@ -194,6 +446,24 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-08-aws-amazon-guardduty-rds-protection-now-detects-data-e",
+      "date": "2026-10-08",
+      "name": "Amazon GuardDuty RDS Protection now detects data exfiltration and destruction in Aurora and RDS databases",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon GuardDuty announces an expansion of RDS Protection that extends threat detection beyond login anomalies to identify data exfiltration and data destruction attacks targeting Amazon Aurora PostgreSQL and Amazon R",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-rds-data-exfiltration/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -806,276 +1076,6 @@
         }
       ],
       "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-05-dust-spa-poke-5397ccf",
-      "date": "2026-10-05",
-      "name": "spa/poke/5397ccf",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[MCP] Use a regional CIMD so EU remote MCP OAuth passes same-origin c…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5397ccf"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-05-dust-spa-poke-1435f6f",
-      "date": "2026-10-05",
-      "name": "spa/poke/1435f6f",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] fix: add back default-agent enable/disable toggle (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/33970\">#33970</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F1435f6f"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-05-dust-spa-poke-f24a5c8-observe-v2-show-non-member-badges",
-      "date": "2026-10-05",
-      "name": "spa/poke/f24a5c8: [Observe v2] Show non-member badges in manager search results (#34113)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>[Observe v2] Show group members before group managers</p>\n</li>\n<li>\n<p>[Observe v2] Show all workspace members to group managers</p>\n</li>\n<li>\n<p>[Observe v2] Clarify People and Usage visibility in QA note",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Ff24a5c8"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-05-aws-amazon-ec2-hpc8a-instances-are-now-available-in-as",
-      "date": "2026-10-05",
-      "name": "Amazon EC2 Hpc8a instances are now available in Asia Pacific (Singapore)",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon EC2 Hpc8a instances are available in&nbsp;Asia Pacific (Singapore) region. These instances are powered by 5th Gen AMD EPYC processors (formerly code named Turin). With a maximum frequency of 4.5",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ec2-hpc8a-asia-pacific/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-05-aws-amazon-ec2-introduces-shared-tags-for-amazon-machi",
-      "date": "2026-10-05",
-      "name": "Amazon EC2 introduces shared tags for Amazon Machine Images",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon EC2 now supports AMI tag sharing, a new feature that lets AMI owners make selected tags visible to all AWS accounts an AMI is shared with. Whether an AMI is shared with an account, across an organization, or ma",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-ami-shared-tags"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-04-dust-spa-poke-402191c-front-fix-reset-child-streams-and",
-      "date": "2026-10-04",
-      "name": "spa/poke/402191c: [front] fix: Reset child streams and stop on completion (#34048)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>[front] fix: Reset child streams and stop on completion</p>\n</li>\n<li>\n<p>[front] refactor: Name child stream identity conditions</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F402191c"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-04-dust-spa-app-402191c-front-fix-reset-child-streams-and-",
-      "date": "2026-10-04",
-      "name": "spa/app/402191c: [front] fix: Reset child streams and stop on completion (#34048)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>[front] fix: Reset child streams and stop on completion</p>\n</li>\n<li>\n<p>[front] refactor: Name child stream identity conditions</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F402191c"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-03-dust-spa-poke-30b26f9",
-      "date": "2026-10-03",
-      "name": "spa/poke/30b26f9",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] fix: Manage browser MCP streams with polling fallback (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/34046\">#34046</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F30b26f9"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-03-dust-spa-app-30b26f9",
-      "date": "2026-10-03",
-      "name": "spa/app/30b26f9",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] fix: Manage browser MCP streams with polling fallback (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/34046\">#34046</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F30b26f9"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-02-aws-guardduty-runtime-monitoring-is-now-included-in-th",
-      "date": "2026-10-02",
-      "name": "GuardDuty Runtime Monitoring is now included in the AWS Security Hub Threat Analytics plan",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS announces that Amazon GuardDuty Runtime Monitoring is now included in the AWS Security Hub Threat Analytics plan. Runtime Monitoring inspects operating system, network, and file activity to surface threats ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-security-hub-runtime-monitoring/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-02-aws-aws-health-introduces-the-version-catalog-for-soft",
-      "date": "2026-10-02",
-      "name": "AWS Health introduces the version catalog for software lifecycle management",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS Health introduces the version catalog which provides a centralized source of lifecycle information for software versions across AWS services. The version catalog helps customers move from reactive to proact",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-health-introduces-version-catalog-software-lifecycle-management"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-02-aws-amazon-eks-and-amazon-eks-distro-now-support-kuber",
-      "date": "2026-10-02",
-      "name": "Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.37",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Kubernetes version 1.37 introduced several new features and bug fixes, and AWS is excited to announce that you can now use <a href=\"https://aws.amazon.com/eks/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Elastic",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-distro-kubernetes-version-1-37"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-02-aws-the-aws-mcp-server-is-now-available-in-six-additio",
-      "date": "2026-10-02",
-      "name": "The AWS MCP Server is now available in six additional AWS Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>The AWS MCP Server is now available in six additional AWS Regions: Asia Pacific (Singapore), Asia Pacific (Sydney), Asia Pacific (Tokyo), Europe (Ireland), Europe (London), and US West (Oregon). The AWS MCP Server, pa",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-mcp-server-six-additional-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-02-aws-agentcore-gateway-supports-private-tls-certificate",
-      "date": "2026-10-02",
-      "name": "AgentCore Gateway supports private TLS certificates for VPC endpoints",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock AgentCore Gateway now supports TLS certificates signed by private certificate authorities (CAs) on MCP, OpenAPI, and HTTP proxy targets. This feature enables you to connect securely to gateway targets t",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-gateway-private-tls-vpc/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-02-aws-amazon-elasticache-for-valkey-now-supports-opentel",
-      "date": "2026-10-02",
-      "name": "Amazon ElastiCache for Valkey now supports OpenTelemetry metrics and detailed monitoring",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/elasticache/\">Amazon ElastiCache</a> for Valkey now publishes OpenTelemetry metrics to Amazon CloudWatch for your node-based clusters, and each metric carries attributes you can filter ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-valkey-opentelemetry-metrics-detailed-monitoring"
-        }
-      ],
-      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
