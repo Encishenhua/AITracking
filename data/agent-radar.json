@@ -1,6 +1,222 @@
 {
   "items": [
     {
+      "id": "2026-10-12-aws-amazon-ec2-g7-instances-now-available-in-europe-fr",
+      "date": "2026-10-12",
+      "name": "Amazon EC2 G7 instances now available in Europe (Frankfurt) and Europe (Stockholm) Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Elastic Compute Cloud (Amazon EC2) G7 instances powered by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs are now available in Europe (Frankfurt) and Europe (Stockholm) Regions. G7 instances deliver up to 4.",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-g7-european-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-12-aws-amazon-connect-customer-now-prefills-step-by-step-",
+      "date": "2026-10-12",
+      "name": "Amazon Connect Customer now prefills step-by-step guides for after contact work",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect Customer can now fill in the step-by-step guides that agents complete after a contact, using information extracted from customer conversations, such as booking identifiers, claim numbers, and conversati",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-prefills-guides-acw"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-12-aws-aws-lambda-announces-lambda-web-functions",
+      "date": "2026-10-12",
+      "name": "AWS Lambda announces Lambda Web Functions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Lambda announces Lambda Web Functions, a new serverless compute primitive where your code handles HTTP requests directly. Your code listens on a port and handles requests as it would on any HTTP server. You use fr",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-web-functions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-12-aws-announcing-consumption-based-pricing-for-short-ter",
+      "date": "2026-10-12",
+      "name": "Announcing consumption-based pricing for short-term memory in Amazon Bedrock AgentCore",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><b>Announcing consumption-based pricing for short-term memory in Amazon Bedrock AgentCore</b></p>\n<p>Amazon Bedrock AgentCore memory now prices short-term memory (STM) based on the data your agents ingest, retrieve, a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-memory-consumption-based-pricing"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-12-aws-amazon-s3-express-one-zone-is-now-available-in-4-a",
+      "date": "2026-10-12",
+      "name": "Amazon S3 Express One Zone is now available in 4 additional AWS Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>The Amazon S3 Express One Zone storage class is now available in 4 additional AWS Regions: Europe (London), Asia Pacific (Jakarta), Asia Pacific (Hong Kong), and Africa (Cape Town).</p>\n<p>Amazon S3 Express One Zone i",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/s3-express-one-zone-4-additional-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-12-aws-amazon-elasticache-for-valkey-introduces-elasticac",
+      "date": "2026-10-12",
+      "name": "Amazon ElastiCache for Valkey introduces ElastiCache Insights",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/elasticache/\">Amazon ElastiCache</a> for Valkey now features ElastiCache Insights, a pre-built dashboard in Amazon CloudWatch for your node-based clusters. ElastiCache Insights brings c",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-valkey-elasticache-insights/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-12-aws-amazon-emr-now-supports-native-data-quality-checks",
+      "date": "2026-10-12",
+      "name": "Amazon EMR now supports native data quality checks in Apache Spark jobs",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon EMR now validates data quality natively within Apache Spark jobs. Data engineering teams can catch quality issues inline before bad data reaches downstream systems, without building or maintaining separate vali",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-emr-data-quality-spark/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-12-aws-amazon-opensearch-service-now-supports-index-level",
+      "date": "2026-10-12",
+      "name": "Amazon OpenSearch Service now supports index-level encryption",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon OpenSearch Service now supports index-level encryption, letting you encrypt each index at rest with its own AWS Key Management Service (AWS KMS) customer managed key.&nbsp;This helps you protect data with diffe",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/opensearch-index-level-encryption"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-12-dust-spa-poke-4236f4a-front-bring-back-onboarding-conve",
+      "date": "2026-10-12",
+      "name": "spa/poke/4236f4a: [front] bring back onboarding conversation in dev console (#34898)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<h2>Description</h2>\n<p>This PR is to update the logic for testing onboarding conversation so<br />\nthat we can use it again from dev console.</p>\n\n\n<h2>Tests</h2>\n\n<h2>Risk</h2>\n\n<h2>Deploy Plan</h2>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F4236f4a"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-12-dust-spa-poke-74ae7a7-front-fix-use-tu-in-fr-skill-prom",
+      "date": "2026-10-12",
+      "name": "spa/poke/74ae7a7: [front] fix: use tu in FR skill prompt starters for agents (#34778)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<h2>Description</h2>\n<p>French skill prompt starters (prefilled composer text the user sends to<br />\nan agent) incorrectly used <em>vous</em> (<code>Utilisez</code>). They now use <em>tu</em><br />\n(<code>Utilise</code>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F74ae7a7"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-12-dust-spa-poke-1f4e622-fix-seed-stop-skillfactory-from-i",
+      "date": "2026-10-12",
+      "name": "spa/poke/1f4e622: fix(seed): stop SkillFactory from importing sparkle (#34895)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<h2>Description</h2>\n<p><code>dust-hive feed</code> crashed on every scenario: <code>SkillFactory</code> imported<br />\n<code>SKILL_ICON</code> from <code>lib/skill.ts</code>, which pulls in sparkle and its CSS,<br />\nan",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F1f4e622"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-12-dust-spa-poke-dbfe648-chore-remove-the-file-generation-",
+      "date": "2026-10-12",
+      "name": "spa/poke/dbfe648: chore: remove the file_generation MCP server (#34909)",
+      "vendor": "Dust",
+      "type": "deprecation",
+      "summary": "<h2>Description</h2>\n<p>The Computer generates and converts files itself, and <a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/31436\">#31436</a> already hid<br />\nfile_generation wherever th",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fdbfe648"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-10-10-dust-spa-poke-e82acb7-group-management-remove-the-rollo",
       "date": "2026-10-10",
       "name": "spa/poke/e82acb7: [Group Management] Remove the rollout feature flag (#34122)",
@@ -860,222 +1076,6 @@
         }
       ],
       "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-06-dust-spa-poke-9d91d60",
-      "date": "2026-10-06",
-      "name": "spa/poke/9d91d60",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[connectors] fix: allow Snowflake Cortex agent server usage grant (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/3\">#3</a>…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9d91d60"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-06-dust-spa-poke-6b46dd6-front-add-superhuman-docs-coda-re",
-      "date": "2026-10-06",
-      "name": "spa/poke/6b46dd6: [front] add Superhuman Docs (Coda) remote MCP server (#34276)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>[front] add Superhuman Docs (Coda) remote MCP server</p>\n</li>\n<li>\n<p>edited mcp name to remove coda from the title</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6b46dd6"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-06-dust-spa-poke-3bc1ec3-front-feat-add-pandadoc-remote-mc",
-      "date": "2026-10-06",
-      "name": "spa/poke/3bc1ec3: [front] feat: add PandaDoc remote MCP servers (Global and EU) (#34305)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>[front] feat: add PandaDoc remote MCP servers (Global and EU)</li>\n</ul>\n<p>Co-Authored-By: Claude Sonnet 5.5 <a href=\"mailto:noreply@anthropic.com\">noreply@anthropic.com</a></p>\n<ul>\n<li>[front] chore: order re",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F3bc1ec3"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-06-dust-spa-poke-0f1a6dd-front-feat-add-fullenrich-remote-",
-      "date": "2026-10-06",
-      "name": "spa/poke/0f1a6dd: [front] feat: add FullEnrich remote MCP server (#34093)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>[front] feat: add FullEnrich remote MCP server</p>\n</li>\n<li>\n<p>Update server ID from 10041 to 10043</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F0f1a6dd"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-05-openai-elevated-error-rates-in-codex-cloud",
-      "date": "2026-10-05",
-      "name": "Elevated error rates in Codex Cloud",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01M46KED6KQ6PR195KZYYVNY8W"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-05-openai-elevated-work-mode-errors",
-      "date": "2026-10-05",
-      "name": "Elevated Work Mode errors",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Monitoring</b><br /><br />We have mitigated the issue, and are monitoring recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Codex in ChatGPT Desktop (Degraded performance)</li>\n<li>C",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01M45E0JFFJZ6EQ3BWYPW74R2Z"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-05-aws-amazon-redshift-adds-support-for-creating-and-refr",
-      "date": "2026-10-05",
-      "name": "Amazon Redshift adds support for creating and refreshing Apache Iceberg materialized views",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Redshift now supports the creation and refresh of Apache Iceberg materialized views. Materialized views pre-compute expensive joins and aggregations once and store the results in an Apache Iceberg table in Amaz",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-iceberg-materialized-views"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-05-aws-glm-5-3-by-z-ai-is-now-generally-available-on-amaz",
-      "date": "2026-10-05",
-      "name": "GLM 5.3 by Z.ai is now generally available on Amazon Bedrock",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Bedrock now supports GLM 5.3 from Z.ai, giving you a powerful new option for agentic coding and long-horizon software engineering work. Customers using GLM 5.3 on Amazon Bedrock have access to the latest open w",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-glm-5-3/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-05-aws-aws-iam-identity-center-now-supports-network-acces",
-      "date": "2026-10-05",
-      "name": "AWS IAM Identity Center now supports network access controls for Identity Store",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS IAM Identity Center helps you configure the single sign-on experience for your workforce to AWS accounts and applications. IAM Identity Center now supports network access controls for Identity Store, which stores ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-identity-store-network-controls/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-05-aws-aws-continuum-for-penetration-testing-now-supports",
-      "date": "2026-10-05",
-      "name": "AWS Continuum for Penetration Testing now supports continuous penetration testing integrated directly into your CI/CD pipeline",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Continuum for Penetration Testing now integrates continuous penetration testing directly into your CI/CD pipeline (public preview)</p>\n<p>AWS Continuum for Penetration Testing (formerly AWS Security Agent) already",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-penetration-testing/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-05-aws-aws-advanced-ruby-driver-wrapper-is-generally-avai",
-      "date": "2026-10-05",
-      "name": "AWS Advanced Ruby Driver Wrapper is generally available",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>The Amazon Web Services (AWS) Advanced Ruby Driver Wrapper is now generally available for use with <a href=\"https://aws.amazon.com/rds/\" target=\"_blank\">Amazon RDS</a> and <a href=\"https://aws.amazon.com/rds/aurora/\" ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-ruby-driver-wrapper-available/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-05-aws-aws-private-ca-now-provides-detailed-certificate-i",
-      "date": "2026-10-05",
-      "name": "AWS Private CA now provides detailed certificate issuance logs",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Private CA announces detailed certificate issuance logs, a new AWS CloudTrail service event that records the complete certificate content, issuing CA information, requester identity, and signing status for every i",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-private-ca-certificate-issuance-logs/"
-        }
-      ],
-      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
