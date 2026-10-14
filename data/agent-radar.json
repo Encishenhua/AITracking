@@ -1,6 +1,240 @@
 {
   "items": [
     {
+      "id": "2026-10-13-aws-amazon-ecs-adds-livetaskcount-and-removes-the-char",
+      "date": "2026-10-13",
+      "name": "Amazon ECS adds LiveTaskCount and removes the charge for RunningTaskCount metric",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, Amazon Elastic Container Service (Amazon ECS) announces LiveTaskCount, a new ECS service metric that reports how many tasks are actively running in your service, available to all customers at no additional char",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/ecs-service-metrics/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-13-aws-aws-agent-registry-now-supports-custom-metadata-fo",
+      "date": "2026-10-13",
+      "name": "AWS Agent Registry now supports custom metadata for registry records",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Agent Registry is the centralized, governed catalog for agents, MCP servers, agent skills, gateways, and custom resources within your organization. As organizations scale to hundreds of such resources, a name and ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-agent-registry-custom-metadata-registry-records"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-13-aws-amazon-dcv-releases-version-2026-0-with-rhel-10-su",
+      "date": "2026-10-13",
+      "name": "Amazon DCV releases version 2026.0 with RHEL 10 support and new clients",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon DCV 2026.0 is now available, adding support for RHEL 10, Rocky Linux 10, CentOS 10, and Ubuntu 26.04 along with a new macOS client and updated Windows and Linux clients. Amazon DCV is a high-performance remote ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-dcv-2026-0/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-13-aws-aws-deadline-cloud-now-helps-users-find-their-acce",
+      "date": "2026-10-13",
+      "name": "AWS Deadline Cloud now helps users find their accessible resources in the Deadline Cloud monitor",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Deadline Cloud now lets users who have access to specific queues, fleets, or jobs, rather than an entire farm, find the resources they can reach directly from the Deadline Cloud monitor. Deadline Cloud is a fully ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/deadline-cloud/resources"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-13-aws-amazon-location-service-launches-an-interactive-ap",
+      "date": "2026-10-13",
+      "name": "Amazon Location Service launches an interactive API Playground featuring Places, Routes and Maps APIs",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Location Service now offers a complete, interactive API Playground that lets developers explore and test every Places, Routes, and Maps API visually without writing code. With this release, all 14 Amazon Locati",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-location-service-api-playground"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-13-aws-bring-deep-sagemaker-ai-expertise-to-your-coding-a",
+      "date": "2026-10-13",
+      "name": "Bring deep SageMaker AI expertise to your coding agent with the AWS AI/ML skill in the Agent Toolkit for AWS",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Your coding agent can select, train, optimize and deploy models on Amazon SageMaker AI while working across the rest of your AWS environment in a single natural-language workflow. The AWS AI/ML skill is now a core ski",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/bring-sagemaker-ai-expertise-to-your-coding-agent/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-13-aws-aws-datasync-enhanced-mode-now-supports-fsx-for-op",
+      "date": "2026-10-13",
+      "name": "AWS DataSync Enhanced mode now supports FSx for OpenZFS, NFS 4.2, and object metadata controls",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS DataSync Enhanced mode now supports Amazon FSx for OpenZFS as a source or destination location, NFS version 4.2 for on-premises NFS servers and FSx for OpenZFS file systems, and a new ObjectMetadata option for obj",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/datasync-enhanced-openzfs-nfs42-metadata/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-13-aws-amazon-route-53-now-supports-registrations-transfe",
+      "date": "2026-10-13",
+      "name": "Amazon Route 53 now supports registrations, transfers, and renewals for Premium Domains",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Route 53 Domains now supports Premium Domain Names. Customers can now search for, register, transfer, renew, and restore registry premium names directly through Route 53.</p>\n<p>Most domain registries set aside",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/route-53-premium-domains/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-13-dust-spa-poke-7616722",
+      "date": "2026-10-13",
+      "name": "spa/poke/7616722",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>Agent YAML export: export stored knowledge ids instead of resolving t…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F7616722"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-13-dust-spa-poke-8927ab1-front-feat-add-bright-data-remote",
+      "date": "2026-10-13",
+      "name": "spa/poke/8927ab1: [front] feat: add Bright Data remote MCP server (#35063)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<h2>Description</h2>\n<p>Adds Bright Data as a new default remote MCP server (id: 10054),<br />\nconnecting via OAuth with dynamic client registration. The server<br />\nenables web search, single and batch webpage scraping",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8927ab1"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-13-dust-spa-poke-08096ae",
+      "date": "2026-10-13",
+      "name": "spa/poke/08096ae",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] enh: connect Figma MCP through dynamic client registration (#…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F08096ae"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-13-dust-spa-poke-3375a72-front-chore-update-the-user-memor",
+      "date": "2026-10-13",
+      "name": "spa/poke/3375a72: [front] chore: update the user memory skill description (#35014)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<h2>Description</h2>\n<p>The description of the user memory skill still mentioned that the skill<br />\nwould be used to read it, which is not true anymore; the memory is<br />\nloaded in a message at the start of the conve",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F3375a72"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-13-dust-spa-poke-69a4d0d-llm-add-gemini-4-argon-35117",
+      "date": "2026-10-13",
+      "name": "spa/poke/69a4d0d: [LLM] Add Gemini 4 Argon (#35117)",
+      "vendor": "Dust",
+      "type": "pricing",
+      "summary": "<h2>Description</h2>\n<p>Add Gemini 4 Argon (<code>gemini-4-argon</code>) on global and EU Agent Platform<br />\nand on Google AI Studio, show it in the model picker, and stop marking<br />\nGemini 3.1 Pro as Google's lates",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F69a4d0d"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-10-12-aws-amazon-ec2-g7-instances-now-available-in-europe-fr",
       "date": "2026-10-12",
       "name": "Amazon EC2 G7 instances now available in Europe (Frankfurt) and Europe (Stockholm) Regions",
@@ -839,240 +1073,6 @@
         {
           "title": "Dust source",
           "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9ee24d5"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-07-dust-spa-poke-4fd8614-sparkle-lingui-setup-34361",
-      "date": "2026-10-07",
-      "name": "spa/poke/4fd8614: [sparkle] lingui setup  (#34361)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<h2>Description</h2>\n<p>This PR is to add lingui in Sparkle. It has its own catalog and locale<br />\nwill be passed from the consumer. Passing the locale from front will be<br />\ndone in another PR. Also skills and contr",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F4fd8614"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-07-crewai-1-15-24",
-      "date": "2026-10-07",
-      "name": "1.15.24",
-      "vendor": "CrewAI",
-      "type": "launch",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add crewai eval to print a markdown brief when run by an agent</li>\n<li>Queue relevant background replies</li>\n<li>Add experimental turn and reply identities</li>\n<li>Ad",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.24"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-10-07-aws-amazon-ec2-c8gb-instances-now-generally-available-",
-      "date": "2026-10-07",
-      "name": "Amazon EC2 C8gb instances now generally available in additional regions",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p style=\"text-align: left;\">Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8gb instances, powered by the latest-generation AWS Graviton4 processors, are available in the US East (Ohio), US West (N. Californi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ec2-c8gb/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-06-openai-advancing-computer-use-with-ironclad",
-      "date": "2026-10-06",
-      "name": "Advancing computer use with Ironclad",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/advancing-computer-use-with-ironclad"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-06-openai-computer-use-is-experiencing-issues",
-      "date": "2026-10-06",
-      "name": "Computer Use Is Experiencing Issues",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Agents (Operational)</li>\n          </ul>",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01M493CZ0CB14KPC0EER83MNVB"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-06-openai-errors-processing-large-pdfs-in-the-responses-api",
-      "date": "2026-10-06",
-      "name": "Errors processing large PDFs in the Responses API",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Responses (Operational)</li>\n          </ul>",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01M48Y8E81QAFF9XKVGE118E6X"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-06-openai-elevated-errors-across-chatgpt-codex-and-the-api-i",
-      "date": "2026-10-06",
-      "name": "Elevated errors across ChatGPT, Codex, and the API including the Agents API",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Embeddings (Operational)</li>\n<li>Image Generation (Operational)</li>\n",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01M3Q4RK1SM4EMK445GGPG7C0N"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-06-aws-aws-batch-now-publishes-job-metrics-to-amazon-clou",
-      "date": "2026-10-06",
-      "name": "AWS Batch now publishes job metrics to Amazon CloudWatch",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS Batch now publishes job metrics to Amazon CloudWatch, providing native observability for batch workloads. AWS Batch emits metrics throughout the job lifecycle, giving you visibility into job queue health, failure ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-batch-job-cloudwatch-metrics/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-06-aws-aws-certificate-manager-now-supports-acme-issuance",
-      "date": "2026-10-06",
-      "name": "AWS Certificate Manager now supports ACME issuance through AWS PrivateLink",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Certificate Manager (ACM) now supports AWS PrivateLink for ACME public certificate issuance, allowing you to request and renew public TLS certificates over a private network path that stays within the AWS network.",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/AWS-Certificate-Manager-ACME-Privatelink"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-06-dust-spa-poke-2796737",
-      "date": "2026-10-06",
-      "name": "spa/poke/2796737",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Security: prevent path injection with notion workspace id (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/34279\">#34279</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2796737"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-06-dust-spa-poke-470719c-front-feat-peek-agents-and-skills",
-      "date": "2026-10-06",
-      "name": "spa/poke/470719c: [front] feat: peek agents and skills out of the Discover button (#34255)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>feat(front): tease agents and skills from the Discover button</li>\n</ul>\n<p>Favorite agents hide behind the Discover button and peek out in a wave on<br />\nhover, sweep once on load, and pop out one by one while",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F470719c"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-06-dust-spa-poke-5139ea7",
-      "date": "2026-10-06",
-      "name": "spa/poke/5139ea7",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] fix: Snowflake admin connect fails before a workspace connect…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5139ea7"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-06-dust-spa-poke-87ec18f-feat-add-paddle-remote-mcp-integr",
-      "date": "2026-10-06",
-      "name": "spa/poke/87ec18f: feat: add Paddle remote MCP integration (#34229)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<ul>\n<li>\n<p>feat: add Paddle remote MCP integration</p>\n</li>\n<li>\n<p>fix: use Paddle square mark instead of wordmark for platform logo</p>\n</li>\n<li>\n<p>Update server ID for Paddle integration</p>\n</li>\n</ul>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F87ec18f"
         }
       ],
       "impact": 3,
