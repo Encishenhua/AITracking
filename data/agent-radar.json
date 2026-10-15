@@ -1,6 +1,366 @@
 {
   "items": [
     {
+      "id": "2026-10-14-openai-amp-puts-ai-agents-to-work-beyond-code-with-openai",
+      "date": "2026-10-14",
+      "name": "Amp puts AI agents to work beyond code with OpenAI models",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/amp-beyond-coding"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-14-openai-sentinelone-cuts-malware-analysis-from-weeks-to-ho",
+      "date": "2026-10-14",
+      "name": "SentinelOne cuts malware analysis from weeks to hours",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/sentinelone"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-14-openai-how-third-moment-research-runs-10-000-agents-for-3",
+      "date": "2026-10-14",
+      "name": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/third-moment-research"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-14-openai-how-block-is-building-ai-powered-security-with-ope",
+      "date": "2026-10-14",
+      "name": "How Block is building AI-powered security with OpenAI technology",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/block-ai-powered-security"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-14-openai-the-eu-s-next-chapter-in-ai-is-agentic",
+      "date": "2026-10-14",
+      "name": "The EU’s next chapter in AI is agentic",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-14-openai-delayed-costs-data-in-the-compliance-api",
+      "date": "2026-10-14",
+      "name": "Delayed Costs data in the Compliance API",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Identified</b><br /><br />We have identified an issue causing delays in publishing organization cost data through the Costs API. A fix is in progress and currently undergoing testing. API and ChatGPT usage are",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M4XNQX7C6RCBNGX9H711WFSG"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-14-aws-amazon-cloudwatch-announces-log-routing-and-chaine",
+      "date": "2026-10-14",
+      "name": "Amazon CloudWatch announces log routing and chained log parsers",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon CloudWatch now supports conditional log routing and chained parsers via pipelines, giving you more control over how log data is transformed and which CloudWatch log group it's sent to. CloudWatch pipelines is a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/cloudwatch-pipelines-log-routing/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-14-aws-amazon-sagemaker-studio-simplifies-getting-started",
+      "date": "2026-10-14",
+      "name": "Amazon SageMaker Studio simplifies getting started for new AI/ML builders with social sign-in",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker Studio now lets new customers sign up with their Google, GitHub, or Apple credentials and land inside a fully configured Studio environment - no traditional AWS account setup, no credit card, and no c",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-studio-social-sign-in/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-14-aws-aws-license-manager-now-supports-license-type-conv",
+      "date": "2026-10-14",
+      "name": "AWS License Manager now supports license type conversions for Ubuntu Pro purchased through AWS Marketplace",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/license-manager/\">AWS License Manager&nbsp;</a> now supports in-place upgrades for EC2 Ubuntu LTS (Long Term Support) instances to Ubuntu Pro available on AWS Marketplace. This allows c",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-license-manager-conversions-ubuntu-pro-marketplace/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-14-aws-aws-healthomics-introduces-resource-fallback-order",
+      "date": "2026-10-14",
+      "name": "AWS HealthOmics introduces resource fallback order for Nextflow workflows",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS HealthOmics introduces the resource fallback directive for tasks in your Nextflow workflows, enabling you to define an ordered list of preferred accelerator types, including an option to fallback to CPU ins",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-healthomics-resource-fallback-for-Nextflow/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-14-aws-aws-backup-now-supports-amazon-fsx-file-systems-in",
+      "date": "2026-10-14",
+      "name": "AWS Backup now supports Amazon FSx file systems in the Asia Pacific (New Zealand) Region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Backup now supports Amazon FSx for Lustre, Amazon FSx for NetApp ONTAP, Amazon FSx for OpenZFS, and Amazon FSx for Windows File Server in the Asia Pacific (New Zealand) Region.</p>\n<p>With this launch, you can use",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-backup-fsx-asia-pacific-new-zealand/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-14-aws-announcing-blockchain-snapshots-on-aws-for-node-bo",
+      "date": "2026-10-14",
+      "name": "Announcing Blockchain Snapshots on AWS for node bootstrapping",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>For blockchain node operators running Ethereum or Solana, AWS is announcing Blockchain Snapshots on AWS, an initiative that publishes pre-synced public blockchain node chain data in <a href=\"https://aws.amazon.com/s3/",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/blockchain-snapshots-node-bootstrapping/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-14-aws-aws-transfer-family-now-supports-aws-secrets-manag",
+      "date": "2026-10-14",
+      "name": "AWS Transfer Family now supports AWS Secrets Manager storage for SFTP server host keys",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Transfer Family now lets you store SFTP server host keys in AWS Secrets Manager in your own AWS account. This gives you greater control over your server identity and helps simplify server migrations and failover.<",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/transfer-family-secrets-host-keys/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-14-aws-amazon-rds-proxy-now-supports-sql-server-2022",
+      "date": "2026-10-14",
+      "name": "Amazon RDS Proxy now supports SQL Server 2022",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/proxy/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon RDS Proxy</a>, a fully managed, highly available database proxy for <a href=\"https://aws.amazon.com/rds/\" rel=\"noopener nore",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/rds-proxy-supports-sqlserver-2022"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-14-aws-amazon-s3-is-now-available-on-the-vercel-marketpla",
+      "date": "2026-10-14",
+      "name": "Amazon S3 is now available on the Vercel Marketplace and v0 by Vercel",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon S3, including S3 Tables and S3 Vectors, is now available on the Vercel Marketplace and v0 by Vercel. Developers can create and connect S3 resources in seconds without leaving their development environment, gett",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-s3-vercel-marketplace-v0"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-14-dust-spa-poke-2059485",
+      "date": "2026-10-14",
+      "name": "spa/poke/2059485",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>Optimize publish flow (main gains when sandbox is warm on subsequent …</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2059485"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-14-dust-spa-poke-93602c1-feat-add-excel-addin-mcp-service-",
+      "date": "2026-10-14",
+      "name": "spa/poke/93602c1: feat: add excel addin mcp service (#35011)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<h2>Description</h2>\n<p>This PR adds the MCP service to the Excel add-in. It registers an<br />\ninitial <code>noop</code> tool to confirm that the add-in tools are reachable.</p>\n<h2>Tests</h2>\n<p>Manually.</p>\n<h2>Risks",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F93602c1"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-14-dust-spa-poke-89752fa",
+      "date": "2026-10-14",
+      "name": "spa/poke/89752fa",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] enh: explain in settings multi-user conversations memory beha…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F89752fa"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-14-dust-spa-poke-8111d67-dfs-implement-readfiles-35202",
+      "date": "2026-10-14",
+      "name": "spa/poke/8111d67: [DFS] Implement ReadFiles (#35202)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<h2>Description</h2>\n<p>Implement ReadFiles through FileResource::read_batch_for_session, which<br />\nauthorizes the batch, limits total file data through max_bytes, and<br />\nreads contents with bounded concurrency in o",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8111d67"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-14-crewai-1-15-28",
+      "date": "2026-10-14",
+      "name": "1.15.28",
+      "vendor": "CrewAI",
+      "type": "upgrade",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add crewai eval command to report where a stopped model broke.</li>\n<li>Use LiteLLM catalog for context windows.</li>\n</ul>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Fix flow to learn",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.28"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-10-13-aws-amazon-ecs-adds-livetaskcount-and-removes-the-char",
       "date": "2026-10-13",
       "name": "Amazon ECS adds LiveTaskCount and removes the charge for RunningTaskCount metric",
@@ -230,6 +590,24 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-13-aws-aws-lambda-durable-functions-increases-durable-ope",
+      "date": "2026-10-13",
+      "name": "AWS Lambda durable functions increases durable operation and checkpoint payload limits",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Starting today, AWS Lambda durable functions increases the maximum number of durable operations per execution from 3,000 to 30,000, and the maximum checkpoint payload size from 256 KB to 1 MB. Higher operation limits ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-durable-gen-limit-increase/"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -698,384 +1076,6 @@
         }
       ],
       "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-09-dust-spa-poke-6508df8-front-i18n-translate-notification",
-      "date": "2026-10-09",
-      "name": "spa/poke/6508df8: [front] i18n: translate notifications and errors in lib/swr (#34679)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<h2>Description</h2>\n<p>None of the <code>front/lib/swr</code> files used Lingui, so most create, update<br />\nand delete actions showed English toasts to fr-FR users. Error toasts<br />\nhad an English title above a Fren",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F6508df8"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-09-dust-spa-poke-f787633-show-usage-reached-message-in-all",
-      "date": "2026-10-09",
-      "name": "spa/poke/f787633: Show usage reached message in all appropriate cases. (#34754)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<h2>Description</h2>\n<p><code>InputBarUsageBanner</code> now shows distinct messages for exhausted<br />\nworkspace credits and group shared-usage limits, in addition to existing<br />\nseat, user-cap, and near-limit state",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Ff787633"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-08-openai-legalon-halves-codex-costs-while-maintaining-devel",
-      "date": "2026-10-08",
-      "name": "LegalOn halves Codex costs while maintaining development speed",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/legalon-halves-codex-costs"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-08-aws-openai-gpt-6-1-sol-now-supports-ultrafast-mode-on-",
-      "date": "2026-10-08",
-      "name": "OpenAI GPT-6.1 Sol now supports Ultrafast mode on Amazon Bedrock",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS announces the availability of Ultrafast mode for GPT-6.1 Sol from OpenAI on Amazon Bedrock.&nbsp;Ultrafast mode provides faster inference for workloads where speed matters most. The Amazon Bedrock inference",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-sol-ultrafast-amazon/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-08-aws-aws-cost-explorer-budgets-and-dashboards-now-suppo",
-      "date": "2026-10-08",
-      "name": "AWS Cost Explorer, Budgets, and Dashboards now support Amazon Bedrock product attributes",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Cost Explorer, AWS Budgets, and AWS Cost Management Dashboards now let you analyze Amazon Bedrock costs by product attributes, a new dimension that breaks down Bedrock cost by model, model provider, inference type",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-bedrock-attributes-in-cost-explorer/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-08-aws-amazon-rds-for-oracle-now-supports-minor-version-u",
-      "date": "2026-10-08",
-      "name": "Amazon RDS for Oracle now supports minor version upgrade prechecks and a new RDS event to help reduce patching downtime",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/oracle/\">Amazon Relational Database Service (Amazon RDS) for Oracle</a> now lets you run a minor version upgrade precheck yourself, before you start an upgrade or before your schedu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-minor-version-upgrade-precheck-new-patching-rds-event/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-08-aws-amazon-gamelift-servers-adds-cpu-burstability-for-",
-      "date": "2026-10-08",
-      "name": "Amazon GameLift Servers adds CPU burstability for container fleets",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon GameLift Servers now supports CPU burstability for container fleets, giving game developers greater flexibility in how compute resources are allocated and consumed at runtime. Previously, container fleets relie",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-gamelift-servers-cpu-burstability"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-08-dust-spa-poke-1200760",
-      "date": "2026-10-08",
-      "name": "spa/poke/1200760",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] enh: infinite scroll in the agent picker (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/34627\">#34627</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F1200760"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-08-dust-spa-poke-47d86a2-files-stop-spreadsheet-conversion",
-      "date": "2026-10-08",
-      "name": "spa/poke/47d86a2: [Files] Stop spreadsheet conversion beyond 50 MB of CSV (#34671)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<h2>Description</h2>\n<p>When a user uploads an <code>.xlsx</code>/<code>.xls</code> file (table import, project files,<br />\nconversation files without sandbox tools), front-api sends it to Tika<br />\nand converts Tika's",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F47d86a2"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-08-dust-spa-poke-4c10533-x-henry-dfs-bench-jd-corpus-netwo",
-      "date": "2026-10-08",
-      "name": "spa/poke/4c10533: [x/henry] dfs-bench: jd corpus, network floor and FDB sampling (#34662)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<h2>Description</h2>\n<p>Makes the <code>basic</code> round comparable with the numbers in<br />\n<code>x/henry/dfs/DESIGN.md</code> and splits network cost from server cost.</p>\n<ul>\n<li>Untar uses jd's corpus (10k files ",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F4c10533"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-08-dust-spa-poke-f9ffec1-localization-sparkle-translation-",
-      "date": "2026-10-08",
-      "name": "spa/poke/f9ffec1: [localization] sparkle translation (#34515)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<h2>Description</h2>\n<p>This PR is to translate sparkle components &amp; add skills and contract.<br />\nAll of them are small so I added everything (at least everything agent<br />\ncould find) except Documents components",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Ff9ffec1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-08-dust-spa-poke-f5d8ec6",
-      "date": "2026-10-08",
-      "name": "spa/poke/f5d8ec6",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front-api] Public agent search returns global agents and hides unrea…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Ff5d8ec6"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-08-dust-spa-poke-f4cbaca",
-      "date": "2026-10-08",
-      "name": "spa/poke/f4cbaca",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] enh: remove exhaustive agent listing in Discover Favorites (#…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Ff4cbaca"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-08-aws-amazon-guardduty-rds-protection-now-detects-data-e",
-      "date": "2026-10-08",
-      "name": "Amazon GuardDuty RDS Protection now detects data exfiltration and destruction in Aurora and RDS databases",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon GuardDuty announces an expansion of RDS Protection that extends threat detection beyond login anomalies to identify data exfiltration and data destruction attacks targeting Amazon Aurora PostgreSQL and Amazon R",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-rds-data-exfiltration/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-07-openai-workspace-agents-degraded-and-responses-impacted",
-      "date": "2026-10-07",
-      "name": "Workspace Agents Degraded and Responses Impacted",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Agent (Operational)</li>\n          </ul>",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01M49YQE6WZT02WYF0KBXVMQ5G"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-07-aws-aws-config-now-supports-77-new-resource-types",
-      "date": "2026-10-07",
-      "name": "AWS Config now supports 77 new resource types",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Config now supports 77 additional AWS resource types across key services including Amazon EC2, Amazon S3 Files, and Amazon Q Business. This expansion provides greater coverage over your AWS environment, enabling y",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-config-new-resource-types"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-07-aws-claude-haiku-5-5-is-now-available-on-aws",
-      "date": "2026-10-07",
-      "name": "Claude Haiku 5.5 is now available on AWS",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS now offers Claude Haiku 5.5, the fastest and most efficient model in the Claude 5.5 family, built for subagents and high-volume, cost-sensitive work. According to Anthropic, it costs around 75% less than Claude Ha",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/claude-haiku-5-5-aws/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-07-aws-claude-haiku-5-5-is-now-available-on-aws-govcloud-",
-      "date": "2026-10-07",
-      "name": "Claude Haiku 5.5 is now available on AWS GovCloud (US)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS GovCloud (US) now offers Claude Haiku 5.5, the fastest and most efficient model in the Claude 5.5 family, built for subagents and high-volume, cost-sensitive work. According to Anthropic, it costs around 75% less ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/claude-haiku-5-5-aws-govcloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-07-dust-spa-poke-32a23f5",
-      "date": "2026-10-07",
-      "name": "spa/poke/32a23f5",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] perf: remove unused skill list from agent capabilities (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/34371\">#34371</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F32a23f5"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-07-dust-spa-poke-22c1e14-front-feat-plan-condition-on-glob",
-      "date": "2026-10-07",
-      "name": "spa/poke/22c1e14: [front] feat: plan condition on global feature flags (#34384)",
-      "vendor": "Dust",
-      "type": "pricing",
-      "summary": "<h2>Description</h2>\n<p>Global feature flags get an optional <code>condition</code>: a code-defined<br />\ncondition a workspace must meet before the rollout percentage applies.<br />\nThis lets us roll a flag out to e.g. ",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F22c1e14"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-07-dust-spa-poke-9ee24d5-google-drive-resume-moved-folder-",
-      "date": "2026-10-07",
-      "name": "spa/poke/9ee24d5: [Google Drive] Resume moved folder parent updates on retry (#34494)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<h2>Description</h2>\n<p>Related to <a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/34433\">#34433</a></p>\n<p>When a Google Drive folder moves, <code>incrementalSync</code> must update the da",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F9ee24d5"
-        }
-      ],
-      "impact": 3,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
