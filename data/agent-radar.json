@@ -1,6 +1,294 @@
 {
   "items": [
     {
+      "id": "2026-10-16-openai-how-ita-is-building-generative-ai-for-its-entire-c",
+      "date": "2026-10-16",
+      "name": "How Itaú is building generative AI for its entire customer base",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/itau-generative-ai"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-16-openai-stack-overflow-for-agents-triples-signups-with-cha",
+      "date": "2026-10-16",
+      "name": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-16-aws-amazon-cloudwatch-log-centralization-now-available",
+      "date": "2026-10-16",
+      "name": "Amazon CloudWatch log centralization now available in AWS GovCloud and additional commercial Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon CloudWatch log centralization is now available in AWS GovCloud (US) and 13 additional commercial Regions. CloudWatch log centralization copies log data from multiple AWS accounts and Regions into a single desti",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-cloudwatch-centralization-region-expansion"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-16-aws-aws-lambda-durable-functions-are-now-available-in-",
+      "date": "2026-10-16",
+      "name": "AWS Lambda durable functions are now available in AWS GovCloud (US) Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Lambda durable functions are now available in the AWS GovCloud (US-West) and AWS GovCloud (US-East) Regions. Lambda durable functions enable developers to build reliable multi-step applications and AI workflows wi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/durablefunctions-govcloud/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-16-aws-nemotron-3-5-super-vl-model-now-available-on-amazo",
+      "date": "2026-10-16",
+      "name": "Nemotron 3.5 Super VL model now available on Amazon SageMaker JumpStart",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>NVIDIA's Nemotron 3.5 Super VL is now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. This vision-language model from the Nemotron 3.5 family accepts i",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/nvidia-nemotron-3.5-super-vl-on-sagemaker-jumpstart/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-16-aws-beam-model-by-reflection-is-now-available-on-amazo",
+      "date": "2026-10-16",
+      "name": "Beam model by Reflection is now available on Amazon SageMaker JumpStart and AWS Trainium",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Beam, the first open weight model offered by US-based Reflection, is now available in Amazon SageMaker JumpStart, the model hub in Amazon SageMaker AI. According to Beam, they operate at the frontier of open weight mo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/reflection-beam-on-sagemaker-jumpstart-and-aws-trainium/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-16-aws-aws-transform-announces-azure-to-aws-cloud-native-",
+      "date": "2026-10-16",
+      "name": "AWS Transform announces Azure-to-AWS cloud-native code conversion",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announced the general availability of application code conversion from Azure SDK to AWS SDK in AWS Transform, giving you an accelerated path to migrate Microsoft Azure cloud-native .NET applications to AWS.",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-azure-to-aws-code-conversion/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-16-aws-second-generation-aws-outposts-racks-now-supported",
+      "date": "2026-10-16",
+      "name": "Second-generation AWS Outposts racks now supported in the AWS Mexico (Central) Region",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Second-generation AWS Outposts racks are now supported in the AWS Mexico (Central) Region. Outposts racks extend AWS infrastructure, AWS services, APIs, and tools to virtually any on-premises data center or colocation",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-outposts-racks-mexico-central/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-16-aws-aws-end-user-messaging-adds-registration-improveme",
+      "date": "2026-10-16",
+      "name": "AWS End User Messaging adds registration improvements for faster, higher-quality submissions",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS End User Messaging now makes it easier to complete messaging registrations correctly the first time, with clearer guidance, explicit field requirements, and help avoiding the most common rejection reasons. Registr",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-end-user-messaging-adds-registration-improvements-for-faster-higher-quality-submissions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-16-aws-aws-end-user-messaging-adds-a-guided-wizard-for-rc",
+      "date": "2026-10-16",
+      "name": "AWS End User Messaging adds a guided wizard for RCS registration videos",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS End User Messaging adds a wizard that orchestrates the entire video capture for your RCS agent registration. RCS registrations in multiple countries, including the United States, require a screen recording ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-end-user-messaging-adds-guided-wizard-rcs-registration-videos"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-16-dust-spa-poke-026118b",
+      "date": "2026-10-16",
+      "name": "spa/poke/026118b",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] feat: allow modelSelection on Dust MCP create conversation/me…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F026118b"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-16-dust-spa-poke-91a7f48-front-remove-the-localisation-fea",
+      "date": "2026-10-16",
+      "name": "spa/poke/91a7f48: [front] Remove the localisation feature flag (#35237)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<h2>Description</h2>\n<p>Closes <a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/tasks/issues/11113\">dust-tt/tasks#11113</a></p>\n<p>Remove the <code>localisation</code> feature flag and everything it g",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F91a7f48"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-16-dust-spa-poke-36e521a-front-enh-capitalize-the-dust-glo",
+      "date": "2026-10-16",
+      "name": "spa/poke/36e521a: [front] enh: capitalize the Dust global agent name (#35120)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<h2>Description</h2>\n<p>The default global agent was named <code>dust</code> everywhere in the UI.</p>\n<p>This PR renames it to <code>Dust</code> in UI copy.</p>\n<p>Name lookups (mentions, Slack <code>~dust</code>/<code>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F36e521a"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-16-dust-spa-poke-7f78a21-fix-front-allow-eu2-dust-tt-in-co",
+      "date": "2026-10-16",
+      "name": "spa/poke/7f78a21: fix(front): allow eu2.dust.tt in CORS (#35277)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<h2>Description</h2>\n<p>Requests with <code>Origin: https://eu2.dust.tt</code> receive HTTP 403 with<br />\n<code>X-CORS-Reason: origin</code>. Add this exact HTTPS origin to the existing<br />\nCORS allowlist, matching th",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F7f78a21"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-16-dust-spa-poke-3f25815",
+      "date": "2026-10-16",
+      "name": "spa/poke/3f25815",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>poke: render Sidekick conversations with their workspace context (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/35\">#35</a>…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F3f25815"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-16-dust-spa-poke-ed95fe9-add-snowflake-csid-35215",
+      "date": "2026-10-16",
+      "name": "spa/poke/ed95fe9: add snowflake csid (#35215)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<h2>Description</h2>\n<p>context on Snowflake best practices :<br />\n<a href=\"https://dust4ai.slack.com/archives/C050SM8NSPK/p1791995976811529\" rel=\"nofollow\">https://dust4ai.slack.com/archives/C050SM8NSPK/p17919959768115",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2Fed95fe9"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-10-15-openai-sullivan-cromwell-brings-legal-expertise-into-agre",
       "date": "2026-10-15",
       "name": "Sullivan & Cromwell brings legal expertise into agreement review",
@@ -356,6 +644,24 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-15-aws-aws-transform-for-migrations-is-now-available-in-a",
+      "date": "2026-10-15",
+      "name": "AWS Transform for migrations is now available in Asia Pacific (Singapore)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Transform for migrations is now available in the Asia Pacific (Singapore) Region, giving customers data residency within the region and lower latency to local source infrastructure as they migrate. <a href=\"https:",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-singapore"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -767,312 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/ecs-service-metrics/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-13-aws-aws-agent-registry-now-supports-custom-metadata-fo",
-      "date": "2026-10-13",
-      "name": "AWS Agent Registry now supports custom metadata for registry records",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Agent Registry is the centralized, governed catalog for agents, MCP servers, agent skills, gateways, and custom resources within your organization. As organizations scale to hundreds of such resources, a name and ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-agent-registry-custom-metadata-registry-records"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-13-aws-amazon-dcv-releases-version-2026-0-with-rhel-10-su",
-      "date": "2026-10-13",
-      "name": "Amazon DCV releases version 2026.0 with RHEL 10 support and new clients",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon DCV 2026.0 is now available, adding support for RHEL 10, Rocky Linux 10, CentOS 10, and Ubuntu 26.04 along with a new macOS client and updated Windows and Linux clients. Amazon DCV is a high-performance remote ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-dcv-2026-0/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-13-aws-aws-deadline-cloud-now-helps-users-find-their-acce",
-      "date": "2026-10-13",
-      "name": "AWS Deadline Cloud now helps users find their accessible resources in the Deadline Cloud monitor",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Deadline Cloud now lets users who have access to specific queues, fleets, or jobs, rather than an entire farm, find the resources they can reach directly from the Deadline Cloud monitor. Deadline Cloud is a fully ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/deadline-cloud/resources"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-13-aws-amazon-location-service-launches-an-interactive-ap",
-      "date": "2026-10-13",
-      "name": "Amazon Location Service launches an interactive API Playground featuring Places, Routes and Maps APIs",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Location Service now offers a complete, interactive API Playground that lets developers explore and test every Places, Routes, and Maps API visually without writing code. With this release, all 14 Amazon Locati",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-location-service-api-playground"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-13-aws-bring-deep-sagemaker-ai-expertise-to-your-coding-a",
-      "date": "2026-10-13",
-      "name": "Bring deep SageMaker AI expertise to your coding agent with the AWS AI/ML skill in the Agent Toolkit for AWS",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Your coding agent can select, train, optimize and deploy models on Amazon SageMaker AI while working across the rest of your AWS environment in a single natural-language workflow. The AWS AI/ML skill is now a core ski",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/bring-sagemaker-ai-expertise-to-your-coding-agent/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-13-aws-aws-datasync-enhanced-mode-now-supports-fsx-for-op",
-      "date": "2026-10-13",
-      "name": "AWS DataSync Enhanced mode now supports FSx for OpenZFS, NFS 4.2, and object metadata controls",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS DataSync Enhanced mode now supports Amazon FSx for OpenZFS as a source or destination location, NFS version 4.2 for on-premises NFS servers and FSx for OpenZFS file systems, and a new ObjectMetadata option for obj",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/datasync-enhanced-openzfs-nfs42-metadata/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-13-aws-amazon-route-53-now-supports-registrations-transfe",
-      "date": "2026-10-13",
-      "name": "Amazon Route 53 now supports registrations, transfers, and renewals for Premium Domains",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Route 53 Domains now supports Premium Domain Names. Customers can now search for, register, transfer, renew, and restore registry premium names directly through Route 53.</p>\n<p>Most domain registries set aside",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/route-53-premium-domains/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-13-dust-spa-poke-7616722",
-      "date": "2026-10-13",
-      "name": "spa/poke/7616722",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Agent YAML export: export stored knowledge ids instead of resolving t…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F7616722"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-13-dust-spa-poke-8927ab1-front-feat-add-bright-data-remote",
-      "date": "2026-10-13",
-      "name": "spa/poke/8927ab1: [front] feat: add Bright Data remote MCP server (#35063)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<h2>Description</h2>\n<p>Adds Bright Data as a new default remote MCP server (id: 10054),<br />\nconnecting via OAuth with dynamic client registration. The server<br />\nenables web search, single and batch webpage scraping",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8927ab1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-13-dust-spa-poke-08096ae",
-      "date": "2026-10-13",
-      "name": "spa/poke/08096ae",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] enh: connect Figma MCP through dynamic client registration (#…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F08096ae"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-13-dust-spa-poke-3375a72-front-chore-update-the-user-memor",
-      "date": "2026-10-13",
-      "name": "spa/poke/3375a72: [front] chore: update the user memory skill description (#35014)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<h2>Description</h2>\n<p>The description of the user memory skill still mentioned that the skill<br />\nwould be used to read it, which is not true anymore; the memory is<br />\nloaded in a message at the start of the conve",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F3375a72"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-13-dust-spa-poke-69a4d0d-llm-add-gemini-4-argon-35117",
-      "date": "2026-10-13",
-      "name": "spa/poke/69a4d0d: [LLM] Add Gemini 4 Argon (#35117)",
-      "vendor": "Dust",
-      "type": "pricing",
-      "summary": "<h2>Description</h2>\n<p>Add Gemini 4 Argon (<code>gemini-4-argon</code>) on global and EU Agent Platform<br />\nand on Google AI Studio, show it in the model picker, and stop marking<br />\nGemini 3.1 Pro as Google's lates",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F69a4d0d"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-13-aws-aws-lambda-durable-functions-increases-durable-ope",
-      "date": "2026-10-13",
-      "name": "AWS Lambda durable functions increases durable operation and checkpoint payload limits",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Starting today, AWS Lambda durable functions increases the maximum number of durable operations per execution from 3,000 to 30,000, and the maximum checkpoint payload size from 256 KB to 1 MB. Higher operation limits ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-durable-gen-limit-increase/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-12-aws-amazon-ec2-g7-instances-now-available-in-europe-fr",
-      "date": "2026-10-12",
-      "name": "Amazon EC2 G7 instances now available in Europe (Frankfurt) and Europe (Stockholm) Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Elastic Compute Cloud (Amazon EC2) G7 instances powered by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs are now available in Europe (Frankfurt) and Europe (Stockholm) Regions. G7 instances deliver up to 4.",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-g7-european-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-12-aws-amazon-connect-customer-now-prefills-step-by-step-",
-      "date": "2026-10-12",
-      "name": "Amazon Connect Customer now prefills step-by-step guides for after contact work",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect Customer can now fill in the step-by-step guides that agents complete after a contact, using information extracted from customer conversations, such as booking identifiers, claim numbers, and conversati",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-prefills-guides-acw"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-12-aws-aws-lambda-announces-lambda-web-functions",
-      "date": "2026-10-12",
-      "name": "AWS Lambda announces Lambda Web Functions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Lambda announces Lambda Web Functions, a new serverless compute primitive where your code handles HTTP requests directly. Your code listens on a port and handles requests as it would on any HTTP server. You use fr",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-web-functions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-12-aws-announcing-consumption-based-pricing-for-short-ter",
-      "date": "2026-10-12",
-      "name": "Announcing consumption-based pricing for short-term memory in Amazon Bedrock AgentCore",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><b>Announcing consumption-based pricing for short-term memory in Amazon Bedrock AgentCore</b></p>\n<p>Amazon Bedrock AgentCore memory now prices short-term memory (STM) based on the data your agents ingest, retrieve, a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-memory-consumption-based-pricing"
         }
       ],
       "impact": 5,
