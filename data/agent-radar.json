@@ -289,6 +289,24 @@
       "tags": []
     },
     {
+      "id": "2026-10-16-aws-amazon-braket-now-in-scope-for-fedramp-class-c",
+      "date": "2026-10-16",
+      "name": "Amazon Braket now in scope for FedRAMP Class C",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Braket is now in scope for FedRAMP Class C in AWS US Regions where Braket is available. The Federal Risk and Authorization Management Program (FedRAMP) is a US government-wide program that delivers a standard a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/braket-fedramp-class-c/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-10-15-openai-sullivan-cromwell-brings-legal-expertise-into-agre",
       "date": "2026-10-15",
       "name": "Sullivan & Cromwell brings legal expertise into agreement review",
@@ -1055,24 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/lambda-recursive-loops-eventbridge-custom"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-13-aws-amazon-ecs-adds-livetaskcount-and-removes-the-char",
-      "date": "2026-10-13",
-      "name": "Amazon ECS adds LiveTaskCount and removes the charge for RunningTaskCount metric",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, Amazon Elastic Container Service (Amazon ECS) announces LiveTaskCount, a new ECS service metric that reports how many tasks are actively running in your service, available to all customers at no additional char",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/ecs-service-metrics/"
         }
       ],
       "impact": 5,
