@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "2026-10-18-dust-spa-poke-4d90626",
+      "date": "2026-10-18",
+      "name": "spa/poke/4d90626",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>[front] enh: let the figma_mcp flag override the Figma MCP plan gate …</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F4d90626"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-18-dust-spa-app-4d90626",
+      "date": "2026-10-18",
+      "name": "spa/app/4d90626",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>[front] enh: let the figma_mcp flag override the Figma MCP plan gate …</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F4d90626"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-10-16-openai-how-ita-is-building-generative-ai-for-its-entire-c",
       "date": "2026-10-16",
       "name": "How Itaú is building generative AI for its entire customer base",
@@ -1042,42 +1078,6 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-10-14-aws-aws-healthomics-expands-container-registry-support",
-      "date": "2026-10-14",
-      "name": "AWS HealthOmics expands container registry support for private workflows",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>You can now use container images from registries such as Seqera (Wave), NVIDIA NGC, and Google Artifact Registry with AWS HealthOmics expanded support for third-party container registries. You can use the containerize",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-healthomics-expanded-container-registry-support/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-14-aws-aws-lambda-recursive-loop-detection-now-supports-a",
-      "date": "2026-10-14",
-      "name": "AWS Lambda recursive loop detection now supports Amazon EventBridge Custom event buses",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/lambda/\">AWS Lambda</a> recursive loop detection now automatically detects and stops recursive loops between Lambda Event Functions and <a href=\"https://docs.aws.amazon.com/eventbridge/",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/lambda-recursive-loops-eventbridge-custom"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
       "tags": []
     }
   ]
