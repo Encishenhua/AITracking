@@ -1,6 +1,168 @@
 {
   "items": [
     {
+      "id": "2026-10-19-aws-amazon-cloudwatch-omni-is-now-available-in-additio",
+      "date": "2026-10-19",
+      "name": "Amazon CloudWatch Omni is now available in additional AWS Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS announces that Amazon CloudWatch Omni is now available in eight additional AWS Regions. CloudWatch Omni is an AI-powered observability experience, organized around your teams and the applications they run, that he",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-cloudwatch-omni-8-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-19-aws-amazon-guardduty-adds-optional-threat-detection-ru",
+      "date": "2026-10-19",
+      "name": "Amazon GuardDuty adds optional threat detection rules for Runtime Monitoring",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon GuardDuty now supports optional detection rules for Runtime Monitoring. You can enable more than 50 Runtime Monitoring rules that help detect process, file, and network activity that might be routine in one env",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-runtime-optional-detection-rules/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-19-aws-grok-4-7-is-now-available-on-amazon-bedrock-in-aws",
+      "date": "2026-10-19",
+      "name": "Grok 4.7 is now available on Amazon Bedrock in AWS GovCloud (US)",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Bedrock now supports SpaceXAI Grok 4.7, a frontier model built for coding, agentic tasks, and knowledge work in AWS GovCloud (US).</p>\n<p>Grok 4.7 builds on Grok 4.6 with better mixed-document handling, more de",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-grok-4-7-govcloud/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-19-aws-aws-iam-identity-center-now-supports-optimistic-lo",
+      "date": "2026-10-19",
+      "name": "AWS IAM Identity Center now supports optimistic locking for users and groups in its identity store",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>IAM Identity Center helps you configure the single sign-on experience of your workforce to AWS accounts and applications. You can now use optimistic locking for users and groups in the identity store, so that update a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/iam-identity-store-optimistic-locking/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-19-aws-aws-elemental-mediaconnect-router-now-supports-hig",
+      "date": "2026-10-19",
+      "name": "AWS Elemental MediaConnect Router now supports high bitrate mode",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Elemental MediaConnect Router now supports high bitrate modes with two new tiers: 250 Mbps and 500 Mbps. This allows professional broadcasters that need higher bitrates to transport high-value content without comp",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/mediaconnect-router-high-bitrate/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-19-aws-amazon-rds-for-sql-server-now-supports-snapshots-o",
+      "date": "2026-10-19",
+      "name": "Amazon RDS for SQL Server now supports snapshots on read replicas",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for SQL Server</a> now supports creating DB snapshots directly on read replica ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/rds-sqlserver-supports-snapshots-on-read-replicas"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-19-dust-spa-poke-41cd190-dfs-dfs-mount-lookup-inside-folde",
+      "date": "2026-10-19",
+      "name": "spa/poke/41cd190: [dfs] dfs-mount: lookup inside folders (#35364)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<h2>Description</h2>\n<p><code>Fs::lookup</code> now finds names inside dfs directories through<br />\n<code>Remote::lookup</code>, instead of returning <code>EOPNOTSUPP</code>. The object gets an<br />\ninode number from t",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F41cd190"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-19-dust-spa-poke-18aecd9",
+      "date": "2026-10-19",
+      "name": "spa/poke/18aecd9",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>MCP view: newly created view inherit 'restrict to skill' from systemV…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F18aecd9"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-19-dust-spa-poke-0e63b8e",
+      "date": "2026-10-19",
+      "name": "spa/poke/0e63b8e",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] Report MCP output persist progress through a callback (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/35332\">#35332</a>)</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F0e63b8e"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-10-18-dust-spa-poke-4d90626",
       "date": "2026-10-18",
       "name": "spa/poke/4d90626",
@@ -32,6 +194,24 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-17-aws-aws-partner-central-adds-solution-matching-engine-",
+      "date": "2026-10-17",
+      "name": "AWS Partner Central adds Solution Matching Engine performance insights",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Partner Central now gives AWS Partners more visibility into how the Solution Matching Engine (SME) contributes to their co-sell pipeline. The Solution Matching Engine performance section in Partner Analytics helps",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/solution-matching-engine-performance"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -335,6 +515,24 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/braket-fedramp-class-c/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-16-aws-amazon-emr-serverless-now-supports-ipv6-and-dual-s",
+      "date": "2026-10-16",
+      "name": "Amazon EMR Serverless now supports IPv6 and dual-stack connectivity",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon EMR Serverless now supports IPv6 and dual-stack connectivity, expanding beyond the IPv4-only connectivity that was previously available. You can now run your Apache Spark and Apache Hive jobs over IPv6 in your ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-emr-serverless/"
         }
       ],
       "impact": 5,
@@ -880,204 +1078,6 @@
       "impact": 5,
       "risk": 3,
       "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-14-aws-aws-healthomics-introduces-resource-fallback-order",
-      "date": "2026-10-14",
-      "name": "AWS HealthOmics introduces resource fallback order for Nextflow workflows",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS HealthOmics introduces the resource fallback directive for tasks in your Nextflow workflows, enabling you to define an ordered list of preferred accelerator types, including an option to fallback to CPU ins",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-healthomics-resource-fallback-for-Nextflow/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-14-aws-aws-backup-now-supports-amazon-fsx-file-systems-in",
-      "date": "2026-10-14",
-      "name": "AWS Backup now supports Amazon FSx file systems in the Asia Pacific (New Zealand) Region",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Backup now supports Amazon FSx for Lustre, Amazon FSx for NetApp ONTAP, Amazon FSx for OpenZFS, and Amazon FSx for Windows File Server in the Asia Pacific (New Zealand) Region.</p>\n<p>With this launch, you can use",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-backup-fsx-asia-pacific-new-zealand/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-14-aws-announcing-blockchain-snapshots-on-aws-for-node-bo",
-      "date": "2026-10-14",
-      "name": "Announcing Blockchain Snapshots on AWS for node bootstrapping",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>For blockchain node operators running Ethereum or Solana, AWS is announcing Blockchain Snapshots on AWS, an initiative that publishes pre-synced public blockchain node chain data in <a href=\"https://aws.amazon.com/s3/",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/blockchain-snapshots-node-bootstrapping/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-14-aws-aws-transfer-family-now-supports-aws-secrets-manag",
-      "date": "2026-10-14",
-      "name": "AWS Transfer Family now supports AWS Secrets Manager storage for SFTP server host keys",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Transfer Family now lets you store SFTP server host keys in AWS Secrets Manager in your own AWS account. This gives you greater control over your server identity and helps simplify server migrations and failover.<",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/transfer-family-secrets-host-keys/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-14-aws-amazon-rds-proxy-now-supports-sql-server-2022",
-      "date": "2026-10-14",
-      "name": "Amazon RDS Proxy now supports SQL Server 2022",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/proxy/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon RDS Proxy</a>, a fully managed, highly available database proxy for <a href=\"https://aws.amazon.com/rds/\" rel=\"noopener nore",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/rds-proxy-supports-sqlserver-2022"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-14-aws-amazon-s3-is-now-available-on-the-vercel-marketpla",
-      "date": "2026-10-14",
-      "name": "Amazon S3 is now available on the Vercel Marketplace and v0 by Vercel",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon S3, including S3 Tables and S3 Vectors, is now available on the Vercel Marketplace and v0 by Vercel. Developers can create and connect S3 resources in seconds without leaving their development environment, gett",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-s3-vercel-marketplace-v0"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-14-dust-spa-poke-2059485",
-      "date": "2026-10-14",
-      "name": "spa/poke/2059485",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>Optimize publish flow (main gains when sandbox is warm on subsequent …</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2059485"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-14-dust-spa-poke-93602c1-feat-add-excel-addin-mcp-service-",
-      "date": "2026-10-14",
-      "name": "spa/poke/93602c1: feat: add excel addin mcp service (#35011)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<h2>Description</h2>\n<p>This PR adds the MCP service to the Excel add-in. It registers an<br />\ninitial <code>noop</code> tool to confirm that the add-in tools are reachable.</p>\n<h2>Tests</h2>\n<p>Manually.</p>\n<h2>Risks",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F93602c1"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-14-dust-spa-poke-89752fa",
-      "date": "2026-10-14",
-      "name": "spa/poke/89752fa",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] enh: explain in settings multi-user conversations memory beha…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F89752fa"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-14-dust-spa-poke-8111d67-dfs-implement-readfiles-35202",
-      "date": "2026-10-14",
-      "name": "spa/poke/8111d67: [DFS] Implement ReadFiles (#35202)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<h2>Description</h2>\n<p>Implement ReadFiles through FileResource::read_batch_for_session, which<br />\nauthorizes the batch, limits total file data through max_bytes, and<br />\nreads contents with bounded concurrency in o",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F8111d67"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-14-crewai-1-15-28",
-      "date": "2026-10-14",
-      "name": "1.15.28",
-      "vendor": "CrewAI",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add crewai eval command to report where a stopped model broke.</li>\n<li>Use LiteLLM catalog for context windows.</li>\n</ul>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Fix flow to learn",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.28"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
       "tags": []
     }
   ]
