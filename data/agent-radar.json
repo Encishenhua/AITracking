@@ -1,6 +1,384 @@
 {
   "items": [
     {
+      "id": "2026-10-21-openai-degraded-performance-in-chatgpt-codex-and-apis",
+      "date": "2026-10-21",
+      "name": "Degraded performance in ChatGPT, Codex, and APIs",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>dots (Operational)</li>\n<li>Conversations (Operational)</li>\n<li>Fine-",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M5E4G39TD1BW1QWHZG6RFA5H"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-20-openai-franchisee-reconciles-cash-in-94-less-time-with-ch",
+      "date": "2026-10-20",
+      "name": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "vendor": "OpenAI",
+      "type": "pricing",
+      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/ted-taylor-restaurant"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-20-openai-terminal-x-matches-senior-investor-judgment-88-6-w",
+      "date": "2026-10-20",
+      "name": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/terminal-x"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-20-aws-announcing-amazon-ecs-gateway-a-managed-ingress-so",
+      "date": "2026-10-20",
+      "name": "Announcing Amazon ECS Gateway, a managed ingress solution for your ECS services",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS announces Amazon Elastic Container Service (Amazon ECS) Gateway, a new resource that simplifies ingress networking for containerized applications by dynamically provisioning and managing Application Load Balancers",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/announcing-amazon-ecs-gateway/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-20-aws-polly-generative-engine-upgraded-with-more-natural",
+      "date": "2026-10-20",
+      "name": "Polly Generative engine upgraded with more natural speech, 14 new voices, and 2 new languages",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, we are introducing a new model behind the Amazon Polly Generative engine that delivers more natural-sounding, accurate speech output with low latency. With this upgrade, you get access to an enhanced voice port",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/polly-generative/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-20-aws-structured-outputs-for-claude-models-available-on-",
+      "date": "2026-10-20",
+      "name": "Structured outputs for Claude models available on Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock now supports structured outputs for all Anthropic Claude models across both the bedrock-runtime and the bedrock-mantle endpoint. Whether you call Claude through boto3 and the bedrock-runtime APIs or thr",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/claude-structured-outputs-bedrock/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-20-aws-aws-clean-rooms-now-supports-databricks-as-a-data-",
+      "date": "2026-10-20",
+      "name": "AWS Clean Rooms now supports Databricks as a data source",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Clean Rooms now supports <a href=\"https://docs.aws.amazon.com/clean-rooms/latest/userguide/prepare-data-databricks.html\" target=\"_blank\">Databricks as a data source</a>, so collaboration members and their partners",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-clean-rooms-supports-databricks"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-20-aws-aws-iam-identity-center-simplifies-identity-source",
+      "date": "2026-10-20",
+      "name": "AWS IAM Identity Center simplifies identity source changes from Active Directory",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS IAM Identity Center now retains your workforce identities and their assignments when you change your identity source from Active Directory to an external identity provider (IdP), such as Okta or Microsoft Entra ID",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/iam-identity-center-chg-id-src-from-ad/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-20-aws-amazon-bedrock-guardrails-now-supports-standard-ti",
+      "date": "2026-10-20",
+      "name": "Amazon Bedrock Guardrails now supports Standard tier for contextual grounding checks",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Bedrock Guardrails now offers a Standard tier for contextual grounding checks, which detect and filter hallucinations by checking whether a model response is grounded in your reference source and relevant to th",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-guardrails-grounding-standard/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-20-aws-aws-partner-central-launches-program-navigator-cas",
+      "date": "2026-10-20",
+      "name": "AWS Partner Central launches Program Navigator, Case Study Generator, and streamlined specialization review",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Partner Central now features Program Navigator, a unified experience that lets partners discover, apply for, and track AWS Specialization program applications in one place. Partners can browse specialization desig",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/partner-central-program-navigator/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-20-aws-amazon-bedrock-advanced-prompt-optimization-now-su",
+      "date": "2026-10-20",
+      "name": "Amazon Bedrock Advanced Prompt Optimization now supports prompt shortening",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Bedrock Advanced Prompt Optimization now supports prompt shortening, an optional setting that reduces the length of your prompt while maintaining or improving your evaluation scores. Advanced Prompt Optimizatio",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-prompt-optimization-shortening/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-20-aws-aws-transform-for-migrations-expands-support-for-e",
+      "date": "2026-10-20",
+      "name": "AWS Transform for migrations expands support for existing landing zones",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Transform now supports more types of existing AWS environments when building landing zones for your migration, including AWS Control Tower landing zones and landing zones built with AWS Organizations. AWS Transfor",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-migrations-landing-zones/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-20-aws-amazon-elasticache-serverless-for-valkey-now-suppo",
+      "date": "2026-10-20",
+      "name": "Amazon ElastiCache Serverless for Valkey now supports online migration with zero downtime",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/elasticache/\">Amazon ElastiCache</a> Serverless for Valkey now supports online migration from self-managed Valkey and Redis OSS on Amazon EC2 with zero downtime. Zero downtime means zer",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-serverless-valkey-online-migration/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-20-dust-spa-poke-2395a0a",
+      "date": "2026-10-20",
+      "name": "spa/poke/2395a0a",
+      "vendor": "Dust",
+      "type": "pricing",
+      "summary": "<p>[Client-side MCP] Bill Dust's client-side tools at the price they dec…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2395a0a"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-20-dust-spa-poke-81cdcd2",
+      "date": "2026-10-20",
+      "name": "spa/poke/81cdcd2",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>[front] agent loop: add blocking inference hooks behind a feature fla…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F81cdcd2"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-20-dust-spa-poke-67bdde6-front-co-edition-create-task-list",
+      "date": "2026-10-20",
+      "name": "spa/poke/67bdde6: [front] co-edition: create task lists in the editor (#35403)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>With the previous PRs (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/35402\">#35402</a>, <a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/35406\">#35406</a>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F67bdde6"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-20-dust-spa-poke-051a6f4-front-common-layout-for-admin-man",
+      "date": "2026-10-20",
+      "name": "spa/poke/051a6f4: [front] common layout for admin & manage agent/skill pages (#35455)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<h2>Description</h2>\n<p>This PR is updating the layout of admin pages &amp; manage agents/skills<br />\npage, I need this to implement the new show/hidden sidebar design. We<br />\nneed to add some spacing on top &amp; lef",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F051a6f4"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-20-dust-spa-poke-35a9532",
+      "date": "2026-10-20",
+      "name": "spa/poke/35a9532",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<p>[front] Flag-gate Anthropic server-side fallback on the direct API (#…</p>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F35a9532"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-20-dust-spa-poke-5e13e51-dfs-give-the-pod-s-groups-access-",
+      "date": "2026-10-20",
+      "name": "spa/poke/5e13e51: dfs: give the pod's groups access to its folder (#35445)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<h2>Description</h2>\n<p>Related to <a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/tasks/issues/11121\">dust-tt/tasks#11121</a>.</p>\n<p>Pod folders were only accessible to their owner (inherited from ",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5e13e51"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-20-dust-spa-poke-5df8a48-fix-handle-configured-inputs-in-s",
+      "date": "2026-10-20",
+      "name": "spa/poke/5df8a48: Fix: handle configured inputs in sandbox tool calls. (#35440)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<h2>Description</h2>\n<p>Sandbox tool schemas now hide internal <code>TOOL_INPUT.*</code> configuration<br />\nfields, while child and sandbox-function calls inject Dust-managed<br />\ndata-source and warehouse defaults int",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5df8a48"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-20-dust-spa-poke-0c223e7-front-co-edition-open-and-save-gf",
+      "date": "2026-10-20",
+      "name": "spa/poke/0c223e7: [front] co-edition: open and save GFM task lists (#35402)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<p>A Markdown file with a GFM task list, whose items start with <code>[ ]</code> (to<br />\ndo) or <code>[x]</code> (done) as on GitHub, cannot be edited in the document<br />\neditor: it opens read-only under \"This docume",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F0c223e7"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-10-19-aws-amazon-cloudwatch-omni-is-now-available-in-additio",
       "date": "2026-10-19",
       "name": "Amazon CloudWatch Omni is now available in additional AWS Regions",
@@ -695,384 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/postgresql-19-rc1-amazon-rds-database-preview-environment/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-15-aws-amazon-redshift-long-term-system-table-retention-w",
-      "date": "2026-10-15",
-      "name": "Amazon Redshift long-term system table retention with Amazon S3 Tables is now available in additional AWS Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/redshift/\">Amazon Redshift</a> long-term retention for system table data through native integration with <a href=\"https://aws.amazon.com/s3/features/tables/\">Amazon S3 Tables</a> is now",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-long-term-system-table-retention-expansion/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-15-aws-amazon-s3-metadata-now-available-in-six-additional",
-      "date": "2026-10-15",
-      "name": "Amazon S3 Metadata now available in six additional AWS Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon S3 Metadata is now available in six additional AWS Regions: Asia Pacific (Hyderabad), Asia Pacific (Malaysia), Asia Pacific (New Zealand), Asia Pacific (Taipei), Asia Pacific (Thailand), and Mexico (Central).</",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-s3-metadata-six-additional-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-15-aws-aws-security-hub-cspm-now-supports-the-cyber-risk-",
-      "date": "2026-10-15",
-      "name": "AWS Security Hub CSPM now supports the Cyber Risk Institute profile version 2.2",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/security-hub/\">AWS Security Hub CSPM</a> now supports automated security checks that align with the Cyber Risk Institute (CRI) profile. The CRI Profile is a cybersecurity framework deve",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-cspm-cri-profile-v22/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-15-aws-amazon-managed-service-for-prometheus-collector-no",
-      "date": "2026-10-15",
-      "name": "Amazon Managed Service for Prometheus Collector now available in Asia Pacific (New Zealand) Region",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Managed Service for Prometheus collector, a fully-managed agentless collector for Prometheus metrics, is now available in Asia Pacific (New Zealand). Customers in New Zealand can now run their Prometheus-compat",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/ams-prometheus-collector-apac-nz/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-15-aws-amazon-managed-workflows-for-apache-airflow-now-of",
-      "date": "2026-10-15",
-      "name": "Amazon Managed Workflows for Apache Airflow now offers AI agent skills",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Managed Workflows for Apache Airflow (MWAA) now integrates with the <a href=\"https://docs.aws.amazon.com/agent-toolkit/latest/userguide/what-is-agent-toolkit.html\">Agent Toolkit for AWS</a> to provide built-in ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-mwaa-ai-agent-skills/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-15-aws-oracle-database-aws-supports-aggregate-and-default",
-      "date": "2026-10-15",
-      "name": "Oracle Database@AWS supports aggregate and default routes for ODB peering",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Oracle Database@AWS (ODB) now supports advertising aggregate routes and a default route (0.0.0.0/0) when configuring ODB peering between applications in an Amazon VPC and databases in an ODB network. This simplifies n",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/oracle-database-aws-aggregate-routes-odb/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-15-aws-launch-aws-devops-agent-to-review-findings-and-tes",
-      "date": "2026-10-15",
-      "name": "Launch AWS DevOps Agent to review findings and test results from AWS Resilience Hub",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>The next generation of <a href=\"https://aws.amazon.com/resilience-hub\">AWS Resilience Hub</a> now integrates with AWS DevOps agent allowing you to review failure mode assessment findings and implement mitigations to r",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-devops-agent-test-results-aws-resilience-hub/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-15-dust-spa-poke-37f200d-front-enh-offer-the-figma-mcp-to-",
-      "date": "2026-10-15",
-      "name": "spa/poke/37f200d: [front] enh: offer the Figma MCP to current-pricing plans only (#35244)",
-      "vendor": "Dust",
-      "type": "pricing",
-      "summary": "<h2>Description</h2>\n<p>Restricts configuring the Figma MCP to workspaces on the current<br />\npricing: the credit-priced <code>CP_*</code> plans plus Dust's own company plans. A<br />\nnew <code>isCurrentPricingPlan</cod",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F37f200d"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-15-dust-spa-poke-3fb90e4",
-      "date": "2026-10-15",
-      "name": "spa/poke/3fb90e4",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>[front] enh: launch the Figma MCP publicly and announce it on the hom…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F3fb90e4"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-15-dust-spa-app-37f200d-front-enh-offer-the-figma-mcp-to-c",
-      "date": "2026-10-15",
-      "name": "spa/app/37f200d: [front] enh: offer the Figma MCP to current-pricing plans only (#35244)",
-      "vendor": "Dust",
-      "type": "pricing",
-      "summary": "<h2>Description</h2>\n<p>Restricts configuring the Figma MCP to workspaces on the current<br />\npricing: the credit-priced <code>CP_*</code> plans plus Dust's own company plans. A<br />\nnew <code>isCurrentPricingPlan</cod",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F37f200d"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-15-dust-spa-app-3fb90e4",
-      "date": "2026-10-15",
-      "name": "spa/app/3fb90e4",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>[front] enh: launch the Figma MCP publicly and announce it on the hom…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F3fb90e4"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-15-aws-aws-transform-for-migrations-is-now-available-in-a",
-      "date": "2026-10-15",
-      "name": "AWS Transform for migrations is now available in Asia Pacific (Singapore)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Transform for migrations is now available in the Asia Pacific (Singapore) Region, giving customers data residency within the region and lower latency to local source infrastructure as they migrate. <a href=\"https:",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-singapore"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-14-openai-amp-puts-ai-agents-to-work-beyond-code-with-openai",
-      "date": "2026-10-14",
-      "name": "Amp puts AI agents to work beyond code with OpenAI models",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/amp-beyond-coding"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-14-openai-sentinelone-cuts-malware-analysis-from-weeks-to-ho",
-      "date": "2026-10-14",
-      "name": "SentinelOne cuts malware analysis from weeks to hours",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/sentinelone"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-14-openai-how-third-moment-research-runs-10-000-agents-for-3",
-      "date": "2026-10-14",
-      "name": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/third-moment-research"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-14-openai-how-block-is-building-ai-powered-security-with-ope",
-      "date": "2026-10-14",
-      "name": "How Block is building AI-powered security with OpenAI technology",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/block-ai-powered-security"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-14-openai-the-eu-s-next-chapter-in-ai-is-agentic",
-      "date": "2026-10-14",
-      "name": "The EU’s next chapter in AI is agentic",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-14-openai-delayed-costs-data-in-the-compliance-api",
-      "date": "2026-10-14",
-      "name": "Delayed Costs data in the Compliance API",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Identified</b><br /><br />We have identified an issue causing delays in publishing organization cost data through the Costs API. A fix is in progress and currently undergoing testing. API and ChatGPT usage are",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01M4XNQX7C6RCBNGX9H711WFSG"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-14-aws-amazon-cloudwatch-announces-log-routing-and-chaine",
-      "date": "2026-10-14",
-      "name": "Amazon CloudWatch announces log routing and chained log parsers",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon CloudWatch now supports conditional log routing and chained parsers via pipelines, giving you more control over how log data is transformed and which CloudWatch log group it's sent to. CloudWatch pipelines is a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/cloudwatch-pipelines-log-routing/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-14-aws-amazon-sagemaker-studio-simplifies-getting-started",
-      "date": "2026-10-14",
-      "name": "Amazon SageMaker Studio simplifies getting started for new AI/ML builders with social sign-in",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker Studio now lets new customers sign up with their Google, GitHub, or Apple credentials and land inside a fully configured Studio environment - no traditional AWS account setup, no credit card, and no c",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-studio-social-sign-in/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-14-aws-aws-license-manager-now-supports-license-type-conv",
-      "date": "2026-10-14",
-      "name": "AWS License Manager now supports license type conversions for Ubuntu Pro purchased through AWS Marketplace",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/license-manager/\">AWS License Manager&nbsp;</a> now supports in-place upgrades for EC2 Ubuntu LTS (Long Term Support) instances to Ubuntu Pro available on AWS Marketplace. This allows c",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-license-manager-conversions-ubuntu-pro-marketplace/"
         }
       ],
       "impact": 5,
