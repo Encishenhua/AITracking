@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "2026-10-23-openai-delays-in-customer-support-responses",
+      "date": "2026-10-23",
+      "name": "Delays in customer support responses",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Investigating</b><br /><br />As a temporary solution, customers looking to reach out to OpenAI Support can email support@openai.com &quot;support@openai.com&quot;: mailto:support@openai.com.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M5KDJ4079XQTZDSRX40NMN6H"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-10-22-openai-chatgpt-conversion-failures-in-india-japan-and-kor",
       "date": "2026-10-22",
       "name": "ChatGPT conversion failures in India, Japan and Korea. And Response API errors",
@@ -14,6 +32,258 @@
         }
       ],
       "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-22-openai-elevated-chatgpt-conversation-and-responses-api-er",
+      "date": "2026-10-22",
+      "name": "Elevated ChatGPT conversation and Responses API errors",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Responses (Operational)</li>\n<li>Conversations (Operational)</li>\n    ",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M5GPE9C4E19HE461P8JAMYXD"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-22-aws-amazon-connect-customer-now-supports-customizing-t",
+      "date": "2026-10-22",
+      "name": "Amazon Connect Customer now supports customizing the Customer Profiles app on the agent workspace",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect Customer Profiles now allows administrators to customize which customer data that agents see in the agent workspace, and how it is displayed, using layouts they build in Profile Explorer. Customer Profi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-customize-cp"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-22-aws-aws-continuum-for-code-vulnerabilities-is-now-gene",
+      "date": "2026-10-22",
+      "name": "AWS Continuum for code vulnerabilities is now generally available",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the general availability of AWS Continuum for code vulnerabilities. Continuum for code vulnerabilities&nbsp;discovers, validates, prioritizes, and remediates code vulnerabilities at machine speed.",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-for-code-vulnerabilities-is-now-generally-available"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-22-aws-amazon-opensearch-serverless-now-supports-a-5-seco",
+      "date": "2026-10-22",
+      "name": "Amazon OpenSearch Serverless now supports a 5-second default refresh interval",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Starting today, Amazon OpenSearch Serverless reduces the default refresh interval to 5 seconds for both search and vector collections. The refresh interval controls how quickly newly ingested documents become availabl",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-opensearch-serverless-supports-5-second-refresh-interval/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-22-aws-aws-cloudformation-now-simplifies-stack-update-rol",
+      "date": "2026-10-22",
+      "name": "AWS CloudFormation now simplifies stack update rollback operations",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p><a href=\"https://docs.aws.amazon.com/cloudformation/\">AWS CloudFormation</a>&nbsp;now makes it simpler to complete an update rollback and get back to deploying. An update rollback returns your stack to a known good st",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-cloudformation-cdk/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-22-aws-amazon-sagemaker-ai-announces-training-session-api",
+      "date": "2026-10-22",
+      "name": "Amazon SageMaker AI announces training session APIs for serverless model customization",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker AI serverless model customization now supports training session APIs, giving customers full control over their post-training algorithm without provisioning or managing GPU infrastructure. Managed tech",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/training-session-apis-on-sagemaker-ai"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-22-aws-aws-direct-connect-announces-100g-expansion-in-ban",
+      "date": "2026-10-22",
+      "name": "AWS Direct Connect announces 100G expansion in Bangalore, India",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announced the expansion of 100 Gbps dedicated connections at the existing <a href=\"https://aws.amazon.com/directconnect\">AWS Direct Connect</a> location in the Netmagic DC2 data center near Bangalore, India",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-direct-connect-100g-bangalore/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-22-aws-aws-announces-aws-interconnect-last-mile-preview-w",
+      "date": "2026-10-22",
+      "name": "AWS announces AWS Interconnect - last mile preview with Megaport",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS launches AWS Interconnect - last mile preview with Megaport, a fully managed connectivity offering that allows customers to connect their branch offices, data centers, and remote locations to AWS with just a few c",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announces-AWS-interconnect-last-mile-megaport-preview/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-22-aws-amazon-sagemaker-ai-now-supports-serverless-model-",
+      "date": "2026-10-22",
+      "name": "Amazon SageMaker AI now supports serverless model customization for Muse Glimmer, Qwen 3.8 and Ministral 3 models",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker AI now supports serverless model customization for Muse Glimmer, Qwen3.8 27B, and Ministral 3 3B, 8B, and 14B models. In addition to deploying these models on SageMaker AI, you can now adapt them to y",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-sagemaker-muse-qwen-ministral/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-22-aws-agentcore-gateway-now-supports-bedrock-invokemodel",
+      "date": "2026-10-22",
+      "name": "AgentCore Gateway now supports Bedrock InvokeModel APIs and model fallback",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock AgentCore Gateway now supports the Amazon Bedrock InvokeModel and InvokeModelWithResponseStream APIs on its inference endpoint, along with model fallback routing for inference traffic. With InvokeModel ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-gateway-invokemodel-fallback/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-22-aws-aws-lambda-microvms-is-now-available-in-4-addition",
+      "date": "2026-10-22",
+      "name": "AWS Lambda MicroVMs is now available in 4 additional AWS regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Lambda MicroVMs is now available in 4 additional AWS Regions: Asia Pacific (Hong Kong), Asia Pacific (Malaysia), Asia Pacific (Thailand), and Europe (Spain). With this launch, you can use Lambda MicroVMs in a tota",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/lambda-microvms-4-additional-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-22-aws-amazon-quick-now-available-in-the-aws-singapore-re",
+      "date": "2026-10-22",
+      "name": "Amazon Quick Now Available in the AWS Singapore Region",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Quick is now available in the AWS Asia Pacific (Singapore) region (ap-southeast-1). This launch allows customers in Singapore to access the full power of Amazon Quick while meeting local requirements for data s",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-quick-now-available-in-the-aws-singapore-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-22-dust-spa-poke-683fd80-front-bring-back-z-index-in-side-",
+      "date": "2026-10-22",
+      "name": "spa/poke/683fd80: [front] bring back z-index in side menu button (#35788)",
+      "vendor": "Dust",
+      "type": "launch",
+      "summary": "<h2>Description</h2>\n<p>I was wrong about z-index and we indeed need in certain cases, I will<br />\ninvestigate why later but will bring it for now 🫡</p>\n\n\n<h2>Tests</h2>\n\n<h2>Risk</h2>\n\n<h2>Deploy Plan</h2>",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F683fd80"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-22-dust-spa-poke-21d7815-dfs-store-the-parent-conversation",
+      "date": "2026-10-22",
+      "name": "spa/poke/21d7815: dfs: store the parent conversation of sub-conversations (#35715)",
+      "vendor": "Dust",
+      "type": "upgrade",
+      "summary": "<h2>Description</h2>\n<p>Sub-conversations created by <code>run_agent</code> had no direct link to the<br />\nconversation that spawned them. The link was only in their first<br />\nmessage. This adds a <code>parentConversa",
+      "sources": [
+        {
+          "title": "Dust source",
+          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F21d7815"
+        }
+      ],
+      "impact": 3,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -803,276 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/mediaconnect-router-high-bitrate/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-19-aws-amazon-rds-for-sql-server-now-supports-snapshots-o",
-      "date": "2026-10-19",
-      "name": "Amazon RDS for SQL Server now supports snapshots on read replicas",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for SQL Server</a> now supports creating DB snapshots directly on read replica ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/rds-sqlserver-supports-snapshots-on-read-replicas"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-19-dust-spa-poke-41cd190-dfs-dfs-mount-lookup-inside-folde",
-      "date": "2026-10-19",
-      "name": "spa/poke/41cd190: [dfs] dfs-mount: lookup inside folders (#35364)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<h2>Description</h2>\n<p><code>Fs::lookup</code> now finds names inside dfs directories through<br />\n<code>Remote::lookup</code>, instead of returning <code>EOPNOTSUPP</code>. The object gets an<br />\ninode number from t",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F41cd190"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-19-dust-spa-poke-18aecd9",
-      "date": "2026-10-19",
-      "name": "spa/poke/18aecd9",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>MCP view: newly created view inherit 'restrict to skill' from systemV…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F18aecd9"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-19-dust-spa-poke-0e63b8e",
-      "date": "2026-10-19",
-      "name": "spa/poke/0e63b8e",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] Report MCP output persist progress through a callback (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/35332\">#35332</a>)</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F0e63b8e"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-18-dust-spa-poke-4d90626",
-      "date": "2026-10-18",
-      "name": "spa/poke/4d90626",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>[front] enh: let the figma_mcp flag override the Figma MCP plan gate …</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F4d90626"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-18-dust-spa-app-4d90626",
-      "date": "2026-10-18",
-      "name": "spa/app/4d90626",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>[front] enh: let the figma_mcp flag override the Figma MCP plan gate …</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fapp%2F4d90626"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-17-aws-aws-partner-central-adds-solution-matching-engine-",
-      "date": "2026-10-17",
-      "name": "AWS Partner Central adds Solution Matching Engine performance insights",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Partner Central now gives AWS Partners more visibility into how the Solution Matching Engine (SME) contributes to their co-sell pipeline. The Solution Matching Engine performance section in Partner Analytics helps",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/solution-matching-engine-performance"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-16-openai-how-ita-is-building-generative-ai-for-its-entire-c",
-      "date": "2026-10-16",
-      "name": "How Itaú is building generative AI for its entire customer base",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/itau-generative-ai"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-16-openai-stack-overflow-for-agents-triples-signups-with-cha",
-      "date": "2026-10-16",
-      "name": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-16-aws-amazon-cloudwatch-log-centralization-now-available",
-      "date": "2026-10-16",
-      "name": "Amazon CloudWatch log centralization now available in AWS GovCloud and additional commercial Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon CloudWatch log centralization is now available in AWS GovCloud (US) and 13 additional commercial Regions. CloudWatch log centralization copies log data from multiple AWS accounts and Regions into a single desti",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-cloudwatch-centralization-region-expansion"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-16-aws-aws-lambda-durable-functions-are-now-available-in-",
-      "date": "2026-10-16",
-      "name": "AWS Lambda durable functions are now available in AWS GovCloud (US) Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Lambda durable functions are now available in the AWS GovCloud (US-West) and AWS GovCloud (US-East) Regions. Lambda durable functions enable developers to build reliable multi-step applications and AI workflows wi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/durablefunctions-govcloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-16-aws-nemotron-3-5-super-vl-model-now-available-on-amazo",
-      "date": "2026-10-16",
-      "name": "Nemotron 3.5 Super VL model now available on Amazon SageMaker JumpStart",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>NVIDIA's Nemotron 3.5 Super VL is now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. This vision-language model from the Nemotron 3.5 family accepts i",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/nvidia-nemotron-3.5-super-vl-on-sagemaker-jumpstart/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-16-aws-beam-model-by-reflection-is-now-available-on-amazo",
-      "date": "2026-10-16",
-      "name": "Beam model by Reflection is now available on Amazon SageMaker JumpStart and AWS Trainium",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Beam, the first open weight model offered by US-based Reflection, is now available in Amazon SageMaker JumpStart, the model hub in Amazon SageMaker AI. According to Beam, they operate at the frontier of open weight mo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/reflection-beam-on-sagemaker-jumpstart-and-aws-trainium/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-16-aws-aws-transform-announces-azure-to-aws-cloud-native-",
-      "date": "2026-10-16",
-      "name": "AWS Transform announces Azure-to-AWS cloud-native code conversion",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announced the general availability of application code conversion from Azure SDK to AWS SDK in AWS Transform, giving you an accelerated path to migrate Microsoft Azure cloud-native .NET applications to AWS.",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-azure-to-aws-code-conversion/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-16-aws-second-generation-aws-outposts-racks-now-supported",
-      "date": "2026-10-16",
-      "name": "Second-generation AWS Outposts racks now supported in the AWS Mexico (Central) Region",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Second-generation AWS Outposts racks are now supported in the AWS Mexico (Central) Region. Outposts racks extend AWS infrastructure, AWS services, APIs, and tools to virtually any on-premises data center or colocation",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-outposts-racks-mexico-central/"
         }
       ],
       "impact": 5,
