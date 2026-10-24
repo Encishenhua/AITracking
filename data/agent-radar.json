@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "2026-10-24-crewai-1-15-30",
+      "date": "2026-10-24",
+      "name": "1.15.30",
+      "vendor": "CrewAI",
+      "type": "upgrade",
+      "summary": "<h2>What's Changed</h2>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Fix AGENTS.md to start the login process while evaluating and stop after three rounds.</li>\n</ul>\n<h3>Documentation</h3>\n<ul>\n<li>Update snapshot and changelog for v1.1",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.30"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-10-23-openai-delays-in-customer-support-responses",
       "date": "2026-10-23",
       "name": "Delays in customer support responses",
@@ -16,6 +34,96 @@
       "impact": 5,
       "risk": 3,
       "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-23-aws-web-search-on-aws-bedrock-now-supports-domain-filt",
+      "date": "2026-10-23",
+      "name": "Web Search on AWS Bedrock now supports domain filtering and user location controls",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Web Search on AWS Bedrock now supports two new controls that give you more precision over the results that ground a model's response: domain filtering and user location. Both are configured directly on the web_search ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-23-aws-amazon-connect-customer-global-resiliency-now-supp",
+      "date": "2026-10-23",
+      "name": "Amazon Connect Customer Global Resiliency now supports persistent chat across linked AWS Regions",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Connect Customer Global Resiliency now provides customers a mechanism to deliver long, persistent chat experiences across linked AWS Regions. With this capability, end users can resume previous conversations wi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-persistent-chat"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-23-aws-aws-transit-gateway-and-aws-cloud-wan-now-support-",
+      "date": "2026-10-23",
+      "name": "AWS Transit Gateway and AWS Cloud WAN now support 1:1 NAT",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Transit Gateway and AWS Cloud WAN now provide managed one-to-one network address translation (NAT) directly on their attachments, through integration with Regional Private NAT Gateway. This enables customers to co",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transit-gateway-cloud-wan-1-1-nat/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-23-aws-amazon-emr-on-eks-reduces-emr-charge-by-30-percent",
+      "date": "2026-10-23",
+      "name": "Amazon EMR on EKS reduces EMR charge by 30 percent",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon EMR announces a reduction of 30 percent in the EMR charge added to EKS when running EMR on EKS. This price decrease applies to both the per-vCPU-hour charge and the per-GB-hour charge, while the underlying Amaz",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/emr-eks-reduces-emr-charge-30-percent/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-23-crewai-1-15-29",
+      "date": "2026-10-23",
+      "name": "1.15.29",
+      "vendor": "CrewAI",
+      "type": "launch",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add support for LiteLLM-compatible kwargs.</li>\n<li>Implement platform application search in CLI.</li>\n<li>Highlight action picker search in CLI.</li>\n<li>Trace conversa",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.29"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
       "tags": []
     },
     {
@@ -284,6 +392,42 @@
         }
       ],
       "impact": 3,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-22-aws-amazon-opensearch-service-introduces-intelligent-i",
+      "date": "2026-10-22",
+      "name": "Amazon OpenSearch Service introduces intelligent ingestion for logs and documents in Amazon S3",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon OpenSearch Serverless now offers intelligent ingestion, a fully managed feature that turns logs and documents stored in Amazon S3 into searchable content in Amazon OpenSearch Serverless (NextGen) collections . ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-opensearch-intelligent-ingestion-logs-documents-s3"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-22-aws-amazon-msk-connect-now-supports-pausing-and-resumi",
+      "date": "2026-10-22",
+      "name": "Amazon MSK Connect now supports pausing and resuming connectors",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/msk/features/msk-connect/\">Amazon MSK Connect</a> (Amazon Managed Streaming for Apache Kafka Connect) now supports pausing and resuming connectors, letting you temporarily pause a conne",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-connect-pause-resume"
+        }
+      ],
+      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
@@ -932,150 +1076,6 @@
         }
       ],
       "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-20-dust-spa-poke-5df8a48-fix-handle-configured-inputs-in-s",
-      "date": "2026-10-20",
-      "name": "spa/poke/5df8a48: Fix: handle configured inputs in sandbox tool calls. (#35440)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<h2>Description</h2>\n<p>Sandbox tool schemas now hide internal <code>TOOL_INPUT.*</code> configuration<br />\nfields, while child and sandbox-function calls inject Dust-managed<br />\ndata-source and warehouse defaults int",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5df8a48"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-20-dust-spa-poke-0c223e7-front-co-edition-open-and-save-gf",
-      "date": "2026-10-20",
-      "name": "spa/poke/0c223e7: [front] co-edition: open and save GFM task lists (#35402)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>A Markdown file with a GFM task list, whose items start with <code>[ ]</code> (to<br />\ndo) or <code>[x]</code> (done) as on GitHub, cannot be edited in the document<br />\neditor: it opens read-only under \"This docume",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F0c223e7"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-20-aws-amazon-workspaces-simplifies-secure-ai-agent-acces",
-      "date": "2026-10-20",
-      "name": "Amazon WorkSpaces simplifies secure AI agent access to enterprise cloud desktops with less infrastructure to operate and manage",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>WorkSpaces for AI agents now handles authentication and desktop connections as part of the managed Model Context Protocol (MCP) service, so you can connect agents to governed cloud desktops, removing the need to write",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/workspaces-ai-agents-oauth-connection-management"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-19-aws-amazon-cloudwatch-omni-is-now-available-in-additio",
-      "date": "2026-10-19",
-      "name": "Amazon CloudWatch Omni is now available in additional AWS Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS announces that Amazon CloudWatch Omni is now available in eight additional AWS Regions. CloudWatch Omni is an AI-powered observability experience, organized around your teams and the applications they run, that he",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-cloudwatch-omni-8-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-19-aws-amazon-guardduty-adds-optional-threat-detection-ru",
-      "date": "2026-10-19",
-      "name": "Amazon GuardDuty adds optional threat detection rules for Runtime Monitoring",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon GuardDuty now supports optional detection rules for Runtime Monitoring. You can enable more than 50 Runtime Monitoring rules that help detect process, file, and network activity that might be routine in one env",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-runtime-optional-detection-rules/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-19-aws-grok-4-7-is-now-available-on-amazon-bedrock-in-aws",
-      "date": "2026-10-19",
-      "name": "Grok 4.7 is now available on Amazon Bedrock in AWS GovCloud (US)",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Bedrock now supports SpaceXAI Grok 4.7, a frontier model built for coding, agentic tasks, and knowledge work in AWS GovCloud (US).</p>\n<p>Grok 4.7 builds on Grok 4.6 with better mixed-document handling, more de",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-grok-4-7-govcloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-19-aws-aws-iam-identity-center-now-supports-optimistic-lo",
-      "date": "2026-10-19",
-      "name": "AWS IAM Identity Center now supports optimistic locking for users and groups in its identity store",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>IAM Identity Center helps you configure the single sign-on experience of your workforce to AWS accounts and applications. You can now use optimistic locking for users and groups in the identity store, so that update a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/iam-identity-store-optimistic-locking/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-19-aws-aws-elemental-mediaconnect-router-now-supports-hig",
-      "date": "2026-10-19",
-      "name": "AWS Elemental MediaConnect Router now supports high bitrate mode",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Elemental MediaConnect Router now supports high bitrate modes with two new tiers: 250 Mbps and 500 Mbps. This allows professional broadcasters that need higher bitrates to transport high-value content without comp",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/mediaconnect-router-high-bitrate/"
-        }
-      ],
-      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
