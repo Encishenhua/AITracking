@@ -127,6 +127,24 @@
       "tags": []
     },
     {
+      "id": "2026-10-23-aws-web-search-on-amazon-bedrock-now-supports-domain-f",
+      "date": "2026-10-23",
+      "name": "Web Search on Amazon Bedrock now supports domain filtering and user location controls",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Web Search on&nbsp;Amazon Bedrock now supports two new controls that give you more precision over the results that ground a model's response: domain filtering and user location. Both are configured directly on the web",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-10-22-openai-chatgpt-conversion-failures-in-india-japan-and-kor",
       "date": "2026-10-22",
       "name": "ChatGPT conversion failures in India, Japan and Korea. And Response API errors",
@@ -1055,24 +1073,6 @@
         {
           "title": "Dust source",
           "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F35a9532"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-20-dust-spa-poke-5e13e51-dfs-give-the-pod-s-groups-access-",
-      "date": "2026-10-20",
-      "name": "spa/poke/5e13e51: dfs: give the pod's groups access to its folder (#35445)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<h2>Description</h2>\n<p>Related to <a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/tasks/issues/11121\">dust-tt/tasks#11121</a>.</p>\n<p>Pod folders were only accessible to their owner (inherited from ",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F5e13e51"
         }
       ],
       "impact": 3,
