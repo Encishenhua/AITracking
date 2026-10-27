@@ -1,6 +1,168 @@
 {
   "items": [
     {
+      "id": "2026-10-26-openai-gpt-6-1-sol-helps-coderabbit-strengthen-security-a",
+      "date": "2026-10-26",
+      "name": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-26-openai-how-fanatics-and-openai-streamline-the-fan-experie",
+      "date": "2026-10-26",
+      "name": "How Fanatics and OpenAI streamline the fan experience",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/fanatics-streamline-fan-experience"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-26-openai-how-ultrafast-cut-incident-investigation-from-hour",
+      "date": "2026-10-26",
+      "name": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/openai-cut-incident-investigation"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-26-aws-openai-gpt-6-1-terra-is-now-generally-available-on",
+      "date": "2026-10-26",
+      "name": "OpenAI GPT-6.1 Terra is now generally available on Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS announces the general availability of OpenAI GPT-6.1 Terra on Amazon Bedrock. GPT-6.1 Terra expands the GPT-6 family with a balance of capability, speed, and cost efficiency for everyday workloads.&nbsp;</p",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-26-aws-amazon-sagemaker-unified-studio-adds-light-mode-su",
+      "date": "2026-10-26",
+      "name": "Amazon SageMaker Unified Studio adds light mode support for IDC-based domains",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces light mode support in Amazon SageMaker Unified Studio for Identity Center (IDC) based domains. Customers can now configure the visual interface mode to match their preference, choosing between dar",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/smus-light-mode"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-26-aws-amazon-connect-customer-expands-testing-and-simula",
+      "date": "2026-10-26",
+      "name": "Amazon Connect Customer expands testing and simulation to validate flow action outcomes",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect Customer now enables you to validate the outcomes of your customer experience flow actions during testing and simulation. In addition to confirming that an action started, you can now verify the data it",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-validate-flow-actions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-26-aws-amazon-connect-customer-now-lets-you-view-metrics-",
+      "date": "2026-10-26",
+      "name": "Amazon Connect Customer now lets you view metrics by customer lifetime value and repeat-caller status",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Now you can view your metrics across customer segments: customer lifetime value (LTV) and repeat callers. See how any metric differs for repeat callers versus the rest of your contacts, or how results hold up among yo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-boma-segment/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-26-aws-aws-iam-identity-center-now-supports-cross-region-",
+      "date": "2026-10-26",
+      "name": "AWS IAM Identity Center now supports cross-Region trusted identity propagation",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Trusted identity propagation carries a user's identity with their request, so AWS services can grant permissions based on who the user is and their underlying group associations, and log that user's access for auditin",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-iam-identity-center-cross-region-tip/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-26-aws-aws-glue-data-catalog-now-supports-oauth-for-apach",
+      "date": "2026-10-26",
+      "name": "AWS Glue Data Catalog now supports OAuth for Apache Iceberg REST Catalog APIs",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS Glue Data Catalog now supports OAuth 2.0 bearer token authentication for Apache Iceberg REST Catalog (IRC) APIs using AWS Sign-In. The Apache Iceberg REST Catalog specification defines OAuth 2.0 as its standard au",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/glue-catalog-oauth-iceberg-rest/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-10-24-crewai-1-15-30",
       "date": "2026-10-24",
       "name": "1.15.30",
@@ -914,168 +1076,6 @@
         }
       ],
       "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-20-aws-aws-partner-central-launches-program-navigator-cas",
-      "date": "2026-10-20",
-      "name": "AWS Partner Central launches Program Navigator, Case Study Generator, and streamlined specialization review",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Partner Central now features Program Navigator, a unified experience that lets partners discover, apply for, and track AWS Specialization program applications in one place. Partners can browse specialization desig",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/partner-central-program-navigator/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-20-aws-amazon-bedrock-advanced-prompt-optimization-now-su",
-      "date": "2026-10-20",
-      "name": "Amazon Bedrock Advanced Prompt Optimization now supports prompt shortening",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Bedrock Advanced Prompt Optimization now supports prompt shortening, an optional setting that reduces the length of your prompt while maintaining or improving your evaluation scores. Advanced Prompt Optimizatio",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-prompt-optimization-shortening/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-20-aws-aws-transform-for-migrations-expands-support-for-e",
-      "date": "2026-10-20",
-      "name": "AWS Transform for migrations expands support for existing landing zones",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Transform now supports more types of existing AWS environments when building landing zones for your migration, including AWS Control Tower landing zones and landing zones built with AWS Organizations. AWS Transfor",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-migrations-landing-zones/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-20-aws-amazon-elasticache-serverless-for-valkey-now-suppo",
-      "date": "2026-10-20",
-      "name": "Amazon ElastiCache Serverless for Valkey now supports online migration with zero downtime",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/elasticache/\">Amazon ElastiCache</a> Serverless for Valkey now supports online migration from self-managed Valkey and Redis OSS on Amazon EC2 with zero downtime. Zero downtime means zer",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-serverless-valkey-online-migration/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-20-dust-spa-poke-2395a0a",
-      "date": "2026-10-20",
-      "name": "spa/poke/2395a0a",
-      "vendor": "Dust",
-      "type": "pricing",
-      "summary": "<p>[Client-side MCP] Bill Dust's client-side tools at the price they dec…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F2395a0a"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-20-dust-spa-poke-81cdcd2",
-      "date": "2026-10-20",
-      "name": "spa/poke/81cdcd2",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] agent loop: add blocking inference hooks behind a feature fla…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F81cdcd2"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-20-dust-spa-poke-67bdde6-front-co-edition-create-task-list",
-      "date": "2026-10-20",
-      "name": "spa/poke/67bdde6: [front] co-edition: create task lists in the editor (#35403)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>With the previous PRs (<a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/35402\">#35402</a>, <a class=\"issue-link js-issue-link\" href=\"https://github.com/dust-tt/dust/pull/35406\">#35406</a>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F67bdde6"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-20-dust-spa-poke-051a6f4-front-common-layout-for-admin-man",
-      "date": "2026-10-20",
-      "name": "spa/poke/051a6f4: [front] common layout for admin & manage agent/skill pages (#35455)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<h2>Description</h2>\n<p>This PR is updating the layout of admin pages &amp; manage agents/skills<br />\npage, I need this to implement the new show/hidden sidebar design. We<br />\nneed to add some spacing on top &amp; lef",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F051a6f4"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-20-dust-spa-poke-35a9532",
-      "date": "2026-10-20",
-      "name": "spa/poke/35a9532",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<p>[front] Flag-gate Anthropic server-side fallback on the direct API (#…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F35a9532"
-        }
-      ],
-      "impact": 3,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
