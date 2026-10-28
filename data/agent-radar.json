@@ -1,6 +1,168 @@
 {
   "items": [
     {
+      "id": "2026-10-27-openai-retell-uses-openai-models-to-help-power-100m-month",
+      "date": "2026-10-27",
+      "name": "Retell uses OpenAI models to help power 100M monthly calls",
+      "vendor": "OpenAI",
+      "type": "pricing",
+      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/retell-ai"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-27-openai-openai-expands-partnership-with-oracle-to-bring-it",
+      "date": "2026-10-27",
+      "name": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/oracle-apps-in-chatgpt"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-27-openai-6-1-sol-degraded-model-performance",
+      "date": "2026-10-27",
+      "name": "6.1 Sol Degraded Model Performance",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Resolved</b><br /><br />All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>R",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M5YY4A3TQETEQ53DVSK8SW10"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-27-aws-amazon-ecs-now-supports-gpu-sharing-with-nvidia-mu",
+      "date": "2026-10-27",
+      "name": "Amazon ECS now supports GPU sharing with NVIDIA Multi-Process Service (MPS)",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p><a href=\"https://aws.amazon.com/ecs/\" target=\"_blank\">Amazon Elastic Container Service</a> (Amazon ECS) now supports GPU sharing with NVIDIA Multi-Process Service (MPS), enabling you to run multiple Amazon ECS tasks c",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-gpu-sharing-nvidia-mps/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-27-aws-sagemaker-mlflow-apps-now-support-mlflow-3-16",
+      "date": "2026-10-27",
+      "name": "SageMaker MLflow Apps now support MLflow 3.16",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon SageMaker AI MLflow Apps now support MLflow 3.16, bringing a redesigned tracing experience and faster experiment tracking to your generative AI and machine learning workflows.</p> \n<p>MLflow 3.16 improves debug",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/mflow-version-3-16/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-27-aws-amazon-aurora-serverless-now-supports-up-to-384-ac",
+      "date": "2026-10-27",
+      "name": "Amazon Aurora serverless now supports up to 384 ACUs",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/aurora/serverless/\" target=\"_blank\">Amazon Aurora serverless</a> now supports database capacity of up to 384 Aurora Capacity Units (ACUs) for Aurora PostgreSQL-Compatible Edition, a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-serverless-supports-384-acu/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-27-aws-amazon-elasticache-for-valkey-now-supports-changin",
+      "date": "2026-10-27",
+      "name": "Amazon ElastiCache for Valkey now supports changing durability on existing clusters",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon ElastiCache for Valkey now lets you enable or disable durability on your existing node-based clusters without creating a new cluster. Previously, you couldn't change the durability configuration of an existing ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/elasticache-changing-durability/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-27-aws-amazon-neptune-now-supports-online-index-rebuild-t",
+      "date": "2026-10-27",
+      "name": "Amazon Neptune now supports online index rebuild to reclaim storage",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/neptune/\">Amazon Neptune</a> Database now supports online index rebuild, a new capability that helps database administrators and application teams defragment Neptune indexes and reclaim",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/neptune-online-index-rebuild/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-27-crewai-1-15-31",
+      "date": "2026-10-27",
+      "name": "1.15.31",
+      "vendor": "CrewAI",
+      "type": "launch",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Support conversational flow context compaction.</li>\n</ul>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Update vulnerable audit dependencies.</li>\n<li>Stop sending 'stop' to GPT-6 and ne",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.31"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-10-26-openai-gpt-6-1-sol-helps-coderabbit-strengthen-security-a",
       "date": "2026-10-26",
       "name": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
@@ -155,6 +317,24 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/glue-catalog-oauth-iceberg-rest/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-26-aws-aws-elemental-mediaconnect-router-now-supports-end",
+      "date": "2026-10-26",
+      "name": "AWS Elemental MediaConnect Router now supports endpoint connection management",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/mediaconnect/features/router/\">AWS Elemental MediaConnect Router</a> now supports managing external connections through a new endpoint registry. The registry provides a centralized inte",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/mediaconnect-cross-account-endpoints/"
         }
       ],
       "impact": 5,
@@ -896,186 +1076,6 @@
         }
       ],
       "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-21-dust-spa-poke-60f5da8-front-co-edition-task-list-badges",
-      "date": "2026-10-21",
-      "name": "spa/poke/60f5da8: [front] co-edition: task list badges matching the plan panel (#35404)",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Tasks in the document editor show the browser's checkbox, while the same<br />\ntasks in the plan panel (the side panel showing an agent's plan in plan<br />\nmode) show Sparkle's step badge: a circle holding the task's",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F60f5da8"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-21-dust-spa-poke-29f876a-front-freshservice-add-workspace-",
-      "date": "2026-10-21",
-      "name": "spa/poke/29f876a: [front] Freshservice: add workspace_id filter to list_tickets (#35669)",
-      "vendor": "Dust",
-      "type": "launch",
-      "summary": "<h2>Description</h2>\n<p>On multi-workspace Freshservice accounts, <code>GET /api/v2/tickets</code> only<br />\nreturns tickets from the primary workspace, so agents could not list<br />\ntickets from other workspaces (<a c",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F29f876a"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-20-openai-franchisee-reconciles-cash-in-94-less-time-with-ch",
-      "date": "2026-10-20",
-      "name": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "vendor": "OpenAI",
-      "type": "pricing",
-      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/ted-taylor-restaurant"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-20-openai-terminal-x-matches-senior-investor-judgment-88-6-w",
-      "date": "2026-10-20",
-      "name": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/terminal-x"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-20-aws-announcing-amazon-ecs-gateway-a-managed-ingress-so",
-      "date": "2026-10-20",
-      "name": "Announcing Amazon ECS Gateway, a managed ingress solution for your ECS services",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS announces Amazon Elastic Container Service (Amazon ECS) Gateway, a new resource that simplifies ingress networking for containerized applications by dynamically provisioning and managing Application Load Balancers",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/announcing-amazon-ecs-gateway/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-20-aws-polly-generative-engine-upgraded-with-more-natural",
-      "date": "2026-10-20",
-      "name": "Polly Generative engine upgraded with more natural speech, 14 new voices, and 2 new languages",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, we are introducing a new model behind the Amazon Polly Generative engine that delivers more natural-sounding, accurate speech output with low latency. With this upgrade, you get access to an enhanced voice port",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/polly-generative/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-20-aws-structured-outputs-for-claude-models-available-on-",
-      "date": "2026-10-20",
-      "name": "Structured outputs for Claude models available on Amazon Bedrock",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock now supports structured outputs for all Anthropic Claude models across both the bedrock-runtime and the bedrock-mantle endpoint. Whether you call Claude through boto3 and the bedrock-runtime APIs or thr",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/claude-structured-outputs-bedrock/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-20-aws-aws-clean-rooms-now-supports-databricks-as-a-data-",
-      "date": "2026-10-20",
-      "name": "AWS Clean Rooms now supports Databricks as a data source",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Clean Rooms now supports <a href=\"https://docs.aws.amazon.com/clean-rooms/latest/userguide/prepare-data-databricks.html\" target=\"_blank\">Databricks as a data source</a>, so collaboration members and their partners",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-clean-rooms-supports-databricks"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-20-aws-aws-iam-identity-center-simplifies-identity-source",
-      "date": "2026-10-20",
-      "name": "AWS IAM Identity Center simplifies identity source changes from Active Directory",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS IAM Identity Center now retains your workforce identities and their assignments when you change your identity source from Active Directory to an external identity provider (IdP), such as Okta or Microsoft Entra ID",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/iam-identity-center-chg-id-src-from-ad/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-20-aws-amazon-bedrock-guardrails-now-supports-standard-ti",
-      "date": "2026-10-20",
-      "name": "Amazon Bedrock Guardrails now supports Standard tier for contextual grounding checks",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Bedrock Guardrails now offers a Standard tier for contextual grounding checks, which detect and filter hallucinations by checking whether a model response is grounded in your reference source and relevant to th",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-guardrails-grounding-standard/"
-        }
-      ],
-      "impact": 5,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
