@@ -1,6 +1,240 @@
 {
   "items": [
     {
+      "id": "2026-10-28-openai-openai-and-servicenow-expand-partnership-across-en",
+      "date": "2026-10-28",
+      "name": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/openai-servicenow-partnership-expansion"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-28-openai-legora-is-building-the-agentic-operating-system-fo",
+      "date": "2026-10-28",
+      "name": "Legora is building the agentic operating system for legal work",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/legora"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-28-aws-amazon-bedrock-agentcore-cli-version-1-0-is-now-av",
+      "date": "2026-10-28",
+      "name": "Amazon Bedrock AgentCore CLI version 1.0 is now available",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS announces the general availability of Amazon Bedrock AgentCore CLI version 1.0 (@aws/agentcore 1.0.0), rebuilt with faster startup, a consistent command structure, and support for more AgentCore resources. The CLI",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-agentcore-cli-version-1-0-available/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-28-aws-aws-lambda-supports-seekable-oci-soci-lazy-loading",
+      "date": "2026-10-28",
+      "name": "AWS Lambda supports Seekable OCI (SOCI) lazy loading for Lambda Managed Instances",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Lambda now supports <a href=\"https://github.com/awslabs/soci-snapshotter\">Seekable OCI (SOCI)</a>&nbsp;for lazy loading <a href=\"https://aws.amazon.com/lambda/lambda-functions/\">Event Functions</a> packaged as Ope",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-seekable-oci-soci/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-28-aws-introducing-time-series-collections-for-the-next-g",
+      "date": "2026-10-28",
+      "name": "Introducing time series collections for the next generation of Amazon OpenSearch Serverless",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, we're announcing support for time series collections on the next generation of Amazon OpenSearch Serverless. With time series collections, you can ingest, store, and analyze logs, metrics, traces, and event dat",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/time-series-collection-next-generation-opensearch-serverless/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-28-aws-quick-now-supports-smart-approvals-for-agentic-act",
+      "date": "2026-10-28",
+      "name": "Quick now supports smart approvals for agentic actions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Quick now supports smart approvals, a review layer that reduces unnecessary approval prompts while preserving human oversight of the actions that matter most. As agents take more actions on a user's behalf, suc",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/quick-smart-approvals-agentic-actions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-28-aws-amazon-eks-dashboard-now-provides-fleet-wide-visib",
+      "date": "2026-10-28",
+      "name": "Amazon EKS Dashboard now provides fleet-wide visibility into certificate authority (CA) rotation",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, Amazon Elastic Kubernetes Service (Amazon EKS) announces certificate authority (CA) rotation visibility in the Amazon EKS Dashboard, giving you a consolidated view of CA rotation across your clusters. The Amazo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-dashboard-fleet-wide-visibility-certificate-authority-ca-rotation/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-28-aws-amazon-ecs-managed-instances-adds-cross-instance-a",
+      "date": "2026-10-28",
+      "name": "Amazon ECS Managed Instances adds cross-instance and Spot consolidation",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, <a href=\"https://aws.amazon.com/ecs/managed-instances/\">Amazon Elastic Container Service (Amazon ECS) Managed Instances</a> introduces two infrastructure optimization updates: cross-instance and Spot consolidat",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/ecs-managed-instances-consolidation/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-28-aws-aws-lambda-durable-functions-now-exports-live-tele",
+      "date": "2026-10-28",
+      "name": "AWS Lambda durable functions now exports live telemetry for execution insights",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Lambda announces the Durable Execution Telemetry Exporter plugin for Lambda durable functions. This new observability plugin captures the step-by-step history of your durable executions and sends them to one or mo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/lambda-durable-telemetry/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-28-aws-amazon-eks-auto-mode-now-supports-kubernetes-gatew",
+      "date": "2026-10-28",
+      "name": "Amazon EKS Auto Mode now supports Kubernetes Gateway API",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon EKS Auto Mode now supports the Kubernetes Gateway API, giving customers a standard, portable way to define how traffic reaches their applications. Customers can configure application load balancing using Gatewa",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-auto-mode-kubernetes-gateway-api/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-28-aws-aws-backup-adds-restore-testing-support-for-amazon",
+      "date": "2026-10-28",
+      "name": "AWS Backup adds restore testing support for Amazon Redshift",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Backup restore testing now supports Amazon Redshift. Restore testing helps you automate and periodically run restore tests of your backups, so you can confirm that your Amazon Redshift backups restore successfully",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-backup-adds-redshift-restore-testing/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-28-aws-announcing-the-aws-marketplace-and-amazon-business",
+      "date": "2026-10-28",
+      "name": "Announcing the AWS Marketplace and Amazon Business unified storefront",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS Marketplace and Amazon Business announced the unified storefront. Organizations can now give their teams one curated catalog that puts software, data, and AI tools from AWS Marketplace alongside physical go",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/marketplace-business-storefront/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-28-aws-aws-iam-identity-center-s-identity-store-now-suppo",
+      "date": "2026-10-28",
+      "name": "AWS IAM Identity Center's Identity Store now supports change notifications through Amazon EventBridge",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS IAM Identity Center's Identity Store now delivers real-time events to Amazon EventBridge when users, groups, or group memberships or the identity store itself is created, updated, or deleted. AWS IAM Identity Cent",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-identity-store-change-notifications/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-10-27-openai-retell-uses-openai-models-to-help-power-100m-month",
       "date": "2026-10-27",
       "name": "Retell uses OpenAI models to help power 100M monthly calls",
@@ -160,6 +394,42 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-10-27-aws-amazon-connect-customer-supports-inline-attachment",
+      "date": "2026-10-27",
+      "name": "Amazon Connect Customer supports inline attachment previews",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect Customer lets agents preview attachments directly in the agent workspace, reducing contact handling time and limiting the need to download sensitive customer information. Agents can preview PDFs, images",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-attachment-previews/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-27-aws-amazon-elasticache-expands-data-tiering-to-r8gd-an",
+      "date": "2026-10-27",
+      "name": "Amazon ElastiCache expands data tiering to R8gd and R7gd nodes in Europe (Spain) and Asia Pacific (Hyderabad)",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon ElastiCache for Valkey data tiering is now available on Graviton4-based R8gd nodes in the AWS Europe (Spain) Region, and on Graviton3-based R7gd nodes in the Europe (Spain) and Asia Pacific (Hyderabad) Regions.",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/elasticache-data-tiering-spain/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
       "tags": []
     },
     {
@@ -806,276 +1076,6 @@
         }
       ],
       "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-21-openai-how-at-t-is-rethinking-in-house-legal-work-with-op",
-      "date": "2026-10-21",
-      "name": "How AT&T is rethinking in-house legal work with OpenAI",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "AT&amp;T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/att-legal"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-21-openai-openai-models-are-coming-to-google-cloud",
-      "date": "2026-10-21",
-      "name": "OpenAI models are coming to Google Cloud",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/openai-models-google-cloud"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-21-openai-patch-the-planet-global-response-coordination-as-a",
-      "date": "2026-10-21",
-      "name": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-21-openai-using-thousands-of-ai-agents-to-uncover-new-leads-",
-      "date": "2026-10-21",
-      "name": "Using thousands of AI agents to uncover new leads in biological data",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-21-openai-cloudflare-links-vulnerability-discovery-to-defens",
-      "date": "2026-10-21",
-      "name": "Cloudflare links vulnerability discovery to defense with OpenAI",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/cloudflare-cyber"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-21-openai-democratic-governance-of-frontier-ai-part-ii-empow",
-      "date": "2026-10-21",
-      "name": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/empowering-cyber-defenders"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-21-aws-amazon-cognito-extends-multi-region-replication-to",
-      "date": "2026-10-21",
-      "name": "Amazon Cognito extends multi-Region replication to AWS GovCloud (US) Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Cognito multi-Region replication (MRR) now supports AWS GovCloud (US) Regions, extending the resilience benefits of MRR to more workloads. MRR lets you synchronize user and machine identity data, including cred",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/cognito-multi-region-us-govcloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-21-aws-beam-model-by-reflection-is-now-available-on-amazo",
-      "date": "2026-10-21",
-      "name": "Beam model by Reflection is now available on Amazon SageMaker JumpStart and AWS Trainium",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Beam, the first open weight model offered by US-based Reflection, is now available in Amazon SageMaker JumpStart, the model hub in Amazon SageMaker AI. According to Beam, they operate at the frontier of open weight mo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/reflection-beam-on-sagemaker-jumpstart-and-aws-trainium/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-21-aws-aws-neuron-2-33-adds-native-pytorch-support-neuron",
-      "date": "2026-10-21",
-      "name": "AWS Neuron 2.33 adds native PyTorch support, Neuron Observer, and other new features",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Neuron 2.33 is now available, introducing TorchNeuron, the native PyTorch backend for AWS Trainium, in public beta. You can run models written with the standard PyTorch APIs on Amazon EC2 Trn2 and Trn3 instances, ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-neuron-2-33-0"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-21-aws-amazon-connect-customer-launches-two-new-layouts-f",
-      "date": "2026-10-21",
-      "name": "Amazon Connect Customer launches two new layouts for agent workspace",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect Customer now offers two different layouts that optimize screen space on the agent workspace. Contact center agents spend hours each day in the agent workspace, which includes all of the contact controls",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-new-layouts-agent-workspace"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-21-aws-amazon-s3-server-access-log-delivery-to-amazon-clo",
-      "date": "2026-10-21",
-      "name": "Amazon S3 server access log delivery to Amazon CloudWatch Logs now available in five additional AWS Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon S3 server access log delivery to Amazon CloudWatch Logs is now available in the AWS GovCloud (US) Regions, AWS European Sovereign Cloud, and AWS China Regions. With your access logs in CloudWatch Logs, you can ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-s3-server-access-logs-cloudwatch-logs-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-21-aws-amazon-sagemaker-ai-now-supports-custom-sequence-l",
-      "date": "2026-10-21",
-      "name": "Amazon SageMaker AI now supports custom sequence lengths for serverless model customization jobs",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, Amazon SageMaker AI announces the ability to configure the sequence length used during your serverless model customization job. Amazon SageMaker AI serverless model customization supports fine-tuning for many o",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-custom-sequence-lengths/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-21-aws-aws-network-firewall-now-supports-route-53-resolve",
-      "date": "2026-10-21",
-      "name": "AWS Network Firewall now supports Route 53 Resolved IP Validation",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Network Firewall now supports IP validation, extending domain-based filtering beyond HTTP/HTTPS to protocols such as SFTP and SSH. This new capability validates that a connection's destination IP address was resol",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/network-firewall-route-53-ip-validation/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-21-dust-spa-poke-637be39",
-      "date": "2026-10-21",
-      "name": "spa/poke/637be39",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>[front] remove feedback column + reduce font weight in manage agent/s…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F637be39"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-21-dust-spa-poke-313d320",
-      "date": "2026-10-21",
-      "name": "spa/poke/313d320",
-      "vendor": "Dust",
-      "type": "upgrade",
-      "summary": "<p>Indicate the type of credentials in the server description for agents…</p>",
-      "sources": [
-        {
-          "title": "Dust source",
-          "url": "https://github.com/dust-tt/dust/releases/tag/spa%2Fpoke%2F313d320"
-        }
-      ],
-      "impact": 3,
       "risk": 3,
       "audience": "enterprise",
       "tags": []
