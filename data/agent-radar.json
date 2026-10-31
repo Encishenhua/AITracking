@@ -1,6 +1,240 @@
 {
   "items": [
     {
+      "id": "2026-10-30-openai-making-it-easier-for-websites-to-express-ai-traini",
+      "date": "2026-10-30",
+      "name": "Making it easier for websites to express AI training preferences",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/helping-websites-express-ai-training-preferences"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-30-openai-fair-use-benefits-everyone",
+      "date": "2026-10-30",
+      "name": "Fair use benefits everyone",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/fair-use-benefits-everyone"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-30-openai-elevated-errors-with-search-in-dots-chatgpt-work-a",
+      "date": "2026-10-30",
+      "name": "Elevated errors with search in Dots, ChatGPT Work, and certain ChatGPT thinking experiences",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Resolved</b><br /><br />All affected services are operating normally again.\n\nWe’re sorry for the disruption, and we appreciate your patience.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M6754SR14HCQ3E9FX426E2N7"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-30-openai-elevated-errors-for-gpt-image-2-api-image-edits",
+      "date": "2026-10-30",
+      "name": "Elevated errors for GPT Image 2 API image edits",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Resolved</b><br /><br />All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>I",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M66KSDH67V5BQ73PE8AD2W8S"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-30-aws-amazon-bedrock-expands-api-support-and-introduces-",
+      "date": "2026-10-30",
+      "name": "Amazon Bedrock expands API support and introduces Cross-Region Inferencing for OpenAI models in AWS GovCloud (US)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock now supports the OpenAI GPT-5.6 models (Terra and Luna) on the bedrock-runtime endpoint, with support for the Responses, Converse, and Chat Completions APIs in AWS GovCloud (US). It also adds support fo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-openai-runtime-govcloud/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-30-aws-web-search-now-available-on-kiro-in-aws-govcloud-u",
+      "date": "2026-10-30",
+      "name": "Web Search now available on Kiro in AWS GovCloud (US)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Kiro web search gives the agent real-time access to current information on the internet, so its answers draw on up-to-date search results and page content. The agent uses web search automatically when a question invol",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/kiro-web-search-aws-govcloud-us/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-30-aws-amazon-connect-customer-automatically-saves-in-pro",
+      "date": "2026-10-30",
+      "name": "Amazon Connect Customer automatically saves in-progress emails as drafts",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Connect Customer automatically saves in-progress emails as drafts, helping agents resume work without losing progress when connectivity is interrupted or when their browser is accidentally closed or refreshed. ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-email-draft-save/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-30-aws-daybreak-red-from-openai-now-available-to-eligible",
+      "date": "2026-10-30",
+      "name": "Daybreak Red from OpenAI now available to eligible customers on Amazon Bedrock in AWS GovCloud (US-East)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Security teams need powerful tools to find vulnerabilities, test exploits, and build defenses. Daybreak Red from OpenAI is now available to eligible customers on Amazon Bedrock in AWS GovCloud (US-East), bringing adva",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/openai-daybreak-red-govcloud-east/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-30-aws-amazon-msk-now-supports-tls-1-3-for-data-in-transi",
+      "date": "2026-10-30",
+      "name": "Amazon MSK now supports TLS 1.3 for data in transit",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon MSK now supports version 1.3 of Transport Layer Security (TLS) protocol for MSK Provisioned clusters through encryption policies. TLS 1.3 delivers faster, more secure encryption for streaming data and is increa",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-tls/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-30-aws-amazon-rds-for-oracle-no-longer-requires-automatic",
+      "date": "2026-10-30",
+      "name": "Amazon RDS for Oracle no longer requires automatic minor version upgrades for JVM, Spatial, Locator, and OLAP options",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/oracle/\">Amazon Relational Database Service (Amazon RDS) for Oracle</a> now lets you turn off automatic minor version upgrades on new and existing DB instances that use the JVM, Spa",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/oracle-jvm-spatial-locator-olap-options-amvu-optional/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-30-aws-amazon-connect-customer-now-supports-versioning-an",
+      "date": "2026-10-30",
+      "name": "Amazon Connect Customer now supports versioning and aliasing for flows",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect Customer now supports versioning and aliasing for flows and flow modules, simplifying how you build, test, and deploy customer experience flows while minimizing impact to live end-customer traffic. With",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-flows-versioning-aliasing/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-30-aws-managed-prometheus-collectors-now-support-amazon-m",
+      "date": "2026-10-30",
+      "name": "Managed Prometheus collectors now support Amazon MSK consumer-group metrics",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Managed Prometheus collectors now support Amazon MSK consumer-group metrics for <a href=\"https://aws.amazon.com/prometheus/\">Amazon Managed Service for Prometheus</a> and <a href=\"https://aws.amazon.com/cloudwatch/\">A",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/prometheus-collectors-msk-metrics/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-30-aws-amazon-sagemaker-ai-inference-now-supports-gpu-par",
+      "date": "2026-10-30",
+      "name": "Amazon SageMaker AI inference now supports GPU partitioning for real-time endpoints",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker AI inference now supports GPU partitioning, enabling you to run several models on a single GPU instead of dedicating a whole accelerator to each one. Using NVIDIA Multi-Instance GPU (MIG) technology, ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-gpu-partitioning/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-10-29-openai-how-we-detect-frontier-model-misalignment",
       "date": "2026-10-29",
       "name": "How we detect frontier model misalignment",
@@ -178,6 +412,42 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-10-29-aws-amazon-redshift-announces-hands-off-automated-cros",
+      "date": "2026-10-29",
+      "name": "Amazon Redshift announces hands-off automated cross-region backups",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/redshift/\">Amazon Redshift </a>announces automated cross-region snapshot copy for Amazon Redshift. You can now have your Amazon Redshift provisioned cluster or serverless workgroup auto",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-automated-cross-region-backups/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-29-aws-amazon-sagemaker-unified-studio-now-supports-custo",
+      "date": "2026-10-29",
+      "name": "Amazon SageMaker Unified Studio now supports custom designations",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker Unified Studio now supports custom designations, named permission sets that control what actions individual project members can perform. Previously, project members could only be assigned Owner or Con",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-custom-designations/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
       "tags": []
     },
     {
@@ -803,276 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-iam-identity-center-cross-region-tip/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-26-aws-aws-glue-data-catalog-now-supports-oauth-for-apach",
-      "date": "2026-10-26",
-      "name": "AWS Glue Data Catalog now supports OAuth for Apache Iceberg REST Catalog APIs",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>AWS Glue Data Catalog now supports OAuth 2.0 bearer token authentication for Apache Iceberg REST Catalog (IRC) APIs using AWS Sign-In. The Apache Iceberg REST Catalog specification defines OAuth 2.0 as its standard au",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/glue-catalog-oauth-iceberg-rest/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-26-aws-aws-elemental-mediaconnect-router-now-supports-end",
-      "date": "2026-10-26",
-      "name": "AWS Elemental MediaConnect Router now supports endpoint connection management",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/mediaconnect/features/router/\">AWS Elemental MediaConnect Router</a> now supports managing external connections through a new endpoint registry. The registry provides a centralized inte",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/mediaconnect-cross-account-endpoints/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-24-crewai-1-15-30",
-      "date": "2026-10-24",
-      "name": "1.15.30",
-      "vendor": "CrewAI",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Fix AGENTS.md to start the login process while evaluating and stop after three rounds.</li>\n</ul>\n<h3>Documentation</h3>\n<ul>\n<li>Update snapshot and changelog for v1.1",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.30"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-10-23-openai-delays-in-customer-support-responses",
-      "date": "2026-10-23",
-      "name": "Delays in customer support responses",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Investigating</b><br /><br />As a temporary solution, customers looking to reach out to OpenAI Support can email support@openai.com &quot;support@openai.com&quot;: mailto:support@openai.com.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01M5KDJ4079XQTZDSRX40NMN6H"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-23-aws-web-search-on-aws-bedrock-now-supports-domain-filt",
-      "date": "2026-10-23",
-      "name": "Web Search on AWS Bedrock now supports domain filtering and user location controls",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Web Search on AWS Bedrock now supports two new controls that give you more precision over the results that ground a model's response: domain filtering and user location. Both are configured directly on the web_search ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-23-aws-amazon-connect-customer-global-resiliency-now-supp",
-      "date": "2026-10-23",
-      "name": "Amazon Connect Customer Global Resiliency now supports persistent chat across linked AWS Regions",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Connect Customer Global Resiliency now provides customers a mechanism to deliver long, persistent chat experiences across linked AWS Regions. With this capability, end users can resume previous conversations wi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-persistent-chat"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-23-aws-aws-transit-gateway-and-aws-cloud-wan-now-support-",
-      "date": "2026-10-23",
-      "name": "AWS Transit Gateway and AWS Cloud WAN now support 1:1 NAT",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Transit Gateway and AWS Cloud WAN now provide managed one-to-one network address translation (NAT) directly on their attachments, through integration with Regional Private NAT Gateway. This enables customers to co",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transit-gateway-cloud-wan-1-1-nat/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-23-aws-amazon-emr-on-eks-reduces-emr-charge-by-30-percent",
-      "date": "2026-10-23",
-      "name": "Amazon EMR on EKS reduces EMR charge by 30 percent",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon EMR announces a reduction of 30 percent in the EMR charge added to EKS when running EMR on EKS. This price decrease applies to both the per-vCPU-hour charge and the per-GB-hour charge, while the underlying Amaz",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/emr-eks-reduces-emr-charge-30-percent/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-23-crewai-1-15-29",
-      "date": "2026-10-23",
-      "name": "1.15.29",
-      "vendor": "CrewAI",
-      "type": "launch",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add support for LiteLLM-compatible kwargs.</li>\n<li>Implement platform application search in CLI.</li>\n<li>Highlight action picker search in CLI.</li>\n<li>Trace conversa",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.29"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-10-23-aws-web-search-on-amazon-bedrock-now-supports-domain-f",
-      "date": "2026-10-23",
-      "name": "Web Search on Amazon Bedrock now supports domain filtering and user location controls",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Web Search on&nbsp;Amazon Bedrock now supports two new controls that give you more precision over the results that ground a model's response: domain filtering and user location. Both are configured directly on the web",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-22-openai-chatgpt-conversion-failures-in-india-japan-and-kor",
-      "date": "2026-10-22",
-      "name": "ChatGPT conversion failures in India, Japan and Korea. And Response API errors",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Monitoring</b><br /><br />We have applied the mitigation and are monitoring the recovery.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Conversations (Degraded performance)</li>\n<li>Respon",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01M5GPE9C4E19HE461P8JAMYXD"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-22-openai-elevated-chatgpt-conversation-and-responses-api-er",
-      "date": "2026-10-22",
-      "name": "Elevated ChatGPT conversation and Responses API errors",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "<b>Status: Resolved</b><br /><br />All impacted services have now fully recovered.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>Responses (Operational)</li>\n<li>Conversations (Operational)</li>\n    ",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01M5GPE9C4E19HE461P8JAMYXD"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-22-aws-amazon-connect-customer-now-supports-customizing-t",
-      "date": "2026-10-22",
-      "name": "Amazon Connect Customer now supports customizing the Customer Profiles app on the agent workspace",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect Customer Profiles now allows administrators to customize which customer data that agents see in the agent workspace, and how it is displayed, using layouts they build in Profile Explorer. Customer Profi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-customize-cp"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-22-aws-aws-continuum-for-code-vulnerabilities-is-now-gene",
-      "date": "2026-10-22",
-      "name": "AWS Continuum for code vulnerabilities is now generally available",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the general availability of AWS Continuum for code vulnerabilities. Continuum for code vulnerabilities&nbsp;discovers, validates, prioritizes, and remediates code vulnerabilities at machine speed.",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-for-code-vulnerabilities-is-now-generally-available"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-22-aws-amazon-opensearch-serverless-now-supports-a-5-seco",
-      "date": "2026-10-22",
-      "name": "Amazon OpenSearch Serverless now supports a 5-second default refresh interval",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Starting today, Amazon OpenSearch Serverless reduces the default refresh interval to 5 seconds for both search and vector collections. The refresh interval controls how quickly newly ingested documents become availabl",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-opensearch-serverless-supports-5-second-refresh-interval/"
         }
       ],
       "impact": 5,
