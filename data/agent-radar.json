@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "2026-11-01-crewai-1-15-34",
+      "date": "2026-11-01",
+      "name": "1.15.34",
+      "vendor": "CrewAI",
+      "type": "deprecation",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add standalone LiteLLM catalog PR before version bump</li>\n<li>Record where crewai run stops before kickoff</li>\n<li>Add crewai skill search to list the organization's s",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.34"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-10-30-openai-making-it-easier-for-websites-to-express-ai-traini",
       "date": "2026-10-30",
       "name": "Making it easier for websites to express AI training preferences",
@@ -1055,24 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-boma-segment/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-26-aws-aws-iam-identity-center-now-supports-cross-region-",
-      "date": "2026-10-26",
-      "name": "AWS IAM Identity Center now supports cross-Region trusted identity propagation",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Trusted identity propagation carries a user's identity with their request, so AWS services can grant permissions based on who the user is and their underlying group associations, and log that user's access for auditin",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-iam-identity-center-cross-region-tip/"
         }
       ],
       "impact": 5,
