@@ -1,6 +1,258 @@
 {
   "items": [
     {
+      "id": "2026-11-03-openai-file-upload-errors-in-chatgpt",
+      "date": "2026-11-03",
+      "name": "File upload errors in ChatGPT",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Resolved</b><br /><br />All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>F",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M6FDZ89W4PKDS19K496J307G"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-03-aws-amazon-rds-for-oracle-now-supports-m8i-and-r8i-ins",
+      "date": "2026-11-03",
+      "name": "Amazon RDS for Oracle now supports M8i and R8i instances in additional AWS Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/oracle/\">Amazon Relational Database Service (Amazon RDS) for Oracle</a>&nbsp;now supports M8i and R8i instances in additional AWS Regions. Both M8i and R8i instances are now availab",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-m8i-r8i-instances-new-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-02-aws-haiku-5-5-now-available-on-kiro-in-aws-govcloud-us",
+      "date": "2026-11-02",
+      "name": "Haiku 5.5 now available on Kiro in AWS GovCloud (US)",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>A new Anthropic model is now available in the Kiro IDE and CLI for the AWS GovCloud (US) Regions. With Haiku 5.5, all three Claude 5.5 models are now available in Kiro in AWS GovCloud (US).</p> \n<p>Claude Haiku 5.5 is",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/kiro-haiku-5-5-aws-govcloud-us/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-02-aws-amazon-rds-now-supports-per-snapshot-billing",
+      "date": "2026-11-02",
+      "name": "Amazon RDS now supports per snapshot billing",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, Amazon RDS supports per snapshot billing for Amazon RDS snapshots. Per snapshot billing allows you to get the cost of each individual snapshot.</p> \n<p>Previously, RDS snapshot charges were aggregated ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-per-snapshot-billing/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-02-aws-amazon-quick-on-desktop-now-uses-your-organization",
+      "date": "2026-11-02",
+      "name": "Amazon Quick on desktop now uses your organization's existing Amazon Quick sign-in",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>For organizations that use Amazon Quick, the desktop application now signs users in with the same sign-in method the organization already uses for Quick on the web. Administrators no longer need to register an OIDC ap",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-quick-desktop-organization-sign-in/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-02-aws-amazon-aurora-mysql-8-4-10-is-now-generally-availa",
+      "date": "2026-11-02",
+      "name": "Amazon Aurora MySQL 8.4.10 is now generally available",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, <a href=\"https://aws.amazon.com/rds/aurora/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Aurora MySQL-Compatible Edition</a> 8.4 supports MySQL 8.4.10. We recommend upgrading to the newer minor ve",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-mysql-8410-available/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-02-aws-aws-lambda-now-supports-queues-for-apache-kafka-in",
+      "date": "2026-11-02",
+      "name": "AWS Lambda now supports queues for Apache Kafka in self-managed Kafka event sources",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Lambda now supports <a href=\"https://cwiki.apache.org/confluence/spaces/KAFKA/pages/255070434/KIP-932+Queues+for+Kafka\">queues for Apache Kafka</a> in <a href=\"https://docs.aws.amazon.com/lambda/latest/dg/with-kaf",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-queue-kafka-esm/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-02-aws-amazon-aurora-mysql-3-14-compatible-with-mysql-8-0",
+      "date": "2026-11-02",
+      "name": "Amazon Aurora MySQL 3.14 (compatible with MySQL 8.0.46) is generally available",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Aurora MySQL-Compatible Edition 3 (compatible with MySQL 8.0) supports MySQL 8.0.46, which includes community MySQL fixes and Aurora-specific improvements. In addition to operational improvement",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-mysql-314-available/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-02-aws-amazon-connect-customer-now-supports-model-context",
+      "date": "2026-11-02",
+      "name": "Amazon Connect Customer now supports Model Context Protocol (MCP) tools in flows",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect Customer now enables you to invoke Model Context Protocol (MCP) tools in customer experience flows through the new 'External Tool' block. With this launch, you can connect flows to third-party applicati",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-flows-mcp-tools/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-02-aws-amazon-connect-customer-now-supports-cases-and-ext",
+      "date": "2026-11-02",
+      "name": "Amazon Connect Customer now supports Cases and External Tool events in the Wait block",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Connect Customer now supports Cases and External Tool events in the Wait block, giving you more control over how your customer experience flows react to real-time data changes. In addition to waiting for a Lamb",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-wait-block-cases-tool-events/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-02-aws-ec2-amazon-machine-images-can-now-be-scanned-for-v",
+      "date": "2026-11-02",
+      "name": "EC2 Amazon Machine Images can now be scanned for vulnerabilities through Amazon Inspector",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Inspector now extends its vulnerability scanning to EC2 Amazon Machine Images (AMIs), enabling you to identify software vulnerabilities in your AMIs without launching instances or installing additional software",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-amis-scanned-through-inspector/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-02-aws-amazon-textract-now-available-in-asia-pacific-toky",
+      "date": "2026-11-02",
+      "name": "Amazon Textract now available in Asia Pacific (Tokyo) and Europe (Zurich)",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Textract is now available in the Asia Pacific (Tokyo) and Europe (Zurich) Regions. Amazon Textract is a machine learning service that automatically extracts text, handwriting, and data from scanned documents, g",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/textract-tokyo-zurich/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-02-aws-announcing-aws-for-fluent-bit-3-0-0-based-on-fluen",
+      "date": "2026-11-02",
+      "name": "Announcing AWS for Fluent Bit 3.0.0 based on Fluent Bit 4.1.1",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS for Fluent Bit announces version <a href=\"https://github.com/aws/aws-for-fluent-bit/releases/tag/v3.0.0\" rel=\"noopener noreferrer\" target=\"_blank\">3.0.0</a>, based on Fluent Bit version 4.1.1 and Amazon Linux 2023",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2025/10/aws-fluent-bit-3-0-0-based-4-1-1"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-02-aws-announcing-an-updated-text-detection-model-for-ama",
+      "date": "2026-11-02",
+      "name": "Announcing an updated text detection model for Amazon Textract",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Textract now provides an updated text detection model that improves accuracy, expands language support, and enhances multilingual table extraction. The updated model applies to the DetectDocumentText and Analyz",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/textract-text-detection-model/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-11-01-crewai-1-15-34",
       "date": "2026-11-01",
       "name": "1.15.34",
@@ -245,6 +497,24 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-gpu-partitioning/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-10-30-aws-amazon-quick-introduces-quick-essentials",
+      "date": "2026-10-30",
+      "name": "Amazon Quick Introduces Quick Essentials",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Quick introduces Quick Essentials for enterprises. The plan makes it easier for organizations to get started with all the features of Quick such as AI-powered chat, Research, Flows, and Apps, and lets users vie",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-quick-essentials/"
         }
       ],
       "impact": 5,
@@ -803,276 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-gpu-sharing-nvidia-mps/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-27-aws-sagemaker-mlflow-apps-now-support-mlflow-3-16",
-      "date": "2026-10-27",
-      "name": "SageMaker MLflow Apps now support MLflow 3.16",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon SageMaker AI MLflow Apps now support MLflow 3.16, bringing a redesigned tracing experience and faster experiment tracking to your generative AI and machine learning workflows.</p> \n<p>MLflow 3.16 improves debug",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/mflow-version-3-16/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-27-aws-amazon-aurora-serverless-now-supports-up-to-384-ac",
-      "date": "2026-10-27",
-      "name": "Amazon Aurora serverless now supports up to 384 ACUs",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/aurora/serverless/\" target=\"_blank\">Amazon Aurora serverless</a> now supports database capacity of up to 384 Aurora Capacity Units (ACUs) for Aurora PostgreSQL-Compatible Edition, a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-serverless-supports-384-acu/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-27-aws-amazon-elasticache-for-valkey-now-supports-changin",
-      "date": "2026-10-27",
-      "name": "Amazon ElastiCache for Valkey now supports changing durability on existing clusters",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon ElastiCache for Valkey now lets you enable or disable durability on your existing node-based clusters without creating a new cluster. Previously, you couldn't change the durability configuration of an existing ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/elasticache-changing-durability/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-27-aws-amazon-neptune-now-supports-online-index-rebuild-t",
-      "date": "2026-10-27",
-      "name": "Amazon Neptune now supports online index rebuild to reclaim storage",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/neptune/\">Amazon Neptune</a> Database now supports online index rebuild, a new capability that helps database administrators and application teams defragment Neptune indexes and reclaim",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/neptune-online-index-rebuild/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-27-crewai-1-15-31",
-      "date": "2026-10-27",
-      "name": "1.15.31",
-      "vendor": "CrewAI",
-      "type": "launch",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Support conversational flow context compaction.</li>\n</ul>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Update vulnerable audit dependencies.</li>\n<li>Stop sending 'stop' to GPT-6 and ne",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.31"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-10-27-aws-amazon-connect-customer-supports-inline-attachment",
-      "date": "2026-10-27",
-      "name": "Amazon Connect Customer supports inline attachment previews",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect Customer lets agents preview attachments directly in the agent workspace, reducing contact handling time and limiting the need to download sensitive customer information. Agents can preview PDFs, images",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-attachment-previews/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-27-aws-amazon-elasticache-expands-data-tiering-to-r8gd-an",
-      "date": "2026-10-27",
-      "name": "Amazon ElastiCache expands data tiering to R8gd and R7gd nodes in Europe (Spain) and Asia Pacific (Hyderabad)",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon ElastiCache for Valkey data tiering is now available on Graviton4-based R8gd nodes in the AWS Europe (Spain) Region, and on Graviton3-based R7gd nodes in the Europe (Spain) and Asia Pacific (Hyderabad) Regions.",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/09/elasticache-data-tiering-spain/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-27-aws-amazon-bedrock-now-offers-canada-cross-region-infe",
-      "date": "2026-10-27",
-      "name": "Amazon Bedrock now offers Canada cross-Region inference for Claude Haiku 5.5",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock now offers Canada cross-Region inference (CRIS) for Anthropic's Claude Haiku 5.5. Customers with strict data residency requirements can now keep inference processing entirely within Canada. Canada CRIS ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/claude-haiku-5-5-canada-cris/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-26-openai-gpt-6-1-sol-helps-coderabbit-strengthen-security-a",
-      "date": "2026-10-26",
-      "name": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-26-openai-how-fanatics-and-openai-streamline-the-fan-experie",
-      "date": "2026-10-26",
-      "name": "How Fanatics and OpenAI streamline the fan experience",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/fanatics-streamline-fan-experience"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-26-openai-how-ultrafast-cut-incident-investigation-from-hour",
-      "date": "2026-10-26",
-      "name": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/openai-cut-incident-investigation"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-26-aws-openai-gpt-6-1-terra-is-now-generally-available-on",
-      "date": "2026-10-26",
-      "name": "OpenAI GPT-6.1 Terra is now generally available on Amazon Bedrock",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS announces the general availability of OpenAI GPT-6.1 Terra on Amazon Bedrock. GPT-6.1 Terra expands the GPT-6 family with a balance of capability, speed, and cost efficiency for everyday workloads.&nbsp;</p",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-26-aws-amazon-sagemaker-unified-studio-adds-light-mode-su",
-      "date": "2026-10-26",
-      "name": "Amazon SageMaker Unified Studio adds light mode support for IDC-based domains",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces light mode support in Amazon SageMaker Unified Studio for Identity Center (IDC) based domains. Customers can now configure the visual interface mode to match their preference, choosing between dar",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/smus-light-mode"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-26-aws-amazon-connect-customer-expands-testing-and-simula",
-      "date": "2026-10-26",
-      "name": "Amazon Connect Customer expands testing and simulation to validate flow action outcomes",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect Customer now enables you to validate the outcomes of your customer experience flow actions during testing and simulation. In addition to confirming that an action started, you can now verify the data it",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-validate-flow-actions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-26-aws-amazon-connect-customer-now-lets-you-view-metrics-",
-      "date": "2026-10-26",
-      "name": "Amazon Connect Customer now lets you view metrics by customer lifetime value and repeat-caller status",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Now you can view your metrics across customer segments: customer lifetime value (LTV) and repeat callers. See how any metric differs for repeat callers versus the rest of your contacts, or how results hold up among yo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-boma-segment/"
         }
       ],
       "impact": 5,
