@@ -37,6 +37,60 @@
       "tags": []
     },
     {
+      "id": "2026-11-03-aws-amazon-connect-customer-lets-agents-pause-and-resu",
+      "date": "2026-11-03",
+      "name": "Amazon Connect Customer lets agents pause and resume emails",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect Customer lets agents pause emails while waiting for information or approvals, freeing them to handle higher-priority contacts and resume their work later. For example, an agent waiting for a supervisor ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-pause-resume-email/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-03-aws-amazon-connect-customer-prefills-the-email-address",
+      "date": "2026-11-03",
+      "name": "Amazon Connect Customer prefills the email address for new threads started from cases",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect Customer automatically fills in the customer’s email address from the linked customer profile when agents start a new email thread from a case. This saves agents time and reduces manual entry errors by ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-email-addresses/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-03-aws-aws-config-now-supports-10-new-resource-types",
+      "date": "2026-11-03",
+      "name": "AWS Config now supports 10 new resource types",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Config now supports 10 additional AWS resource types across key services including Amazon ElastiCache and Amazon QuickSight. This expansion provides greater coverage over your AWS environment, enabling you to more",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-config-new-resource-types"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-11-02-aws-haiku-5-5-now-available-on-kiro-in-aws-govcloud-us",
       "date": "2026-11-02",
       "name": "Haiku 5.5 now available on Kiro in AWS GovCloud (US)",
@@ -1019,60 +1073,6 @@
         {
           "title": "OpenAI source",
           "url": "https://openai.com/index/retell-ai"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-27-openai-openai-expands-partnership-with-oracle-to-bring-it",
-      "date": "2026-10-27",
-      "name": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/oracle-apps-in-chatgpt"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-27-openai-6-1-sol-degraded-model-performance",
-      "date": "2026-10-27",
-      "name": "6.1 Sol Degraded Model Performance",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Resolved</b><br /><br />All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>R",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01M5YY4A3TQETEQ53DVSK8SW10"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-27-aws-amazon-ecs-now-supports-gpu-sharing-with-nvidia-mu",
-      "date": "2026-10-27",
-      "name": "Amazon ECS now supports GPU sharing with NVIDIA Multi-Process Service (MPS)",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p><a href=\"https://aws.amazon.com/ecs/\" target=\"_blank\">Amazon Elastic Container Service</a> (Amazon ECS) now supports GPU sharing with NVIDIA Multi-Process Service (MPS), enabling you to run multiple Amazon ECS tasks c",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-gpu-sharing-nvidia-mps/"
         }
       ],
       "impact": 5,
