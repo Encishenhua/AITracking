@@ -1,6 +1,204 @@
 {
   "items": [
     {
+      "id": "2026-11-05-openai-elevated-error-rates-across-paid-chatgpt-plans",
+      "date": "2026-11-05",
+      "name": "Elevated error rates across paid ChatGPT plans",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Resolved</b><br /><br />All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>C",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M6MBCX427A7113A3T4FJ1N6Y"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-04-openai-devrev-delivers-autonomous-self-service-with-gpt-6",
+      "date": "2026-11-04",
+      "name": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/devrev-enterprise-self-service"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-04-aws-amazon-ecs-managed-daemons-can-now-collect-json-fi",
+      "date": "2026-11-04",
+      "name": "Amazon ECS Managed Daemons can now collect json-file logs from application containers on Amazon ECS Managed Instances",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/ecs/\">Amazon Elastic Container Service</a> (Amazon ECS) introduces json-file log driver support for Amazon ECS Managed Instances and log driver volumes for Amazon ECS Managed Daemons. T",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ecs-managed-instances-json-file-log-driver/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-04-aws-amazon-documentdb-with-mongodb-compatibility-is-no",
+      "date": "2026-11-04",
+      "name": "Amazon DocumentDB (with MongoDB compatibility) is now available in the Asia Pacific (Taipei) and Asia Pacific (New Zealand) Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon DocumentDB (with MongoDB compatibility) is now available in the Asia Pacific (Taipei) and Asia Pacific (New Zealand) Regions, adding to the <a>list of </a><a href=\"https://aws.amazon.com/about-aws/global-infras",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-documentdb-mongodb-compatibility-asia-pacific-taipei-new-zealand-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-04-aws-aws-announces-aws-interconnect-last-mile-preview-w",
+      "date": "2026-11-04",
+      "name": "AWS announces AWS Interconnect - last mile preview with Equinix",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Interconnect - last mile is now available in preview with Equinix. You can connect your infrastructure across Equinix's global network of 282 data centers worldwide to AWS in a few clicks.</p> \n<p>Interconnect - l",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/interconnect-last-mile-preview-equinix/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-04-aws-amazon-connect-customer-now-shows-associated-cases",
+      "date": "2026-11-04",
+      "name": "Amazon Connect Customer now shows associated cases in contact records",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect Customer now includes case IDs and reference numbers in contact records, helping supervisors and analysts understand which customer issues drive contact volume. Cases track issues, such as refund reques",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-contact-records/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-04-aws-amazon-ec2-and-vpc-now-display-related-resources-f",
+      "date": "2026-11-04",
+      "name": "Amazon EC2 and VPC now display related resources for all resource types",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Elastic Compute Cloud (Amazon EC2), Amazon Virtual Private Cloud (Amazon VPC), and AWS Global View now display related resources for all resource types in their consoles. Previously, only security groups had an",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-vpc-related-resources-all-types/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-04-aws-aws-datasync-enhanced-mode-supports-openid-connect",
+      "date": "2026-11-04",
+      "name": "AWS DataSync Enhanced mode supports OpenID Connect (OIDC) for Google Cloud and Microsoft Azure",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS DataSync Enhanced mode now supports OpenID Connect (OIDC) authentication for Google Cloud Storage and Microsoft Azure Blob Storage locations. DataSync uses an AWS Identity and Access Management (IAM) role to get s",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/datasync-enhanced-oidc-google-azure/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-04-aws-amazon-s3-tables-now-provide-a-simple-cost-effecti",
+      "date": "2026-11-04",
+      "name": "Amazon S3 Tables now provide a simple, cost-effective path for data lake modernization",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon S3 Tables now offer managed migration of your Apache Hive tables to Apache Iceberg. Iceberg adds ACID transactions, schema evolution, and time travel to your data lake, but moving off Hive usually means buildin",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-tables-managed-migration-hive-to-iceberg/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-04-aws-rhel-10-rocky-10-and-ubuntu-26-04-bundles-for-work",
+      "date": "2026-11-04",
+      "name": "RHEL 10, Rocky 10 and Ubuntu 26.04 Bundles for WorkSpaces",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS announces new Linux bundles for Amazon WorkSpaces Personal, including Rocky Linux 10, Red Hat Enterprise Linux 10, and Ubuntu 26.04 LTS. With these bundles, you can launch WorkSpaces on the latest enterprise Linux",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/rhel-10-rocky-10-ubuntu-26-04-workspaces/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-04-aws-new-features-for-amazon-ec2-capacity-manager",
+      "date": "2026-11-04",
+      "name": "New features for Amazon EC2 Capacity Manager",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon EC2 Capacity Manager now offers real-time supportability checks and capacity fulfillment metrics. Real-time supportability checks help customers find capacity by scoring how well each instance type and Availabi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-capacity-manager-supportability-and-fulfillment/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-11-03-openai-file-upload-errors-in-chatgpt",
       "date": "2026-11-03",
       "name": "File upload errors in ChatGPT",
@@ -83,6 +281,24 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-config-new-resource-types"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-03-aws-amazon-workspaces-for-ai-agents-now-supports-linux",
+      "date": "2026-11-03",
+      "name": "Amazon WorkSpaces for AI agents now supports Linux and Windows 11 cloud desktops",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>WorkSpaces for AI agents now supports Linux and Windows 11 cloud desktops, in addition to Windows Server. You can run each AI agent on the operating system that its workflows and applications require. Your agents can ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-ai-agents-linux-windows-11"
         }
       ],
       "impact": 5,
@@ -857,222 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-seekable-oci-soci/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-28-aws-introducing-time-series-collections-for-the-next-g",
-      "date": "2026-10-28",
-      "name": "Introducing time series collections for the next generation of Amazon OpenSearch Serverless",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, we're announcing support for time series collections on the next generation of Amazon OpenSearch Serverless. With time series collections, you can ingest, store, and analyze logs, metrics, traces, and event dat",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/time-series-collection-next-generation-opensearch-serverless/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-28-aws-quick-now-supports-smart-approvals-for-agentic-act",
-      "date": "2026-10-28",
-      "name": "Quick now supports smart approvals for agentic actions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Quick now supports smart approvals, a review layer that reduces unnecessary approval prompts while preserving human oversight of the actions that matter most. As agents take more actions on a user's behalf, suc",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/quick-smart-approvals-agentic-actions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-28-aws-amazon-eks-dashboard-now-provides-fleet-wide-visib",
-      "date": "2026-10-28",
-      "name": "Amazon EKS Dashboard now provides fleet-wide visibility into certificate authority (CA) rotation",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, Amazon Elastic Kubernetes Service (Amazon EKS) announces certificate authority (CA) rotation visibility in the Amazon EKS Dashboard, giving you a consolidated view of CA rotation across your clusters. The Amazo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-dashboard-fleet-wide-visibility-certificate-authority-ca-rotation/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-28-aws-amazon-ecs-managed-instances-adds-cross-instance-a",
-      "date": "2026-10-28",
-      "name": "Amazon ECS Managed Instances adds cross-instance and Spot consolidation",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, <a href=\"https://aws.amazon.com/ecs/managed-instances/\">Amazon Elastic Container Service (Amazon ECS) Managed Instances</a> introduces two infrastructure optimization updates: cross-instance and Spot consolidat",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/ecs-managed-instances-consolidation/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-28-aws-aws-lambda-durable-functions-now-exports-live-tele",
-      "date": "2026-10-28",
-      "name": "AWS Lambda durable functions now exports live telemetry for execution insights",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Lambda announces the Durable Execution Telemetry Exporter plugin for Lambda durable functions. This new observability plugin captures the step-by-step history of your durable executions and sends them to one or mo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/lambda-durable-telemetry/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-28-aws-amazon-eks-auto-mode-now-supports-kubernetes-gatew",
-      "date": "2026-10-28",
-      "name": "Amazon EKS Auto Mode now supports Kubernetes Gateway API",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon EKS Auto Mode now supports the Kubernetes Gateway API, giving customers a standard, portable way to define how traffic reaches their applications. Customers can configure application load balancing using Gatewa",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-auto-mode-kubernetes-gateway-api/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-28-aws-aws-backup-adds-restore-testing-support-for-amazon",
-      "date": "2026-10-28",
-      "name": "AWS Backup adds restore testing support for Amazon Redshift",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Backup restore testing now supports Amazon Redshift. Restore testing helps you automate and periodically run restore tests of your backups, so you can confirm that your Amazon Redshift backups restore successfully",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-backup-adds-redshift-restore-testing/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-28-aws-announcing-the-aws-marketplace-and-amazon-business",
-      "date": "2026-10-28",
-      "name": "Announcing the AWS Marketplace and Amazon Business unified storefront",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS Marketplace and Amazon Business announced the unified storefront. Organizations can now give their teams one curated catalog that puts software, data, and AI tools from AWS Marketplace alongside physical go",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/marketplace-business-storefront/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-28-aws-aws-iam-identity-center-s-identity-store-now-suppo",
-      "date": "2026-10-28",
-      "name": "AWS IAM Identity Center's Identity Store now supports change notifications through Amazon EventBridge",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS IAM Identity Center's Identity Store now delivers real-time events to Amazon EventBridge when users, groups, or group memberships or the identity store itself is created, updated, or deleted. AWS IAM Identity Cent",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-identity-store-change-notifications/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-28-aws-public-endpoints-for-amazon-elasticache-serverless",
-      "date": "2026-10-28",
-      "name": "Public endpoints for Amazon ElastiCache Serverless now in AWS GovCloud (US)",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon ElastiCache Serverless for Valkey now supports public endpoints in the AWS GovCloud (US) Regions. A public endpoint lets you connect to your cache from a serverless function or any application running outside a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-serverless-public-endpoints-govcloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-28-aws-aws-agent-registry-is-now-available-in-four-additi",
-      "date": "2026-10-28",
-      "name": "AWS Agent Registry is now available in four additional AWS Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Agent Registry, available through Amazon Bedrock AgentCore, is now available in four additional AWS Regions: Europe (London) eu-west-2, Europe (Frankfurt) eu-central-1, US East (Ohio) us-east-2, and Canada (Centra",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-agent-registry-four-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-27-openai-retell-uses-openai-models-to-help-power-100m-month",
-      "date": "2026-10-27",
-      "name": "Retell uses OpenAI models to help power 100M monthly calls",
-      "vendor": "OpenAI",
-      "type": "pricing",
-      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/retell-ai"
         }
       ],
       "impact": 5,
