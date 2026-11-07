@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "2026-11-07-openai-elevated-error-rates-with-some-u-s-business-master",
+      "date": "2026-11-07",
+      "name": "Elevated error rates with some U.S. business Mastercards",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Monitoring</b><br /><br />We’ve applied a mitigation and are monitoring the affected services to confirm recovery.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M6S2FV5TZWQ753NHRB7BF5K7"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-07-crewai-1-15-37",
+      "date": "2026-11-07",
+      "name": "1.15.37",
+      "vendor": "CrewAI",
+      "type": "upgrade",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add functionality to read spreadsheets for agents in crewai-files.</li>\n<li>Scaffold and load standalone agent projects.</li>\n</ul>\n<h3>Documentation</h3>\n<ul>\n<li>Updat",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.37"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-11-06-openai-chatgpt-work-and-dots-errors",
       "date": "2026-11-06",
       "name": "ChatGPT Work and Dots Errors",
@@ -52,6 +88,114 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-11-06-openai-measuring-how-ai-agents-handle-everyday-wet-lab-sc",
+      "date": "2026-11-06",
+      "name": "Measuring how AI agents handle everyday wet-lab science",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-06-aws-kimi-k3-1-pro-highspeed-now-available-on-amazon-be",
+      "date": "2026-11-06",
+      "name": "Kimi K3.1 Pro (Highspeed) now available on Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Today, Kimi K3.1 Pro from Moonshot AI is available on Amazon Bedrock, expanding our open weight model portfolio with the security and governance that customers rely on. Customers using Amazon Bedrock can now run agent",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/moonshot-ai-kimi-k3-1-pro-on-amazon-bedrock"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-06-aws-agent-registry-is-now-generally-available-in-aws-g",
+      "date": "2026-11-06",
+      "name": "Agent Registry is now generally available in AWS GovCloud (US-West) Region",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Agent Registry, available through Amazon Bedrock AgentCore, is now available in the AWS GovCloud (US-West) Region.</p> \n<p>AWS Agent Registry is a fully managed discovery service that gives your organization a cen",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-agent-registry-govcloud-us-west/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-06-aws-amazon-msk-replicator-is-now-available-in-aws-govc",
+      "date": "2026-11-06",
+      "name": "Amazon MSK Replicator is now available in AWS GovCloud (US-East, US-West) Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>You can now use Amazon MSK Replicator in the AWS GovCloud (US-East, US-West) Regions to replicate streaming data across <a href=\"https://aws.amazon.com/msk/\">Amazon MSK</a> clusters and from external Apache Kafka clus",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-replicator-additional-aws-regions"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-06-aws-amazon-redshift-expands-super-data-type-to-store-s",
+      "date": "2026-11-06",
+      "name": "Amazon Redshift expands SUPER data type to store strings up to 16 million bytes",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/redshift/\">Amazon Redshift</a> now supports individual strings up to 16 million bytes within <a href=\"https://docs.aws.amazon.com/redshift/latest/dg/r_SUPER_type.html\">SUPER data types<",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-redshift-expands-super-to-16-million-bytes/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-06-aws-amazon-simple-email-service-is-now-available-in-si",
+      "date": "2026-11-06",
+      "name": "Amazon Simple Email Service is now available in six new AWS Regions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/ses/\">Amazon Simple Email Service (Amazon SES)&nbsp;</a> is now available in the Asia Pacific (New Zealand, Melbourne, Taipei, Thailand), Mexico (Central), EU (Spain). Customers can now",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-simple-email-service-new-aws-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
       "tags": []
     },
     {
@@ -263,6 +407,24 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-ssm-parameter-store-allows-organization-validation-with-new-data-types/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-05-aws-amazon-ec2-now-publishes-imdsv1enabled-cloudwatch-",
+      "date": "2026-11-05",
+      "name": "Amazon EC2 now publishes ImdsV1Enabled CloudWatch metric",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon EC2 now supports an ImdsV1Enabled CloudWatch metric, giving customers visibility into which of their EC2 instances still have Instance Metadata Service Version 1 (IMDSv1) enabled. You can use this metric to tra",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-imdsv1enabled-cloudwatch-metric/"
         }
       ],
       "impact": 5,
@@ -911,168 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/kiro-web-search-aws-govcloud-us/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-30-aws-amazon-connect-customer-automatically-saves-in-pro",
-      "date": "2026-10-30",
-      "name": "Amazon Connect Customer automatically saves in-progress emails as drafts",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Connect Customer automatically saves in-progress emails as drafts, helping agents resume work without losing progress when connectivity is interrupted or when their browser is accidentally closed or refreshed. ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-email-draft-save/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-30-aws-daybreak-red-from-openai-now-available-to-eligible",
-      "date": "2026-10-30",
-      "name": "Daybreak Red from OpenAI now available to eligible customers on Amazon Bedrock in AWS GovCloud (US-East)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Security teams need powerful tools to find vulnerabilities, test exploits, and build defenses. Daybreak Red from OpenAI is now available to eligible customers on Amazon Bedrock in AWS GovCloud (US-East), bringing adva",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/openai-daybreak-red-govcloud-east/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-30-aws-amazon-msk-now-supports-tls-1-3-for-data-in-transi",
-      "date": "2026-10-30",
-      "name": "Amazon MSK now supports TLS 1.3 for data in transit",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon MSK now supports version 1.3 of Transport Layer Security (TLS) protocol for MSK Provisioned clusters through encryption policies. TLS 1.3 delivers faster, more secure encryption for streaming data and is increa",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-tls/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-30-aws-amazon-rds-for-oracle-no-longer-requires-automatic",
-      "date": "2026-10-30",
-      "name": "Amazon RDS for Oracle no longer requires automatic minor version upgrades for JVM, Spatial, Locator, and OLAP options",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/oracle/\">Amazon Relational Database Service (Amazon RDS) for Oracle</a> now lets you turn off automatic minor version upgrades on new and existing DB instances that use the JVM, Spa",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/oracle-jvm-spatial-locator-olap-options-amvu-optional/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-30-aws-amazon-connect-customer-now-supports-versioning-an",
-      "date": "2026-10-30",
-      "name": "Amazon Connect Customer now supports versioning and aliasing for flows",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect Customer now supports versioning and aliasing for flows and flow modules, simplifying how you build, test, and deploy customer experience flows while minimizing impact to live end-customer traffic. With",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/connect-flows-versioning-aliasing/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-30-aws-managed-prometheus-collectors-now-support-amazon-m",
-      "date": "2026-10-30",
-      "name": "Managed Prometheus collectors now support Amazon MSK consumer-group metrics",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Managed Prometheus collectors now support Amazon MSK consumer-group metrics for <a href=\"https://aws.amazon.com/prometheus/\">Amazon Managed Service for Prometheus</a> and <a href=\"https://aws.amazon.com/cloudwatch/\">A",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/prometheus-collectors-msk-metrics/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-30-aws-amazon-sagemaker-ai-inference-now-supports-gpu-par",
-      "date": "2026-10-30",
-      "name": "Amazon SageMaker AI inference now supports GPU partitioning for real-time endpoints",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker AI inference now supports GPU partitioning, enabling you to run several models on a single GPU instead of dedicating a whole accelerator to each one. Using NVIDIA Multi-Instance GPU (MIG) technology, ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-gpu-partitioning/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-30-aws-amazon-quick-introduces-quick-essentials",
-      "date": "2026-10-30",
-      "name": "Amazon Quick Introduces Quick Essentials",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Quick introduces Quick Essentials for enterprises. The plan makes it easier for organizations to get started with all the features of Quick such as AI-powered chat, Research, Flows, and Apps, and lets users vie",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-quick-essentials/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-29-openai-how-we-detect-frontier-model-misalignment",
-      "date": "2026-10-29",
-      "name": "How we detect frontier model misalignment",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
         }
       ],
       "impact": 5,
