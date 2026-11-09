@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "2026-11-08-openai-elevated-errors-with-image-generation",
+      "date": "2026-11-08",
+      "name": "Elevated errors with image generation",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Resolved</b><br /><br />All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>I",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M6XVDCKRT3PSB0YP8J30GTD5"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-08-crewai-1-15-38",
+      "date": "2026-11-08",
+      "name": "1.15.38",
+      "vendor": "CrewAI",
+      "type": "upgrade",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Make gpt-6-luna crewAI's default model everywhere</li>\n<li>Read spreadsheet URLs in an agent's input with tools over every row</li>\n<li>Tag eval usage spans with target ",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.38"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-11-07-openai-elevated-error-rates-with-some-u-s-business-master",
       "date": "2026-11-07",
       "name": "Elevated error rates with some U.S. business Mastercards",
@@ -1037,42 +1073,6 @@
         {
           "title": "OpenAI source",
           "url": "https://status.openai.com//incidents/01M66KSDH67V5BQ73PE8AD2W8S"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-30-aws-amazon-bedrock-expands-api-support-and-introduces-",
-      "date": "2026-10-30",
-      "name": "Amazon Bedrock expands API support and introduces Cross-Region Inferencing for OpenAI models in AWS GovCloud (US)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock now supports the OpenAI GPT-5.6 models (Terra and Luna) on the bedrock-runtime endpoint, with support for the Responses, Converse, and Chat Completions APIs in AWS GovCloud (US). It also adds support fo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-openai-runtime-govcloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-10-30-aws-web-search-now-available-on-kiro-in-aws-govcloud-u",
-      "date": "2026-10-30",
-      "name": "Web Search now available on Kiro in AWS GovCloud (US)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Kiro web search gives the agent real-time access to current information on the internet, so its answers draw on up-to-date search results and page content. The agent uses web search automatically when a question invol",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/kiro-web-search-aws-govcloud-us/"
         }
       ],
       "impact": 5,
