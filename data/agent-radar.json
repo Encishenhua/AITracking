@@ -1,6 +1,204 @@
 {
   "items": [
     {
+      "id": "2026-11-11-openai-unable-to-start-new-workspace-agent-runs",
+      "date": "2026-11-11",
+      "name": "Unable to start new Workspace Agent runs",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Investigating</b><br /><br />We are investigating an issue preventing users from starting new Workspace Agent runs. We will share another update as more information becomes available.<br /><br /><b>Affected co",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M76CW2D7FM7K7F8NJ4W0G08N"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-11-openai-elevated-errors-affecting-logins-sign-ups-and-chat",
+      "date": "2026-11-11",
+      "name": "Elevated errors affecting logins, sign-ups, and ChatGPT features",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Resolved</b><br /><br />All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>L",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M765MJQK7F85SC82RMTYN0V3"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-11-aws-ornith-1-0-9b-and-ornith-1-0-35b-models-now-availa",
+      "date": "2026-11-11",
+      "name": "Ornith-1.0-9B and Ornith-1.0-35B models now available on Amazon SageMaker JumpStart",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>DeepReinforce AI's Ornith-1.0-9B and Ornith-1.0-35B models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. These two models are part of the Orn",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/ornith-1-0-9b-ornith-1-0-35b-on-sagemaker-jumpstart/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-11-aws-deepseek-v4-pro-deepseek-v4-flash-and-deepseek-v4-",
+      "date": "2026-11-11",
+      "name": "DeepSeek-V4-Pro, DeepSeek-V4-Flash, and DeepSeek-V4.1-Flash models now available on Amazon SageMaker JumpStart",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>DeepSeek's DeepSeek-V4-Pro, DeepSeek-V4-Flash, and DeepSeek-V4.1-Flash models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. These three open-",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/deepseek-v4-pro-v4-flash-v4.1-flash-on-sagemaker-jumpstart/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-11-aws-aws-network-security-manager-now-available-in-aws-",
+      "date": "2026-11-11",
+      "name": "AWS Network Security Manager now available in AWS European Sovereign Cloud and Additional New Regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Network Security Manager is now available in AWS European Sovereign Cloud Region and Thirty-One new Regions<br /> <br /> Today, AWS announces the general availability of AWS Network Security Manager in the AWS Eur",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/network-security-mgr-eu-sovereign-cloud/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-11-aws-amazon-cognito-now-supports-user-pool-session-mana",
+      "date": "2026-11-11",
+      "name": "Amazon Cognito now supports user pool session management",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Cognito now supports session management for user pools, giving you visibility into and control over the sessions your users establish when they sign in to your applications. Single sign-on (SSO) sessions are cr",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cognito-session-management/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-11-aws-aws-lambda-microvms-now-supports-the-x86-cpu-archi",
+      "date": "2026-11-11",
+      "name": "AWS Lambda MicroVMs now supports the x86 CPU architecture",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Lambda MicroVMs now supports the x86 CPU architecture, so you can run your existing x86 applications, tools, and software dependencies without recompiling or porting them. When you create a MicroVM image, you can ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-microvms-x86-architecture/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-11-aws-aws-emulator-is-now-available-for-building-and-tes",
+      "date": "2026-11-11",
+      "name": "AWS Emulator is now available for building and testing AWS applications locally",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/products/developer-tools/emulator/\">AWS Emulator</a> is now available for building and testing AWS applications locally.</p> \n<p>Starting today, you can use AWS Emulator to build and te",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-emulator-now-available/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-11-aws-aws-quick-apps-are-now-available-in-asia-pacific-s",
+      "date": "2026-11-11",
+      "name": "AWS Quick apps are now available in Asia Pacific (Singapore)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>The AWS Quick desktop app for macOS and Windows and the Quick mobile app for iOS and Android are now available in the Asia Pacific (Singapore) Region. This launch builds on the recent <a href=\"https://aws.amazon.com/a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-apps-available-in-asia-pacific-singapore/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-11-aws-amazon-ses-now-supports-higher-limits-for-email-id",
+      "date": "2026-11-11",
+      "name": "Amazon SES now supports higher limits for email identities, tenants, and configuration sets",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Simple Email Service (Amazon SES) now supports higher limits for email identities, tenants, and configuration sets. You can view your current usage against each limit and request increases in the AWS Service Qu",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ses-higher-resource-limits/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-11-crewai-1-15-40",
+      "date": "2026-11-11",
+      "name": "1.15.40",
+      "vendor": "CrewAI",
+      "type": "upgrade",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Remove chromadb from the embedding function layer.</li>\n<li>Add exact historical state lookup by row id.</li>\n<li>Wire jsonl into rag data type discovery.</li>\n<li>Scaff",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.40"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-11-10-aws-amazon-bedrock-agentcore-now-offers-a-web-search-a",
       "date": "2026-11-10",
       "name": "Amazon Bedrock AgentCore now offers a Web Search API",
@@ -281,6 +479,42 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-documentdb-8-0-3/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-10-openai-singapore-airlines-elevates-travel-work-with-opena",
+      "date": "2026-11-10",
+      "name": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/singapore-airlines-travel-work"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-10-openai-cogent-and-openai-build-cyber-defense-factories-fo",
+      "date": "2026-11-10",
+      "name": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/cogent-security"
         }
       ],
       "impact": 5,
@@ -839,240 +1073,6 @@
         {
           "title": "OpenAI source",
           "url": "https://openai.com/index/introducing-gpt-6-cyber"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-05-aws-aws-interconnect-last-mile-announces-new-metro-in-",
-      "date": "2026-11-05",
-      "name": "AWS Interconnect - last mile announces new metro in Northern Virginia, USA",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS announced a new AWS Interconnect - last mile metro in Northern Virginia, USA. Northern Virginia joins New York as the second metro where you can connect your data center, branch office, or colocation facili",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/interconnect-last-mile-northern-virginia/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-05-aws-announcing-web-answer-on-amazon-bedrock-agentcore",
-      "date": "2026-11-05",
-      "name": "Announcing Web Answer on Amazon Bedrock AgentCore",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, we are announcing the general availability of Web Answer on Amazon Bedrock AgentCore. Web Answer is a managed tool that returns a synthesized, grounded, cited answer to a natural-language question in a single c",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/web-answer-amazon-bedrock/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-05-aws-aws-network-load-balancer-is-now-available-in-the-",
-      "date": "2026-11-05",
-      "name": "AWS Network Load Balancer is now available in the AWS Phoenix Local Zone",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Network Load Balancer is now available in the Phoenix Local Zone (us-west-2-phx-2a). AWS Local Zones is a type of AWS infrastructure deployment that places AWS compute, storage, database, and other select services",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/aws-nlb-available-phx-local-zone/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-05-aws-amazon-dynamodb-now-supports-bulk-put-items",
-      "date": "2026-11-05",
-      "name": "Amazon DynamoDB now supports bulk put items",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the general availability of bulk put items for Amazon DynamoDB, a fully managed feature that writes data from Amazon S3 into your existing DynamoDB tables. Many DynamoDB applications use data that",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-dynamodb-now-supports-bulk-put-items/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-05-aws-iam-roles-anywhere-now-supports-automatic-certific",
-      "date": "2026-11-05",
-      "name": "IAM Roles Anywhere now supports automatic certificate revocation checking",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/iam/roles-anywhere\">AWS Identity and Access Management (IAM) Roles Anywhere</a> now supports automatic revocation checking using certificate revocation list (CRL) distribution points (C",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/iam-roles-anywhere-cdp/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-05-aws-amazon-opensearch-service-optimized-engine-now-sup",
-      "date": "2026-11-05",
-      "name": "Amazon OpenSearch Service optimized engine now supports agent traces",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, the Amazon OpenSearch Service optimized engine adds support for agent traces, including OpenTelemetry traces. Your traces and logs now live in the same place. You can follow a request or an agent session from s",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-service-support-traces"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-05-aws-aws-security-hub-network-scanning-now-available-in",
-      "date": "2026-11-05",
-      "name": "AWS Security Hub Network Scanning now available in AWS GovCloud (US)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Security Hub Network Scanning feature is now supported in AWS GovCloud (US).</p> \n<p>Network Scanning probes your resources from the internet to detect actual reachability, not just what could be reachable based o",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-network-scanning-govcloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-05-aws-amazon-sagemaker-ai-studio-now-supports-iam-identi",
-      "date": "2026-11-05",
-      "name": "Amazon SageMaker AI Studio Now Supports IAM Identity Center Multi-Region Replication",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker AI now supports IAM Identity Center (IdC) multi-region replication, enabling you to deploy SageMaker AI Studio domains in different regions from your IdC instance's primary region. Previously, the pri",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-ai-studio-iam/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-05-aws-aws-waf-ai-traffic-monetization-now-supports-fiat-",
-      "date": "2026-11-05",
-      "name": "AWS WAF AI traffic monetization now supports fiat payouts through Stripe",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS WAF AI traffic monetization now integrates with Stripe. Publishers, content owners, and API providers can collect stablecoin payments from AI bots and agents that settle in local currency directly to their Stripe ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-waf-stripe-fiat-payouts/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-05-aws-aws-systems-manager-parameter-store-now-allows-org",
-      "date": "2026-11-05",
-      "name": "﻿﻿AWS Systems Manager Parameter Store now allows organization and validation with built-in data types",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Systems Manager Parameter Store now supports 13 new parameter data types that automatically validate parameter values when you create or update a parameter. With built-in validation, you can stop malformed configu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-ssm-parameter-store-allows-organization-validation-with-new-data-types/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-05-aws-amazon-ec2-now-publishes-imdsv1enabled-cloudwatch-",
-      "date": "2026-11-05",
-      "name": "Amazon EC2 now publishes ImdsV1Enabled CloudWatch metric",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon EC2 now supports an ImdsV1Enabled CloudWatch metric, giving customers visibility into which of their EC2 instances still have Instance Metadata Service Version 1 (IMDSv1) enabled. You can use this metric to tra",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-imdsv1enabled-cloudwatch-metric/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-04-openai-devrev-delivers-autonomous-self-service-with-gpt-6",
-      "date": "2026-11-04",
-      "name": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/devrev-enterprise-self-service"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-04-aws-amazon-ecs-managed-daemons-can-now-collect-json-fi",
-      "date": "2026-11-04",
-      "name": "Amazon ECS Managed Daemons can now collect json-file logs from application containers on Amazon ECS Managed Instances",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/ecs/\">Amazon Elastic Container Service</a> (Amazon ECS) introduces json-file log driver support for Amazon ECS Managed Instances and log driver volumes for Amazon ECS Managed Daemons. T",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ecs-managed-instances-json-file-log-driver/"
         }
       ],
       "impact": 5,
