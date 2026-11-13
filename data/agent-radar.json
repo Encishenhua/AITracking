@@ -1,6 +1,348 @@
 {
   "items": [
     {
+      "id": "2026-11-13-openai-sites-publishing-failing",
+      "date": "2026-11-13",
+      "name": "Sites: Publishing failing",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Identified</b><br /><br />We have identified that users are experiencing elevated errors for the impacted services.\n\nWe are working on implementing a mitigation.<br /><br /><b>Affected components</b>\n         ",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M79GYA0GA772Y6D089AH5478"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-12-openai-how-amplitude-ships-product-improvements-in-1-2-da",
+      "date": "2026-11-12",
+      "name": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/business/customer-stories/amplitude"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-12-openai-elevated-errors-affecting-the-microsoft-365-connec",
+      "date": "2026-11-12",
+      "name": "Elevated errors affecting the Microsoft 365 connector",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Investigating</b><br /><br />We’re investigating an issue with Microsoft connectors where new connections may be broken and tools are not working as expected. We’ll share an update when we know more.<br /><br ",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M78GAT3AK9P9W8Z230KHFVE8"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-12-openai-gpt-image-2-5-and-2-6-sunburst-flare-high-error-ra",
+      "date": "2026-11-12",
+      "name": "GPT-image-2.5 and 2.6 Sunburst & Flare High error rate",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Resolved</b><br /><br />All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>I",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M77FAXVFV338GY7G9VRENRS5"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-12-openai-unable-to-start-new-workspace-agent-runs",
+      "date": "2026-11-12",
+      "name": "Unable to start new Workspace Agent runs",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Resolved</b><br /><br />All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>A",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M76CW2D7FM7K7F8NJ4W0G08N"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-12-aws-amazon-cognito-now-supports-oauth-2-0-token-exchan",
+      "date": "2026-11-12",
+      "name": "Amazon Cognito now supports OAuth 2.0 token exchange",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p><a href=\"https://aws.amazon.com/cognito/\">Amazon Cognito</a> now supports OAuth 2.0 token exchange (RFC 8693). Amazon Cognito helps you add sign-up, sign-in, and access control to your web applications, mobile applica",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-token-exchange/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-12-aws-amazon-aurora-and-rds-now-support-graviton5-based-",
+      "date": "2026-11-12",
+      "name": "Amazon Aurora and RDS now support Graviton5-based R9g database instances",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Graviton5-based R9g database instances are now generally available for Amazon Aurora with PostgreSQL compatibility and MySQL compatibility, and for Amazon RDS for PostgreSQL, MySQL, and MariaDB.<br /> &nbsp;<br />",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-rds-postgresql-mysql-mariadb-r9g-instances/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-12-aws-amazon-mwaa-now-supports-fine-grained-access-contr",
+      "date": "2026-11-12",
+      "name": "Amazon MWAA now supports fine-grained access control with IAM Identity Center and multi-team environments",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Managed Workflows for Apache Airflow (Amazon MWAA) now supports fine-grained access control, giving administrators precise control over who can access which workflows and resources in an Apache Airflow environm",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/mwaa-fine-grained-access-control/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-12-aws-amazon-connect-customer-supports-merging-and-linki",
+      "date": "2026-11-12",
+      "name": "Amazon Connect Customer supports merging and linking related cases in the agent workspace",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect Customer now lets agents merge and link related cases in the agent workspace, so they can resolve customer issues faster and respond consistently. When a customer contacts a business about the same issu",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-merge-link/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-12-aws-aws-quick-enhances-granular-governance-with-the-ab",
+      "date": "2026-11-12",
+      "name": "AWS Quick enhances granular governance with the ability to restrict structured data sources",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS Quick is announcing the general availability of structured data connector restrictions through custom permissions. This capability gives administrators granular control over which types of data sources user",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-structured-data-source-restrictions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-12-aws-amazon-route-53-domains-now-supports-self-service-",
+      "date": "2026-11-12",
+      "name": "Amazon Route 53 Domains now supports self-service restore for expired and deleted domains",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Route 53 Domains now lets you restore an expired or recently deleted domain yourself, using the Amazon Route 53 console, AWS CLI, or AWS SDKs. Previously, restoring a domain required a request to AWS Support. N",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-domains-self-service-restore/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-12-aws-ec2-image-builder-console-now-integrates-with-the-",
+      "date": "2026-11-12",
+      "name": "EC2 Image Builder console now integrates with the DevOps Agent for troubleshooting and resource creation",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>EC2 Image Builder now integrates with the AWS DevOps Agent directly in the Image Builder console, enabling you to troubleshoot failed image pipelines and create resources directly from the console chat panel. You can ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-image-builder-devops-agent-integration"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-12-aws-aws-backup-adds-logically-air-gapped-vault-support",
+      "date": "2026-11-12",
+      "name": "AWS Backup adds logically air-gapped vault support for Amazon EBS Snapshots Archive",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Backup logically air-gapped vault now supports Amazon EBS Snapshots Archive. Logically air-gapped vaults are a type of AWS Backup vault that allows secure sharing of backups across accounts and AWS Organizations, ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-backup-lag-vault-ebs-archive/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-12-aws-aws-glue-announces-automatic-version-upgrades-for-",
+      "date": "2026-11-12",
+      "name": "AWS Glue announces automatic version upgrades for Apache Spark jobs",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Glue introduces automatic version upgrades, a capability that keeps your Apache Spark jobs current on the latest AWS Glue runtime without manual coordination. Staying current on supported runtimes gives your jobs ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/glue-spark-auto-upgrades/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-12-aws-aws-cloud-wan-now-supports-bgp-communities-on-dire",
+      "date": "2026-11-12",
+      "name": "AWS Cloud WAN now supports BGP communities on Direct Connect attachments for routing policy",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Cloud WAN now supports BGP communities on Direct Connect attachments, enabling advanced routing controls for enterprise hybrid networks. Previously, Cloud WAN Routing Policy evaluated BGP communities only on Site-",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloud-wan-bgp-community-directconnect/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-12-aws-amazon-managed-service-for-apache-flink-introduces",
+      "date": "2026-11-12",
+      "name": "Amazon Managed Service for Apache Flink introduces enhanced snapshots",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Managed Service for Apache Flink now supports enhanced snapshots, a capability that lets you capture, export, and restore application state across Apache Flink applications and AWS Regions, so you can run blue/",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/managed-flink-enhanced-snapshots/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-12-aws-amazon-rds-for-sql-server-now-supports-m8id-and-r8",
+      "date": "2026-11-12",
+      "name": "Amazon RDS for SQL Server now supports M8id and R8id instances",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for SQL Server</a> now supports M8id and R8id instances. These instances are po",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-sqlserver-supports-m8id-r8id-instances"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-12-aws-the-next-generation-agentcore-runtime-is-now-the-d",
+      "date": "2026-11-12",
+      "name": "The next generation AgentCore runtime is now the default",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, new runtimes in Amazon Bedrock AgentCore use the next generation of AgentCore runtime by default. The new runtime restores each session from a snapshot of your initialized agent, scales compute and mem",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/new-agentcore-runtime-default/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-12-crewai-1-15-41",
+      "date": "2026-11-12",
+      "name": "1.15.41",
+      "vendor": "CrewAI",
+      "type": "launch",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Allow approved private URL hosts.</li>\n</ul>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Fix projects to depend on PyMuPDF 2.x.</li>\n<li>Drop a real storage URL from the URL read tests.",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.41"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-11-11-openai-unable-to-start-new-workspace-agent-runs",
       "date": "2026-11-11",
       "name": "Unable to start new Workspace Agent runs",
@@ -523,6 +865,24 @@
       "tags": []
     },
     {
+      "id": "2026-11-10-aws-amazon-mwaa-serverless-supports-duckdb-operators",
+      "date": "2026-11-10",
+      "name": "Amazon MWAA Serverless supports DuckDB operators",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon MWAA Serverless now supports DuckDB operators, enabling you to analyze and transform data with high-performance in-memory analytics directly in your workflows. You can query data in Amazon S3 or run analytics l",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-mwaa-serverless-duckdb-operators/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-11-09-openai-chatgpt-enterprise-now-available-in-aws-marketplac",
       "date": "2026-11-09",
       "name": "ChatGPT Enterprise now available in AWS Marketplace",
@@ -713,366 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/athena-system-tables/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-09-aws-claude-fable-5-2-is-now-available-on-aws",
-      "date": "2026-11-09",
-      "name": "Claude Fable 5.2 is now available on AWS",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Claude Fable 5.2 is now available on AWS and brings Anthropic's most capable generally available model for technical work&nbsp;to all customers. Fable 5.2 sets a new standard on the hardest projects in coding, math, a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/claude-fable-5-2-aws/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-09-aws-amazon-s3-access-points-for-amazon-fsx-are-now-ava",
-      "date": "2026-11-09",
-      "name": "Amazon S3 Access Points for Amazon FSx are now available in additional AWS Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>You can now attach Amazon S3 Access Points to your Amazon FSx for NetApp ONTAP file systems in 4 additional AWS Regions, and to your Amazon FSx for OpenZFS file systems in 20 additional AWS Regions. With this capabili",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/s3-access-points-fsx-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-09-aws-amazon-route-53-profiles-now-supports-multiple-pro",
-      "date": "2026-11-09",
-      "name": "Amazon Route 53 Profiles now supports multiple Profiles per VPC",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/route53/\">Amazon Route 53 Profiles</a> now lets you associate more than one Profile with a VPC. Previously, a VPC could have only one Profile, so teams that managed Route 53 configurati",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-profiles-multiple-per-vpc/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-09-aws-introducing-aws-nitro-sandboxes-on-amazon-eks-ecs-",
-      "date": "2026-11-09",
-      "name": "Introducing AWS Nitro Sandboxes on Amazon EKS, ECS and EC2 for hardware isolated pods, tasks and VMs",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Nitro Sandboxes are now available as lightweight VMs managed by the Nitro Hypervisor. You can use Nitro Sandboxes for an Amazon EKS pod, or Amazon ECS task, or lightweight Virtual Machines (VMs), including AI agen",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/nitro-sandboxes-eks-ecs-ec2/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-09-aws-amazon-eks-auto-mode-and-karpenter-now-support-dyn",
-      "date": "2026-11-09",
-      "name": "Amazon EKS Auto Mode and Karpenter now support Dynamic Resource Allocation",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Elastic Kubernetes Service (Amazon EKS) now supports Dynamic Resource Allocation (DRA) for NVIDIA GPUs and Elastic Fabric Adapter (EFA) network devices when using Amazon EKS Auto Mode and Karpenter. You can now",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-auto-mode-karpenter-dra/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-08-openai-elevated-errors-with-image-generation",
-      "date": "2026-11-08",
-      "name": "Elevated errors with image generation",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Resolved</b><br /><br />All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>I",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01M6XVDCKRT3PSB0YP8J30GTD5"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-08-crewai-1-15-38",
-      "date": "2026-11-08",
-      "name": "1.15.38",
-      "vendor": "CrewAI",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Make gpt-6-luna crewAI's default model everywhere</li>\n<li>Read spreadsheet URLs in an agent's input with tools over every row</li>\n<li>Tag eval usage spans with target ",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.38"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-11-07-openai-elevated-error-rates-with-some-u-s-business-master",
-      "date": "2026-11-07",
-      "name": "Elevated error rates with some U.S. business Mastercards",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Monitoring</b><br /><br />We’ve applied a mitigation and are monitoring the affected services to confirm recovery.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01M6S2FV5TZWQ753NHRB7BF5K7"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-07-crewai-1-15-37",
-      "date": "2026-11-07",
-      "name": "1.15.37",
-      "vendor": "CrewAI",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add functionality to read spreadsheets for agents in crewai-files.</li>\n<li>Scaffold and load standalone agent projects.</li>\n</ul>\n<h3>Documentation</h3>\n<ul>\n<li>Updat",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.37"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-11-06-openai-chatgpt-work-and-dots-errors",
-      "date": "2026-11-06",
-      "name": "ChatGPT Work and Dots Errors",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Resolved</b><br /><br />All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>d",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01M6P50GPP1V98EF8MJ9SH393R"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-06-aws-aws-security-hub-now-provides-an-sbom-inventory-fo",
-      "date": "2026-11-06",
-      "name": "AWS Security Hub now provides an SBOM inventory for your compute resources",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces that AWS Security Hub now provides a Software Bill of Materials (SBOM) inventory, giving central security teams a continuously updated, organization-wide view of the software packages and applicat",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-sbom-inventory/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-06-crewai-1-15-36",
-      "date": "2026-11-06",
-      "name": "1.15.36",
-      "vendor": "CrewAI",
-      "type": "upgrade",
-      "summary": "<h1>What's Changed</h1>\n<h3>Features</h3>\n<ul>\n<li>Add experimental conversational Agent sessions.</li>\n<li>Ask for a missing API key when crewai run starts.</li>\n<li>Record the error class when crewai run cannot load a ",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.36"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-11-06-openai-measuring-how-ai-agents-handle-everyday-wet-lab-sc",
-      "date": "2026-11-06",
-      "name": "Measuring how AI agents handle everyday wet-lab science",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-06-aws-kimi-k3-1-pro-highspeed-now-available-on-amazon-be",
-      "date": "2026-11-06",
-      "name": "Kimi K3.1 Pro (Highspeed) now available on Amazon Bedrock",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Today, Kimi K3.1 Pro from Moonshot AI is available on Amazon Bedrock, expanding our open weight model portfolio with the security and governance that customers rely on. Customers using Amazon Bedrock can now run agent",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/moonshot-ai-kimi-k3-1-pro-on-amazon-bedrock"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-06-aws-agent-registry-is-now-generally-available-in-aws-g",
-      "date": "2026-11-06",
-      "name": "Agent Registry is now generally available in AWS GovCloud (US-West) Region",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Agent Registry, available through Amazon Bedrock AgentCore, is now available in the AWS GovCloud (US-West) Region.</p> \n<p>AWS Agent Registry is a fully managed discovery service that gives your organization a cen",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-agent-registry-govcloud-us-west/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-06-aws-amazon-msk-replicator-is-now-available-in-aws-govc",
-      "date": "2026-11-06",
-      "name": "Amazon MSK Replicator is now available in AWS GovCloud (US-East, US-West) Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>You can now use Amazon MSK Replicator in the AWS GovCloud (US-East, US-West) Regions to replicate streaming data across <a href=\"https://aws.amazon.com/msk/\">Amazon MSK</a> clusters and from external Apache Kafka clus",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-replicator-additional-aws-regions"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-06-aws-amazon-redshift-expands-super-data-type-to-store-s",
-      "date": "2026-11-06",
-      "name": "Amazon Redshift expands SUPER data type to store strings up to 16 million bytes",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/redshift/\">Amazon Redshift</a> now supports individual strings up to 16 million bytes within <a href=\"https://docs.aws.amazon.com/redshift/latest/dg/r_SUPER_type.html\">SUPER data types<",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-redshift-expands-super-to-16-million-bytes/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-06-aws-amazon-simple-email-service-is-now-available-in-si",
-      "date": "2026-11-06",
-      "name": "Amazon Simple Email Service is now available in six new AWS Regions",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/ses/\">Amazon Simple Email Service (Amazon SES)&nbsp;</a> is now available in the Asia Pacific (New Zealand, Melbourne, Taipei, Thailand), Mexico (Central), EU (Spain). Customers can now",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-simple-email-service-new-aws-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-05-openai-elevated-error-rates-across-paid-chatgpt-plans",
-      "date": "2026-11-05",
-      "name": "Elevated error rates across paid ChatGPT plans",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Resolved</b><br /><br />All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>C",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01M6MBCX427A7113A3T4FJ1N6Y"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-05-openai-gpt-6-cyber-advancing-the-frontier-of-aligned-cybe",
-      "date": "2026-11-05",
-      "name": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/introducing-gpt-6-cyber"
         }
       ],
       "impact": 5,
