@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "2026-11-14-openai-elevated-errors-with-chatgpt-billing-and-ads-billi",
+      "date": "2026-11-14",
+      "name": "Elevated errors with ChatGPT billing and Ads billing",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Resolved</b><br /><br />All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M7C40W0N5MZHNW0YM09QV962"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-14-openai-elevated-errors-affecting-the-microsoft-365-connec",
+      "date": "2026-11-14",
+      "name": "Elevated errors affecting the Microsoft 365 connector",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Resolved</b><br /><br />All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>C",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M78GAT3AK9P9W8Z230KHFVE8"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-11-13-openai-sites-publishing-failing",
       "date": "2026-11-13",
       "name": "Sites: Publishing failing",
@@ -11,6 +47,150 @@
         {
           "title": "OpenAI source",
           "url": "https://status.openai.com//incidents/01M79GYA0GA772Y6D089AH5478"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-13-openai-introducing-chatgpt-wallet",
+      "date": "2026-11-13",
+      "name": "Introducing ChatGPT Wallet",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/introducing-chatgpt-wallet"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-13-openai-shield-helps-technicians-hand-off-legacy-portal-wo",
+      "date": "2026-11-13",
+      "name": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/business/customer-stories/shield"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-13-aws-grok-4-7-now-available-on-kiro-in-aws-govcloud-us",
+      "date": "2026-11-13",
+      "name": "Grok 4.7 now available on Kiro in AWS GovCloud (US)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>A new model is now available in the Kiro IDE and CLI for the AWS GovCloud (US) Regions.</p> \n<p>Grok 4.7 is SpaceXSI's most capable model for coding and knowledge work. It's built to stay focused through hard tasks th",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/kiro-grok-4-7-aws-govcloud-us/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-13-aws-aws-security-hub-cspm-now-supports-centralized-con",
+      "date": "2026-11-13",
+      "name": "AWS Security Hub CSPM now supports centralized configuration with AWS Organizations declarative policies",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/security-hub/cspm/\">AWS Security Hub CSPM</a> now supports AWS Organizations declarative policies. You can use them to enable Security Hub CSPM across all accounts and Regions in your o",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-cspm-org-policies/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-13-aws-amazon-bedrock-agentcore-identity-now-supports-oau",
+      "date": "2026-11-13",
+      "name": "Amazon Bedrock AgentCore Identity now supports OAuth 2.0 discovery URLs",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Bedrock AgentCore Identity now supports OAuth 2.0 authorization server discovery URLs for both inbound JWT authorization and outbound OAuth credential providers. This update enables developers to configure Agen",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-agentcore-oauth2-discovery/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-13-aws-aws-secrets-manager-now-supports-cross-account-rep",
+      "date": "2026-11-13",
+      "name": "AWS Secrets Manager now supports cross-account replication",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Secrets Manager now supports cross-account replication, enabling you to maintain a synchronized copy of a primary secret in a secondary AWS account for cross-account access, backup, and disaster recovery. Cross-ac",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/secrets-manager-cross-account/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-13-aws-amazon-sagemaker-unified-studio-now-supports-layou",
+      "date": "2026-11-13",
+      "name": "Amazon SageMaker Unified Studio now supports layout customization for designations",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker Unified Studio now supports layout customization, a new capability that gives domain administrators control over which tools and left navigation items project members see based on their designation. O",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-studio-layout-customization/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-13-aws-aws-systems-manager-simplifies-onboarding-of-googl",
+      "date": "2026-11-13",
+      "name": "AWS Systems Manager simplifies onboarding of Google Cloud VMs for centralized management",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Systems Manager Cloud Connector now extends simplified multicloud onboarding support to Google Cloud, making it easy to connect your existing Google Cloud VMs to Systems Manager for centralized management alongsid",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/systems-manager-google-cloud-support/"
         }
       ],
       "impact": 5,
@@ -343,6 +523,42 @@
       "tags": []
     },
     {
+      "id": "2026-11-12-aws-apache-airflow-ui-available-in-amazon-mwaa-serverl",
+      "date": "2026-11-12",
+      "name": "Apache Airflow UI available in Amazon MWAA Serverless",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon MWAA Serverless provides the native Apache Airflow UI for your workflows. You can browse workflows, inspect workflow runs and task instances, read task logs, view a workflow's source and versions, and start a w",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/airflow-ui-for-mwaa-serverless/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-12-aws-amazon-connect-customer-now-supports-batch-actions",
+      "date": "2026-11-12",
+      "name": "Amazon Connect Customer now supports batch actions on up to 100 cases at once",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Cases in Amazon Connect Customer now lets agents and supervisors assign, comment on, and update the status of up to 100 cases at once, so teams spend less time on repetitive case updates. When one issue affects many c",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-batch-actions-100-cases/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-11-11-openai-unable-to-start-new-workspace-agent-runs",
       "date": "2026-11-11",
       "name": "Unable to start new Workspace Agent runs",
@@ -538,6 +754,24 @@
       "impact": 3,
       "risk": 3,
       "audience": "dev",
+      "tags": []
+    },
+    {
+      "id": "2026-11-11-aws-amazon-opensearch-serverless-supports-intelligent-",
+      "date": "2026-11-11",
+      "name": "Amazon OpenSearch Serverless supports intelligent ingestion for time series collection",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>The next generation of Amazon OpenSearch Serverless now supports intelligent ingestion for time series collections. You can bring logs and event data from Amazon S3 into a time series collection without operating an i",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-serverless-nextgen-time-series-intelligent-ingestion"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
       "tags": []
     },
     {
@@ -839,240 +1073,6 @@
         {
           "title": "OpenAI source",
           "url": "https://openai.com/index/singapore-airlines-travel-work"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-10-openai-cogent-and-openai-build-cyber-defense-factories-fo",
-      "date": "2026-11-10",
-      "name": "Cogent and OpenAI build cyber defense factories for enterprises",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/cogent-security"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-10-aws-amazon-mwaa-serverless-supports-duckdb-operators",
-      "date": "2026-11-10",
-      "name": "Amazon MWAA Serverless supports DuckDB operators",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon MWAA Serverless now supports DuckDB operators, enabling you to analyze and transform data with high-performance in-memory analytics directly in your workflows. You can query data in Amazon S3 or run analytics l",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-mwaa-serverless-duckdb-operators/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-09-openai-chatgpt-enterprise-now-available-in-aws-marketplac",
-      "date": "2026-11-09",
-      "name": "ChatGPT Enterprise now available in AWS Marketplace",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-09-openai-coderabbit-scales-agentic-software-development-and",
-      "date": "2026-11-09",
-      "name": "CodeRabbit scales agentic software development and ships 20x more",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/coderabbit-codex-daybreak"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-09-openai-elevated-errors-on-api",
-      "date": "2026-11-09",
-      "name": "Elevated Errors On API",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Resolved</b><br /><br />All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>I",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01M7193DWYRFWQM5W6E3VZ7TM7"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-09-openai-elevated-chatgpt-conversation-errors",
-      "date": "2026-11-09",
-      "name": "Elevated ChatGPT Conversation Errors",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Resolved</b><br /><br />All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>C",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01M70RDA2GWD2WXE58ANY0WV5R"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-09-aws-aws-sts-now-supports-cross-partition-federation-fo",
-      "date": "2026-11-09",
-      "name": "AWS STS now supports cross-partition federation for AWS identities",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Security Token Service (AWS STS) now lets your workloads use their AWS Identity and Access Management (IAM) identity in one partition to get temporary credentials for an IAM role in a different partition, without ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-sts-cross-partition"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-09-aws-amazon-quick-is-now-aws-quick",
-      "date": "2026-11-09",
-      "name": "Amazon Quick is now AWS Quick",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Quick, the AI workspace built only for work, is now AWS Quick, a name that reflects the enterprise security and governance built into Quick from the start as an AWS service. The new name now appears across the ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-quick-aws-quick/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-09-aws-claude-fable-5-2-is-now-available-on-aws-govcloud-",
-      "date": "2026-11-09",
-      "name": "Claude Fable 5.2 is now available on AWS GovCloud (US)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Claude Fable 5.2 is now available on AWS GovCloud (US) and brings Anthropic's most capable generally available model for technical work&nbsp;to regulated customers. Fable 5.2 sets a new standard on the hardest project",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/claude-fable-5-2-aws-govcloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-09-aws-amazon-bedrock-now-offers-claude-mythos-5-2-to-eli",
-      "date": "2026-11-09",
-      "name": "Amazon Bedrock now offers Claude Mythos 5.2 to Eligible Customers in AWS GovCloud (US)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock, the platform for building generative AI applications and agents at production scale, now offers Claude Mythos 5.2 to eligible customers in AWS GovCloud (US). Claude Mythos 5.2 is Anthropic's most advan",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-claude-mythos-5-2-govcloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-09-aws-amazon-connect-customer-launches-evaluation-form-t",
-      "date": "2026-11-09",
-      "name": "Amazon Connect Customer launches evaluation form templates",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Connect Customer now provides evaluation form templates so managers don't have to build forms from scratch, reducing the time to deploy automated evaluations of human and AI agent performance. These templates c",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-customer-evaluation-form-templates/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-09-aws-introducing-an-open-source-ui-for-graph-analytics-",
-      "date": "2026-11-09",
-      "name": "Introducing an open-source UI for graph analytics over data lakes with Amazon Neptune Analytics",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS is introducing an open-source solution with a local web UI that helps customers turn data lake records into graphs for analysis with Amazon Neptune Analytics. By projecting selected records and relationship",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-graphover-datalakes-generally-available"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-09-aws-amazon-athena-introduces-system-tables-for-observa",
-      "date": "2026-11-09",
-      "name": "Amazon Athena introduces system tables for observability, auditing, and usage analytics",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/athena/\">Amazon Athena</a> now offers system tables which automatically capture your usage data and make it available for observability, usage analysis, and audit use cases. When you en",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/athena-system-tables/"
         }
       ],
       "impact": 5,
