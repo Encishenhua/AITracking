@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "2026-11-16-openai-delayed-costs-data-in-the-compliance-api",
+      "date": "2026-11-16",
+      "name": "Delayed Costs Data in the Compliance API",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Resolved</b><br /><br />All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>C",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M7ATRS6BMZ61E4JDHJGM79Y0"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-11-14-openai-elevated-errors-with-chatgpt-billing-and-ads-billi",
       "date": "2026-11-14",
       "name": "Elevated errors with ChatGPT billing and Ads billing",
@@ -1055,24 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-documentdb-8-0-3/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-10-openai-singapore-airlines-elevates-travel-work-with-opena",
-      "date": "2026-11-10",
-      "name": "Singapore Airlines elevates travel & work with OpenAI technology",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/singapore-airlines-travel-work"
         }
       ],
       "impact": 5,
