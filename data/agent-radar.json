@@ -1,6 +1,798 @@
 {
   "items": [
     {
+      "id": "2026-11-17-openai-astra-for-law-leads-in-legal-intelligence",
+      "date": "2026-11-17",
+      "name": "Astra for Law leads in legal intelligence",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/index/astra-law-6-2"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-amazon-workspaces-applications-adds-support-for-sm",
+      "date": "2026-11-17",
+      "name": "Amazon WorkSpaces Applications adds support for smart card redirection",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon WorkSpaces Applications now supports smart card redirection on single-session and multi-session fleets, so users can access the smart card connected to their local device from applications inside their streamin",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-workspaces-applications-smart-card-redirection/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-amazon-emr-8-2-is-now-available",
+      "date": "2026-11-17",
+      "name": "Amazon EMR 8.2 is now available",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon EMR 8.2 is now available with new features across Amazon EMR on EC2, Amazon EMR on EKS, and Amazon EMR Serverless. This release upgrades Apache Spark to 4.1.3, Apache Iceberg to 1.11.0, and Delta Lake to 4.2.0,",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-emr-8.2/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-introducing-the-apache-spark-optimization-agent-fo",
+      "date": "2026-11-17",
+      "name": "Introducing the Apache Spark Optimization Agent for Amazon EMR Serverless",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon EMR Serverless now offers the Apache Spark optimization agent, which analyzes completed Spark job runs and delivers cost and performance optimization recommendations in seconds. You can select a cost or perform",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/apache-spark-optimization-agent/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-aws-transform-now-accelerates-migration-deals-for-",
+      "date": "2026-11-17",
+      "name": "AWS Transform now accelerates migration deals for Migration Acceleration Program (MAP) benefits",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Partners can now expedite Migration Acceleration Program (MAP) deals, from qualification to incentive payout, with an end-to-end agentic workflow in AWS Transform. Partners can manage the full MAP lifecycle withou",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/map-integration-with-aws-transform/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-amazon-ec2-c8gn-instances-are-now-available-in-aws",
+      "date": "2026-11-17",
+      "name": "Amazon EC2 C8gn instances are now available in AWS Israel (Tel Aviv) region",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8gn instances, powered by the latest-generation AWS Graviton4 processors, are available in the AWS Israel (Tel Aviv) region. The C8gn instances provide up to ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c8gn/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-amazon-ec2-c8ine-instances-are-now-available-in-aw",
+      "date": "2026-11-17",
+      "name": "Amazon EC2 C8ine instances are now available in AWS Europe (Ireland) region",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8ine instances are available in the AWS Europe (Ireland) region. C8ine instances are powered by custom sixth generation Intel Xeon Scalable processors, availa",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c8ine"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-customize-aws-elemental-inference-with-custom-mode",
+      "date": "2026-11-17",
+      "name": "Customize AWS Elemental Inference with custom models, prompts, and decisions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Elemental Inference now lets you customize how it analyzes your live video in two ways. You can create functions that ask custom questions of the video using multi-modal foundational models in Amazon Bedrock, or a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/elemental-inference-functions-decisions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-aws-security-hub-now-infers-resource-criticality-f",
+      "date": "2026-11-17",
+      "name": "AWS Security Hub now infers resource criticality from installed software and usage",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Today, AWS Security Hub adds installed software and resource usage as signals for resource criticality, which indicates how important a resource is to your business. Security Hub uses criticality to rank exposure find",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-resource-criticality/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-amazon-bedrock-agentcore-memory-now-supports-short",
+      "date": "2026-11-17",
+      "name": "Amazon Bedrock AgentCore Memory now supports short-term memory retention of up to 10 years",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Bedrock AgentCore Memory now lets you keep short-term memory events for up to 10 years, up from one year. Developers can now use short-term memory as a long-lived record of agent conversations and interactions.",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-memory-10-year-retention"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-amazon-api-gateway-rest-apis-now-support-jwt-autho",
+      "date": "2026-11-17",
+      "name": "Amazon API Gateway REST APIs now support JWT authorizers",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon API Gateway now offers a native JWT authorizer for REST APIs, a new authorizer type that validates JSON Web Tokens directly in the gateway. Until now, validating tokens from an OpenID Connect or OAuth 2.0 ident",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-authorizers-jwt/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-amazon-bedrock-agentcore-memory-now-provides-full-",
+      "date": "2026-11-17",
+      "name": "Amazon Bedrock AgentCore Memory now provides full session summaries",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Bedrock AgentCore Memory now keeps a full session summary for every session. It's a single record that gives a snapshot of what happened in the conversation. Summary chunks cover the conversation in more detail",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-memory-full-session-summaries"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-amazon-sagemaker-now-supports-ai-data-preparation-",
+      "date": "2026-11-17",
+      "name": "Amazon SageMaker now supports AI data preparation capabilities to build high-quality datasets for model development",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Building high-quality training datasets has traditionally required weeks of manual labeling and data cleaning. Amazon SageMaker now offers AI data preparation capabilities that help data scientists and ML engineers bu",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-ai-data-prep-capabilities/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-aws-lambda-now-supports-scale-to-and-from-zero-for",
+      "date": "2026-11-17",
+      "name": "AWS Lambda now supports scale to and from zero for Lambda Managed Instances",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Lambda now supports scale to and from zero for Event Functions running on&nbsp;<a href=\"https://docs.aws.amazon.com/lambda/latest/dg/lambda-managed-instances.html\">Lambda Managed Instances</a> (LMI). Lambda automa",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-managed-instances-scale-to-zero/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-amazon-dynamodb-caching-is-now-available-with-amaz",
+      "date": "2026-11-17",
+      "name": "Amazon DynamoDB caching is now available with Amazon ElastiCache Serverless for Valkey",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the general availability of DynamoDB caching with Amazon ElastiCache Serverless for Valkey, a serverless alternative to Amazon DynamoDB Accelerator (DAX) that delivers sub-millisecond read latency",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/dynamodb-caching-elasticache/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-amazon-opensearch-ui-is-now-available-in-the-afric",
+      "date": "2026-11-17",
+      "name": "Amazon OpenSearch UI is now available in the Africa (Cape Town) Region",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon OpenSearch UI has expanded to the AWS Africa (Cape Town) Region, bringing availability to 25 AWS Regions. OpenSearch UI provides a single endpoint to query, visualize, and analyze data across Amazon OpenSearch ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/opensearch-ui-available-africa-cape-town-region"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-amazon-bedrock-agentcore-now-offers-free-monthly-w",
+      "date": "2026-11-17",
+      "name": "Amazon Bedrock AgentCore now offers free monthly web search queries",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Bedrock AgentCore now offers 5,000 free web search queries per month through the Web Search Tool in AgentCore gateway and the Web Search API. AgentCore helps developers build, deploy, and operate highly effecti",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-agentcore-free-web-search-queries/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-aws-config-announces-managed-conformance-packs",
+      "date": "2026-11-17",
+      "name": "AWS Config announces managed conformance packs",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Config now offers managed conformance packs. AWS builds and maintains these packs for specific compliance and governance frameworks. When you deploy one, you choose a framework, and AWS Config evaluates your resou",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-config-managed-conformance-packs"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-amazon-aurora-dsql-now-offers-sql-statement-statis",
+      "date": "2026-11-17",
+      "name": "Amazon Aurora DSQL now offers SQL statement statistics in Database Insights",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/aurora/dsql/\">Amazon Aurora DSQL</a> now records statistics for each SQL statement your cluster runs and publishes them as Amazon CloudWatch OpenTelemetry (OTel) metrics. You can vi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-statement-statistics/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-amazon-evs-launches-support-for-r7i-metal-instance",
+      "date": "2026-11-17",
+      "name": "Amazon EVS launches support for r7i.metal instances, external principal storage, and an Agent Skill",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, we are announcing that Amazon Elastic VMware Service (Amazon EVS) now supports the r7i.metal-24xl and r7i.metal-48xl Amazon Elastic&nbsp;Compute Cloud (EC2) bare metal instance types for VMware Cloud Foundation",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-evs-r7i-agent-skill-support/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-openai-gpt-6-2-astra-and-gpt-6-2-sol-are-now-gener",
+      "date": "2026-11-17",
+      "name": "OpenAI GPT-6.2 Astra, and GPT-6.2 Sol are now generally available on Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS announces the general availability of OpenAI GPT-6.2 Astra and GPT-6.2 Sol on Amazon Bedrock. GPT-6.2 Astra brings frontier-level reasoning and judgment to your most ambitious work, including complex busine",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/openai-gpt-6-2-astra-sol-amazon-bedrock/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-amazon-workspaces-advisor-now-helps-you-find-issue",
+      "date": "2026-11-17",
+      "name": "Amazon WorkSpaces Advisor now helps you find issues before your users notice them (Public Preview)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>When a WorkSpace is slow or won't connect, the IT administrator trying to help has traditionally had to dig through Amazon CloudWatch metrics, logs, and configuration data across multiple tools to find out why. And in",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-advisor-proactive-troubleshooting-preview"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-amazon-vpc-aws-transit-gateway-and-aws-cloud-wan-n",
+      "date": "2026-11-17",
+      "name": "Amazon VPC, AWS Transit Gateway, and AWS Cloud WAN now offer a 99.999% availability SLA for cross-Region traffic",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS now offers a 99.999% availability service level agreement (SLA) for cross-Region traffic over Amazon Virtual Private Cloud (Amazon VPC) cross-Region peering, AWS Transit Gateway, and AWS Cloud WAN, with a new capa",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/vpc-tgw-cloudwan-99999-sla/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-aws-announces-general-availability-of-aws-intercon",
+      "date": "2026-11-17",
+      "name": "AWS announces general availability of AWS Interconnect - multicloud connectivity with Microsoft Azure",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS announces the general availability of AWS Interconnect - multicloud with Microsoft Azure. </p> \n<p>Customers have been adopting multicloud strategies while migrating more applications to the cloud. They do so for ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-announces-AWS-interconnect-multicloud-azure-ga/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-amazon-msk-standard-brokers-now-support-graviton4-",
+      "date": "2026-11-17",
+      "name": "Amazon MSK Standard Brokers now support Graviton4-based M8g instances",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Graviton4-based M8g instances are now generally available for Standard Brokers in Amazon Managed Streaming for Apache Kafka (Amazon MSK). Compared to Standard Brokers on M7g, M8g delivers up to 35% lower P99 produ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-msk-standard-brokers-graviton4-m8g-instances/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-amazon-msk-express-brokers-now-support-graviton4-b",
+      "date": "2026-11-17",
+      "name": "Amazon MSK Express Brokers now support Graviton4-based M8g instances",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Graviton4-based M8g instances are now generally available for Express Brokers in Amazon Managed Streaming for Apache Kafka (Amazon MSK). Compared to Express Brokers on M7g, M8g delivers 15% lower compute costs, up",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-msk-express-brokers-graviton4-m8g-instances/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-amazon-s3-now-provides-post-quantum-tls-visibility",
+      "date": "2026-11-17",
+      "name": "Amazon S3 now provides post-quantum TLS visibility in AWS CloudTrail",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon S3 now records the TLS key exchange algorithm in AWS CloudTrail for S3 requests, so you can see which requests and clients use post-quantum TLS (PQ-TLS). With this visibility, you can measure the share of your ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-post-quantum-tls-aws-cloudtrail/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-aws-security-hub-extends-unified-security-manageme",
+      "date": "2026-11-17",
+      "name": "AWS Security Hub extends unified security management to Google Cloud Platform",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS announces that AWS Security Hub now monitors Google Cloud Platform (GCP) resources, extending risk analytics, cloud security posture management, vulnerability management, and security response management ac",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-gcp/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-aws-iam-announces-access-troubleshooter-to-debug-a",
+      "date": "2026-11-17",
+      "name": "AWS IAM announces Access Troubleshooter to debug access denied errors",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Identity and Access Management (IAM) introduces <a href=\"https://docs.aws.amazon.com/IAM/latest/UserGuide/troubleshoot_access-denied-authorization-id.html\" target=\"_blank\">Access Troubleshooter</a>, a new capabili",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/iam-access-troubleshooter/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-aws-announces-agentic-account-creation-for-agentic",
+      "date": "2026-11-17",
+      "name": "AWS announces agentic account creation for agentic coding harnesses",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS now enables agentic coding harnesses to open the new AWS sign-up experience for developers who don't have an AWS account yet. Previously, developers working in agentic coding environments like Claude Code, Codex, ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/agentic-account-creation/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-amazon-route-53-resolver-dns-firewall-now-supports",
+      "date": "2026-11-17",
+      "name": "Amazon Route 53 Resolver DNS Firewall now supports Infoblox Threat Defense (Preview)",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Web Services announces the preview of Infoblox Threat Defense on <a href=\"https://aws.amazon.com/route53/resolver/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Route 53 Resolver DNS Firewall</a>. Security ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/route53-dns-firewall-infoblox-preview/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-aws-announces-consistent-sharing-controls-for-cred",
+      "date": "2026-11-17",
+      "name": "AWS announces consistent sharing controls for credits, Savings Plans, and Reserved Instances",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Billing and Cost Management now gives customers symmetric, granular control over how credits, Reserved Instances, and Savings Plans are shared across their organization. Organizations with grant funding, regulator",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-benefits-sharing-capabilities/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-aws-split-cost-allocation-data-now-supports-amazon",
+      "date": "2026-11-17",
+      "name": "AWS Split Cost Allocation Data now supports Amazon S3",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, you can allocate the storage and request costs of a shared Amazon S3 general purpose bucket to the prefixes in that bucket in the AWS Cost and Usage Report (CUR). Organizations often store data for man",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/split-cost-allocation-data-s3/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-amazon-kinesis-data-streams-announces-queues-to-si",
+      "date": "2026-11-17",
+      "name": "Amazon Kinesis Data Streams announces queues to simplify and reduce costs of real-time processing",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/kinesis/data-streams/\">Amazon Kinesis Data Streams</a> now supports queues, a simpler and more cost-effective way to process a stream. Because queues track the delivery state of each re",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/kinesis-data-streams-queues/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-amazon-connect-customer-now-supports-case-and-calc",
+      "date": "2026-11-17",
+      "name": "Amazon Connect Customer now supports case and calculated template variables",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/connect/\">Amazon Connect Customer</a> message templates, which personalize each message with details about its recipient, now support case fields from Cases and calculated attributes fr",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-case-and-calculated-attributes/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-cost-optimization-hub-now-supports-stopping-idle-a",
+      "date": "2026-11-17",
+      "name": "Cost Optimization Hub now supports stopping idle Amazon EC2 instances",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Cost Optimization Hub now lets you stop idle Amazon EC2 instances directly from your recommendations. Cost Optimization Hub consolidates and prioritizes cost optimization recommendations across your AWS accounts a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/cost-hub-stop-idle-ec2/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-amazon-eks-auto-mode-now-rightsizes-pods-to-reduce",
+      "date": "2026-11-17",
+      "name": "Amazon EKS Auto Mode now rightsizes Pods to reduce compute costs (Preview)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Elastic Kubernetes Service (Amazon EKS) introduces resource optimization for EKS Auto Mode, a new capability that rightsizes the CPU and memory requests of running Pods based on their actual usage. CPU and memo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/eks-auto-mode-pod-rightsizing-preview/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-aws-transit-gateway-now-shares-resource-context-wi",
+      "date": "2026-11-17",
+      "name": "AWS Transit Gateway now shares resource context with firewalls for segmentation policies",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Transit Gateway now supports context sharing with security services, such as attached firewalls, allowing you to use Amazon Virtual Private Clouds (VPCs), VPC subnets, VPC security groups, and transit gateway atta",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/transit-gateway-firewall-context-sharing/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-aws-lambda-durable-functions-now-supports-pausing-",
+      "date": "2026-11-17",
+      "name": "AWS Lambda durable functions now supports pausing and deleting executions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Lambda durable functions now lets you pause a running durable execution and resume it later without losing its progress. When you resume an execution, it continues from its last checkpoint on the same function ver",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-pause-delete/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-amazon-route-53-global-resolver-is-now-available-o",
+      "date": "2026-11-17",
+      "name": "Amazon Route 53 Global Resolver is now available over AWS Cloud WAN for hybrid networks",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Route 53 Global Resolver now supports anycast DNS resolution for private connections managed through your AWS Cloud WAN configuration. This enables organizations with hybrid networks to resolve DNS queries to p",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-global-resolver-cloud-wan/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-aws-workload-credentials-provider-adds-container-s",
+      "date": "2026-11-17",
+      "name": "AWS Workload Credentials Provider adds container support for ACM certificates",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>The open source <a href=\"https://github.com/aws/aws-workload-credentials-provider\" target=\"_blank\">AWS Workload Credentials Provider</a> can now export AWS Certificate Manager (ACM) certificates to applications runnin",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/acm-certificates-container-support/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-aws-waf-announces-simplified-onboarding-for-bot-co",
+      "date": "2026-11-17",
+      "name": "AWS WAF announces simplified onboarding for Bot Control targeted protection",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS WAF announces a simplified console experience for Bot Control at the targeted inspection level. A single setting, Targeted bot control, turns on targeted protection for your Amazon CloudFront distributions ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-waf-bot-control-onboarding/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-aws-transit-gateway-supports-native-integration-wi",
+      "date": "2026-11-17",
+      "name": "AWS Transit Gateway supports native integration with Gateway Load Balancer",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Transit Gateway now supports network function attachments of type Gateway Load Balancer, simplifying the deployment and management of network security across your AWS network.</p> \n<p>With a network function attac",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/transit-gateway-gwlb-integration/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-17-aws-amazon-s3-storage-lens-now-tracks-s3-intelligent-t",
+      "date": "2026-11-17",
+      "name": "Amazon S3 Storage Lens now tracks S3 Intelligent-Tiering access tiers",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon S3 Storage Lens now provides storage metrics for each S3 Intelligent-Tiering access tier. You can see object counts and storage bytes in every tier across your buckets. This helps you track how your data moves ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-storage-lens-s3-intelligent-tiering-access-tiers/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-11-16-openai-delayed-costs-data-in-the-compliance-api",
       "date": "2026-11-16",
       "name": "Delayed Costs Data in the Compliance API",
@@ -281,798 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-backup-air-gapped-vault-rds/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-16-aws-aws-waf-advanced-rate-based-rules-are-now-availabl",
-      "date": "2026-11-16",
-      "name": "AWS WAF advanced rate-based rules are now available in AWS GovCloud (US), Thailand, and Mexico",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS WAF advanced rate-based rules are now available in the Asia Pacific (Thailand), Mexico (Central), AWS GovCloud (US-East), and AWS GovCloud (US-West) Regions. Customers in these Regions can now aggregate requests u",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/waf-advanced-rate-rules-available/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-16-aws-aws-announces-networking-flexible-cost-allocation-",
-      "date": "2026-11-16",
-      "name": "AWS announces Networking Flexible Cost Allocation for Amazon VPC",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Virtual Private Cloud (VPC) now supports Networking Flexible Cost Allocation (FCA), which splits shared networking costs by the resources that actually drive them, so you can see what each team or application u",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/networking-flexible-cost-allocation/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-16-aws-aws-iam-identity-center-now-supports-forceauthn-in",
-      "date": "2026-11-16",
-      "name": "AWS IAM Identity Center now supports ForceAuthn in SAML requests",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS IAM Identity Center now gives you the option to require workforce users to re-authenticate with your external identity provider (IdP) each time their user interactive session expires. By default, when a user's ses",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/iam-identity-center-reauth/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-16-aws-agentcore-runtime-instances-are-now-available-in-s",
-      "date": "2026-11-16",
-      "name": "AgentCore runtime instances are now available in six more AWS Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Bedrock AgentCore <a href=\"https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/runtime-instances.html\">runtime instances</a> are now available in six additional AWS Regions: US West (N. California), C",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-aws-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-14-openai-elevated-errors-with-chatgpt-billing-and-ads-billi",
-      "date": "2026-11-14",
-      "name": "Elevated errors with ChatGPT billing and Ads billing",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Resolved</b><br /><br />All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01M7C40W0N5MZHNW0YM09QV962"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-14-openai-elevated-errors-affecting-the-microsoft-365-connec",
-      "date": "2026-11-14",
-      "name": "Elevated errors affecting the Microsoft 365 connector",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Resolved</b><br /><br />All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>C",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01M78GAT3AK9P9W8Z230KHFVE8"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-13-openai-sites-publishing-failing",
-      "date": "2026-11-13",
-      "name": "Sites: Publishing failing",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Identified</b><br /><br />We have identified that users are experiencing elevated errors for the impacted services.\n\nWe are working on implementing a mitigation.<br /><br /><b>Affected components</b>\n         ",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01M79GYA0GA772Y6D089AH5478"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-13-openai-introducing-chatgpt-wallet",
-      "date": "2026-11-13",
-      "name": "Introducing ChatGPT Wallet",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/introducing-chatgpt-wallet"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-13-openai-shield-helps-technicians-hand-off-legacy-portal-wo",
-      "date": "2026-11-13",
-      "name": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/business/customer-stories/shield"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-13-aws-grok-4-7-now-available-on-kiro-in-aws-govcloud-us",
-      "date": "2026-11-13",
-      "name": "Grok 4.7 now available on Kiro in AWS GovCloud (US)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>A new model is now available in the Kiro IDE and CLI for the AWS GovCloud (US) Regions.</p> \n<p>Grok 4.7 is SpaceXSI's most capable model for coding and knowledge work. It's built to stay focused through hard tasks th",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/kiro-grok-4-7-aws-govcloud-us/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-13-aws-aws-security-hub-cspm-now-supports-centralized-con",
-      "date": "2026-11-13",
-      "name": "AWS Security Hub CSPM now supports centralized configuration with AWS Organizations declarative policies",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/security-hub/cspm/\">AWS Security Hub CSPM</a> now supports AWS Organizations declarative policies. You can use them to enable Security Hub CSPM across all accounts and Regions in your o",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-cspm-org-policies/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-13-aws-amazon-bedrock-agentcore-identity-now-supports-oau",
-      "date": "2026-11-13",
-      "name": "Amazon Bedrock AgentCore Identity now supports OAuth 2.0 discovery URLs",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Bedrock AgentCore Identity now supports OAuth 2.0 authorization server discovery URLs for both inbound JWT authorization and outbound OAuth credential providers. This update enables developers to configure Agen",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-agentcore-oauth2-discovery/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-13-aws-aws-secrets-manager-now-supports-cross-account-rep",
-      "date": "2026-11-13",
-      "name": "AWS Secrets Manager now supports cross-account replication",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Secrets Manager now supports cross-account replication, enabling you to maintain a synchronized copy of a primary secret in a secondary AWS account for cross-account access, backup, and disaster recovery. Cross-ac",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/secrets-manager-cross-account/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-13-aws-amazon-sagemaker-unified-studio-now-supports-layou",
-      "date": "2026-11-13",
-      "name": "Amazon SageMaker Unified Studio now supports layout customization for designations",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon SageMaker Unified Studio now supports layout customization, a new capability that gives domain administrators control over which tools and left navigation items project members see based on their designation. O",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-studio-layout-customization/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-13-aws-aws-systems-manager-simplifies-onboarding-of-googl",
-      "date": "2026-11-13",
-      "name": "AWS Systems Manager simplifies onboarding of Google Cloud VMs for centralized management",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Systems Manager Cloud Connector now extends simplified multicloud onboarding support to Google Cloud, making it easy to connect your existing Google Cloud VMs to Systems Manager for centralized management alongsid",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/systems-manager-google-cloud-support/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-12-openai-how-amplitude-ships-product-improvements-in-1-2-da",
-      "date": "2026-11-12",
-      "name": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "vendor": "OpenAI",
-      "type": "upgrade",
-      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/business/customer-stories/amplitude"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-12-openai-elevated-errors-affecting-the-microsoft-365-connec",
-      "date": "2026-11-12",
-      "name": "Elevated errors affecting the Microsoft 365 connector",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Investigating</b><br /><br />We’re investigating an issue with Microsoft connectors where new connections may be broken and tools are not working as expected. We’ll share an update when we know more.<br /><br ",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01M78GAT3AK9P9W8Z230KHFVE8"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-12-openai-gpt-image-2-5-and-2-6-sunburst-flare-high-error-ra",
-      "date": "2026-11-12",
-      "name": "GPT-image-2.5 and 2.6 Sunburst & Flare High error rate",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Resolved</b><br /><br />All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>I",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01M77FAXVFV338GY7G9VRENRS5"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-12-openai-unable-to-start-new-workspace-agent-runs",
-      "date": "2026-11-12",
-      "name": "Unable to start new Workspace Agent runs",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Resolved</b><br /><br />All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>A",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01M76CW2D7FM7K7F8NJ4W0G08N"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-12-aws-amazon-cognito-now-supports-oauth-2-0-token-exchan",
-      "date": "2026-11-12",
-      "name": "Amazon Cognito now supports OAuth 2.0 token exchange",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p><a href=\"https://aws.amazon.com/cognito/\">Amazon Cognito</a> now supports OAuth 2.0 token exchange (RFC 8693). Amazon Cognito helps you add sign-up, sign-in, and access control to your web applications, mobile applica",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-token-exchange/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-12-aws-amazon-aurora-and-rds-now-support-graviton5-based-",
-      "date": "2026-11-12",
-      "name": "Amazon Aurora and RDS now support Graviton5-based R9g database instances",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Graviton5-based R9g database instances are now generally available for Amazon Aurora with PostgreSQL compatibility and MySQL compatibility, and for Amazon RDS for PostgreSQL, MySQL, and MariaDB.<br /> &nbsp;<br />",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-rds-postgresql-mysql-mariadb-r9g-instances/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-12-aws-amazon-mwaa-now-supports-fine-grained-access-contr",
-      "date": "2026-11-12",
-      "name": "Amazon MWAA now supports fine-grained access control with IAM Identity Center and multi-team environments",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Managed Workflows for Apache Airflow (Amazon MWAA) now supports fine-grained access control, giving administrators precise control over who can access which workflows and resources in an Apache Airflow environm",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/mwaa-fine-grained-access-control/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-12-aws-amazon-connect-customer-supports-merging-and-linki",
-      "date": "2026-11-12",
-      "name": "Amazon Connect Customer supports merging and linking related cases in the agent workspace",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Connect Customer now lets agents merge and link related cases in the agent workspace, so they can resolve customer issues faster and respond consistently. When a customer contacts a business about the same issu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-merge-link/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-12-aws-aws-quick-enhances-granular-governance-with-the-ab",
-      "date": "2026-11-12",
-      "name": "AWS Quick enhances granular governance with the ability to restrict structured data sources",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS Quick is announcing the general availability of structured data connector restrictions through custom permissions. This capability gives administrators granular control over which types of data sources user",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-structured-data-source-restrictions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-12-aws-amazon-route-53-domains-now-supports-self-service-",
-      "date": "2026-11-12",
-      "name": "Amazon Route 53 Domains now supports self-service restore for expired and deleted domains",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Route 53 Domains now lets you restore an expired or recently deleted domain yourself, using the Amazon Route 53 console, AWS CLI, or AWS SDKs. Previously, restoring a domain required a request to AWS Support. N",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-domains-self-service-restore/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-12-aws-ec2-image-builder-console-now-integrates-with-the-",
-      "date": "2026-11-12",
-      "name": "EC2 Image Builder console now integrates with the DevOps Agent for troubleshooting and resource creation",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>EC2 Image Builder now integrates with the AWS DevOps Agent directly in the Image Builder console, enabling you to troubleshoot failed image pipelines and create resources directly from the console chat panel. You can ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-image-builder-devops-agent-integration"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-12-aws-aws-backup-adds-logically-air-gapped-vault-support",
-      "date": "2026-11-12",
-      "name": "AWS Backup adds logically air-gapped vault support for Amazon EBS Snapshots Archive",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Backup logically air-gapped vault now supports Amazon EBS Snapshots Archive. Logically air-gapped vaults are a type of AWS Backup vault that allows secure sharing of backups across accounts and AWS Organizations, ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-backup-lag-vault-ebs-archive/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-12-aws-aws-glue-announces-automatic-version-upgrades-for-",
-      "date": "2026-11-12",
-      "name": "AWS Glue announces automatic version upgrades for Apache Spark jobs",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Glue introduces automatic version upgrades, a capability that keeps your Apache Spark jobs current on the latest AWS Glue runtime without manual coordination. Staying current on supported runtimes gives your jobs ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/glue-spark-auto-upgrades/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-12-aws-aws-cloud-wan-now-supports-bgp-communities-on-dire",
-      "date": "2026-11-12",
-      "name": "AWS Cloud WAN now supports BGP communities on Direct Connect attachments for routing policy",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Cloud WAN now supports BGP communities on Direct Connect attachments, enabling advanced routing controls for enterprise hybrid networks. Previously, Cloud WAN Routing Policy evaluated BGP communities only on Site-",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloud-wan-bgp-community-directconnect/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-12-aws-amazon-managed-service-for-apache-flink-introduces",
-      "date": "2026-11-12",
-      "name": "Amazon Managed Service for Apache Flink introduces enhanced snapshots",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon Managed Service for Apache Flink now supports enhanced snapshots, a capability that lets you capture, export, and restore application state across Apache Flink applications and AWS Regions, so you can run blue/",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/managed-flink-enhanced-snapshots/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-12-aws-amazon-rds-for-sql-server-now-supports-m8id-and-r8",
-      "date": "2026-11-12",
-      "name": "Amazon RDS for SQL Server now supports M8id and R8id instances",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for SQL Server</a> now supports M8id and R8id instances. These instances are po",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-sqlserver-supports-m8id-r8id-instances"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-12-aws-the-next-generation-agentcore-runtime-is-now-the-d",
-      "date": "2026-11-12",
-      "name": "The next generation AgentCore runtime is now the default",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, new runtimes in Amazon Bedrock AgentCore use the next generation of AgentCore runtime by default. The new runtime restores each session from a snapshot of your initialized agent, scales compute and mem",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/new-agentcore-runtime-default/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-12-crewai-1-15-41",
-      "date": "2026-11-12",
-      "name": "1.15.41",
-      "vendor": "CrewAI",
-      "type": "launch",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Allow approved private URL hosts.</li>\n</ul>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Fix projects to depend on PyMuPDF 2.x.</li>\n<li>Drop a real storage URL from the URL read tests.",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.41"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-11-12-aws-apache-airflow-ui-available-in-amazon-mwaa-serverl",
-      "date": "2026-11-12",
-      "name": "Apache Airflow UI available in Amazon MWAA Serverless",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon MWAA Serverless provides the native Apache Airflow UI for your workflows. You can browse workflows, inspect workflow runs and task instances, read task logs, view a workflow's source and versions, and start a w",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/airflow-ui-for-mwaa-serverless/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-12-aws-amazon-connect-customer-now-supports-batch-actions",
-      "date": "2026-11-12",
-      "name": "Amazon Connect Customer now supports batch actions on up to 100 cases at once",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Cases in Amazon Connect Customer now lets agents and supervisors assign, comment on, and update the status of up to 100 cases at once, so teams spend less time on repetitive case updates. When one issue affects many c",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-batch-actions-100-cases/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-11-openai-unable-to-start-new-workspace-agent-runs",
-      "date": "2026-11-11",
-      "name": "Unable to start new Workspace Agent runs",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Investigating</b><br /><br />We are investigating an issue preventing users from starting new Workspace Agent runs. We will share another update as more information becomes available.<br /><br /><b>Affected co",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01M76CW2D7FM7K7F8NJ4W0G08N"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-11-openai-elevated-errors-affecting-logins-sign-ups-and-chat",
-      "date": "2026-11-11",
-      "name": "Elevated errors affecting logins, sign-ups, and ChatGPT features",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "<b>Status: Resolved</b><br /><br />All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>L",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://status.openai.com//incidents/01M765MJQK7F85SC82RMTYN0V3"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-11-aws-ornith-1-0-9b-and-ornith-1-0-35b-models-now-availa",
-      "date": "2026-11-11",
-      "name": "Ornith-1.0-9B and Ornith-1.0-35B models now available on Amazon SageMaker JumpStart",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>DeepReinforce AI's Ornith-1.0-9B and Ornith-1.0-35B models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. These two models are part of the Orn",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/ornith-1-0-9b-ornith-1-0-35b-on-sagemaker-jumpstart/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-11-aws-deepseek-v4-pro-deepseek-v4-flash-and-deepseek-v4-",
-      "date": "2026-11-11",
-      "name": "DeepSeek-V4-Pro, DeepSeek-V4-Flash, and DeepSeek-V4.1-Flash models now available on Amazon SageMaker JumpStart",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>DeepSeek's DeepSeek-V4-Pro, DeepSeek-V4-Flash, and DeepSeek-V4.1-Flash models are now available on Amazon SageMaker JumpStart, expanding the portfolio of foundation models available to AWS customers. These three open-",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/01/deepseek-v4-pro-v4-flash-v4.1-flash-on-sagemaker-jumpstart/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-11-aws-aws-network-security-manager-now-available-in-aws-",
-      "date": "2026-11-11",
-      "name": "AWS Network Security Manager now available in AWS European Sovereign Cloud and Additional New Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Network Security Manager is now available in AWS European Sovereign Cloud Region and Thirty-One new Regions<br /> <br /> Today, AWS announces the general availability of AWS Network Security Manager in the AWS Eur",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/network-security-mgr-eu-sovereign-cloud/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-11-aws-amazon-cognito-now-supports-user-pool-session-mana",
-      "date": "2026-11-11",
-      "name": "Amazon Cognito now supports user pool session management",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Cognito now supports session management for user pools, giving you visibility into and control over the sessions your users establish when they sign in to your applications. Single sign-on (SSO) sessions are cr",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cognito-session-management/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-11-aws-aws-lambda-microvms-now-supports-the-x86-cpu-archi",
-      "date": "2026-11-11",
-      "name": "AWS Lambda MicroVMs now supports the x86 CPU architecture",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Lambda MicroVMs now supports the x86 CPU architecture, so you can run your existing x86 applications, tools, and software dependencies without recompiling or porting them. When you create a MicroVM image, you can ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-microvms-x86-architecture/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-11-aws-aws-emulator-is-now-available-for-building-and-tes",
-      "date": "2026-11-11",
-      "name": "AWS Emulator is now available for building and testing AWS applications locally",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/products/developer-tools/emulator/\">AWS Emulator</a> is now available for building and testing AWS applications locally.</p> \n<p>Starting today, you can use AWS Emulator to build and te",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-emulator-now-available/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-11-aws-aws-quick-apps-are-now-available-in-asia-pacific-s",
-      "date": "2026-11-11",
-      "name": "AWS Quick apps are now available in Asia Pacific (Singapore)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>The AWS Quick desktop app for macOS and Windows and the Quick mobile app for iOS and Android are now available in the Asia Pacific (Singapore) Region. This launch builds on the recent <a href=\"https://aws.amazon.com/a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-apps-available-in-asia-pacific-singapore/"
         }
       ],
       "impact": 5,
