@@ -19,6 +19,906 @@
       "tags": []
     },
     {
+      "id": "2026-11-19-openai-deploying-daybreak-red",
+      "date": "2026-11-19",
+      "name": "Deploying Daybreak Red",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/business/learn/deploying-daybreak-red"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-openai-elevated-error-rates-for-gpt-6-luna-api-requests",
+      "date": "2026-11-19",
+      "name": "Elevated error rates for gpt-6 Luna API requests",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Resolved</b><br /><br />All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>C",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M7T8MRF9SDBDNQ62Z6V156ZZ"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-aws-marketplace-now-supports-agentic-payments-with",
+      "date": "2026-11-19",
+      "name": "AWS Marketplace now supports agentic payments with AgentCore",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Marketplace now supports agentic payments over the x402 protocol, so AI agents can discover and buy select products and pay per request in US dollars through AgentCore payments, part of Amazon Bedrock AgentCore. A",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-agentic-payments-agentcore/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-amazon-cognito-now-supports-client-id-metadata-doc",
+      "date": "2026-11-19",
+      "name": "Amazon Cognito now supports client ID metadata documents",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p><a href=\"https://aws.amazon.com/cognito/\">Amazon Cognito</a> now supports OAuth client ID metadata documents (CIMD). Amazon Cognito helps you implement secure sign-in and access control for users, AI agents, and micro",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-client-id-metadata-documents/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-amazon-aurora-dsql-now-delivers-up-to-50-higher-wr",
+      "date": "2026-11-19",
+      "name": "Amazon Aurora DSQL now delivers up to 50% higher write throughput",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>With upgrades to its storage layer, <a href=\"https://aws.amazon.com/rds/aurora/dsql/\">Amazon Aurora DSQL</a> now delivers up to 50% higher write throughput for many transactional workloads. Data loads finish sooner, a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-higher-write-throughput/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-amazon-connect-launches-resolutions-an-agentic-sol",
+      "date": "2026-11-19",
+      "name": "Amazon Connect launches Resolutions, an agentic solution for high-volume operational work",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Connect Customer announces the general availability of Resolutions, an agentic operations solution that resolves high-volume work end-to-end, including refund requests, transaction disputes, fraud investigation",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-resolutions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-aws-lambda-durable-functions-now-supports-opentele",
+      "date": "2026-11-19",
+      "name": "AWS Lambda durable functions now supports OpenTelemetry tracing",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Lambda announces OpenTelemetry (OTel) support for Lambda durable functions. You can now trace your durable executions and emit traces to Amazon CloudWatch and other industry-standard observability tools.&nbsp;This",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-otel/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-aws-marketplace-agent-mode-now-helps-you-assess-bu",
+      "date": "2026-11-19",
+      "name": "AWS Marketplace agent mode now helps you assess, buy, and deploy solutions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>You can now assess a seller's security, buy, and deploy supported products in one conversation with AWS Marketplace agent mode, the conversational AI experience for procuring cloud solutions. You share your requiremen",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace/aws-marketplace-agent-mode-expansion"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-amazon-workspaces-applications-now-supports-webaut",
+      "date": "2026-11-19",
+      "name": "Amazon WorkSpaces Applications now supports WebAuthn redirection",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon WorkSpaces Applications now supports WebAuthn redirection, so users can sign in to websites and applications in their streaming session with a FIDO2 authenticator on their local device, such as a security key, ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-workspaces-applications-webauthn-redirection/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-amazon-route-53-now-supports-health-checks-for-pri",
+      "date": "2026-11-19",
+      "name": "Amazon Route 53 now supports health checks for private endpoints",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<div class=\"OutlineElement Ltr SCXW180369299 BCX2\" style=\"direction: ltr;\">\n <p class=\"Paragraph SCXW180369299 BCX2\" lang=\"EN-US\" style=\"font-weight: normal; font-style: normal; vertical-align: baseline; background-color",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-private-endpoint-health-checks/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-aws-revenue-measurement-now-supports-deal-level-re",
+      "date": "2026-11-19",
+      "name": "AWS Revenue Measurement now supports deal-level revenue attribution for AWS Marketplace offers and opportunities",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces deal-level revenue attribution for AWS Revenue Measurement (previously Partner Revenue Measurement) capabilities. AWS Partners can now see how the AWS revenue measured for their products maps to s",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-revenue-measurement-deal-attribution/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-aws-lambda-now-supports-a-30-minute-timeout-for-on",
+      "date": "2026-11-19",
+      "name": "AWS Lambda now supports a 30-minute timeout for on-demand Event Functions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Lambda now supports a 30-minute function timeout for <a href=\"https://docs.aws.amazon.com/lambda/latest/dg/lambda-functions-chapter.html\">Event Functions</a> that run on demand, doubling the 15-minute limit for <a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-30-minute-ondemand-event-functions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-amazon-ivs-real-time-streaming-now-provides-a-linu",
+      "date": "2026-11-19",
+      "name": "Amazon IVS Real-Time Streaming now provides a Linux broadcast SDK",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>The Amazon Interactive Video Service (Amazon IVS) Linux broadcast SDK is now available for IVS Real-Time Streaming. Applications running on Linux can join an IVS stage, receive audio from participants, and send audio ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ivs-real-time-streaming-linux-broadcast-sdk"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-amazon-cognito-now-supports-aws-secrets-manager-fo",
+      "date": "2026-11-19",
+      "name": "Amazon Cognito now supports AWS Secrets Manager for app client secrets",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/cognito/\">Amazon Cognito</a> now integrates with <a href=\"https://aws.amazon.com/secrets-manager/\">AWS Secrets Manager</a>, so you can store and manage your user pool app client secrets",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-secrets-manager-integration/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-aws-waf-launches-new-security-analytics-dashboard-",
+      "date": "2026-11-19",
+      "name": "AWS WAF launches new Security Analytics Dashboard for real-time investigations",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS WAF now gives you one place to find and stop unwanted traffic across every application in your account. The new AWS WAF security analytics dashboard brings together traffic from all of your protection packs (web A",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/02/aws-waf-security-analytics-dashboard/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-aws-partner-central-now-supports-ai-assisted-listi",
+      "date": "2026-11-19",
+      "name": "AWS Partner Central now supports AI-assisted listing experience for product, services, and solutions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>AWS Marketplace search, Agent Mode, and AWS sales teams use listings to recommend partner offerings to AWS customers. Partners who sell software and services can now create and improve their listings in AWS Partner Ce",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-ai-listing/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-aurora-postgresql-with-express-configuration-now-s",
+      "date": "2026-11-19",
+      "name": "Aurora PostgreSQL with express configuration now supports Amazon VPC",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Aurora PostgreSQL databases created with express configuration can now move into an Amazon Virtual Private Cloud (VPC) with a single API call or a modify action in the Amazon RDS console. This helps you take AI-built ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-postgresql-express-vpc/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-amazon-aurora-now-supports-moving-clusters-to-a-di",
+      "date": "2026-11-19",
+      "name": "Amazon Aurora now supports moving clusters to a different VPC",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Aurora PostgreSQL and Aurora MySQL clusters can now move from one Amazon Virtual Private Cloud (VPC) to another without data migration. You can move a cluster with a single API call or a modify action in the Amazon RD",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-move-clusters-to-different-vpc/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-aws-marketplace-now-supports-buyer-contact-sharing",
+      "date": "2026-11-19",
+      "name": "AWS Marketplace now supports buyer contact sharing at subscription",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/marketplace\">AWS Marketplace</a> now supports buyer contact sharing. When customers subscribe to a third-party product, they can share their contact information with the seller. This he",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-buyer-contact-sharing/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-agentcore-runtime-instances-now-support-nested-vir",
+      "date": "2026-11-19",
+      "name": "AgentCore runtime instances now support Nested Virtualization",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Bedrock AgentCore <a href=\"https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/runtime-instances.html\">runtime instances</a> now support nested virtualization, so your agents can run their own virtual",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-nested-virtualization/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-aws-marketplace-now-supports-buyer-approval-workfl",
+      "date": "2026-11-19",
+      "name": "AWS Marketplace now supports buyer approval workflows",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS Marketplace announces the general availability of buyer approvals. This lets you decide which AWS Marketplace purchases need sign-off, who approves them, and where approval happens. You can define buying po",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-buyer-approvals/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-amazon-connect-customer-enables-cases-by-default-f",
+      "date": "2026-11-19",
+      "name": "Amazon Connect Customer enables Cases by default for new instances",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect Customer enables Cases by default for new instances, so operations teams can start tracking and resolving customer issues on day one without any setup work. New instances come with Cases connected to ru",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-cases-enabled-by-default/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-aws-revenue-measurement-now-supports-identity-tagg",
+      "date": "2026-11-19",
+      "name": "AWS Revenue Measurement now supports Identity Tagging",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS Revenue Measurement (previously Partner Revenue Measurement) provides measurement of AWS consumption driven by Partner solutions. Today, AWS announces Identity Tagging in AWS Revenue Measurement, a new way for Par",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/revenue-measurement-identity-tagging/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-aws-revenue-measurement-now-supports-closed-source",
+      "date": "2026-11-19",
+      "name": "AWS Revenue Measurement now supports closed-source models in Amazon Bedrock",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Revenue Measurement (previously Partner Revenue Measurement) provides measurement of AWS consumption driven by Partner solutions. Today, AWS announces expanded Amazon Bedrock support in AWS Revenue Measurement. Pa",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/revenue-measurement-bedrock/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-amazon-workspaces-now-lets-developers-enable-neste",
+      "date": "2026-11-19",
+      "name": "Amazon WorkSpaces now lets developers enable Nested Virtualization",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Developers on Amazon WorkSpaces Personal can now turn on Nested Virtualization for their own WorkSpaces from the Windows WorkSpaces client, without asking an administrator to make each change. Once an administrator gr",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-nested-virtualization/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-announcing-data-as-a-service-for-aws-marketplace",
+      "date": "2026-11-19",
+      "name": "Announcing Data as a Service for AWS Marketplace",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS Marketplace announces the general availability of Data as a Service, a new product type that lets customers buy third-party datasets and licensed content. Customers often have the models and compute they ne",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace-data-as-a-service/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-aws-partner-central-agents-now-guide-higher-qualit",
+      "date": "2026-11-19",
+      "name": "AWS Partner Central Agents now guide higher-quality co-sell submissions and explain co-sell motions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces that AWS Partner Central Agents now guide AWS Partners to create and enrich opportunities for a high-quality submission, and explain the assigned co-sell motion of each opportunity and why AWS ass",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-agents-guide-high-quality-opp"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-aws-expands-amazon-connect-customer-competency-to-",
+      "date": "2026-11-19",
+      "name": "AWS expands Amazon Connect Customer Competency to Software Partners",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS announces the expansion of the Amazon Connect Customer Competency to Software Partners. The AWS Specialization now recognizes both Services and Software Partners with technical depth and proven success on Amazon C",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-competency-software-partners/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-amazon-ec2-launches-performance-status-checks-and-",
+      "date": "2026-11-19",
+      "name": "Amazon EC2 launches performance status checks and new utilization metrics for EC2 Detailed Monitoring",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Customers can now use Amazon EC2 performance status checks and new utilization metrics for EC2 Detailed Monitoring to observe and act on the performance of their EC2 workloads without setup within the instance, comple",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-performance-status-checks/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-aws-data-competency-adds-open-data-and-interoperab",
+      "date": "2026-11-19",
+      "name": "AWS Data Competency adds Open Data and Interoperability category for Software Partners",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces the Open Data and Interoperability category within the AWS Data Competency. The new category recognizes AWS Software Partners whose solutions keep customer data open and under customer control, le",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/data-competency-open-data-category/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-aws-sts-announces-getscopedcredentials-to-scope-do",
+      "date": "2026-11-19",
+      "name": "AWS STS announces GetScopedCredentials to scope down permissions at runtime",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>AWS Security Token Service (AWS STS) announces GetScopedCredentials, a new API that lets you scope down the permissions of existing temporary security credentials. With GetScopedCredentials, you can give your agents, ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/sts-getscopedcredentials/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-aws-continuum-for-penetration-testing-now-supports",
+      "date": "2026-11-19",
+      "name": "AWS Continuum for Penetration Testing now supports pause and resume",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Continuum for Penetration Testing (formerly AWS Security Agent) now lets you pause a running penetration test job and resume it later from its last saved checkpoint. Continuum for Penetration Testing runs on-deman",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/continuum-pentest-pause-resume/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-second-generation-aws-outposts-racks-now-supported",
+      "date": "2026-11-19",
+      "name": "Second-generation AWS Outposts racks now supported in the AWS European Sovereign Cloud (Germany) Region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Second-generation AWS Outposts racks are now supported in the AWS European Sovereign Cloud (Germany) Region. Outposts racks extend AWS infrastructure, AWS services, APIs, and tools to virtually any on-premises data ce",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-outposts-thf-european-sovereign/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-aws-transform-automates-source-and-migration-targe",
+      "date": "2026-11-19",
+      "name": "AWS Transform automates source and migration target actions to accelerate cutover",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Transform now automates the tasks that prepare and validate your servers during a migration, before they move and after they launch on AWS. AWS Transform is the agentic AI service that speeds up cloud migration, a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-automates-source-actions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-aws-health-now-supports-resource-and-account-tags",
+      "date": "2026-11-19",
+      "name": "AWS Health now supports resource and account tags",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Health now supports resource and account tags in Health events. This new capability enables you to enrich Health events with resource tags and account tags, providing additional context to help you manage and resp",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-health-supports-tags/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-aws-revenue-measurement-now-supports-account-taggi",
+      "date": "2026-11-19",
+      "name": "AWS Revenue Measurement now supports Account Tagging for SaaS Products",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Revenue Measurement (previously Partner Revenue Measurement) provides measurement of AWS consumption driven by Partner solutions. Today, AWS announces Account Tagging for SaaS Products for AWS Revenue Measurement.",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/revenue-measurement-account-tagging/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-amazon-connect-customer-now-provides-ai-chat-summa",
+      "date": "2026-11-19",
+      "name": "Amazon Connect Customer now provides AI chat summaries in the CCP",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/connect/\">Amazon Connect Customer</a> now provides agents with a generative AI-powered post-contact summary of each chat conversation inside the Contact Control Panel (CCP) within secon",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-ai-chat-summaries-ccp/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-amazon-polly-now-supports-voice-cloning",
+      "date": "2026-11-19",
+      "name": "Amazon Polly now supports voice cloning",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, we are excited to announce the general availability of voice cloning in Amazon Polly, as a gated release. Using a few minutes of recordings from a consenting speaker, you can now create a cloned voice that soun",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-polly-now-supports-voice-cloning/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-aws-lambda-durable-execution-sdk-for-rust-is-now-g",
+      "date": "2026-11-19",
+      "name": "AWS Lambda Durable Execution SDK for Rust is now generally available",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS announces the general availability of the open source AWS Lambda Durable Execution SDK for Rust. Rust developers can use the SDK to build resilient, long-running workflows using Lambda durable functions, to",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-execution-sdk-rust/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-amazon-vpc-flow-logs-now-supports-amazon-eks-metad",
+      "date": "2026-11-19",
+      "name": "Amazon VPC Flow Logs now supports Amazon EKS metadata",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon VPC Flow Logs now adds Amazon Elastic Kubernetes Service (Amazon EKS) metadata to flow log records. Each record identifies the pod that sent or received the traffic, along with its cluster, namespace and labels",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-vpc-flow-logs-amazon-eks-metadata/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-amazon-sagemaker-ai-now-detects-rising-response-ti",
+      "date": "2026-11-19",
+      "name": "Amazon SageMaker AI now detects rising response times, idle GPUs, and missed optimizations on your generative AI inference endpoints",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker AI now monitors the response time and GPU use of generative AI inference endpoints by default and notifies customers when responses slow down, GPUs sit mostly idle, or a configuration falls behind. Cu",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-monitors-endpoints/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-amazon-bedrock-agentcore-identity-adds-private-cer",
+      "date": "2026-11-19",
+      "name": "Amazon Bedrock AgentCore Identity adds private certificate authority support",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon Bedrock AgentCore Identity now supports private certificate authorities (CAs) for custom OAuth 2.0 credential providers. If you already connect your agents to identity providers (IdPs) hosted in your VPC, you c",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-agentcore-identity-private-ca/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-amazon-cognito-now-supports-dynamic-client-registr",
+      "date": "2026-11-19",
+      "name": "Amazon Cognito now supports dynamic client registration",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p><a href=\"https://aws.amazon.com/cognito/\">Amazon Cognito</a> now supports OAuth dynamic client registration (DCR, RFC 7591). Amazon Cognito helps you implement secure sign-in and access control for users, AI agents, a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-dynamic-client-registration/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-aws-network-load-balancer-now-supports-mutual-tls-",
+      "date": "2026-11-19",
+      "name": "AWS Network Load Balancer now supports mutual TLS authentication",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Network Load Balancer (NLB) now supports mutual TLS (mTLS) authentication for clients that present X.509 certificates. Until now, customers who needed mTLS with NLB built their own solutions or ran third-party pro",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/network-load-balancer-mtls/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-amazon-inspector-code-security-adds-github-enterpr",
+      "date": "2026-11-19",
+      "name": "Amazon Inspector Code Security adds GitHub Enterprise Server and private connectivity",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Inspector Code Security now supports GitHub Enterprise Server (GHES) integration and private network connectivity for GHES and GitLab Self-Managed. Code Security is also launching automatic fix pull requests in",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/inspector-code-ghes-private-network/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-aws-network-firewall-launches-explicit-proxy-funct",
+      "date": "2026-11-19",
+      "name": "AWS Network Firewall launches explicit proxy functionality and NAT Gateway association",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>You can now associate AWS Network Firewall with NAT Gateway and use it both as an explicit proxy and a transparent firewall with native network address translation. You can use this capability with existing Network Fi",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/network-firewall-proxy-nat-gateway/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-aws-partner-central-agents-now-generate-value-real",
+      "date": "2026-11-19",
+      "name": "AWS Partner Central Agents now generate Value Realization Plans",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces that AWS Partner Central Agents can now generate Value Realization Plans (VRPs) for the Business Value Realization (BVR) motion in <a href=\"https://aws.amazon.com/partners/partner-central/\">AWS Pa",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-agents-bvr-vrp"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-amazon-s3-tables-now-support-promoting-replicas-to",
+      "date": "2026-11-19",
+      "name": "Amazon S3 Tables now support promoting replicas to writable tables",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon S3 Tables replication now lets you make a read-only replica of your Apache Iceberg table a standalone, writable table with a single API call. S3 Tables replication keeps read-only replica tables in sync with yo",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-tables-replication-writable-tables/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-aws-aws-appconfig-launches-support-for-managing-native",
+      "date": "2026-11-19",
+      "name": "AWS AppConfig launches support for managing native AI model and AI prompt configuration",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS AppConfig introduces two new configuration profile types to help you manage the settings for your generative AI applications: AI model invocation configurations, and AI prompt configurations. You can now ch",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-appconfig-native-ai-model-invocation-prompt-configurations/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-19-crewai-1-15-44",
+      "date": "2026-11-19",
+      "name": "1.15.44",
+      "vendor": "CrewAI",
+      "type": "launch",
+      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Add capability to save files as versioned, shareable artifacts.</li>\n</ul>\n<h3>Bug Fixes</h3>\n<ul>\n<li>Fix inline agent and crew action references relative to the flow f",
+      "sources": [
+        {
+          "title": "CrewAI source",
+          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.44"
+        }
+      ],
+      "impact": 3,
+      "risk": 3,
+      "audience": "dev",
+      "tags": []
+    },
+    {
       "id": "2026-11-18-openai-research-acceleration-the-jagged-frontier",
       "date": "2026-11-18",
       "name": "Research acceleration: The jagged frontier",
@@ -173,906 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudfront-origin-mtls-websockets-grpc/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-18-aws-aws-lambda-adds-support-for-gpu-instances-on-lambd",
-      "date": "2026-11-18",
-      "name": "AWS Lambda adds support for GPU instances on Lambda Managed Instances",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Lambda now supports GPU-accelerated <a href=\"https://aws.amazon.com/lambda/lambda-functions/\">Event Functions</a> on <a href=\"https://aws.amazon.com/lambda/lambda-managed-instances/\">Lambda Managed Instances</a> u",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-gpu-managed-instances/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-18-aws-amazon-rds-for-mysql-supports-mysql-minor-version-",
-      "date": "2026-11-18",
-      "name": "Amazon RDS for MySQL supports MySQL minor version 8.4.13",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, <a href=\"https://aws.amazon.com/rds/mysql/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for MySQL</a> supports MySQL minor version 8.4.13, the latest minor",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-mysql-8413-available/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-18-aws-amazon-cognito-now-supports-point-in-time-recovery",
-      "date": "2026-11-18",
-      "name": "Amazon Cognito now supports point-in-time recovery",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p><a href=\"https://aws.amazon.com/cognito/\">Amazon Cognito</a> now supports point-in-time recovery (PITR), so you can restore the user data in a user pool to an earlier time. Amazon Cognito helps you implement secure si",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-point-in-time-recovery/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-18-aws-amazon-rds-for-mysql-now-supports-mysql-major-vers",
-      "date": "2026-11-18",
-      "name": "Amazon RDS for MySQL now supports MySQL major version 9.7",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, Amazon RDS for MySQL supports MySQL major version 9.7, the latest Long-Term Support release from MySQL community. Amazon RDS for MySQL 9.7 launches with community MySQL 9.7.4. This launch introduces su",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-mysql-974-available/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-18-aws-amazon-eks-hybrid-nodes-reduces-price-for-large-ho",
-      "date": "2026-11-18",
-      "name": "Amazon EKS Hybrid Nodes reduces price for large hosts",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon&nbsp;Elastic Kubernetes Service (Amazon EKS) Hybrid Nodes now has lower pricing for large nodes, capping the billed vCPU per node at 32 vCPU, so you are no longer charged for vCPUs above that per node threshold",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-hybrid-nodes-pricing-change/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-18-aws-amazon-cloudfront-functions-now-supports-network-c",
-      "date": "2026-11-18",
-      "name": "Amazon CloudFront Functions now supports network calls",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon CloudFront Functions can now make network calls and act on the response during a request. CloudFront Functions runs lightweight JavaScript at CloudFront edge locations to customize requests and responses. Previ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-functions-network-calls/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-18-aws-aws-clean-rooms-supports-writing-pyspark-job-resul",
-      "date": "2026-11-18",
-      "name": "AWS Clean Rooms supports writing PySpark job results to intermediate tables",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Clean Rooms now supports <a href=\"https://docs.aws.amazon.com/clean-rooms/latest/userguide/create-intermediate-table.html\" rel=\"noopener noreferrer\" target=\"_blank\">intermediate tables for PySpark jobs</a>, offeri",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-clean-rooms-pyspark-intermediate-table"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-18-aws-aws-lambda-now-supports-customer-managed-runtimes-",
-      "date": "2026-11-18",
-      "name": "AWS Lambda now supports customer-managed runtimes, giving platform teams centralized control over runtime contents and updates",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Lambda now supports customer-managed runtimes for Lambda Event Functions (formerly Lambda functions). Customer-managed runtimes are a standalone resource type that fully decouples runtime management from function ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-customer-managed-runtimes/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-18-aws-amazon-aurora-dsql-now-supports-audit-logging",
-      "date": "2026-11-18",
-      "name": "Amazon Aurora DSQL now supports audit logging",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/aurora/dsql/?refid=f1097432-a884-4027-abe8-3dbd6d9c5cdc\">Amazon Aurora DSQL</a> now supports database-internal audit logging, a fully managed capability that captures SQL statements",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-dsql-audit-logging/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-18-aws-amazon-elasticache-now-supports-distributed-kv-cac",
-      "date": "2026-11-18",
-      "name": "Amazon ElastiCache now supports distributed KV caching for self-hosted LLM inference",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/elasticache/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon ElastiCache for Valkey</a> now offers fully managed distributed KV caching, a new capability that reduces self-hosted larg",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/announcing-distributed-kv-caching-for-self-hosted-llms-with-amazon-elasticache/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-18-aws-amazon-cloudwatch-simplifies-network-performance-m",
-      "date": "2026-11-18",
-      "name": "Amazon CloudWatch simplifies network performance monitoring for your Amazon Virtual Private Cloud (VPC)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon CloudWatch Network Monitoring now allows you to monitor the health of the AWS network paths that your workloads take by using performance monitors. Performance monitors provide near real-time visibility into wh",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-network-path-monitoring/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-18-aws-aws-control-tower-now-supports-existing-amazon-s3-",
-      "date": "2026-11-18",
-      "name": "AWS Control Tower now supports existing Amazon S3 bucket for log delivery",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Control Tower now lets you use an existing Amazon S3 bucket in your landing zone to store AWS Config and AWS CloudTrail logs. Previously, AWS Control Tower required you to use the Amazon S3 bucket it creates and m",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/control-tower-existing-s3-log-bucket/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-18-aws-aws-iam-account-access-manager-is-now-even-easier-",
-      "date": "2026-11-18",
-      "name": "AWS IAM account access manager is now even easier to deploy and use",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Deploying and using AWS Identity and Access Management (IAM) account access manager is now even easier: you can use AWS managed policies to enable and administer it; you can include it in your infrastructure-as-code (",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/iam-account-access-manager-easier/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-18-aws-amazon-sagemaker-hyperpod-now-supports-higher-pod-",
-      "date": "2026-11-18",
-      "name": "Amazon SageMaker HyperPod now supports higher pod density on EKS-orchestrated clusters",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon SageMaker HyperPod now supports higher pod density per node on EKS-orchestrated clusters, allowing you to get more out of every instance. This leaves more room for your applications alongside system DaemonSets ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-higher-pod-density/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-18-crewai-1-15-42",
-      "date": "2026-11-18",
-      "name": "1.15.42",
-      "vendor": "CrewAI",
-      "type": "upgrade",
-      "summary": "<h2>What's Changed</h2>\n<h3>Features</h3>\n<ul>\n<li>Make ChromaDB an optional extra</li>\n<li>Default Knowledge to local Qdrant and decouple storage from ChromaDB</li>\n<li>Pick tools for standalone agents and add them late",
-      "sources": [
-        {
-          "title": "CrewAI source",
-          "url": "https://github.com/crewAIInc/crewAI/releases/tag/1.15.42"
-        }
-      ],
-      "impact": 3,
-      "risk": 3,
-      "audience": "dev",
-      "tags": []
-    },
-    {
-      "id": "2026-11-17-openai-astra-for-law-leads-in-legal-intelligence",
-      "date": "2026-11-17",
-      "name": "Astra for Law leads in legal intelligence",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/astra-law-6-2"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-17-aws-amazon-workspaces-applications-adds-support-for-sm",
-      "date": "2026-11-17",
-      "name": "Amazon WorkSpaces Applications adds support for smart card redirection",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon WorkSpaces Applications now supports smart card redirection on single-session and multi-session fleets, so users can access the smart card connected to their local device from applications inside their streamin",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-workspaces-applications-smart-card-redirection/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-17-aws-amazon-emr-8-2-is-now-available",
-      "date": "2026-11-17",
-      "name": "Amazon EMR 8.2 is now available",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon EMR 8.2 is now available with new features across Amazon EMR on EC2, Amazon EMR on EKS, and Amazon EMR Serverless. This release upgrades Apache Spark to 4.1.3, Apache Iceberg to 1.11.0, and Delta Lake to 4.2.0,",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-emr-8.2/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-17-aws-introducing-the-apache-spark-optimization-agent-fo",
-      "date": "2026-11-17",
-      "name": "Introducing the Apache Spark Optimization Agent for Amazon EMR Serverless",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon EMR Serverless now offers the Apache Spark optimization agent, which analyzes completed Spark job runs and delivers cost and performance optimization recommendations in seconds. You can select a cost or perform",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/apache-spark-optimization-agent/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-17-aws-aws-transform-now-accelerates-migration-deals-for-",
-      "date": "2026-11-17",
-      "name": "AWS Transform now accelerates migration deals for Migration Acceleration Program (MAP) benefits",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Partners can now expedite Migration Acceleration Program (MAP) deals, from qualification to incentive payout, with an end-to-end agentic workflow in AWS Transform. Partners can manage the full MAP lifecycle withou",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/map-integration-with-aws-transform/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-17-aws-amazon-ec2-c8gn-instances-are-now-available-in-aws",
-      "date": "2026-11-17",
-      "name": "Amazon EC2 C8gn instances are now available in AWS Israel (Tel Aviv) region",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8gn instances, powered by the latest-generation AWS Graviton4 processors, are available in the AWS Israel (Tel Aviv) region. The C8gn instances provide up to ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c8gn/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-17-aws-amazon-ec2-c8ine-instances-are-now-available-in-aw",
-      "date": "2026-11-17",
-      "name": "Amazon EC2 C8ine instances are now available in AWS Europe (Ireland) region",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C8ine instances are available in the AWS Europe (Ireland) region. C8ine instances are powered by custom sixth generation Intel Xeon Scalable processors, availa",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c8ine"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-17-aws-customize-aws-elemental-inference-with-custom-mode",
-      "date": "2026-11-17",
-      "name": "Customize AWS Elemental Inference with custom models, prompts, and decisions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Elemental Inference now lets you customize how it analyzes your live video in two ways. You can create functions that ask custom questions of the video using multi-modal foundational models in Amazon Bedrock, or a",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/elemental-inference-functions-decisions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-17-aws-aws-security-hub-now-infers-resource-criticality-f",
-      "date": "2026-11-17",
-      "name": "AWS Security Hub now infers resource criticality from installed software and usage",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Today, AWS Security Hub adds installed software and resource usage as signals for resource criticality, which indicates how important a resource is to your business. Security Hub uses criticality to rank exposure find",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-resource-criticality/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-17-aws-amazon-bedrock-agentcore-memory-now-supports-short",
-      "date": "2026-11-17",
-      "name": "Amazon Bedrock AgentCore Memory now supports short-term memory retention of up to 10 years",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Bedrock AgentCore Memory now lets you keep short-term memory events for up to 10 years, up from one year. Developers can now use short-term memory as a long-lived record of agent conversations and interactions.",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-memory-10-year-retention"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-17-aws-amazon-api-gateway-rest-apis-now-support-jwt-autho",
-      "date": "2026-11-17",
-      "name": "Amazon API Gateway REST APIs now support JWT authorizers",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon API Gateway now offers a native JWT authorizer for REST APIs, a new authorizer type that validates JSON Web Tokens directly in the gateway. Until now, validating tokens from an OpenID Connect or OAuth 2.0 ident",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-authorizers-jwt/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-17-aws-amazon-bedrock-agentcore-memory-now-provides-full-",
-      "date": "2026-11-17",
-      "name": "Amazon Bedrock AgentCore Memory now provides full session summaries",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon Bedrock AgentCore Memory now keeps a full session summary for every session. It's a single record that gives a snapshot of what happened in the conversation. Summary chunks cover the conversation in more detail",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-memory-full-session-summaries"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-17-aws-amazon-sagemaker-now-supports-ai-data-preparation-",
-      "date": "2026-11-17",
-      "name": "Amazon SageMaker now supports AI data preparation capabilities to build high-quality datasets for model development",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Building high-quality training datasets has traditionally required weeks of manual labeling and data cleaning. Amazon SageMaker now offers AI data preparation capabilities that help data scientists and ML engineers bu",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-ai-data-prep-capabilities/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-17-aws-aws-lambda-now-supports-scale-to-and-from-zero-for",
-      "date": "2026-11-17",
-      "name": "AWS Lambda now supports scale to and from zero for Lambda Managed Instances",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Lambda now supports scale to and from zero for Event Functions running on&nbsp;<a href=\"https://docs.aws.amazon.com/lambda/latest/dg/lambda-managed-instances.html\">Lambda Managed Instances</a> (LMI). Lambda automa",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-managed-instances-scale-to-zero/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-17-aws-amazon-dynamodb-caching-is-now-available-with-amaz",
-      "date": "2026-11-17",
-      "name": "Amazon DynamoDB caching is now available with Amazon ElastiCache Serverless for Valkey",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the general availability of DynamoDB caching with Amazon ElastiCache Serverless for Valkey, a serverless alternative to Amazon DynamoDB Accelerator (DAX) that delivers sub-millisecond read latency",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/dynamodb-caching-elasticache/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-17-aws-amazon-opensearch-ui-is-now-available-in-the-afric",
-      "date": "2026-11-17",
-      "name": "Amazon OpenSearch UI is now available in the Africa (Cape Town) Region",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon OpenSearch UI has expanded to the AWS Africa (Cape Town) Region, bringing availability to 25 AWS Regions. OpenSearch UI provides a single endpoint to query, visualize, and analyze data across Amazon OpenSearch ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/opensearch-ui-available-africa-cape-town-region"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-17-aws-amazon-bedrock-agentcore-now-offers-free-monthly-w",
-      "date": "2026-11-17",
-      "name": "Amazon Bedrock AgentCore now offers free monthly web search queries",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Bedrock AgentCore now offers 5,000 free web search queries per month through the Web Search Tool in AgentCore gateway and the Web Search API. AgentCore helps developers build, deploy, and operate highly effecti",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-agentcore-free-web-search-queries/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-17-aws-aws-config-announces-managed-conformance-packs",
-      "date": "2026-11-17",
-      "name": "AWS Config announces managed conformance packs",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Config now offers managed conformance packs. AWS builds and maintains these packs for specific compliance and governance frameworks. When you deploy one, you choose a framework, and AWS Config evaluates your resou",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-config-managed-conformance-packs"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-17-aws-amazon-aurora-dsql-now-offers-sql-statement-statis",
-      "date": "2026-11-17",
-      "name": "Amazon Aurora DSQL now offers SQL statement statistics in Database Insights",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/aurora/dsql/\">Amazon Aurora DSQL</a> now records statistics for each SQL statement your cluster runs and publishes them as Amazon CloudWatch OpenTelemetry (OTel) metrics. You can vi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-statement-statistics/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-17-aws-amazon-evs-launches-support-for-r7i-metal-instance",
-      "date": "2026-11-17",
-      "name": "Amazon EVS launches support for r7i.metal instances, external principal storage, and an Agent Skill",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, we are announcing that Amazon Elastic VMware Service (Amazon EVS) now supports the r7i.metal-24xl and r7i.metal-48xl Amazon Elastic&nbsp;Compute Cloud (EC2) bare metal instance types for VMware Cloud Foundation",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-evs-r7i-agent-skill-support/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-17-aws-openai-gpt-6-2-astra-and-gpt-6-2-sol-are-now-gener",
-      "date": "2026-11-17",
-      "name": "OpenAI GPT-6.2 Astra, and GPT-6.2 Sol are now generally available on Amazon Bedrock",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS announces the general availability of OpenAI GPT-6.2 Astra and GPT-6.2 Sol on Amazon Bedrock. GPT-6.2 Astra brings frontier-level reasoning and judgment to your most ambitious work, including complex busine",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/openai-gpt-6-2-astra-sol-amazon-bedrock/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-17-aws-amazon-workspaces-advisor-now-helps-you-find-issue",
-      "date": "2026-11-17",
-      "name": "Amazon WorkSpaces Advisor now helps you find issues before your users notice them (Public Preview)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>When a WorkSpace is slow or won't connect, the IT administrator trying to help has traditionally had to dig through Amazon CloudWatch metrics, logs, and configuration data across multiple tools to find out why. And in",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-advisor-proactive-troubleshooting-preview"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-17-aws-amazon-vpc-aws-transit-gateway-and-aws-cloud-wan-n",
-      "date": "2026-11-17",
-      "name": "Amazon VPC, AWS Transit Gateway, and AWS Cloud WAN now offer a 99.999% availability SLA for cross-Region traffic",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS now offers a 99.999% availability service level agreement (SLA) for cross-Region traffic over Amazon Virtual Private Cloud (Amazon VPC) cross-Region peering, AWS Transit Gateway, and AWS Cloud WAN, with a new capa",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/vpc-tgw-cloudwan-99999-sla/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-17-aws-aws-announces-general-availability-of-aws-intercon",
-      "date": "2026-11-17",
-      "name": "AWS announces general availability of AWS Interconnect - multicloud connectivity with Microsoft Azure",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS announces the general availability of AWS Interconnect - multicloud with Microsoft Azure. </p> \n<p>Customers have been adopting multicloud strategies while migrating more applications to the cloud. They do so for ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-announces-AWS-interconnect-multicloud-azure-ga/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-17-aws-amazon-msk-standard-brokers-now-support-graviton4-",
-      "date": "2026-11-17",
-      "name": "Amazon MSK Standard Brokers now support Graviton4-based M8g instances",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Graviton4-based M8g instances are now generally available for Standard Brokers in Amazon Managed Streaming for Apache Kafka (Amazon MSK). Compared to Standard Brokers on M7g, M8g delivers up to 35% lower P99 produ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-msk-standard-brokers-graviton4-m8g-instances/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-17-aws-amazon-msk-express-brokers-now-support-graviton4-b",
-      "date": "2026-11-17",
-      "name": "Amazon MSK Express Brokers now support Graviton4-based M8g instances",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Graviton4-based M8g instances are now generally available for Express Brokers in Amazon Managed Streaming for Apache Kafka (Amazon MSK). Compared to Express Brokers on M7g, M8g delivers 15% lower compute costs, up",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-msk-express-brokers-graviton4-m8g-instances/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-17-aws-amazon-s3-now-provides-post-quantum-tls-visibility",
-      "date": "2026-11-17",
-      "name": "Amazon S3 now provides post-quantum TLS visibility in AWS CloudTrail",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon S3 now records the TLS key exchange algorithm in AWS CloudTrail for S3 requests, so you can see which requests and clients use post-quantum TLS (PQ-TLS). With this visibility, you can measure the share of your ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-post-quantum-tls-aws-cloudtrail/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-17-aws-aws-security-hub-extends-unified-security-manageme",
-      "date": "2026-11-17",
-      "name": "AWS Security Hub extends unified security management to Google Cloud Platform",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, AWS announces that AWS Security Hub now monitors Google Cloud Platform (GCP) resources, extending risk analytics, cloud security posture management, vulnerability management, and security response management ac",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-gcp/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-17-aws-aws-iam-announces-access-troubleshooter-to-debug-a",
-      "date": "2026-11-17",
-      "name": "AWS IAM announces Access Troubleshooter to debug access denied errors",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Identity and Access Management (IAM) introduces <a href=\"https://docs.aws.amazon.com/IAM/latest/UserGuide/troubleshoot_access-denied-authorization-id.html\" target=\"_blank\">Access Troubleshooter</a>, a new capabili",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/iam-access-troubleshooter/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-17-aws-aws-announces-agentic-account-creation-for-agentic",
-      "date": "2026-11-17",
-      "name": "AWS announces agentic account creation for agentic coding harnesses",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS now enables agentic coding harnesses to open the new AWS sign-up experience for developers who don't have an AWS account yet. Previously, developers working in agentic coding environments like Claude Code, Codex, ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/agentic-account-creation/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-17-aws-amazon-route-53-resolver-dns-firewall-now-supports",
-      "date": "2026-11-17",
-      "name": "Amazon Route 53 Resolver DNS Firewall now supports Infoblox Threat Defense (Preview)",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Web Services announces the preview of Infoblox Threat Defense on <a href=\"https://aws.amazon.com/route53/resolver/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Route 53 Resolver DNS Firewall</a>. Security ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/route53-dns-firewall-infoblox-preview/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-17-aws-aws-announces-consistent-sharing-controls-for-cred",
-      "date": "2026-11-17",
-      "name": "AWS announces consistent sharing controls for credits, Savings Plans, and Reserved Instances",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Billing and Cost Management now gives customers symmetric, granular control over how credits, Reserved Instances, and Savings Plans are shared across their organization. Organizations with grant funding, regulator",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-benefits-sharing-capabilities/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-17-aws-aws-split-cost-allocation-data-now-supports-amazon",
-      "date": "2026-11-17",
-      "name": "AWS Split Cost Allocation Data now supports Amazon S3",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Starting today, you can allocate the storage and request costs of a shared Amazon S3 general purpose bucket to the prefixes in that bucket in the AWS Cost and Usage Report (CUR). Organizations often store data for man",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/split-cost-allocation-data-s3/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-17-aws-amazon-kinesis-data-streams-announces-queues-to-si",
-      "date": "2026-11-17",
-      "name": "Amazon Kinesis Data Streams announces queues to simplify and reduce costs of real-time processing",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/kinesis/data-streams/\">Amazon Kinesis Data Streams</a> now supports queues, a simpler and more cost-effective way to process a stream. Because queues track the delivery state of each re",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/kinesis-data-streams-queues/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-17-aws-amazon-connect-customer-now-supports-case-and-calc",
-      "date": "2026-11-17",
-      "name": "Amazon Connect Customer now supports case and calculated template variables",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://aws.amazon.com/connect/\">Amazon Connect Customer</a> message templates, which personalize each message with details about its recipient, now support case fields from Cases and calculated attributes fr",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/connect-case-and-calculated-attributes/"
         }
       ],
       "impact": 5,
