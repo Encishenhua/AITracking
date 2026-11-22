@@ -37,6 +37,42 @@
       "tags": []
     },
     {
+      "id": "2026-11-21-aws-aws-quick-now-supports-plugins-to-bundle-agents-sk",
+      "date": "2026-11-21",
+      "name": "AWS Quick now supports plugins to bundle agents, skills, connectors and flows",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Quick now supports plugins, agents, skills, connectors, and flows built for a specific task, role, or use case. Most work draws on several of these at once: connectors to reach your systems, skills for how your te",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-plugins-bundle-agents-skills-connectors-flows/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-21-aws-aws-quick-launches-a-new-web-experience-with-updat",
+      "date": "2026-11-21",
+      "name": "AWS Quick launches a new web experience with updated browser extension and Microsoft 365 add-ins",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>The AWS Quick web app now brings the Quick desktop experience to your browser. Create, share, and use the same agents and skills as on desktop, with the same connectors. Start each day with a daily briefing and a prio",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-launches-new-web-experience-updated-browser-extension-microsoft-365-add-ins/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-11-20-openai-combatting-adversarial-distillation",
       "date": "2026-11-20",
       "name": "Combatting adversarial distillation",
@@ -1037,42 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/devops-agent-reduces-latency/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-20-aws-aws-lambda-microvms-now-supports-customer-managed-",
-      "date": "2026-11-20",
-      "name": "AWS Lambda MicroVMs now supports customer managed keys in AWS KMS",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Lambda MicroVMs now supports customer managed keys (CMK) in <a href=\"https://aws.amazon.com/kms/\">AWS Key Management Service</a> (KMS) for data encryption at rest. CMK gives you full control over the lifecycle and",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-microvms-customer-managed-keys/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-20-aws-aws-secrets-store-csi-driver-provider-now-supports",
-      "date": "2026-11-20",
-      "name": "AWS Secrets Store CSI Driver Provider now supports AssumeRole for cross-account secret access",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>The AWS Secrets Store CSI Driver Provider now supports AssumeRole (role-chaining), allowing Kubernetes pods to access secrets and parameters across AWS accounts by assuming an IAM role in the account where the secrets",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/secrets-store-csi-driver-assumerole/"
         }
       ],
       "impact": 5,
