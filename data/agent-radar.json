@@ -19,6 +19,114 @@
       "tags": []
     },
     {
+      "id": "2026-11-24-openai-how-ifood-scales-coding-agents-across-15-000-repos",
+      "date": "2026-11-24",
+      "name": "How iFood scales coding agents across 15,000 repositories",
+      "vendor": "OpenAI",
+      "type": "upgrade",
+      "summary": "November 24, 2026",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://openai.com/business/customer-stories/ifood"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-24-aws-amazon-bedrock-adds-bedrock-runtime-endpoint-suppo",
+      "date": "2026-11-24",
+      "name": "Amazon Bedrock adds bedrock-runtime endpoint support for OpenAI Daybreak Red in AWS GovCloud (US)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Eligible customers can now access OpenAI’s specialized cybersecurity models Daybreak Red: GPT-5.6 Cyber through the bedrock-runtime endpoint on Amazon Bedrock in AWS GovCloud (US).<br /> <br /> Daybreak Red is designe",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/gpt-daybreak-red-runtime-govcloud/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-24-aws-amazon-opensearch-serverless-is-now-available-in-t",
+      "date": "2026-11-24",
+      "name": "Amazon OpenSearch Serverless is now available in the Africa (Cape Town) Region",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, the next generation of Amazon OpenSearch Serverless is available in the AWS Africa (Cape Town) Region. Customers can now use a fully managed search, vector and analytics engine that provisions resource",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-serverless-available-cape-town-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-24-aws-aws-cloudformation-makes-resource-coverage-compreh",
+      "date": "2026-11-24",
+      "name": "AWS CloudFormation makes resource coverage comprehensive with 206 new types",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS CloudFormation now supports 206 additional resource types across 88 services, including Amazon SageMaker Hub, Amazon Bedrock AgentCore PolicyEngine, and Amazon EC2 Snapshot. This closes key gaps in CloudFormation ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudformation-coverage-expansion/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-24-aws-amazon-connect-customer-dashboards-now-support-gro",
+      "date": "2026-11-24",
+      "name": "Amazon Connect Customer dashboards now support grouping historical metrics by time interval",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon Connect Customer analytics dashboards now support grouping historical metrics by time interval on trailing widgets, giving contact center managers granular control over how performance data is visualized over t",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-time-interval/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-24-aws-amazon-rds-for-sql-server-now-supports-up-to-500-d",
+      "date": "2026-11-24",
+      "name": "Amazon RDS for SQL Server now supports up to 500 databases per instance",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/sqlserver/\" target=\"_blank\">Amazon Relational Database Service (Amazon RDS) for SQL Server</a> now supports up to 500 databases per DB instance, up from the previous limit of 100. T",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-sqlserver-supports-500-databases-per-instance"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-11-23-openai-connected-intelligence-for-in-house-legal",
       "date": "2026-11-23",
       "name": "Connected intelligence for in-house legal",
@@ -469,6 +577,168 @@
       "tags": []
     },
     {
+      "id": "2026-11-23-aws-amazon-api-gateway-announces-api-portal",
+      "date": "2026-11-23",
+      "name": "Amazon API Gateway announces API Portal",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, Amazon API Gateway announces <a href=\"https://docs.aws.amazon.com/apigateway/latest/developerguide/apiportal.html\">API Portal</a>, a new feature that discovers, governs, and documents the APIs and AI endpoints ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-announces-api-portal/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-23-aws-amazon-opensearch-service-now-supports-opensearch-",
+      "date": "2026-11-23",
+      "name": "Amazon OpenSearch Service now supports OpenSearch version 3.9",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>You can now run OpenSearch version 3.9 on Amazon OpenSearch Service. OpenSearch 3.9 helps you reduce vector memory and storage, evaluate search quality with more large language model (LLM) providers, build more respon",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-opensearch-3-9"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-23-aws-aws-quick-adds-identity-aware-access-via-3lo-for-s",
+      "date": "2026-11-23",
+      "name": "AWS Quick adds identity-aware access via 3LO for Snowflake and Databricks structured data sources",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS Quick now supports three-legged OAuth (3LO) with end-user permissions for Snowflake and Databricks.&nbsp;When end users in AWS Quick consume Chat, interactive dashboards, or Apps, queries run using their own Snowf",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-snowflake-databricks-3lo-end-user-permissions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-23-aws-rds-postgresql-now-supports-postgresql-19-0-in-the",
+      "date": "2026-11-23",
+      "name": "RDS PostgreSQL now supports PostgreSQL 19.0 in the Amazon RDS Database Preview Environment",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon RDS for PostgreSQL 19.0 is available in the <a href=\"https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/create-db-instance-in-preview-environment.html\" rel=\"noopener noreferrer\" target=\"_bla",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/postgresql-19-amazon-rds-database-preview-environment/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-23-aws-amazon-sagemaker-hyperpod-now-detects-kubernetes-i",
+      "date": "2026-11-23",
+      "name": "Amazon SageMaker HyperPod now detects Kubernetes issues affecting training",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker HyperPod now detects Kubernetes issues that disrupt training, such as crash-looping device plugins or missing DaemonSets, on clusters orchestrated by Amazon EKS. SageMaker HyperPod is purpose-built in",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-hyperpod-k8s-monitoring-agent/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-23-aws-amazon-sagemaker-hyperpod-deep-health-check-now-va",
+      "date": "2026-11-23",
+      "name": "Amazon SageMaker HyperPod deep health check now validates training correctness",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon SageMaker HyperPod clusters orchestrated by Amazon EKS now support MultiNodeTrainingValidation, a deep health check that validates nodes train correctly before your jobs run. SageMaker HyperPod is purpose-built",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-hyperpod-training-validation/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-23-aws-aws-quick-brings-ai-ready-capabilities-to-your-exi",
+      "date": "2026-11-23",
+      "name": "AWS Quick brings AI-ready capabilities to your existing datasets",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS Quick makes your legacy datasets AI ready through the new technology stack used by its improved visual data preparation experience. This stack powers Dataset Semantics, topics and semantic models, and Datas",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-ai-ready-existing-datasets/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-23-aws-aws-devops-agent-adds-access-profiles-and-aws-orga",
+      "date": "2026-11-23",
+      "name": "AWS DevOps Agent adds Access Profiles and AWS Organizations",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>AWS DevOps Agent now gives you more ways to govern and control your AWS DevOps Agent instances.</p> \n<p>With the new Access Profiles feature you can link IAM IDC users in your Agent Spaces to specific permission sets.",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/devops-agent-access-profiles-orgs/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-23-aws-aws-parallel-computing-service-now-supports-split-",
+      "date": "2026-11-23",
+      "name": "AWS Parallel Computing Service now supports Split Cost Allocation Data",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, customers can receive granular cost visibility for AWS Parallel Computing Service (AWS PCS) in the <a href=\"https://aws.amazon.com/aws-cost-management/aws-cost-and-usage-reporting/\">AWS Cost and Usage ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/pcs-supports-split-cost-data/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-11-21-aws-amazon-cloudwatch-omni-now-supports-microsoft-azur",
       "date": "2026-11-21",
       "name": "Amazon CloudWatch Omni now supports Microsoft Azure platform logs, metrics and traces",
@@ -803,276 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-group-assignments-custom-permissions-limit-profiles/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-20-aws-aws-quick-introduces-enterprise-guardrails-preview",
-      "date": "2026-11-20",
-      "name": "AWS Quick introduces enterprise guardrails (preview)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Quick now includes enterprise guardrails, giving administrators configurable content safety and sensitive-information controls for user prompts. Administrators can apply guardrail policies to individual users or e",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-enterprise-guardrails-preview/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-20-aws-aws-announces-data-hub-in-aws-billing-and-cost-man",
-      "date": "2026-11-20",
-      "name": "AWS announces Data Hub in AWS Billing and Cost Management (preview)",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS announces the preview of Data Hub in AWS Billing and Cost Management, a managed data layer that enables AWS FinOps Agent to query cost and usage data with SQL. In preview, Data Hub is available to AWS FinOp",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/data-hub-billing-cost-management-preview/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-20-aws-amazon-cloudwatch-observability-eks-add-on-now-sup",
-      "date": "2026-11-20",
-      "name": "Amazon CloudWatch Observability EKS add-on now supports custom OpenTelemetry and Prometheus telemetry",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, Amazon CloudWatch announces support for your own application telemetry in the CloudWatch Observability EKS add-on. The CloudWatch agent you already run now accepts metrics, traces, and logs from your applicatio",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-eks-addon-custom-telemetry/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-20-aws-amazon-dynamodb-vector-search-now-supports-new-inl",
-      "date": "2026-11-20",
-      "name": "Amazon DynamoDB vector search now supports new inline filter operators",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon DynamoDB vector search inline filters now support range comparisons, value lists, and logical operators in addition to the equality operator, so you can narrow a vector search to exactly the items you want. You",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/dynamodb-vector-filters/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-20-aws-amazon-transcribe-announces-a-synchronous-transcri",
-      "date": "2026-11-20",
-      "name": "Amazon Transcribe announces a synchronous transcription API",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon Transcribe now offers a synchronous transcription API, <b><i>TranscribeAudio</i></b>. Send a complete audio file in a single request and get the full transcript back in the same response. There is no job to sta",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-transcribe-sync-api/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-20-aws-aws-partner-central-agents-now-help-partners-creat",
-      "date": "2026-11-20",
-      "name": "AWS Partner Central Agents now help partners create and manage Partner Central and Marketplace support cases",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Partner Central Agents now help AWS Partners create and manage AWS Partner Central and AWS Marketplace support cases in one place. The agents are available 24/7 and draw on Partner Central account details and auth",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-agents-support/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-20-aws-spend-limits-in-the-new-aws-experience-now-support",
-      "date": "2026-11-20",
-      "name": "Spend limits in the new AWS experience now support SMS alerts",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Builders using the new AWS experience on the Paid plan can now receive spend limit alerts by text message (SMS), alongside existing email notifications. A spend limit sets the maximum monthly cost for a project. Notif",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/sms/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-20-aws-amazon-s3-vectors-raises-the-filterable-metadata-l",
-      "date": "2026-11-20",
-      "name": "Amazon S3 Vectors raises the filterable metadata limit to 40 KB per vector",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon S3 Vectors now supports up to 40 KB of filterable metadata per vector, up from 2 KB. You can attach and filter on more attributes per vector, such as category, permissions, timestamps, and descriptive tags, so ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-vectors-raises-filterable-metadata-40kb-per-vector/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-20-aws-aws-lambda-now-provides-cost-optimization-recommen",
-      "date": "2026-11-20",
-      "name": "AWS Lambda now provides cost optimization recommendations for Event Functions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Lambda now provides cost optimization recommendations for <a href=\"https://docs.aws.amazon.com/lambda/latest/dg/lambda-functions-chapter.html\">Event Functions</a> in <a href=\"https://aws.amazon.com/premiumsupport/",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-cost-optimization-recommendations/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-20-aws-aws-lambda-now-supports-a-batch-size-of-up-to-10-0",
-      "date": "2026-11-20",
-      "name": "AWS Lambda now supports a batch size of up to 10,000 messages for Amazon SQS FIFO queues",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Lambda now supports a batch size of up to 10,000 messages for <a href=\"https://aws.amazon.com/sqs/\">Amazon Simple Queue Service</a> (Amazon SQS) FIFO queue event source mappings (ESMs) in <a href=\"https://docs.aws",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-10K-batch-size-SQSFIFO/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-20-aws-aws-pricing-calculator-now-estimates-workload-cost",
-      "date": "2026-11-20",
-      "name": "AWS Pricing Calculator now estimates workload costs through a new API",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Pricing Calculator now offers GetUsageLinesEstimatedCost, a new API that returns the estimated cost of a planned workload in a single API call. You send up to 500 usage lines in one request and get the cost back r",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-pricing-calculator-api/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-20-aws-aws-billing-and-cost-management-now-offers-apis-to",
-      "date": "2026-11-20",
-      "name": "AWS Billing and Cost Management now offers APIs to track payment status",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Today, AWS Billing and Cost Management announces new APIs that let you view your AWS payment information through the AWS SDKs and the AWS CLI. With these APIs, you can check your account balance, find invoices that ar",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-billing-cost-management-apis-payment-status/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-20-aws-amazon-eventbridge-scheduler-adds-589-new-api-acti",
-      "date": "2026-11-20",
-      "name": "Amazon EventBridge Scheduler adds 589 new API actions and event bus targets",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon EventBridge Scheduler expands its AWS SDK integrations with 589 new API actions across 81 AWS services, and adds templated targets for the enhanced EventBridge Custom event bus. You can now schedule direct invo",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/eventbridge-scheduler-new-api-actions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-20-aws-aws-cloudformation-service-managed-stacksets-adds-",
-      "date": "2026-11-20",
-      "name": "AWS CloudFormation Service-Managed StackSets adds custom execution roles with nested stacks support",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p><a href=\"https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/stacksets-concepts.html\" rel=\"noopener noreferrer\" target=\"_blank\">AWS CloudFormation StackSets</a> now supports custom execution roles for servi",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/stacksets-custom-execution-roles/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-20-aws-amazon-eventbridge-custom-event-bus-now-supports-w",
-      "date": "2026-11-20",
-      "name": "Amazon EventBridge Custom event bus now supports Webhook Events",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon EventBridge now supports Webhook Events for the enhanced Custom event bus, so SaaS applications, AI agents, and custom integrations can send events to a bus over HTTPS. You no longer need to deploy and operate ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eventbridge-webhook-events"
         }
       ],
       "impact": 5,
