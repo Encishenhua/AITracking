@@ -1,6 +1,276 @@
 {
   "items": [
     {
+      "id": "2026-11-25-openai-elevated-errors-with-codex-github-reviews-and-pull",
+      "date": "2026-11-25",
+      "name": "Elevated errors with Codex GitHub reviews and pull request merges",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Monitoring</b><br /><br />GitHub reports that the service disruption affecting pull requests and webhooks has been mitigated. We are monitoring Codex automated pull request reviews and merge operations to conf",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M89RGC3STKK2MT53TXHFMY4H"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-25-openai-chatgpt-chatgpt-work-and-codex-cloud-are-experienc",
+      "date": "2026-11-25",
+      "name": "ChatGPT, ChatGPT Work, and Codex Cloud are experiencing elevated conversation errors",
+      "vendor": "OpenAI",
+      "type": "launch",
+      "summary": "<b>Status: Resolved</b><br /><br />All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.<br /><br /><b>Affected components</b>\n          <ul>\n          <li>C",
+      "sources": [
+        {
+          "title": "OpenAI source",
+          "url": "https://status.openai.com//incidents/01M898HVZGXFV2XC4775CG9GF8"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-25-aws-aws-lambda-now-supports-orchestrating-microvms-wit",
+      "date": "2026-11-25",
+      "name": "AWS Lambda now supports orchestrating MicroVMs with Lambda durable functions",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Today, AWS announces a developer preview of a new extension for orchestrating <a href=\"https://aws.amazon.com/lambda/lambda-microvms/\">Lambda MicroVMs</a> with <a href=\"https://aws.amazon.com/lambda/lambda-durable-fun",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-microvm/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-25-aws-amazon-cloudwatch-omni-now-integrates-with-pagerdu",
+      "date": "2026-11-25",
+      "name": "Amazon CloudWatch Omni now integrates with PagerDuty",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon CloudWatch Omni alerts can now automatically create PagerDuty incidents, so notifications flow directly into your existing incident management workflows. This reduces mean time to resolution (MTTR) by eliminati",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-omni-pagerduty/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-25-aws-amazon-ec2-m8g-instances-are-now-available-in-isra",
+      "date": "2026-11-25",
+      "name": "Amazon EC2 M8g instances are now available in Israel (Tel Aviv)",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M8g instances are available in the Israel (Tel Aviv) region. These instances are powered by AWS Graviton4 processors and deliver up to 30% better performance c",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-m8g-instances-telaviv-region/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-25-aws-amazon-ec2-m9gd-instances-are-now-available-in-asi",
+      "date": "2026-11-25",
+      "name": "Amazon EC2 M9gd instances are now available in Asia Pacific (Seoul)",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M9gd instances are available in the Asia Pacific (Seoul) region. These instances are powered by AWS Graviton5 processors, the fifth generation of custom-design",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-m9gd-asiapacific-seoul/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-25-aws-amazon-ec2-c9gd-instances-now-available-in-additio",
+      "date": "2026-11-25",
+      "name": "Amazon EC2 C9gd instances now available in additional regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C9gd instances are available in the Europe (Ireland, Spain) regions. These instances are powered by AWS Graviton5 processors, the fifth generation of custom-de",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c9gd-instances-additional-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-25-aws-amazon-ec2-c9g-instances-are-now-available-in-addi",
+      "date": "2026-11-25",
+      "name": "Amazon EC2 C9g instances are now available in additional regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) C9g instances are available in the Asia Pacific (Sydney), Europe (Ireland, Spain), and South America (São Paulo) regions. These instances are powered by AWS Gr",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c9g-instances-additional-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-25-aws-amazon-ec2-m9g-instances-now-available-in-addition",
+      "date": "2026-11-25",
+      "name": "Amazon EC2 M9g instances now available in additional regions",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Starting today, Amazon Elastic Compute Cloud (Amazon EC2) M9g instances, powered by AWS Graviton5 processors, are available in US West (N. California), Canada (Central), South America (São Paulo), and Asia Pacific (Se",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-m9g-instances-additional-regions/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-25-aws-elastic-load-balancing-for-envoy-is-now-generally-",
+      "date": "2026-11-25",
+      "name": "Elastic Load Balancing for Envoy is now generally available",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Today, AWS announces the general availability of ELB for Envoy, a new load balancer type in Elastic Load Balancing (ELB) that runs open-source Envoy proxies. Platform teams that run Envoy themselves own upgrades, secu",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/elastic-load-balancing-for-envoy-generally-available"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-25-aws-amazon-transcribe-turbo-more-accurate-transcripts-",
+      "date": "2026-11-25",
+      "name": "Amazon Transcribe Turbo: more accurate transcripts and natural turn-taking for voice agents, now in public preview",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Transcribe Turbo, our next-generation speech-to-text model, is now in public preview in US East (Ohio) for batch and streaming. Turbo improves accuracy, supports custom vocabulary, and formats numbers, dates, c",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/transcribe-turbo-preview/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-25-aws-aws-iot-core-now-uses-dedicated-ipv6-address-range",
+      "date": "2026-11-25",
+      "name": "AWS IoT Core now uses dedicated IPv6 address ranges for the HTTP rule action",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/iot-core/\">AWS IoT Core</a> can now send traffic to HTTPS endpoints within a dedicated, published IPv6 address range. This launch enables you to configure your HTTPS endpoints to accept",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-iot-core-dedicated-ipv6-ranges/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-25-aws-aws-iot-core-quotas-and-usage-are-now-visible-in-a",
+      "date": "2026-11-25",
+      "name": "AWS IoT Core quotas and usage are now visible in AWS Service Quotas console",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://aws.amazon.com/iot-core/\">AWS IoT Core</a> now publishes its most used service quotas and your current usage against the quotas in <a href=\"https://us-east-1.console.aws.amazon.com/servicequotas/home/",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-iot-core-quota-usage-monitoring/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-25-aws-aws-device-farm-now-supports-android-emulators-and",
+      "date": "2026-11-25",
+      "name": "AWS Device Farm now supports Android emulators and iOS simulators",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/device-farm/\">AWS Device Farm</a>, a service for testing mobile and web apps, now supports Android emulators and iOS simulators alongside real devices for automated and manual testing, ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/device-farm-virtual-devices/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-25-aws-aws-iam-extends-trusted-identity-propagation-to-ia",
+      "date": "2026-11-25",
+      "name": "AWS IAM extends trusted identity propagation to IAM federation and IAM Roles Anywhere, and simplifies it in IAM Identity Center",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p><a href=\"https://docs.aws.amazon.com/singlesignon/latest/userguide/trustedidentitypropagation-overview.html\" rel=\"noopener noreferrer\" target=\"_blank\">Trusted identity propagation (TIP)</a> carries the identity of a h",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-iam/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-11-24-crewai-1-15-45",
       "date": "2026-11-24",
       "name": "1.15.45",
@@ -739,6 +1009,24 @@
       "tags": []
     },
     {
+      "id": "2026-11-23-aws-amazon-sagemaker-hyperpod-now-supports-nccl-profil",
+      "date": "2026-11-23",
+      "name": "Amazon SageMaker HyperPod now supports NCCL profiling for training jobs",
+      "vendor": "AWS",
+      "type": "upgrade",
+      "summary": "<p>Amazon SageMaker HyperPod now supports NVIDIA Collective Communications Library (NCCL) profiling with the HyperPod NCCL Profiler, giving you visibility into communication performance across the nodes and GPUs in a dis",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-hyperpod-nccl-profiler/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-11-21-aws-amazon-cloudwatch-omni-now-supports-microsoft-azur",
       "date": "2026-11-21",
       "name": "Amazon CloudWatch Omni now supports Microsoft Azure platform logs, metrics and traces",
@@ -785,294 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-plugins-bundle-agents-skills-connectors-flows/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-21-aws-aws-quick-launches-a-new-web-experience-with-updat",
-      "date": "2026-11-21",
-      "name": "AWS Quick launches a new web experience with updated browser extension and Microsoft 365 add-ins",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>The AWS Quick web app now brings the Quick desktop experience to your browser. Create, share, and use the same agents and skills as on desktop, with the same connectors. Start each day with a daily briefing and a prio",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-launches-new-web-experience-updated-browser-extension-microsoft-365-add-ins/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-21-aws-aws-certificate-manager-now-supports-amazon-n2-cer",
-      "date": "2026-11-21",
-      "name": "AWS Certificate Manager now supports Amazon N2 certificates for mTLS",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/certificate-manager/\">AWS Certificate Manager</a> (ACM) now issues Amazon N2 certificates for mutual TLS (mTLS) and other authentication outside web browsers. ACM public certificates no",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/acm-amazon-n2-certificates/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-21-aws-amazon-cloudwatch-query-studio-now-supports-saved-",
-      "date": "2026-11-21",
-      "name": "Amazon CloudWatch Query Studio now supports saved queries",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon CloudWatch Query Studio now lets you save your PromQL and SQL metrics queries and reuse them. You no longer need to rewrite or search for queries you run often, such as a latency query you check during every in",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-query-studio-saved-queries"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-20-openai-combatting-adversarial-distillation",
-      "date": "2026-11-20",
-      "name": "Combatting adversarial distillation",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/index/combatting-adversarial-distillation"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-20-openai-hebbia-sees-improvements-in-financial-research-wit",
-      "date": "2026-11-20",
-      "name": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "vendor": "OpenAI",
-      "type": "launch",
-      "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-      "sources": [
-        {
-          "title": "OpenAI source",
-          "url": "https://openai.com/business/customer-stories/hebbia"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-20-aws-aws-lambda-now-publishes-event-function-state-chan",
-      "date": "2026-11-20",
-      "name": "AWS Lambda now publishes Event Function state change events to Amazon EventBridge",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/lambda/\" rel=\"noopener noreferrer\" target=\"_blank\">AWS Lambda</a>&nbsp;now publishes Event Function state change events to <a href=\"https://aws.amazon.com/eventbridge/\" rel=\"noopener no",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-function-state-events/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-20-aws-aws-network-firewall-introduces-automated-internet",
-      "date": "2026-11-20",
-      "name": "AWS Network Firewall introduces automated Internet firewall in public preview",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>AWS Network Firewall announces the public preview of automated Internet firewall, a new centralized control that allows you to configure Network Firewall, with native network address translation (NAT) capability, on t",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/network-firewall-automated-internet/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-20-aws-amazon-rds-for-oracle-now-supports-replica-first-p",
-      "date": "2026-11-20",
-      "name": "Amazon RDS for Oracle now supports Replica First Patching for reduced downtime",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/rds/oracle/\">Amazon Relational Database Service (Amazon RDS) for Oracle</a> now supports Replica First Patching, which reduces downtime during minor version upgrades. Replica First Patc",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-replica-first-patching/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-20-aws-amazon-cognito-extends-multi-region-replication-to",
-      "date": "2026-11-20",
-      "name": "Amazon Cognito extends multi-Region replication to additional AWS Regions",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><a href=\"https://aws.amazon.com/cognito/\">Amazon Cognito</a> multi-Region replication (MRR) now supports additional AWS Regions, extending the resilience benefits of MRR to more workloads. Amazon Cognito helps you imp",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-mrr-opt-in-regions/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-20-aws-amazon-neptune-serverless-now-delivers-up-to-30-be",
-      "date": "2026-11-20",
-      "name": "Amazon Neptune Serverless now delivers up to 30% better performance and smarter scaling",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p><span style=\"color: inherit;\"><span style=\"color: inherit;\"><span style=\"color: inherit;\"><a href=\"https://docs.aws.amazon.com/neptune/latest/userguide/neptune-serverless.html\" rel=\"noopener noreferrer\" style=\"color: ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-neptune-serverless-r8g-generally-available"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-20-aws-amazon-cloudwatch-extends-the-promql-query-window-",
-      "date": "2026-11-20",
-      "name": "Amazon CloudWatch extends the PromQL query window to 30 days",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Amazon CloudWatch now supports a 30-day query window for PromQL queries against OpenTelemetry metrics, up from 7 days. You can query a month of data in a single request, chart month-over-month and week-over-week trend",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-promql-query-30days/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-20-aws-account-mapping-and-planning-now-available-in-aws-",
-      "date": "2026-11-20",
-      "name": "Account Mapping and Planning now available in AWS Partner Central",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Partners can now map their target accounts against AWS records and find where to collaborate with AWS on joint go-to-market before an opportunity exists. Account Mapping and Planning in AWS Partner Central replace",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/account-mapping-and-planning/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-20-aws-demand-center-now-available-in-aws-partner-central",
-      "date": "2026-11-20",
-      "name": "Demand Center now available in AWS Partner Central",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Partners can now plan, launch, fund, and measure demand generation campaigns in one AI-powered experience. Demand Center in AWS Partner Central succeeds Marketing Central and brings together Marketing Central and ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/demand-center-partner-central/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-20-aws-lead-groups-and-channel-recommendations-now-availa",
-      "date": "2026-11-20",
-      "name": "Lead groups and channel recommendations now available in AWS Partner Central",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Partners can now organize enriched leads and plan outreach with lead groups and channel recommendations in AWS Partner Central. Enriched leads are automatically grouped by solution area and segmented into sales-re",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-lead-groups/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-20-aws-amazon-cloudwatch-eks-container-insights-now-offer",
-      "date": "2026-11-20",
-      "name": "Amazon CloudWatch EKS Container Insights now offers built-in monitoring for open source Kubernetes tools",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Today, Amazon CloudWatch announces built-in monitoring for open source tools running on your Amazon EKS clusters, including Karpenter, KEDA, vLLM, KServe, SGLang, Ray and Knative Serving. You get dashboards for the to",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-eks-kubernetes-tools/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-20-aws-aws-quick-now-supports-group-assignments-for-custo",
-      "date": "2026-11-20",
-      "name": "AWS Quick now supports group assignments for custom permissions and limit profiles",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Quick now supports assignments for custom permissions and limit profiles to groups from your enterprise identity provider (IdP).&nbsp;Administrators can now apply feature restrictions and per-user resource limits ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-group-assignments-custom-permissions-limit-profiles/"
         }
       ],
       "impact": 5,
