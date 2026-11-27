@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "2026-11-26-aws-amazon-rds-for-postgresql-supports-minor-versions-",
+      "date": "2026-11-26",
+      "name": "Amazon RDS for PostgreSQL supports minor versions 18.7, 17.12, 16.16, 15.20, and 14.25",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/rds/postgresql/\" rel=\"noopener noreferrer\" target=\"_blank\">Amazon Relational Database Service (RDS) for PostgreSQL</a> now supports the latest minor versions 18.7, 17.12, 16.16, 15.20, ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-postgresql-18-7-17-12-16-16-15-20-14-25/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-11-25-openai-elevated-errors-with-codex-github-reviews-and-pull",
       "date": "2026-11-25",
       "name": "Elevated errors with Codex GitHub reviews and pull request merges",
@@ -389,6 +407,24 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/rds-sqlserver-supports-500-databases-per-instance"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-24-aws-amazon-opensearch-service-new-engine-now-joins-log",
+      "date": "2026-11-24",
+      "name": "Amazon OpenSearch Service new engine now joins logs, traces, and metadata",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon OpenSearch Service now supports distributed joins, high-cardinality aggregations, and OpenSearch query DSL on the new engine. Observability data often spans logs, traces, service metadata, deployment records, a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-service-distributed-joins"
         }
       ],
       "impact": 5,
@@ -1037,42 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-omni-microsoft-azure"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-21-aws-web-search-on-amazon-bedrock-expands-language-supp",
-      "date": "2026-11-21",
-      "name": "Web Search on Amazon Bedrock expands language support and country-aware search",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Web Search on Amazon Bedrock, the tool that grounds AI agents and applications in cited, current web information, now supports five new languages, plus non-US English, on Amazon Bedrock AgentCore and Amazon Bedrock: S",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/web-search-amazon-bedrock/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-21-aws-aws-quick-now-supports-plugins-to-bundle-agents-sk",
-      "date": "2026-11-21",
-      "name": "AWS Quick now supports plugins to bundle agents, skills, connectors and flows",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS Quick now supports plugins, agents, skills, connectors, and flows built for a specific task, role, or use case. Most work draws on several of these at once: connectors to reach your systems, skills for how your te",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-plugins-bundle-agents-skills-connectors-flows/"
         }
       ],
       "impact": 5,
