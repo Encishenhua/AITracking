@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "id": "2026-11-27-aws-amazon-timestream-for-influxdb-3-now-supports-hete",
+      "date": "2026-11-27",
+      "name": "Amazon Timestream for InfluxDB 3 now supports heterogeneous clusters",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon Timestream for InfluxDB 3 now supports heterogeneous clusters, which let you assign a different instance size to each node role in an InfluxDB 3 Enterprise cluster. You can size the writer, reader, and compacto",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/influxdb-heterogeneous-cluster/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-27-aws-amazon-cloudwatch-announces-basic-opentelemetry-en",
+      "date": "2026-11-27",
+      "name": "Amazon CloudWatch announces basic OpenTelemetry enrichment at no additional cost",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p>Amazon CloudWatch now offers basic OpenTelemetry enrichment for AWS service metrics at no additional cost. Basic enrichment turns the metrics that AWS services publish to CloudWatch into OpenTelemetry data points you ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-opentelemetry-enrichment/"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-27-aws-amazon-neptune-introduces-neptune-graph-sessions-s",
+      "date": "2026-11-27",
+      "name": "Amazon Neptune introduces Neptune Graph Sessions, smaller graphs designed for agents that scale to zero and resume automatically",
+      "vendor": "AWS",
+      "type": "pricing",
+      "summary": "<p><a href=\"https://aws.amazon.com/neptune/\">Amazon Neptune</a> now supports Neptune Graph Sessions, a compute mode designed for agents that scales memory and CPU automatically and scales to zero when idle. You can give ",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-neptune-graph-sessions-generally-available"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-11-26-aws-amazon-rds-for-postgresql-supports-minor-versions-",
       "date": "2026-11-26",
       "name": "Amazon RDS for PostgreSQL supports minor versions 18.7, 17.12, 16.16, 15.20, and 14.25",
@@ -289,6 +343,24 @@
       "tags": []
     },
     {
+      "id": "2026-11-25-aws-amazon-opensearch-service-optimised-engine-now-pub",
+      "date": "2026-11-25",
+      "name": "Amazon OpenSearch Service optimised engine now publishes data to Amazon S3 Tables",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>The optimized engine for observability in Amazon OpenSearch Service now lets customers who send observability data directly to OpenSearch publish that data to Amazon S3 Tables. These customers can search and analyze d",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-service-publish-s3-tables"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
       "id": "2026-11-24-crewai-1-15-45",
       "date": "2026-11-24",
       "name": "1.15.45",
@@ -421,6 +493,24 @@
       "vendor": "AWS",
       "type": "launch",
       "summary": "<p>Amazon OpenSearch Service now supports distributed joins, high-cardinality aggregations, and OpenSearch query DSL on the new engine. Observability data often spans logs, traces, service metadata, deployment records, a",
+      "sources": [
+        {
+          "title": "AWS source",
+          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-service-distributed-joins"
+        }
+      ],
+      "impact": 5,
+      "risk": 3,
+      "audience": "enterprise",
+      "tags": []
+    },
+    {
+      "id": "2026-11-24-aws-amazon-opensearch-service-optimized-engine-support",
+      "date": "2026-11-24",
+      "name": "Amazon OpenSearch Service optimized engine supports high-cardinality query and DSL",
+      "vendor": "AWS",
+      "type": "launch",
+      "summary": "<p>Amazon OpenSearch Service now supports distributed joins, high-cardinality aggregations, and OpenSearch query DSL on the new engine. Observability data often spans logs, traces, and agent traces. Engineers and their A",
       "sources": [
         {
           "title": "AWS source",
@@ -983,96 +1073,6 @@
         {
           "title": "AWS source",
           "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-hyperpod-training-validation/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-23-aws-aws-quick-brings-ai-ready-capabilities-to-your-exi",
-      "date": "2026-11-23",
-      "name": "AWS Quick brings AI-ready capabilities to your existing datasets",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Today, AWS Quick makes your legacy datasets AI ready through the new technology stack used by its improved visual data preparation experience. This stack powers Dataset Semantics, topics and semantic models, and Datas",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-ai-ready-existing-datasets/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-23-aws-aws-devops-agent-adds-access-profiles-and-aws-orga",
-      "date": "2026-11-23",
-      "name": "AWS DevOps Agent adds Access Profiles and AWS Organizations",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>AWS DevOps Agent now gives you more ways to govern and control your AWS DevOps Agent instances.</p> \n<p>With the new Access Profiles feature you can link IAM IDC users in your Agent Spaces to specific permission sets.",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/devops-agent-access-profiles-orgs/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-23-aws-aws-parallel-computing-service-now-supports-split-",
-      "date": "2026-11-23",
-      "name": "AWS Parallel Computing Service now supports Split Cost Allocation Data",
-      "vendor": "AWS",
-      "type": "launch",
-      "summary": "<p>Starting today, customers can receive granular cost visibility for AWS Parallel Computing Service (AWS PCS) in the <a href=\"https://aws.amazon.com/aws-cost-management/aws-cost-and-usage-reporting/\">AWS Cost and Usage ",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/pcs-supports-split-cost-data/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-23-aws-amazon-sagemaker-hyperpod-now-supports-nccl-profil",
-      "date": "2026-11-23",
-      "name": "Amazon SageMaker HyperPod now supports NCCL profiling for training jobs",
-      "vendor": "AWS",
-      "type": "upgrade",
-      "summary": "<p>Amazon SageMaker HyperPod now supports NVIDIA Collective Communications Library (NCCL) profiling with the HyperPod NCCL Profiler, giving you visibility into communication performance across the nodes and GPUs in a dis",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-hyperpod-nccl-profiler/"
-        }
-      ],
-      "impact": 5,
-      "risk": 3,
-      "audience": "enterprise",
-      "tags": []
-    },
-    {
-      "id": "2026-11-21-aws-amazon-cloudwatch-omni-now-supports-microsoft-azur",
-      "date": "2026-11-21",
-      "name": "Amazon CloudWatch Omni now supports Microsoft Azure platform logs, metrics and traces",
-      "vendor": "AWS",
-      "type": "pricing",
-      "summary": "<p>Amazon CloudWatch Omni now supports collecting Azure resource logs, Azure Monitor platform metrics, virtual network (VNet) flow logs, and traces from Application Insights. Teams that run workloads on both AWS and Azur",
-      "sources": [
-        {
-          "title": "AWS source",
-          "url": "https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-omni-microsoft-azure"
         }
       ],
       "impact": 5,
